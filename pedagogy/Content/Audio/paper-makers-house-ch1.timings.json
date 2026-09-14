@@ -1,0 +1,457 @@
+{
+  "story_id": "paper-makers-house",
+  "chapter": 1,
+  "total_duration_ms": 350520,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Ji-eun was eleven and lived in Seoul, in a small apartment on the eleventh floor of a building with an elevator that always smelled faintly of pine cleaner.",
+      "start_ms": 1537,
+      "end_ms": 10817
+    },
+    {
+      "index": 1,
+      "text": "Her mother worked at a hospital and her father taught at a middle school and they were very busy people.",
+      "start_ms": 10817,
+      "end_ms": 17024
+    },
+    {
+      "index": 2,
+      "text": "Every summer, in the second half of June, Ji-eun took the KTX bullet train south to Andong, an old city in the mountains of Gyeongsangbuk-do, and spent two weeks with her father's father.",
+      "start_ms": 17024,
+      "end_ms": 28137
+    },
+    {
+      "index": 3,
+      "text": "Her grandfather, whom she called Harabeoji, lived alone in a small traditional hanok house on the edge of town.",
+      "start_ms": 28137,
+      "end_ms": 34757
+    },
+    {
+      "index": 4,
+      "text": "Ji-eun had been coming to visit since she was five, but this was the first summer she had come by herself.",
+      "start_ms": 34757,
+      "end_ms": 41082
+    },
+    {
+      "index": 5,
+      "text": "Her mother was expecting a baby in September and could not travel this year.",
+      "start_ms": 41082,
+      "end_ms": 45693
+    },
+    {
+      "index": 6,
+      "text": "Harabeoji was seventy-two.",
+      "start_ms": 45693,
+      "end_ms": 47289
+    },
+    {
+      "index": 7,
+      "text": "He was small and quiet and wore his silver hair cut short.",
+      "start_ms": 47289,
+      "end_ms": 50776
+    },
+    {
+      "index": 8,
+      "text": "He had made hanji — traditional Korean paper, made from the bark of the paper mulberry tree — since he was twenty years old.",
+      "start_ms": 50776,
+      "end_ms": 58165
+    },
+    {
+      "index": 9,
+      "text": "That was fifty-two years of paper.",
+      "start_ms": 58165,
+      "end_ms": 60234
+    },
+    {
+      "index": 10,
+      "text": "He had learned from his own father, who had learned from his father, who had learned from a monk at a temple in the mountains.",
+      "start_ms": 60234,
+      "end_ms": 67741
+    },
+    {
+      "index": 11,
+      "text": "The workshop where he made the paper was a low wooden building behind the house, with sliding paper-screened doors and racks of drying paper along every wall.",
+      "start_ms": 67741,
+      "end_ms": 77199
+    },
+    {
+      "index": 12,
+      "text": "Harabeoji met her at the small station in Andong and drove her back to the hanok in his old grey car.",
+      "start_ms": 77199,
+      "end_ms": 83228
+    },
+    {
+      "index": 13,
+      "text": "The car was as quiet as he was.",
+      "start_ms": 83228,
+      "end_ms": 85120
+    },
+    {
+      "index": 14,
+      "text": "On the way he asked her three questions — how was her mother, how was school, how was the baby — and after she answered he did not ask anything else.",
+      "start_ms": 85120,
+      "end_ms": 93987
+    },
+    {
+      "index": 15,
+      "text": "This was normal.",
+      "start_ms": 93987,
+      "end_ms": 94992
+    },
+    {
+      "index": 16,
+      "text": "Ji-eun had learned that Harabeoji was not a man who talked to fill silence.",
+      "start_ms": 94992,
+      "end_ms": 99484
+    },
+    {
+      "index": 17,
+      "text": "He talked when there was a thing to say, and otherwise he was quiet, and the quiet was comfortable.",
+      "start_ms": 99484,
+      "end_ms": 105336
+    },
+    {
+      "index": 18,
+      "text": "At the hanok, he made her tea, and they sat at the low table and drank it, looking through the open door at the persimmon tree in the small courtyard.",
+      "start_ms": 105336,
+      "end_ms": 114767
+    },
+    {
+      "index": 19,
+      "text": "When they had finished, he said, \"Tomorrow.",
+      "start_ms": 114767,
+      "end_ms": 117515
+    },
+    {
+      "index": 20,
+      "text": "The workshop.",
+      "start_ms": 117515,
+      "end_ms": 118389
+    },
+    {
+      "index": 21,
+      "text": "I have a big order.",
+      "start_ms": 118389,
+      "end_ms": 119638
+    },
+    {
+      "index": 22,
+      "text": "You can help.\" That was the beginning of the two weeks.",
+      "start_ms": 119638,
+      "end_ms": 123198
+    },
+    {
+      "index": 23,
+      "text": "The work of hanji was long and slow and had many steps.",
+      "start_ms": 123198,
+      "end_ms": 126695
+    },
+    {
+      "index": 24,
+      "text": "Ji-eun had helped with some of them, in past summers — she was old enough now to be trusted with the smaller tasks.",
+      "start_ms": 126695,
+      "end_ms": 133940
+    },
+    {
+      "index": 25,
+      "text": "In June, they gathered the young stems of the paper mulberry — which Harabeoji had already done, mostly — and stripped the bark.",
+      "start_ms": 133940,
+      "end_ms": 141997
+    },
+    {
+      "index": 26,
+      "text": "Then the bark was boiled with a natural lye of wood ash for many hours until it softened.",
+      "start_ms": 141997,
+      "end_ms": 147618
+    },
+    {
+      "index": 27,
+      "text": "Then it was rinsed in the cold stream that ran past the back of the workshop.",
+      "start_ms": 147618,
+      "end_ms": 152489
+    },
+    {
+      "index": 28,
+      "text": "Then it was beaten — patiently, patiently, with a wooden mallet on a stone — until it broke down into short fibers.",
+      "start_ms": 152489,
+      "end_ms": 159734
+    },
+    {
+      "index": 29,
+      "text": "Then those fibers were mixed with water and a natural mucilage from a plant called dak-pul in a large wide wooden vat.",
+      "start_ms": 159734,
+      "end_ms": 167166
+    },
+    {
+      "index": 30,
+      "text": "Then Harabeoji, standing at the vat with a large flat bamboo screen in his hands, dipped and lifted, dipped and lifted, layering the fibers on the screen until they became a single sheet.",
+      "start_ms": 167166,
+      "end_ms": 178907
+    },
+    {
+      "index": 31,
+      "text": "Then the sheet was pressed.",
+      "start_ms": 178907,
+      "end_ms": 180656
+    },
+    {
+      "index": 32,
+      "text": "Then it was dried on a hot smooth board.",
+      "start_ms": 180656,
+      "end_ms": 183217
+    },
+    {
+      "index": 33,
+      "text": "Only then was it hanji.",
+      "start_ms": 183217,
+      "end_ms": 184778
+    },
+    {
+      "index": 34,
+      "text": "One sheet took a week of work if you counted every step.",
+      "start_ms": 184778,
+      "end_ms": 188338
+    },
+    {
+      "index": 35,
+      "text": "Harabeoji made maybe forty sheets a week when the season was good.",
+      "start_ms": 188338,
+      "end_ms": 192522
+    },
+    {
+      "index": 36,
+      "text": "He had customers in Seoul who bought his paper for calligraphy and traditional bookbinding.",
+      "start_ms": 192522,
+      "end_ms": 198268
+    },
+    {
+      "index": 37,
+      "text": "He was not rich.",
+      "start_ms": 198268,
+      "end_ms": 199330
+    },
+    {
+      "index": 38,
+      "text": "He did not want to be rich.",
+      "start_ms": 199330,
+      "end_ms": 201079
+    },
+    {
+      "index": 39,
+      "text": "He wanted, he had once told Ji-eun's mother, to keep making paper until his hands no longer worked, and then, when he could not make paper anymore, to sit quietly by the persimmon tree until it was time to be finished.",
+      "start_ms": 201079,
+      "end_ms": 214756
+    },
+    {
+      "index": 40,
+      "text": "Ji-eun had heard her mother repeat this to her father, once, when they thought she was not listening.",
+      "start_ms": 214756,
+      "end_ms": 221064
+    },
+    {
+      "index": 41,
+      "text": "Every sheet Harabeoji made, he numbered.",
+      "start_ms": 221064,
+      "end_ms": 223508
+    },
+    {
+      "index": 42,
+      "text": "This Ji-eun had watched her whole life.",
+      "start_ms": 223508,
+      "end_ms": 225893
+    },
+    {
+      "index": 43,
+      "text": "When a sheet came off the drying board, cool and smooth, Harabeoji would take it to the low table by the door, and with a very small brush and a very small pot of dark ink, he would write in the bottom right corner a number and a small character.",
+      "start_ms": 225893,
+      "end_ms": 240617
+    },
+    {
+      "index": 44,
+      "text": "The number was the count of the sheet — one, two, three, four, all the way up.",
+      "start_ms": 240617,
+      "end_ms": 245326
+    },
+    {
+      "index": 45,
+      "text": "The character was the season — spring, summer, autumn, winter.",
+      "start_ms": 245326,
+      "end_ms": 249081
+    },
+    {
+      "index": 46,
+      "text": "The last sheet he had made before Ji-eun arrived this June was numbered forty-one thousand six hundred and seventeen.",
+      "start_ms": 249081,
+      "end_ms": 256116
+    },
+    {
+      "index": 47,
+      "text": "Summer.",
+      "start_ms": 256116,
+      "end_ms": 256652
+    },
+    {
+      "index": 48,
+      "text": "\"Why do you number them, Harabeoji?\" Ji-eun asked, that first evening at supper.",
+      "start_ms": 256652,
+      "end_ms": 261481
+    },
+    {
+      "index": 49,
+      "text": "He had been numbering the day's four sheets.",
+      "start_ms": 261481,
+      "end_ms": 264163
+    },
+    {
+      "index": 50,
+      "text": "She had watched.",
+      "start_ms": 264163,
+      "end_ms": 265176
+    },
+    {
+      "index": 51,
+      "text": "He looked up.",
+      "start_ms": 265176,
+      "end_ms": 266011
+    },
+    {
+      "index": 52,
+      "text": "He thought for a moment.",
+      "start_ms": 266011,
+      "end_ms": 267501
+    },
+    {
+      "index": 53,
+      "text": "He said, \"Because each one is a week.",
+      "start_ms": 267501,
+      "end_ms": 269767
+    },
+    {
+      "index": 54,
+      "text": "Making one sheet takes a week.",
+      "start_ms": 269767,
+      "end_ms": 271614
+    },
+    {
+      "index": 55,
+      "text": "So each number is a week of my life.",
+      "start_ms": 271614,
+      "end_ms": 273820
+    },
+    {
+      "index": 56,
+      "text": "It is a way of counting.\" He went back to eating.",
+      "start_ms": 273820,
+      "end_ms": 276801
+    },
+    {
+      "index": 57,
+      "text": "He did not say more.",
+      "start_ms": 276801,
+      "end_ms": 278053
+    },
+    {
+      "index": 58,
+      "text": "That was all he said about the numbers, that evening.",
+      "start_ms": 278053,
+      "end_ms": 281331
+    },
+    {
+      "index": 59,
+      "text": "Ji-eun had not thought about it before as counting a life.",
+      "start_ms": 281331,
+      "end_ms": 284848
+    },
+    {
+      "index": 60,
+      "text": "She looked at the small pot of ink for a long time after supper.",
+      "start_ms": 284848,
+      "end_ms": 288783
+    },
+    {
+      "index": 61,
+      "text": "On the second day, in the afternoon, it began to rain — a heavy summer monsoon rain that came suddenly out of a grey sky.",
+      "start_ms": 288783,
+      "end_ms": 296055
+    },
+    {
+      "index": 62,
+      "text": "Harabeoji had walked into town to buy something at the small hardware shop.",
+      "start_ms": 296055,
+      "end_ms": 300586
+    },
+    {
+      "index": 63,
+      "text": "Ji-eun was alone at the hanok.",
+      "start_ms": 300586,
+      "end_ms": 302434
+    },
+    {
+      "index": 64,
+      "text": "She had finished her book.",
+      "start_ms": 302434,
+      "end_ms": 304043
+    },
+    {
+      "index": 65,
+      "text": "She thought about the workshop.",
+      "start_ms": 304043,
+      "end_ms": 305951
+    },
+    {
+      "index": 66,
+      "text": "She had never explored it fully by herself.",
+      "start_ms": 305951,
+      "end_ms": 308574
+    },
+    {
+      "index": 67,
+      "text": "She grabbed her small rain jacket and ran across the courtyard in the rain and slid open the workshop door.",
+      "start_ms": 308574,
+      "end_ms": 314952
+    },
+    {
+      "index": 68,
+      "text": "Inside, it was cool and dim and smelled of wet mulberry and pine smoke.",
+      "start_ms": 314952,
+      "end_ms": 319830
+    },
+    {
+      "index": 69,
+      "text": "The rain drummed softly on the tile roof.",
+      "start_ms": 319830,
+      "end_ms": 322675
+    },
+    {
+      "index": 70,
+      "text": "Ji-eun wandered.",
+      "start_ms": 322675,
+      "end_ms": 323827
+    },
+    {
+      "index": 71,
+      "text": "She looked at the drying boards on the wall, the stacks of finished paper on the shelves, the small brushes in their bamboo holder.",
+      "start_ms": 323827,
+      "end_ms": 332770
+    },
+    {
+      "index": 72,
+      "text": "In the back, in the corner where she had never been because the light was poor and Harabeoji had never asked her to go there, was a low wooden shelf she had not noticed before.",
+      "start_ms": 332770,
+      "end_ms": 344761
+    },
+    {
+      "index": 73,
+      "text": "On the shelf was a wooden box, plain, unmarked.",
+      "start_ms": 344761,
+      "end_ms": 348013
+    },
+    {
+      "index": 74,
+      "text": "Ji-eun crouched down and slid it out.",
+      "start_ms": 348013,
+      "end_ms": 350520
+    }
+  ]
+}

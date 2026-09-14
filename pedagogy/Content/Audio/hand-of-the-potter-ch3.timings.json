@@ -1,0 +1,745 @@
+{
+  "story_id": "hand-of-the-potter",
+  "chapter": 3,
+  "total_duration_ms": 327384,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On Rafael's last day, Avôlo brought out something Rafael had never seen before.",
+      "start_ms": 2293,
+      "end_ms": 7388
+    },
+    {
+      "index": 1,
+      "text": "It was a very small dark clay bowl, maybe seven centimeters wide.",
+      "start_ms": 7388,
+      "end_ms": 11592
+    },
+    {
+      "index": 2,
+      "text": "It was slightly crooked.",
+      "start_ms": 11592,
+      "end_ms": 13185
+    },
+    {
+      "index": 3,
+      "text": "The walls were uneven.",
+      "start_ms": 13185,
+      "end_ms": 14650
+    },
+    {
+      "index": 4,
+      "text": "Its glaze was a very old dark green that had faded in places.",
+      "start_ms": 14650,
+      "end_ms": 18599
+    },
+    {
+      "index": 5,
+      "text": "Avôlo held it in both hands.",
+      "start_ms": 18599,
+      "end_ms": 20446
+    },
+    {
+      "index": 6,
+      "text": "He said, \"This is the bowl I made when I was ten.",
+      "start_ms": 20446,
+      "end_ms": 23630
+    },
+    {
+      "index": 7,
+      "text": "When my mother died.",
+      "start_ms": 23630,
+      "end_ms": 24968
+    },
+    {
+      "index": 8,
+      "text": "I told you about it.",
+      "start_ms": 24968,
+      "end_ms": 26306
+    },
+    {
+      "index": 9,
+      "text": "This is that bowl.\" Rafael took it very carefully.",
+      "start_ms": 26306,
+      "end_ms": 29554
+    },
+    {
+      "index": 10,
+      "text": "It was so light.",
+      "start_ms": 29554,
+      "end_ms": 30637
+    },
+    {
+      "index": 11,
+      "text": "It had the same shape as his own first bowl, more or less.",
+      "start_ms": 30637,
+      "end_ms": 34395
+    },
+    {
+      "index": 12,
+      "text": "He was moved without knowing exactly why.",
+      "start_ms": 34395,
+      "end_ms": 37134
+    },
+    {
+      "index": 13,
+      "text": "\"I want you to take one of your bowls home,\" said Avôlo.",
+      "start_ms": 37134,
+      "end_ms": 40764
+    },
+    {
+      "index": 14,
+      "text": "\"Any one.",
+      "start_ms": 40764,
+      "end_ms": 41401
+    },
+    {
+      "index": 15,
+      "text": "Your favorite.",
+      "start_ms": 41401,
+      "end_ms": 42356
+    },
+    {
+      "index": 16,
+      "text": "Keep it.",
+      "start_ms": 42356,
+      "end_ms": 42930
+    },
+    {
+      "index": 17,
+      "text": "Put it somewhere you will see it every day.",
+      "start_ms": 42930,
+      "end_ms": 45732
+    },
+    {
+      "index": 18,
+      "text": "In fifty years, when I am gone and you are old, you will hold it and you will remember.",
+      "start_ms": 45732,
+      "end_ms": 51337
+    },
+    {
+      "index": 19,
+      "text": "That is how this works.\" Rafael picked the smallest of his three bowls.",
+      "start_ms": 51337,
+      "end_ms": 55923
+    },
+    {
+      "index": 20,
+      "text": "It was slightly lopsided, but he had liked it best when he made it.",
+      "start_ms": 55923,
+      "end_ms": 60254
+    },
+    {
+      "index": 21,
+      "text": "\"I will take this one,\" he said.",
+      "start_ms": 60254,
+      "end_ms": 62420
+    },
+    {
+      "index": 22,
+      "text": "Avôlo took down a small carved wooden box from the top shelf.",
+      "start_ms": 62420,
+      "end_ms": 66369
+    },
+    {
+      "index": 23,
+      "text": "Inside was another very small bowl — a fresh one, unglazed, unfired.",
+      "start_ms": 66369,
+      "end_ms": 70764
+    },
+    {
+      "index": 24,
+      "text": "He set it on the workbench.",
+      "start_ms": 70764,
+      "end_ms": 72547
+    },
+    {
+      "index": 25,
+      "text": "He said, \"And this one I want you to help me finish.",
+      "start_ms": 72547,
+      "end_ms": 75923
+    },
+    {
+      "index": 26,
+      "text": "I made this last week — I threw it on the wheel while you were watching me.",
+      "start_ms": 75923,
+      "end_ms": 80764
+    },
+    {
+      "index": 27,
+      "text": "I want you to glaze it.",
+      "start_ms": 80764,
+      "end_ms": 82292
+    },
+    {
+      "index": 28,
+      "text": "Then we will fire it.",
+      "start_ms": 82292,
+      "end_ms": 83694
+    },
+    {
+      "index": 29,
+      "text": "And then — this one stays with me.",
+      "start_ms": 83694,
+      "end_ms": 85923
+    },
+    {
+      "index": 30,
+      "text": "On my table.",
+      "start_ms": 85923,
+      "end_ms": 86751
+    },
+    {
+      "index": 31,
+      "text": "So that every day I eat, I will look at it, and I will think of you.\"",
+      "start_ms": 86751,
+      "end_ms": 91273
+    },
+    {
+      "index": 32,
+      "text": "Rafael did not know what to say.",
+      "start_ms": 91273,
+      "end_ms": 93375
+    },
+    {
+      "index": 33,
+      "text": "He said, quietly, \"But I have not learned to glaze yet.\" Avôlo smiled.",
+      "start_ms": 93375,
+      "end_ms": 97897
+    },
+    {
+      "index": 34,
+      "text": "He said, \"Then I will teach you now.",
+      "start_ms": 97897,
+      "end_ms": 100254
+    },
+    {
+      "index": 35,
+      "text": "It is not hard.",
+      "start_ms": 100254,
+      "end_ms": 101273
+    },
+    {
+      "index": 36,
+      "text": "It is another thing that is mostly listening.",
+      "start_ms": 101273,
+      "end_ms": 104203
+    },
+    {
+      "index": 37,
+      "text": "You will do it.",
+      "start_ms": 104203,
+      "end_ms": 105222
+    },
+    {
+      "index": 38,
+      "text": "You do not need to be perfect.",
+      "start_ms": 105222,
+      "end_ms": 107197
+    },
+    {
+      "index": 39,
+      "text": "This is the bowl you and I made together.",
+      "start_ms": 107197,
+      "end_ms": 109872
+    },
+    {
+      "index": 40,
+      "text": "If it is a little imperfect, that is exactly right.\"",
+      "start_ms": 109872,
+      "end_ms": 113184
+    },
+    {
+      "index": 41,
+      "text": "Avôlo showed him how to glaze.",
+      "start_ms": 113184,
+      "end_ms": 115455
+    },
+    {
+      "index": 42,
+      "text": "There were two things to decide, he said — the color, and how the color was applied.",
+      "start_ms": 115455,
+      "end_ms": 121680
+    },
+    {
+      "index": 43,
+      "text": "Rafael chose a pale blue-green that Avôlo had made himself from local minerals.",
+      "start_ms": 121680,
+      "end_ms": 127540
+    },
+    {
+      "index": 44,
+      "text": "Rafael dipped the bowl carefully into the glaze bucket.",
+      "start_ms": 127540,
+      "end_ms": 131641
+    },
+    {
+      "index": 45,
+      "text": "He turned it.",
+      "start_ms": 131641,
+      "end_ms": 132667
+    },
+    {
+      "index": 46,
+      "text": "He let the extra glaze drip off.",
+      "start_ms": 132667,
+      "end_ms": 135084
+    },
+    {
+      "index": 47,
+      "text": "He set it down.",
+      "start_ms": 135084,
+      "end_ms": 136256
+    },
+    {
+      "index": 48,
+      "text": "On the outside he used a small brush to add a thin dark rim near the top.",
+      "start_ms": 136256,
+      "end_ms": 141676
+    },
+    {
+      "index": 49,
+      "text": "That was a small choice he made.",
+      "start_ms": 141676,
+      "end_ms": 144093
+    },
+    {
+      "index": 50,
+      "text": "Avôlo watched him make it.",
+      "start_ms": 144093,
+      "end_ms": 146070
+    },
+    {
+      "index": 51,
+      "text": "Avôlo did not stop him.",
+      "start_ms": 146070,
+      "end_ms": 147828
+    },
+    {
+      "index": 52,
+      "text": "When Rafael was done, the bowl was — Rafael thought — plain but not ugly.",
+      "start_ms": 147828,
+      "end_ms": 153248
+    },
+    {
+      "index": 53,
+      "text": "Simple.",
+      "start_ms": 153248,
+      "end_ms": 153834
+    },
+    {
+      "index": 54,
+      "text": "Honest.",
+      "start_ms": 153834,
+      "end_ms": 154493
+    },
+    {
+      "index": 55,
+      "text": "They fired it that afternoon.",
+      "start_ms": 154493,
+      "end_ms": 156691
+    },
+    {
+      "index": 56,
+      "text": "It was a small firing — only the one bowl, plus a few small things Avôlo had ready.",
+      "start_ms": 156691,
+      "end_ms": 162843
+    },
+    {
+      "index": 57,
+      "text": "Rafael tended the fire.",
+      "start_ms": 162843,
+      "end_ms": 164601
+    },
+    {
+      "index": 58,
+      "text": "When it was cool, in the morning, they took it out.",
+      "start_ms": 164601,
+      "end_ms": 168410
+    },
+    {
+      "index": 59,
+      "text": "The glaze had come out beautifully — a soft blue-green that looked like a pond.",
+      "start_ms": 168410,
+      "end_ms": 174269
+    },
+    {
+      "index": 60,
+      "text": "The dark rim held it.",
+      "start_ms": 174269,
+      "end_ms": 175881
+    },
+    {
+      "index": 61,
+      "text": "Rafael handed it to Avôlo.",
+      "start_ms": 175881,
+      "end_ms": 177858
+    },
+    {
+      "index": 62,
+      "text": "Avôlo held it in both hands.",
+      "start_ms": 177858,
+      "end_ms": 179982
+    },
+    {
+      "index": 63,
+      "text": "He said, \"Rafael.",
+      "start_ms": 179982,
+      "end_ms": 181301
+    },
+    {
+      "index": 64,
+      "text": "This is a beautiful bowl.",
+      "start_ms": 181301,
+      "end_ms": 183205
+    },
+    {
+      "index": 65,
+      "text": "Genuinely.",
+      "start_ms": 183205,
+      "end_ms": 184011
+    },
+    {
+      "index": 66,
+      "text": "Not because you are ten and I am your grandfather.",
+      "start_ms": 184011,
+      "end_ms": 187746
+    },
+    {
+      "index": 67,
+      "text": "It is a real bowl.",
+      "start_ms": 187746,
+      "end_ms": 189138
+    },
+    {
+      "index": 68,
+      "text": "It will hold soup very well.",
+      "start_ms": 189138,
+      "end_ms": 191262
+    },
+    {
+      "index": 69,
+      "text": "I will use it every day.\"",
+      "start_ms": 191262,
+      "end_ms": 193239
+    },
+    {
+      "index": 70,
+      "text": "\"Avôlo,\" said Rafael.",
+      "start_ms": 193239,
+      "end_ms": 194851
+    },
+    {
+      "index": 71,
+      "text": "\"Can I ask you something else.\" \"Yes.\" \"Would you — could you — teach me every summer.",
+      "start_ms": 194851,
+      "end_ms": 201223
+    },
+    {
+      "index": 72,
+      "text": "Not just this once.",
+      "start_ms": 201223,
+      "end_ms": 202688
+    },
+    {
+      "index": 73,
+      "text": "Every summer that I come.",
+      "start_ms": 202688,
+      "end_ms": 204592
+    },
+    {
+      "index": 74,
+      "text": "Until I am — until I am too old to come.\" Avôlo looked at him for a long moment.",
+      "start_ms": 204592,
+      "end_ms": 210525
+    },
+    {
+      "index": 75,
+      "text": "He said, \"Rafael.",
+      "start_ms": 210525,
+      "end_ms": 211843
+    },
+    {
+      "index": 76,
+      "text": "That would make me very happy.",
+      "start_ms": 211843,
+      "end_ms": 214114
+    },
+    {
+      "index": 77,
+      "text": "But there is something you should know.",
+      "start_ms": 214114,
+      "end_ms": 217044
+    },
+    {
+      "index": 78,
+      "text": "I am seventy-four.",
+      "start_ms": 217044,
+      "end_ms": 218435
+    },
+    {
+      "index": 79,
+      "text": "I might not be here in ten years.",
+      "start_ms": 218435,
+      "end_ms": 220925
+    },
+    {
+      "index": 80,
+      "text": "I might not be here in five years.",
+      "start_ms": 220925,
+      "end_ms": 223489
+    },
+    {
+      "index": 81,
+      "text": "So — yes.",
+      "start_ms": 223489,
+      "end_ms": 224221
+    },
+    {
+      "index": 82,
+      "text": "Every summer for as long as I am here.",
+      "start_ms": 224221,
+      "end_ms": 227078
+    },
+    {
+      "index": 83,
+      "text": "I promise.",
+      "start_ms": 227078,
+      "end_ms": 227884
+    },
+    {
+      "index": 84,
+      "text": "But after that — after that — you have to keep doing it.",
+      "start_ms": 227884,
+      "end_ms": 232058
+    },
+    {
+      "index": 85,
+      "text": "Somewhere.",
+      "start_ms": 232058,
+      "end_ms": 232864
+    },
+    {
+      "index": 86,
+      "text": "With someone else.",
+      "start_ms": 232864,
+      "end_ms": 234256
+    },
+    {
+      "index": 87,
+      "text": "Or by yourself.",
+      "start_ms": 234256,
+      "end_ms": 235428
+    },
+    {
+      "index": 88,
+      "text": "Do not stop.",
+      "start_ms": 235428,
+      "end_ms": 236380
+    },
+    {
+      "index": 89,
+      "text": "You are becoming a potter.",
+      "start_ms": 236380,
+      "end_ms": 238357
+    },
+    {
+      "index": 90,
+      "text": "That is a small quiet gift.",
+      "start_ms": 238357,
+      "end_ms": 240408
+    },
+    {
+      "index": 91,
+      "text": "Do not put it down.\"",
+      "start_ms": 240408,
+      "end_ms": 242020
+    },
+    {
+      "index": 92,
+      "text": "\"I promise,\" said Rafael.",
+      "start_ms": 242020,
+      "end_ms": 243924
+    },
+    {
+      "index": 93,
+      "text": "\"That is enough,\" said Avôlo.",
+      "start_ms": 243924,
+      "end_ms": 246048
+    },
+    {
+      "index": 94,
+      "text": "Rafael went home with his small lopsided bowl wrapped in a piece of soft cloth.",
+      "start_ms": 246048,
+      "end_ms": 250843
+    },
+    {
+      "index": 95,
+      "text": "His mother met him at the train station in Barcelona.",
+      "start_ms": 250843,
+      "end_ms": 254080
+    },
+    {
+      "index": 96,
+      "text": "She saw the small bowl.",
+      "start_ms": 254080,
+      "end_ms": 255518
+    },
+    {
+      "index": 97,
+      "text": "She asked what it was.",
+      "start_ms": 255518,
+      "end_ms": 256897
+    },
+    {
+      "index": 98,
+      "text": "Rafael said, \"I made it.",
+      "start_ms": 256897,
+      "end_ms": 258395
+    },
+    {
+      "index": 99,
+      "text": "At Avôlo's.",
+      "start_ms": 258395,
+      "end_ms": 259115
+    },
+    {
+      "index": 100,
+      "text": "He taught me.\" His mother did not say anything for a moment.",
+      "start_ms": 259115,
+      "end_ms": 262771
+    },
+    {
+      "index": 101,
+      "text": "Then she said, quietly, \"Oh, Rafael.",
+      "start_ms": 262771,
+      "end_ms": 264988
+    },
+    {
+      "index": 102,
+      "text": "That is — that is wonderful.\" She was tearing up.",
+      "start_ms": 264988,
+      "end_ms": 267985
+    },
+    {
+      "index": 103,
+      "text": "Rafael did not know why.",
+      "start_ms": 267985,
+      "end_ms": 269484
+    },
+    {
+      "index": 104,
+      "text": "He hugged her.",
+      "start_ms": 269484,
+      "end_ms": 270443
+    },
+    {
+      "index": 105,
+      "text": "He put the bowl on his bedside table when he got home.",
+      "start_ms": 270443,
+      "end_ms": 273739
+    },
+    {
+      "index": 106,
+      "text": "He looked at it every night before he went to sleep.",
+      "start_ms": 273739,
+      "end_ms": 276916
+    },
+    {
+      "index": 107,
+      "text": "He looked at it every morning when he woke up.",
+      "start_ms": 276916,
+      "end_ms": 279733
+    },
+    {
+      "index": 108,
+      "text": "Every summer he went back to Ourense.",
+      "start_ms": 279733,
+      "end_ms": 282011
+    },
+    {
+      "index": 109,
+      "text": "Every summer he learned more.",
+      "start_ms": 282011,
+      "end_ms": 283809
+    },
+    {
+      "index": 110,
+      "text": "When he was twelve, he made a bowl that Avôlo said was as good as one of his own.",
+      "start_ms": 283809,
+      "end_ms": 288724
+    },
+    {
+      "index": 111,
+      "text": "When he was fifteen, he made a small vase that Avôlo said might be better than his own.",
+      "start_ms": 288724,
+      "end_ms": 293998
+    },
+    {
+      "index": 112,
+      "text": "Avôlo lived until Rafael was seventeen.",
+      "start_ms": 293998,
+      "end_ms": 296396
+    },
+    {
+      "index": 113,
+      "text": "On the day Avôlo died, Rafael was at university in Madrid.",
+      "start_ms": 296396,
+      "end_ms": 299932
+    },
+    {
+      "index": 114,
+      "text": "He went home.",
+      "start_ms": 299932,
+      "end_ms": 300771
+    },
+    {
+      "index": 115,
+      "text": "He took the small blue-green bowl he had made when he was ten from Avôlo's kitchen.",
+      "start_ms": 300771,
+      "end_ms": 305806
+    },
+    {
+      "index": 116,
+      "text": "He kept it beside his own first bowl.",
+      "start_ms": 305806,
+      "end_ms": 308084
+    },
+    {
+      "index": 117,
+      "text": "And every summer for the rest of his life, though Avôlo was gone, he went back to Ourense — to the small stone workshop — and he made bowls.",
+      "start_ms": 308084,
+      "end_ms": 316535
+    },
+    {
+      "index": 118,
+      "text": "He never became famous.",
+      "start_ms": 316535,
+      "end_ms": 317974
+    },
+    {
+      "index": 119,
+      "text": "He made about two hundred bowls a year.",
+      "start_ms": 317974,
+      "end_ms": 320371
+    },
+    {
+      "index": 120,
+      "text": "All of them went to people in Ourense and Barcelona who needed bowls.",
+      "start_ms": 320371,
+      "end_ms": 324567
+    },
+    {
+      "index": 121,
+      "text": "And every bowl held something.",
+      "start_ms": 324567,
+      "end_ms": 326425
+    },
+    {
+      "index": 122,
+      "text": "That was enough.",
+      "start_ms": 326425,
+      "end_ms": 327384
+    }
+  ]
+}

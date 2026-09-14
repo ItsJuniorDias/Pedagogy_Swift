@@ -1,0 +1,343 @@
+{
+  "story_id": "last-chapter",
+  "chapter": 1,
+  "total_duration_ms": 178032,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Toby's grandmother's bookstore was called Ada's Chapter, and it had been on the corner of Wells and North Avenue for as long as anybody in the family could remember.",
+      "start_ms": 1774,
+      "end_ms": 12354
+    },
+    {
+      "index": 1,
+      "text": "It was very small.",
+      "start_ms": 12354,
+      "end_ms": 13557
+    },
+    {
+      "index": 2,
+      "text": "Two rooms, if you counted the storage cupboard.",
+      "start_ms": 13557,
+      "end_ms": 16598
+    },
+    {
+      "index": 3,
+      "text": "It smelled like old paper and coffee and the peppermints Grandma Ada used to keep in a bowl by the register.",
+      "start_ms": 16598,
+      "end_ms": 23504
+    },
+    {
+      "index": 4,
+      "text": "There was a fat orange cat named Chapter Seven who lived on the windowsill.",
+      "start_ms": 23504,
+      "end_ms": 28382
+    },
+    {
+      "index": 5,
+      "text": "Chapter Seven had gone to live with a neighbor.",
+      "start_ms": 28382,
+      "end_ms": 31423
+    },
+    {
+      "index": 6,
+      "text": "The store was closing on Sunday.",
+      "start_ms": 31423,
+      "end_ms": 33577
+    },
+    {
+      "index": 7,
+      "text": "Grandma Ada had moved to a place called Riverside Manor two months ago.",
+      "start_ms": 33577,
+      "end_ms": 38138
+    },
+    {
+      "index": 8,
+      "text": "It was a good place, Toby's mother said.",
+      "start_ms": 38138,
+      "end_ms": 40735
+    },
+    {
+      "index": 9,
+      "text": "She had a room with a window that faced east.",
+      "start_ms": 40735,
+      "end_ms": 43650
+    },
+    {
+      "index": 10,
+      "text": "There were nurses.",
+      "start_ms": 43650,
+      "end_ms": 44853
+    },
+    {
+      "index": 11,
+      "text": "She played chess on Wednesdays.",
+      "start_ms": 44853,
+      "end_ms": 46944
+    },
+    {
+      "index": 12,
+      "text": "But she could not run a bookstore anymore.",
+      "start_ms": 46944,
+      "end_ms": 49668
+    },
+    {
+      "index": 13,
+      "text": "Her memory came and went, the way weather does.",
+      "start_ms": 49668,
+      "end_ms": 52709
+    },
+    {
+      "index": 14,
+      "text": "Some days she knew everybody.",
+      "start_ms": 52709,
+      "end_ms": 54610
+    },
+    {
+      "index": 15,
+      "text": "Some days she asked Toby who he was.",
+      "start_ms": 54610,
+      "end_ms": 57017
+    },
+    {
+      "index": 16,
+      "text": "So today Toby and his mother were packing up.",
+      "start_ms": 57017,
+      "end_ms": 59931
+    },
+    {
+      "index": 17,
+      "text": "The books were being sold to another used bookstore in Ravenswood.",
+      "start_ms": 59931,
+      "end_ms": 64176
+    },
+    {
+      "index": 18,
+      "text": "The shelves were being donated to a school.",
+      "start_ms": 64176,
+      "end_ms": 66963
+    },
+    {
+      "index": 19,
+      "text": "And Toby had been given the biggest job: sorting through the tiny office in the back.",
+      "start_ms": 66963,
+      "end_ms": 72475
+    },
+    {
+      "index": 20,
+      "text": "It was in the third box he opened.",
+      "start_ms": 72475,
+      "end_ms": 74692
+    },
+    {
+      "index": 21,
+      "text": "A cardboard box, the kind that used to hold reams of typing paper.",
+      "start_ms": 74692,
+      "end_ms": 78937
+    },
+    {
+      "index": 22,
+      "text": "It was on the top shelf of the office closet, so far back that Toby had to stand on the desk to reach it.",
+      "start_ms": 78937,
+      "end_ms": 85716
+    },
+    {
+      "index": 23,
+      "text": "On the side, in his grandmother's spidery handwriting, was a single word: DON'T SELL.",
+      "start_ms": 85716,
+      "end_ms": 91227
+    },
+    {
+      "index": 24,
+      "text": "Toby sat down on the floor and opened it.",
+      "start_ms": 91227,
+      "end_ms": 93951
+    },
+    {
+      "index": 25,
+      "text": "Inside was a manuscript.",
+      "start_ms": 93951,
+      "end_ms": 95599
+    },
+    {
+      "index": 26,
+      "text": "It was typed on an old typewriter, on yellowed paper.",
+      "start_ms": 95599,
+      "end_ms": 99020
+    },
+    {
+      "index": 27,
+      "text": "There were two hundred and thirty pages, held together with a large rubber band.",
+      "start_ms": 99020,
+      "end_ms": 104151
+    },
+    {
+      "index": 28,
+      "text": "The rubber band had gone brittle.",
+      "start_ms": 104151,
+      "end_ms": 106305
+    },
+    {
+      "index": 29,
+      "text": "It broke when Toby touched it.",
+      "start_ms": 106305,
+      "end_ms": 108332
+    },
+    {
+      "index": 30,
+      "text": "The title page said: THE BOY WHO NEVER TOLD.",
+      "start_ms": 108332,
+      "end_ms": 111183
+    },
+    {
+      "index": 31,
+      "text": "A novel by A.",
+      "start_ms": 111183,
+      "end_ms": 112070
+    },
+    {
+      "index": 32,
+      "text": "Bell.",
+      "start_ms": 112070,
+      "end_ms": 112514
+    },
+    {
+      "index": 33,
+      "text": "A.",
+      "start_ms": 112514,
+      "end_ms": 112704
+    },
+    {
+      "index": 34,
+      "text": "Bell was Grandma Ada.",
+      "start_ms": 112704,
+      "end_ms": 114097
+    },
+    {
+      "index": 35,
+      "text": "Bell was her maiden name.",
+      "start_ms": 114097,
+      "end_ms": 115808
+    },
+    {
+      "index": 36,
+      "text": "Toby had never known his grandmother wrote books.",
+      "start_ms": 115808,
+      "end_ms": 118975
+    },
+    {
+      "index": 37,
+      "text": "He knew she sold them.",
+      "start_ms": 118975,
+      "end_ms": 120433
+    },
+    {
+      "index": 38,
+      "text": "He knew she read them.",
+      "start_ms": 120433,
+      "end_ms": 121890
+    },
+    {
+      "index": 39,
+      "text": "He had never heard her say a word about writing one.",
+      "start_ms": 121890,
+      "end_ms": 125184
+    },
+    {
+      "index": 40,
+      "text": "He opened to the first page.",
+      "start_ms": 125184,
+      "end_ms": 127054
+    },
+    {
+      "index": 41,
+      "text": "Toby was eleven years old, and he lived in a red-brick apartment on Wolcott Avenue, three blocks from his grandmother's bookstore.",
+      "start_ms": 127054,
+      "end_ms": 135280
+    },
+    {
+      "index": 42,
+      "text": "Toby stopped reading.",
+      "start_ms": 135280,
+      "end_ms": 136713
+    },
+    {
+      "index": 43,
+      "text": "Toby did live in a red-brick apartment on Wolcott Avenue, three blocks from his grandmother's bookstore.",
+      "start_ms": 136713,
+      "end_ms": 143319
+    },
+    {
+      "index": 44,
+      "text": "He kept reading, slowly.",
+      "start_ms": 143319,
+      "end_ms": 144940
+    },
+    {
+      "index": 45,
+      "text": "Toby's mother worked at the university library.",
+      "start_ms": 144940,
+      "end_ms": 147931
+    },
+    {
+      "index": 46,
+      "text": "His father drove a train on the Blue Line.",
+      "start_ms": 147931,
+      "end_ms": 150611
+    },
+    {
+      "index": 47,
+      "text": "Toby had a dog named Waffle, a beagle who was afraid of the vacuum cleaner and who slept curled up in a laundry basket in the hallway.",
+      "start_ms": 150611,
+      "end_ms": 159086
+    },
+    {
+      "index": 48,
+      "text": "Toby stared at the page.",
+      "start_ms": 159086,
+      "end_ms": 160707
+    },
+    {
+      "index": 49,
+      "text": "His mother worked at the university library.",
+      "start_ms": 160707,
+      "end_ms": 163511
+    },
+    {
+      "index": 50,
+      "text": "His father drove a train on the Blue Line.",
+      "start_ms": 163511,
+      "end_ms": 166191
+    },
+    {
+      "index": 51,
+      "text": "Waffle was in the hallway right now, asleep, in a laundry basket.",
+      "start_ms": 166191,
+      "end_ms": 170367
+    },
+    {
+      "index": 52,
+      "text": "He turned to the back of the manuscript.",
+      "start_ms": 170367,
+      "end_ms": 172922
+    },
+    {
+      "index": 53,
+      "text": "He looked at the date on the last page.",
+      "start_ms": 172922,
+      "end_ms": 175477
+    },
+    {
+      "index": 54,
+      "text": "1998.",
+      "start_ms": 175477,
+      "end_ms": 175913
+    },
+    {
+      "index": 55,
+      "text": "Twelve years before Toby was born.",
+      "start_ms": 175913,
+      "end_ms": 178032
+    }
+  ]
+}

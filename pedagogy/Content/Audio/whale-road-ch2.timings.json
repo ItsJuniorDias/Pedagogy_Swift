@@ -1,0 +1,847 @@
+{
+  "story_id": "whale-road",
+  "chapter": 2,
+  "total_duration_ms": 368568,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "It was a habit Vidar had — he watched the bay.",
+      "start_ms": 1317,
+      "end_ms": 4131
+    },
+    {
+      "index": 1,
+      "text": "He had done it since he was old enough to sit still.",
+      "start_ms": 4131,
+      "end_ms": 7305
+    },
+    {
+      "index": 2,
+      "text": "Every day, at least once, he went down to the shore and sat on the big flat black basalt rock at the edge of the water, and he looked out.",
+      "start_ms": 7305,
+      "end_ms": 15628
+    },
+    {
+      "index": 3,
+      "text": "Bjarni had bought him a small pair of binoculars for his ninth birthday.",
+      "start_ms": 15628,
+      "end_ms": 19999
+    },
+    {
+      "index": 4,
+      "text": "Vidar took them everywhere.",
+      "start_ms": 19999,
+      "end_ms": 21675
+    },
+    {
+      "index": 5,
+      "text": "He watched for whales.",
+      "start_ms": 21675,
+      "end_ms": 23053
+    },
+    {
+      "index": 6,
+      "text": "He watched for the whale.",
+      "start_ms": 23053,
+      "end_ms": 24609
+    },
+    {
+      "index": 7,
+      "text": "He knew, in his head, that it might not come for years, or that if it came it might come tomorrow, and either way he could not know.",
+      "start_ms": 24609,
+      "end_ms": 32573
+    },
+    {
+      "index": 8,
+      "text": "But he watched anyway.",
+      "start_ms": 32573,
+      "end_ms": 34010
+    },
+    {
+      "index": 9,
+      "text": "He saw many things over the years.",
+      "start_ms": 34010,
+      "end_ms": 36106
+    },
+    {
+      "index": 10,
+      "text": "He saw pods of pilot whales going through the outer strait.",
+      "start_ms": 36106,
+      "end_ms": 39698
+    },
+    {
+      "index": 11,
+      "text": "He saw dolphins.",
+      "start_ms": 39698,
+      "end_ms": 40716
+    },
+    {
+      "index": 12,
+      "text": "He saw a lone humpback once, very far away, blowing spray.",
+      "start_ms": 40716,
+      "end_ms": 44249
+    },
+    {
+      "index": 13,
+      "text": "He saw seals and puffins and gannets diving.",
+      "start_ms": 44249,
+      "end_ms": 46943
+    },
+    {
+      "index": 14,
+      "text": "He did not see a killer whale.",
+      "start_ms": 46943,
+      "end_ms": 48800
+    },
+    {
+      "index": 15,
+      "text": "Not for the first three summers he really watched.",
+      "start_ms": 48800,
+      "end_ms": 51853
+    },
+    {
+      "index": 16,
+      "text": "Not for the fourth.",
+      "start_ms": 51853,
+      "end_ms": 53051
+    },
+    {
+      "index": 17,
+      "text": "He was ten now, and he had been watching for almost three years, and he had begun to accept that maybe it would not come while he was still small.",
+      "start_ms": 53051,
+      "end_ms": 61853
+    },
+    {
+      "index": 18,
+      "text": "Maybe he would be a teenager.",
+      "start_ms": 61853,
+      "end_ms": 63649
+    },
+    {
+      "index": 19,
+      "text": "Maybe he would be a grown man.",
+      "start_ms": 63649,
+      "end_ms": 65505
+    },
+    {
+      "index": 20,
+      "text": "Maybe he would be as old as Bjarni.",
+      "start_ms": 65505,
+      "end_ms": 67661
+    },
+    {
+      "index": 21,
+      "text": "That was okay.",
+      "start_ms": 67661,
+      "end_ms": 68559
+    },
+    {
+      "index": 22,
+      "text": "He would keep watching.",
+      "start_ms": 68559,
+      "end_ms": 70056
+    },
+    {
+      "index": 23,
+      "text": "It came in the middle of July.",
+      "start_ms": 70056,
+      "end_ms": 71912
+    },
+    {
+      "index": 24,
+      "text": "It was a rare warm sunny day — the kind that only happens in the Faroes maybe five days a year — and the sea in the bay was flat and glassy.",
+      "start_ms": 71912,
+      "end_ms": 80355
+    },
+    {
+      "index": 25,
+      "text": "Vidar had been watching for an hour.",
+      "start_ms": 80355,
+      "end_ms": 82570
+    },
+    {
+      "index": 26,
+      "text": "He was about to go up to the cottage for lunch.",
+      "start_ms": 82570,
+      "end_ms": 85444
+    },
+    {
+      "index": 27,
+      "text": "He was standing up on the rock.",
+      "start_ms": 85444,
+      "end_ms": 87360
+    },
+    {
+      "index": 28,
+      "text": "And then, at the mouth of the bay, he saw a tall dark shape rise slowly out of the water.",
+      "start_ms": 87360,
+      "end_ms": 92749
+    },
+    {
+      "index": 29,
+      "text": "A dorsal fin.",
+      "start_ms": 92749,
+      "end_ms": 93587
+    },
+    {
+      "index": 30,
+      "text": "Very tall.",
+      "start_ms": 93587,
+      "end_ms": 94246
+    },
+    {
+      "index": 31,
+      "text": "Male.",
+      "start_ms": 94246,
+      "end_ms": 94605
+    },
+    {
+      "index": 32,
+      "text": "Very close to the cottage side of the bay.",
+      "start_ms": 94605,
+      "end_ms": 97180
+    },
+    {
+      "index": 33,
+      "text": "It was moving.",
+      "start_ms": 97180,
+      "end_ms": 98078
+    },
+    {
+      "index": 34,
+      "text": "It was coming in.",
+      "start_ms": 98078,
+      "end_ms": 99096
+    },
+    {
+      "index": 35,
+      "text": "For a moment Vidar could not move.",
+      "start_ms": 99096,
+      "end_ms": 101531
+    },
+    {
+      "index": 36,
+      "text": "He could not breathe.",
+      "start_ms": 101531,
+      "end_ms": 103061
+    },
+    {
+      "index": 37,
+      "text": "He watched the fin get closer.",
+      "start_ms": 103061,
+      "end_ms": 105218
+    },
+    {
+      "index": 38,
+      "text": "He watched it come in through the mouth.",
+      "start_ms": 105218,
+      "end_ms": 108070
+    },
+    {
+      "index": 39,
+      "text": "It did not surface again for a while — the whale must have dived under — and Vidar stood on the rock with his heart beating in his ears, hoping.",
+      "start_ms": 108070,
+      "end_ms": 118157
+    },
+    {
+      "index": 40,
+      "text": "Then, closer, only about thirty meters from his rock, the whale surfaced again.",
+      "start_ms": 118157,
+      "end_ms": 123722
+    },
+    {
+      "index": 41,
+      "text": "A huge black-and-white shape.",
+      "start_ms": 123722,
+      "end_ms": 125809
+    },
+    {
+      "index": 42,
+      "text": "It rolled slightly onto its side.",
+      "start_ms": 125809,
+      "end_ms": 128174
+    },
+    {
+      "index": 43,
+      "text": "And a single dark eye — enormous, close, very intelligent — came out of the water and looked at Vidar.",
+      "start_ms": 128174,
+      "end_ms": 135409
+    },
+    {
+      "index": 44,
+      "text": "Vidar could not move.",
+      "start_ms": 135409,
+      "end_ms": 136939
+    },
+    {
+      "index": 45,
+      "text": "The whale was as long as the cottage.",
+      "start_ms": 136939,
+      "end_ms": 139583
+    },
+    {
+      "index": 46,
+      "text": "His fin alone was taller than Vidar.",
+      "start_ms": 139583,
+      "end_ms": 142157
+    },
+    {
+      "index": 47,
+      "text": "His eye was the size of Vidar's fist.",
+      "start_ms": 142157,
+      "end_ms": 144800
+    },
+    {
+      "index": 48,
+      "text": "His eye was looking at Vidar.",
+      "start_ms": 144800,
+      "end_ms": 146887
+    },
+    {
+      "index": 49,
+      "text": "Really looking.",
+      "start_ms": 146887,
+      "end_ms": 148000
+    },
+    {
+      "index": 50,
+      "text": "Not the way an animal usually looks at a person.",
+      "start_ms": 148000,
+      "end_ms": 151409
+    },
+    {
+      "index": 51,
+      "text": "The way the swan had bowed to Elin, Vidar thought later — that kind of looking, with something behind it.",
+      "start_ms": 151409,
+      "end_ms": 158783
+    },
+    {
+      "index": 52,
+      "text": "He was here.",
+      "start_ms": 158783,
+      "end_ms": 159687
+    },
+    {
+      "index": 53,
+      "text": "He had come.",
+      "start_ms": 159687,
+      "end_ms": 160591
+    },
+    {
+      "index": 54,
+      "text": "He had come this summer.",
+      "start_ms": 160591,
+      "end_ms": 162330
+    },
+    {
+      "index": 55,
+      "text": "And he was looking at Vidar and he was waiting.",
+      "start_ms": 162330,
+      "end_ms": 165739
+    },
+    {
+      "index": 56,
+      "text": "Vidar remembered the song.",
+      "start_ms": 165739,
+      "end_ms": 167617
+    },
+    {
+      "index": 57,
+      "text": "He knew it perfectly.",
+      "start_ms": 167617,
+      "end_ms": 169148
+    },
+    {
+      "index": 58,
+      "text": "But his throat had closed.",
+      "start_ms": 169148,
+      "end_ms": 171026
+    },
+    {
+      "index": 59,
+      "text": "He tried to sing and he could not.",
+      "start_ms": 171026,
+      "end_ms": 173461
+    },
+    {
+      "index": 60,
+      "text": "He was too afraid.",
+      "start_ms": 173461,
+      "end_ms": 174783
+    },
+    {
+      "index": 61,
+      "text": "He looked at the whale and the whale looked at him and Vidar tried again and his voice came out very small and shaky, cracking on the first note.",
+      "start_ms": 174783,
+      "end_ms": 184939
+    },
+    {
+      "index": 62,
+      "text": "He stopped.",
+      "start_ms": 184939,
+      "end_ms": 185774
+    },
+    {
+      "index": 63,
+      "text": "He tried again.",
+      "start_ms": 185774,
+      "end_ms": 186887
+    },
+    {
+      "index": 64,
+      "text": "His voice broke again.",
+      "start_ms": 186887,
+      "end_ms": 188487
+    },
+    {
+      "index": 65,
+      "text": "He was crying now, without wanting to.",
+      "start_ms": 188487,
+      "end_ms": 191200
+    },
+    {
+      "index": 66,
+      "text": "He was ten years old and he had been preparing for this his whole life and the whale was here and he could not sing.",
+      "start_ms": 191200,
+      "end_ms": 199409
+    },
+    {
+      "index": 67,
+      "text": "He turned and he ran.",
+      "start_ms": 199409,
+      "end_ms": 200939
+    },
+    {
+      "index": 68,
+      "text": "He ran up the stone path as fast as he could.",
+      "start_ms": 200939,
+      "end_ms": 204139
+    },
+    {
+      "index": 69,
+      "text": "He was crying.",
+      "start_ms": 204139,
+      "end_ms": 205182
+    },
+    {
+      "index": 70,
+      "text": "He was shouting for Bjarni.",
+      "start_ms": 205182,
+      "end_ms": 207130
+    },
+    {
+      "index": 71,
+      "text": "Bjarni came out of the cottage — he had been reading — with a very worried face.",
+      "start_ms": 207130,
+      "end_ms": 212765
+    },
+    {
+      "index": 72,
+      "text": "\"What is it.",
+      "start_ms": 212765,
+      "end_ms": 213669
+    },
+    {
+      "index": 73,
+      "text": "What is wrong.\" Vidar could not really talk.",
+      "start_ms": 213669,
+      "end_ms": 216800
+    },
+    {
+      "index": 74,
+      "text": "He was pointing at the bay.",
+      "start_ms": 216800,
+      "end_ms": 218748
+    },
+    {
+      "index": 75,
+      "text": "He said, \"Grandpa.",
+      "start_ms": 218748,
+      "end_ms": 220069
+    },
+    {
+      "index": 76,
+      "text": "It.",
+      "start_ms": 220069,
+      "end_ms": 220348
+    },
+    {
+      "index": 77,
+      "text": "Him.",
+      "start_ms": 220348,
+      "end_ms": 220695
+    },
+    {
+      "index": 78,
+      "text": "It.",
+      "start_ms": 220695,
+      "end_ms": 220974
+    },
+    {
+      "index": 79,
+      "text": "He is here.",
+      "start_ms": 220974,
+      "end_ms": 221808
+    },
+    {
+      "index": 80,
+      "text": "He came.",
+      "start_ms": 221808,
+      "end_ms": 222435
+    },
+    {
+      "index": 81,
+      "text": "He is waiting.",
+      "start_ms": 222435,
+      "end_ms": 223478
+    },
+    {
+      "index": 82,
+      "text": "I could not sing.",
+      "start_ms": 223478,
+      "end_ms": 224730
+    },
+    {
+      "index": 83,
+      "text": "I could not sing, Grandpa.",
+      "start_ms": 224730,
+      "end_ms": 226608
+    },
+    {
+      "index": 84,
+      "text": "My voice would not come.\" Bjarni's whole face changed.",
+      "start_ms": 226608,
+      "end_ms": 230434
+    },
+    {
+      "index": 85,
+      "text": "He said, \"Oh, boy.\" And he grabbed Vidar's hand and they ran together back down to the shore.",
+      "start_ms": 230434,
+      "end_ms": 236904
+    },
+    {
+      "index": 86,
+      "text": "The whale was still there.",
+      "start_ms": 236904,
+      "end_ms": 238858
+    },
+    {
+      "index": 87,
+      "text": "He was still on his side.",
+      "start_ms": 238858,
+      "end_ms": 240740
+    },
+    {
+      "index": 88,
+      "text": "He was still watching the rock.",
+      "start_ms": 240740,
+      "end_ms": 243057
+    },
+    {
+      "index": 89,
+      "text": "He had not left.",
+      "start_ms": 243057,
+      "end_ms": 244287
+    },
+    {
+      "index": 90,
+      "text": "Bjarni saw him and he stopped for a moment on the path.",
+      "start_ms": 244287,
+      "end_ms": 248340
+    },
+    {
+      "index": 91,
+      "text": "He said, \"Oh.",
+      "start_ms": 248340,
+      "end_ms": 249354
+    },
+    {
+      "index": 92,
+      "text": "He is beautiful.",
+      "start_ms": 249354,
+      "end_ms": 250584
+    },
+    {
+      "index": 93,
+      "text": "Look at him.",
+      "start_ms": 250584,
+      "end_ms": 251525
+    },
+    {
+      "index": 94,
+      "text": "Look at how big he is.\" Then he looked at Vidar.",
+      "start_ms": 251525,
+      "end_ms": 255072
+    },
+    {
+      "index": 95,
+      "text": "Vidar was still crying.",
+      "start_ms": 255072,
+      "end_ms": 256809
+    },
+    {
+      "index": 96,
+      "text": "Bjarni knelt down.",
+      "start_ms": 256809,
+      "end_ms": 258184
+    },
+    {
+      "index": 97,
+      "text": "He held Vidar's shoulders.",
+      "start_ms": 258184,
+      "end_ms": 260139
+    },
+    {
+      "index": 98,
+      "text": "\"Vidar,\" he said.",
+      "start_ms": 260139,
+      "end_ms": 261442
+    },
+    {
+      "index": 99,
+      "text": "\"Listen.",
+      "start_ms": 261442,
+      "end_ms": 262093
+    },
+    {
+      "index": 100,
+      "text": "It is okay.",
+      "start_ms": 262093,
+      "end_ms": 262962
+    },
+    {
+      "index": 101,
+      "text": "He is still waiting.",
+      "start_ms": 262962,
+      "end_ms": 264482
+    },
+    {
+      "index": 102,
+      "text": "He will not leave until you sing.",
+      "start_ms": 264482,
+      "end_ms": 266943
+    },
+    {
+      "index": 103,
+      "text": "You have all the time in the world.",
+      "start_ms": 266943,
+      "end_ms": 269549
+    },
+    {
+      "index": 104,
+      "text": "Take a breath.",
+      "start_ms": 269549,
+      "end_ms": 270634
+    },
+    {
+      "index": 105,
+      "text": "Look at me.",
+      "start_ms": 270634,
+      "end_ms": 271503
+    },
+    {
+      "index": 106,
+      "text": "Take another breath.",
+      "start_ms": 271503,
+      "end_ms": 273023
+    },
+    {
+      "index": 107,
+      "text": "Now.",
+      "start_ms": 273023,
+      "end_ms": 273385
+    },
+    {
+      "index": 108,
+      "text": "We are going to sing it together.",
+      "start_ms": 273385,
+      "end_ms": 275846
+    },
+    {
+      "index": 109,
+      "text": "You and me.",
+      "start_ms": 275846,
+      "end_ms": 276714
+    },
+    {
+      "index": 110,
+      "text": "Are you ready?\" Vidar nodded.",
+      "start_ms": 276714,
+      "end_ms": 278886
+    },
+    {
+      "index": 111,
+      "text": "\"Are you ready?\" \"Yes, Grandpa.",
+      "start_ms": 278886,
+      "end_ms": 281202
+    },
+    {
+      "index": 112,
+      "text": "I am ready.\"",
+      "start_ms": 281202,
+      "end_ms": 282216
+    },
+    {
+      "index": 113,
+      "text": "They walked down to the rock together.",
+      "start_ms": 282216,
+      "end_ms": 285038
+    },
+    {
+      "index": 114,
+      "text": "Bjarni went first.",
+      "start_ms": 285038,
+      "end_ms": 286414
+    },
+    {
+      "index": 115,
+      "text": "He stood at the front of the rock.",
+      "start_ms": 286414,
+      "end_ms": 288947
+    },
+    {
+      "index": 116,
+      "text": "Vidar stood beside him.",
+      "start_ms": 288947,
+      "end_ms": 290684
+    },
+    {
+      "index": 117,
+      "text": "The whale was still there.",
+      "start_ms": 290684,
+      "end_ms": 292639
+    },
+    {
+      "index": 118,
+      "text": "Bjarni looked at the whale and the whale looked at Bjarni, and Bjarni nodded, once, respectfully, to the whale.",
+      "start_ms": 292639,
+      "end_ms": 300745
+    },
+    {
+      "index": 119,
+      "text": "Then Bjarni began to sing.",
+      "start_ms": 300745,
+      "end_ms": 302700
+    },
+    {
+      "index": 120,
+      "text": "Bjarni's voice was old and cracked but he knew the song better than anyone alive.",
+      "start_ms": 302700,
+      "end_ms": 308635
+    },
+    {
+      "index": 121,
+      "text": "He sang the first note, low and long.",
+      "start_ms": 308635,
+      "end_ms": 311386
+    },
+    {
+      "index": 122,
+      "text": "And Vidar — after a moment — joined him.",
+      "start_ms": 311386,
+      "end_ms": 314353
+    },
+    {
+      "index": 123,
+      "text": "His voice was still shaky.",
+      "start_ms": 314353,
+      "end_ms": 316308
+    },
+    {
+      "index": 124,
+      "text": "But it held.",
+      "start_ms": 316308,
+      "end_ms": 317249
+    },
+    {
+      "index": 125,
+      "text": "He sang along with Bjarni, small at first, then stronger.",
+      "start_ms": 317249,
+      "end_ms": 321447
+    },
+    {
+      "index": 126,
+      "text": "They sang the first verse together.",
+      "start_ms": 321447,
+      "end_ms": 324125
+    },
+    {
+      "index": 127,
+      "text": "The whale did not move.",
+      "start_ms": 324125,
+      "end_ms": 325862
+    },
+    {
+      "index": 128,
+      "text": "He listened.",
+      "start_ms": 325862,
+      "end_ms": 326803
+    },
+    {
+      "index": 129,
+      "text": "He was completely still.",
+      "start_ms": 326803,
+      "end_ms": 328613
+    },
+    {
+      "index": 130,
+      "text": "Only his tail moved slightly under the water, keeping him in position.",
+      "start_ms": 328613,
+      "end_ms": 333752
+    },
+    {
+      "index": 131,
+      "text": "When they finished the first verse, Bjarni paused for the small silence that came between the verses.",
+      "start_ms": 333752,
+      "end_ms": 341135
+    },
+    {
+      "index": 132,
+      "text": "Then he began the second.",
+      "start_ms": 341135,
+      "end_ms": 343017
+    },
+    {
+      "index": 133,
+      "text": "Vidar sang along.",
+      "start_ms": 343017,
+      "end_ms": 344320
+    },
+    {
+      "index": 134,
+      "text": "And by the second verse Vidar's voice was clear and steady and he did not need Bjarni anymore, and Bjarni fell quiet, and Vidar sang the second verse alone.",
+      "start_ms": 344320,
+      "end_ms": 355684
+    },
+    {
+      "index": 135,
+      "text": "His voice was small but true.",
+      "start_ms": 355684,
+      "end_ms": 357855
+    },
+    {
+      "index": 136,
+      "text": "He sang it slowly, the way Bjarni had always taught him.",
+      "start_ms": 357855,
+      "end_ms": 361981
+    },
+    {
+      "index": 137,
+      "text": "He held the notes the right length.",
+      "start_ms": 361981,
+      "end_ms": 364587
+    },
+    {
+      "index": 138,
+      "text": "He did not rush.",
+      "start_ms": 364587,
+      "end_ms": 365817
+    },
+    {
+      "index": 139,
+      "text": "He looked at the whale the whole time.",
+      "start_ms": 365817,
+      "end_ms": 368568
+    }
+  ]
+}

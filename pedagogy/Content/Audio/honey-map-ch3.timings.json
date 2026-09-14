@@ -1,0 +1,553 @@
+{
+  "story_id": "honey-map",
+  "chapter": 3,
+  "total_duration_ms": 311928,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Ilona stayed up late that night thinking about the jar.",
+      "start_ms": 1551,
+      "end_ms": 4893
+    },
+    {
+      "index": 1,
+      "text": "She tasted it three more times.",
+      "start_ms": 4893,
+      "end_ms": 6802
+    },
+    {
+      "index": 2,
+      "text": "Each time she was more sure — there was something in it that she knew.",
+      "start_ms": 6802,
+      "end_ms": 11039
+    },
+    {
+      "index": 3,
+      "text": "Not from the walks with Uncle Béla.",
+      "start_ms": 11039,
+      "end_ms": 13187
+    },
+    {
+      "index": 4,
+      "text": "From somewhere else in her life.",
+      "start_ms": 13187,
+      "end_ms": 15156
+    },
+    {
+      "index": 5,
+      "text": "But she could not remember where.",
+      "start_ms": 15156,
+      "end_ms": 17185
+    },
+    {
+      "index": 6,
+      "text": "It was a small strange taste, tucked under the other tastes — a bit of clover, mostly, and some meadow flower — but with something else.",
+      "start_ms": 17185,
+      "end_ms": 25360
+    },
+    {
+      "index": 7,
+      "text": "Something that made her want to close her eyes and stand in a specific place.",
+      "start_ms": 25360,
+      "end_ms": 30014
+    },
+    {
+      "index": 8,
+      "text": "She just could not remember what place.",
+      "start_ms": 30014,
+      "end_ms": 32461
+    },
+    {
+      "index": 9,
+      "text": "The next morning she asked Uncle Béla to walk with her again.",
+      "start_ms": 32461,
+      "end_ms": 36160
+    },
+    {
+      "index": 10,
+      "text": "\"I need to find the source,\" she said.",
+      "start_ms": 36160,
+      "end_ms": 38487
+    },
+    {
+      "index": 11,
+      "text": "\"There is something in the last jar I do not know.\" Uncle Béla looked pleased.",
+      "start_ms": 38487,
+      "end_ms": 43201
+    },
+    {
+      "index": 12,
+      "text": "\"Good,\" he said.",
+      "start_ms": 43201,
+      "end_ms": 44216
+    },
+    {
+      "index": 13,
+      "text": "\"That is exactly how it should feel.",
+      "start_ms": 44216,
+      "end_ms": 46423
+    },
+    {
+      "index": 14,
+      "text": "Let us look.\"",
+      "start_ms": 46423,
+      "end_ms": 47319
+    },
+    {
+      "index": 15,
+      "text": "They walked for two days.",
+      "start_ms": 47319,
+      "end_ms": 48870
+    },
+    {
+      "index": 16,
+      "text": "They walked to every place Uncle Béla thought the bees might have gone in early August.",
+      "start_ms": 48870,
+      "end_ms": 54121
+    },
+    {
+      "index": 17,
+      "text": "They tasted flowers.",
+      "start_ms": 54121,
+      "end_ms": 55374
+    },
+    {
+      "index": 18,
+      "text": "They examined the fields around Farkas Antal's farm.",
+      "start_ms": 55374,
+      "end_ms": 58537
+    },
+    {
+      "index": 19,
+      "text": "They walked up the pass to the wild thyme.",
+      "start_ms": 58537,
+      "end_ms": 61102
+    },
+    {
+      "index": 20,
+      "text": "They went to the small stand of linden trees.",
+      "start_ms": 61102,
+      "end_ms": 63847
+    },
+    {
+      "index": 21,
+      "text": "Ilona chewed on things and rubbed leaves between her fingers and stood with her eyes closed.",
+      "start_ms": 63847,
+      "end_ms": 69397
+    },
+    {
+      "index": 22,
+      "text": "Nothing matched.",
+      "start_ms": 69397,
+      "end_ms": 70411
+    },
+    {
+      "index": 23,
+      "text": "She kept tasting the honey from a small container in her pocket.",
+      "start_ms": 70411,
+      "end_ms": 74289
+    },
+    {
+      "index": 24,
+      "text": "The mystery flavor was still there, and she still knew it from somewhere.",
+      "start_ms": 74289,
+      "end_ms": 78765
+    },
+    {
+      "index": 25,
+      "text": "\"It is not one of the local ones,\" Uncle Béla said, on the second evening.",
+      "start_ms": 78765,
+      "end_ms": 83240
+    },
+    {
+      "index": 26,
+      "text": "\"That is very strange.",
+      "start_ms": 83240,
+      "end_ms": 84612
+    },
+    {
+      "index": 27,
+      "text": "Bees do not usually fly far.",
+      "start_ms": 84612,
+      "end_ms": 86343
+    },
+    {
+      "index": 28,
+      "text": "But sometimes one goes far, if the weather is right, and if the taste is very good.",
+      "start_ms": 86343,
+      "end_ms": 91355
+    },
+    {
+      "index": 29,
+      "text": "Twenty kilometers is possible.",
+      "start_ms": 91355,
+      "end_ms": 93205
+    },
+    {
+      "index": 30,
+      "text": "Even thirty.\" He looked at Ilona.",
+      "start_ms": 93205,
+      "end_ms": 95234
+    },
+    {
+      "index": 31,
+      "text": "\"Where were you in the third week of July, Ilona.",
+      "start_ms": 95234,
+      "end_ms": 98217
+    },
+    {
+      "index": 32,
+      "text": "What flowers were near you.\"",
+      "start_ms": 98217,
+      "end_ms": 99888
+    },
+    {
+      "index": 33,
+      "text": "Ilona thought.",
+      "start_ms": 99888,
+      "end_ms": 100955
+    },
+    {
+      "index": 34,
+      "text": "In the third week of July she had been at her grandmother's house.",
+      "start_ms": 100955,
+      "end_ms": 105721
+    },
+    {
+      "index": 35,
+      "text": "Not Uncle Béla — her other grandmother, her father's mother, whose name was Anna, and who had died the previous November.",
+      "start_ms": 105721,
+      "end_ms": 114399
+    },
+    {
+      "index": 36,
+      "text": "Ilona and her mother had gone to Nagymama Anna's house to help clean it out.",
+      "start_ms": 114399,
+      "end_ms": 119876
+    },
+    {
+      "index": 37,
+      "text": "It had been sad.",
+      "start_ms": 119876,
+      "end_ms": 121085
+    },
+    {
+      "index": 38,
+      "text": "Nagymama Anna's garden had been almost overgrown by then, because nobody had tended it for eight months.",
+      "start_ms": 121085,
+      "end_ms": 128554
+    },
+    {
+      "index": 39,
+      "text": "But her lavender had still been blooming.",
+      "start_ms": 128554,
+      "end_ms": 131542
+    },
+    {
+      "index": 40,
+      "text": "Whole rows of it.",
+      "start_ms": 131542,
+      "end_ms": 132822
+    },
+    {
+      "index": 41,
+      "text": "Big fat purple bushes that Nagymama Anna had planted many years ago.",
+      "start_ms": 132822,
+      "end_ms": 137730
+    },
+    {
+      "index": 42,
+      "text": "Ilona had sat in the middle of the lavender for a long time that afternoon, while her mother packed boxes.",
+      "start_ms": 137730,
+      "end_ms": 145341
+    },
+    {
+      "index": 43,
+      "text": "The smell of it had been everywhere.",
+      "start_ms": 145341,
+      "end_ms": 148044
+    },
+    {
+      "index": 44,
+      "text": "Nagymama Anna's house was in a village called Erdőkövesd.",
+      "start_ms": 148044,
+      "end_ms": 152170
+    },
+    {
+      "index": 45,
+      "text": "It was thirty-two kilometers north of Uncle Béla's village.",
+      "start_ms": 152170,
+      "end_ms": 156438
+    },
+    {
+      "index": 46,
+      "text": "Ilona sat down on the path.",
+      "start_ms": 156438,
+      "end_ms": 158429
+    },
+    {
+      "index": 47,
+      "text": "She looked at Uncle Béla.",
+      "start_ms": 158429,
+      "end_ms": 160279
+    },
+    {
+      "index": 48,
+      "text": "\"Uncle Béla,\" she said.",
+      "start_ms": 160279,
+      "end_ms": 161986
+    },
+    {
+      "index": 49,
+      "text": "\"I know what it is.",
+      "start_ms": 161986,
+      "end_ms": 163409
+    },
+    {
+      "index": 50,
+      "text": "But I don't understand how.\" \"Tell me,\" he said.",
+      "start_ms": 163409,
+      "end_ms": 166894
+    },
+    {
+      "index": 51,
+      "text": "\"Lavender,\" she said.",
+      "start_ms": 166894,
+      "end_ms": 168459
+    },
+    {
+      "index": 52,
+      "text": "\"From my grandmother's garden.",
+      "start_ms": 168459,
+      "end_ms": 170664
+    },
+    {
+      "index": 53,
+      "text": "She's dead.",
+      "start_ms": 170664,
+      "end_ms": 171518
+    },
+    {
+      "index": 54,
+      "text": "Her house is thirty kilometers away.\" Uncle Béla was very quiet.",
+      "start_ms": 171518,
+      "end_ms": 176141
+    },
+    {
+      "index": 55,
+      "text": "Then he said, softly, \"Ah.",
+      "start_ms": 176141,
+      "end_ms": 178062
+    },
+    {
+      "index": 56,
+      "text": "That is very far.",
+      "start_ms": 178062,
+      "end_ms": 179342
+    },
+    {
+      "index": 57,
+      "text": "But sometimes one bee will fly that far.",
+      "start_ms": 179342,
+      "end_ms": 182259
+    },
+    {
+      "index": 58,
+      "text": "If she is looking for something specific.",
+      "start_ms": 182259,
+      "end_ms": 185246
+    },
+    {
+      "index": 59,
+      "text": "Only one bee.",
+      "start_ms": 185246,
+      "end_ms": 186242
+    },
+    {
+      "index": 60,
+      "text": "That is enough to change the taste of a whole jar, if there was enough lavender.\"",
+      "start_ms": 186242,
+      "end_ms": 192146
+    },
+    {
+      "index": 61,
+      "text": "That evening Ilona sat at the kitchen table and Uncle Béla brought her a fresh sheet of paper.",
+      "start_ms": 192146,
+      "end_ms": 198903
+    },
+    {
+      "index": 62,
+      "text": "\"Draw it,\" he said.",
+      "start_ms": 198903,
+      "end_ms": 200326
+    },
+    {
+      "index": 63,
+      "text": "\"Draw the map for the last jar.\" So Ilona drew.",
+      "start_ms": 200326,
+      "end_ms": 203740
+    },
+    {
+      "index": 64,
+      "text": "She drew the village of Uncle Béla at the bottom.",
+      "start_ms": 203740,
+      "end_ms": 207297
+    },
+    {
+      "index": 65,
+      "text": "She drew the hills.",
+      "start_ms": 207297,
+      "end_ms": 208720
+    },
+    {
+      "index": 66,
+      "text": "She drew the small circles for the places she now knew — the acacia trees, the clover fields, the small stand of thyme.",
+      "start_ms": 208720,
+      "end_ms": 217255
+    },
+    {
+      "index": 67,
+      "text": "And then, at the very top of the page, thirty-two kilometers north, she drew a much larger circle.",
+      "start_ms": 217255,
+      "end_ms": 224297
+    },
+    {
+      "index": 68,
+      "text": "And inside it she drew a small careful lavender flower.",
+      "start_ms": 224297,
+      "end_ms": 228281
+    },
+    {
+      "index": 69,
+      "text": "Beside it, she wrote: Nagymama Anna, 2015-2025.",
+      "start_ms": 228281,
+      "end_ms": 231624
+    },
+    {
+      "index": 70,
+      "text": "Uncle Béla looked at the map for a long time.",
+      "start_ms": 231624,
+      "end_ms": 234276
+    },
+    {
+      "index": 71,
+      "text": "Then he said, \"That is a very good map, Ilona.\" She could not speak.",
+      "start_ms": 234276,
+      "end_ms": 238254
+    },
+    {
+      "index": 72,
+      "text": "She was too full of something.",
+      "start_ms": 238254,
+      "end_ms": 240041
+    },
+    {
+      "index": 73,
+      "text": "She was not exactly crying but she could not quite talk.",
+      "start_ms": 240041,
+      "end_ms": 243327
+    },
+    {
+      "index": 74,
+      "text": "Uncle Béla did not try to make her.",
+      "start_ms": 243327,
+      "end_ms": 245402
+    },
+    {
+      "index": 75,
+      "text": "He only sat with her while she looked at her map.",
+      "start_ms": 245402,
+      "end_ms": 248342
+    },
+    {
+      "index": 76,
+      "text": "It was Ilona's last day.",
+      "start_ms": 248342,
+      "end_ms": 249783
+    },
+    {
+      "index": 77,
+      "text": "The bus back to Eger was at eight in the morning, and she and Uncle Béla sat together on the porch step waiting for it.",
+      "start_ms": 249783,
+      "end_ms": 256701
+    },
+    {
+      "index": 78,
+      "text": "The map was rolled up in her canvas bag.",
+      "start_ms": 256701,
+      "end_ms": 259065
+    },
+    {
+      "index": 79,
+      "text": "Uncle Béla was going to keep drawing the maps, he had said, for a few more years.",
+      "start_ms": 259065,
+      "end_ms": 263792
+    },
+    {
+      "index": 80,
+      "text": "Maybe two, maybe three.",
+      "start_ms": 263792,
+      "end_ms": 265175
+    },
+    {
+      "index": 81,
+      "text": "Then he would stop.",
+      "start_ms": 265175,
+      "end_ms": 266328
+    },
+    {
+      "index": 82,
+      "text": "And he would send her every jar he made, with a little note saying which map it belonged to.",
+      "start_ms": 266328,
+      "end_ms": 271690
+    },
+    {
+      "index": 83,
+      "text": "And when she was older, when she wanted to, she could come back and he would show her the rest of what he knew.",
+      "start_ms": 271690,
+      "end_ms": 278146
+    },
+    {
+      "index": 84,
+      "text": "Or she could learn it on her own.",
+      "start_ms": 278146,
+      "end_ms": 280106
+    },
+    {
+      "index": 85,
+      "text": "Or she could stop.",
+      "start_ms": 280106,
+      "end_ms": 281201
+    },
+    {
+      "index": 86,
+      "text": "That was her choice.",
+      "start_ms": 281201,
+      "end_ms": 282470
+    },
+    {
+      "index": 87,
+      "text": "\"Uncle Béla,\" she said.",
+      "start_ms": 282470,
+      "end_ms": 283853
+    },
+    {
+      "index": 88,
+      "text": "\"I don't think I'll stop.\" He smiled.",
+      "start_ms": 283853,
+      "end_ms": 286044
+    },
+    {
+      "index": 89,
+      "text": "He did not look surprised.",
+      "start_ms": 286044,
+      "end_ms": 287600
+    },
+    {
+      "index": 90,
+      "text": "He said, \"I did not think so either.\" And then the bus came, and she got on it, and she waved to him as he stood at the top of the road with his hand raised, and she looked at the low green hills going by all the way back to Eger, and she thought about a single bee, flying thirty-two kilometers north through the summer air, past every other flower it might have chosen, looking for the smell of her grandmother's garden.",
+      "start_ms": 287600,
+      "end_ms": 311928
+    }
+  ]
+}

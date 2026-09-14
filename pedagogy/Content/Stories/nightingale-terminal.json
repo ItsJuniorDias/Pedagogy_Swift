@@ -1,0 +1,167 @@
+{
+  "id": "nightingale-terminal",
+  "title": "The Nightingale Terminal",
+  "subtitle": "Twelve Hours in Istanbul",
+  "author": null,
+  "summary": "Sena is eleven, flying alone from Frankfurt to Singapore with a twelve-hour layover in Istanbul. Her mother works in Germany and her father in Singapore, and Sena flies between them twice a year. She has always disliked the layover. This time, an old Turkish woman named Nazan sits down beside her at the international terminal and, over the course of the long night, tells her one small story.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-nightingale-terminal-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Sena) with straight black hair, wearing a comfortable travel jumper and jeans, sitting at a wide airport terminal window at Istanbul Airport at night. The huge windows show planes lit up on the tarmac outside against a deep blue night sky. Beside her sits an older woman (Nazan, seventies, in a dark modest dress and a soft rose headscarf) with a small canvas bag on her lap and hands folded. Between them on the seat: two small paper cups of tea. Warm ambient airport light. Character positioned center-left, filling roughly 35% of frame height. Palette: cool cream (#FFF9F0), deep blue night through windows, deep ink outlines, warm gold interior lights, small dusty rose (#FF5B8D) accent on Nazan's headscarf. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2027-04-15",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Long Layover",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "nt-ch1-p1-airport",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a massive modern international airport at night — Istanbul Airport. Huge illuminated terminal building. Runways lit up. A large plane taxiing. Cool blue night sky, small warm gold lights everywhere. Heavy black ink outlines, flat shadows, cream palette with cool blue and warm gold accents.",
+          "paragraphs": [
+            "Sena had been through Istanbul Airport six times before. She was eleven, and her mother lived in Frankfurt and her father lived in Singapore, and Sena spent half of every year with each. The direct flight was fifteen hours and expensive, so her parents flew her with a stop. Turkish Airlines was the cheapest with the best service for children flying alone. The stop was in Istanbul. Twelve hours, most times. She had learned to hate the twelve hours. Twelve hours was too long to just wait in an airport but too short to leave and see the city — she was too young to leave the terminal alone.",
+            "Her flight from Frankfurt had landed at eight-thirty in the evening. Her connecting flight to Singapore left at nine in the morning. That was twelve and a half hours in the terminal. The airline's people had walked her from the arriving gate to the transit area and had shown her the small kids' lounge where children flying alone could wait. But she was old enough now that she was allowed to be in the general terminal too if she wanted. She always wanted. The kids' lounge was too full of small crying children and cartoons. She preferred to sit in the huge quiet windows of the international terminal and watch the planes come and go."
+          ]
+        },
+        {
+          "image": "nt-ch1-p2-window",
+          "imagePrompt": "Mike Mignola style for children: interior view of a wide airport terminal seating area at night. Rows of empty seats facing huge floor-to-ceiling windows. A girl (Sena, 11, jumper, small backpack) sits alone in one seat, her cheek pressed against the glass, watching planes on the tarmac outside. Warm interior lights, deep blue night outside. Heavy ink outlines, flat shadows, cream palette with warm gold and deep blue.",
+          "paragraphs": [
+            "She found her usual seating area — a quiet gate near the far end of the international terminal that did not have many flights at night. She sat down. She put her small backpack beside her. She took out her book. She tried to read for a while. She could not concentrate. She looked at her phone. It was nine-forty-five p.m. She still had eleven and a quarter hours to go. She put her head against the glass of the window. She watched a plane taxi past.",
+            "This flight always tired her. Not because it was long — it was long, but she had done it so many times that it was routine. It tired her because every time she flew, she was leaving one parent and going to the other. Right now she was leaving her mother, whom she had lived with for six months, and going to her father, whom she had not seen in six months. She loved her father. She would be happy to see him. But she would miss her mother very much. And she knew that in six months she would fly back and it would be the reverse. She loved both parents. But she never felt fully at home anywhere. She was always half-there."
+          ]
+        },
+        {
+          "image": "nt-ch1-p3-nazan",
+          "imagePrompt": "Mike Mignola style for children: interior scene. An older Turkish woman (Nazan, seventies, dark modest dress, soft rose headscarf, small canvas bag) has just sat down in a seat one over from Sena's, with an empty seat between them. She looks tired but calm. She holds a small paper cup of tea. Warm airport light. Heavy ink outlines, flat shadows, cream palette with warm gold and a soft rose accent.",
+          "paragraphs": [
+            "At about ten-thirty an older woman sat down in the row of chairs — not next to Sena, but one over, with an empty seat between them. She was maybe seventy. She wore a modest dark dress and a soft rose-colored headscarf. She had a small canvas bag on her lap. She was holding a small paper cup of tea. She sat down carefully, like her back hurt a little. She did not look at Sena. She just sat and looked out the window.",
+            "Sena did not really notice her for a while. Sena kept trying to read her book. At about eleven the old woman turned to Sena and said something in Turkish. Sena said, in English, \"I am sorry. I do not speak Turkish.\" The old woman smiled a small smile. She switched to English. Her English was clear but slow. She said, \"I said — you have been sitting there for a long time. Are you alone.\" Sena said, \"Yes. I am flying alone. My flight is in the morning.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Where are you going,\" said the old woman. \"To Singapore. My father lives there.\" \"Where are you coming from.\" \"Frankfurt. My mother lives there.\" The old woman nodded. She said, \"How long is your wait here.\" \"Twelve and a half hours. My flight is at nine tomorrow morning.\" The old woman was silent for a moment. Then she said, \"That is a long time to sit by a window. My name is Nazan. If you would like company, I am also waiting. My flight is at eight in the morning. If you would prefer to be alone, I understand.\"",
+            "Sena said, \"You can stay. Please stay. I am — I am tired of being alone. My name is Sena.\" Nazan smiled. She moved one seat closer so they were sitting next to each other. She said, \"Would you like some tea. I bought too much.\" She handed Sena the small paper cup. It was still warm. It was Turkish tea — strong and dark, with sugar. Sena drank a small sip. It was good."
+          ]
+        },
+        {
+          "image": "nt-ch1-p5-conversation",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Sena (11) and Nazan (seventies) sit side by side by the airport window, both holding small tea cups. They are turned slightly toward each other, in gentle conversation. The window behind them shows the deep blue tarmac with a plane at a gate. Warm airport light. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "For the first hour they talked about small things. Nazan lived in Istanbul. She was returning home. She had been in Frankfurt visiting her son, who lived there. She had a small apartment in a district called Kadıköy on the Asian side of the city. She had been a music teacher for forty-five years — piano, mostly, and some voice. She had retired ten years ago. She lived alone now — her husband had died six years ago — but she was fine, she had many friends, and she saw her son and his family twice a year. This trip had been the second one this year.",
+            "Sena told Nazan about her life. About Frankfurt. About Singapore. About flying twice a year. About the twelve-hour layover, which she had always hated. Nazan listened carefully. She did not interrupt. She nodded. When Sena had finished — she had talked for maybe fifteen minutes, which was longer than she had talked to anyone in a long time — Nazan said, quietly, \"That is a hard life for an eleven-year-old, Sena. Living in two places. Missing one parent while you are with the other. I want you to know that I hear that. It is a real hard thing.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Story",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "nt-ch2-p1-tea",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Same window seating area. Sena (11) and Nazan (seventies) sit together with new cups of tea. It is later — the terminal is quieter. A few other travelers sleep in seats around them. Warm ambient lights. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "At about midnight Nazan went to buy them both more tea. She came back. She said, \"Sena. I want to tell you a small story. It is not a big story. It is my own story. But I want to tell you because I think it might be useful. Would you like to hear it?\" Sena said, \"Yes.\" Nazan settled herself. She held her tea in both hands.",
+            "\"When I was your age,\" she said, \"I lived with my mother in a small village in central Turkey. My father worked in Istanbul. He was — he was a very poor man who had come to the city to look for work when he was young, and he had found work in Istanbul as a — a cook. In a restaurant. He sent money home to my mother. But he was not able to come home often. When he did come, it was for one week a year, at Ramadan. That was all we saw of him. I loved him very much. He loved me very much. But he was gone. That was the shape of my childhood.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"When I was eleven — the same age as you — my father asked me to come to Istanbul for a week to visit him, during the school holiday. Not with my mother. Just me. It was the first time I had been to Istanbul. I took a train — a bus, actually — for two whole days, alone, at eleven years old. That was different from now. At that time it was normal for children to travel alone if they had to. Nobody thought it was strange. I got to Istanbul. My father met me at the bus station. He took me to the small room he lived in. He worked in the evenings, at the restaurant, so I helped him. I brought him tea. I sat in a corner of the kitchen while he cooked. I watched.\"",
+            "\"After that first visit, my mother let me go to see him for a week every summer. From when I was eleven until when I was seventeen. Seven summers. Every summer I took the bus. Every summer I helped him at the restaurant. Every summer I watched him cook. He taught me. He taught me a lot. When I was fifteen he had saved enough that he could come home for two months in the summer instead of one week at Ramadan. Then when I was seventeen — the last summer I went to see him in Istanbul — he told me he had saved enough to come home for good. He was going to close his part of the business in Istanbul and come and live with us again. And he did. He came home. He lived with my mother and me for another twenty-two years. Until he died. He died an old man in a small village in central Turkey with his family around him.\""
+          ]
+        },
+        {
+          "image": "nt-ch2-p3-window-together",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Sena and Nazan continue to talk. The terminal is very quiet now — near-empty seats, dim overhead lights. Both are turned toward the window. Nazan gestures softly with one hand. Sena listens with all her attention. Warm gold light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "\"Sena,\" said Nazan. \"I want you to hear the important part. Those seven summers I was going to Istanbul to see my father. That was — very hard. I missed my mother the whole week. When I came back, I missed my father. That was the whole shape of my life. When I was your age I thought — I will never really be happy. I will always be missing someone. That is what I thought.\"",
+            "\"But — and here is what I want you to know — I was wrong. I was not unhappy. I was learning something that most children do not learn. I was learning how to be with people, and how to remember people. I was learning that you can love someone deeply and not see them for months, and it does not damage the love. In fact it makes the love — different. Bigger. More stubborn. Because it has to be big enough to survive the not-seeing. When I finally lived with both my parents, when I was seventeen, I already knew how to love people through absence. That has served me my whole life. I have lived in Istanbul for fifty-six years. My mother, my father — they died in the village. My son now lives in Frankfurt. My friends are scattered. I do not have anyone close to me. But I am not lonely. I know how to be with people who are not there. You are learning this too, Sena. Right now. That is what these flights are teaching you.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Sena sat with this for a while. She said, \"How do you — how do you do it. How do you love someone who is not there.\" Nazan thought. She said, \"You think of them at specific times. You do not try to hold on to them all the time — that will exhaust you. You choose a time. For me, when I was your age, I always thought of my father at sunset, wherever I was, and I always thought of my mother in the very early morning. Sunset was his time. Morning was hers. That way I could go on with my day. But those two moments were theirs.\"",
+            "\"Also — you write to them. Real letters, if you can. Not the fast little messages. Real letters. My father and I wrote letters for those seven years. He kept mine. When he died, my mother found them all in a box. I still have them. They are proof that we loved each other across a distance. Something you can hold.\""
+          ]
+        },
+        {
+          "image": "nt-ch2-p5-sleeping",
+          "imagePrompt": "Mike Mignola style for children: interior scene late at night. Sena (11) has curled up in her airport seat with her head resting on her small backpack, asleep. Nazan (seventies) sits in the seat beside her, awake, one hand resting lightly on Sena's shoulder. The terminal is very quiet. Cool blue-and-gold night light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "By about two in the morning, Sena was sleepy. Nazan noticed. She said, \"Sena. Sleep for a while. I will stay here. I will not leave. When it is time for your flight I will wake you. You are safe. Sleep.\" Sena said, \"Are you sure.\" Nazan said, \"Yes. I have slept many times in airports. It will be better for you if you sleep for a few hours. Come. Put your bag under your head. Curl up. I will read my book.\"",
+            "Sena did not think she would fall asleep. But she did. She fell asleep almost immediately. She slept for four hours. She had strange dreams. She dreamed about her mother's kitchen in Frankfurt. She dreamed about her father's small apartment in Singapore. She dreamed she was in a village in central Turkey with a very old man who was cooking. When she woke up, at six in the morning, Nazan was still there. Her hand was on Sena's shoulder. She was reading a small book. She looked down. She smiled. She said, \"You slept well. That is good. Now we should eat something and freshen up. My flight is in two hours. Yours is in three.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Two Flights",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "nt-ch3-p1-breakfast",
+          "imagePrompt": "Mike Mignola style for children: interior scene at a small airport café early morning. Sena (11) and Nazan (seventies) sit across a small table from each other, with plates of simple breakfast — bread, cheese, olives. Both look tired but comfortable. Warm morning ambient light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "They ate breakfast together at a small airport café that opened at six-thirty. It was a very simple breakfast — bread, cheese, olives, small cups of tea. Sena ate more than she had expected. She was hungry. Nazan ate slowly. They did not talk very much. Nazan seemed to feel that the important talking had happened in the middle of the night, and this morning was just — being together. Sena felt the same. She did not want to talk. She just wanted to be near Nazan for the little time that was left.",
+            "At seven-fifteen Nazan's gate opened. It was time. They stood up. Nazan gathered her small canvas bag. She looked at Sena. She said, \"Well, Sena. Twelve hours is up. It is time for me to go home. It is time for you to go to your father.\" Sena said, \"Nazan. Thank you. Thank you for staying with me. Thank you for the story.\" Nazan said, \"Sena. Would you write to me. Real letters. Not the fast ones. I have a pen and a piece of paper. Give me your address in Singapore, and your address in Frankfurt. I will write to you first. Then you can write back if you want. Or not. It is up to you.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Sena took the pen. She wrote her mother's address in Frankfurt. She wrote her father's address in Singapore. She wrote her email too, just in case. She wrote her phone number too. She wanted to give Nazan every way to find her. Nazan took the piece of paper. She folded it carefully and put it in her canvas bag. She reached into her bag. She took out a small card. She wrote her own address in Istanbul on the back of it. She gave it to Sena. \"I will write to you next week,\" she said. \"When I am home. Look for a letter. If you write back — I will keep writing. I would like this. I do not have grandchildren of my own.\"",
+            "Sena said, \"Nazan. May I hug you.\" Nazan smiled. She said, \"Please.\" Sena hugged her. Nazan smelled like tea and cloves and something soft that Sena did not have a word for. When they let go, Nazan said, \"Buen viaje, Sena. Or — that is Spanish, not Turkish. Iyi yolculuklar. That is Turkish for the same thing. Have a good journey.\" Sena said, \"Iyi yolculuklar, Nazan.\" And Nazan turned and walked toward her gate. Sena watched her until she was out of sight."
+          ]
+        },
+        {
+          "image": "nt-ch3-p3-alone",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Sena (11) sits alone at the window again, now with morning light coming in strongly. Behind her, the terminal is busier — travelers moving around. Her small backpack beside her. Sena's face is peaceful, thoughtful, changed. Heavy ink outlines, flat shadows, cream palette with warm morning light.",
+          "paragraphs": [
+            "Sena went back to her window seat. She had another hour. She sat and watched the morning traffic on the tarmac. She thought about what Nazan had said. About choosing a time to think of each parent. She decided — right there, at that window — that from now on she would think of her mother at sunset, and her father at sunrise. Sunset had been the time in Nazan's story when Nazan thought of her father. But for Sena, it would be her mother. Because her mother was on the other side of a sunset now, in Germany. And her father was on the other side of a sunrise, in Singapore. That was how the world worked, geographically. It was fair.",
+            "She was going to write to Nazan. She had decided already. She was going to write a real letter — the slow kind, on paper — when she got to her father's apartment. She was going to tell Nazan about her flight, and about Singapore, and about her father. She was going to keep writing to Nazan for as long as Nazan wanted to write. She thought, in a very grown-up way for her age, that she had found a person in the world she was not going to let slip away."
+          ]
+        },
+        {
+          "image": "nt-ch3-p4-flight",
+          "imagePrompt": "Mike Mignola style for children: exterior morning scene. A large plane taking off from Istanbul Airport at dawn, warm pink and gold sky. The city of Istanbul visible in the distance beyond the airport — the Bosphorus, the mosques, the old town. Heavy ink outlines, flat shadows, cream palette with warm pink and gold accents.",
+          "paragraphs": [
+            "Her flight boarded at eight-thirty. She got on. She found her seat. She sat by the window. The plane taxied. It took off. Istanbul fell away below her — she could see, in the pink morning light, the great city stretched along both sides of the Bosphorus, the mosques with their domes, the old walls, the huge amount of it, the beauty of it. Somewhere down there was Nazan, on her flight back to Kadıköy. Sena thought — she is down there. I know her. I met her last night. That is a person I know now, in this whole huge city.",
+            "The flight to Singapore was ten hours. Sena slept for four of them. She read for two. She watched a movie. When they landed at Changi Airport in Singapore, she came off the plane and walked with the airline staff to the arrivals hall, and there was her father, waiting, smiling, arms out. She ran to him. He picked her up — she was almost too big for it but not quite. He said, \"Sena. Sena. I missed you.\" She said, \"I missed you too, Papa.\" And they walked out of the airport into the warm humid Singapore evening, and Sena thought, briefly, of her mother in Frankfurt, where it was afternoon. She held that thought for a moment. Then she let it be. She would return to it at sunset. That would be her mother's time from now on."
+          ]
+        },
+        {
+          "image": "nt-ch3-p5-letter",
+          "imagePrompt": "Mike Mignola style for children: interior scene at Sena's father's small apartment in Singapore. Sena (11) sits at a small desk writing a real letter by hand, folded paper airmail form beside her, an envelope addressed to Istanbul. Through the window: tropical Singapore skyline. Warm evening lamp light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "She wrote to Nazan two days later. A real letter, on paper, in her best handwriting. She told Nazan about her flight, about Singapore, about her father. She told her that she had decided to think of her mother at sunset and her father at sunrise. She told her thank you for the tea. She told her that she thought Nazan was one of the best people she had ever met, and that she was very glad they had shared a terminal.",
+            "Nazan wrote back three weeks later. A real letter. Her handwriting was small and careful. She wrote about Istanbul, about her son in Frankfurt, about the small piano she still played sometimes. She said, at the end of the letter, \"Sena. I am eighty years old. I do not have many years left. But I will write to you for every year that I have. Please write back to me. You are one of the small good things that happened to me in my last decade. I am very grateful the airplane brought me your way.\" Sena kept every letter. She still has them. She wrote to Nazan for ten years, until Nazan died at ninety. She flew, in those years, through Istanbul many more times, and always — always — she sat at the window at her old gate, and always she remembered. And when she was grown, and when she had her own child, she told her child about a Turkish woman in an airport who had stayed with her all night, and taught her how to love people who were not there."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "airport",
+    "kindness",
+    "distance",
+    "letters"
+  ]
+}

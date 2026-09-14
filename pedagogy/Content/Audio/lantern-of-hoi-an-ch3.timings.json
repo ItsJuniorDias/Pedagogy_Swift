@@ -1,0 +1,757 @@
+{
+  "story_id": "lantern-of-hoi-an",
+  "chapter": 3,
+  "total_duration_ms": 347832,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The night of the Mid-Autumn Festival, the town was almost impossibly beautiful.",
+      "start_ms": 2513,
+      "end_ms": 7667
+    },
+    {
+      "index": 1,
+      "text": "Every building was hung with lanterns.",
+      "start_ms": 7667,
+      "end_ms": 10180
+    },
+    {
+      "index": 2,
+      "text": "Every window was hung with lanterns.",
+      "start_ms": 10180,
+      "end_ms": 12564
+    },
+    {
+      "index": 3,
+      "text": "The trees in the square were hung with lanterns.",
+      "start_ms": 12564,
+      "end_ms": 15721
+    },
+    {
+      "index": 4,
+      "text": "The river was full of small candle-lanterns that people were setting afloat.",
+      "start_ms": 15721,
+      "end_ms": 20682
+    },
+    {
+      "index": 5,
+      "text": "There must have been ten thousand people in the old town.",
+      "start_ms": 20682,
+      "end_ms": 24419
+    },
+    {
+      "index": 6,
+      "text": "Mai stood in the middle of the town square, in her best áo dài, holding the practice string in her hands to stop them from shaking.",
+      "start_ms": 24419,
+      "end_ms": 32924
+    },
+    {
+      "index": 7,
+      "text": "Her parents were at the front of the crowd.",
+      "start_ms": 32924,
+      "end_ms": 35759
+    },
+    {
+      "index": 8,
+      "text": "Her father waved at her.",
+      "start_ms": 35759,
+      "end_ms": 37370
+    },
+    {
+      "index": 9,
+      "text": "She waved back.",
+      "start_ms": 37370,
+      "end_ms": 38400
+    },
+    {
+      "index": 10,
+      "text": "She was terrified.",
+      "start_ms": 38400,
+      "end_ms": 39689
+    },
+    {
+      "index": 11,
+      "text": "The fish lantern was on a small wooden platform in the center of the square.",
+      "start_ms": 39689,
+      "end_ms": 44650
+    },
+    {
+      "index": 12,
+      "text": "It was even bigger than Mai had realized.",
+      "start_ms": 44650,
+      "end_ms": 47356
+    },
+    {
+      "index": 13,
+      "text": "Ông Lâm was checking every fin, every string, every candle inside.",
+      "start_ms": 47356,
+      "end_ms": 51673
+    },
+    {
+      "index": 14,
+      "text": "He worked slowly and calmly.",
+      "start_ms": 51673,
+      "end_ms": 53541
+    },
+    {
+      "index": 15,
+      "text": "When he was ready, he came over to Mai.",
+      "start_ms": 53541,
+      "end_ms": 56119
+    },
+    {
+      "index": 16,
+      "text": "He was small.",
+      "start_ms": 56119,
+      "end_ms": 57021
+    },
+    {
+      "index": 17,
+      "text": "Mai had realized, in the last three weeks, that she was almost as tall as he was.",
+      "start_ms": 57021,
+      "end_ms": 62368
+    },
+    {
+      "index": 18,
+      "text": "\"Mai,\" he said.",
+      "start_ms": 62368,
+      "end_ms": 63399
+    },
+    {
+      "index": 19,
+      "text": "He held out the string — the real string, the one attached to the finished fish lantern.",
+      "start_ms": 63399,
+      "end_ms": 69134
+    },
+    {
+      "index": 20,
+      "text": "\"Take it.",
+      "start_ms": 69134,
+      "end_ms": 69778
+    },
+    {
+      "index": 21,
+      "text": "Feel it in your hands.",
+      "start_ms": 69778,
+      "end_ms": 71260
+    },
+    {
+      "index": 22,
+      "text": "Breathe.",
+      "start_ms": 71260,
+      "end_ms": 71840
+    },
+    {
+      "index": 23,
+      "text": "Do you remember what I told you.\" She said, \"Yes.\" \"What did I tell you.\" \"Do not fight it.",
+      "start_ms": 71840,
+      "end_ms": 77767
+    },
+    {
+      "index": 24,
+      "text": "Move with it.",
+      "start_ms": 77767,
+      "end_ms": 78669
+    },
+    {
+      "index": 25,
+      "text": "Relax my shoulders.",
+      "start_ms": 78669,
+      "end_ms": 79958
+    },
+    {
+      "index": 26,
+      "text": "Breathe from my belly, not my chest.",
+      "start_ms": 79958,
+      "end_ms": 82342
+    },
+    {
+      "index": 27,
+      "text": "Do not lock my knees.",
+      "start_ms": 82342,
+      "end_ms": 83759
+    },
+    {
+      "index": 28,
+      "text": "Watch the tail of the lantern, not the string.\" Ông Lâm smiled.",
+      "start_ms": 83759,
+      "end_ms": 87883
+    },
+    {
+      "index": 29,
+      "text": "\"Yes.",
+      "start_ms": 87883,
+      "end_ms": 88269
+    },
+    {
+      "index": 30,
+      "text": "Very good.",
+      "start_ms": 88269,
+      "end_ms": 88978
+    },
+    {
+      "index": 31,
+      "text": "Come.",
+      "start_ms": 88978,
+      "end_ms": 89365
+    },
+    {
+      "index": 32,
+      "text": "It is time.\"",
+      "start_ms": 89365,
+      "end_ms": 90267
+    },
+    {
+      "index": 33,
+      "text": "He led her onto the wooden platform.",
+      "start_ms": 90267,
+      "end_ms": 92651
+    },
+    {
+      "index": 34,
+      "text": "He lit the small candles inside the fish, one by one.",
+      "start_ms": 92651,
+      "end_ms": 96130
+    },
+    {
+      "index": 35,
+      "text": "The lantern began to glow — a warm orange from the inside, so beautiful Mai wanted to cry.",
+      "start_ms": 96130,
+      "end_ms": 101993
+    },
+    {
+      "index": 36,
+      "text": "He checked the string.",
+      "start_ms": 101993,
+      "end_ms": 103475
+    },
+    {
+      "index": 37,
+      "text": "He nodded to her.",
+      "start_ms": 103475,
+      "end_ms": 104635
+    },
+    {
+      "index": 38,
+      "text": "He stepped back.",
+      "start_ms": 104635,
+      "end_ms": 105730
+    },
+    {
+      "index": 39,
+      "text": "The whole square went quiet.",
+      "start_ms": 105730,
+      "end_ms": 107598
+    },
+    {
+      "index": 40,
+      "text": "Ten thousand people stopped talking.",
+      "start_ms": 107598,
+      "end_ms": 109982
+    },
+    {
+      "index": 41,
+      "text": "Mai stood on the platform, alone, holding the string that held the fish lantern.",
+      "start_ms": 109982,
+      "end_ms": 115201
+    },
+    {
+      "index": 42,
+      "text": "The mayor of Hoi An made a small speech that Mai did not really hear.",
+      "start_ms": 115201,
+      "end_ms": 119711
+    },
+    {
+      "index": 43,
+      "text": "Then he said her name.",
+      "start_ms": 119711,
+      "end_ms": 121193
+    },
+    {
+      "index": 44,
+      "text": "Then he said, in a loud voice, \"Release the lantern!\"",
+      "start_ms": 121193,
+      "end_ms": 124608
+    },
+    {
+      "index": 45,
+      "text": "The lantern rose.",
+      "start_ms": 124608,
+      "end_ms": 125678
+    },
+    {
+      "index": 46,
+      "text": "Mai had known it would rise — that was the point of it, the heat of the candles made it fly — but she had not fully believed it until it did.",
+      "start_ms": 125678,
+      "end_ms": 134119
+    },
+    {
+      "index": 47,
+      "text": "It lifted off its stand slowly, and then more quickly, and then it was floating above her head.",
+      "start_ms": 134119,
+      "end_ms": 139826
+    },
+    {
+      "index": 48,
+      "text": "She adjusted her grip.",
+      "start_ms": 139826,
+      "end_ms": 141194
+    },
+    {
+      "index": 49,
+      "text": "She let out the string, hand over hand, the way Ông Lâm had shown her.",
+      "start_ms": 141194,
+      "end_ms": 145414
+    },
+    {
+      "index": 50,
+      "text": "She let it rise.",
+      "start_ms": 145414,
+      "end_ms": 146425
+    },
+    {
+      "index": 51,
+      "text": "She did not fight it.",
+      "start_ms": 146425,
+      "end_ms": 147733
+    },
+    {
+      "index": 52,
+      "text": "She breathed.",
+      "start_ms": 147733,
+      "end_ms": 148565
+    },
+    {
+      "index": 53,
+      "text": "She watched the tail.",
+      "start_ms": 148565,
+      "end_ms": 149932
+    },
+    {
+      "index": 54,
+      "text": "The lantern floated up above the crowd.",
+      "start_ms": 149932,
+      "end_ms": 152310
+    },
+    {
+      "index": 55,
+      "text": "It went up maybe fifteen meters.",
+      "start_ms": 152310,
+      "end_ms": 154272
+    },
+    {
+      "index": 56,
+      "text": "Then it stopped rising and it started to drift — the wind was pulling it toward the river.",
+      "start_ms": 154272,
+      "end_ms": 159682
+    },
+    {
+      "index": 57,
+      "text": "Mai turned as it drifted.",
+      "start_ms": 159682,
+      "end_ms": 161227
+    },
+    {
+      "index": 58,
+      "text": "She kept the string tight but not too tight.",
+      "start_ms": 161227,
+      "end_ms": 163902
+    },
+    {
+      "index": 59,
+      "text": "She could feel the lantern moving — as if she was holding a small living thing on a leash, exactly as Ông Lâm had said.",
+      "start_ms": 163902,
+      "end_ms": 171036
+    },
+    {
+      "index": 60,
+      "text": "It was heavy and light at the same time.",
+      "start_ms": 171036,
+      "end_ms": 173473
+    },
+    {
+      "index": 61,
+      "text": "It wanted to go.",
+      "start_ms": 173473,
+      "end_ms": 174484
+    },
+    {
+      "index": 62,
+      "text": "She let it go, but she also held it.",
+      "start_ms": 174484,
+      "end_ms": 176683
+    },
+    {
+      "index": 63,
+      "text": "Both were true.",
+      "start_ms": 176683,
+      "end_ms": 177694
+    },
+    {
+      "index": 64,
+      "text": "The wind pulled the lantern out over the river.",
+      "start_ms": 177694,
+      "end_ms": 180547
+    },
+    {
+      "index": 65,
+      "text": "Mai walked with it.",
+      "start_ms": 180547,
+      "end_ms": 181736
+    },
+    {
+      "index": 66,
+      "text": "Ông Lâm was behind her, watching.",
+      "start_ms": 181736,
+      "end_ms": 183757
+    },
+    {
+      "index": 67,
+      "text": "He did not touch her.",
+      "start_ms": 183757,
+      "end_ms": 185065
+    },
+    {
+      "index": 68,
+      "text": "He let her do it.",
+      "start_ms": 185065,
+      "end_ms": 186135
+    },
+    {
+      "index": 69,
+      "text": "The crowd followed her — a long line of people walking with her along the bank of the river.",
+      "start_ms": 186135,
+      "end_ms": 191664
+    },
+    {
+      "index": 70,
+      "text": "The lantern floated above the water.",
+      "start_ms": 191664,
+      "end_ms": 193863
+    },
+    {
+      "index": 71,
+      "text": "She could see, from below, its silhouette against the huge round moon that had risen over the town.",
+      "start_ms": 193863,
+      "end_ms": 199808
+    },
+    {
+      "index": 72,
+      "text": "It was the most beautiful thing she had ever seen in her life.",
+      "start_ms": 199808,
+      "end_ms": 203553
+    },
+    {
+      "index": 73,
+      "text": "And she was holding the string that held it.",
+      "start_ms": 203553,
+      "end_ms": 206228
+    },
+    {
+      "index": 74,
+      "text": "And it was not fighting her.",
+      "start_ms": 206228,
+      "end_ms": 207952
+    },
+    {
+      "index": 75,
+      "text": "She was not fighting it.",
+      "start_ms": 207952,
+      "end_ms": 209438
+    },
+    {
+      "index": 76,
+      "text": "They were moving together.",
+      "start_ms": 209438,
+      "end_ms": 210984
+    },
+    {
+      "index": 77,
+      "text": "It flew for maybe eighteen minutes.",
+      "start_ms": 210984,
+      "end_ms": 213477
+    },
+    {
+      "index": 78,
+      "text": "Then it began to descend — the candles were burning low.",
+      "start_ms": 213477,
+      "end_ms": 217425
+    },
+    {
+      "index": 79,
+      "text": "Mai could feel the string get slack, then tight, then slack.",
+      "start_ms": 217425,
+      "end_ms": 221649
+    },
+    {
+      "index": 80,
+      "text": "She let it drift down.",
+      "start_ms": 221649,
+      "end_ms": 223242
+    },
+    {
+      "index": 81,
+      "text": "The lantern began to lose its shape as the silk started to burn.",
+      "start_ms": 223242,
+      "end_ms": 227744
+    },
+    {
+      "index": 82,
+      "text": "Small flames appeared on its sides.",
+      "start_ms": 227744,
+      "end_ms": 230237
+    },
+    {
+      "index": 83,
+      "text": "Mai kept walking.",
+      "start_ms": 230237,
+      "end_ms": 231483
+    },
+    {
+      "index": 84,
+      "text": "The fish lantern floated down over the river.",
+      "start_ms": 231483,
+      "end_ms": 234669
+    },
+    {
+      "index": 85,
+      "text": "It touched the water.",
+      "start_ms": 234669,
+      "end_ms": 236193
+    },
+    {
+      "index": 86,
+      "text": "It sat on the surface, still glowing.",
+      "start_ms": 236193,
+      "end_ms": 238825
+    },
+    {
+      "index": 87,
+      "text": "Then, slowly, the paper burned away, and the bamboo frame — freed of its silk — began to sink.",
+      "start_ms": 238825,
+      "end_ms": 245404
+    },
+    {
+      "index": 88,
+      "text": "The last candles guttered.",
+      "start_ms": 245404,
+      "end_ms": 247274
+    },
+    {
+      "index": 89,
+      "text": "The fish lantern went dark.",
+      "start_ms": 247274,
+      "end_ms": 249213
+    },
+    {
+      "index": 90,
+      "text": "It floated on the water for another minute, half-submerged.",
+      "start_ms": 249213,
+      "end_ms": 253368
+    },
+    {
+      "index": 91,
+      "text": "Then it slipped under.",
+      "start_ms": 253368,
+      "end_ms": 255030
+    },
+    {
+      "index": 92,
+      "text": "Mai stood at the water's edge with the empty string in her hands.",
+      "start_ms": 255030,
+      "end_ms": 259601
+    },
+    {
+      "index": 93,
+      "text": "She did not move.",
+      "start_ms": 259601,
+      "end_ms": 260848
+    },
+    {
+      "index": 94,
+      "text": "Ông Lâm came up beside her.",
+      "start_ms": 260848,
+      "end_ms": 262787
+    },
+    {
+      "index": 95,
+      "text": "He put his hand on her shoulder.",
+      "start_ms": 262787,
+      "end_ms": 265072
+    },
+    {
+      "index": 96,
+      "text": "He said, in his soft voice, \"You did it.",
+      "start_ms": 265072,
+      "end_ms": 267912
+    },
+    {
+      "index": 97,
+      "text": "You did it perfectly.",
+      "start_ms": 267912,
+      "end_ms": 269435
+    },
+    {
+      "index": 98,
+      "text": "The whole town will remember.",
+      "start_ms": 269435,
+      "end_ms": 271513
+    },
+    {
+      "index": 99,
+      "text": "My teacher would have been proud.",
+      "start_ms": 271513,
+      "end_ms": 273868
+    },
+    {
+      "index": 100,
+      "text": "I am proud.\" Mai said, quietly, \"It is gone.\" \"Yes,\" said Ông Lâm.",
+      "start_ms": 273868,
+      "end_ms": 278508
+    },
+    {
+      "index": 101,
+      "text": "\"It is gone.",
+      "start_ms": 278508,
+      "end_ms": 279408
+    },
+    {
+      "index": 102,
+      "text": "That is the whole point.",
+      "start_ms": 279408,
+      "end_ms": 281139
+    },
+    {
+      "index": 103,
+      "text": "You know that.",
+      "start_ms": 281139,
+      "end_ms": 282178
+    },
+    {
+      "index": 104,
+      "text": "You knew that when you agreed.",
+      "start_ms": 282178,
+      "end_ms": 284325
+    },
+    {
+      "index": 105,
+      "text": "You did it anyway.",
+      "start_ms": 284325,
+      "end_ms": 285641
+    },
+    {
+      "index": 106,
+      "text": "That is what a person like you does.\"",
+      "start_ms": 285641,
+      "end_ms": 288342
+    },
+    {
+      "index": 107,
+      "text": "Mai stood at the river for a while longer.",
+      "start_ms": 288342,
+      "end_ms": 291320
+    },
+    {
+      "index": 108,
+      "text": "The crowd began to disperse.",
+      "start_ms": 291320,
+      "end_ms": 293328
+    },
+    {
+      "index": 109,
+      "text": "Her parents came up to her and hugged her.",
+      "start_ms": 293328,
+      "end_ms": 296306
+    },
+    {
+      "index": 110,
+      "text": "Her mother was crying.",
+      "start_ms": 296306,
+      "end_ms": 297899
+    },
+    {
+      "index": 111,
+      "text": "Her father was smiling in a way she had not seen before.",
+      "start_ms": 297899,
+      "end_ms": 301847
+    },
+    {
+      "index": 112,
+      "text": "She hugged them back.",
+      "start_ms": 301847,
+      "end_ms": 303370
+    },
+    {
+      "index": 113,
+      "text": "She was very tired.",
+      "start_ms": 303370,
+      "end_ms": 304755
+    },
+    {
+      "index": 114,
+      "text": "She was also — she realized — very happy.",
+      "start_ms": 304755,
+      "end_ms": 307664
+    },
+    {
+      "index": 115,
+      "text": "Ông Lâm was standing a little way off, letting her family have her.",
+      "start_ms": 307664,
+      "end_ms": 312373
+    },
+    {
+      "index": 116,
+      "text": "When she looked over at him, he was watching her.",
+      "start_ms": 312373,
+      "end_ms": 315836
+    },
+    {
+      "index": 117,
+      "text": "He smiled.",
+      "start_ms": 315836,
+      "end_ms": 316598
+    },
+    {
+      "index": 118,
+      "text": "She smiled back.",
+      "start_ms": 316598,
+      "end_ms": 317775
+    },
+    {
+      "index": 119,
+      "text": "She understood that in twenty years, or forty years, or whenever it was, it would be her turn to choose the next person.",
+      "start_ms": 317775,
+      "end_ms": 326155
+    },
+    {
+      "index": 120,
+      "text": "She understood that she would have to look, for a long time, before she found them.",
+      "start_ms": 326155,
+      "end_ms": 331973
+    },
+    {
+      "index": 121,
+      "text": "She understood that this was the whole tradition — one person, choosing another person, in the crowd, over years.",
+      "start_ms": 331973,
+      "end_ms": 339868
+    },
+    {
+      "index": 122,
+      "text": "She thought — I can do that.",
+      "start_ms": 339868,
+      "end_ms": 341876
+    },
+    {
+      "index": 123,
+      "text": "I can watch, when the time comes.",
+      "start_ms": 341876,
+      "end_ms": 344231
+    },
+    {
+      "index": 124,
+      "text": "I will know who they are, the way he knew who I was.",
+      "start_ms": 344231,
+      "end_ms": 347832
+    }
+  ]
+}

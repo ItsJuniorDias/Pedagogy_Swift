@@ -1,0 +1,433 @@
+{
+  "story_id": "hut-on-the-strait",
+  "chapter": 1,
+  "total_duration_ms": 290160,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Kaarel was eleven and spent every June with his father on Saaremaa, which was the largest of the Estonian islands, a two-hour ferry ride west from the mainland.",
+      "start_ms": 2007,
+      "end_ms": 12431
+    },
+    {
+      "index": 1,
+      "text": "The house they stayed in had been his grandfather's — a small wooden cottage with a red tile roof on the north coast of the island, a hundred meters from the sea, at the end of a dirt road that saw maybe six cars in an entire summer.",
+      "start_ms": 12431,
+      "end_ms": 27582
+    },
+    {
+      "index": 2,
+      "text": "Kaarel's father, Priit, had grown up in that house.",
+      "start_ms": 27582,
+      "end_ms": 30949
+    },
+    {
+      "index": 3,
+      "text": "Now he worked as a marine biologist in Tallinn and only came back for June, before his summer research trips began.",
+      "start_ms": 30949,
+      "end_ms": 38460
+    },
+    {
+      "index": 4,
+      "text": "Kaarel came with him.",
+      "start_ms": 38460,
+      "end_ms": 39949
+    },
+    {
+      "index": 5,
+      "text": "Priit was in his early forties and had a dark blond beard and was a quiet man who liked to fish, and in June each year he brought the small blue and white motorboat down from the shed and tied it to the pier and took Kaarel out on the strait every other day.",
+      "start_ms": 39949,
+      "end_ms": 56718
+    },
+    {
+      "index": 6,
+      "text": "They would put out three nets in the shallow water between Saaremaa and the smaller island of Muhu to the east, and they would come back the next day to pull them in and see what they had.",
+      "start_ms": 56718,
+      "end_ms": 68955
+    },
+    {
+      "index": 7,
+      "text": "Sometimes they got pike, sometimes flounder, sometimes nothing.",
+      "start_ms": 68955,
+      "end_ms": 73099
+    },
+    {
+      "index": 8,
+      "text": "Kaarel had been going with his father since he was nine.",
+      "start_ms": 73099,
+      "end_ms": 76790
+    },
+    {
+      "index": 9,
+      "text": "This year he was allowed to steer.",
+      "start_ms": 76790,
+      "end_ms": 79121
+    },
+    {
+      "index": 10,
+      "text": "On the second Wednesday in June, they went out early.",
+      "start_ms": 79121,
+      "end_ms": 82617
+    },
+    {
+      "index": 11,
+      "text": "The Väinameri strait was calm — completely calm, a pale grey mirror with no wind.",
+      "start_ms": 82617,
+      "end_ms": 87926
+    },
+    {
+      "index": 12,
+      "text": "It was the sort of morning that in this part of the Baltic came without warning and left without warning too.",
+      "start_ms": 87926,
+      "end_ms": 95048
+    },
+    {
+      "index": 13,
+      "text": "Priit did not fully trust calm mornings on the Väinameri.",
+      "start_ms": 95048,
+      "end_ms": 98804
+    },
+    {
+      "index": 14,
+      "text": "He said so, on the way out.",
+      "start_ms": 98804,
+      "end_ms": 100617
+    },
+    {
+      "index": 15,
+      "text": "But the nets needed pulling and the fish were biting; they would be quick.",
+      "start_ms": 100617,
+      "end_ms": 105408
+    },
+    {
+      "index": 16,
+      "text": "They ran the boat east across the strait for maybe twenty minutes.",
+      "start_ms": 105408,
+      "end_ms": 109723
+    },
+    {
+      "index": 17,
+      "text": "Kaarel steered.",
+      "start_ms": 109723,
+      "end_ms": 110753
+    },
+    {
+      "index": 18,
+      "text": "Priit sat in the bow and watched the water and the sky.",
+      "start_ms": 110753,
+      "end_ms": 114359
+    },
+    {
+      "index": 19,
+      "text": "They passed a small tree-covered islet on their left — Priit told Kaarel its name was Kesselaid, and that it had had one family living on it for four hundred years, until the last brother left in the nineteen thirties, and it had been empty ever since.",
+      "start_ms": 114359,
+      "end_ms": 130652
+    },
+    {
+      "index": 20,
+      "text": "There was an old fishing hut still on the west side, Priit said, that people used sometimes if a storm caught them.",
+      "start_ms": 130652,
+      "end_ms": 138123
+    },
+    {
+      "index": 21,
+      "text": "It had been his grandfather's storm hut, in fact — Kaarel's great-grandfather.",
+      "start_ms": 138123,
+      "end_ms": 143210
+    },
+    {
+      "index": 22,
+      "text": "Kaarel had never known that.",
+      "start_ms": 143210,
+      "end_ms": 145142
+    },
+    {
+      "index": 23,
+      "text": "They reached the first net.",
+      "start_ms": 145142,
+      "end_ms": 146945
+    },
+    {
+      "index": 24,
+      "text": "They pulled it.",
+      "start_ms": 146945,
+      "end_ms": 147976
+    },
+    {
+      "index": 25,
+      "text": "Two decent pike and a small flounder — a good take.",
+      "start_ms": 147976,
+      "end_ms": 151325
+    },
+    {
+      "index": 26,
+      "text": "They set the net back down, weighted, and moved on to the second.",
+      "start_ms": 151325,
+      "end_ms": 155575
+    },
+    {
+      "index": 27,
+      "text": "That one had three pike.",
+      "start_ms": 155575,
+      "end_ms": 157185
+    },
+    {
+      "index": 28,
+      "text": "They were feeling lucky by the time they reached the third net.",
+      "start_ms": 157185,
+      "end_ms": 161306
+    },
+    {
+      "index": 29,
+      "text": "Priit was smiling in his quiet way, the way he did on good mornings, and he said to Kaarel, without looking away from the net, \"Good day.",
+      "start_ms": 161306,
+      "end_ms": 170194
+    },
+    {
+      "index": 30,
+      "text": "Days like this we tell your mother about.\"",
+      "start_ms": 170194,
+      "end_ms": 173027
+    },
+    {
+      "index": 31,
+      "text": "It was while they were pulling the third net that Priit stopped smiling.",
+      "start_ms": 173027,
+      "end_ms": 177728
+    },
+    {
+      "index": 32,
+      "text": "He was looking past Kaarel to the northwest.",
+      "start_ms": 177728,
+      "end_ms": 180626
+    },
+    {
+      "index": 33,
+      "text": "Kaarel turned.",
+      "start_ms": 180626,
+      "end_ms": 181592
+    },
+    {
+      "index": 34,
+      "text": "There was a line on the horizon that had not been there before.",
+      "start_ms": 181592,
+      "end_ms": 185714
+    },
+    {
+      "index": 35,
+      "text": "It was low and dark grey — a smudge, no more.",
+      "start_ms": 185714,
+      "end_ms": 188676
+    },
+    {
+      "index": 36,
+      "text": "But Priit was already saying, \"Leave the net.",
+      "start_ms": 188676,
+      "end_ms": 191638
+    },
+    {
+      "index": 37,
+      "text": "Pull it back in the water.",
+      "start_ms": 191638,
+      "end_ms": 193377
+    },
+    {
+      "index": 38,
+      "text": "We are going home.\"",
+      "start_ms": 193377,
+      "end_ms": 194730
+    },
+    {
+      "index": 39,
+      "text": "Kaarel dropped the net.",
+      "start_ms": 194730,
+      "end_ms": 196275
+    },
+    {
+      "index": 40,
+      "text": "He moved fast — Priit's voice had a note in it he had not heard before.",
+      "start_ms": 196275,
+      "end_ms": 200912
+    },
+    {
+      "index": 41,
+      "text": "Priit started the motor.",
+      "start_ms": 200912,
+      "end_ms": 202522
+    },
+    {
+      "index": 42,
+      "text": "It caught on the first pull, and they turned the boat around and started for home.",
+      "start_ms": 202522,
+      "end_ms": 207867
+    },
+    {
+      "index": 43,
+      "text": "The wind was already rising by the time they had gone two hundred meters.",
+      "start_ms": 207867,
+      "end_ms": 212633
+    },
+    {
+      "index": 44,
+      "text": "Small choppy waves — nothing serious yet — began slapping the bow.",
+      "start_ms": 212633,
+      "end_ms": 216947
+    },
+    {
+      "index": 45,
+      "text": "The grey line on the horizon was closer now, and no longer just a smudge.",
+      "start_ms": 216947,
+      "end_ms": 221713
+    },
+    {
+      "index": 46,
+      "text": "It was a wall.",
+      "start_ms": 221713,
+      "end_ms": 222679
+    },
+    {
+      "index": 47,
+      "text": "Kaarel could see the color of it — dark grey with a green underside, low and heavy.",
+      "start_ms": 222679,
+      "end_ms": 228024
+    },
+    {
+      "index": 48,
+      "text": "Then the motor coughed.",
+      "start_ms": 228024,
+      "end_ms": 229492
+    },
+    {
+      "index": 49,
+      "text": "Then it coughed again.",
+      "start_ms": 229492,
+      "end_ms": 230898
+    },
+    {
+      "index": 50,
+      "text": "Then it stopped.",
+      "start_ms": 230898,
+      "end_ms": 231938
+    },
+    {
+      "index": 51,
+      "text": "Priit tried it — nothing.",
+      "start_ms": 231938,
+      "end_ms": 233528
+    },
+    {
+      "index": 52,
+      "text": "He tried it — nothing.",
+      "start_ms": 233528,
+      "end_ms": 234935
+    },
+    {
+      "index": 53,
+      "text": "He tried it a third time.",
+      "start_ms": 234935,
+      "end_ms": 236525
+    },
+    {
+      "index": 54,
+      "text": "He said, very calmly, \"Kaarel.",
+      "start_ms": 236525,
+      "end_ms": 238421
+    },
+    {
+      "index": 55,
+      "text": "Get the oars.",
+      "start_ms": 238421,
+      "end_ms": 239277
+    },
+    {
+      "index": 56,
+      "text": "Now.\"",
+      "start_ms": 239277,
+      "end_ms": 239705
+    },
+    {
+      "index": 57,
+      "text": "There was no chance of making it back to Saaremaa.",
+      "start_ms": 239705,
+      "end_ms": 242824
+    },
+    {
+      "index": 58,
+      "text": "Priit had already calculated.",
+      "start_ms": 242824,
+      "end_ms": 244659
+    },
+    {
+      "index": 59,
+      "text": "Kesselaid — the small islet with the old hut — was ten minutes of hard rowing to the south.",
+      "start_ms": 244659,
+      "end_ms": 250285
+    },
+    {
+      "index": 60,
+      "text": "Home was forty minutes even with a working motor.",
+      "start_ms": 250285,
+      "end_ms": 253343
+    },
+    {
+      "index": 61,
+      "text": "Priit took both oars and began to row.",
+      "start_ms": 253343,
+      "end_ms": 255728
+    },
+    {
+      "index": 62,
+      "text": "He was strong and he had rowed all his life.",
+      "start_ms": 255728,
+      "end_ms": 258480
+    },
+    {
+      "index": 63,
+      "text": "Kaarel sat low in the bow, out of the wind, and watched his father's face.",
+      "start_ms": 258480,
+      "end_ms": 263067
+    },
+    {
+      "index": 64,
+      "text": "Priit was not afraid, exactly.",
+      "start_ms": 263067,
+      "end_ms": 264963
+    },
+    {
+      "index": 65,
+      "text": "He was concentrating.",
+      "start_ms": 264963,
+      "end_ms": 266309
+    },
+    {
+      "index": 66,
+      "text": "That was how Kaarel knew this was serious.",
+      "start_ms": 266309,
+      "end_ms": 269000
+    },
+    {
+      "index": 67,
+      "text": "They made Kesselaid just as the first hard rain came.",
+      "start_ms": 269000,
+      "end_ms": 272302
+    },
+    {
+      "index": 68,
+      "text": "Priit ran the bow of the boat up the small stony beach on the west side of the islet, and they both jumped out and dragged it up above the tide line and tied it to the base of a birch tree.",
+      "start_ms": 272302,
+      "end_ms": 283922
+    },
+    {
+      "index": 69,
+      "text": "Then Priit grabbed the small emergency bag from under the seat and said, \"The hut.",
+      "start_ms": 283922,
+      "end_ms": 288998
+    },
+    {
+      "index": 70,
+      "text": "Run.\" And they ran.",
+      "start_ms": 288998,
+      "end_ms": 290160
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "story_id": "last-chapter",
+  "chapter": 2,
+  "total_duration_ms": 136608,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Toby did not tell his mother about the manuscript.",
+      "start_ms": 1857,
+      "end_ms": 4783
+    },
+    {
+      "index": 1,
+      "text": "He did not know why he did not tell her.",
+      "start_ms": 4783,
+      "end_ms": 7090
+    },
+    {
+      "index": 2,
+      "text": "Maybe because she was sad about closing the store and he did not want to make it worse.",
+      "start_ms": 7090,
+      "end_ms": 12043
+    },
+    {
+      "index": 3,
+      "text": "Maybe because he wanted to read it first, alone, before anyone else did.",
+      "start_ms": 12043,
+      "end_ms": 16207
+    },
+    {
+      "index": 4,
+      "text": "He hid the manuscript in his school backpack.",
+      "start_ms": 16207,
+      "end_ms": 18795
+    },
+    {
+      "index": 5,
+      "text": "He took it home.",
+      "start_ms": 18795,
+      "end_ms": 19752
+    },
+    {
+      "index": 6,
+      "text": "He read it in his room, under his desk lamp, after his parents had gone to bed.",
+      "start_ms": 19752,
+      "end_ms": 24310
+    },
+    {
+      "index": 7,
+      "text": "The book was about a boy named Toby.",
+      "start_ms": 24310,
+      "end_ms": 26392
+    },
+    {
+      "index": 8,
+      "text": "It was about a boy who was starting sixth grade at a school on the north side of Chicago.",
+      "start_ms": 26392,
+      "end_ms": 31457
+    },
+    {
+      "index": 9,
+      "text": "It was about a boy who had a best friend named Marcus and a dog named Waffle and a favorite hot chocolate from the coffee shop across from his apartment.",
+      "start_ms": 31457,
+      "end_ms": 40179
+    },
+    {
+      "index": 10,
+      "text": "It was about a boy who was being pushed around at school by another boy named Ryan Callahan.",
+      "start_ms": 40179,
+      "end_ms": 45469
+    },
+    {
+      "index": 11,
+      "text": "Real Toby, sitting under his desk lamp, felt something cold slide down his back.",
+      "start_ms": 45469,
+      "end_ms": 50083
+    },
+    {
+      "index": 12,
+      "text": "Real Toby went to school with a real boy named Ryan Callahan.",
+      "start_ms": 50083,
+      "end_ms": 53572
+    },
+    {
+      "index": 13,
+      "text": "And Ryan Callahan had, twice a week for the last month, taken things out of Toby's locker and hidden them, and shoved Toby in the hall, and called Toby names.",
+      "start_ms": 53572,
+      "end_ms": 62576
+    },
+    {
+      "index": 14,
+      "text": "Real Toby had not told anybody about it.",
+      "start_ms": 62576,
+      "end_ms": 64939
+    },
+    {
+      "index": 15,
+      "text": "The book kept going.",
+      "start_ms": 64939,
+      "end_ms": 66121
+    },
+    {
+      "index": 16,
+      "text": "It described what real Toby had eaten for breakfast this morning.",
+      "start_ms": 66121,
+      "end_ms": 69835
+    },
+    {
+      "index": 17,
+      "text": "It described a conversation real Toby had with his mother last week about whether he was okay, and how real Toby had said \"I'm fine\" even though he wasn't.",
+      "start_ms": 69835,
+      "end_ms": 78670
+    },
+    {
+      "index": 18,
+      "text": "How did his grandmother know?",
+      "start_ms": 78670,
+      "end_ms": 80415
+    },
+    {
+      "index": 19,
+      "text": "She could not have known.",
+      "start_ms": 80415,
+      "end_ms": 81878
+    },
+    {
+      "index": 20,
+      "text": "She had written this in 1998.",
+      "start_ms": 81878,
+      "end_ms": 83566
+    },
+    {
+      "index": 21,
+      "text": "She had been forty-six years old.",
+      "start_ms": 83566,
+      "end_ms": 85479
+    },
+    {
+      "index": 22,
+      "text": "She had not even met Toby's mother yet.",
+      "start_ms": 85479,
+      "end_ms": 87730
+    },
+    {
+      "index": 23,
+      "text": "Toby's father was a stranger to her.",
+      "start_ms": 87730,
+      "end_ms": 89812
+    },
+    {
+      "index": 24,
+      "text": "There was no Waffle in 1998.",
+      "start_ms": 89812,
+      "end_ms": 91500
+    },
+    {
+      "index": 25,
+      "text": "But there she was, on page 87, describing Waffle.",
+      "start_ms": 91500,
+      "end_ms": 94314
+    },
+    {
+      "index": 26,
+      "text": "Down to the small brown spot on Waffle's left ear.",
+      "start_ms": 94314,
+      "end_ms": 97240
+    },
+    {
+      "index": 27,
+      "text": "By Chapter 11, Toby in the book had had enough.",
+      "start_ms": 97240,
+      "end_ms": 99998
+    },
+    {
+      "index": 28,
+      "text": "He was sitting at the kitchen table with his father, and he was about to say something.",
+      "start_ms": 99998,
+      "end_ms": 105006
+    },
+    {
+      "index": 29,
+      "text": "Real Toby held his breath.",
+      "start_ms": 105006,
+      "end_ms": 106582
+    },
+    {
+      "index": 30,
+      "text": "\"Dad,\" said Toby in the book.",
+      "start_ms": 106582,
+      "end_ms": 108270
+    },
+    {
+      "index": 31,
+      "text": "\"I need to talk to you about something.",
+      "start_ms": 108270,
+      "end_ms": 110521
+    },
+    {
+      "index": 32,
+      "text": "There's a kid at school —\"",
+      "start_ms": 110521,
+      "end_ms": 111984
+    },
+    {
+      "index": 33,
+      "text": "The chapter ended there.",
+      "start_ms": 111984,
+      "end_ms": 113873
+    },
+    {
+      "index": 34,
+      "text": "Real Toby turned the page.",
+      "start_ms": 113873,
+      "end_ms": 115906
+    },
+    {
+      "index": 35,
+      "text": "The next page said, at the top: CHAPTER 12.",
+      "start_ms": 115906,
+      "end_ms": 119175
+    },
+    {
+      "index": 36,
+      "text": "The rest of the page was blank.",
+      "start_ms": 119175,
+      "end_ms": 121572
+    },
+    {
+      "index": 37,
+      "text": "So was the next page.",
+      "start_ms": 121572,
+      "end_ms": 123170
+    },
+    {
+      "index": 38,
+      "text": "And the next.",
+      "start_ms": 123170,
+      "end_ms": 124260
+    },
+    {
+      "index": 39,
+      "text": "The manuscript ended.",
+      "start_ms": 124260,
+      "end_ms": 125858
+    },
+    {
+      "index": 40,
+      "text": "The story stopped.",
+      "start_ms": 125858,
+      "end_ms": 127310
+    },
+    {
+      "index": 41,
+      "text": "There was a post-it note on the blank page.",
+      "start_ms": 127310,
+      "end_ms": 130506
+    },
+    {
+      "index": 42,
+      "text": "Grandma Ada's handwriting, faded but clear.",
+      "start_ms": 130506,
+      "end_ms": 133775
+    },
+    {
+      "index": 43,
+      "text": "It said: FINISH THIS WHEN YOU KNOW HOW.",
+      "start_ms": 133775,
+      "end_ms": 136608
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "filename": "story-hut-on-the-strait-cover.png",
+      "idiom": "universal",
+      "scale": "3x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "story_id": "bookbinders-daughter",
+  "chapter": 3,
+  "total_duration_ms": 290712,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On the first day of the third week, Emiko sat in the courtyard with the almost-full book on her lap and thought about it.",
+      "start_ms": 1726,
+      "end_ms": 8989
+    },
+    {
+      "index": 1,
+      "text": "It was evening.",
+      "start_ms": 8989,
+      "end_ms": 9941
+    },
+    {
+      "index": 2,
+      "text": "The cicadas were loud in the pine tree.",
+      "start_ms": 9941,
+      "end_ms": 12322
+    },
+    {
+      "index": 3,
+      "text": "She had turned the book over many times.",
+      "start_ms": 12322,
+      "end_ms": 14763
+    },
+    {
+      "index": 4,
+      "text": "She had looked at all the pages.",
+      "start_ms": 14763,
+      "end_ms": 16727
+    },
+    {
+      "index": 5,
+      "text": "She could not think what belonged on the last one.",
+      "start_ms": 16727,
+      "end_ms": 19823
+    },
+    {
+      "index": 6,
+      "text": "Obaachan came out and sat beside her on the low bench.",
+      "start_ms": 19823,
+      "end_ms": 23097
+    },
+    {
+      "index": 7,
+      "text": "She did not say anything at first.",
+      "start_ms": 23097,
+      "end_ms": 25180
+    },
+    {
+      "index": 8,
+      "text": "She just looked at the pine tree with Emiko.",
+      "start_ms": 25180,
+      "end_ms": 27859
+    },
+    {
+      "index": 9,
+      "text": "And then she said, \"You have not put anything of yours in the book.\" Emiko looked up.",
+      "start_ms": 27859,
+      "end_ms": 32979
+    },
+    {
+      "index": 10,
+      "text": "\"What do you mean, mine?",
+      "start_ms": 32979,
+      "end_ms": 34467
+    },
+    {
+      "index": 11,
+      "text": "Nothing in the house is mine.",
+      "start_ms": 34467,
+      "end_ms": 36253
+    },
+    {
+      "index": 12,
+      "text": "I don't live here.\" Obaachan smiled a small smile.",
+      "start_ms": 36253,
+      "end_ms": 39288
+    },
+    {
+      "index": 13,
+      "text": "\"You live here this summer,\" she said.",
+      "start_ms": 39288,
+      "end_ms": 41610
+    },
+    {
+      "index": 14,
+      "text": "\"You are here now.",
+      "start_ms": 41610,
+      "end_ms": 42741
+    },
+    {
+      "index": 15,
+      "text": "The house is remembering you too.",
+      "start_ms": 42741,
+      "end_ms": 44765
+    },
+    {
+      "index": 16,
+      "text": "Right now.",
+      "start_ms": 44765,
+      "end_ms": 45420
+    },
+    {
+      "index": 17,
+      "text": "As we sit here.",
+      "start_ms": 45420,
+      "end_ms": 46372
+    },
+    {
+      "index": 18,
+      "text": "If you don't put yourself in, someone will find your book in a hundred years and they will know about my mother and my brother and a woman's shopping list from 1978 — and they will not know that you were the one who found them.\"",
+      "start_ms": 46372,
+      "end_ms": 60064
+    },
+    {
+      "index": 19,
+      "text": "Emiko was quiet for a long time.",
+      "start_ms": 60064,
+      "end_ms": 62028
+    },
+    {
+      "index": 20,
+      "text": "Then she said, \"But I haven't done anything.",
+      "start_ms": 62028,
+      "end_ms": 64707
+    },
+    {
+      "index": 21,
+      "text": "I'm eleven.\" Obaachan laughed.",
+      "start_ms": 64707,
+      "end_ms": 66552
+    },
+    {
+      "index": 22,
+      "text": "\"Emiko,\" she said, \"you have found nine things.",
+      "start_ms": 66552,
+      "end_ms": 69410
+    },
+    {
+      "index": 23,
+      "text": "You spent three weeks in a small hot house looking for pieces of people who are gone.",
+      "start_ms": 69410,
+      "end_ms": 74529
+    },
+    {
+      "index": 24,
+      "text": "That is not nothing.",
+      "start_ms": 74529,
+      "end_ms": 75779
+    },
+    {
+      "index": 25,
+      "text": "That is exactly the thing my books have always been about.",
+      "start_ms": 75779,
+      "end_ms": 79291
+    },
+    {
+      "index": 26,
+      "text": "Someone caring enough to look.\"",
+      "start_ms": 79291,
+      "end_ms": 81256
+    },
+    {
+      "index": 27,
+      "text": "She stood up.",
+      "start_ms": 81256,
+      "end_ms": 82089
+    },
+    {
+      "index": 28,
+      "text": "\"But it is your book.",
+      "start_ms": 82089,
+      "end_ms": 83399
+    },
+    {
+      "index": 29,
+      "text": "Put in what you want.",
+      "start_ms": 83399,
+      "end_ms": 84708
+    },
+    {
+      "index": 30,
+      "text": "Or don't.",
+      "start_ms": 84708,
+      "end_ms": 85304
+    },
+    {
+      "index": 31,
+      "text": "You have a week to decide.\" She went back inside.",
+      "start_ms": 85304,
+      "end_ms": 88280
+    },
+    {
+      "index": 32,
+      "text": "Emiko stayed on the bench for a long time.",
+      "start_ms": 88280,
+      "end_ms": 90840
+    },
+    {
+      "index": 33,
+      "text": "The sun went down.",
+      "start_ms": 90840,
+      "end_ms": 91971
+    },
+    {
+      "index": 34,
+      "text": "The pine tree turned into a black shape against the pale evening sky.",
+      "start_ms": 91971,
+      "end_ms": 96138
+    },
+    {
+      "index": 35,
+      "text": "She thought about what she could possibly put on the last page.",
+      "start_ms": 96138,
+      "end_ms": 99888
+    },
+    {
+      "index": 36,
+      "text": "That night she went into the workshop when Obaachan was asleep.",
+      "start_ms": 99888,
+      "end_ms": 104440
+    },
+    {
+      "index": 37,
+      "text": "She turned on the small lamp on the low table.",
+      "start_ms": 104440,
+      "end_ms": 107783
+    },
+    {
+      "index": 38,
+      "text": "She took a piece of the good ivory paper.",
+      "start_ms": 107783,
+      "end_ms": 110770
+    },
+    {
+      "index": 39,
+      "text": "She thought for a while, and then she wrote, in her most careful characters, one paragraph.",
+      "start_ms": 110770,
+      "end_ms": 117313
+    },
+    {
+      "index": 40,
+      "text": "And then she stopped and read it, and she was not happy with it, and she wrote it again on a second piece of paper.",
+      "start_ms": 117313,
+      "end_ms": 125563
+    },
+    {
+      "index": 41,
+      "text": "And then a third time, on a third piece.",
+      "start_ms": 125563,
+      "end_ms": 128479
+    },
+    {
+      "index": 42,
+      "text": "It took her almost two hours to get it the way she wanted it.",
+      "start_ms": 128479,
+      "end_ms": 132960
+    },
+    {
+      "index": 43,
+      "text": "The third one she glued into the tenth page of the book.",
+      "start_ms": 132960,
+      "end_ms": 137014
+    },
+    {
+      "index": 44,
+      "text": "Underneath the paragraph, she wrote: Emiko Watanabe, eleven years old, summer 2026.",
+      "start_ms": 137014,
+      "end_ms": 142989
+    },
+    {
+      "index": 45,
+      "text": "Granddaughter.",
+      "start_ms": 142989,
+      "end_ms": 144055
+    },
+    {
+      "index": 46,
+      "text": "She looked at the page for a moment.",
+      "start_ms": 144055,
+      "end_ms": 146687
+    },
+    {
+      "index": 47,
+      "text": "Then she closed the book.",
+      "start_ms": 146687,
+      "end_ms": 148607
+    },
+    {
+      "index": 48,
+      "text": "In the morning, Emiko gave the book to Obaachan.",
+      "start_ms": 148607,
+      "end_ms": 152092
+    },
+    {
+      "index": 49,
+      "text": "Obaachan sat down at the low table and opened it.",
+      "start_ms": 152092,
+      "end_ms": 155648
+    },
+    {
+      "index": 50,
+      "text": "She read all ten pages, slowly, taking her time with each one.",
+      "start_ms": 155648,
+      "end_ms": 160129
+    },
+    {
+      "index": 51,
+      "text": "When she got to the last page, she read it twice.",
+      "start_ms": 160129,
+      "end_ms": 163685
+    },
+    {
+      "index": 52,
+      "text": "Then she looked up.",
+      "start_ms": 163685,
+      "end_ms": 165108
+    },
+    {
+      "index": 53,
+      "text": "Her eyes were bright.",
+      "start_ms": 165108,
+      "end_ms": 166672
+    },
+    {
+      "index": 54,
+      "text": "\"May I read this out loud?\" she asked.",
+      "start_ms": 166672,
+      "end_ms": 169446
+    },
+    {
+      "index": 55,
+      "text": "Emiko nodded.",
+      "start_ms": 169446,
+      "end_ms": 170513
+    },
+    {
+      "index": 56,
+      "text": "Obaachan read: 'This summer I lived in a house that was much older than me.",
+      "start_ms": 170513,
+      "end_ms": 175918
+    },
+    {
+      "index": 57,
+      "text": "My grandmother said she wanted me to bind what the house remembered.",
+      "start_ms": 175918,
+      "end_ms": 180826
+    },
+    {
+      "index": 58,
+      "text": "I looked everywhere.",
+      "start_ms": 180826,
+      "end_ms": 182320
+    },
+    {
+      "index": 59,
+      "text": "I found a recipe from her mother, and a photograph of her brother who died, and a ring that no one knew, and a shopping list, and a horse made of straw, and a postcard from someone who was sorry.",
+      "start_ms": 182320,
+      "end_ms": 196260
+    },
+    {
+      "index": 60,
+      "text": "But I also learned that the house was remembering me too, while I was there.",
+      "start_ms": 196260,
+      "end_ms": 201736
+    },
+    {
+      "index": 61,
+      "text": "That was a strange thing to know.",
+      "start_ms": 201736,
+      "end_ms": 204154
+    },
+    {
+      "index": 62,
+      "text": "It means when I am old, someone will look for pieces of me in some other house, and maybe they will find them, and maybe they will not.",
+      "start_ms": 204154,
+      "end_ms": 213827
+    },
+    {
+      "index": 63,
+      "text": "Either way, I will have been here.",
+      "start_ms": 213827,
+      "end_ms": 216316
+    },
+    {
+      "index": 64,
+      "text": "That is what a house remembers.",
+      "start_ms": 216316,
+      "end_ms": 218592
+    },
+    {
+      "index": 65,
+      "text": "Everyone who ever lived in it for even a little while.'",
+      "start_ms": 218592,
+      "end_ms": 222504
+    },
+    {
+      "index": 66,
+      "text": "Obaachan closed the book.",
+      "start_ms": 222504,
+      "end_ms": 224076
+    },
+    {
+      "index": 67,
+      "text": "She sat with her hand on the cover for a moment.",
+      "start_ms": 224076,
+      "end_ms": 227039
+    },
+    {
+      "index": 68,
+      "text": "Then she stood up and she walked to the shelves.",
+      "start_ms": 227039,
+      "end_ms": 230002
+    },
+    {
+      "index": 69,
+      "text": "There was one empty slot at the far end of the top shelf, next to a book Emiko had noticed the first day but had not asked about.",
+      "start_ms": 230002,
+      "end_ms": 237863
+    },
+    {
+      "index": 70,
+      "text": "Obaachan slid Emiko's book into the empty slot.",
+      "start_ms": 237863,
+      "end_ms": 240765
+    },
+    {
+      "index": 71,
+      "text": "Then she said, \"Come here, look at this one.\" And she took down the book beside Emiko's and opened it.",
+      "start_ms": 240765,
+      "end_ms": 247054
+    },
+    {
+      "index": 72,
+      "text": "The first page had a small piece of a school uniform sleeve glued to it.",
+      "start_ms": 247054,
+      "end_ms": 251468
+    },
+    {
+      "index": 73,
+      "text": "The second had a photograph of a young woman in a wedding kimono.",
+      "start_ms": 251468,
+      "end_ms": 255459
+    },
+    {
+      "index": 74,
+      "text": "The third had a leaf.",
+      "start_ms": 255459,
+      "end_ms": 256789
+    },
+    {
+      "index": 75,
+      "text": "Emiko understood, after a moment.",
+      "start_ms": 256789,
+      "end_ms": 258845
+    },
+    {
+      "index": 76,
+      "text": "\"This one is about my mother,\" she said.",
+      "start_ms": 258845,
+      "end_ms": 261325
+    },
+    {
+      "index": 77,
+      "text": "Obaachan nodded.",
+      "start_ms": 261325,
+      "end_ms": 262352
+    },
+    {
+      "index": 78,
+      "text": "\"I made it the year she went to America.",
+      "start_ms": 262352,
+      "end_ms": 264832
+    },
+    {
+      "index": 79,
+      "text": "So I would remember her the way she was before she left.",
+      "start_ms": 264832,
+      "end_ms": 268278
+    },
+    {
+      "index": 80,
+      "text": "And now yours is next to hers.",
+      "start_ms": 268278,
+      "end_ms": 270153
+    },
+    {
+      "index": 81,
+      "text": "It is exactly right.\"",
+      "start_ms": 270153,
+      "end_ms": 271544
+    },
+    {
+      "index": 82,
+      "text": "Emiko stayed for one more week in Kyoto.",
+      "start_ms": 271544,
+      "end_ms": 274023
+    },
+    {
+      "index": 83,
+      "text": "She helped Obaachan with two more books — she was faster now, with the glue and the thread.",
+      "start_ms": 274023,
+      "end_ms": 279586
+    },
+    {
+      "index": 84,
+      "text": "When she flew back to America, she took nothing from the house with her, because she had learned already that the important things stayed on the shelf, next to each other, remembering.",
+      "start_ms": 279586,
+      "end_ms": 290712
+    }
+  ]
+}

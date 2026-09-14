@@ -1,0 +1,751 @@
+{
+  "story_id": "three-days-on-the-atoll",
+  "chapter": 2,
+  "total_duration_ms": 326808,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On the first night, they sat by their small fire on the beach.",
+      "start_ms": 1630,
+      "end_ms": 5299
+    },
+    {
+      "index": 1,
+      "text": "They had eaten two small fish that Tavita had caught in the reef with a hand-line he had had in the boat.",
+      "start_ms": 5299,
+      "end_ms": 11471
+    },
+    {
+      "index": 2,
+      "text": "The fish had been grilled directly on the coals.",
+      "start_ms": 11471,
+      "end_ms": 14324
+    },
+    {
+      "index": 3,
+      "text": "It had been a very simple meal — no salt, no rice, no vegetables — but Mala had been very hungry, and it had been one of the best meals she had ever had.",
+      "start_ms": 14324,
+      "end_ms": 23291
+    },
+    {
+      "index": 4,
+      "text": "She said so.",
+      "start_ms": 23291,
+      "end_ms": 24048
+    },
+    {
+      "index": 5,
+      "text": "Her father laughed.",
+      "start_ms": 24048,
+      "end_ms": 25213
+    },
+    {
+      "index": 6,
+      "text": "He said, \"Hunger is the best chef.",
+      "start_ms": 25213,
+      "end_ms": 27251
+    },
+    {
+      "index": 7,
+      "text": "That is what my mother used to say.\"",
+      "start_ms": 27251,
+      "end_ms": 29464
+    },
+    {
+      "index": 8,
+      "text": "The sky, when the sun went down, was — enormous.",
+      "start_ms": 29464,
+      "end_ms": 32317
+    },
+    {
+      "index": 9,
+      "text": "Mala had never seen a sky like this.",
+      "start_ms": 32317,
+      "end_ms": 34471
+    },
+    {
+      "index": 10,
+      "text": "In Tarawa there were streetlights and houses and cooking fires everywhere.",
+      "start_ms": 34471,
+      "end_ms": 38839
+    },
+    {
+      "index": 11,
+      "text": "Here there was nothing.",
+      "start_ms": 38839,
+      "end_ms": 40236
+    },
+    {
+      "index": 12,
+      "text": "The Milky Way arched across the sky.",
+      "start_ms": 40236,
+      "end_ms": 42391
+    },
+    {
+      "index": 13,
+      "text": "There were more stars than she could believe.",
+      "start_ms": 42391,
+      "end_ms": 45069
+    },
+    {
+      "index": 14,
+      "text": "Her father lay back on the sand and looked up.",
+      "start_ms": 45069,
+      "end_ms": 47806
+    },
+    {
+      "index": 15,
+      "text": "She lay back beside him.",
+      "start_ms": 47806,
+      "end_ms": 49261
+    },
+    {
+      "index": 16,
+      "text": "They did not talk for a long time.",
+      "start_ms": 49261,
+      "end_ms": 51358
+    },
+    {
+      "index": 17,
+      "text": "After a while her father said, \"Mala.",
+      "start_ms": 51358,
+      "end_ms": 53570
+    },
+    {
+      "index": 18,
+      "text": "I want to talk to you about something.\" \"Yes?\" \"When I was your age — eleven — my father died.",
+      "start_ms": 53570,
+      "end_ms": 59102
+    },
+    {
+      "index": 19,
+      "text": "Suddenly.",
+      "start_ms": 59102,
+      "end_ms": 59684
+    },
+    {
+      "index": 20,
+      "text": "On his boat.",
+      "start_ms": 59684,
+      "end_ms": 60441
+    },
+    {
+      "index": 21,
+      "text": "His heart.",
+      "start_ms": 60441,
+      "end_ms": 61082
+    },
+    {
+      "index": 22,
+      "text": "Nobody had known it was going to happen.",
+      "start_ms": 61082,
+      "end_ms": 63469
+    },
+    {
+      "index": 23,
+      "text": "He went out one morning, alone, and he did not come back.",
+      "start_ms": 63469,
+      "end_ms": 66847
+    },
+    {
+      "index": 24,
+      "text": "My uncle found the boat that afternoon, empty.",
+      "start_ms": 66847,
+      "end_ms": 69583
+    },
+    {
+      "index": 25,
+      "text": "They never found his body.",
+      "start_ms": 69583,
+      "end_ms": 71155
+    },
+    {
+      "index": 26,
+      "text": "That was how it was.\" Mala had heard some of this before but not all of it.",
+      "start_ms": 71155,
+      "end_ms": 75581
+    },
+    {
+      "index": 27,
+      "text": "She said, \"That is very sad, Papa.\" \"Yes,\" said her father.",
+      "start_ms": 75581,
+      "end_ms": 79075
+    },
+    {
+      "index": 28,
+      "text": "\"It was very sad.",
+      "start_ms": 79075,
+      "end_ms": 80123
+    },
+    {
+      "index": 29,
+      "text": "But — I want to tell you about it because it made me think, when I was your age, about my own dying.",
+      "start_ms": 80123,
+      "end_ms": 86004
+    },
+    {
+      "index": 30,
+      "text": "I was scared for years.",
+      "start_ms": 86004,
+      "end_ms": 87401
+    },
+    {
+      "index": 31,
+      "text": "That the same thing would happen to me.",
+      "start_ms": 87401,
+      "end_ms": 89730
+    },
+    {
+      "index": 32,
+      "text": "That I would be on a boat with you someday and something would happen.",
+      "start_ms": 89730,
+      "end_ms": 93865
+    },
+    {
+      "index": 33,
+      "text": "That you would be — I do not know.",
+      "start_ms": 93865,
+      "end_ms": 95903
+    },
+    {
+      "index": 34,
+      "text": "Alone.\"",
+      "start_ms": 95903,
+      "end_ms": 96427
+    },
+    {
+      "index": 35,
+      "text": "\"I have thought about this every time I have taken you out on the boat,\" he said.",
+      "start_ms": 96427,
+      "end_ms": 101202
+    },
+    {
+      "index": 36,
+      "text": "\"I know you love the boat.",
+      "start_ms": 101202,
+      "end_ms": 102774
+    },
+    {
+      "index": 37,
+      "text": "I know I take you out anyway.",
+      "start_ms": 102774,
+      "end_ms": 104521
+    },
+    {
+      "index": 38,
+      "text": "But I want you to know — I have always known there was a small chance that something would happen.",
+      "start_ms": 104521,
+      "end_ms": 110285
+    },
+    {
+      "index": 39,
+      "text": "And I want you to know some things, if that ever does happen.",
+      "start_ms": 110285,
+      "end_ms": 113895
+    },
+    {
+      "index": 40,
+      "text": "Some things that would help.\"",
+      "start_ms": 113895,
+      "end_ms": 115584
+    },
+    {
+      "index": 41,
+      "text": "Her father sat up.",
+      "start_ms": 115584,
+      "end_ms": 116834
+    },
+    {
+      "index": 42,
+      "text": "He said, \"First.",
+      "start_ms": 116834,
+      "end_ms": 117952
+    },
+    {
+      "index": 43,
+      "text": "If we are ever separated on the water and I cannot help you — go to the nearest land.",
+      "start_ms": 117952,
+      "end_ms": 123609
+    },
+    {
+      "index": 44,
+      "text": "Do not try to sail all the way home.",
+      "start_ms": 123609,
+      "end_ms": 126043
+    },
+    {
+      "index": 45,
+      "text": "Go to whatever land you can see.",
+      "start_ms": 126043,
+      "end_ms": 128214
+    },
+    {
+      "index": 46,
+      "text": "Any land.",
+      "start_ms": 128214,
+      "end_ms": 128872
+    },
+    {
+      "index": 47,
+      "text": "Coconut palms will give you water.",
+      "start_ms": 128872,
+      "end_ms": 131174
+    },
+    {
+      "index": 48,
+      "text": "That is the main thing on any of these small islands.",
+      "start_ms": 131174,
+      "end_ms": 134726
+    },
+    {
+      "index": 49,
+      "text": "You will not die of thirst if there are coconut palms.",
+      "start_ms": 134726,
+      "end_ms": 138344
+    },
+    {
+      "index": 50,
+      "text": "That is the main thing to know.\"",
+      "start_ms": 138344,
+      "end_ms": 140581
+    },
+    {
+      "index": 51,
+      "text": "\"Second.",
+      "start_ms": 140581,
+      "end_ms": 141173
+    },
+    {
+      "index": 52,
+      "text": "Fire is the second most important thing.",
+      "start_ms": 141173,
+      "end_ms": 143870
+    },
+    {
+      "index": 53,
+      "text": "If you have matches — start a fire.",
+      "start_ms": 143870,
+      "end_ms": 146238
+    },
+    {
+      "index": 54,
+      "text": "If not, you can use the little glass from the compass we keep in the boat as a magnifying glass — you can start a fire with sun and glass.",
+      "start_ms": 146238,
+      "end_ms": 155382
+    },
+    {
+      "index": 55,
+      "text": "I have shown you before.",
+      "start_ms": 155382,
+      "end_ms": 157026
+    },
+    {
+      "index": 56,
+      "text": "Third.",
+      "start_ms": 157026,
+      "end_ms": 157487
+    },
+    {
+      "index": 57,
+      "text": "Do not panic.",
+      "start_ms": 157487,
+      "end_ms": 158408
+    },
+    {
+      "index": 58,
+      "text": "Panic is what kills people in situations like this.",
+      "start_ms": 158408,
+      "end_ms": 161828
+    },
+    {
+      "index": 59,
+      "text": "Not thirst.",
+      "start_ms": 161828,
+      "end_ms": 162618
+    },
+    {
+      "index": 60,
+      "text": "Not hunger.",
+      "start_ms": 162618,
+      "end_ms": 163407
+    },
+    {
+      "index": 61,
+      "text": "Not sharks.",
+      "start_ms": 163407,
+      "end_ms": 164196
+    },
+    {
+      "index": 62,
+      "text": "Panic.",
+      "start_ms": 164196,
+      "end_ms": 164657
+    },
+    {
+      "index": 63,
+      "text": "If you stay calm, you can survive for a very long time on very little.\"",
+      "start_ms": 164657,
+      "end_ms": 169459
+    },
+    {
+      "index": 64,
+      "text": "\"Papa,\" Mala said.",
+      "start_ms": 169459,
+      "end_ms": 170709
+    },
+    {
+      "index": 65,
+      "text": "\"Are you going to die on the boat like your father did.\" Tavita was quiet for a long moment.",
+      "start_ms": 170709,
+      "end_ms": 176826
+    },
+    {
+      "index": 66,
+      "text": "Then he said, \"I do not know, Mala.",
+      "start_ms": 176826,
+      "end_ms": 179195
+    },
+    {
+      "index": 67,
+      "text": "I hope not.",
+      "start_ms": 179195,
+      "end_ms": 179984
+    },
+    {
+      "index": 68,
+      "text": "I have taken care of my health.",
+      "start_ms": 179984,
+      "end_ms": 182089
+    },
+    {
+      "index": 69,
+      "text": "I go to the doctor once a year.",
+      "start_ms": 182089,
+      "end_ms": 184194
+    },
+    {
+      "index": 70,
+      "text": "My heart is fine, as far as I know.",
+      "start_ms": 184194,
+      "end_ms": 186562
+    },
+    {
+      "index": 71,
+      "text": "I am forty-two.",
+      "start_ms": 186562,
+      "end_ms": 187615
+    },
+    {
+      "index": 72,
+      "text": "Forty-two is not old.",
+      "start_ms": 187615,
+      "end_ms": 189062
+    },
+    {
+      "index": 73,
+      "text": "I hope to be with you for many many years.",
+      "start_ms": 189062,
+      "end_ms": 191890
+    },
+    {
+      "index": 74,
+      "text": "But — no one knows.",
+      "start_ms": 191890,
+      "end_ms": 193206
+    },
+    {
+      "index": 75,
+      "text": "I am telling you these things because — I want you to know them.",
+      "start_ms": 193206,
+      "end_ms": 197482
+    },
+    {
+      "index": 76,
+      "text": "Not because I think it is going to happen.",
+      "start_ms": 197482,
+      "end_ms": 200310
+    },
+    {
+      "index": 77,
+      "text": "Because I think — I owe you the knowledge.",
+      "start_ms": 200310,
+      "end_ms": 203139
+    },
+    {
+      "index": 78,
+      "text": "Just in case.\"",
+      "start_ms": 203139,
+      "end_ms": 204192
+    },
+    {
+      "index": 79,
+      "text": "Mala nodded.",
+      "start_ms": 204192,
+      "end_ms": 205047
+    },
+    {
+      "index": 80,
+      "text": "She was not scared, exactly.",
+      "start_ms": 205047,
+      "end_ms": 206954
+    },
+    {
+      "index": 81,
+      "text": "She was — grateful, in a way she was not used to feeling.",
+      "start_ms": 206954,
+      "end_ms": 210770
+    },
+    {
+      "index": 82,
+      "text": "Her father was talking to her like she was — an adult.",
+      "start_ms": 210770,
+      "end_ms": 214388
+    },
+    {
+      "index": 83,
+      "text": "Not entirely, but close.",
+      "start_ms": 214388,
+      "end_ms": 216032
+    },
+    {
+      "index": 84,
+      "text": "He was telling her real things.",
+      "start_ms": 216032,
+      "end_ms": 218137
+    },
+    {
+      "index": 85,
+      "text": "Not softening them.",
+      "start_ms": 218137,
+      "end_ms": 219453
+    },
+    {
+      "index": 86,
+      "text": "She said, \"Papa.",
+      "start_ms": 219453,
+      "end_ms": 220571
+    },
+    {
+      "index": 87,
+      "text": "Can you also tell me — if you did die — what should I do.",
+      "start_ms": 220571,
+      "end_ms": 224386
+    },
+    {
+      "index": 88,
+      "text": "Not just for surviving on a boat.",
+      "start_ms": 224386,
+      "end_ms": 226623
+    },
+    {
+      "index": 89,
+      "text": "What should I do — for real.",
+      "start_ms": 226623,
+      "end_ms": 228531
+    },
+    {
+      "index": 90,
+      "text": "In my life.\"",
+      "start_ms": 228531,
+      "end_ms": 229320
+    },
+    {
+      "index": 91,
+      "text": "Her father was quiet for a very long time.",
+      "start_ms": 229320,
+      "end_ms": 232235
+    },
+    {
+      "index": 92,
+      "text": "Then he said, in a slow careful voice, \"Mala.",
+      "start_ms": 232235,
+      "end_ms": 235354
+    },
+    {
+      "index": 93,
+      "text": "If I die when you are still young, this is what I want you to do.",
+      "start_ms": 235354,
+      "end_ms": 239828
+    },
+    {
+      "index": 94,
+      "text": "Live with Aunt Teuea.",
+      "start_ms": 239828,
+      "end_ms": 241320
+    },
+    {
+      "index": 95,
+      "text": "She loves you like her own child.",
+      "start_ms": 241320,
+      "end_ms": 243625
+    },
+    {
+      "index": 96,
+      "text": "She will take care of you.",
+      "start_ms": 243625,
+      "end_ms": 245455
+    },
+    {
+      "index": 97,
+      "text": "She will get you to finish school.",
+      "start_ms": 245455,
+      "end_ms": 247828
+    },
+    {
+      "index": 98,
+      "text": "She will make sure you have what you need.",
+      "start_ms": 247828,
+      "end_ms": 250743
+    },
+    {
+      "index": 99,
+      "text": "And — go to secondary school.",
+      "start_ms": 250743,
+      "end_ms": 252777
+    },
+    {
+      "index": 100,
+      "text": "Then, if you want, university.",
+      "start_ms": 252777,
+      "end_ms": 254878
+    },
+    {
+      "index": 101,
+      "text": "There is a scholarship program for Kiribati students to study in Fiji, or Australia, or New Zealand.",
+      "start_ms": 254878,
+      "end_ms": 261726
+    },
+    {
+      "index": 102,
+      "text": "I have been putting money aside for it.",
+      "start_ms": 261726,
+      "end_ms": 264437
+    },
+    {
+      "index": 103,
+      "text": "Aunt Teuea knows where the money is.",
+      "start_ms": 264437,
+      "end_ms": 266946
+    },
+    {
+      "index": 104,
+      "text": "Go and study.",
+      "start_ms": 266946,
+      "end_ms": 267895
+    },
+    {
+      "index": 105,
+      "text": "Come back to Tarawa afterward, if you want to.",
+      "start_ms": 267895,
+      "end_ms": 271081
+    },
+    {
+      "index": 106,
+      "text": "Or stay in the bigger world.",
+      "start_ms": 271081,
+      "end_ms": 273047
+    },
+    {
+      "index": 107,
+      "text": "Whatever you want.",
+      "start_ms": 273047,
+      "end_ms": 274335
+    },
+    {
+      "index": 108,
+      "text": "But — do not stop learning.",
+      "start_ms": 274335,
+      "end_ms": 276234
+    },
+    {
+      "index": 109,
+      "text": "That is what I want most for you.",
+      "start_ms": 276234,
+      "end_ms": 278539
+    },
+    {
+      "index": 110,
+      "text": "Do not stop learning.\"",
+      "start_ms": 278539,
+      "end_ms": 280166
+    },
+    {
+      "index": 111,
+      "text": "\"Also — and this is different — I want you to know that a life in Tarawa is a good life.",
+      "start_ms": 280166,
+      "end_ms": 286199
+    },
+    {
+      "index": 112,
+      "text": "If you decide you want to stay here and be a fisherman like me, or teach school like your Aunt Teuea, or do anything else that keeps you close to home — that is also a full life.",
+      "start_ms": 286199,
+      "end_ms": 298334
+    },
+    {
+      "index": 113,
+      "text": "Do not think that leaving is the only good thing.",
+      "start_ms": 298334,
+      "end_ms": 301724
+    },
+    {
+      "index": 114,
+      "text": "Some people leave.",
+      "start_ms": 301724,
+      "end_ms": 303012
+    },
+    {
+      "index": 115,
+      "text": "Some people stay.",
+      "start_ms": 303012,
+      "end_ms": 304233
+    },
+    {
+      "index": 116,
+      "text": "Both are honest.",
+      "start_ms": 304233,
+      "end_ms": 305385
+    },
+    {
+      "index": 117,
+      "text": "Whichever one you pick — pick it because it is the one that feels right, not because it is the one that seems bigger.\" He paused.",
+      "start_ms": 305385,
+      "end_ms": 314198
+    },
+    {
+      "index": 118,
+      "text": "\"Do not worry about me watching.",
+      "start_ms": 314198,
+      "end_ms": 316435
+    },
+    {
+      "index": 119,
+      "text": "If I am watching, I am proud of you either way.",
+      "start_ms": 316435,
+      "end_ms": 319690
+    },
+    {
+      "index": 120,
+      "text": "And if I am not watching — well.",
+      "start_ms": 319690,
+      "end_ms": 321927
+    },
+    {
+      "index": 121,
+      "text": "Then it does not matter.",
+      "start_ms": 321927,
+      "end_ms": 323622
+    },
+    {
+      "index": 122,
+      "text": "But live for you.",
+      "start_ms": 323622,
+      "end_ms": 324842
+    },
+    {
+      "index": 123,
+      "text": "Yes?\" Mala said, \"Yes, Papa.\"",
+      "start_ms": 324842,
+      "end_ms": 326808
+    }
+  ]
+}

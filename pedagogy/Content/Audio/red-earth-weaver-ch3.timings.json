@@ -1,0 +1,643 @@
+{
+  "story_id": "red-earth-weaver",
+  "chapter": 3,
+  "total_duration_ms": 320376,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Bebe came back a little later.",
+      "start_ms": 1903,
+      "end_ms": 3870
+    },
+    {
+      "index": 1,
+      "text": "She was carrying a clay water jar on her shoulder.",
+      "start_ms": 3870,
+      "end_ms": 7106
+    },
+    {
+      "index": 2,
+      "text": "She stopped in the doorway when she saw the lamba spread out on the floor of her main room, and Vola standing over it.",
+      "start_ms": 7106,
+      "end_ms": 14656
+    },
+    {
+      "index": 3,
+      "text": "She set the water jar down carefully by the door.",
+      "start_ms": 14656,
+      "end_ms": 17828
+    },
+    {
+      "index": 4,
+      "text": "She said, \"What are you doing, my heart?\" And Vola said, \"Bebe.",
+      "start_ms": 17828,
+      "end_ms": 21888
+    },
+    {
+      "index": 5,
+      "text": "Come and stand here.",
+      "start_ms": 21888,
+      "end_ms": 23221
+    },
+    {
+      "index": 6,
+      "text": "Look at it from here.\"",
+      "start_ms": 23221,
+      "end_ms": 24743
+    },
+    {
+      "index": 7,
+      "text": "Bebe came and stood beside her.",
+      "start_ms": 24743,
+      "end_ms": 26774
+    },
+    {
+      "index": 8,
+      "text": "She looked down.",
+      "start_ms": 26774,
+      "end_ms": 27852
+    },
+    {
+      "index": 9,
+      "text": "Vola pointed at the winding shape.",
+      "start_ms": 27852,
+      "end_ms": 30073
+    },
+    {
+      "index": 10,
+      "text": "\"The stream,\" she said.",
+      "start_ms": 30073,
+      "end_ms": 31596
+    },
+    {
+      "index": 11,
+      "text": "She pointed at the triangles.",
+      "start_ms": 31596,
+      "end_ms": 33499
+    },
+    {
+      "index": 12,
+      "text": "\"The north hills.\" She pointed at the scatter of shapes.",
+      "start_ms": 33499,
+      "end_ms": 37115
+    },
+    {
+      "index": 13,
+      "text": "\"The neighbors.\" She pointed at the vertical line.",
+      "start_ms": 37115,
+      "end_ms": 40351
+    },
+    {
+      "index": 14,
+      "text": "\"The old boundary.",
+      "start_ms": 40351,
+      "end_ms": 41556
+    },
+    {
+      "index": 15,
+      "text": "And this —\" she pointed to the dark small knot in the middle — \"this is your house.\"",
+      "start_ms": 41556,
+      "end_ms": 47013
+    },
+    {
+      "index": 16,
+      "text": "Bebe did not say anything for a very long time.",
+      "start_ms": 47013,
+      "end_ms": 50058
+    },
+    {
+      "index": 17,
+      "text": "She stood with her arms crossed, looking down.",
+      "start_ms": 50058,
+      "end_ms": 53040
+    },
+    {
+      "index": 18,
+      "text": "Vola waited.",
+      "start_ms": 53040,
+      "end_ms": 53865
+    },
+    {
+      "index": 19,
+      "text": "She was, for a moment, afraid she had said something silly.",
+      "start_ms": 53865,
+      "end_ms": 57671
+    },
+    {
+      "index": 20,
+      "text": "Then Bebe knelt down slowly, with a small sound of effort, and put one hand flat against the cloth.",
+      "start_ms": 57671,
+      "end_ms": 64016
+    },
+    {
+      "index": 21,
+      "text": "She began to trace, softly, with one finger — the stream, the hills, the neighbors, the boundary, the house.",
+      "start_ms": 64016,
+      "end_ms": 70995
+    },
+    {
+      "index": 22,
+      "text": "\"Yes,\" she said finally.",
+      "start_ms": 70995,
+      "end_ms": 72581
+    },
+    {
+      "index": 23,
+      "text": "\"It is the valley.",
+      "start_ms": 72581,
+      "end_ms": 73786
+    },
+    {
+      "index": 24,
+      "text": "It is our valley.\" She sat back on her heels.",
+      "start_ms": 73786,
+      "end_ms": 76705
+    },
+    {
+      "index": 25,
+      "text": "\"Ravaka wove the valley.",
+      "start_ms": 76705,
+      "end_ms": 78291
+    },
+    {
+      "index": 26,
+      "text": "My grandmother.",
+      "start_ms": 78291,
+      "end_ms": 79306
+    },
+    {
+      "index": 27,
+      "text": "Eighty years ago.\"",
+      "start_ms": 79306,
+      "end_ms": 80448
+    },
+    {
+      "index": 28,
+      "text": "Bebe was quiet for a while.",
+      "start_ms": 80448,
+      "end_ms": 82358
+    },
+    {
+      "index": 29,
+      "text": "Then she said, half to herself, \"But why?\" She sat and thought.",
+      "start_ms": 82358,
+      "end_ms": 86722
+    },
+    {
+      "index": 30,
+      "text": "Vola sat beside her and did not interrupt.",
+      "start_ms": 86722,
+      "end_ms": 89655
+    },
+    {
+      "index": 31,
+      "text": "After a few minutes, Bebe said, more slowly, \"My mother told me a thing, once.",
+      "start_ms": 89655,
+      "end_ms": 95043
+    },
+    {
+      "index": 32,
+      "text": "When I was young.",
+      "start_ms": 95043,
+      "end_ms": 96270
+    },
+    {
+      "index": 33,
+      "text": "I never quite believed it.",
+      "start_ms": 96270,
+      "end_ms": 98112
+    },
+    {
+      "index": 34,
+      "text": "She said, my grandmother — Ravaka — knew where certain things were, in the valley.",
+      "start_ms": 98112,
+      "end_ms": 103772
+    },
+    {
+      "index": 35,
+      "text": "Certain marker stones.",
+      "start_ms": 103772,
+      "end_ms": 105341
+    },
+    {
+      "index": 36,
+      "text": "Certain old resting places of family who had died in her mother's time.",
+      "start_ms": 105341,
+      "end_ms": 110251
+    },
+    {
+      "index": 37,
+      "text": "Things that people had begun, then, to hide.",
+      "start_ms": 110251,
+      "end_ms": 113320
+    },
+    {
+      "index": 38,
+      "text": "Because the French administration had been coming through the villages and cataloguing everything and moving things.",
+      "start_ms": 113320,
+      "end_ms": 121300
+    },
+    {
+      "index": 39,
+      "text": "So the old markers were kept quiet.",
+      "start_ms": 121300,
+      "end_ms": 123755
+    },
+    {
+      "index": 40,
+      "text": "Ravaka knew where they were.",
+      "start_ms": 123755,
+      "end_ms": 125733
+    },
+    {
+      "index": 41,
+      "text": "My mother said she was told, but she was told a child — she never remembered properly.",
+      "start_ms": 125733,
+      "end_ms": 131666
+    },
+    {
+      "index": 42,
+      "text": "She always thought her mother told her too young.",
+      "start_ms": 131666,
+      "end_ms": 135076
+    },
+    {
+      "index": 43,
+      "text": "She said the knowledge was lost with Ravaka.",
+      "start_ms": 135076,
+      "end_ms": 138145
+    },
+    {
+      "index": 44,
+      "text": "She was sad about it.\"",
+      "start_ms": 138145,
+      "end_ms": 139782
+    },
+    {
+      "index": 45,
+      "text": "Bebe looked at the cloth.",
+      "start_ms": 139782,
+      "end_ms": 141555
+    },
+    {
+      "index": 46,
+      "text": "\"But Ravaka did not lose it.",
+      "start_ms": 141555,
+      "end_ms": 143533
+    },
+    {
+      "index": 47,
+      "text": "She put it here.",
+      "start_ms": 143533,
+      "end_ms": 144692
+    },
+    {
+      "index": 48,
+      "text": "In case someone came looking, one day, who could see.",
+      "start_ms": 144692,
+      "end_ms": 148375
+    },
+    {
+      "index": 49,
+      "text": "I never could see.",
+      "start_ms": 148375,
+      "end_ms": 149671
+    },
+    {
+      "index": 50,
+      "text": "Sixty years I had this cloth.",
+      "start_ms": 149671,
+      "end_ms": 151717
+    },
+    {
+      "index": 51,
+      "text": "My eyes were too close.\"",
+      "start_ms": 151717,
+      "end_ms": 153490
+    },
+    {
+      "index": 52,
+      "text": "Bebe began, slowly, to read.",
+      "start_ms": 153490,
+      "end_ms": 155468
+    },
+    {
+      "index": 53,
+      "text": "There was a small knot of dark red thread off to the west side of the woven stream, embedded in the pattern like a bead.",
+      "start_ms": 155468,
+      "end_ms": 163720
+    },
+    {
+      "index": 54,
+      "text": "Bebe stared at it, and stared at the actual valley through the open door, and then she said, quietly, \"There is a stone.",
+      "start_ms": 163720,
+      "end_ms": 171972
+    },
+    {
+      "index": 55,
+      "text": "Where the north path crosses the stream.",
+      "start_ms": 171972,
+      "end_ms": 174768
+    },
+    {
+      "index": 56,
+      "text": "A grey stone, split down the middle, sitting on its own by the water.",
+      "start_ms": 174768,
+      "end_ms": 179542
+    },
+    {
+      "index": 57,
+      "text": "Nobody ever knew why it was there.",
+      "start_ms": 179542,
+      "end_ms": 181929
+    },
+    {
+      "index": 58,
+      "text": "I have walked past it my whole life.",
+      "start_ms": 181929,
+      "end_ms": 184452
+    },
+    {
+      "index": 59,
+      "text": "My mother used to say, do not sit on that stone, it is not for us to sit on.",
+      "start_ms": 184452,
+      "end_ms": 189704
+    },
+    {
+      "index": 60,
+      "text": "But nobody knew why.\"",
+      "start_ms": 189704,
+      "end_ms": 191136
+    },
+    {
+      "index": 61,
+      "text": "There were other marks.",
+      "start_ms": 191136,
+      "end_ms": 192567
+    },
+    {
+      "index": 62,
+      "text": "A cluster of three small pale threads on the south hills — Bebe thought about it for a long time and then said, \"There is a very small mound there.",
+      "start_ms": 192567,
+      "end_ms": 201392
+    },
+    {
+      "index": 63,
+      "text": "Under a tree.",
+      "start_ms": 201392,
+      "end_ms": 202227
+    },
+    {
+      "index": 64,
+      "text": "It is nothing.",
+      "start_ms": 202227,
+      "end_ms": 203121
+    },
+    {
+      "index": 65,
+      "text": "It is just a lump.",
+      "start_ms": 203121,
+      "end_ms": 204254
+    },
+    {
+      "index": 66,
+      "text": "But it is always tended — always.",
+      "start_ms": 204254,
+      "end_ms": 206282
+    },
+    {
+      "index": 67,
+      "text": "My grandmother tended it.",
+      "start_ms": 206282,
+      "end_ms": 207832
+    },
+    {
+      "index": 68,
+      "text": "My mother tended it.",
+      "start_ms": 207832,
+      "end_ms": 209084
+    },
+    {
+      "index": 69,
+      "text": "I tend it.",
+      "start_ms": 209084,
+      "end_ms": 209740
+    },
+    {
+      "index": 70,
+      "text": "Nobody has ever said why we do.",
+      "start_ms": 209740,
+      "end_ms": 211648
+    },
+    {
+      "index": 71,
+      "text": "It is one of those things you just do.\" She looked at Vola.",
+      "start_ms": 211648,
+      "end_ms": 215226
+    },
+    {
+      "index": 72,
+      "text": "\"I know why we tend it now.",
+      "start_ms": 215226,
+      "end_ms": 216895
+    },
+    {
+      "index": 73,
+      "text": "I have not known for sixty years.\"",
+      "start_ms": 216895,
+      "end_ms": 219042
+    },
+    {
+      "index": 74,
+      "text": "They read it for another hour, together.",
+      "start_ms": 219042,
+      "end_ms": 221487
+    },
+    {
+      "index": 75,
+      "text": "Not everything — some of the small shapes Bebe still did not know.",
+      "start_ms": 221487,
+      "end_ms": 225482
+    },
+    {
+      "index": 76,
+      "text": "But she knew more than she had known that morning.",
+      "start_ms": 225482,
+      "end_ms": 228523
+    },
+    {
+      "index": 77,
+      "text": "When they were finished, Bebe said, \"We will not go and dig anything up.",
+      "start_ms": 228523,
+      "end_ms": 232876
+    },
+    {
+      "index": 78,
+      "text": "That is not why she made it.",
+      "start_ms": 232876,
+      "end_ms": 234605
+    },
+    {
+      "index": 79,
+      "text": "She made it so the knowledge would not be lost.",
+      "start_ms": 234605,
+      "end_ms": 237467
+    },
+    {
+      "index": 80,
+      "text": "Not so it would be used.",
+      "start_ms": 237467,
+      "end_ms": 238958
+    },
+    {
+      "index": 81,
+      "text": "It is not for us to disturb what she was protecting.",
+      "start_ms": 238958,
+      "end_ms": 242118
+    },
+    {
+      "index": 82,
+      "text": "But now we know.",
+      "start_ms": 242118,
+      "end_ms": 243132
+    },
+    {
+      "index": 83,
+      "text": "Now the family knows again.",
+      "start_ms": 243132,
+      "end_ms": 244801
+    },
+    {
+      "index": 84,
+      "text": "That is what she wanted.\"",
+      "start_ms": 244801,
+      "end_ms": 246411
+    },
+    {
+      "index": 85,
+      "text": "They folded the lamba carefully, together, and put it back at the bottom of the stack.",
+      "start_ms": 246411,
+      "end_ms": 251599
+    },
+    {
+      "index": 86,
+      "text": "Bebe patted it.",
+      "start_ms": 251599,
+      "end_ms": 252553
+    },
+    {
+      "index": 87,
+      "text": "She said, softly, in old Malagasy, \"Thank you, Ravaka.",
+      "start_ms": 252553,
+      "end_ms": 255833
+    },
+    {
+      "index": 88,
+      "text": "I heard you.\"",
+      "start_ms": 255833,
+      "end_ms": 256727
+    },
+    {
+      "index": 89,
+      "text": "Vola finished her own lamba in the last week of July.",
+      "start_ms": 256727,
+      "end_ms": 259947
+    },
+    {
+      "index": 90,
+      "text": "It was cream with a dark red border, and Bebe pronounced it, seriously, a good first cloth.",
+      "start_ms": 259947,
+      "end_ms": 265433
+    },
+    {
+      "index": 91,
+      "text": "She said Vola had a straight hand and a patient one.",
+      "start_ms": 265433,
+      "end_ms": 268593
+    },
+    {
+      "index": 92,
+      "text": "She said Vola would come back next July and Vola would learn one old pattern — a real one.",
+      "start_ms": 268593,
+      "end_ms": 274019
+    },
+    {
+      "index": 93,
+      "text": "Just one.",
+      "start_ms": 274019,
+      "end_ms": 274615
+    },
+    {
+      "index": 94,
+      "text": "\"I will teach you the pattern for your own valley,\" she said.",
+      "start_ms": 274615,
+      "end_ms": 278312
+    },
+    {
+      "index": 95,
+      "text": "\"The one my grandmother knew.",
+      "start_ms": 278312,
+      "end_ms": 280101
+    },
+    {
+      "index": 96,
+      "text": "So it is not lost again.\"",
+      "start_ms": 280101,
+      "end_ms": 281592
+    },
+    {
+      "index": 97,
+      "text": "On the last morning, Bebe walked Vola back down the path to the road where the taxi-brousse would come.",
+      "start_ms": 281592,
+      "end_ms": 287225
+    },
+    {
+      "index": 98,
+      "text": "She carried Vola's folded lamba for her.",
+      "start_ms": 287225,
+      "end_ms": 289446
+    },
+    {
+      "index": 99,
+      "text": "When the taxi came, she handed Vola the cloth.",
+      "start_ms": 289446,
+      "end_ms": 291992
+    },
+    {
+      "index": 100,
+      "text": "She said, \"Tell your mother this is yours.",
+      "start_ms": 291992,
+      "end_ms": 294321
+    },
+    {
+      "index": 101,
+      "text": "Tell her — tell her that next July I will teach you the pattern of the valley.",
+      "start_ms": 294321,
+      "end_ms": 298601
+    },
+    {
+      "index": 102,
+      "text": "And in twenty years, when I am gone, you will still know it.",
+      "start_ms": 298601,
+      "end_ms": 301905
+    },
+    {
+      "index": 103,
+      "text": "And in sixty years, when your grandmother is gone, someone in this family will still know how to read this valley.\" She paused.",
+      "start_ms": 301905,
+      "end_ms": 308838
+    },
+    {
+      "index": 104,
+      "text": "\"That is enough.",
+      "start_ms": 308838,
+      "end_ms": 309759
+    },
+    {
+      "index": 105,
+      "text": "That is what the weaving is for.\" And she watched Vola climb into the taxi, and lift her hand once in goodbye, and she stood in the red dust of the road until the taxi was completely out of sight.",
+      "start_ms": 309759,
+      "end_ms": 320376
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "story_id": "hour-between",
+  "chapter": 2,
+  "total_duration_ms": 303744,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "That first night they climbed up to the flat roof of the cabin, which his father had reinforced years ago for exactly this purpose.",
+      "start_ms": 1388,
+      "end_ms": 8437
+    },
+    {
+      "index": 1,
+      "text": "They took a blanket each and a thermos of hot chocolate, and they lay on their backs side by side.",
+      "start_ms": 8437,
+      "end_ms": 13724
+    },
+    {
+      "index": 2,
+      "text": "The sky at 2,600 meters in the middle of the Atacama was not the sky Diego knew from home.",
+      "start_ms": 13724,
+      "end_ms": 18583
+    },
+    {
+      "index": 3,
+      "text": "There was no city glow.",
+      "start_ms": 18583,
+      "end_ms": 19865
+    },
+    {
+      "index": 4,
+      "text": "There was no moon that night.",
+      "start_ms": 19865,
+      "end_ms": 21467
+    },
+    {
+      "index": 5,
+      "text": "There were more stars than he had ever seen, and the Milky Way was a real river across the middle of the sky, thick and pale and dust-colored, with dark places in it that his father said were clouds of gas so far away he could not even do the math on the distance.",
+      "start_ms": 21467,
+      "end_ms": 35671
+    },
+    {
+      "index": 6,
+      "text": "\"The first rule,\" his father said, \"is that you can only watch it from a place where there is real silence.",
+      "start_ms": 35671,
+      "end_ms": 41438
+    },
+    {
+      "index": 7,
+      "text": "No cars.",
+      "start_ms": 41438,
+      "end_ms": 41919
+    },
+    {
+      "index": 8,
+      "text": "No people.",
+      "start_ms": 41919,
+      "end_ms": 42506
+    },
+    {
+      "index": 9,
+      "text": "It has to be a place where the stars belong.",
+      "start_ms": 42506,
+      "end_ms": 44909
+    },
+    {
+      "index": 10,
+      "text": "That is why I bring you here.",
+      "start_ms": 44909,
+      "end_ms": 46511
+    },
+    {
+      "index": 11,
+      "text": "My father brought me to a hill in the country when I was your age.",
+      "start_ms": 46511,
+      "end_ms": 50089
+    },
+    {
+      "index": 12,
+      "text": "His mother took him to a lake in the south.",
+      "start_ms": 50089,
+      "end_ms": 52439
+    },
+    {
+      "index": 13,
+      "text": "It changes with the family.",
+      "start_ms": 52439,
+      "end_ms": 53934
+    },
+    {
+      "index": 14,
+      "text": "The land is not the thing.",
+      "start_ms": 53934,
+      "end_ms": 55376
+    },
+    {
+      "index": 15,
+      "text": "The silence is the thing.\"",
+      "start_ms": 55376,
+      "end_ms": 56871
+    },
+    {
+      "index": 16,
+      "text": "\"The second rule,\" he went on, \"is that when you tell your story, you have to be looking at the constellation.",
+      "start_ms": 56871,
+      "end_ms": 62798
+    },
+    {
+      "index": 17,
+      "text": "Not at your notes.",
+      "start_ms": 62798,
+      "end_ms": 63813
+    },
+    {
+      "index": 18,
+      "text": "Not at your listener.",
+      "start_ms": 63813,
+      "end_ms": 64988
+    },
+    {
+      "index": 19,
+      "text": "At the stars.",
+      "start_ms": 64988,
+      "end_ms": 65735
+    },
+    {
+      "index": 20,
+      "text": "You have to look at them the whole time you talk.\" \"The third rule is that the story you add cannot be an important story.",
+      "start_ms": 65735,
+      "end_ms": 72304
+    },
+    {
+      "index": 21,
+      "text": "It cannot be about something famous, or something that will change history, or a thing you did that you are proud of.",
+      "start_ms": 72304,
+      "end_ms": 78605
+    },
+    {
+      "index": 22,
+      "text": "It has to be something small.",
+      "start_ms": 78605,
+      "end_ms": 80207
+    },
+    {
+      "index": 23,
+      "text": "A small true thing.",
+      "start_ms": 80207,
+      "end_ms": 81275
+    },
+    {
+      "index": 24,
+      "text": "Because if it is a small true thing, and you tell it looking at the stars, then it becomes big.",
+      "start_ms": 81275,
+      "end_ms": 86401
+    },
+    {
+      "index": 25,
+      "text": "That is how it works.\"",
+      "start_ms": 86401,
+      "end_ms": 87576
+    },
+    {
+      "index": 26,
+      "text": "Diego thought about this for a while.",
+      "start_ms": 87576,
+      "end_ms": 89816
+    },
+    {
+      "index": 27,
+      "text": "He watched the constellation his father had pointed out earlier — the Cross and its five nearby stars, arranged like a person leaning forward with one hand out.",
+      "start_ms": 89816,
+      "end_ms": 99305
+    },
+    {
+      "index": 28,
+      "text": "\"What is the first story,\" he said.",
+      "start_ms": 99305,
+      "end_ms": 101427
+    },
+    {
+      "index": 29,
+      "text": "His father was quiet for a moment.",
+      "start_ms": 101427,
+      "end_ms": 103489
+    },
+    {
+      "index": 30,
+      "text": "\"The first story is my great-grandmother's.",
+      "start_ms": 103489,
+      "end_ms": 106083
+    },
+    {
+      "index": 31,
+      "text": "Her name was Rosa.",
+      "start_ms": 106083,
+      "end_ms": 107203
+    },
+    {
+      "index": 32,
+      "text": "She said, looking at these stars in 1918: I planted a tree at my house when I was seven years old.",
+      "start_ms": 107203,
+      "end_ms": 113038
+    },
+    {
+      "index": 33,
+      "text": "My father did not want me to plant it because it was in a bad place.",
+      "start_ms": 113038,
+      "end_ms": 117104
+    },
+    {
+      "index": 34,
+      "text": "I planted it anyway.",
+      "start_ms": 117104,
+      "end_ms": 118342
+    },
+    {
+      "index": 35,
+      "text": "He was angry with me for a week.",
+      "start_ms": 118342,
+      "end_ms": 120287
+    },
+    {
+      "index": 36,
+      "text": "Then he stopped being angry.",
+      "start_ms": 120287,
+      "end_ms": 121996
+    },
+    {
+      "index": 37,
+      "text": "When my father died, he was buried in the shade of that tree.",
+      "start_ms": 121996,
+      "end_ms": 125651
+    },
+    {
+      "index": 38,
+      "text": "It was the only shade in the yard by then.",
+      "start_ms": 125651,
+      "end_ms": 128185
+    },
+    {
+      "index": 39,
+      "text": "That is what I want to tell.\"",
+      "start_ms": 128185,
+      "end_ms": 130012
+    },
+    {
+      "index": 40,
+      "text": "His father was quiet again, giving Rosa's story time to sit.",
+      "start_ms": 130012,
+      "end_ms": 133607
+    },
+    {
+      "index": 41,
+      "text": "Then he said, \"The second story is my grandfather's.",
+      "start_ms": 133607,
+      "end_ms": 136731
+    },
+    {
+      "index": 42,
+      "text": "His name was Emilio.",
+      "start_ms": 136731,
+      "end_ms": 137969
+    },
+    {
+      "index": 43,
+      "text": "He said, looking at these stars in 1946: I had a friend named Tomás when I was nine years old.",
+      "start_ms": 137969,
+      "end_ms": 143568
+    },
+    {
+      "index": 44,
+      "text": "We were the same age.",
+      "start_ms": 143568,
+      "end_ms": 144865
+    },
+    {
+      "index": 45,
+      "text": "One day we had a fight about a spinning top.",
+      "start_ms": 144865,
+      "end_ms": 147517
+    },
+    {
+      "index": 46,
+      "text": "I hit him with a stick and he cried and he ran home.",
+      "start_ms": 147517,
+      "end_ms": 150641
+    },
+    {
+      "index": 47,
+      "text": "I never went to his house to say I was sorry.",
+      "start_ms": 150641,
+      "end_ms": 153352
+    },
+    {
+      "index": 48,
+      "text": "He moved away with his family six months later.",
+      "start_ms": 153352,
+      "end_ms": 156181
+    },
+    {
+      "index": 49,
+      "text": "I have thought about this every year of my life.",
+      "start_ms": 156181,
+      "end_ms": 159069
+    },
+    {
+      "index": 50,
+      "text": "That is what I want to tell.\"",
+      "start_ms": 159069,
+      "end_ms": 160896
+    },
+    {
+      "index": 51,
+      "text": "\"The third,\" his father went on, \"is my mother's, your grandmother, Ana.",
+      "start_ms": 160896,
+      "end_ms": 165198
+    },
+    {
+      "index": 52,
+      "text": "She said, looking at these stars in 1978: I was afraid, for a long time, that I was not a good mother.",
+      "start_ms": 165198,
+      "end_ms": 171269
+    },
+    {
+      "index": 53,
+      "text": "My son was quiet and I did not know what he was thinking.",
+      "start_ms": 171269,
+      "end_ms": 174688
+    },
+    {
+      "index": 54,
+      "text": "I thought I was doing everything wrong.",
+      "start_ms": 174688,
+      "end_ms": 177045
+    },
+    {
+      "index": 55,
+      "text": "One night when he was ten he came into my room while I was reading and he put his hand on my hair, just for a moment, and he went back to bed.",
+      "start_ms": 177045,
+      "end_ms": 185473
+    },
+    {
+      "index": 56,
+      "text": "He said nothing.",
+      "start_ms": 185473,
+      "end_ms": 186475
+    },
+    {
+      "index": 57,
+      "text": "That was enough to keep me going for a very long time.",
+      "start_ms": 186475,
+      "end_ms": 189717
+    },
+    {
+      "index": 58,
+      "text": "That is what I want to tell.\"",
+      "start_ms": 189717,
+      "end_ms": 191544
+    },
+    {
+      "index": 59,
+      "text": "\"The fourth,\" said his father, and his voice went softer, \"is mine.\"",
+      "start_ms": 191544,
+      "end_ms": 195552
+    },
+    {
+      "index": 60,
+      "text": "\"Mine is: I met your mother in a bookstore in Santiago when we were both twenty.",
+      "start_ms": 195552,
+      "end_ms": 199754
+    },
+    {
+      "index": 61,
+      "text": "I was reading a book that I did not really understand, but I wanted to look like the sort of person who would understand it.",
+      "start_ms": 199754,
+      "end_ms": 206239
+    },
+    {
+      "index": 62,
+      "text": "She came over and she looked at the book in my hands and she said, this book is very stupid, you should read something better.",
+      "start_ms": 206239,
+      "end_ms": 212827
+    },
+    {
+      "index": 63,
+      "text": "I was angry with her for about ten seconds.",
+      "start_ms": 212827,
+      "end_ms": 215110
+    },
+    {
+      "index": 64,
+      "text": "Then I laughed.",
+      "start_ms": 215110,
+      "end_ms": 215940
+    },
+    {
+      "index": 65,
+      "text": "And I bought a different book.",
+      "start_ms": 215940,
+      "end_ms": 217548
+    },
+    {
+      "index": 66,
+      "text": "And I asked her out for coffee.",
+      "start_ms": 217548,
+      "end_ms": 219208
+    },
+    {
+      "index": 67,
+      "text": "Everything in my life that has come after that has been because of a small moment when I laughed instead of being embarrassed.",
+      "start_ms": 219208,
+      "end_ms": 225797
+    },
+    {
+      "index": 68,
+      "text": "That is what I want to tell.\"",
+      "start_ms": 225797,
+      "end_ms": 227405
+    },
+    {
+      "index": 69,
+      "text": "Diego lay very still.",
+      "start_ms": 227405,
+      "end_ms": 228546
+    },
+    {
+      "index": 70,
+      "text": "He had never heard the story of how his parents met before.",
+      "start_ms": 228546,
+      "end_ms": 231659
+    },
+    {
+      "index": 71,
+      "text": "He had asked, more than once, and his father had always given a shorter version — we met in a bookstore, we started talking.",
+      "start_ms": 231659,
+      "end_ms": 238143
+    },
+    {
+      "index": 72,
+      "text": "Not the whole thing.",
+      "start_ms": 238143,
+      "end_ms": 239233
+    },
+    {
+      "index": 73,
+      "text": "Not the part where they laughed.",
+      "start_ms": 239233,
+      "end_ms": 240945
+    },
+    {
+      "index": 74,
+      "text": "He turned his head.",
+      "start_ms": 240945,
+      "end_ms": 241982
+    },
+    {
+      "index": 75,
+      "text": "He could see his father's face in profile against the stars.",
+      "start_ms": 241982,
+      "end_ms": 245147
+    },
+    {
+      "index": 76,
+      "text": "His father was still looking up.",
+      "start_ms": 245147,
+      "end_ms": 246859
+    },
+    {
+      "index": 77,
+      "text": "\"Papá,\" said Diego.",
+      "start_ms": 246859,
+      "end_ms": 247896
+    },
+    {
+      "index": 78,
+      "text": "\"Yes.\" \"Do the stories have to be about family.\" \"No,\" said his father.",
+      "start_ms": 247896,
+      "end_ms": 251632
+    },
+    {
+      "index": 79,
+      "text": "\"They just have to be small and true.\"",
+      "start_ms": 251632,
+      "end_ms": 253707
+    },
+    {
+      "index": 80,
+      "text": "For the next twelve days Diego thought about his story.",
+      "start_ms": 253707,
+      "end_ms": 256612
+    },
+    {
+      "index": 81,
+      "text": "He walked around the desert during the day with his hands in his pockets, thinking.",
+      "start_ms": 256612,
+      "end_ms": 260969
+    },
+    {
+      "index": 82,
+      "text": "He watched his father work — his father spent most of his time in a small office up at the main telescope, checking data and writing reports.",
+      "start_ms": 260969,
+      "end_ms": 268336
+    },
+    {
+      "index": 83,
+      "text": "Diego sat in the office some afternoons and read, and thought.",
+      "start_ms": 268336,
+      "end_ms": 271604
+    },
+    {
+      "index": 84,
+      "text": "He kept trying to find something that felt right.",
+      "start_ms": 271604,
+      "end_ms": 274198
+    },
+    {
+      "index": 85,
+      "text": "But the small true things he could think of all felt very small, and not very true.",
+      "start_ms": 274198,
+      "end_ms": 278556
+    },
+    {
+      "index": 86,
+      "text": "Or they felt true but he was not sure why he wanted to tell them.",
+      "start_ms": 278556,
+      "end_ms": 281928
+    },
+    {
+      "index": 87,
+      "text": "He asked his father about it, on the eighth day.",
+      "start_ms": 281928,
+      "end_ms": 284897
+    },
+    {
+      "index": 88,
+      "text": "\"How did you know yours,\" he said.",
+      "start_ms": 284897,
+      "end_ms": 287018
+    },
+    {
+      "index": 89,
+      "text": "His father thought for a moment.",
+      "start_ms": 287018,
+      "end_ms": 289018
+    },
+    {
+      "index": 90,
+      "text": "\"I did not know it,\" he said.",
+      "start_ms": 289018,
+      "end_ms": 290836
+    },
+    {
+      "index": 91,
+      "text": "\"I made it up.",
+      "start_ms": 290836,
+      "end_ms": 291745
+    },
+    {
+      "index": 92,
+      "text": "I mean, it was true — it happened.",
+      "start_ms": 291745,
+      "end_ms": 293866
+    },
+    {
+      "index": 93,
+      "text": "But I did not know why I wanted to tell that one until I was already telling it.",
+      "start_ms": 293866,
+      "end_ms": 298775
+    },
+    {
+      "index": 94,
+      "text": "You have to just start.",
+      "start_ms": 298775,
+      "end_ms": 300229
+    },
+    {
+      "index": 95,
+      "text": "You will find out what you meant while you are saying it.\"",
+      "start_ms": 300229,
+      "end_ms": 303744
+    }
+  ]
+}

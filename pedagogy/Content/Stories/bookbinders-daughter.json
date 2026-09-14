@@ -1,0 +1,168 @@
+{
+  "id": "bookbinders-daughter",
+  "title": "The Bookbinder's Daughter",
+  "subtitle": "A Kyoto Summer",
+  "author": null,
+  "summary": "Emiko is spending the summer with her grandmother in a wooden machiya house in Kyoto. Her grandmother is a bookbinder, and every one of the books on her shelves is bound from fragments of forgotten things — old letters, receipts, wrapping paper, envelopes. She gives Emiko a blank book and one instruction: bind what the house remembers.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-bookbinders-daughter-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Emiko) with a long dark braid, wearing a light cotton yukata patterned with small blue flowers, kneeling on tatami mats in a traditional Kyoto machiya workshop. In front of her, laid out on a low wooden table: sheets of Japanese washi paper, a small stack of aged handwritten letters, thread, an awl, an ink brush, and an open half-bound book showing patchwork pages. Behind her: sliding shoji screens partly open, letting warm afternoon light in from a small inner courtyard garden with one pine tree visible. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), sepia washi tones, deep ink outlines, muted indigo blue on the yukata, small dusty rose (#FF5B8D) accent on a scrap of paper. Small margin at top and bottom for card padding.",
+  "category": "legend",
+  "isPremium": true,
+  "publishedAt": "2026-09-24",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Empty Book",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "bd-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior of a traditional Kyoto machiya house — narrow wooden facade, low tile roof, small entrance with a noren curtain hanging in the doorway, tall dark wooden gate. Summer afternoon light. A girl (Emiko, 11, long braid, light summer clothes) standing at the entrance with a small suitcase, looking up. Heavy black ink outlines, flat shadows, cream and sepia palette with muted indigo accents.",
+          "paragraphs": [
+            "Emiko had been to Kyoto in the summer before, when she was younger, but she had not remembered how thick the air was. It was August, and the moment she stepped off the train at Kyoto Station, the heat came around her like a wet blanket, and she thought, oh yes. I remember now. Her grandmother's house was in a small alley off Teramachi Street, and Emiko walked there by herself with her small suitcase, because she was eleven now, and she had insisted, and her mother had let her.",
+            "The house was very narrow and very old. It was one of the wooden machiya houses that had been in Kyoto for hundreds of years. The front was only three meters wide, but the house went back and back into the block, one small room after another, with a tiny inner courtyard garden in the middle. Emiko's grandmother, whom she called Obaachan, was a bookbinder. Her workshop was in the room that faced the garden."
+          ]
+        },
+        {
+          "image": "bd-ch1-p2-obaachan",
+          "imagePrompt": "Mike Mignola style for children: interior of a traditional Kyoto bookbinding workshop. An older woman (Obaachan, seventies) sits on a floor cushion at a low wooden work table, her hands stitching a book with thread. Wooden shelves behind her filled with dozens of handmade books in different sizes and colors. Sliding shoji screens open to a small green garden. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Obaachan was seventy-three and small and quick. When Emiko came in through the noren curtain at the front door, she called out, and Obaachan called back from the workshop, and Emiko walked all the way through the narrow house to find her sitting on a cushion at a low wooden table, stitching a book. She did not stop when Emiko came in. She only looked up and smiled, and she said, \"Take off your shoes and come sit. I am almost finished with this one.\"",
+            "So Emiko took off her shoes at the step and knelt on the tatami and watched her grandmother work. The needle went in and out very neatly. The pages of the book Obaachan was binding were not white. They were patchwork — small pieces of different papers, some yellowed, some patterned, some with faded printing on them. Every single page was different. Emiko had never seen a book like that."
+          ]
+        },
+        {
+          "image": "bd-ch1-p3-shelves",
+          "imagePrompt": "Mike Mignola style for children: close view of a wall of dark wooden shelves in a Kyoto workshop, filled with many small handmade books of varying sizes and cover materials — some cloth, some leather, some patterned washi paper. Each book has a small paper label on its spine with handwritten characters. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette. No people visible.",
+          "paragraphs": [
+            "When Obaachan was done, she tied off the thread with her teeth and put the book down on the table with a little pat. She turned to Emiko. \"You are welcome here,\" she said. \"You can help me if you want. Or you can go and read in the courtyard. Or you can walk to the shops.\" She looked at Emiko carefully. \"But I have something for you, first. Something I want you to do this summer. Come here.\"",
+            "Emiko followed her to the shelves that lined the back wall of the workshop. There were maybe a hundred books there. Each one was small — about the size of Emiko's palm. Each one had a small paper label on its spine, written in Obaachan's careful brush handwriting. \"These are all books I have made,\" Obaachan said. \"Each one is about a person from this neighborhood. Or a family. Or a place. I have been making them for forty years.\""
+          ]
+        },
+        {
+          "image": "bd-ch1-p4-explanation",
+          "imagePrompt": "Mike Mignola style for children: an older woman (Obaachan, seventies) opens a small handmade book and shows the patchwork pages to a girl (Emiko, 11, long braid) sitting beside her on the tatami mats. Some pages show old handwriting, some show fragments of packaging or receipts, some show pressed leaves. Warm workshop light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She took one book down and opened it in the middle. The pages inside were made of many small pieces of paper, glued down onto larger sheets. \"This one is about Mrs. Tanaka, who lived four houses down when I was a girl,\" she said. \"You see this piece of yellow paper? It is a receipt from her father's shop. He sold rice. And this is a page from a letter she wrote to her sister in Osaka. And this is a piece of the wrapping paper from a New Year's gift she gave my mother in 1963. And this is a pressed leaf from the maple tree that used to grow in her garden.\"",
+            "She closed the book gently. \"Every one of them is a person who is not here anymore. Or a place that is not here anymore. Kyoto is very old, and it is changing fast, and there are things being forgotten. So I bind them. The pieces they left. I put them into books, so someone can hold them.\" She turned to Emiko. \"And this summer, I want you to make one. Your first one. I have a blank book for you. And I have one instruction. Bind what the house remembers.\""
+          ]
+        },
+        {
+          "image": "bd-ch1-p5-blank-book",
+          "imagePrompt": "Mike Mignola style for children: an older woman (Obaachan) holds out a small handmade book with completely blank ivory pages to a girl (Emiko, 11) kneeling across from her. Simple cream cover, dark stitching visible on the spine. Both hands together in the center of the frame. Warm workshop light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She reached into a small drawer beside the low table and took out a book. It was cream-colored and slim and its pages were completely blank. She handed it to Emiko. Emiko turned it over in her hands. It was very light. \"What do you mean, what the house remembers?\" she asked. Obaachan smiled. \"You will know when you find it,\" she said. \"You have three weeks.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "What the House Remembers",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "bd-ch2-p1-searching",
+          "imagePrompt": "Mike Mignola style for children: interior view of a very old wooden Japanese kitchen, drawers open, a girl (Emiko, 11) kneeling on the floor going through the contents of a low drawer. Old tea tins, wooden utensils, folded cloths visible. Late morning light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Emiko spent the next few days looking. She did not know exactly what she was looking for. She started with the obvious places — the drawers of the low table in the workshop, the shelf above the kitchen sink, the small closet in the tatami room where the sleeping mats were kept. She found teacups, and old chopsticks, and a folded cloth that had been in the drawer for so long it had taken the shape of the drawer, and none of these things felt like they were what the house remembered.",
+            "On the fourth day, she pulled out a drawer in the kitchen too hard and it came all the way out, and behind it, taped to the back of the drawer with brittle old tape, was a folded piece of paper. Emiko unfolded it carefully. It was a recipe. In handwriting she did not know. In Japanese, in careful sharp characters, it was a recipe for umeboshi — pickled plums. At the bottom, in the corner, it said, in the same handwriting: For Sachi. So she doesn't forget when I am gone. — H."
+          ]
+        },
+        {
+          "image": "bd-ch2-p2-recipe",
+          "imagePrompt": "Mike Mignola style for children: close view of two hands (a girl's hands, young) holding a small folded piece of aged yellow paper with careful handwritten characters on it. Wooden kitchen floor visible below. Warm daylight. Heavy ink outlines, flat shadows, cream and sepia palette. No faces visible.",
+          "paragraphs": [
+            "Emiko took the recipe to the workshop. Obaachan was gluing paper to a spine. She looked at the recipe for a long moment. \"That is my mother's writing,\" she said. \"That is her recipe for umeboshi. She wrote it for me the year she was dying. She was afraid I would forget how she made them. I never used it. I know the recipe. I was just afraid to unfold this again, so I hid it, and then I forgot where. Fifty years ago.\" She handed it back to Emiko. \"You should put it in your book.\"",
+            "That afternoon Emiko made her first page. Obaachan showed her how — how to glue paper into the book without wrinkling it, how to leave a little space at the edges, how to write a small note underneath in careful handwriting. Emiko glued the recipe on the first page. Underneath, in the neatest characters she could make, she wrote: A recipe H wrote for her daughter S, so she would not forget when H was gone. Found taped behind a kitchen drawer. Summer 2026."
+          ]
+        },
+        {
+          "image": "bd-ch2-p3-behind-scroll",
+          "imagePrompt": "Mike Mignola style for children: a girl (Emiko, 11) has taken a hanging scroll off the wall of a traditional tokonoma alcove and is examining the wall behind it. On the wall, taped there long ago, is a small photograph, faded. Late afternoon warm light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The next thing she found was behind a hanging scroll in the tokonoma alcove of the main room. She had taken the scroll down to look at it — it was a painting of a plum branch — and behind it, on the wall, taped there so long ago the tape had turned brown, was a photograph. Small, faded, brown at the edges. Two children in dark school uniforms. A boy and a girl. Standing in front of the exact same alcove Emiko was standing in, but the wall was different, and there was a different scroll, and the children were staring straight at the camera with very serious faces.",
+            "She showed it to Obaachan. Obaachan took it in her hands and looked at it for a long time. \"This is me,\" she said, \"and my brother Kenji. He died in the war. He was fourteen. I was ten. Our father took this photograph the summer before he was called up. It is the last photograph of him.\" She turned it over. On the back, in old faded pencil, was a date: 1943. And a name: Kenji, plum blossom summer. \"I did not know it was there,\" Obaachan said. \"I have lived in this house all my life and I did not know it was there.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Emiko put the photograph on the second page. Underneath she wrote: Two children, Obaachan (10) and her brother Kenji (14). Kenji died in the war the year after this was taken. Found taped behind a scroll in the alcove where they had stood. Summer 2026.",
+            "The third thing she found was a small folded silk pouch in the very back of a cabinet in the workshop, behind a stack of paper. Inside the pouch was a single silver ring. It had no engraving. Obaachan did not know whose it was. \"But it belongs to the house,\" she said. \"So it goes in your book. Even if we don't know its story.\"",
+            "The fourth thing was a shopping list in the drawer of the front step, written in a woman's handwriting Emiko did not know, dated 1978. The fifth thing was a small toy horse made of woven straw, in the back of the kimono closet. The sixth thing was a postcard from Hokkaido, unaddressed, undated, that said only, in a man's neat handwriting: I am sorry. Please write back."
+          ]
+        },
+        {
+          "image": "bd-ch2-p5-almost-full",
+          "imagePrompt": "Mike Mignola style for children: close view of a nearly-full patchwork book lying open on a low wooden table, its pages showing many different aged fragments — old letters, photograph, silk pouch outline, straw horse pressed flat, postcard, recipe. A girl's hand (Emiko, 11) hovering over a blank page at the end. Warm workshop lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "By the end of the second week, Emiko had filled nine of the ten pages of her book. She had found more than she had thought she would. Some things had a story that Obaachan could tell. Some things did not. Emiko had written what she could underneath each one, in her careful characters. She was proud of the book. It felt heavy in her hands now, thick with paper and lives.",
+            "But the last page was still blank, and she did not know what to put on it. She had looked everywhere. She could not find one more thing in the house that felt right."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Emiko's Chapter",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "bd-ch3-p1-courtyard",
+          "imagePrompt": "Mike Mignola style for children: a small traditional Kyoto inner courtyard garden with a single small pine tree, a stone lantern, a low bench. A girl (Emiko, 11) sitting on the bench in the evening light, an open blank-paged book on her lap. Warm evening cast, cicadas implied. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On the first day of the third week, Emiko sat in the courtyard with the almost-full book on her lap and thought about it. It was evening. The cicadas were loud in the pine tree. She had turned the book over many times. She had looked at all the pages. She could not think what belonged on the last one.",
+            "Obaachan came out and sat beside her on the low bench. She did not say anything at first. She just looked at the pine tree with Emiko. And then she said, \"You have not put anything of yours in the book.\" Emiko looked up. \"What do you mean, mine? Nothing in the house is mine. I don't live here.\" Obaachan smiled a small smile. \"You live here this summer,\" she said. \"You are here now. The house is remembering you too. Right now. As we sit here. If you don't put yourself in, someone will find your book in a hundred years and they will know about my mother and my brother and a woman's shopping list from 1978 — and they will not know that you were the one who found them.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Emiko was quiet for a long time. Then she said, \"But I haven't done anything. I'm eleven.\" Obaachan laughed. \"Emiko,\" she said, \"you have found nine things. You spent three weeks in a small hot house looking for pieces of people who are gone. That is not nothing. That is exactly the thing my books have always been about. Someone caring enough to look.\"",
+            "She stood up. \"But it is your book. Put in what you want. Or don't. You have a week to decide.\" She went back inside. Emiko stayed on the bench for a long time. The sun went down. The pine tree turned into a black shape against the pale evening sky. She thought about what she could possibly put on the last page."
+          ]
+        },
+        {
+          "image": "bd-ch3-p3-writing",
+          "imagePrompt": "Mike Mignola style for children: a girl (Emiko, 11) sitting at the low workshop table late at night, only a small candle-like lamp lit beside her. She is writing on a piece of pale ivory paper with a small brush pen, her face lit softly, focused. Blank patchwork book open beside her. Heavy ink outlines, flat shadows, cream and sepia palette with a small warm gold accent from the lamp.",
+          "paragraphs": [
+            "That night she went into the workshop when Obaachan was asleep. She turned on the small lamp on the low table. She took a piece of the good ivory paper. She thought for a while, and then she wrote, in her most careful characters, one paragraph. And then she stopped and read it, and she was not happy with it, and she wrote it again on a second piece of paper. And then a third time, on a third piece. It took her almost two hours to get it the way she wanted it.",
+            "The third one she glued into the tenth page of the book. Underneath the paragraph, she wrote: Emiko Watanabe, eleven years old, summer 2026. Granddaughter. She looked at the page for a moment. Then she closed the book."
+          ]
+        },
+        {
+          "image": "bd-ch3-p4-morning",
+          "imagePrompt": "Mike Mignola style for children: morning workshop scene. An older woman (Obaachan, seventies) sitting at the low table, reading the finished patchwork book, her expression soft and moved. A girl (Emiko, 11) kneeling across from her, watching her carefully. Warm morning light through shoji screens. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the morning, Emiko gave the book to Obaachan. Obaachan sat down at the low table and opened it. She read all ten pages, slowly, taking her time with each one. When she got to the last page, she read it twice. Then she looked up. Her eyes were bright. \"May I read this out loud?\" she asked. Emiko nodded.",
+            "Obaachan read: 'This summer I lived in a house that was much older than me. My grandmother said she wanted me to bind what the house remembered. I looked everywhere. I found a recipe from her mother, and a photograph of her brother who died, and a ring that no one knew, and a shopping list, and a horse made of straw, and a postcard from someone who was sorry. But I also learned that the house was remembering me too, while I was there. That was a strange thing to know. It means when I am old, someone will look for pieces of me in some other house, and maybe they will find them, and maybe they will not. Either way, I will have been here. That is what a house remembers. Everyone who ever lived in it for even a little while.'"
+          ]
+        },
+        {
+          "image": "bd-ch3-p5-on-shelf",
+          "imagePrompt": "Mike Mignola style for children: interior workshop view. The small patchwork book that Emiko made is being placed on the tall shelf of Obaachan's other handmade books, in the very last empty slot. Older woman's hands (Obaachan) placing it carefully, girl (Emiko, 11) standing beside her, watching. Warm evening light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Obaachan closed the book. She sat with her hand on the cover for a moment. Then she stood up and she walked to the shelves. There was one empty slot at the far end of the top shelf, next to a book Emiko had noticed the first day but had not asked about. Obaachan slid Emiko's book into the empty slot. Then she said, \"Come here, look at this one.\" And she took down the book beside Emiko's and opened it.",
+            "The first page had a small piece of a school uniform sleeve glued to it. The second had a photograph of a young woman in a wedding kimono. The third had a leaf. Emiko understood, after a moment. \"This one is about my mother,\" she said. Obaachan nodded. \"I made it the year she went to America. So I would remember her the way she was before she left. And now yours is next to hers. It is exactly right.\"",
+            "Emiko stayed for one more week in Kyoto. She helped Obaachan with two more books — she was faster now, with the glue and the thread. When she flew back to America, she took nothing from the house with her, because she had learned already that the important things stayed on the shelf, next to each other, remembering."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "memory",
+    "japan",
+    "craft",
+    "grandmother"
+  ]
+}

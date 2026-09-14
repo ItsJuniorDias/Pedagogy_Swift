@@ -1,0 +1,739 @@
+{
+  "story_id": "hand-of-the-potter",
+  "chapter": 2,
+  "total_duration_ms": 369768,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "In the second week Avôlo let Rafael sit at the wheel.",
+      "start_ms": 1475,
+      "end_ms": 4939
+    },
+    {
+      "index": 1,
+      "text": "He showed him how to center a lump of clay — how to place it firmly, how to push down with both hands as it spun, how to feel when it was true.",
+      "start_ms": 4939,
+      "end_ms": 14174
+    },
+    {
+      "index": 2,
+      "text": "It was much harder than it looked.",
+      "start_ms": 14174,
+      "end_ms": 16419
+    },
+    {
+      "index": 3,
+      "text": "Rafael's first lump wobbled and flew off the wheel.",
+      "start_ms": 16419,
+      "end_ms": 19754
+    },
+    {
+      "index": 4,
+      "text": "His second lump collapsed.",
+      "start_ms": 19754,
+      "end_ms": 21486
+    },
+    {
+      "index": 5,
+      "text": "His third lump would not center — it kept trying to spin off to one side.",
+      "start_ms": 21486,
+      "end_ms": 26232
+    },
+    {
+      "index": 6,
+      "text": "\"You are fighting it,\" Avôlo said, patient.",
+      "start_ms": 26232,
+      "end_ms": 29054
+    },
+    {
+      "index": 7,
+      "text": "\"Stop pushing so hard.",
+      "start_ms": 29054,
+      "end_ms": 30529
+    },
+    {
+      "index": 8,
+      "text": "Let your hands move with it.",
+      "start_ms": 30529,
+      "end_ms": 32389
+    },
+    {
+      "index": 9,
+      "text": "Do not try to force it into the shape you want.",
+      "start_ms": 32389,
+      "end_ms": 35467
+    },
+    {
+      "index": 10,
+      "text": "Feel where it wants to be, and guide it there.\"",
+      "start_ms": 35467,
+      "end_ms": 38610
+    },
+    {
+      "index": 11,
+      "text": "Rafael slowed down.",
+      "start_ms": 38610,
+      "end_ms": 39893
+    },
+    {
+      "index": 12,
+      "text": "He breathed.",
+      "start_ms": 39893,
+      "end_ms": 40727
+    },
+    {
+      "index": 13,
+      "text": "He tried again.",
+      "start_ms": 40727,
+      "end_ms": 41753
+    },
+    {
+      "index": 14,
+      "text": "On the fourth try, the lump centered.",
+      "start_ms": 41753,
+      "end_ms": 44190
+    },
+    {
+      "index": 15,
+      "text": "It sat still on the wheel, spinning, but not moving from its axis.",
+      "start_ms": 44190,
+      "end_ms": 48487
+    },
+    {
+      "index": 16,
+      "text": "It was — he felt it — a completely different feeling.",
+      "start_ms": 48487,
+      "end_ms": 51951
+    },
+    {
+      "index": 17,
+      "text": "Almost as if the wheel had disappeared and there was only him and the clay and a quiet space between them.",
+      "start_ms": 51951,
+      "end_ms": 58813
+    },
+    {
+      "index": 18,
+      "text": "Avôlo said, softly, \"Yes.",
+      "start_ms": 58813,
+      "end_ms": 60481
+    },
+    {
+      "index": 19,
+      "text": "Now.",
+      "start_ms": 60481,
+      "end_ms": 60801
+    },
+    {
+      "index": 20,
+      "text": "Do not lose it.",
+      "start_ms": 60801,
+      "end_ms": 61828
+    },
+    {
+      "index": 21,
+      "text": "Just breathe.",
+      "start_ms": 61828,
+      "end_ms": 62725
+    },
+    {
+      "index": 22,
+      "text": "Feel that?",
+      "start_ms": 62725,
+      "end_ms": 63431
+    },
+    {
+      "index": 23,
+      "text": "That is what centered feels like.",
+      "start_ms": 63431,
+      "end_ms": 65612
+    },
+    {
+      "index": 24,
+      "text": "Now — thumbs.",
+      "start_ms": 65612,
+      "end_ms": 66510
+    },
+    {
+      "index": 25,
+      "text": "In the middle.",
+      "start_ms": 66510,
+      "end_ms": 67472
+    },
+    {
+      "index": 26,
+      "text": "Push down.\"",
+      "start_ms": 67472,
+      "end_ms": 68305
+    },
+    {
+      "index": 27,
+      "text": "Rafael pushed his thumbs into the top of the spinning lump.",
+      "start_ms": 68305,
+      "end_ms": 72154
+    },
+    {
+      "index": 28,
+      "text": "He opened it up — a small dip that widened as the wheel spun.",
+      "start_ms": 72154,
+      "end_ms": 76130
+    },
+    {
+      "index": 29,
+      "text": "Then, with his fingers on the outside and his other hand on the inside, he began — very slowly — to draw the walls up.",
+      "start_ms": 76130,
+      "end_ms": 83762
+    },
+    {
+      "index": 30,
+      "text": "This was harder than centering.",
+      "start_ms": 83762,
+      "end_ms": 85815
+    },
+    {
+      "index": 31,
+      "text": "If he pulled unevenly, the walls got thin on one side and the whole pot leaned.",
+      "start_ms": 85815,
+      "end_ms": 90946
+    },
+    {
+      "index": 32,
+      "text": "If he pulled too fast, the walls tore.",
+      "start_ms": 90946,
+      "end_ms": 93447
+    },
+    {
+      "index": 33,
+      "text": "If he pulled too slowly, the clay got too dry and cracked.",
+      "start_ms": 93447,
+      "end_ms": 97231
+    },
+    {
+      "index": 34,
+      "text": "Twice his first attempt failed.",
+      "start_ms": 97231,
+      "end_ms": 99283
+    },
+    {
+      "index": 35,
+      "text": "On the third try, he got a small crooked bowl — maybe seven centimeters wide, five tall, walls uneven.",
+      "start_ms": 99283,
+      "end_ms": 105889
+    },
+    {
+      "index": 36,
+      "text": "It stayed standing when he stopped the wheel.",
+      "start_ms": 105889,
+      "end_ms": 108904
+    },
+    {
+      "index": 37,
+      "text": "He looked at Avôlo.",
+      "start_ms": 108904,
+      "end_ms": 110186
+    },
+    {
+      "index": 38,
+      "text": "Avôlo was looking at the bowl with a small smile.",
+      "start_ms": 110186,
+      "end_ms": 113393
+    },
+    {
+      "index": 39,
+      "text": "He said, \"That is your first bowl, Rafael.",
+      "start_ms": 113393,
+      "end_ms": 116151
+    },
+    {
+      "index": 40,
+      "text": "It is not a pretty bowl.",
+      "start_ms": 116151,
+      "end_ms": 117755
+    },
+    {
+      "index": 41,
+      "text": "But it is a real bowl.",
+      "start_ms": 117755,
+      "end_ms": 119230
+    },
+    {
+      "index": 42,
+      "text": "You made it.",
+      "start_ms": 119230,
+      "end_ms": 120063
+    },
+    {
+      "index": 43,
+      "text": "Now we cut it off the wheel and set it aside.",
+      "start_ms": 120063,
+      "end_ms": 123014
+    },
+    {
+      "index": 44,
+      "text": "Tomorrow it will be dry enough to trim.",
+      "start_ms": 123014,
+      "end_ms": 125579
+    },
+    {
+      "index": 45,
+      "text": "Then we fire it.",
+      "start_ms": 125579,
+      "end_ms": 126670
+    },
+    {
+      "index": 46,
+      "text": "Then it is yours.\"",
+      "start_ms": 126670,
+      "end_ms": 127824
+    },
+    {
+      "index": 47,
+      "text": "For the rest of the week Rafael worked at the wheel every morning.",
+      "start_ms": 127824,
+      "end_ms": 132391
+    },
+    {
+      "index": 48,
+      "text": "He got better slowly.",
+      "start_ms": 132391,
+      "end_ms": 133891
+    },
+    {
+      "index": 49,
+      "text": "His pots stopped collapsing.",
+      "start_ms": 133891,
+      "end_ms": 135868
+    },
+    {
+      "index": 50,
+      "text": "His walls got more even.",
+      "start_ms": 135868,
+      "end_ms": 137572
+    },
+    {
+      "index": 51,
+      "text": "On the fifth day, he made a bowl that Avôlo said was actually acceptable — not just beginner acceptable, but real acceptable.",
+      "start_ms": 137572,
+      "end_ms": 146162
+    },
+    {
+      "index": 52,
+      "text": "Rafael was proud.",
+      "start_ms": 146162,
+      "end_ms": 147389
+    },
+    {
+      "index": 53,
+      "text": "He was also — he noticed — tired.",
+      "start_ms": 147389,
+      "end_ms": 149707
+    },
+    {
+      "index": 54,
+      "text": "Working with clay took much more of him than he had expected.",
+      "start_ms": 149707,
+      "end_ms": 153933
+    },
+    {
+      "index": 55,
+      "text": "His arms hurt.",
+      "start_ms": 153933,
+      "end_ms": 154956
+    },
+    {
+      "index": 56,
+      "text": "His back hurt.",
+      "start_ms": 154956,
+      "end_ms": 155979
+    },
+    {
+      "index": 57,
+      "text": "His mind was quiet in a way he was not used to.",
+      "start_ms": 155979,
+      "end_ms": 159251
+    },
+    {
+      "index": 58,
+      "text": "When he stopped working, at the end of a morning, and went outside to the courtyard for water, he felt like he had been somewhere else, and he was slowly coming back.",
+      "start_ms": 159251,
+      "end_ms": 170703
+    },
+    {
+      "index": 59,
+      "text": "\"Avôlo,\" he asked, one afternoon, when they were sitting in the courtyard eating oranges.",
+      "start_ms": 170703,
+      "end_ms": 176839
+    },
+    {
+      "index": 60,
+      "text": "\"Why do you love this.",
+      "start_ms": 176839,
+      "end_ms": 178407
+    },
+    {
+      "index": 61,
+      "text": "You have done it for fifty years.",
+      "start_ms": 178407,
+      "end_ms": 180725
+    },
+    {
+      "index": 62,
+      "text": "Do you not get tired of it.\" Avôlo peeled his orange slowly.",
+      "start_ms": 180725,
+      "end_ms": 184883
+    },
+    {
+      "index": 63,
+      "text": "He said, \"Rafael.",
+      "start_ms": 184883,
+      "end_ms": 186110
+    },
+    {
+      "index": 64,
+      "text": "Have I ever told you why I became a potter.\" \"No,\" said Rafael.",
+      "start_ms": 186110,
+      "end_ms": 190473
+    },
+    {
+      "index": 65,
+      "text": "\"Not properly.\" Avôlo said, \"My mother died when I was your age.",
+      "start_ms": 190473,
+      "end_ms": 194904
+    },
+    {
+      "index": 66,
+      "text": "Ten years old.",
+      "start_ms": 194904,
+      "end_ms": 195927
+    },
+    {
+      "index": 67,
+      "text": "She was sick for six months.",
+      "start_ms": 195927,
+      "end_ms": 197904
+    },
+    {
+      "index": 68,
+      "text": "In those six months I was — I did not know what to do with myself.",
+      "start_ms": 197904,
+      "end_ms": 202471
+    },
+    {
+      "index": 69,
+      "text": "There was too much feeling inside me.",
+      "start_ms": 202471,
+      "end_ms": 205062
+    },
+    {
+      "index": 70,
+      "text": "My father was a potter, though not a very good one.",
+      "start_ms": 205062,
+      "end_ms": 208606
+    },
+    {
+      "index": 71,
+      "text": "He put me in the workshop with him.",
+      "start_ms": 208606,
+      "end_ms": 211061
+    },
+    {
+      "index": 72,
+      "text": "He gave me clay.",
+      "start_ms": 211061,
+      "end_ms": 212220
+    },
+    {
+      "index": 73,
+      "text": "He said — do not shape anything.",
+      "start_ms": 212220,
+      "end_ms": 214469
+    },
+    {
+      "index": 74,
+      "text": "Just — hold it.",
+      "start_ms": 214469,
+      "end_ms": 215560
+    },
+    {
+      "index": 75,
+      "text": "Just — hold it, and be with it, and let it hold what you cannot say.",
+      "start_ms": 215560,
+      "end_ms": 220264
+    },
+    {
+      "index": 76,
+      "text": "I sat with a lump of clay every afternoon for six months.",
+      "start_ms": 220264,
+      "end_ms": 224218
+    },
+    {
+      "index": 77,
+      "text": "When my mother died, the lump had been shaped by my hands into a small crooked bowl, though I did not remember shaping it.",
+      "start_ms": 224218,
+      "end_ms": 232603
+    },
+    {
+      "index": 78,
+      "text": "My father fired it.",
+      "start_ms": 232603,
+      "end_ms": 233966
+    },
+    {
+      "index": 79,
+      "text": "He gave it to me.",
+      "start_ms": 233966,
+      "end_ms": 235193
+    },
+    {
+      "index": 80,
+      "text": "I still have it.\"",
+      "start_ms": 235193,
+      "end_ms": 236352
+    },
+    {
+      "index": 81,
+      "text": "Rafael was quiet.",
+      "start_ms": 236352,
+      "end_ms": 237559
+    },
+    {
+      "index": 82,
+      "text": "He said, \"Is that why you make so many bowls, Avôlo.",
+      "start_ms": 237559,
+      "end_ms": 241114
+    },
+    {
+      "index": 83,
+      "text": "Because your first one was a bowl.\" Avôlo laughed a small laugh.",
+      "start_ms": 241114,
+      "end_ms": 245474
+    },
+    {
+      "index": 84,
+      "text": "He said, \"No.",
+      "start_ms": 245474,
+      "end_ms": 246414
+    },
+    {
+      "index": 85,
+      "text": "I make many bowls because people need bowls.",
+      "start_ms": 246414,
+      "end_ms": 249432
+    },
+    {
+      "index": 86,
+      "text": "But — maybe a little bit yes.",
+      "start_ms": 249432,
+      "end_ms": 251444
+    },
+    {
+      "index": 87,
+      "text": "A bowl is a container.",
+      "start_ms": 251444,
+      "end_ms": 252987
+    },
+    {
+      "index": 88,
+      "text": "It holds what you cannot say.",
+      "start_ms": 252987,
+      "end_ms": 254999
+    },
+    {
+      "index": 89,
+      "text": "A bowl is a hand cupped, always.",
+      "start_ms": 254999,
+      "end_ms": 257213
+    },
+    {
+      "index": 90,
+      "text": "Every bowl I make is — someone will use it.",
+      "start_ms": 257213,
+      "end_ms": 260164
+    },
+    {
+      "index": 91,
+      "text": "Soup.",
+      "start_ms": 260164,
+      "end_ms": 260567
+    },
+    {
+      "index": 92,
+      "text": "Fruit.",
+      "start_ms": 260567,
+      "end_ms": 261036
+    },
+    {
+      "index": 93,
+      "text": "Coins.",
+      "start_ms": 261036,
+      "end_ms": 261506
+    },
+    {
+      "index": 94,
+      "text": "A ring taken off at night.",
+      "start_ms": 261506,
+      "end_ms": 263317
+    },
+    {
+      "index": 95,
+      "text": "Every bowl holds something.",
+      "start_ms": 263317,
+      "end_ms": 265195
+    },
+    {
+      "index": 96,
+      "text": "That is why I love it.",
+      "start_ms": 265195,
+      "end_ms": 266738
+    },
+    {
+      "index": 97,
+      "text": "Every bowl is going to hold a small piece of some person's life.",
+      "start_ms": 266738,
+      "end_ms": 271098
+    },
+    {
+      "index": 98,
+      "text": "And I made the bowl.",
+      "start_ms": 271098,
+      "end_ms": 272506
+    },
+    {
+      "index": 99,
+      "text": "That is a small immortality.\" He looked at Rafael.",
+      "start_ms": 272506,
+      "end_ms": 275927
+    },
+    {
+      "index": 100,
+      "text": "\"Some day, Rafael, one of your bowls will hold soup for your grandchildren.",
+      "start_ms": 275927,
+      "end_ms": 281025
+    },
+    {
+      "index": 101,
+      "text": "You will not remember making it.",
+      "start_ms": 281025,
+      "end_ms": 283239
+    },
+    {
+      "index": 102,
+      "text": "But it will be there.",
+      "start_ms": 283239,
+      "end_ms": 284714
+    },
+    {
+      "index": 103,
+      "text": "That is what a potter does.\"",
+      "start_ms": 284714,
+      "end_ms": 286727
+    },
+    {
+      "index": 104,
+      "text": "On the second-to-last day, they fired Rafael's pots.",
+      "start_ms": 286727,
+      "end_ms": 290282
+    },
+    {
+      "index": 105,
+      "text": "Rafael had made five in the second week that Avôlo said were worth firing — three small bowls, one small cup, and a very small odd-shaped thing that was supposed to be a vase but had come out looking like a small squat mushroom.",
+      "start_ms": 290282,
+      "end_ms": 305642
+    },
+    {
+      "index": 106,
+      "text": "They loaded them into the kiln.",
+      "start_ms": 305642,
+      "end_ms": 307789
+    },
+    {
+      "index": 107,
+      "text": "Avôlo showed Rafael how to set the fire.",
+      "start_ms": 307789,
+      "end_ms": 310539
+    },
+    {
+      "index": 108,
+      "text": "The kiln was small and wood-fired, in the old way.",
+      "start_ms": 310539,
+      "end_ms": 313960
+    },
+    {
+      "index": 109,
+      "text": "It took eight hours to reach the right temperature.",
+      "start_ms": 313960,
+      "end_ms": 317448
+    },
+    {
+      "index": 110,
+      "text": "They tended it together all day.",
+      "start_ms": 317448,
+      "end_ms": 319662
+    },
+    {
+      "index": 111,
+      "text": "Rafael put pieces of wood in when Avôlo told him to.",
+      "start_ms": 319662,
+      "end_ms": 323217
+    },
+    {
+      "index": 112,
+      "text": "He watched the color of the flame — Avôlo said the color told you the temperature better than any thermometer.",
+      "start_ms": 323217,
+      "end_ms": 330729
+    },
+    {
+      "index": 113,
+      "text": "That night when the kiln had cooled — they had let it cool overnight, and opened it in the morning — they took out the finished pots.",
+      "start_ms": 330729,
+      "end_ms": 339718
+    },
+    {
+      "index": 114,
+      "text": "They were transformed.",
+      "start_ms": 339718,
+      "end_ms": 341260
+    },
+    {
+      "index": 115,
+      "text": "The dull grey clay had become a warm terra-cotta orange.",
+      "start_ms": 341260,
+      "end_ms": 345084
+    },
+    {
+      "index": 116,
+      "text": "Rafael's odd little vase-mushroom was beautiful now — the color made it look intentional.",
+      "start_ms": 345084,
+      "end_ms": 351121
+    },
+    {
+      "index": 117,
+      "text": "His three bowls were solid and real.",
+      "start_ms": 351121,
+      "end_ms": 353602
+    },
+    {
+      "index": 118,
+      "text": "His cup had a small crack that Avôlo said was fine — cracks happen sometimes, and this one would not affect the use.",
+      "start_ms": 353602,
+      "end_ms": 361450
+    },
+    {
+      "index": 119,
+      "text": "Rafael held one of his bowls in both hands.",
+      "start_ms": 361450,
+      "end_ms": 364402
+    },
+    {
+      "index": 120,
+      "text": "It was small and warm and honest.",
+      "start_ms": 364402,
+      "end_ms": 366682
+    },
+    {
+      "index": 121,
+      "text": "He said, \"I made this.\" Avôlo said, \"You did.\"",
+      "start_ms": 366682,
+      "end_ms": 369768
+    }
+  ]
+}

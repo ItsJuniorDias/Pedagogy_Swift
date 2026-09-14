@@ -1,0 +1,721 @@
+{
+  "story_id": "three-days-on-the-atoll",
+  "chapter": 1,
+  "total_duration_ms": 338880,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Mala lived in Tarawa, the capital of the small island nation of Kiribati, in the middle of the Pacific Ocean.",
+      "start_ms": 1261,
+      "end_ms": 7291
+    },
+    {
+      "index": 1,
+      "text": "Tarawa was an atoll — a long thin curve of coral islands strung around a large shallow lagoon.",
+      "start_ms": 7291,
+      "end_ms": 12499
+    },
+    {
+      "index": 2,
+      "text": "If you looked at it from a plane, it looked like a green necklace floating on the biggest blue in the world.",
+      "start_ms": 12499,
+      "end_ms": 18474
+    },
+    {
+      "index": 3,
+      "text": "Maybe sixty thousand people lived along the atoll.",
+      "start_ms": 18474,
+      "end_ms": 21270
+    },
+    {
+      "index": 4,
+      "text": "Mala's family was one of them.",
+      "start_ms": 21270,
+      "end_ms": 22969
+    },
+    {
+      "index": 5,
+      "text": "Her father, Tavita, was a fisherman.",
+      "start_ms": 22969,
+      "end_ms": 24998
+    },
+    {
+      "index": 6,
+      "text": "Her mother had died of a fever when Mala was three.",
+      "start_ms": 24998,
+      "end_ms": 27848
+    },
+    {
+      "index": 7,
+      "text": "Since then Mala had been raised by her father and by her father's older sister, whom she called Aunt Teuea, who lived next door.",
+      "start_ms": 27848,
+      "end_ms": 34975
+    },
+    {
+      "index": 8,
+      "text": "Mala was eleven.",
+      "start_ms": 34975,
+      "end_ms": 35907
+    },
+    {
+      "index": 9,
+      "text": "She loved being on the boat with her father.",
+      "start_ms": 35907,
+      "end_ms": 38374
+    },
+    {
+      "index": 10,
+      "text": "It was not always allowed — school got in the way most of the time — but on Saturdays, if the weather was good, her father sometimes took her out with him for the morning.",
+      "start_ms": 38374,
+      "end_ms": 47802
+    },
+    {
+      "index": 11,
+      "text": "They would leave at dawn.",
+      "start_ms": 47802,
+      "end_ms": 49228
+    },
+    {
+      "index": 12,
+      "text": "They would go out to a small reef about eight kilometers from the harbor.",
+      "start_ms": 49228,
+      "end_ms": 53284
+    },
+    {
+      "index": 13,
+      "text": "They would drop nets.",
+      "start_ms": 53284,
+      "end_ms": 54490
+    },
+    {
+      "index": 14,
+      "text": "They would wait.",
+      "start_ms": 54490,
+      "end_ms": 55422
+    },
+    {
+      "index": 15,
+      "text": "They would come back in by noon.",
+      "start_ms": 55422,
+      "end_ms": 57231
+    },
+    {
+      "index": 16,
+      "text": "Sometimes with a lot of fish, sometimes with a few.",
+      "start_ms": 57231,
+      "end_ms": 60082
+    },
+    {
+      "index": 17,
+      "text": "Either way, Mala loved every minute of it.",
+      "start_ms": 60082,
+      "end_ms": 62494
+    },
+    {
+      "index": 18,
+      "text": "On that particular Saturday in June it was calm and sunny.",
+      "start_ms": 62494,
+      "end_ms": 65728
+    },
+    {
+      "index": 19,
+      "text": "They had gone out at five in the morning and had fished at the usual reef for maybe three hours.",
+      "start_ms": 65728,
+      "end_ms": 71046
+    },
+    {
+      "index": 20,
+      "text": "They had a decent catch — enough for a good week.",
+      "start_ms": 71046,
+      "end_ms": 73787
+    },
+    {
+      "index": 21,
+      "text": "Around eight they had started the motor and had begun the trip back.",
+      "start_ms": 73787,
+      "end_ms": 77569
+    },
+    {
+      "index": 22,
+      "text": "That was when the motor made a strange sound.",
+      "start_ms": 77569,
+      "end_ms": 80091
+    },
+    {
+      "index": 23,
+      "text": "A small cough.",
+      "start_ms": 80091,
+      "end_ms": 80913
+    },
+    {
+      "index": 24,
+      "text": "Then a bigger cough.",
+      "start_ms": 80913,
+      "end_ms": 82065
+    },
+    {
+      "index": 25,
+      "text": "Then it stopped.",
+      "start_ms": 82065,
+      "end_ms": 83051
+    },
+    {
+      "index": 26,
+      "text": "Tavita spent maybe fifteen minutes trying to restart it.",
+      "start_ms": 83051,
+      "end_ms": 86176
+    },
+    {
+      "index": 27,
+      "text": "He tried everything he knew.",
+      "start_ms": 86176,
+      "end_ms": 87766
+    },
+    {
+      "index": 28,
+      "text": "He was calm — he had had a motor die before — but he was serious.",
+      "start_ms": 87766,
+      "end_ms": 91384
+    },
+    {
+      "index": 29,
+      "text": "The motor was not going to restart.",
+      "start_ms": 91384,
+      "end_ms": 93357
+    },
+    {
+      "index": 30,
+      "text": "He turned to Mala.",
+      "start_ms": 93357,
+      "end_ms": 94399
+    },
+    {
+      "index": 31,
+      "text": "He said, \"Mala.",
+      "start_ms": 94399,
+      "end_ms": 95276
+    },
+    {
+      "index": 32,
+      "text": "Look.",
+      "start_ms": 95276,
+      "end_ms": 95605
+    },
+    {
+      "index": 33,
+      "text": "The motor is done.",
+      "start_ms": 95605,
+      "end_ms": 96646
+    },
+    {
+      "index": 34,
+      "text": "Something in it has broken.",
+      "start_ms": 96646,
+      "end_ms": 98181
+    },
+    {
+      "index": 35,
+      "text": "It is not something I can fix with what I have here.",
+      "start_ms": 98181,
+      "end_ms": 101087
+    },
+    {
+      "index": 36,
+      "text": "That means we cannot go back the fast way.",
+      "start_ms": 101087,
+      "end_ms": 103444
+    },
+    {
+      "index": 37,
+      "text": "We have to wait.\"",
+      "start_ms": 103444,
+      "end_ms": 104376
+    },
+    {
+      "index": 38,
+      "text": "Mala said, \"Can we sail back.\" Their boat did have a small emergency sail — a simple square canvas that could be rigged if there was wind.",
+      "start_ms": 104376,
+      "end_ms": 113068
+    },
+    {
+      "index": 39,
+      "text": "Tavita looked around.",
+      "start_ms": 113068,
+      "end_ms": 114444
+    },
+    {
+      "index": 40,
+      "text": "He said, \"We could try.",
+      "start_ms": 114444,
+      "end_ms": 115945
+    },
+    {
+      "index": 41,
+      "text": "But the wind is going the wrong way.",
+      "start_ms": 115945,
+      "end_ms": 118259
+    },
+    {
+      "index": 42,
+      "text": "It is coming from the west, and Tarawa is to the west.",
+      "start_ms": 118259,
+      "end_ms": 121698
+    },
+    {
+      "index": 43,
+      "text": "We would be sailing straight into it.",
+      "start_ms": 121698,
+      "end_ms": 124074
+    },
+    {
+      "index": 44,
+      "text": "That is very slow.",
+      "start_ms": 124074,
+      "end_ms": 125263
+    },
+    {
+      "index": 45,
+      "text": "It would take us — many hours.",
+      "start_ms": 125263,
+      "end_ms": 127201
+    },
+    {
+      "index": 46,
+      "text": "Maybe a whole day.",
+      "start_ms": 127201,
+      "end_ms": 128389
+    },
+    {
+      "index": 47,
+      "text": "And the wind is picking up.",
+      "start_ms": 128389,
+      "end_ms": 130140
+    },
+    {
+      "index": 48,
+      "text": "I do not want to be out on open water in a small boat if the wind gets stronger.",
+      "start_ms": 130140,
+      "end_ms": 135206
+    },
+    {
+      "index": 49,
+      "text": "It is going to get stronger.\"",
+      "start_ms": 135206,
+      "end_ms": 137144
+    },
+    {
+      "index": 50,
+      "text": "He looked around again.",
+      "start_ms": 137144,
+      "end_ms": 138645
+    },
+    {
+      "index": 51,
+      "text": "He pointed at something.",
+      "start_ms": 138645,
+      "end_ms": 140208
+    },
+    {
+      "index": 52,
+      "text": "Mala turned.",
+      "start_ms": 140208,
+      "end_ms": 141021
+    },
+    {
+      "index": 53,
+      "text": "Maybe two kilometers away, sticking up out of the ocean, was a tiny green speck.",
+      "start_ms": 141021,
+      "end_ms": 146087
+    },
+    {
+      "index": 54,
+      "text": "It was a small uninhabited atoll — one of the many small coral spits in the region.",
+      "start_ms": 146087,
+      "end_ms": 151340
+    },
+    {
+      "index": 55,
+      "text": "Mala had seen it from the boat many times.",
+      "start_ms": 151340,
+      "end_ms": 154028
+    },
+    {
+      "index": 56,
+      "text": "It had no name that she knew of.",
+      "start_ms": 154028,
+      "end_ms": 156092
+    },
+    {
+      "index": 57,
+      "text": "Nobody lived on it.",
+      "start_ms": 156092,
+      "end_ms": 157343
+    },
+    {
+      "index": 58,
+      "text": "It was just a small ring of coral with a few coconut palms and some low bushes and a small lagoon in the middle.",
+      "start_ms": 157343,
+      "end_ms": 164409
+    },
+    {
+      "index": 59,
+      "text": "Tavita said, \"That is where we go.",
+      "start_ms": 164409,
+      "end_ms": 166598
+    },
+    {
+      "index": 60,
+      "text": "That is our island.",
+      "start_ms": 166598,
+      "end_ms": 167849
+    },
+    {
+      "index": 61,
+      "text": "We sail there.",
+      "start_ms": 167849,
+      "end_ms": 168787
+    },
+    {
+      "index": 62,
+      "text": "We land.",
+      "start_ms": 168787,
+      "end_ms": 169349
+    },
+    {
+      "index": 63,
+      "text": "We wait.",
+      "start_ms": 169349,
+      "end_ms": 169912
+    },
+    {
+      "index": 64,
+      "text": "Someone will notice we did not come back.",
+      "start_ms": 169912,
+      "end_ms": 172539
+    },
+    {
+      "index": 65,
+      "text": "Aunt Teuea will notice by lunchtime today.",
+      "start_ms": 172539,
+      "end_ms": 175228
+    },
+    {
+      "index": 66,
+      "text": "She will call the harbor.",
+      "start_ms": 175228,
+      "end_ms": 176854
+    },
+    {
+      "index": 67,
+      "text": "The harbor will send someone to look.",
+      "start_ms": 176854,
+      "end_ms": 179230
+    },
+    {
+      "index": 68,
+      "text": "It will take them a day or two, maybe.",
+      "start_ms": 179230,
+      "end_ms": 181669
+    },
+    {
+      "index": 69,
+      "text": "But they will come.\"",
+      "start_ms": 181669,
+      "end_ms": 183045
+    },
+    {
+      "index": 70,
+      "text": "It took them two hours to sail the two kilometers to the atoll.",
+      "start_ms": 183045,
+      "end_ms": 187047
+    },
+    {
+      "index": 71,
+      "text": "Tavita rigged the small sail.",
+      "start_ms": 187047,
+      "end_ms": 188923
+    },
+    {
+      "index": 72,
+      "text": "It caught the wind poorly — the wind was almost exactly wrong for reaching the atoll — but by tacking back and forth, and by paddling occasionally, they made progress.",
+      "start_ms": 188923,
+      "end_ms": 199429
+    },
+    {
+      "index": 73,
+      "text": "The atoll got closer.",
+      "start_ms": 199429,
+      "end_ms": 200804
+    },
+    {
+      "index": 74,
+      "text": "Mala could see it more clearly now.",
+      "start_ms": 200804,
+      "end_ms": 203056
+    },
+    {
+      "index": 75,
+      "text": "It was tiny.",
+      "start_ms": 203056,
+      "end_ms": 203869
+    },
+    {
+      "index": 76,
+      "text": "Maybe two hundred meters across at its widest.",
+      "start_ms": 203869,
+      "end_ms": 206808
+    },
+    {
+      "index": 77,
+      "text": "A ring of white coral sand around a small shallow lagoon.",
+      "start_ms": 206808,
+      "end_ms": 210435
+    },
+    {
+      "index": 78,
+      "text": "Maybe fifteen coconut palms.",
+      "start_ms": 210435,
+      "end_ms": 212248
+    },
+    {
+      "index": 79,
+      "text": "Some low green bushes.",
+      "start_ms": 212248,
+      "end_ms": 213624
+    },
+    {
+      "index": 80,
+      "text": "They landed on the western shore, on the side facing home.",
+      "start_ms": 213624,
+      "end_ms": 217896
+    },
+    {
+      "index": 81,
+      "text": "Tavita pulled the boat up onto the sand.",
+      "start_ms": 217896,
+      "end_ms": 220864
+    },
+    {
+      "index": 82,
+      "text": "They tied it to a coconut palm.",
+      "start_ms": 220864,
+      "end_ms": 223181
+    },
+    {
+      "index": 83,
+      "text": "They stood on the beach.",
+      "start_ms": 223181,
+      "end_ms": 224991
+    },
+    {
+      "index": 84,
+      "text": "Tavita looked at his watch.",
+      "start_ms": 224991,
+      "end_ms": 227018
+    },
+    {
+      "index": 85,
+      "text": "He said, \"It is ten in the morning.",
+      "start_ms": 227018,
+      "end_ms": 229625
+    },
+    {
+      "index": 86,
+      "text": "Aunt Teuea will start to worry by two.",
+      "start_ms": 229625,
+      "end_ms": 232449
+    },
+    {
+      "index": 87,
+      "text": "She will call at three.",
+      "start_ms": 232449,
+      "end_ms": 234186
+    },
+    {
+      "index": 88,
+      "text": "The harbor patrol might come today, if we are lucky.",
+      "start_ms": 234186,
+      "end_ms": 238024
+    },
+    {
+      "index": 89,
+      "text": "If not — tomorrow morning.",
+      "start_ms": 238024,
+      "end_ms": 239978
+    },
+    {
+      "index": 90,
+      "text": "Maybe the day after.",
+      "start_ms": 239978,
+      "end_ms": 241499
+    },
+    {
+      "index": 91,
+      "text": "We have food for one day.",
+      "start_ms": 241499,
+      "end_ms": 243381
+    },
+    {
+      "index": 92,
+      "text": "We have water for one day.",
+      "start_ms": 243381,
+      "end_ms": 245336
+    },
+    {
+      "index": 93,
+      "text": "We have the whole island.",
+      "start_ms": 245336,
+      "end_ms": 247219
+    },
+    {
+      "index": 94,
+      "text": "We will be fine.",
+      "start_ms": 247219,
+      "end_ms": 248450
+    },
+    {
+      "index": 95,
+      "text": "But we have to be smart.",
+      "start_ms": 248450,
+      "end_ms": 250260
+    },
+    {
+      "index": 96,
+      "text": "Do you understand.\" Mala said, \"Yes.\"",
+      "start_ms": 250260,
+      "end_ms": 253083
+    },
+    {
+      "index": 97,
+      "text": "Tavita went to work.",
+      "start_ms": 253083,
+      "end_ms": 254604
+    },
+    {
+      "index": 98,
+      "text": "He was calm and efficient.",
+      "start_ms": 254604,
+      "end_ms": 256559
+    },
+    {
+      "index": 99,
+      "text": "He walked around the whole small island in about twenty minutes to see what it had.",
+      "start_ms": 256559,
+      "end_ms": 262640
+    },
+    {
+      "index": 100,
+      "text": "He came back and told Mala the plan.",
+      "start_ms": 262640,
+      "end_ms": 265319
+    },
+    {
+      "index": 101,
+      "text": "First — coconuts, for water.",
+      "start_ms": 265319,
+      "end_ms": 267419
+    },
+    {
+      "index": 102,
+      "text": "There were plenty on the palms.",
+      "start_ms": 267419,
+      "end_ms": 269736
+    },
+    {
+      "index": 103,
+      "text": "Second — driftwood, for a fire.",
+      "start_ms": 269736,
+      "end_ms": 272053
+    },
+    {
+      "index": 104,
+      "text": "There was a good amount on the beaches.",
+      "start_ms": 272053,
+      "end_ms": 274949
+    },
+    {
+      "index": 105,
+      "text": "Third — a small camp above the high-water mark, in the shade of the palms.",
+      "start_ms": 274949,
+      "end_ms": 280379
+    },
+    {
+      "index": 106,
+      "text": "Fourth — a signal fire ready to light when they saw a boat.",
+      "start_ms": 280379,
+      "end_ms": 284795
+    },
+    {
+      "index": 107,
+      "text": "Mala worked with him.",
+      "start_ms": 284795,
+      "end_ms": 286388
+    },
+    {
+      "index": 108,
+      "text": "They gathered driftwood into a pile.",
+      "start_ms": 286388,
+      "end_ms": 289067
+    },
+    {
+      "index": 109,
+      "text": "They knocked down four coconuts with a long stick — Tavita was patient about this, and Mala got the last one down herself, after twenty minutes of trying.",
+      "start_ms": 289067,
+      "end_ms": 300290
+    },
+    {
+      "index": 110,
+      "text": "They opened them with a small hatchet Tavita had in the boat, and they drank the coconut water — sweet, cool, exactly what they needed.",
+      "start_ms": 300290,
+      "end_ms": 310136
+    },
+    {
+      "index": 111,
+      "text": "They ate the small amount of food they had — two small pieces of dried fish and a small handful of rice they cooked in a tin can over a small fire.",
+      "start_ms": 310136,
+      "end_ms": 320852
+    },
+    {
+      "index": 112,
+      "text": "That was lunch.",
+      "start_ms": 320852,
+      "end_ms": 322010
+    },
+    {
+      "index": 113,
+      "text": "Tavita said, \"For supper — we fish.",
+      "start_ms": 322010,
+      "end_ms": 324617
+    },
+    {
+      "index": 114,
+      "text": "There is a reef right on the outside of the atoll.",
+      "start_ms": 324617,
+      "end_ms": 328309
+    },
+    {
+      "index": 115,
+      "text": "We will catch something.",
+      "start_ms": 328309,
+      "end_ms": 330119
+    },
+    {
+      "index": 116,
+      "text": "Do not worry about food.",
+      "start_ms": 330119,
+      "end_ms": 331929
+    },
+    {
+      "index": 117,
+      "text": "Kiribati people have lived on islands like this for a thousand years.",
+      "start_ms": 331929,
+      "end_ms": 336998
+    },
+    {
+      "index": 118,
+      "text": "Small islands are enough.\"",
+      "start_ms": 336998,
+      "end_ms": 338880
+    }
+  ]
+}

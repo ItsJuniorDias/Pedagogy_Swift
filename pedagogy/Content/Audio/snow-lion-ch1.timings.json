@@ -1,0 +1,559 @@
+{
+  "story_id": "snow-lion",
+  "chapter": 1,
+  "total_duration_ms": 322488,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Tenzin lived in a small village in the Bumthang valley, in central Bhutan.",
+      "start_ms": 1494,
+      "end_ms": 5974
+    },
+    {
+      "index": 1,
+      "text": "It was a quiet place — maybe two hundred people, a handful of farms, a small school, one bakery, one general store, and, on the highest ridge behind the village, a small monastery where seventeen monks lived.",
+      "start_ms": 5974,
+      "end_ms": 18461
+    },
+    {
+      "index": 2,
+      "text": "Tenzin's grandfather was one of those monks, though he did not live in the monastery in the village — he lived in a much smaller monastery, much higher up, two days' walk into the mountains.",
+      "start_ms": 18461,
+      "end_ms": 29931
+    },
+    {
+      "index": 3,
+      "text": "His grandfather was Grandfather Rinpoche, but everyone in Tenzin's family called him Grandfather Rinpoche because he was both — he was a grandfather, and he was a rinpoche, which was an old title of respect for a Buddhist monk who had studied for many years.",
+      "start_ms": 29931,
+      "end_ms": 45405
+    },
+    {
+      "index": 4,
+      "text": "He was seventy-six years old.",
+      "start_ms": 45405,
+      "end_ms": 47197
+    },
+    {
+      "index": 5,
+      "text": "He had lived at the high monastery for forty-one years.",
+      "start_ms": 47197,
+      "end_ms": 50542
+    },
+    {
+      "index": 6,
+      "text": "Before that he had been married, briefly, and had had Tenzin's mother.",
+      "start_ms": 50542,
+      "end_ms": 54784
+    },
+    {
+      "index": 7,
+      "text": "Tenzin's grandmother had died young, and after her death Grandfather Rinpoche had gone into the monastery.",
+      "start_ms": 54784,
+      "end_ms": 61177
+    },
+    {
+      "index": 8,
+      "text": "That was the whole story, more or less.",
+      "start_ms": 61177,
+      "end_ms": 63566
+    },
+    {
+      "index": 9,
+      "text": "Tenzin's mother had grown up mostly with her aunt in the village.",
+      "start_ms": 63566,
+      "end_ms": 67509
+    },
+    {
+      "index": 10,
+      "text": "She had always loved her father and had never resented his choice.",
+      "start_ms": 67509,
+      "end_ms": 71572
+    },
+    {
+      "index": 11,
+      "text": "Tenzin was eleven, and this was the third summer he had walked to the high monastery alone.",
+      "start_ms": 71572,
+      "end_ms": 77068
+    },
+    {
+      "index": 12,
+      "text": "His mother had said, when he was nine, that he could go alone starting when he was ten.",
+      "start_ms": 77068,
+      "end_ms": 82326
+    },
+    {
+      "index": 13,
+      "text": "The path was not dangerous — it was well-marked and well-used, and there were two small villages along the way where he stopped to eat and to sleep.",
+      "start_ms": 82326,
+      "end_ms": 91227
+    },
+    {
+      "index": 14,
+      "text": "But it was two days' walk, and it climbed steeply from 2,700 meters at the village to 3,400 meters at the monastery.",
+      "start_ms": 91227,
+      "end_ms": 98217
+    },
+    {
+      "index": 15,
+      "text": "Tenzin was strong for his age.",
+      "start_ms": 98217,
+      "end_ms": 100069
+    },
+    {
+      "index": 16,
+      "text": "He liked the walk.",
+      "start_ms": 100069,
+      "end_ms": 101204
+    },
+    {
+      "index": 17,
+      "text": "He looked forward to it all year.",
+      "start_ms": 101204,
+      "end_ms": 103176
+    },
+    {
+      "index": 18,
+      "text": "This July he had left the village at first light on a Monday morning.",
+      "start_ms": 103176,
+      "end_ms": 107393
+    },
+    {
+      "index": 19,
+      "text": "He carried a small canvas pack with a change of clothes, some dried food, a water bottle, and a small paper-wrapped gift for his grandfather — his mother had made a small woolen scarf.",
+      "start_ms": 107393,
+      "end_ms": 118536
+    },
+    {
+      "index": 20,
+      "text": "It was still cool.",
+      "start_ms": 118536,
+      "end_ms": 119681
+    },
+    {
+      "index": 21,
+      "text": "Bhutan in July was the beginning of the monsoon, which meant it rained heavily most afternoons and was misty most mornings.",
+      "start_ms": 119681,
+      "end_ms": 127150
+    },
+    {
+      "index": 22,
+      "text": "Tenzin walked.",
+      "start_ms": 127150,
+      "end_ms": 128054
+    },
+    {
+      "index": 23,
+      "text": "He knew the path.",
+      "start_ms": 128054,
+      "end_ms": 129138
+    },
+    {
+      "index": 24,
+      "text": "He passed the first small village at midmorning.",
+      "start_ms": 129138,
+      "end_ms": 132090
+    },
+    {
+      "index": 25,
+      "text": "He passed the second one at noon and stopped there for a hot meal.",
+      "start_ms": 132090,
+      "end_ms": 136126
+    },
+    {
+      "index": 26,
+      "text": "In the afternoon he continued upward, into the pine forest, into the mist.",
+      "start_ms": 136126,
+      "end_ms": 140704
+    },
+    {
+      "index": 27,
+      "text": "He slept that first night at a small pilgrim's hut halfway up.",
+      "start_ms": 140704,
+      "end_ms": 144499
+    },
+    {
+      "index": 28,
+      "text": "There were two other travelers there — an older monk on his way down to the village, and a woman making a pilgrimage to a specific shrine.",
+      "start_ms": 144499,
+      "end_ms": 152872
+    },
+    {
+      "index": 29,
+      "text": "They shared a small fire and simple food.",
+      "start_ms": 152872,
+      "end_ms": 155402
+    },
+    {
+      "index": 30,
+      "text": "Tenzin was very tired.",
+      "start_ms": 155402,
+      "end_ms": 156787
+    },
+    {
+      "index": 31,
+      "text": "He slept without dreams.",
+      "start_ms": 156787,
+      "end_ms": 158293
+    },
+    {
+      "index": 32,
+      "text": "In the morning he continued up.",
+      "start_ms": 158293,
+      "end_ms": 160221
+    },
+    {
+      "index": 33,
+      "text": "The path got steeper.",
+      "start_ms": 160221,
+      "end_ms": 161546
+    },
+    {
+      "index": 34,
+      "text": "The trees got smaller.",
+      "start_ms": 161546,
+      "end_ms": 162931
+    },
+    {
+      "index": 35,
+      "text": "The air got thinner.",
+      "start_ms": 162931,
+      "end_ms": 164257
+    },
+    {
+      "index": 36,
+      "text": "In the afternoon of the second day he came up over a ridge and there — across a deep valley — was the monastery.",
+      "start_ms": 164257,
+      "end_ms": 171063
+    },
+    {
+      "index": 37,
+      "text": "It was very small.",
+      "start_ms": 171063,
+      "end_ms": 172208
+    },
+    {
+      "index": 38,
+      "text": "Whitewashed walls, red and gold trim, prayer flags on the roof.",
+      "start_ms": 172208,
+      "end_ms": 176063
+    },
+    {
+      "index": 39,
+      "text": "It clung to the side of a rocky outcrop as if it had grown there.",
+      "start_ms": 176063,
+      "end_ms": 180039
+    },
+    {
+      "index": 40,
+      "text": "Beyond it, the great snow peaks of the Himalayas rose into the deep blue sky.",
+      "start_ms": 180039,
+      "end_ms": 184737
+    },
+    {
+      "index": 41,
+      "text": "Tenzin stopped for a moment.",
+      "start_ms": 184737,
+      "end_ms": 186484
+    },
+    {
+      "index": 42,
+      "text": "He had seen the monastery every summer for three years but every time he stopped at this same spot.",
+      "start_ms": 186484,
+      "end_ms": 192508
+    },
+    {
+      "index": 43,
+      "text": "It was one of the most beautiful views in the world.",
+      "start_ms": 192508,
+      "end_ms": 195761
+    },
+    {
+      "index": 44,
+      "text": "He arrived at the monastery gate at four in the afternoon.",
+      "start_ms": 195761,
+      "end_ms": 199315
+    },
+    {
+      "index": 45,
+      "text": "Grandfather Rinpoche was waiting at the gate.",
+      "start_ms": 199315,
+      "end_ms": 202085
+    },
+    {
+      "index": 46,
+      "text": "He had known Tenzin was coming.",
+      "start_ms": 202085,
+      "end_ms": 204013
+    },
+    {
+      "index": 47,
+      "text": "Tenzin's mother had sent a message through a monk going up the previous week.",
+      "start_ms": 204013,
+      "end_ms": 208712
+    },
+    {
+      "index": 48,
+      "text": "Grandfather Rinpoche was small and thin and had a shaved head.",
+      "start_ms": 208712,
+      "end_ms": 212507
+    },
+    {
+      "index": 49,
+      "text": "He wore the maroon and saffron robes of a Bhutanese monk.",
+      "start_ms": 212507,
+      "end_ms": 216000
+    },
+    {
+      "index": 50,
+      "text": "He looked much like the other monks in the monastery.",
+      "start_ms": 216000,
+      "end_ms": 219253
+    },
+    {
+      "index": 51,
+      "text": "But his eyes were Tenzin's grandfather's eyes.",
+      "start_ms": 219253,
+      "end_ms": 222024
+    },
+    {
+      "index": 52,
+      "text": "He put his hand on Tenzin's shoulder.",
+      "start_ms": 222024,
+      "end_ms": 224477
+    },
+    {
+      "index": 53,
+      "text": "He said, in his soft voice, \"You made it, boy.",
+      "start_ms": 224477,
+      "end_ms": 227512
+    },
+    {
+      "index": 54,
+      "text": "Come.",
+      "start_ms": 227512,
+      "end_ms": 227899
+    },
+    {
+      "index": 55,
+      "text": "You need tea.",
+      "start_ms": 227899,
+      "end_ms": 228803
+    },
+    {
+      "index": 56,
+      "text": "You need food.",
+      "start_ms": 228803,
+      "end_ms": 229772
+    },
+    {
+      "index": 57,
+      "text": "You need rest.",
+      "start_ms": 229772,
+      "end_ms": 230740
+    },
+    {
+      "index": 58,
+      "text": "In that order.",
+      "start_ms": 230740,
+      "end_ms": 231709
+    },
+    {
+      "index": 59,
+      "text": "Everything else can wait.\" Tenzin gave him the small wrapped scarf.",
+      "start_ms": 231709,
+      "end_ms": 236099
+    },
+    {
+      "index": 60,
+      "text": "Grandfather Rinpoche opened it.",
+      "start_ms": 236099,
+      "end_ms": 238165
+    },
+    {
+      "index": 61,
+      "text": "He put it around his neck immediately.",
+      "start_ms": 238165,
+      "end_ms": 240683
+    },
+    {
+      "index": 62,
+      "text": "He said, \"Beautiful.",
+      "start_ms": 240683,
+      "end_ms": 242039
+    },
+    {
+      "index": 63,
+      "text": "Your mother's hands.",
+      "start_ms": 242039,
+      "end_ms": 243395
+    },
+    {
+      "index": 64,
+      "text": "Tell her when you see her that I wore it the first day.",
+      "start_ms": 243395,
+      "end_ms": 247011
+    },
+    {
+      "index": 65,
+      "text": "Come.\"",
+      "start_ms": 247011,
+      "end_ms": 247527
+    },
+    {
+      "index": 66,
+      "text": "The monastery was small — one main building, one prayer hall, one kitchen, and a row of small cells for the monks to sleep in.",
+      "start_ms": 247527,
+      "end_ms": 255727
+    },
+    {
+      "index": 67,
+      "text": "There were seven monks living there full-time, and usually a few visiting monks or pilgrims.",
+      "start_ms": 255727,
+      "end_ms": 261732
+    },
+    {
+      "index": 68,
+      "text": "Tenzin would sleep in a small guest cell near his grandfather's.",
+      "start_ms": 261732,
+      "end_ms": 265929
+    },
+    {
+      "index": 69,
+      "text": "He had done this three summers now.",
+      "start_ms": 265929,
+      "end_ms": 268253
+    },
+    {
+      "index": 70,
+      "text": "He knew the routine.",
+      "start_ms": 268253,
+      "end_ms": 269609
+    },
+    {
+      "index": 71,
+      "text": "Meals at fixed times.",
+      "start_ms": 269609,
+      "end_ms": 271029
+    },
+    {
+      "index": 72,
+      "text": "Chanting in the early morning and at dusk.",
+      "start_ms": 271029,
+      "end_ms": 273806
+    },
+    {
+      "index": 73,
+      "text": "Small work in the middle of the day — gardening, sweeping, tending the small chapel.",
+      "start_ms": 273806,
+      "end_ms": 279294
+    },
+    {
+      "index": 74,
+      "text": "Long periods of silence.",
+      "start_ms": 279294,
+      "end_ms": 280908
+    },
+    {
+      "index": 75,
+      "text": "Tenzin liked the routine.",
+      "start_ms": 280908,
+      "end_ms": 282586
+    },
+    {
+      "index": 76,
+      "text": "He liked the silence best.",
+      "start_ms": 282586,
+      "end_ms": 284394
+    },
+    {
+      "index": 77,
+      "text": "That evening after supper, Grandfather Rinpoche took Tenzin outside onto the stone terrace at the front of the monastery.",
+      "start_ms": 284394,
+      "end_ms": 292271
+    },
+    {
+      "index": 78,
+      "text": "The sun was setting behind the great peaks.",
+      "start_ms": 292271,
+      "end_ms": 295112
+    },
+    {
+      "index": 79,
+      "text": "The whole world was pink and gold.",
+      "start_ms": 295112,
+      "end_ms": 297372
+    },
+    {
+      "index": 80,
+      "text": "Grandfather Rinpoche said, \"This summer, Tenzin.",
+      "start_ms": 297372,
+      "end_ms": 300536
+    },
+    {
+      "index": 81,
+      "text": "I want to give you something.",
+      "start_ms": 300536,
+      "end_ms": 302473
+    },
+    {
+      "index": 82,
+      "text": "Not tonight.",
+      "start_ms": 302473,
+      "end_ms": 303312
+    },
+    {
+      "index": 83,
+      "text": "In a few days.",
+      "start_ms": 303312,
+      "end_ms": 304281
+    },
+    {
+      "index": 84,
+      "text": "But I want you to know I have something for you.",
+      "start_ms": 304281,
+      "end_ms": 307444
+    },
+    {
+      "index": 85,
+      "text": "I have been waiting for the right summer.",
+      "start_ms": 307444,
+      "end_ms": 310156
+    },
+    {
+      "index": 86,
+      "text": "This is it.",
+      "start_ms": 310156,
+      "end_ms": 310931
+    },
+    {
+      "index": 87,
+      "text": "You will be twelve in the winter, correct?\" Tenzin said, \"Yes.",
+      "start_ms": 310931,
+      "end_ms": 314998
+    },
+    {
+      "index": 88,
+      "text": "In December.\" Grandfather Rinpoche nodded.",
+      "start_ms": 314998,
+      "end_ms": 317775
+    },
+    {
+      "index": 89,
+      "text": "He said, \"Then this is the right summer.",
+      "start_ms": 317775,
+      "end_ms": 320422
+    },
+    {
+      "index": 90,
+      "text": "Rest tonight.",
+      "start_ms": 320422,
+      "end_ms": 321326
+    },
+    {
+      "index": 91,
+      "text": "Tomorrow we talk.\"",
+      "start_ms": 321326,
+      "end_ms": 322488
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "story_id": "three-days-on-the-atoll",
+  "chapter": 3,
+  "total_duration_ms": 336888,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On the second morning they woke early.",
+      "start_ms": 1546,
+      "end_ms": 4286
+    },
+    {
+      "index": 1,
+      "text": "They ate coconut.",
+      "start_ms": 4286,
+      "end_ms": 5551
+    },
+    {
+      "index": 2,
+      "text": "They walked around the island.",
+      "start_ms": 5551,
+      "end_ms": 7729
+    },
+    {
+      "index": 3,
+      "text": "They did some maintenance on the fire — banking it, making sure the driftwood pile stayed dry.",
+      "start_ms": 7729,
+      "end_ms": 14404
+    },
+    {
+      "index": 4,
+      "text": "They fished for lunch.",
+      "start_ms": 14404,
+      "end_ms": 16021
+    },
+    {
+      "index": 5,
+      "text": "Mala caught her first fish — a small silver reef fish, about the size of her hand.",
+      "start_ms": 16021,
+      "end_ms": 21853
+    },
+    {
+      "index": 6,
+      "text": "She was very proud.",
+      "start_ms": 21853,
+      "end_ms": 23258
+    },
+    {
+      "index": 7,
+      "text": "Her father cooked it.",
+      "start_ms": 23258,
+      "end_ms": 24804
+    },
+    {
+      "index": 8,
+      "text": "They ate it.",
+      "start_ms": 24804,
+      "end_ms": 25717
+    },
+    {
+      "index": 9,
+      "text": "The day was slow.",
+      "start_ms": 25717,
+      "end_ms": 26982
+    },
+    {
+      "index": 10,
+      "text": "The sun was hot at midday.",
+      "start_ms": 26982,
+      "end_ms": 28879
+    },
+    {
+      "index": 11,
+      "text": "They rested in the shade of the palms.",
+      "start_ms": 28879,
+      "end_ms": 31690
+    },
+    {
+      "index": 12,
+      "text": "In the afternoon her father worked on the motor.",
+      "start_ms": 31690,
+      "end_ms": 35133
+    },
+    {
+      "index": 13,
+      "text": "He had not brought many tools but he was trying to at least understand what had failed.",
+      "start_ms": 35133,
+      "end_ms": 41316
+    },
+    {
+      "index": 14,
+      "text": "He took it apart, piece by piece, laying every part carefully on a piece of cloth.",
+      "start_ms": 41316,
+      "end_ms": 47148
+    },
+    {
+      "index": 15,
+      "text": "He said, \"There is a small part inside the fuel line that has broken.",
+      "start_ms": 47148,
+      "end_ms": 52067
+    },
+    {
+      "index": 16,
+      "text": "I cannot fix it here.",
+      "start_ms": 52067,
+      "end_ms": 53613
+    },
+    {
+      "index": 17,
+      "text": "But when we get back I know what to buy.",
+      "start_ms": 53613,
+      "end_ms": 56493
+    },
+    {
+      "index": 18,
+      "text": "Fine.",
+      "start_ms": 56493,
+      "end_ms": 56915
+    },
+    {
+      "index": 19,
+      "text": "So we know.\"",
+      "start_ms": 56915,
+      "end_ms": 57899
+    },
+    {
+      "index": 20,
+      "text": "That evening they watched the sea.",
+      "start_ms": 57899,
+      "end_ms": 60358
+    },
+    {
+      "index": 21,
+      "text": "No boat came.",
+      "start_ms": 60358,
+      "end_ms": 61342
+    },
+    {
+      "index": 22,
+      "text": "Her father said, \"They will come.",
+      "start_ms": 61342,
+      "end_ms": 63731
+    },
+    {
+      "index": 23,
+      "text": "Do not worry.",
+      "start_ms": 63731,
+      "end_ms": 64714
+    },
+    {
+      "index": 24,
+      "text": "Tomorrow probably.",
+      "start_ms": 64714,
+      "end_ms": 66050
+    },
+    {
+      "index": 25,
+      "text": "Aunt Teuea will be very worried.",
+      "start_ms": 66050,
+      "end_ms": 68368
+    },
+    {
+      "index": 26,
+      "text": "The harbor patrol is thorough.",
+      "start_ms": 68368,
+      "end_ms": 70547
+    },
+    {
+      "index": 27,
+      "text": "They know where I fish.",
+      "start_ms": 70547,
+      "end_ms": 72233
+    },
+    {
+      "index": 28,
+      "text": "They will send someone to check the reef and the small atolls in this area.",
+      "start_ms": 72233,
+      "end_ms": 77573
+    },
+    {
+      "index": 29,
+      "text": "It is a straightforward search.",
+      "start_ms": 77573,
+      "end_ms": 79822
+    },
+    {
+      "index": 30,
+      "text": "Tomorrow.",
+      "start_ms": 79822,
+      "end_ms": 80524
+    },
+    {
+      "index": 31,
+      "text": "Maybe the day after.",
+      "start_ms": 80524,
+      "end_ms": 82000
+    },
+    {
+      "index": 32,
+      "text": "We are fine.\"",
+      "start_ms": 82000,
+      "end_ms": 83054
+    },
+    {
+      "index": 33,
+      "text": "That second night Mala was quieter.",
+      "start_ms": 83054,
+      "end_ms": 85583
+    },
+    {
+      "index": 34,
+      "text": "She had been thinking about what her father had told her.",
+      "start_ms": 85583,
+      "end_ms": 89659
+    },
+    {
+      "index": 35,
+      "text": "It had — settled in her, in a way.",
+      "start_ms": 89659,
+      "end_ms": 92118
+    },
+    {
+      "index": 36,
+      "text": "She lay on the sand beside him and looked up at the stars.",
+      "start_ms": 92118,
+      "end_ms": 96264
+    },
+    {
+      "index": 37,
+      "text": "She said, \"Papa.",
+      "start_ms": 96264,
+      "end_ms": 97458
+    },
+    {
+      "index": 38,
+      "text": "I have thought about what you said.",
+      "start_ms": 97458,
+      "end_ms": 99988
+    },
+    {
+      "index": 39,
+      "text": "About what to do if you died.",
+      "start_ms": 99988,
+      "end_ms": 102096
+    },
+    {
+      "index": 40,
+      "text": "I want to tell you what I decided.\" Her father said, \"Okay.",
+      "start_ms": 102096,
+      "end_ms": 106312
+    },
+    {
+      "index": 41,
+      "text": "Tell me.\"",
+      "start_ms": 106312,
+      "end_ms": 106944
+    },
+    {
+      "index": 42,
+      "text": "\"I think I want to go to secondary school.",
+      "start_ms": 106944,
+      "end_ms": 109530
+    },
+    {
+      "index": 43,
+      "text": "And I think I want to try for the scholarship.",
+      "start_ms": 109530,
+      "end_ms": 112357
+    },
+    {
+      "index": 44,
+      "text": "I have been thinking about it for a while, actually.",
+      "start_ms": 112357,
+      "end_ms": 115545
+    },
+    {
+      "index": 45,
+      "text": "I did not know how to ask you.",
+      "start_ms": 115545,
+      "end_ms": 117410
+    },
+    {
+      "index": 46,
+      "text": "I did not want you to think I wanted to leave.",
+      "start_ms": 117410,
+      "end_ms": 120236
+    },
+    {
+      "index": 47,
+      "text": "But — I think I want to try.",
+      "start_ms": 120236,
+      "end_ms": 121981
+    },
+    {
+      "index": 48,
+      "text": "I want to be a — I do not know yet — but maybe a doctor.",
+      "start_ms": 121981,
+      "end_ms": 125409
+    },
+    {
+      "index": 49,
+      "text": "There are not enough doctors in Tarawa.",
+      "start_ms": 125409,
+      "end_ms": 127815
+    },
+    {
+      "index": 50,
+      "text": "We had to fly to Fiji when Grandmother needed her operation.",
+      "start_ms": 127815,
+      "end_ms": 131484
+    },
+    {
+      "index": 51,
+      "text": "That should not have to happen.",
+      "start_ms": 131484,
+      "end_ms": 133409
+    },
+    {
+      "index": 52,
+      "text": "I want to be able to help people in Kiribati without them having to leave.",
+      "start_ms": 133409,
+      "end_ms": 137920
+    },
+    {
+      "index": 53,
+      "text": "That is what I want.\"",
+      "start_ms": 137920,
+      "end_ms": 139303
+    },
+    {
+      "index": 54,
+      "text": "Her father was silent for a moment.",
+      "start_ms": 139303,
+      "end_ms": 141468
+    },
+    {
+      "index": 55,
+      "text": "Then he said, in a voice that was slightly rough, \"Mala.",
+      "start_ms": 141468,
+      "end_ms": 144897
+    },
+    {
+      "index": 56,
+      "text": "I did not know you had thought that far.",
+      "start_ms": 144897,
+      "end_ms": 147363
+    },
+    {
+      "index": 57,
+      "text": "I am so proud of you.",
+      "start_ms": 147363,
+      "end_ms": 148686
+    },
+    {
+      "index": 58,
+      "text": "That is a beautiful plan.",
+      "start_ms": 148686,
+      "end_ms": 150250
+    },
+    {
+      "index": 59,
+      "text": "I will support you every step of the way.",
+      "start_ms": 150250,
+      "end_ms": 152776
+    },
+    {
+      "index": 60,
+      "text": "And I will help you save for it.",
+      "start_ms": 152776,
+      "end_ms": 154761
+    },
+    {
+      "index": 61,
+      "text": "Whatever it takes.\" Mala said, \"Papa.",
+      "start_ms": 154761,
+      "end_ms": 157046
+    },
+    {
+      "index": 62,
+      "text": "Please do not die before I finish.",
+      "start_ms": 157046,
+      "end_ms": 159152
+    },
+    {
+      "index": 63,
+      "text": "Please.",
+      "start_ms": 159152,
+      "end_ms": 159633
+    },
+    {
+      "index": 64,
+      "text": "I want you to see me become a doctor.\" Her father laughed — a wet laugh — and said, \"I will do my best, Mala.",
+      "start_ms": 159633,
+      "end_ms": 166249
+    },
+    {
+      "index": 65,
+      "text": "I will do my very best.\"",
+      "start_ms": 166249,
+      "end_ms": 167813
+    },
+    {
+      "index": 66,
+      "text": "The harbor patrol boat came the next morning at about ten.",
+      "start_ms": 167813,
+      "end_ms": 171361
+    },
+    {
+      "index": 67,
+      "text": "Mala saw it first.",
+      "start_ms": 171361,
+      "end_ms": 172504
+    },
+    {
+      "index": 68,
+      "text": "She had been watching the horizon.",
+      "start_ms": 172504,
+      "end_ms": 174609
+    },
+    {
+      "index": 69,
+      "text": "She saw a small dark shape approaching from the direction of Tarawa.",
+      "start_ms": 174609,
+      "end_ms": 178759
+    },
+    {
+      "index": 70,
+      "text": "She shouted, \"Papa.",
+      "start_ms": 178759,
+      "end_ms": 179962
+    },
+    {
+      "index": 71,
+      "text": "Papa.",
+      "start_ms": 179962,
+      "end_ms": 180323
+    },
+    {
+      "index": 72,
+      "text": "There.\" Her father saw it.",
+      "start_ms": 180323,
+      "end_ms": 181947
+    },
+    {
+      "index": 73,
+      "text": "He ran to the signal fire.",
+      "start_ms": 181947,
+      "end_ms": 183571
+    },
+    {
+      "index": 74,
+      "text": "He lit it — the fire produced a lot of thick white smoke, because he had been keeping green palm fronds ready to throw on it.",
+      "start_ms": 183571,
+      "end_ms": 191150
+    },
+    {
+      "index": 75,
+      "text": "The smoke rose high.",
+      "start_ms": 191150,
+      "end_ms": 192413
+    },
+    {
+      "index": 76,
+      "text": "The boat changed course.",
+      "start_ms": 192413,
+      "end_ms": 193916
+    },
+    {
+      "index": 77,
+      "text": "It came straight for them.",
+      "start_ms": 193916,
+      "end_ms": 195601
+    },
+    {
+      "index": 78,
+      "text": "It was Uncle Beteru — Aunt Teuea's husband — and one of the men from the harbor patrol.",
+      "start_ms": 195601,
+      "end_ms": 200894
+    },
+    {
+      "index": 79,
+      "text": "They pulled up to the beach.",
+      "start_ms": 200894,
+      "end_ms": 202638
+    },
+    {
+      "index": 80,
+      "text": "They were relieved.",
+      "start_ms": 202638,
+      "end_ms": 203841
+    },
+    {
+      "index": 81,
+      "text": "Uncle Beteru got out and hugged both Mala and her father hard, and then hugged them again.",
+      "start_ms": 203841,
+      "end_ms": 209314
+    },
+    {
+      "index": 82,
+      "text": "He said, \"Teuea is having a heart attack from worry.",
+      "start_ms": 209314,
+      "end_ms": 212502
+    },
+    {
+      "index": 83,
+      "text": "We have been looking for you since yesterday morning.",
+      "start_ms": 212502,
+      "end_ms": 215750
+    },
+    {
+      "index": 84,
+      "text": "We have been to five other atolls first.",
+      "start_ms": 215750,
+      "end_ms": 218216
+    },
+    {
+      "index": 85,
+      "text": "This was the last one we were going to check today.\" Her father said, \"Motor.",
+      "start_ms": 218216,
+      "end_ms": 222907
+    },
+    {
+      "index": 86,
+      "text": "Broken.",
+      "start_ms": 222907,
+      "end_ms": 223388
+    },
+    {
+      "index": 87,
+      "text": "We are fine.",
+      "start_ms": 223388,
+      "end_ms": 224170
+    },
+    {
+      "index": 88,
+      "text": "Very fine.\"",
+      "start_ms": 224170,
+      "end_ms": 224832
+    },
+    {
+      "index": 89,
+      "text": "They towed the fishing boat back to Tarawa.",
+      "start_ms": 224832,
+      "end_ms": 227800
+    },
+    {
+      "index": 90,
+      "text": "It took most of the afternoon.",
+      "start_ms": 227800,
+      "end_ms": 229892
+    },
+    {
+      "index": 91,
+      "text": "Mala stood at the bow of her father's boat with him.",
+      "start_ms": 229892,
+      "end_ms": 233467
+    },
+    {
+      "index": 92,
+      "text": "She watched the small atoll get smaller and smaller until it was just a tiny green speck on the horizon and then nothing.",
+      "start_ms": 233467,
+      "end_ms": 241698
+    },
+    {
+      "index": 93,
+      "text": "She said, \"Papa.",
+      "start_ms": 241698,
+      "end_ms": 242845
+    },
+    {
+      "index": 94,
+      "text": "I want to remember this.",
+      "start_ms": 242845,
+      "end_ms": 244531
+    },
+    {
+      "index": 95,
+      "text": "This was one of the best three days of my life.\" Her father laughed and said, \"Even the second night when there was no boat.\" \"Yes,\" said Mala.",
+      "start_ms": 244531,
+      "end_ms": 254246
+    },
+    {
+      "index": 96,
+      "text": "\"Even the second night.",
+      "start_ms": 254246,
+      "end_ms": 255865
+    },
+    {
+      "index": 97,
+      "text": "That was the best one, actually.",
+      "start_ms": 255865,
+      "end_ms": 258091
+    },
+    {
+      "index": 98,
+      "text": "Because you told me things.\"",
+      "start_ms": 258091,
+      "end_ms": 260115
+    },
+    {
+      "index": 99,
+      "text": "They got home before dark.",
+      "start_ms": 260115,
+      "end_ms": 261937
+    },
+    {
+      "index": 100,
+      "text": "Aunt Teuea was crying at the pier when they arrived.",
+      "start_ms": 261937,
+      "end_ms": 265512
+    },
+    {
+      "index": 101,
+      "text": "She hugged Mala until Mala could not breathe.",
+      "start_ms": 265512,
+      "end_ms": 268615
+    },
+    {
+      "index": 102,
+      "text": "Mala's father told everyone the story of what had happened.",
+      "start_ms": 268615,
+      "end_ms": 272663
+    },
+    {
+      "index": 103,
+      "text": "Everyone was fine.",
+      "start_ms": 272663,
+      "end_ms": 273945
+    },
+    {
+      "index": 104,
+      "text": "Everyone was safe.",
+      "start_ms": 273945,
+      "end_ms": 275227
+    },
+    {
+      "index": 105,
+      "text": "Mala's father spent the next two weeks fixing the motor.",
+      "start_ms": 275227,
+      "end_ms": 279072
+    },
+    {
+      "index": 106,
+      "text": "Mala went back to school on Monday.",
+      "start_ms": 279072,
+      "end_ms": 281501
+    },
+    {
+      "index": 107,
+      "text": "She told nobody at school what had happened.",
+      "start_ms": 281501,
+      "end_ms": 284537
+    },
+    {
+      "index": 108,
+      "text": "She kept it as her own.",
+      "start_ms": 284537,
+      "end_ms": 286156
+    },
+    {
+      "index": 109,
+      "text": "But that year she started studying harder than she ever had.",
+      "start_ms": 286156,
+      "end_ms": 290271
+    },
+    {
+      "index": 110,
+      "text": "When she was seventeen, she got the scholarship.",
+      "start_ms": 290271,
+      "end_ms": 293577
+    },
+    {
+      "index": 111,
+      "text": "She went to Auckland to study medicine.",
+      "start_ms": 293577,
+      "end_ms": 296275
+    },
+    {
+      "index": 112,
+      "text": "Her father was still alive.",
+      "start_ms": 296275,
+      "end_ms": 298164
+    },
+    {
+      "index": 113,
+      "text": "He was very proud.",
+      "start_ms": 298164,
+      "end_ms": 299446
+    },
+    {
+      "index": 114,
+      "text": "He drove her — or, well, he came with her on the plane — to Auckland.",
+      "start_ms": 299446,
+      "end_ms": 304168
+    },
+    {
+      "index": 115,
+      "text": "He hugged her at the airport.",
+      "start_ms": 304168,
+      "end_ms": 306192
+    },
+    {
+      "index": 116,
+      "text": "He said, \"Remember the atoll, Mala.",
+      "start_ms": 306192,
+      "end_ms": 308621
+    },
+    {
+      "index": 117,
+      "text": "Remember what you decided.\" She said, \"I remember, Papa.\" And she went off to school.",
+      "start_ms": 308621,
+      "end_ms": 314423
+    },
+    {
+      "index": 118,
+      "text": "She became a doctor.",
+      "start_ms": 314423,
+      "end_ms": 315840
+    },
+    {
+      "index": 119,
+      "text": "She came back to Tarawa.",
+      "start_ms": 315840,
+      "end_ms": 317526
+    },
+    {
+      "index": 120,
+      "text": "Her father lived until she was thirty-four.",
+      "start_ms": 317526,
+      "end_ms": 320494
+    },
+    {
+      "index": 121,
+      "text": "He got to see her set up a small clinic in Bikenibeu.",
+      "start_ms": 320494,
+      "end_ms": 324137
+    },
+    {
+      "index": 122,
+      "text": "He died in his sleep.",
+      "start_ms": 324137,
+      "end_ms": 325622
+    },
+    {
+      "index": 123,
+      "text": "Mala took his ashes back to the small nameless atoll and spread them on the beach where they had watched the stars together.",
+      "start_ms": 325622,
+      "end_ms": 334055
+    },
+    {
+      "index": 124,
+      "text": "That was the whole thing.",
+      "start_ms": 334055,
+      "end_ms": 335809
+    },
+    {
+      "index": 125,
+      "text": "That was enough.",
+      "start_ms": 335809,
+      "end_ms": 336888
+    }
+  ]
+}

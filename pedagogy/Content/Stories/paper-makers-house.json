@@ -1,0 +1,163 @@
+{
+  "id": "paper-makers-house",
+  "title": "The Paper-Maker's House",
+  "subtitle": "Two Weeks in Andong",
+  "author": null,
+  "summary": "Ji-eun is eleven and lives in Seoul. Every summer she spends two weeks with her grandfather in Andong, a small city in the Korean countryside, where he has been making hanji — traditional Korean paper — for fifty-two years. Every sheet he has ever made bears a small number in the bottom corner, in his careful hand. On the second day of her visit this year, exploring the back workshop alone in the rain, Ji-eun finds a low shelf and a wooden box she has never noticed before, full of hundreds of sheets. None of them are numbered.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-paper-makers-house-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old Korean girl (Ji-eun) with long dark hair in a low ponytail, wearing a pale yellow linen top and dark trousers, kneeling on the wooden floor of a traditional workshop beside a shallow wooden box of pale cream-colored paper sheets. Her grandfather (mid-seventies, silver hair cut short, kind quiet face, wearing a dark grey work jacket over a white shirt) kneels across from her, holding one sheet up to the light from a paper-screened window. Behind them, more stacks of pale paper on wooden shelves, and beyond, a view through the sliding door onto a small hanok courtyard with a persimmon tree. Character positioned center-left, filling roughly 45% of frame height. Palette: warm cream (#FFF9F0), pale gold paper, deep ink outlines, small dusty rose (#FF5B8D) accent on Ji-eun's cheeks and top. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2027-06-17",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Workshop",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "pmh-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small traditional Korean hanok house on the edge of Andong. A tiled sweeping roof, dark wooden beams, a paper-screened door. In the courtyard, a persimmon tree. A dirt path leads up to the gate. Ji-eun (11, long dark ponytail, yellow linen top, small backpack) walks up the path. Late spring afternoon light. Heavy black ink outlines, flat shadows, warm cream and grey-brown palette.",
+          "paragraphs": [
+            "Ji-eun was eleven and lived in Seoul, in a small apartment on the eleventh floor of a building with an elevator that always smelled faintly of pine cleaner. Her mother worked at a hospital and her father taught at a middle school and they were very busy people. Every summer, in the second half of June, Ji-eun took the KTX bullet train south to Andong, an old city in the mountains of Gyeongsangbuk-do, and spent two weeks with her father's father. Her grandfather, whom she called Harabeoji, lived alone in a small traditional hanok house on the edge of town. Ji-eun had been coming to visit since she was five, but this was the first summer she had come by herself. Her mother was expecting a baby in September and could not travel this year.",
+            "Harabeoji was seventy-two. He was small and quiet and wore his silver hair cut short. He had made hanji — traditional Korean paper, made from the bark of the paper mulberry tree — since he was twenty years old. That was fifty-two years of paper. He had learned from his own father, who had learned from his father, who had learned from a monk at a temple in the mountains. The workshop where he made the paper was a low wooden building behind the house, with sliding paper-screened doors and racks of drying paper along every wall."
+          ]
+        },
+        {
+          "image": "pmh-ch1-p2-tea",
+          "imagePrompt": "Mike Mignola style for children: interior of the small hanok. Harabeoji (mid-seventies) and Ji-eun (11) sit on cushions at a low wooden table drinking tea from small white cups. A single sliding paper-screened door opens onto the small courtyard. Warm afternoon light through the paper. Heavy ink outlines, flat shadows, warm cream and grey palette.",
+          "paragraphs": [
+            "Harabeoji met her at the small station in Andong and drove her back to the hanok in his old grey car. The car was as quiet as he was. On the way he asked her three questions — how was her mother, how was school, how was the baby — and after she answered he did not ask anything else. This was normal. Ji-eun had learned that Harabeoji was not a man who talked to fill silence. He talked when there was a thing to say, and otherwise he was quiet, and the quiet was comfortable.",
+            "At the hanok, he made her tea, and they sat at the low table and drank it, looking through the open door at the persimmon tree in the small courtyard. When they had finished, he said, \"Tomorrow. The workshop. I have a big order. You can help.\" That was the beginning of the two weeks."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The work of hanji was long and slow and had many steps. Ji-eun had helped with some of them, in past summers — she was old enough now to be trusted with the smaller tasks. In June, they gathered the young stems of the paper mulberry — which Harabeoji had already done, mostly — and stripped the bark. Then the bark was boiled with a natural lye of wood ash for many hours until it softened. Then it was rinsed in the cold stream that ran past the back of the workshop. Then it was beaten — patiently, patiently, with a wooden mallet on a stone — until it broke down into short fibers. Then those fibers were mixed with water and a natural mucilage from a plant called dak-pul in a large wide wooden vat. Then Harabeoji, standing at the vat with a large flat bamboo screen in his hands, dipped and lifted, dipped and lifted, layering the fibers on the screen until they became a single sheet. Then the sheet was pressed. Then it was dried on a hot smooth board. Only then was it hanji.",
+            "One sheet took a week of work if you counted every step. Harabeoji made maybe forty sheets a week when the season was good. He had customers in Seoul who bought his paper for calligraphy and traditional bookbinding. He was not rich. He did not want to be rich. He wanted, he had once told Ji-eun's mother, to keep making paper until his hands no longer worked, and then, when he could not make paper anymore, to sit quietly by the persimmon tree until it was time to be finished. Ji-eun had heard her mother repeat this to her father, once, when they thought she was not listening."
+          ]
+        },
+        {
+          "image": "pmh-ch1-p4-numbering",
+          "imagePrompt": "Mike Mignola style for children: interior close view of the workshop. Harabeoji (mid-seventies) is seated at a low table with a completed sheet of pale cream hanji in front of him. He holds a very small brush and is writing a small number and character on the bottom right corner of the sheet in dark ink. Ji-eun (11) watches from beside him. Warm morning light through paper-screened doors. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Every sheet Harabeoji made, he numbered. This Ji-eun had watched her whole life. When a sheet came off the drying board, cool and smooth, Harabeoji would take it to the low table by the door, and with a very small brush and a very small pot of dark ink, he would write in the bottom right corner a number and a small character. The number was the count of the sheet — one, two, three, four, all the way up. The character was the season — spring, summer, autumn, winter. The last sheet he had made before Ji-eun arrived this June was numbered forty-one thousand six hundred and seventeen. Summer.",
+            "\"Why do you number them, Harabeoji?\" Ji-eun asked, that first evening at supper. He had been numbering the day's four sheets. She had watched. He looked up. He thought for a moment. He said, \"Because each one is a week. Making one sheet takes a week. So each number is a week of my life. It is a way of counting.\" He went back to eating. He did not say more. That was all he said about the numbers, that evening.",
+            "Ji-eun had not thought about it before as counting a life. She looked at the small pot of ink for a long time after supper."
+          ]
+        },
+        {
+          "image": "pmh-ch1-p5-rain",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the small hanok courtyard. Heavy summer rain is falling. Water beads on the persimmon tree leaves. Ji-eun (11) is running from the main house across the courtyard toward the low wooden workshop, holding a small hooded rain jacket over her head. Grey soft light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "On the second day, in the afternoon, it began to rain — a heavy summer monsoon rain that came suddenly out of a grey sky. Harabeoji had walked into town to buy something at the small hardware shop. Ji-eun was alone at the hanok. She had finished her book. She thought about the workshop. She had never explored it fully by herself. She grabbed her small rain jacket and ran across the courtyard in the rain and slid open the workshop door.",
+            "Inside, it was cool and dim and smelled of wet mulberry and pine smoke. The rain drummed softly on the tile roof. Ji-eun wandered. She looked at the drying boards on the wall, the stacks of finished paper on the shelves, the small brushes in their bamboo holder. In the back, in the corner where she had never been because the light was poor and Harabeoji had never asked her to go there, was a low wooden shelf she had not noticed before. On the shelf was a wooden box, plain, unmarked. Ji-eun crouched down and slid it out."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Unnumbered Sheets",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "pmh-ch2-p1-opening",
+          "imagePrompt": "Mike Mignola style for children: interior close view of the dim back of the workshop. Ji-eun (11) has slid the wooden box out onto the wooden floor and is lifting its plain wooden lid. Inside, a thick stack of pale cream sheets of hanji, edges neat, unmarked. Warm dim gold light from a single overhead paper lantern. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "The box was heavier than she expected. She lifted the lid. Inside, in a neat stack, were sheets of hanji. Not one or two — hundreds. The stack was maybe as thick as a large book. The sheets were pale cream, all the same size, all the standard size Harabeoji made. Each looked perfect — no torn edges, no water stains, no folded corners. Ji-eun lifted the top sheet gently and looked at the bottom right corner where the number always went.",
+            "Nothing. The corner was blank. She lifted the next sheet. Blank. The next — blank. She kept going, gently, five sheets, ten sheets, all the way down. Not one of them was numbered. Not a single one. She stared at the stack for a long time. Then she carried it, box and all, back across the rainy courtyard to the main house, and she waited for Harabeoji to come home."
+          ]
+        },
+        {
+          "image": "pmh-ch2-p2-showing",
+          "imagePrompt": "Mike Mignola style for children: interior of the hanok. Harabeoji (mid-seventies) has just come in from the rain, taken off his hat. Ji-eun (11) is sitting at the low table with the open wooden box in front of her, holding up one of the unnumbered sheets. Harabeoji has stopped in the doorway. His face is quiet and remembering. Warm evening lamp light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "He came in about an hour later. He took off his wet hat and his wet shoes, one at a time, and only then looked into the room. He saw the box on the table. He saw Ji-eun holding up one of the sheets. He did not say anything for a moment. Then he crossed the room slowly and sat down on the cushion across from her.",
+            "\"I did not know you would find those,\" he said. \"I had forgotten they were in the workshop.\" Ji-eun said, \"Harabeoji, they are not numbered.\" He nodded. He was looking at the sheet she held. He said, \"No. I did not number them.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "He was quiet for a while. Ji-eun did not push. She waited. He got up and made tea. When he had poured them both cups, he sat down again. Then he said, \"Halmoni — your grandmother — died eight years ago. You were three. You do not really remember her. She died in early June, that year. The persimmon had just flowered. I stopped making paper for four months. I could not work. I could not do anything, really. I sat in the house.\"",
+            "He drank some tea. \"In October, I began again. I do not know why October and not September. It happens when it happens. I made a sheet. I dried it. I brought it in to number it. And I found I did not know what to write. I did not know what week it was. I did not know what season it was, in the sense the number keeps track of. Everything had shifted. I had been counting my life a certain way, and that way had ended, and I did not yet know how the counting worked now. So I put the sheet in a box, unnumbered. And the next week I made another. And I put it in the box, unnumbered. I made paper for a whole year like that. Then, the following autumn, one Tuesday, I sat down at the table and I picked up the brush and I wrote a number on a new sheet. Just — I was ready. I do not know why that Tuesday. I have been numbering ever since. But the year of unnumbered sheets I put away. I could not go back and number them. It was too late. It was the wrong kind of counting.\"",
+            "Ji-eun listened. She thought about it for a long time. Then she said, \"Harabeoji. What if we numbered them now? Together. Not with the ordinary numbers. Something else.\" He looked at her."
+          ]
+        },
+        {
+          "image": "pmh-ch2-p4-idea",
+          "imagePrompt": "Mike Mignola style for children: interior. Ji-eun (11) leans across the low table toward Harabeoji, gesturing with one hand as she explains her idea. Harabeoji (mid-seventies) listens with his head slightly tilted, considering. The box of unnumbered sheets sits between them. Warm evening lamp light, the rain still soft outside. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "\"What if,\" Ji-eun said, \"instead of a number and a season, we wrote a small thing on each one? What was happening that week. Something small. The weather. What you ate. What the persimmon was doing. Whether you slept well. Something. So the sheet has a date but not a count. Because that year did not count like the other years, right? But it still was. It still happened. The paper is still there. So the paper can say — this week, it was raining. Or this week, my daughter called. Or this week, I finally finished the book Halmoni had been reading. Something.\"",
+            "Harabeoji was still. He did not interrupt her. When she stopped, he looked at the box. He looked at the small pot of ink on the table. Then he looked at Ji-eun. He said, quietly, \"You are eleven years old and that is a wise idea. I would never have thought of it. Yes. Let us do that.\""
+          ]
+        },
+        {
+          "image": "pmh-ch2-p5-first-sheet",
+          "imagePrompt": "Mike Mignola style for children: interior close view. Harabeoji (mid-seventies) sits at the low table with one of the pale unnumbered sheets in front of him. He is holding the small brush poised above the sheet's bottom edge, thinking about what to write. Ji-eun (11) sits beside him watching. Warm gold lamp light, quiet mood. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They started that same evening. Harabeoji got the small pot of ink and the small brush. He took the top sheet from the box and set it on the low table. He looked at Ji-eun. He said, \"You do not remember your grandmother. So I will tell you about her, one week at a time, one sheet at a time. It will take us many nights. Perhaps all your two weeks here. Perhaps not all — there are more than fifty sheets. But we will do what we can. When you go home, you will know something about her that you did not know when you came.\"",
+            "He picked up the brush. He thought for a moment. Then he wrote, in his careful small hand, at the bottom of the sheet: October, first week. It rained every day. She had liked October rain. He set the brush down. He was quiet for a moment. Then he passed the sheet to Ji-eun. He said, \"You put it aside to dry. Then we do the next.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Small Marks",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "pmh-ch3-p1-many-nights",
+          "imagePrompt": "Mike Mignola style for children: interior. Same low table. Multiple lit evenings compressed into one image feel — many unnumbered sheets are spread across the floor and along the walls, each drying, each with a small ink marking. Harabeoji (mid-seventies) sits at the table, brush in hand, working on another. Ji-eun (11) sits on the floor arranging dried sheets. Warm lamp light, quiet late-evening mood. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They did it every evening after supper. They made it a small ritual. Harabeoji would take one sheet from the box, and he would think about that week — which he did not always remember specifically, but he remembered enough — and he would write something. Sometimes it was a fact about the weather. Sometimes it was a memory of Halmoni. Sometimes it was what he had eaten. Once he wrote, at the bottom of a sheet, in his very quiet hand: This week I did not remember to eat lunch three days in a row. It is embarrassing to write this down but true. Ji-eun read it. She looked up at him. He smiled a little, without any lightness, and shrugged.",
+            "Ji-eun also wrote, on some sheets. She would ask him, what was Halmoni like that week? And he would say something, and she would write it in her own handwriting — which was much rounder and more childish than his — on the sheet. She wrote things like: Halmoni sang while she washed the rice. She wrote: Halmoni put a little butter on Ji-eun's hand when Ji-eun pinched her mother. That story Harabeoji told her one evening — that Halmoni believed a small kindness stopped a small unkindness, so she always answered a pinch with butter — made Ji-eun laugh out loud for the first time since she had arrived."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They did not finish. There were fifty-eight sheets in the box, and they got through thirty-one over the two weeks Ji-eun was there. Some evenings they only did one. Some evenings they did four. Some evenings Harabeoji did not want to. He would say, \"Not tonight, Ji-eun. Tonight we watch the persimmon.\" And they would sit on the porch and watch the persimmon tree not do anything in particular, and that was fine.",
+            "Sometimes, during the day, while Harabeoji was working at the vat and Ji-eun was watching, she would think about the sheets in the box. She thought about how a week could go by, and not be counted, and still be there. She thought about her mother, and the baby coming in September, and how her mother had said, when Ji-eun had asked how you counted time with a new baby, that you didn't — you just tried to notice as much as you could, and if you noticed enough, the time didn't need counting. Ji-eun had not really understood that when her mother had said it. She thought maybe she was beginning to."
+          ]
+        },
+        {
+          "image": "pmh-ch3-p3-last-evening",
+          "imagePrompt": "Mike Mignola style for children: interior on the last evening. Harabeoji (mid-seventies) and Ji-eun (11) are placing the thirty-one dated sheets back into the wooden box, layered carefully. Twenty-seven still-unmarked sheets remain in a smaller neat stack beside the box. Warm evening lamp light, quiet closeness. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "On the last evening of Ji-eun's visit, they put the thirty-one dated sheets back into the wooden box, carefully, in the order they had been made. The remaining twenty-seven — the ones they had not yet gotten to — Harabeoji put in a smaller neat stack beside the box. He said, \"When you come next summer, we do more. Perhaps we finish. Perhaps not. Now they are two boxes — the ones we have marked and the ones still to mark. That is fine. That is progress.\"",
+            "He carried the box back across the courtyard to the workshop and put it back on the low shelf in the corner. But he did not push it all the way back into the shadow. He set it a little forward, so that when he came into the workshop each morning, he would see it. Ji-eun watched him do this and did not say anything. He came back to the house. He said, \"You have done a good thing here, Ji-eun. I did not know I needed to do that. I thought I had finished with those sheets. It turned out I had not.\""
+          ]
+        },
+        {
+          "image": "pmh-ch3-p4-gift",
+          "imagePrompt": "Mike Mignola style for children: interior. Harabeoji (mid-seventies) has just handed Ji-eun (11) a single sheet of pale cream hanji, rolled loosely into a small tube tied with cotton string. Ji-eun holds it in both hands. Harabeoji has both his hands folded in front of him. Warm morning light on the last day. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "In the morning, before she left for the train, he gave her something. It was a single sheet of hanji, rolled into a small loose tube and tied with cotton string. He said, \"This is one of the unnumbered sheets. I have marked it for you. It is yours to keep.\" Ji-eun untied it and looked. In Harabeoji's careful small hand, along the bottom of the sheet, he had written: The week Ji-eun was eleven and came to see her Harabeoji alone for the first time and found the box. This is one of ours.",
+            "Ji-eun rolled it up again carefully. She said, \"But Harabeoji, this was not from that year. This is now.\" He said, \"Yes. But it is the same box. It belongs there. The counting has changed again. Now every summer you come, we mark one sheet. Not by number. By what happened. In fifty years, when I am long gone, there will be a box in some corner somewhere with these sheets in it, and someone — maybe your child, maybe your grandchild — will find it, and they will know that a girl came to Andong every summer to see her grandfather, and that they marked a sheet together each time, and that was one way of counting.\""
+          ]
+        },
+        {
+          "image": "pmh-ch3-p5-train",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the small train station in Andong. Ji-eun (11) sits by the platform on her small suitcase, the rolled hanji sheet held carefully in her lap. Harabeoji (mid-seventies) stands a little behind her, hands folded, waiting with her for the train. Late morning summer light. Heavy ink outlines, flat shadows, warm cream and grey palette.",
+          "paragraphs": [
+            "He walked her to the station. They did not talk very much on the way. That was normal. At the platform he waited with her, and when the train pulled in he gave her a small quiet hug — Harabeoji did not hug easily, but this time he did — and helped her step up into the carriage. He said, \"Give my love to your mother. Take care of the baby, when it comes. Come back in the winter if you can.\" She said she would try.",
+            "The train pulled away. Ji-eun sat by the window with the rolled hanji sheet in her lap. She watched the small city and then the rice paddies and then the mountains go past. She thought about the box in the corner of the workshop, with the thirty-one marked sheets and the twenty-seven still to be marked, and now the one that had joined them. She thought about the years, all the years, that were still to come. She thought about her grandfather, alone in the hanok, walking back across the courtyard to the workshop right now, probably. Not to work. Just to sit for a moment. To look at the box. To be with it. She hoped the persimmon tree was doing something small and quiet outside his door."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": ["family", "grandfather", "korea", "paper", "grief", "tradition"]
+}

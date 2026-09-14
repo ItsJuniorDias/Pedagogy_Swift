@@ -1,0 +1,739 @@
+{
+  "story_id": "return-boat",
+  "chapter": 2,
+  "total_duration_ms": 350952,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The Douro river was one of the most beautiful things in Portugal.",
+      "start_ms": 1528,
+      "end_ms": 5728
+    },
+    {
+      "index": 1,
+      "text": "Yara had grown up looking at it from her hillside.",
+      "start_ms": 5728,
+      "end_ms": 8974
+    },
+    {
+      "index": 2,
+      "text": "She had walked along its banks.",
+      "start_ms": 8974,
+      "end_ms": 11011
+    },
+    {
+      "index": 3,
+      "text": "She had swum in it.",
+      "start_ms": 11011,
+      "end_ms": 12284
+    },
+    {
+      "index": 4,
+      "text": "But she had never seen it from a boat, moving down it, from a distance.",
+      "start_ms": 12284,
+      "end_ms": 16866
+    },
+    {
+      "index": 5,
+      "text": "It was different.",
+      "start_ms": 16866,
+      "end_ms": 18012
+    },
+    {
+      "index": 6,
+      "text": "The hills were bigger than she had realized.",
+      "start_ms": 18012,
+      "end_ms": 20876
+    },
+    {
+      "index": 7,
+      "text": "The vineyards were more countless than she had realized.",
+      "start_ms": 20876,
+      "end_ms": 24504
+    },
+    {
+      "index": 8,
+      "text": "The bends of the river were slower.",
+      "start_ms": 24504,
+      "end_ms": 26795
+    },
+    {
+      "index": 9,
+      "text": "From the boat, she could see how the whole valley was shaped — how the river had carved it over millions of years.",
+      "start_ms": 26795,
+      "end_ms": 34115
+    },
+    {
+      "index": 10,
+      "text": "The hills terraced with vineyards were on both sides.",
+      "start_ms": 34115,
+      "end_ms": 37552
+    },
+    {
+      "index": 11,
+      "text": "Sometimes a small stone village would appear on a distant slope.",
+      "start_ms": 37552,
+      "end_ms": 41689
+    },
+    {
+      "index": 12,
+      "text": "Sometimes she saw a train going along the far bank on the little railway that followed the river.",
+      "start_ms": 41689,
+      "end_ms": 47990
+    },
+    {
+      "index": 13,
+      "text": "Senhor Fonseca said almost nothing for the first three hours.",
+      "start_ms": 47990,
+      "end_ms": 51936
+    },
+    {
+      "index": 14,
+      "text": "He worked.",
+      "start_ms": 51936,
+      "end_ms": 52636
+    },
+    {
+      "index": 15,
+      "text": "He adjusted the sail.",
+      "start_ms": 52636,
+      "end_ms": 54036
+    },
+    {
+      "index": 16,
+      "text": "He watched the wind.",
+      "start_ms": 54036,
+      "end_ms": 55373
+    },
+    {
+      "index": 17,
+      "text": "He watched the current.",
+      "start_ms": 55373,
+      "end_ms": 56901
+    },
+    {
+      "index": 18,
+      "text": "He steered around specific rocks that he seemed to know about.",
+      "start_ms": 56901,
+      "end_ms": 60910
+    },
+    {
+      "index": 19,
+      "text": "Yara sat at the front of the boat and just looked.",
+      "start_ms": 60910,
+      "end_ms": 64156
+    },
+    {
+      "index": 20,
+      "text": "She did not ask him questions.",
+      "start_ms": 64156,
+      "end_ms": 66129
+    },
+    {
+      "index": 21,
+      "text": "She had promised she would be quiet.",
+      "start_ms": 66129,
+      "end_ms": 68484
+    },
+    {
+      "index": 22,
+      "text": "She was keeping her promise.",
+      "start_ms": 68484,
+      "end_ms": 70394
+    },
+    {
+      "index": 23,
+      "text": "Around eleven o'clock they came to the first of the big dams.",
+      "start_ms": 70394,
+      "end_ms": 74340
+    },
+    {
+      "index": 24,
+      "text": "There were five dams along the Douro — huge concrete walls with locks, put in during the twentieth century.",
+      "start_ms": 74340,
+      "end_ms": 81214
+    },
+    {
+      "index": 25,
+      "text": "Boats had to go through the locks.",
+      "start_ms": 81214,
+      "end_ms": 83441
+    },
+    {
+      "index": 26,
+      "text": "Yara had never been through a lock before.",
+      "start_ms": 83441,
+      "end_ms": 86178
+    },
+    {
+      "index": 27,
+      "text": "Senhor Fonseca radioed ahead.",
+      "start_ms": 86178,
+      "end_ms": 88088
+    },
+    {
+      "index": 28,
+      "text": "They approached the lock.",
+      "start_ms": 88088,
+      "end_ms": 89742
+    },
+    {
+      "index": 29,
+      "text": "The huge steel gates opened.",
+      "start_ms": 89742,
+      "end_ms": 91588
+    },
+    {
+      "index": 30,
+      "text": "They sailed the little boat into a big concrete chamber.",
+      "start_ms": 91588,
+      "end_ms": 95216
+    },
+    {
+      "index": 31,
+      "text": "The gates closed behind them.",
+      "start_ms": 95216,
+      "end_ms": 97126
+    },
+    {
+      "index": 32,
+      "text": "The water level began to drop — the Douro was actually five long lakes, and each lock lowered you from one lake down to the next.",
+      "start_ms": 97126,
+      "end_ms": 105336
+    },
+    {
+      "index": 33,
+      "text": "Yara had to hold on.",
+      "start_ms": 105336,
+      "end_ms": 106687
+    },
+    {
+      "index": 34,
+      "text": "It felt strange to be in a small boat inside a huge concrete box.",
+      "start_ms": 106687,
+      "end_ms": 110934
+    },
+    {
+      "index": 35,
+      "text": "When the water was fully down, the gates in front opened, and they sailed out into the next section of river, twenty meters lower than where they had been.",
+      "start_ms": 110934,
+      "end_ms": 120973
+    },
+    {
+      "index": 36,
+      "text": "Yara laughed a little.",
+      "start_ms": 120973,
+      "end_ms": 122453
+    },
+    {
+      "index": 37,
+      "text": "It was funny.",
+      "start_ms": 122453,
+      "end_ms": 123354
+    },
+    {
+      "index": 38,
+      "text": "Senhor Fonseca smiled just a little for the first time.",
+      "start_ms": 123354,
+      "end_ms": 126958
+    },
+    {
+      "index": 39,
+      "text": "He said, \"Yes.",
+      "start_ms": 126958,
+      "end_ms": 127923
+    },
+    {
+      "index": 40,
+      "text": "First lock is always strange.",
+      "start_ms": 127923,
+      "end_ms": 129853
+    },
+    {
+      "index": 41,
+      "text": "You get used to it.\"",
+      "start_ms": 129853,
+      "end_ms": 131269
+    },
+    {
+      "index": 42,
+      "text": "That first night they stopped at a small village called Pinhão.",
+      "start_ms": 131269,
+      "end_ms": 135387
+    },
+    {
+      "index": 43,
+      "text": "Senhor Fonseca tied the boat up at the town pier.",
+      "start_ms": 135387,
+      "end_ms": 138605
+    },
+    {
+      "index": 44,
+      "text": "He walked with Yara to a small pension where they had two rooms booked.",
+      "start_ms": 138605,
+      "end_ms": 143238
+    },
+    {
+      "index": 45,
+      "text": "He walked her to her door.",
+      "start_ms": 143238,
+      "end_ms": 144976
+    },
+    {
+      "index": 46,
+      "text": "He said, \"Your room.",
+      "start_ms": 144976,
+      "end_ms": 146327
+    },
+    {
+      "index": 47,
+      "text": "Lock it.",
+      "start_ms": 146327,
+      "end_ms": 146906
+    },
+    {
+      "index": 48,
+      "text": "I am the next room.",
+      "start_ms": 146906,
+      "end_ms": 148193
+    },
+    {
+      "index": 49,
+      "text": "If anything happens, knock hard on the wall.",
+      "start_ms": 148193,
+      "end_ms": 151089
+    },
+    {
+      "index": 50,
+      "text": "We eat supper in an hour, at that café down there.",
+      "start_ms": 151089,
+      "end_ms": 154371
+    },
+    {
+      "index": 51,
+      "text": "Rest.\" And he went to his room.",
+      "start_ms": 154371,
+      "end_ms": 156430
+    },
+    {
+      "index": 52,
+      "text": "Yara went into hers.",
+      "start_ms": 156430,
+      "end_ms": 157781
+    },
+    {
+      "index": 53,
+      "text": "She lay on the bed.",
+      "start_ms": 157781,
+      "end_ms": 159068
+    },
+    {
+      "index": 54,
+      "text": "She was tired.",
+      "start_ms": 159068,
+      "end_ms": 160033
+    },
+    {
+      "index": 55,
+      "text": "She had not realized she was tired.",
+      "start_ms": 160033,
+      "end_ms": 162350
+    },
+    {
+      "index": 56,
+      "text": "She almost fell asleep.",
+      "start_ms": 162350,
+      "end_ms": 163959
+    },
+    {
+      "index": 57,
+      "text": "At supper she and Senhor Fonseca sat at a small outdoor table by the river.",
+      "start_ms": 163959,
+      "end_ms": 168849
+    },
+    {
+      "index": 58,
+      "text": "They ate a hot stew called cozido and drank water.",
+      "start_ms": 168849,
+      "end_ms": 172131
+    },
+    {
+      "index": 59,
+      "text": "Senhor Fonseca did not talk for most of the meal.",
+      "start_ms": 172131,
+      "end_ms": 175349
+    },
+    {
+      "index": 60,
+      "text": "Yara had been on the boat all day and she had been quiet all day and she wanted to talk now.",
+      "start_ms": 175349,
+      "end_ms": 181333
+    },
+    {
+      "index": 61,
+      "text": "She asked, \"Senhor Fonseca.",
+      "start_ms": 181333,
+      "end_ms": 183135
+    },
+    {
+      "index": 62,
+      "text": "How many boats like this have you sailed.\" He said, \"Eleven.",
+      "start_ms": 183135,
+      "end_ms": 187060
+    },
+    {
+      "index": 63,
+      "text": "This one is the twelfth.",
+      "start_ms": 187060,
+      "end_ms": 188669
+    },
+    {
+      "index": 64,
+      "text": "There are not many left.\" \"Do you always sail them alone.\" \"Yes.",
+      "start_ms": 188669,
+      "end_ms": 192852
+    },
+    {
+      "index": 65,
+      "text": "Except this time.\" He looked at her.",
+      "start_ms": 192852,
+      "end_ms": 195233
+    },
+    {
+      "index": 66,
+      "text": "\"You are doing well.",
+      "start_ms": 195233,
+      "end_ms": 196584
+    },
+    {
+      "index": 67,
+      "text": "I want you to know.",
+      "start_ms": 196584,
+      "end_ms": 197871
+    },
+    {
+      "index": 68,
+      "text": "You have been quiet all day and you have watched.",
+      "start_ms": 197871,
+      "end_ms": 201089
+    },
+    {
+      "index": 69,
+      "text": "That is what I need.\"",
+      "start_ms": 201089,
+      "end_ms": 202440
+    },
+    {
+      "index": 70,
+      "text": "\"Senhor Fonseca,\" Yara said.",
+      "start_ms": 202440,
+      "end_ms": 204244
+    },
+    {
+      "index": 71,
+      "text": "\"May I ask you something else.\" He nodded.",
+      "start_ms": 204244,
+      "end_ms": 206918
+    },
+    {
+      "index": 72,
+      "text": "\"Why do you do this.",
+      "start_ms": 206918,
+      "end_ms": 208224
+    },
+    {
+      "index": 73,
+      "text": "You could have any job.",
+      "start_ms": 208224,
+      "end_ms": 209717
+    },
+    {
+      "index": 74,
+      "text": "But you sail old boats to museums.",
+      "start_ms": 209717,
+      "end_ms": 211894
+    },
+    {
+      "index": 75,
+      "text": "Alone.",
+      "start_ms": 211894,
+      "end_ms": 212330
+    },
+    {
+      "index": 76,
+      "text": "Why.\" Senhor Fonseca ate for a moment.",
+      "start_ms": 212330,
+      "end_ms": 214755
+    },
+    {
+      "index": 77,
+      "text": "He said, \"My grandfather sailed rabelos when they still worked.",
+      "start_ms": 214755,
+      "end_ms": 218736
+    },
+    {
+      "index": 78,
+      "text": "From the 1930s until the 1960s.",
+      "start_ms": 218736,
+      "end_ms": 220726
+    },
+    {
+      "index": 79,
+      "text": "When the trucks and the trains took over, he was one of the last.",
+      "start_ms": 220726,
+      "end_ms": 224832
+    },
+    {
+      "index": 80,
+      "text": "He was — bitter.",
+      "start_ms": 224832,
+      "end_ms": 225889
+    },
+    {
+      "index": 81,
+      "text": "He thought the world had lost something when the old boats stopped.",
+      "start_ms": 225889,
+      "end_ms": 230118
+    },
+    {
+      "index": 82,
+      "text": "He tried to teach me to sail one when I was your age, but there was no work in it, and I did not really care.",
+      "start_ms": 230118,
+      "end_ms": 236960
+    },
+    {
+      "index": 83,
+      "text": "Then when he died, I was nineteen.",
+      "start_ms": 236960,
+      "end_ms": 239137
+    },
+    {
+      "index": 84,
+      "text": "I found a lot of his notebooks.",
+      "start_ms": 239137,
+      "end_ms": 241128
+    },
+    {
+      "index": 85,
+      "text": "He had written down everything about sailing rabelos — the currents, the winds at each bend, the safe places to tie up.",
+      "start_ms": 241128,
+      "end_ms": 248591
+    },
+    {
+      "index": 86,
+      "text": "He had written it because he was afraid the knowledge would die with him.",
+      "start_ms": 248591,
+      "end_ms": 253194
+    },
+    {
+      "index": 87,
+      "text": "I read the notebooks.",
+      "start_ms": 253194,
+      "end_ms": 254562
+    },
+    {
+      "index": 88,
+      "text": "I decided he was right.",
+      "start_ms": 254562,
+      "end_ms": 256055
+    },
+    {
+      "index": 89,
+      "text": "Somebody should still know.",
+      "start_ms": 256055,
+      "end_ms": 257797
+    },
+    {
+      "index": 90,
+      "text": "And I have been doing this for twenty-five years now.",
+      "start_ms": 257797,
+      "end_ms": 261156
+    },
+    {
+      "index": 91,
+      "text": "Not for money.",
+      "start_ms": 261156,
+      "end_ms": 262089
+    },
+    {
+      "index": 92,
+      "text": "Small money.",
+      "start_ms": 262089,
+      "end_ms": 262897
+    },
+    {
+      "index": 93,
+      "text": "But someone still knows how to sail these boats, because my grandfather made me care.\"",
+      "start_ms": 262897,
+      "end_ms": 268371
+    },
+    {
+      "index": 94,
+      "text": "Yara sat with this for a moment.",
+      "start_ms": 268371,
+      "end_ms": 270423
+    },
+    {
+      "index": 95,
+      "text": "She said, \"Are you the only one.\" Senhor Fonseca said, \"There are two other men in Portugal who can do it.",
+      "start_ms": 270423,
+      "end_ms": 277078
+    },
+    {
+      "index": 96,
+      "text": "Both are older than me.",
+      "start_ms": 277078,
+      "end_ms": 278571
+    },
+    {
+      "index": 97,
+      "text": "When I die, I hope one of them will still be alive, or I hope I will have taught someone.",
+      "start_ms": 278571,
+      "end_ms": 284169
+    },
+    {
+      "index": 98,
+      "text": "I have not found anyone yet.",
+      "start_ms": 284169,
+      "end_ms": 285973
+    },
+    {
+      "index": 99,
+      "text": "But — I keep looking.\"",
+      "start_ms": 285973,
+      "end_ms": 287466
+    },
+    {
+      "index": 100,
+      "text": "On the second day Senhor Fonseca started teaching her small things.",
+      "start_ms": 287466,
+      "end_ms": 291695
+    },
+    {
+      "index": 101,
+      "text": "She was allowed to hold a rope that adjusted the angle of the sail.",
+      "start_ms": 291695,
+      "end_ms": 295925
+    },
+    {
+      "index": 102,
+      "text": "He showed her how to look at the surface of the water to see which way the wind was moving.",
+      "start_ms": 295925,
+      "end_ms": 301647
+    },
+    {
+      "index": 103,
+      "text": "He showed her the specific spots along the river where the current would try to push the boat toward the rocks, and how to steer against it.",
+      "start_ms": 301647,
+      "end_ms": 310417
+    },
+    {
+      "index": 104,
+      "text": "He talked more that day than he had the day before.",
+      "start_ms": 310417,
+      "end_ms": 313651
+    },
+    {
+      "index": 105,
+      "text": "Not much more.",
+      "start_ms": 313651,
+      "end_ms": 314584
+    },
+    {
+      "index": 106,
+      "text": "But more.",
+      "start_ms": 314584,
+      "end_ms": 315144
+    },
+    {
+      "index": 107,
+      "text": "\"Your family used to do this,\" he said, at one point.",
+      "start_ms": 315144,
+      "end_ms": 318361
+    },
+    {
+      "index": 108,
+      "text": "\"Your great-great-grandfather.",
+      "start_ms": 318361,
+      "end_ms": 320208
+    },
+    {
+      "index": 109,
+      "text": "He sailed this boat down this exact river, hundreds of times, in the 1880s and 1890s.",
+      "start_ms": 320208,
+      "end_ms": 325332
+    },
+    {
+      "index": 110,
+      "text": "He would have known this river the way I know it now.",
+      "start_ms": 325332,
+      "end_ms": 328550
+    },
+    {
+      "index": 111,
+      "text": "It is a strange thing that you and I are the ones bringing his boat down for the last time.",
+      "start_ms": 328550,
+      "end_ms": 334031
+    },
+    {
+      "index": 112,
+      "text": "It should have been him.",
+      "start_ms": 334031,
+      "end_ms": 335521
+    },
+    {
+      "index": 113,
+      "text": "His grandson.",
+      "start_ms": 335521,
+      "end_ms": 336355
+    },
+    {
+      "index": 114,
+      "text": "Someone in your family.",
+      "start_ms": 336355,
+      "end_ms": 337785
+    },
+    {
+      "index": 115,
+      "text": "But everything gets forgotten.",
+      "start_ms": 337785,
+      "end_ms": 339632
+    },
+    {
+      "index": 116,
+      "text": "So it is us.\" Yara thought about this.",
+      "start_ms": 339632,
+      "end_ms": 341955
+    },
+    {
+      "index": 117,
+      "text": "She thought — but I am from his family.",
+      "start_ms": 341955,
+      "end_ms": 344339
+    },
+    {
+      "index": 118,
+      "text": "I am doing it.",
+      "start_ms": 344339,
+      "end_ms": 345232
+    },
+    {
+      "index": 119,
+      "text": "That is not exactly forgetting.",
+      "start_ms": 345232,
+      "end_ms": 347139
+    },
+    {
+      "index": 120,
+      "text": "That is exactly the opposite.",
+      "start_ms": 347139,
+      "end_ms": 348926
+    },
+    {
+      "index": 121,
+      "text": "But she did not say this out loud.",
+      "start_ms": 348926,
+      "end_ms": 350952
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "story_id": "salt-sisters",
+  "chapter": 3,
+  "total_duration_ms": 324720,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Back at the palafito, they moved quickly.",
+      "start_ms": 1519,
+      "end_ms": 4557
+    },
+    {
+      "index": 1,
+      "text": "Isla checked on Abuelo — his fever was worse.",
+      "start_ms": 4557,
+      "end_ms": 7884
+    },
+    {
+      "index": 2,
+      "text": "His breathing was shallow.",
+      "start_ms": 7884,
+      "end_ms": 9837
+    },
+    {
+      "index": 3,
+      "text": "He mumbled something Isla did not understand, and then he was quiet.",
+      "start_ms": 9837,
+      "end_ms": 14828
+    },
+    {
+      "index": 4,
+      "text": "She put a fresh cool cloth on his forehead.",
+      "start_ms": 14828,
+      "end_ms": 18010
+    },
+    {
+      "index": 5,
+      "text": "She kissed his hand.",
+      "start_ms": 18010,
+      "end_ms": 19529
+    },
+    {
+      "index": 6,
+      "text": "She went back to the kitchen.",
+      "start_ms": 19529,
+      "end_ms": 21699
+    },
+    {
+      "index": 7,
+      "text": "Camila had already put water on the stove.",
+      "start_ms": 21699,
+      "end_ms": 24882
+    },
+    {
+      "index": 8,
+      "text": "Isla read Abuela's recipe out loud, twice, to make sure she had it right.",
+      "start_ms": 24882,
+      "end_ms": 30234
+    },
+    {
+      "index": 9,
+      "text": "Two handfuls of the leaves, chopped fine.",
+      "start_ms": 30234,
+      "end_ms": 33272
+    },
+    {
+      "index": 10,
+      "text": "Half a liter of water.",
+      "start_ms": 33272,
+      "end_ms": 34935
+    },
+    {
+      "index": 11,
+      "text": "Boil for exactly the length of the song, no more, no less — the song they had sung in the forest.",
+      "start_ms": 34935,
+      "end_ms": 42024
+    },
+    {
+      "index": 12,
+      "text": "Then strain.",
+      "start_ms": 42024,
+      "end_ms": 42964
+    },
+    {
+      "index": 13,
+      "text": "Then add one small pinch of sea salt.",
+      "start_ms": 42964,
+      "end_ms": 45713
+    },
+    {
+      "index": 14,
+      "text": "That was for the body.",
+      "start_ms": 45713,
+      "end_ms": 47376
+    },
+    {
+      "index": 15,
+      "text": "Give in small warm sips, every hour, for four hours.",
+      "start_ms": 47376,
+      "end_ms": 51210
+    },
+    {
+      "index": 16,
+      "text": "If the fever breaks, stop giving.",
+      "start_ms": 51210,
+      "end_ms": 53669
+    },
+    {
+      "index": 17,
+      "text": "If it does not break, come back in the morning and go get more plants.",
+      "start_ms": 53669,
+      "end_ms": 58877
+    },
+    {
+      "index": 18,
+      "text": "They chopped the leaves.",
+      "start_ms": 58877,
+      "end_ms": 60685
+    },
+    {
+      "index": 19,
+      "text": "They put them in the boiling water.",
+      "start_ms": 60685,
+      "end_ms": 63289
+    },
+    {
+      "index": 20,
+      "text": "Camila sang the song again, three times, to time the boil — Isla checked with the clock, and the song lasted almost exactly three minutes each time, so they let it boil for three songs.",
+      "start_ms": 63289,
+      "end_ms": 76742
+    },
+    {
+      "index": 21,
+      "text": "Camila's voice was steady and calm.",
+      "start_ms": 76742,
+      "end_ms": 79346
+    },
+    {
+      "index": 22,
+      "text": "It was a strange thing to hear in the kitchen — this small old song, in a language neither of them fully spoke, being used as a timer for their grandfather's medicine.",
+      "start_ms": 79346,
+      "end_ms": 91570
+    },
+    {
+      "index": 23,
+      "text": "Isla strained the tea into a small ceramic cup.",
+      "start_ms": 91570,
+      "end_ms": 95042
+    },
+    {
+      "index": 24,
+      "text": "She added the pinch of sea salt.",
+      "start_ms": 95042,
+      "end_ms": 97428
+    },
+    {
+      "index": 25,
+      "text": "She smelled it.",
+      "start_ms": 97428,
+      "end_ms": 98586
+    },
+    {
+      "index": 26,
+      "text": "It smelled green, like the forest.",
+      "start_ms": 98586,
+      "end_ms": 101117
+    },
+    {
+      "index": 27,
+      "text": "She carried it into Abuelo's room.",
+      "start_ms": 101117,
+      "end_ms": 103649
+    },
+    {
+      "index": 28,
+      "text": "Camila followed with a small spoon and a folded towel.",
+      "start_ms": 103649,
+      "end_ms": 107627
+    },
+    {
+      "index": 29,
+      "text": "Isla sat down on the edge of the bed.",
+      "start_ms": 107627,
+      "end_ms": 110375
+    },
+    {
+      "index": 30,
+      "text": "She lifted Abuelo's head a little, and she brought the spoon of tea to his mouth, and she said, softly, \"Abuelo.",
+      "start_ms": 110375,
+      "end_ms": 118549
+    },
+    {
+      "index": 31,
+      "text": "Please.",
+      "start_ms": 118549,
+      "end_ms": 119127
+    },
+    {
+      "index": 32,
+      "text": "It is us.",
+      "start_ms": 119127,
+      "end_ms": 119851
+    },
+    {
+      "index": 33,
+      "text": "Drink a little.\"",
+      "start_ms": 119851,
+      "end_ms": 121008
+    },
+    {
+      "index": 34,
+      "text": "He drank.",
+      "start_ms": 121008,
+      "end_ms": 121598
+    },
+    {
+      "index": 35,
+      "text": "Slowly, but he drank.",
+      "start_ms": 121598,
+      "end_ms": 122895
+    },
+    {
+      "index": 36,
+      "text": "Sometimes he opened his eyes and looked at Isla, and sometimes he closed them and just swallowed.",
+      "start_ms": 122895,
+      "end_ms": 128673
+    },
+    {
+      "index": 37,
+      "text": "She gave him small sips every ten minutes for the first hour.",
+      "start_ms": 128673,
+      "end_ms": 132328
+    },
+    {
+      "index": 38,
+      "text": "Then every fifteen minutes.",
+      "start_ms": 132328,
+      "end_ms": 133979
+    },
+    {
+      "index": 39,
+      "text": "Then every half hour.",
+      "start_ms": 133979,
+      "end_ms": 135276
+    },
+    {
+      "index": 40,
+      "text": "Camila brought fresh cool cloths.",
+      "start_ms": 135276,
+      "end_ms": 137281
+    },
+    {
+      "index": 41,
+      "text": "Isla read to Abuelo, quietly, from a book of stories that had been Abuela's — even though she was not sure if he was really listening — because she thought maybe her voice would help.",
+      "start_ms": 137281,
+      "end_ms": 148129
+    },
+    {
+      "index": 42,
+      "text": "She had heard once that people who were very sick could still hear voices.",
+      "start_ms": 148129,
+      "end_ms": 152610
+    },
+    {
+      "index": 43,
+      "text": "At about eight o'clock in the evening, Abuelo opened his eyes.",
+      "start_ms": 152610,
+      "end_ms": 156324
+    },
+    {
+      "index": 44,
+      "text": "He looked at Isla.",
+      "start_ms": 156324,
+      "end_ms": 157445
+    },
+    {
+      "index": 45,
+      "text": "He said, in a very tired voice, \"Nietita.\" Little granddaughter.",
+      "start_ms": 157445,
+      "end_ms": 161277
+    },
+    {
+      "index": 46,
+      "text": "And Isla started to cry.",
+      "start_ms": 161277,
+      "end_ms": 162751
+    },
+    {
+      "index": 47,
+      "text": "She was so tired she had not known she was going to cry.",
+      "start_ms": 162751,
+      "end_ms": 166112
+    },
+    {
+      "index": 48,
+      "text": "She just did.",
+      "start_ms": 166112,
+      "end_ms": 166937
+    },
+    {
+      "index": 49,
+      "text": "Abuelo lifted his hand — slowly, unsteadily — and put it on hers.",
+      "start_ms": 166937,
+      "end_ms": 170828
+    },
+    {
+      "index": 50,
+      "text": "He was still hot.",
+      "start_ms": 170828,
+      "end_ms": 171889
+    },
+    {
+      "index": 51,
+      "text": "But he was there.",
+      "start_ms": 171889,
+      "end_ms": 172951
+    },
+    {
+      "index": 52,
+      "text": "He was talking.",
+      "start_ms": 172951,
+      "end_ms": 173894
+    },
+    {
+      "index": 53,
+      "text": "\"You made me tea,\" he said.",
+      "start_ms": 173894,
+      "end_ms": 175545
+    },
+    {
+      "index": 54,
+      "text": "\"Yes,\" said Isla.",
+      "start_ms": 175545,
+      "end_ms": 176606
+    },
+    {
+      "index": 55,
+      "text": "\"Camila and I did.\" Abuelo said, \"Your Abuela — she taught you.\" Isla said, \"She wrote it down.",
+      "start_ms": 176606,
+      "end_ms": 182266
+    },
+    {
+      "index": 56,
+      "text": "In her book.",
+      "start_ms": 182266,
+      "end_ms": 183033
+    },
+    {
+      "index": 57,
+      "text": "We found it.\"",
+      "start_ms": 183033,
+      "end_ms": 183917
+    },
+    {
+      "index": 58,
+      "text": "In the morning, Abuelo's fever had broken.",
+      "start_ms": 183917,
+      "end_ms": 186452
+    },
+    {
+      "index": 59,
+      "text": "Isla could tell before she even touched him because he was breathing normally, deeply, the way people breathe when they are truly asleep.",
+      "start_ms": 186452,
+      "end_ms": 194589
+    },
+    {
+      "index": 60,
+      "text": "She put her hand on his forehead.",
+      "start_ms": 194589,
+      "end_ms": 196593
+    },
+    {
+      "index": 61,
+      "text": "He was cool.",
+      "start_ms": 196593,
+      "end_ms": 197360
+    },
+    {
+      "index": 62,
+      "text": "He was properly cool.",
+      "start_ms": 197360,
+      "end_ms": 198657
+    },
+    {
+      "index": 63,
+      "text": "She sat down on the floor beside his bed and she cried a little more, quietly, so she would not wake him.",
+      "start_ms": 198657,
+      "end_ms": 204906
+    },
+    {
+      "index": 64,
+      "text": "Then she went back to the kitchen.",
+      "start_ms": 204906,
+      "end_ms": 206970
+    },
+    {
+      "index": 65,
+      "text": "Camila was already up.",
+      "start_ms": 206970,
+      "end_ms": 208326
+    },
+    {
+      "index": 66,
+      "text": "Camila was sitting at the kitchen table with the notebook open in front of her, looking at a page.",
+      "start_ms": 208326,
+      "end_ms": 214104
+    },
+    {
+      "index": 67,
+      "text": "\"Is he better,\" Camila said, without looking up.",
+      "start_ms": 214104,
+      "end_ms": 217053
+    },
+    {
+      "index": 68,
+      "text": "\"He is better,\" said Isla.",
+      "start_ms": 217053,
+      "end_ms": 218678
+    },
+    {
+      "index": 69,
+      "text": "\"His fever is gone.\" Camila nodded.",
+      "start_ms": 218678,
+      "end_ms": 220844
+    },
+    {
+      "index": 70,
+      "text": "She kept looking at the notebook.",
+      "start_ms": 220844,
+      "end_ms": 222891
+    },
+    {
+      "index": 71,
+      "text": "She said, \"I want to learn more songs.\" Isla sat down next to her.",
+      "start_ms": 222891,
+      "end_ms": 226923
+    },
+    {
+      "index": 72,
+      "text": "She looked over Camila's shoulder.",
+      "start_ms": 226923,
+      "end_ms": 229029
+    },
+    {
+      "index": 73,
+      "text": "The page Camila was on had a plant called peumo — a note said it was for children's coughs.",
+      "start_ms": 229029,
+      "end_ms": 234566
+    },
+    {
+      "index": 74,
+      "text": "Isla could read that Camila had already learned that one before Abuela died.",
+      "start_ms": 234566,
+      "end_ms": 239200
+    },
+    {
+      "index": 75,
+      "text": "She said, \"Yes.",
+      "start_ms": 239200,
+      "end_ms": 240163
+    },
+    {
+      "index": 76,
+      "text": "We will learn more songs.\" And Camila nodded again, and turned the page.",
+      "start_ms": 240163,
+      "end_ms": 244617
+    },
+    {
+      "index": 77,
+      "text": "The ferry came at ten.",
+      "start_ms": 244617,
+      "end_ms": 246001
+    },
+    {
+      "index": 78,
+      "text": "The doctor from Achao — a small serious man with a black bag — walked up from the pier with Isla and Camila.",
+      "start_ms": 246001,
+      "end_ms": 252561
+    },
+    {
+      "index": 79,
+      "text": "Abuelo was sitting up in bed by then, tired but talking.",
+      "start_ms": 252561,
+      "end_ms": 255991
+    },
+    {
+      "index": 80,
+      "text": "The doctor looked him over.",
+      "start_ms": 255991,
+      "end_ms": 257676
+    },
+    {
+      "index": 81,
+      "text": "He listened to his chest.",
+      "start_ms": 257676,
+      "end_ms": 259241
+    },
+    {
+      "index": 82,
+      "text": "He took his temperature.",
+      "start_ms": 259241,
+      "end_ms": 260746
+    },
+    {
+      "index": 83,
+      "text": "He asked Isla what she had given him.",
+      "start_ms": 260746,
+      "end_ms": 263033
+    },
+    {
+      "index": 84,
+      "text": "Isla told him.",
+      "start_ms": 263033,
+      "end_ms": 263935
+    },
+    {
+      "index": 85,
+      "text": "She showed him the notebook.",
+      "start_ms": 263935,
+      "end_ms": 265741
+    },
+    {
+      "index": 86,
+      "text": "The doctor read the page.",
+      "start_ms": 265741,
+      "end_ms": 267306
+    },
+    {
+      "index": 87,
+      "text": "He looked at the pressed leaf.",
+      "start_ms": 267306,
+      "end_ms": 269171
+    },
+    {
+      "index": 88,
+      "text": "He was quiet for a long time.",
+      "start_ms": 269171,
+      "end_ms": 270977
+    },
+    {
+      "index": 89,
+      "text": "Then he looked at Isla and Camila.",
+      "start_ms": 270977,
+      "end_ms": 273083
+    },
+    {
+      "index": 90,
+      "text": "He said, \"You two saved his life.",
+      "start_ms": 273083,
+      "end_ms": 275129
+    },
+    {
+      "index": 91,
+      "text": "Do you understand that?",
+      "start_ms": 275129,
+      "end_ms": 276574
+    },
+    {
+      "index": 92,
+      "text": "If he had not had that tea, he would have gotten worse in the night.",
+      "start_ms": 276574,
+      "end_ms": 280726
+    },
+    {
+      "index": 93,
+      "text": "He might not have made it until the ferry.\" Isla did not know what to say.",
+      "start_ms": 280726,
+      "end_ms": 285240
+    },
+    {
+      "index": 94,
+      "text": "She had not been thinking about it that way.",
+      "start_ms": 285240,
+      "end_ms": 287948
+    },
+    {
+      "index": 95,
+      "text": "She had only been thinking that Abuelo was sick and there was a book and they had to try.",
+      "start_ms": 287948,
+      "end_ms": 293365
+    },
+    {
+      "index": 96,
+      "text": "She said, quietly, \"Our Abuela was a meica.",
+      "start_ms": 293365,
+      "end_ms": 296013
+    },
+    {
+      "index": 97,
+      "text": "She taught us.\" The doctor nodded slowly.",
+      "start_ms": 296013,
+      "end_ms": 298540
+    },
+    {
+      "index": 98,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 298540,
+      "end_ms": 299503
+    },
+    {
+      "index": 99,
+      "text": "\"She did.",
+      "start_ms": 299503,
+      "end_ms": 300105
+    },
+    {
+      "index": 100,
+      "text": "Keep that book somewhere safe.",
+      "start_ms": 300105,
+      "end_ms": 301971
+    },
+    {
+      "index": 101,
+      "text": "Someday you will teach it to someone else.\" And he looked at Isla, and at Camila, and he did not have to say who.",
+      "start_ms": 301971,
+      "end_ms": 308892
+    },
+    {
+      "index": 102,
+      "text": "That was in the autumn.",
+      "start_ms": 308892,
+      "end_ms": 310336
+    },
+    {
+      "index": 103,
+      "text": "By the winter, Abuelo was fully himself again.",
+      "start_ms": 310336,
+      "end_ms": 313165
+    },
+    {
+      "index": 104,
+      "text": "And every Saturday, from then on, Isla and Camila took the notebook and they walked into the forest, and Camila sang, and Isla wrote.",
+      "start_ms": 313165,
+      "end_ms": 321229
+    },
+    {
+      "index": 105,
+      "text": "Not for anyone else.",
+      "start_ms": 321229,
+      "end_ms": 322493
+    },
+    {
+      "index": 106,
+      "text": "Just because.",
+      "start_ms": 322493,
+      "end_ms": 323336
+    },
+    {
+      "index": 107,
+      "text": "Because someone had to.",
+      "start_ms": 323336,
+      "end_ms": 324720
+    }
+  ]
+}

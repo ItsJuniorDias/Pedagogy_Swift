@@ -1,0 +1,607 @@
+{
+  "story_id": "hut-on-the-strait",
+  "chapter": 2,
+  "total_duration_ms": 377544,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The hut was set back about fifty meters from the beach, on a small rise, surrounded by low wind-bent birches.",
+      "start_ms": 2502,
+      "end_ms": 9941
+    },
+    {
+      "index": 1,
+      "text": "It was very old — the wood was silver-grey, almost black in places, and the roof was moss and old wooden shingles.",
+      "start_ms": 9941,
+      "end_ms": 17718
+    },
+    {
+      "index": 2,
+      "text": "There was one door and one small window.",
+      "start_ms": 17718,
+      "end_ms": 20491
+    },
+    {
+      "index": 3,
+      "text": "Priit lifted the wooden latch, which was heavy and stiff, and pushed the door open.",
+      "start_ms": 20491,
+      "end_ms": 26172
+    },
+    {
+      "index": 4,
+      "text": "They fell inside, wet, both breathing hard, and Priit closed the door behind them and dropped the latch.",
+      "start_ms": 26172,
+      "end_ms": 33340
+    },
+    {
+      "index": 5,
+      "text": "Inside, it was dim, dry, and smelled of old wood and dry pine sap and, faintly, of woodsmoke a long time gone.",
+      "start_ms": 33340,
+      "end_ms": 40847
+    },
+    {
+      "index": 6,
+      "text": "Kaarel wiped water out of his eyes and looked around.",
+      "start_ms": 40847,
+      "end_ms": 44499
+    },
+    {
+      "index": 7,
+      "text": "It was a small square room, maybe three meters by three.",
+      "start_ms": 44499,
+      "end_ms": 48354
+    },
+    {
+      "index": 8,
+      "text": "A rough wooden bench along one wall, wide enough to lie on.",
+      "start_ms": 48354,
+      "end_ms": 52411
+    },
+    {
+      "index": 9,
+      "text": "A small wood stove in the corner, cold.",
+      "start_ms": 52411,
+      "end_ms": 55116
+    },
+    {
+      "index": 10,
+      "text": "A wooden table under the window.",
+      "start_ms": 55116,
+      "end_ms": 57348
+    },
+    {
+      "index": 11,
+      "text": "A shelf on the back wall with a few empty tins and a very old iron kettle.",
+      "start_ms": 57348,
+      "end_ms": 62420
+    },
+    {
+      "index": 12,
+      "text": "And, hanging from a hook in the low ceiling right above the door, a small bronze bell about the size of a man's fist, with a thin dark rope tied to its clapper.",
+      "start_ms": 62420,
+      "end_ms": 73308
+    },
+    {
+      "index": 13,
+      "text": "The rope went up to the bell, and then went sideways, and disappeared through a tiny hole drilled in the wall just under the roofline.",
+      "start_ms": 73308,
+      "end_ms": 82438
+    },
+    {
+      "index": 14,
+      "text": "Kaarel stared at the bell.",
+      "start_ms": 82438,
+      "end_ms": 84331
+    },
+    {
+      "index": 15,
+      "text": "Priit went to the stove.",
+      "start_ms": 84331,
+      "end_ms": 86022
+    },
+    {
+      "index": 16,
+      "text": "Beside it, in a small neat pile, was dry kindling and half a dozen split birch logs.",
+      "start_ms": 86022,
+      "end_ms": 91770
+    },
+    {
+      "index": 17,
+      "text": "There was a small tin on top of the stove.",
+      "start_ms": 91770,
+      "end_ms": 94678
+    },
+    {
+      "index": 18,
+      "text": "Priit opened it — three dry matches.",
+      "start_ms": 94678,
+      "end_ms": 97181
+    },
+    {
+      "index": 19,
+      "text": "He looked pleased.",
+      "start_ms": 97181,
+      "end_ms": 98465
+    },
+    {
+      "index": 20,
+      "text": "He built a small careful fire, lit the match, and after a moment the stove began to warm.",
+      "start_ms": 98465,
+      "end_ms": 104552
+    },
+    {
+      "index": 21,
+      "text": "He set the iron kettle on top and put water from his emergency bottle into it.",
+      "start_ms": 104552,
+      "end_ms": 109894
+    },
+    {
+      "index": 22,
+      "text": "He said, \"We will have tea in ten minutes.",
+      "start_ms": 109894,
+      "end_ms": 112802
+    },
+    {
+      "index": 23,
+      "text": "Then it will feel less bad.\"",
+      "start_ms": 112802,
+      "end_ms": 114696
+    },
+    {
+      "index": 24,
+      "text": "Kaarel sat on the wooden bench, wrapped in the old blanket from the emergency bag, and watched.",
+      "start_ms": 114696,
+      "end_ms": 121534
+    },
+    {
+      "index": 25,
+      "text": "When Priit was done fussing with the fire, Kaarel asked, \"Who left the wood and the matches?\" Priit said, \"Whoever used the hut last.",
+      "start_ms": 121534,
+      "end_ms": 131080
+    },
+    {
+      "index": 26,
+      "text": "It is a rule.",
+      "start_ms": 131080,
+      "end_ms": 132077
+    },
+    {
+      "index": 27,
+      "text": "If you use a storm hut, you leave it better than you found it.",
+      "start_ms": 132077,
+      "end_ms": 136565
+    },
+    {
+      "index": 28,
+      "text": "Dry wood.",
+      "start_ms": 136565,
+      "end_ms": 137277
+    },
+    {
+      "index": 29,
+      "text": "Dry tinder.",
+      "start_ms": 137277,
+      "end_ms": 138132
+    },
+    {
+      "index": 30,
+      "text": "Matches if you can spare them.",
+      "start_ms": 138132,
+      "end_ms": 140340
+    },
+    {
+      "index": 31,
+      "text": "Someone might come after you who does not have time to gather.\" He looked at his son.",
+      "start_ms": 140340,
+      "end_ms": 146466
+    },
+    {
+      "index": 32,
+      "text": "\"When we leave, we will do the same.",
+      "start_ms": 146466,
+      "end_ms": 149102
+    },
+    {
+      "index": 33,
+      "text": "We will refill the kindling from the shed outside.",
+      "start_ms": 149102,
+      "end_ms": 152734
+    },
+    {
+      "index": 34,
+      "text": "That is how this works.\"",
+      "start_ms": 152734,
+      "end_ms": 154587
+    },
+    {
+      "index": 35,
+      "text": "The rain drummed hard on the mossy roof.",
+      "start_ms": 154587,
+      "end_ms": 157507
+    },
+    {
+      "index": 36,
+      "text": "The wind rose and rose.",
+      "start_ms": 157507,
+      "end_ms": 159217
+    },
+    {
+      "index": 37,
+      "text": "Kaarel could hear the sea outside — a heavier sound than that morning, a deep booming somewhere off to the north where the waves were breaking on the exposed side of the islet.",
+      "start_ms": 159217,
+      "end_ms": 171825
+    },
+    {
+      "index": 38,
+      "text": "But inside the hut it was warm and dry and very quiet in the way small warm places are quiet in a storm.",
+      "start_ms": 171825,
+      "end_ms": 179304
+    },
+    {
+      "index": 39,
+      "text": "Kaarel drank the tea Priit made him — hot and strong and with too much sugar from a small paper packet in the emergency bag.",
+      "start_ms": 179304,
+      "end_ms": 188209
+    },
+    {
+      "index": 40,
+      "text": "He began to feel less afraid.",
+      "start_ms": 188209,
+      "end_ms": 190417
+    },
+    {
+      "index": 41,
+      "text": "\"Whose hut was this?\" he asked.",
+      "start_ms": 190417,
+      "end_ms": 192696
+    },
+    {
+      "index": 42,
+      "text": "Priit said, \"The Nurmis.",
+      "start_ms": 192696,
+      "end_ms": 194477
+    },
+    {
+      "index": 43,
+      "text": "My grandfather's family — your great-grandfather's family.",
+      "start_ms": 194477,
+      "end_ms": 198680
+    },
+    {
+      "index": 44,
+      "text": "They were fishermen.",
+      "start_ms": 198680,
+      "end_ms": 200176
+    },
+    {
+      "index": 45,
+      "text": "They lived on this islet for four hundred years.",
+      "start_ms": 200176,
+      "end_ms": 203666
+    },
+    {
+      "index": 46,
+      "text": "There were maybe fifteen of them here at the peak.",
+      "start_ms": 203666,
+      "end_ms": 207299
+    },
+    {
+      "index": 47,
+      "text": "They left in the thirties.",
+      "start_ms": 207299,
+      "end_ms": 209222
+    },
+    {
+      "index": 48,
+      "text": "My great-uncle Toivo was the last brother out.",
+      "start_ms": 209222,
+      "end_ms": 212570
+    },
+    {
+      "index": 49,
+      "text": "He walked away from the door of this hut in nineteen thirty-eight and closed it and rowed to Saaremaa and never came back.",
+      "start_ms": 212570,
+      "end_ms": 221332
+    },
+    {
+      "index": 50,
+      "text": "I met him once when I was small.",
+      "start_ms": 221332,
+      "end_ms": 223683
+    },
+    {
+      "index": 51,
+      "text": "He died when I was eight.\"",
+      "start_ms": 223683,
+      "end_ms": 225677
+    },
+    {
+      "index": 52,
+      "text": "Kaarel looked around the small dim room.",
+      "start_ms": 225677,
+      "end_ms": 228598
+    },
+    {
+      "index": 53,
+      "text": "He said, \"So who's been keeping the wood?\" Priit thought.",
+      "start_ms": 228598,
+      "end_ms": 232729
+    },
+    {
+      "index": 54,
+      "text": "He said, \"Other people.",
+      "start_ms": 232729,
+      "end_ms": 234439
+    },
+    {
+      "index": 55,
+      "text": "Fishermen.",
+      "start_ms": 234439,
+      "end_ms": 235222
+    },
+    {
+      "index": 56,
+      "text": "There is always someone.",
+      "start_ms": 235222,
+      "end_ms": 237003
+    },
+    {
+      "index": 57,
+      "text": "On the Väinameri, someone always keeps the storm huts stocked.",
+      "start_ms": 237003,
+      "end_ms": 241491
+    },
+    {
+      "index": 58,
+      "text": "Nobody organizes it.",
+      "start_ms": 241491,
+      "end_ms": 242987
+    },
+    {
+      "index": 59,
+      "text": "It just happens.",
+      "start_ms": 242987,
+      "end_ms": 244198
+    },
+    {
+      "index": 60,
+      "text": "It is like the bell, I suppose.\" And he looked up at the bronze bell hanging over the door.",
+      "start_ms": 244198,
+      "end_ms": 250680
+    },
+    {
+      "index": 61,
+      "text": "The storm did not stop.",
+      "start_ms": 250680,
+      "end_ms": 252337
+    },
+    {
+      "index": 62,
+      "text": "If anything, in the evening, it got heavier.",
+      "start_ms": 252337,
+      "end_ms": 255443
+    },
+    {
+      "index": 63,
+      "text": "Priit checked the boat once, at dusk, and came back to say it was still tied and fine but the water had come up higher than he had expected.",
+      "start_ms": 255443,
+      "end_ms": 265175
+    },
+    {
+      "index": 64,
+      "text": "\"Not dangerous,\" he said, \"but higher than normal.",
+      "start_ms": 265175,
+      "end_ms": 268695
+    },
+    {
+      "index": 65,
+      "text": "We will sleep here.",
+      "start_ms": 268695,
+      "end_ms": 270075
+    },
+    {
+      "index": 66,
+      "text": "There will be nothing to do until the wind drops.",
+      "start_ms": 270075,
+      "end_ms": 273527
+    },
+    {
+      "index": 67,
+      "text": "If we are lucky, it drops by morning.\" He gave Kaarel more tea, and one of the two sandwiches from the emergency bag.",
+      "start_ms": 273527,
+      "end_ms": 281671
+    },
+    {
+      "index": 68,
+      "text": "They ate.",
+      "start_ms": 281671,
+      "end_ms": 282361
+    },
+    {
+      "index": 69,
+      "text": "They talked a little.",
+      "start_ms": 282361,
+      "end_ms": 283880
+    },
+    {
+      "index": 70,
+      "text": "Priit told Kaarel about his great-uncle Toivo, who had been a quiet strange man who had lived alone on the mainland for the rest of his life and who had never once, in fifty years, gone back to Kesselaid.",
+      "start_ms": 283880,
+      "end_ms": 298030
+    },
+    {
+      "index": 71,
+      "text": "Kaarel asked why.",
+      "start_ms": 298030,
+      "end_ms": 299272
+    },
+    {
+      "index": 72,
+      "text": "Priit said, \"I do not know.",
+      "start_ms": 299272,
+      "end_ms": 301205
+    },
+    {
+      "index": 73,
+      "text": "Something happened here.",
+      "start_ms": 301205,
+      "end_ms": 302930
+    },
+    {
+      "index": 74,
+      "text": "My father would not tell me.\"",
+      "start_ms": 302930,
+      "end_ms": 305070
+    },
+    {
+      "index": 75,
+      "text": "The fire burned down slow.",
+      "start_ms": 305070,
+      "end_ms": 306934
+    },
+    {
+      "index": 76,
+      "text": "Priit rolled up his jacket for a pillow and lay down on the floor.",
+      "start_ms": 306934,
+      "end_ms": 311558
+    },
+    {
+      "index": 77,
+      "text": "He gave Kaarel the whole bench and the blanket.",
+      "start_ms": 311558,
+      "end_ms": 314871
+    },
+    {
+      "index": 78,
+      "text": "Within a few minutes he was asleep.",
+      "start_ms": 314871,
+      "end_ms": 317356
+    },
+    {
+      "index": 79,
+      "text": "He always slept easily.",
+      "start_ms": 317356,
+      "end_ms": 319013
+    },
+    {
+      "index": 80,
+      "text": "Kaarel lay on the bench and listened to the rain and looked at the shape of the bell hanging overhead in the dim red glow of the coals.",
+      "start_ms": 319013,
+      "end_ms": 328400
+    },
+    {
+      "index": 81,
+      "text": "Then, at some point, he slept too.",
+      "start_ms": 328400,
+      "end_ms": 330885
+    },
+    {
+      "index": 82,
+      "text": "He did not know what time it was when he woke up.",
+      "start_ms": 330885,
+      "end_ms": 334336
+    },
+    {
+      "index": 83,
+      "text": "It was still full dark.",
+      "start_ms": 334336,
+      "end_ms": 335992
+    },
+    {
+      "index": 84,
+      "text": "The rain had softened — no longer heavy — and the wind had dropped some.",
+      "start_ms": 335992,
+      "end_ms": 341031
+    },
+    {
+      "index": 85,
+      "text": "The fire was down to a warm red.",
+      "start_ms": 341031,
+      "end_ms": 343309
+    },
+    {
+      "index": 86,
+      "text": "And the bell above the door was ringing.",
+      "start_ms": 343309,
+      "end_ms": 346139
+    },
+    {
+      "index": 87,
+      "text": "Not loud.",
+      "start_ms": 346139,
+      "end_ms": 346829
+    },
+    {
+      "index": 88,
+      "text": "A slow, uneven, quiet ding-ding.",
+      "start_ms": 346829,
+      "end_ms": 349107
+    },
+    {
+      "index": 89,
+      "text": "Pause.",
+      "start_ms": 349107,
+      "end_ms": 349590
+    },
+    {
+      "index": 90,
+      "text": "Ding.",
+      "start_ms": 349590,
+      "end_ms": 350004
+    },
+    {
+      "index": 91,
+      "text": "Pause.",
+      "start_ms": 350004,
+      "end_ms": 350487
+    },
+    {
+      "index": 92,
+      "text": "Ding-ding.",
+      "start_ms": 350487,
+      "end_ms": 351246
+    },
+    {
+      "index": 93,
+      "text": "As if something outside was pulling the rope, once, and then once again, and then twice.",
+      "start_ms": 351246,
+      "end_ms": 357458
+    },
+    {
+      "index": 94,
+      "text": "Kaarel sat up on the bench.",
+      "start_ms": 357458,
+      "end_ms": 359391
+    },
+    {
+      "index": 95,
+      "text": "His heart was beating fast.",
+      "start_ms": 359391,
+      "end_ms": 361324
+    },
+    {
+      "index": 96,
+      "text": "He looked at his father, who was still asleep and breathing evenly.",
+      "start_ms": 361324,
+      "end_ms": 366017
+    },
+    {
+      "index": 97,
+      "text": "Priit had not heard it.",
+      "start_ms": 366017,
+      "end_ms": 367674
+    },
+    {
+      "index": 98,
+      "text": "The bell rang again — slow, patient, almost polite.",
+      "start_ms": 367674,
+      "end_ms": 371263
+    },
+    {
+      "index": 99,
+      "text": "Kaarel got up very quietly, wrapped in the blanket, and crossed the small room to the door.",
+      "start_ms": 371263,
+      "end_ms": 377544
+    }
+  ]
+}

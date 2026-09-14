@@ -1,0 +1,167 @@
+{
+  "id": "flower-clock",
+  "title": "The Flower Clock",
+  "subtitle": "Twelve Hours in a Highland Garden",
+  "author": null,
+  "summary": "Fern is ten and spends every summer with her grandfather at a small botanical garden in the Scottish Highlands. Her grandfather has spent his whole life building a flower clock — a circular bed where each hour is planted with a different flower that opens at exactly that time of day. It is nearly finished. This summer, the twelfth and last flower has to be chosen, and Fern's grandfather asks her to help pick it.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-flower-clock-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old girl (Fern) with long red-brown hair tied back in a low ponytail, wearing a knitted jumper and muddy wellington boots, kneeling on a stone path at the edge of a large circular flower bed shaped like a clock. Twelve pie-shaped sections around the circle, each with a different flower in a different color, most blooming. She holds a small trowel and a folded gardener's notebook. Behind her: rolling green Highland hills, a small stone cottage with smoke from the chimney, low grey sky. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0), muted greens, sepia earth, deep ink outlines, small dusty rose (#FF5B8D) accent on one flower and on her cheeks. Small margin at top and bottom for card padding.",
+  "category": "wonder",
+  "isPremium": true,
+  "publishedAt": "2026-12-31",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Eleven Flowers",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "fc-ch1-p1-garden",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small Scottish highland botanical garden. Stone walls, gravel paths, rows of raised beds with flowers, a large greenhouse in the background. A small stone cottage at one side with smoke rising from a chimney. A girl (Fern, 10, red-brown hair, jumper, wellies) walking through the garden gate. Grey overcast sky. Heavy black ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "Fern's grandfather lived at a small botanical garden in the middle of the Scottish Highlands. It was not really a public garden anymore — it had been, once, when Grandpa was a young man, but the village had grown smaller over the years, and now the garden was mostly just Grandpa's, and a few local people who came by on Saturdays. He lived in a stone cottage on the property and he had a very old dog named Rowan and he grew about forty different kinds of flowers in careful raised beds.",
+            "Fern came to stay for six weeks every summer. She was ten now, and she had been coming since she was small enough to sit in a wheelbarrow. She knew almost every path in the garden, and she knew the names of most of the flowers, and she knew the names of the birds that lived in the hawthorn hedges around the perimeter. It was, apart from her own house in Edinburgh, her favorite place in the world."
+          ]
+        },
+        {
+          "image": "fc-ch1-p2-clock-bed",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a large circular flower bed with paths dividing it into twelve pie-shaped sections. Each section has a different flower — some blooming, some not, some just green leaves waiting. A wooden signpost stands at the center with clock face carved on it, though there is one section that is still bare earth. A girl (Fern, 10) walks around it looking at each section. Grey highland light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The most special thing in Grandpa's garden was the flower clock. It was a huge round bed at the very center of the garden, maybe fifteen meters across, divided into twelve wedge-shaped sections like the slices of a pie. Each section — Grandpa had planned it out over many years — was planted with a specific flower that opened at a specific hour of the day. Then closed again a few hours later. So if you knew the clock, and you looked at which flowers were open, you could tell approximately what time it was.",
+            "Fern had grown up hearing about the flower clock. She had watched Grandpa plant it. She had watched him try one flower and give up on it because it did not open reliably, and try a different one, and give up on that one too. She had watched him find the right flower for the six o'clock section three summers ago, and be so happy about it that he made a special dinner. The flower clock had been Grandpa's project for maybe twenty years."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The clock was almost finished. When Fern arrived at the beginning of July, there were eleven sections planted and blooming — one for each hour from five in the morning to four in the afternoon. Grandpa did not include the night hours; he had decided that was silly, since nobody would be looking at the clock at three in the morning. So the clock only covered the daylight hours. And one section was still empty. Bare earth, waiting. The five o'clock in the afternoon section. The last one.",
+            "\"I have been looking for a flower for that spot for years,\" Grandpa said, on the first day. They were walking around the clock together with mugs of tea. \"I have tried three different plants in there. None of them opened reliably at five. One opened at four, another at six, the third one hardly opened at all. This year I want to try again. But I want you to help me pick.\" Fern looked up at him. \"Me?\" \"You,\" said Grandpa. \"You know the garden. You will be the one who inherits it, someday, if you want it. It should have a piece of you in it. So — think about it. All summer if you need to. Look through the seed catalogs. Look in the greenhouse. Look at what is already growing. Find me a five o'clock flower.\""
+          ]
+        },
+        {
+          "image": "fc-ch1-p3-clock-tour",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. An older man (Grandpa, seventies, tall, in a wool jumper and flat cap) and a girl (Fern, 10) walk slowly around the flower clock together, Grandpa pointing at each section. Warm mid-morning light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That first morning Grandpa took her around the clock and reminded her of every flower. Five o'clock a.m. was goat's-beard — small yellow flowers that opened before sunrise and closed by noon. Six a.m. was blue chicory. Seven was hawksbeard. Eight was the little pink evening primrose that Grandpa had bred especially. Nine was field marigold. Ten was Iceland poppy. Eleven was blue flax. Noon was pot marigold. One o'clock was pink pimpernel. Two was hawkweed. Three was the small white flower called night-flowering catchfly, which opened in the afternoon despite its name. Four o'clock was — a wide-open pale orange flower called four o'clock flower, which was actually named for the hour it opened. Grandpa said that had been his easiest one.",
+            "\"And now,\" he said, standing at the empty section. \"Five o'clock. The last one. There are choices, Fern. There is not just one flower that opens at five. There is evening primrose — real evening primrose, not my little pink one. There is a night phlox. There is a moonflower — though those really open later, at dusk. There is honeysuckle. There is a Japanese one called yūgao. There are others. Each one is different. Each one would give the clock a different personality at the end of the day. You choose.\""
+          ]
+        },
+        {
+          "image": "fc-ch1-p5-catalog",
+          "imagePrompt": "Mike Mignola style for children: interior scene in a warm stone cottage kitchen. A girl (Fern, 10) sits at a wooden table looking through several thick old seed catalogs and a plant reference book. A cup of tea beside her. Rowan the dog asleep at her feet. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That evening after supper, Fern sat at the kitchen table with three of Grandpa's seed catalogs and one of his plant reference books, and she began to look. She was slow about it. She wrote down every five o'clock flower she found. She noted their heights, their colors, their smells. She wrote small notes about each one. What kind of soil they liked. Whether they were fussy. Whether the deer would eat them. Grandpa let her work.",
+            "By the end of the first evening, she had a list of seven possibilities. She thought this was too many. But she also thought — the whole summer, Grandpa had said. She had time."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Wrong Ones",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "fc-ch2-p1-first-trial",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the greenhouse. A girl (Fern, 10) crouched down looking at a small potted plant with a few tall thin buds. It is late afternoon light. She holds a small clock in her hand, checking. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "For the first trial, Fern picked evening primrose — the real kind, not Grandpa's little pink one. She and Grandpa planted three of them in the small experimental bed near the greenhouse. Grandpa had a whole small bed for testing flowers, so you did not have to commit to putting something in the clock until you knew it worked. The evening primroses grew fast. By the end of the second week they had buds.",
+            "The first flower opened at 7:32 in the evening. Fern was there with her watch. She wrote it down. The second flower opened at 7:40. The third opened at 7:15. She showed Grandpa. \"They are all in that range,\" she said. \"Not five. More like seven-thirty.\" Grandpa nodded. \"Beautiful flowers,\" he said. \"But not for our clock. Some flowers are stubborn about their hour, and some are flexible, and the ones we want are stubborn. Try again.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "For the second trial, she chose night phlox. It had white flowers with a strong sweet smell, and the book had said it opened in the late afternoon. Grandpa was doubtful — he thought it opened too late. But he agreed to try. They planted five of them. They grew. They bloomed. They opened at six-thirty in the evening. Not five.",
+            "\"Two down,\" Grandpa said cheerfully. He did not seem discouraged. He had done this many times before. \"Third time may or may not be the charm. Do not worry about it.\" Fern was worried about it, though. She was worried the summer was going to end and she was not going to find a good flower and Grandpa would have to wait another whole year. She started reading more carefully. She started asking Grandpa questions."
+          ]
+        },
+        {
+          "image": "fc-ch2-p3-question",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the cottage kitchen. An older man (Grandpa, seventies) and a girl (Fern, 10) sit at the table with tea. She is looking up at him with a question on her face. He is thinking, one hand around his mug. Warm evening light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"Grandpa,\" she said one evening. \"When you chose the flowers for the other hours — did you always know what you wanted. Or did you have to try lots of things.\" Grandpa smiled. \"I tried lots of things,\" he said. \"For nine o'clock in the morning, I tried four different flowers before I found the field marigold. For noon, I tried maybe six. Some of the flowers I planted here failed for reasons that had nothing to do with the time. Some of them just did not like our soil. Or the deer ate them. Or a spring frost got them.\"",
+            "\"So you have been failing at this for a long time,\" Fern said. Grandpa laughed. \"Yes,\" he said. \"I have been failing at this for a long time. But every failure — I learn something. Every time a flower does not open at the right hour, I know a new thing about that flower. That is not really failing. It is a way of learning that is slow and honest.\" He looked at her. \"You are eleven flowers ahead already, Fern. You do not have to find the twelfth this summer. You can find it next summer. Or the summer after. It does not have to happen fast.\""
+          ]
+        },
+        {
+          "image": "fc-ch2-p4-listening",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A girl (Fern, 10) crouches at the edge of a stone wall in the far end of the garden, looking at a small plain-looking plant growing wild among the stones. She is inspecting a small closed bud. Late afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "But Fern still wanted to try. In the fifth week she was walking along the old stone wall at the very back of the garden, where things grew wild that Grandpa had never planted. And she noticed a small ordinary-looking plant growing in a crack between two stones. It had thin dark stems and small round green leaves and a few pale buds. She had never noticed it before. She sat down and looked at it for a while.",
+            "That afternoon she asked Grandpa about it. She described it. He said, \"Oh, that is just — I think that is a small Scottish thing that grows wild here. Nothing special. My mother used to know its name. I don't remember it. It has been growing there since before I bought the garden.\" \"Does it flower?\" said Fern. \"I think so. Small flowers. Nothing showy. Why?\" Fern shrugged. She said, \"I don't know. It just — feels different.\" Grandpa raised an eyebrow but he did not tell her to stop paying attention to it. He said, \"Go and watch it. See what it does. Never a bad thing to notice a plant.\""
+          ]
+        },
+        {
+          "image": "fc-ch2-p5-watching",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the stone wall. A girl (Fern, 10) sits cross-legged in front of the small wild plant, her small alarm clock beside her, a notebook open on her lap. Late afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "So Fern went and sat by the wall the next afternoon at four o'clock, with a small alarm clock and a notebook. She watched. The flowers were closed. She read her book. She looked up sometimes. At exactly five minutes past five, she noticed something. One of the small pale buds was starting to open. It moved slowly — over the next fifteen minutes it opened into a small five-petaled flower, pale lilac in color, with a small yellow center. By five-thirty it was fully open.",
+            "She waited longer. It stayed open for maybe two hours. Then, as the light went, it slowly closed again. She wrote it all down. She went back the next day. Same thing. Opened at five past five. Closed by seven-thirty. Same the day after. She counted for a whole week. The plant opened at five o'clock every single day, plus or minus five minutes. She showed Grandpa her notes on Sunday morning."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Field Madder",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "fc-ch3-p1-book",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the kitchen table. An older man (Grandpa) sits with a large botanical reference book open, one finger on a page. He is looking at a small plant in a jar of water beside him. A girl (Fern, 10) sits across from him watching. Warm morning light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Grandpa read her notes twice. He nodded slowly. He said, \"That is impressive record-keeping, Fern. That is real research.\" Then he got up and went to his big botanical reference book. He flipped through it. He found the page. He turned the book so Fern could see. There was a small drawing of the plant she had been watching. Beside it, the name: Field Madder. Sherardia arvensis. A small ancient British plant. Native. Grows in old field margins and wall crevices.",
+            "Grandpa read the entry. He said, in a quiet surprised voice, \"Oh, Fern. Look at this. Right here. It says: opens reliably in mid-afternoon in northern latitudes, generally around five p.m. in July and August. Closes at dusk.\" He looked up at her. \"You found it. You found the flower for the clock. Along the back wall the whole time. It has been growing there for maybe a hundred years. And no one ever noticed it opened at five.\""
+          ]
+        },
+        {
+          "image": "fc-ch3-p2-transplanting",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the flower clock. An older man (Grandpa) and a girl (Fern, 10) kneel together at the empty five o'clock section. Grandpa is very carefully lifting small clumps of the field madder plant from a small tray with a hand trowel. Fern is preparing the soil where they will be planted. Overcast highland light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They transplanted six clumps of the plant into the five o'clock section that afternoon. Grandpa worked carefully. He said, \"They are small. They will not look like much for the rest of this summer. Next summer they will fill in. Small flowers. But that is all right. Not every hour needs to be a big flower. It is the reliability that matters. And you found a plant that was already living here. That is very good. That means we did not have to change the soil. It will be happy here.\"",
+            "When they had them planted, they stood back and looked at the clock. From a distance you could barely see the little field madder plants — they were just green threads among the fresh brown earth. Grandpa put his arm around Fern's shoulders. He said, \"The clock is complete now. All twelve hours. It will be your clock too, from now on. You put the last one in.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Grandpa,\" said Fern, still looking at the clock. \"Was there really no other flower that would have worked. In all your years. You never thought of field madder before?\" Grandpa was quiet for a moment. Then he said, \"I have known field madder my whole life. I could have looked it up years ago. I did look it up years ago, actually. I found it in the book. And I remember thinking — no, that plant is too small. Too ordinary. It has no color. It would ruin the clock.\" He looked at Fern. \"I was wrong. It is exactly right. But I could not see it. That is why I asked you to look. I needed someone who did not know what the clock was supposed to be. Someone who could look at a small ordinary plant and see that it was doing something extraordinary.\"",
+            "Fern did not know what to say to this. She had not thought of herself that way. She thought about all the times she had walked past the back wall of the garden and not noticed the plant. It had been there the whole time. It had been opening at five o'clock every summer of Fern's whole life, and every summer of Grandpa's whole life, and probably every summer of Grandpa's mother's whole life, and no one had ever really watched it. Until she did. Because Grandpa had asked her to look."
+          ]
+        },
+        {
+          "image": "fc-ch3-p4-five-oclock",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the flower clock at exactly five in the afternoon. The small newly-planted field madder in the five o'clock section has produced a few small open flowers, pale lilac. A girl (Fern, 10) crouches to look at them, smiling softly. In the middle distance, Grandpa stands with two mugs of tea. Warm late-afternoon light with long shadows. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They watched the clock together at five o'clock the next day, with tea. And the day after. And every afternoon at five for the rest of the summer. The little transplanted field madder was, as Grandpa had said, small. It did not look like much. But at exactly five past five, small pale lilac flowers began to open on it. Small, honest, reliable. And Fern would kneel down and look at them and touch one of the leaves gently, and Grandpa would stand a little way off with his tea and not say anything.",
+            "It became her hour. She realized this slowly. Five o'clock had always been a random time in her life before — the time when she was maybe walking home from school, or eating a snack, or watching television. Now, at five, wherever she was in the world, she thought about the flowers in the clock. She thought about them at five in the winter when she was at school in Edinburgh, and she knew they would not be open because it was winter, and that was all right. She thought about them at five in April when she was on a class trip, and she knew they were probably starting to send up leaves back at the garden. The garden was in her life now in a different way. It was a place that was doing something at every hour, whether she was there or not."
+          ]
+        },
+        {
+          "image": "fc-ch3-p5-last-day",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the flower clock. A girl (Fern, 10) says goodbye to her grandfather (seventies) at the garden gate. Her small suitcase beside her. The complete twelve-flower clock visible in the middle background, colorful in the afternoon light. Grandpa hands her a small sealed envelope. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On the last day of Fern's summer visit, Grandpa walked her to the garden gate. Her suitcase was beside her. Her father was coming to pick her up from the village. Grandpa handed her a small sealed envelope. \"Do not open this until you are home,\" he said. \"It is a small gift. From the garden.\" Fern took it. She hugged him hard. She looked at the flower clock one more time. It was almost noon; the pot marigold was fully open, bright orange, at the top of the circle. She waved. She walked out through the gate.",
+            "In her bedroom at home, that night, she opened the envelope. Inside were seven very small dry seeds, wrapped in a small square of tissue paper. A note said: Field madder. Ancient British wildflower. Opens at five p.m. Will grow anywhere that is old enough to accept it. Plant a small patch by the wall of your school. Nobody will notice. But at five o'clock every summer afternoon, it will open. That is a secret you can keep. — Grandpa. Fern folded the note back up. She kept the seeds in a small envelope in her top drawer. In the spring, when her father took her back to school after the Easter break, she planted them in a small crack at the base of the old stone wall of her school garden. She did not tell anyone. Every summer after that, she checked at five o'clock, when she was still at school before the summer holidays. And every summer, the small pale lilac flowers opened. And she watched them. And she thought about the man who had grown a clock out of the whole day."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grandfather",
+    "garden",
+    "scotland",
+    "botany"
+  ]
+}

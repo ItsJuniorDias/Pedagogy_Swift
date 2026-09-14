@@ -1,0 +1,163 @@
+{
+  "id": "snowmelt",
+  "title": "Snowmelt",
+  "subtitle": "What the Ice Gives Back",
+  "author": null,
+  "summary": "Jonas is spending the short Icelandic summer with his aunt on her fjord farm. Every year, when the ice melts, things emerge from the ground — a shoe, a key, a small toy. Aunt Sigrún keeps them all, and knows the story of every one. This year, the fourth thing to appear belongs to Jonas's father, who did not come back from a mountain expedition three years ago.",
+  "readingTimeMinutes": 16,
+  "coverImage": "story-snowmelt-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old boy (Jonas) with pale blond hair and a heavy dark blue wool sweater, crouched in a green Icelandic meadow at the edge of a fjord, one hand resting on the wet grass. In front of him, half-buried in mud and thawing frost, a small dark object is visible — the corner of an old field notebook. Behind him: the black volcanic sand shore, deep still fjord water, mountains rising steeply on the far side, low pale sky suggesting midnight sun. Character positioned center-left, filling roughly 35% of frame height. Palette: cool cream sky (#FFF9F0 tinted), sepia grass, deep ink outlines, muted dusty rose (#FF5B8D) accent on the boy's cheeks from the cold. Small margin at top and bottom for card padding.",
+  "category": "mystery",
+  "isPremium": true,
+  "publishedAt": "2026-09-17",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Thaw",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sm-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: a small remote turf-roofed farmhouse in a green Icelandic fjord valley, mountains rising on either side, a narrow gravel road leading up to it, a woman in her fifties standing at the door waving. A car in the foreground with a boy (Jonas, 10) getting out with a duffel bag. Sky pale, near-midnight sun. Heavy black ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "Jonas had never been to Iceland before, but Iceland was where his aunt lived, and his aunt was where his mother had said he was going for the summer, and so Iceland was where he went. He was ten. He flew alone from Copenhagen and got off the plane in Reykjavík, and then he took a very small car with a very quiet driver north for six hours until they came around a long slow curve in the road and he saw, tucked into the far end of a green valley by the water, a low turf-roofed farmhouse with a woman standing in the doorway.",
+            "The woman was his Aunt Sigrún. She was tall and grey-haired and wore a heavy wool sweater the color of storm clouds. When Jonas got out of the car, she looked at him for a long time before she came down the path. She did not hug him. She put her hand on the top of his head, once, and then she took his duffel bag and turned and walked back up to the house, and Jonas followed her."
+          ]
+        },
+        {
+          "image": "sm-ch1-p2-shelf",
+          "imagePrompt": "Mike Mignola style for children: interior of a low-ceilinged Icelandic farmhouse living room. Along one wall, a long dark wooden shelf holds dozens of small objects arranged in neat rows — a rusted key, a small leather shoe, a broken porcelain doll, a fountain pen, a spectacles frame, a small tin can, a folded knife, and more. Each object has a small paper tag tied to it with string. Warm firelight from a nearby stove. No people visible. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The house was small and warm. There was a stove burning peat in the main room, and a table, and two chairs, and a shelf along one wall. On the shelf were objects — dozens of them. A rusted key. A small child's leather shoe, cracked with age. A porcelain doll with only one arm. A fountain pen. A folded pocket knife. A pair of spectacles with one lens missing. A small green tin box. Each object had a small paper tag tied to it with string.",
+            "Jonas stood in front of the shelf and looked. He did not touch anything. Aunt Sigrún was in the kitchen, taking off her boots. \"They come out of the ground,\" she said, without looking up. \"Every June, when the frost lets go. Something new. Sometimes two things. This land was a farm for four hundred years before I bought it. And a stopping place on the fjord road for longer than that. Everything anyone ever lost here has been under the ice.\""
+          ]
+        },
+        {
+          "image": "sm-ch1-p3-tag",
+          "imagePrompt": "Mike Mignola style for children: close view of two hands (a woman's hands, weathered) holding up a small rusted iron key, tilting a paper tag tied to it into the light so the handwritten words on the tag can be seen. Only the shelf background is visible, warm firelight. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She came into the main room and picked up one of the objects — the rusted key. She held it out to him. \"Every one has a story. Not always the whole story. But something. This key, for example.\" She tilted the tag so he could read it. In careful pencil handwriting, it said: 1978. From near the west wall. Ólafur Ragnarsson, who lived here from 1954 to 1971, was known to hide a spare key for his son who slept out in the field house in summer. The son, Bjarni, moved to Canada in 1971 and did not return.",
+            "Jonas took the key carefully. It was cold and heavier than it looked. \"How do you know all that?\" he asked. Aunt Sigrún smiled just a little, at the corner of her mouth. \"I ask,\" she said. \"When something comes out of the ground, I go into the village and I ask the oldest person still living. And they remember. Or their mother remembered, and they were told. There is very little that is truly forgotten in Iceland. It is a small country and it is not in a hurry.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "That night Jonas lay awake for a long time. His bedroom was tiny and had a small window that looked out at the fjord, and even at midnight the sky was pale, a color that was almost blue and almost silver, and the water was completely still, and the mountains on the other side of the fjord were black and had no lights on them at all. He thought about the shelf. He thought about all the things that had been lost, and how someone had come and pulled them back out of the ground, one by one, and kept them.",
+            "He thought about his father. He thought about him carefully, in the way he had learned to think about him — not too much, not too little. His father was named Karl. His father had gone on an expedition three years ago, to climb a mountain in the eastern part of Iceland. There had been a storm. His father had not come back. That was what Jonas knew. That was what everyone knew.",
+            "He wondered if his mother had chosen this place on purpose. He was not sure. He did not want to ask."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Shoe, the Doll, the Pen",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sm-ch2-p1-first-find",
+          "imagePrompt": "Mike Mignola style for children: a low green field at the edge of the fjord, dew on the grass, morning light pale and cool. In the middle of the field, half-buried in the soft wet ground, a small child's leather shoe is emerging. Behind, a boy (Jonas, 10) crouches to look at it, careful, not touching. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "The first thing that came up that summer came up on Jonas's fourth day. It was a shoe. A small leather shoe, the kind a child of maybe two years old would wear, with tiny worn buttons on the side. Jonas found it himself, in the field behind the barn, when he was walking and looking down at the wet grass and half-thinking about nothing.",
+            "He did not touch it. He ran back to the house. Aunt Sigrún came with him, walking without hurrying, and when she saw the shoe she nodded, like she had been expecting something exactly like this. She had a small trowel with her. She dug around the shoe very carefully. She lifted it out. She turned it over in her hands. She put it in a cloth bag."
+          ]
+        },
+        {
+          "image": "sm-ch2-p2-village-visit",
+          "imagePrompt": "Mike Mignola style for children: a small Icelandic fishing village street with wooden houses painted in muted reds and blues, a few boats at a small harbor visible in the background. On a bench in front of one of the houses sits a very old woman with a scarf, holding the small leather shoe in her hands and looking at it with a soft still expression. Woman (Aunt Sigrún) and boy (Jonas) standing beside her. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The next day they drove to the village. Aunt Sigrún went into three houses, and Jonas waited in the car for the first two, but the third time she came out and said, \"Come in with me. I want you to see how this works.\" And so Jonas went in, and he sat on a small footstool in the corner of a very warm kitchen while an old woman with a scarf around her head held the shoe in her hands and turned it over.",
+            "The old woman did not speak for a very long time. And then she said, in Icelandic, and Aunt Sigrún translated for Jonas: \"This is Ástrós's. My sister. She was two years old. She lost it in the summer of 1942. She would not stop crying. My mother went out with a lantern that night, and she looked, and she could not find it. And my sister cried all the next day too. And in the end my mother knitted her a new pair of woolen booties, and Ástrós forgot about the shoe.\" The old woman looked up. Her eyes were wet, but she was smiling. \"Ástrós died last winter. She was eighty-three. I will bring her the shoe.\" And she reached out and took it, and pressed it against her chest, and Jonas understood, then, that this was the point. This was what the whole shelf was for."
+          ]
+        },
+        {
+          "image": "sm-ch2-p3-doll",
+          "imagePrompt": "Mike Mignola style for children: a woman (Sigrún, fifties) and boy (Jonas, 10) crouched together in the yard behind the farmhouse, examining a small porcelain doll that has just been pulled from the muddy earth. The doll is missing one arm. Grey Icelandic afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The doll came up two weeks later, near the stone wall behind the house. This one Aunt Sigrún found. It was small and porcelain and its dress had rotted away and one arm was missing. In the village, no one knew who it belonged to. \"That happens too,\" Aunt Sigrún said. \"Sometimes the memory is gone. Sometimes the family moved away. Sometimes it is very old — older than anyone alive. Then I just write down where I found it and when, and I keep it. Maybe someone will come one day. Maybe not.\"",
+            "She wrote a new tag for the doll. Summer 2026. From the stone wall behind the house. Owner unknown. She tied the tag on with string and put the doll on the shelf, in an empty space between the fountain pen and the small tin box. Jonas watched her do this and thought about how much time she must have spent, over the years, doing exactly this. Writing tags. Tying string. Making room."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The third thing came up in the second week of July. It was a fountain pen. Silver, tarnished, with the initials E. S. G. engraved on the cap. Aunt Sigrún held it for a moment when Jonas brought it to her, and her face changed a little. \"This one I know,\" she said. \"E. S. G. is my mother. Elsa Sveinsdóttir Grímsdóttir. She lost this pen writing a letter in the yard in 1957. She looked for it for a week. She always said it was her favorite thing.\"",
+            "She wrote the tag for it very slowly. When she was done she held the pen for a long moment before she put it on the shelf. Jonas thought she might cry, but she did not. She only stood there quietly, and then she went back into the kitchen, and he heard her fill the kettle for tea, the way she did every afternoon at four o'clock."
+          ]
+        },
+        {
+          "image": "sm-ch2-p5-tea",
+          "imagePrompt": "Mike Mignola style for children: interior of the farmhouse main room at afternoon, a woman (Sigrún, fifties) sitting at a small wooden table with two cups of tea in front of her, looking at the shelf across the room with a distant thoughtful expression. Boy (Jonas, 10) sitting across from her, watching her. Warm firelight, cream and sepia palette. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "That evening at supper Jonas asked her something he had been thinking about. \"Do you ever want to keep them? Not give them back. When you know who they belong to.\" Aunt Sigrún thought about this for a long time before she answered. \"I want to,\" she said. \"Every time. It is very hard to give them back. But they were never mine. They were only kept by me for a while. That is the difference.\"",
+            "Jonas looked at his soup. Then he looked at her. \"Have you ever kept one anyway?\" he asked. Aunt Sigrún smiled a small tired smile. \"Once,\" she said. \"I kept one once, for a year. And then I gave it back. It was the pen. My mother had died the winter before. And I wanted to hold on to it. But eventually I gave it to her sister, who is the last person alive who remembers her. And a year after that, her sister died. And then it came back to me.\" She lifted her tea. \"Everything comes back around eventually. If you are patient.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Under the Last Stone",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sm-ch3-p1-last-day",
+          "imagePrompt": "Mike Mignola style for children: a boy (Jonas, 10) walking alone along the shore of a fjord in the very early morning, dew on the grass, thin low mist over the still water, mountains dark on the far side. He is walking with his head slightly down, looking at the ground. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "It was Jonas's last day. His mother was flying in that evening, and they were going to spend a few days together at Aunt Sigrún's, and then all three of them were going to fly back to Copenhagen together. Jonas had been in Iceland for six weeks. It felt like both a very long time and no time at all. He had learned the names of eleven kinds of birds and how to bake dark rye bread in the oven of the peat stove and how to say good morning and thank you and I don't know in Icelandic.",
+            "He woke up early on his last morning. The house was still. He got dressed and went outside and walked down toward the fjord, because he wanted to see the water one more time before he left. He walked along the shore, past the boat that Aunt Sigrún did not use anymore, past the small stone bench her grandfather had built. And that was where he saw it."
+          ]
+        },
+        {
+          "image": "sm-ch3-p2-notebook",
+          "imagePrompt": "Mike Mignola style for children: close view of a boy's hand (Jonas, 10) pulling a small dark leather-bound field notebook from the muddy earth at the edge of a fjord. The notebook is water-stained, edges curled. The boy's face partly visible above, focused, confused. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "It was half-buried in the wet ground where a small stream met the fjord. It was dark, and rectangular, and Jonas thought at first that it was a stone. When he crouched down and looked more carefully, he saw that it was leather, water-stained and warped, and that it was a book. A small notebook. The kind you could put in your pocket.",
+            "He pulled it out very slowly. It came free of the mud with a soft wet sound. He wiped the front of it against his sweater. There was writing on the cover, faded and hard to see. He held it up close to his face. He read it. And then he sat down on the ground with the notebook in his lap and he did not move for a long time. The writing on the cover said: Karl Nilsen. Field notes. Summer 2023."
+          ]
+        },
+        {
+          "image": "sm-ch3-p3-with-aunt",
+          "imagePrompt": "Mike Mignola style for children: a woman (Sigrún, fifties) sitting at a wooden kitchen table across from a boy (Jonas, 10) who is holding the small dark notebook in both hands. Between them, morning light. The woman's face is soft, careful, unsurprised. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "He brought the notebook to Aunt Sigrún without saying anything. She was in the kitchen, cutting bread. She looked at his face first, and then she looked at the notebook, and she put down her knife. She sat down at the table. She did not say anything for a moment. Then she said, \"Sit down, Jonas.\" And so he sat.",
+            "\"Your father,\" she said, \"came here. In the summer of 2023. Before the expedition. He stayed for three nights. I did not tell you this. I did not tell anyone this, except your mother, and she asked me not to talk about it because she thought it would upset you. He came here to think. About whether to go on the climb. He was afraid. He knew it was dangerous.\" She stopped, and then she went on. \"He wrote in this notebook every night, sitting by the fjord. And then on the fourth morning he took his bag and he went. And I asked him if he was sure. And he said no. But he said he was going anyway.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Jonas opened the notebook. The paper was fragile and the ink had run in places, but he could read most of it. His father's handwriting was small and careful. There were sketches of birds. There were lists of things he had eaten. There was a page that just said, in the middle: I keep thinking about Jonas.",
+            "There was another page, near the end, that said: If I do this and it goes well, I will bring him here next summer. He would like the fjord. He is like me. He notices small things.",
+            "And the last page said: Sigrún is right that I am afraid. But some of what I am afraid of is coming home the same person I was when I left. That would be a waste.",
+            "Jonas read these pages three times each. Then he closed the notebook and he put his hands flat on the table and he cried, quietly, for a long time. Aunt Sigrún sat with him. She did not say anything. She did not touch him. She only stayed."
+          ]
+        },
+        {
+          "image": "sm-ch3-p5-shelf-final",
+          "imagePrompt": "Mike Mignola style for children: interior of the farmhouse main room, boy (Jonas, 10) standing in front of the long wooden shelf of found objects. On the shelf now, in the middle, sits the small dark leather notebook, with a paper tag tied to it. The boy is holding a pencil and has just finished writing on the tag. Warm firelight. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the afternoon, when he could speak again, Jonas told Aunt Sigrún he wanted to put the notebook on the shelf. She looked at him carefully. \"Are you sure?\" she said. \"You could take it home. It is yours to take. He was your father.\" Jonas thought about it for a long time. Then he said, \"I want it to stay here. So I can come back and see it. I don't want to keep it. I want it to be safe.\"",
+            "Aunt Sigrún nodded. She gave him a paper tag and a pencil. Jonas wrote on it very slowly, sounding out the words in his best handwriting. Summer 2026. From the shore of the fjord. Karl Nilsen, father of Jonas, was here for three nights in July 2023 before the mountain. He wrote in this book. He tied the tag on with string. He put the notebook on the shelf, in the empty space next to his grandmother's fountain pen. He stood there for a while, looking at it.",
+            "That evening his mother came, and she cried when Jonas showed her the notebook, and then she held it and read some of the pages and cried again, and then she smiled, and she said thank you to Aunt Sigrún, and Jonas understood, then, why his mother had sent him here for the summer. He understood that everything comes back around eventually. If you are patient."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grief",
+    "iceland",
+    "memory",
+    "father"
+  ]
+}

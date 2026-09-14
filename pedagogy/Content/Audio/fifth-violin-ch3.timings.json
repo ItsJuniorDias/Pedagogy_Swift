@@ -1,0 +1,829 @@
+{
+  "story_id": "fifth-violin",
+  "chapter": 3,
+  "total_duration_ms": 380304,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "For the next few years, whenever Renata had free time — after school, on weekends — she worked on the fifth violin.",
+      "start_ms": 1660,
+      "end_ms": 8794
+    },
+    {
+      "index": 1,
+      "text": "It became her thing.",
+      "start_ms": 8794,
+      "end_ms": 10085
+    },
+    {
+      "index": 2,
+      "text": "Nobody at her school knew.",
+      "start_ms": 10085,
+      "end_ms": 11745
+    },
+    {
+      "index": 3,
+      "text": "She did not tell her friends.",
+      "start_ms": 11745,
+      "end_ms": 13590
+    },
+    {
+      "index": 4,
+      "text": "It was a project she did alone, with occasional visits to Don Aurelio to report and ask questions.",
+      "start_ms": 13590,
+      "end_ms": 19678
+    },
+    {
+      "index": 5,
+      "text": "She spent hours in old libraries reading passenger records from Italian ships.",
+      "start_ms": 19678,
+      "end_ms": 24536
+    },
+    {
+      "index": 6,
+      "text": "She visited old cemeteries in Buenos Aires to look at the names of Italian immigrant families who had been buried in the 1800s.",
+      "start_ms": 24536,
+      "end_ms": 32407
+    },
+    {
+      "index": 7,
+      "text": "She wrote letters to small historical societies.",
+      "start_ms": 32407,
+      "end_ms": 35421
+    },
+    {
+      "index": 8,
+      "text": "Most of the letters were not answered.",
+      "start_ms": 35421,
+      "end_ms": 37819
+    },
+    {
+      "index": 9,
+      "text": "Some were answered politely with no useful information.",
+      "start_ms": 37819,
+      "end_ms": 41262
+    },
+    {
+      "index": 10,
+      "text": "A very few were answered helpfully.",
+      "start_ms": 41262,
+      "end_ms": 43538
+    },
+    {
+      "index": 11,
+      "text": "By the time she was fourteen, she had a list of maybe forty families in Buenos Aires who had come from Naples in the early 1800s and who had been at least somewhat musical.",
+      "start_ms": 43538,
+      "end_ms": 54176
+    },
+    {
+      "index": 12,
+      "text": "She was working on finding descendants of those families.",
+      "start_ms": 54176,
+      "end_ms": 57743
+    },
+    {
+      "index": 13,
+      "text": "It was slow.",
+      "start_ms": 57743,
+      "end_ms": 58542
+    },
+    {
+      "index": 14,
+      "text": "It was not something she could push.",
+      "start_ms": 58542,
+      "end_ms": 60818
+    },
+    {
+      "index": 15,
+      "text": "She had school.",
+      "start_ms": 60818,
+      "end_ms": 61801
+    },
+    {
+      "index": 16,
+      "text": "She had violin lessons.",
+      "start_ms": 61801,
+      "end_ms": 63277
+    },
+    {
+      "index": 17,
+      "text": "She had normal life.",
+      "start_ms": 63277,
+      "end_ms": 64569
+    },
+    {
+      "index": 18,
+      "text": "But she kept the notebook.",
+      "start_ms": 64569,
+      "end_ms": 66229
+    },
+    {
+      "index": 19,
+      "text": "Every time she found a small new thing, she wrote it in the notebook.",
+      "start_ms": 66229,
+      "end_ms": 70595
+    },
+    {
+      "index": 20,
+      "text": "She did not find the violin when she was fourteen.",
+      "start_ms": 70595,
+      "end_ms": 73731
+    },
+    {
+      "index": 21,
+      "text": "Or fifteen.",
+      "start_ms": 73731,
+      "end_ms": 74469
+    },
+    {
+      "index": 22,
+      "text": "Or sixteen.",
+      "start_ms": 74469,
+      "end_ms": 75207
+    },
+    {
+      "index": 23,
+      "text": "When she was seventeen and applying to music schools, she was almost accepted at a conservatory in Milan.",
+      "start_ms": 75207,
+      "end_ms": 81725
+    },
+    {
+      "index": 24,
+      "text": "She thought about going.",
+      "start_ms": 81725,
+      "end_ms": 83263
+    },
+    {
+      "index": 25,
+      "text": "But she chose to stay in Buenos Aires because — she realized — she did not want to leave the search.",
+      "start_ms": 83263,
+      "end_ms": 89474
+    },
+    {
+      "index": 26,
+      "text": "She had been at it for six years by then.",
+      "start_ms": 89474,
+      "end_ms": 92056
+    },
+    {
+      "index": 27,
+      "text": "She was not going to abandon it.",
+      "start_ms": 92056,
+      "end_ms": 94086
+    },
+    {
+      "index": 28,
+      "text": "She studied violin at a university in Buenos Aires.",
+      "start_ms": 94086,
+      "end_ms": 97283
+    },
+    {
+      "index": 29,
+      "text": "She visited Don Aurelio often.",
+      "start_ms": 97283,
+      "end_ms": 99190
+    },
+    {
+      "index": 30,
+      "text": "Don Aurelio was getting older.",
+      "start_ms": 99190,
+      "end_ms": 101096
+    },
+    {
+      "index": 31,
+      "text": "His hands were slower now.",
+      "start_ms": 101096,
+      "end_ms": 102756
+    },
+    {
+      "index": 32,
+      "text": "He still worked, though, and he still kept the four violins on the wall.",
+      "start_ms": 102756,
+      "end_ms": 107184
+    },
+    {
+      "index": 33,
+      "text": "The fifth violin found her, not the other way around.",
+      "start_ms": 107184,
+      "end_ms": 110199
+    },
+    {
+      "index": 34,
+      "text": "She was twenty-three years old.",
+      "start_ms": 110199,
+      "end_ms": 111985
+    },
+    {
+      "index": 35,
+      "text": "She had just finished her degree.",
+      "start_ms": 111985,
+      "end_ms": 113883
+    },
+    {
+      "index": 36,
+      "text": "She was giving a small concert at a community center in a poor neighborhood on the outskirts of Buenos Aires — a program of folk-tinged classical pieces, meant for people who did not usually go to concerts.",
+      "start_ms": 113883,
+      "end_ms": 125439
+    },
+    {
+      "index": 37,
+      "text": "She played her violin.",
+      "start_ms": 125439,
+      "end_ms": 126722
+    },
+    {
+      "index": 38,
+      "text": "Halfway through the program, she noticed an old man in the back.",
+      "start_ms": 126722,
+      "end_ms": 130351
+    },
+    {
+      "index": 39,
+      "text": "He was very old.",
+      "start_ms": 130351,
+      "end_ms": 131300
+    },
+    {
+      "index": 40,
+      "text": "He was watching her closely.",
+      "start_ms": 131300,
+      "end_ms": 132919
+    },
+    {
+      "index": 41,
+      "text": "When the concert was over, he came up to her.",
+      "start_ms": 132919,
+      "end_ms": 135487
+    },
+    {
+      "index": 42,
+      "text": "He asked if he could speak with her privately.",
+      "start_ms": 135487,
+      "end_ms": 138166
+    },
+    {
+      "index": 43,
+      "text": "His name was Signor Petrini.",
+      "start_ms": 138166,
+      "end_ms": 139785
+    },
+    {
+      "index": 44,
+      "text": "He was ninety years old.",
+      "start_ms": 139785,
+      "end_ms": 141181
+    },
+    {
+      "index": 45,
+      "text": "His grandfather had come from Naples in 1859 and had brought with him a violin that had been in the family since the 1830s.",
+      "start_ms": 141181,
+      "end_ms": 148103
+    },
+    {
+      "index": 46,
+      "text": "The family had been musical.",
+      "start_ms": 148103,
+      "end_ms": 149722
+    },
+    {
+      "index": 47,
+      "text": "His grandfather had played it.",
+      "start_ms": 149722,
+      "end_ms": 151453
+    },
+    {
+      "index": 48,
+      "text": "His father had played it.",
+      "start_ms": 151453,
+      "end_ms": 152904
+    },
+    {
+      "index": 49,
+      "text": "He himself had played it, until his hands got too shaky, twenty years ago.",
+      "start_ms": 152904,
+      "end_ms": 157091
+    },
+    {
+      "index": 50,
+      "text": "Now it sat in its case in his apartment.",
+      "start_ms": 157091,
+      "end_ms": 159380
+    },
+    {
+      "index": 51,
+      "text": "He had no children.",
+      "start_ms": 159380,
+      "end_ms": 160496
+    },
+    {
+      "index": 52,
+      "text": "He was going to die soon.",
+      "start_ms": 160496,
+      "end_ms": 161948
+    },
+    {
+      "index": 53,
+      "text": "He was worried about what would happen to it.",
+      "start_ms": 161948,
+      "end_ms": 164515
+    },
+    {
+      "index": 54,
+      "text": "He had heard Renata play at his neighbor's community center.",
+      "start_ms": 164515,
+      "end_ms": 167921
+    },
+    {
+      "index": 55,
+      "text": "He had thought — she plays with love.",
+      "start_ms": 167921,
+      "end_ms": 170042
+    },
+    {
+      "index": 56,
+      "text": "She should have it.",
+      "start_ms": 170042,
+      "end_ms": 171159
+    },
+    {
+      "index": 57,
+      "text": "If she wanted it.",
+      "start_ms": 171159,
+      "end_ms": 172219
+    },
+    {
+      "index": 58,
+      "text": "He opened the case.",
+      "start_ms": 172219,
+      "end_ms": 173336
+    },
+    {
+      "index": 59,
+      "text": "Inside was a violin.",
+      "start_ms": 173336,
+      "end_ms": 174508
+    },
+    {
+      "index": 60,
+      "text": "It was old.",
+      "start_ms": 174508,
+      "end_ms": 175178
+    },
+    {
+      "index": 61,
+      "text": "It was dark amber varnished.",
+      "start_ms": 175178,
+      "end_ms": 176797
+    },
+    {
+      "index": 62,
+      "text": "It had a curled scroll.",
+      "start_ms": 176797,
+      "end_ms": 178137
+    },
+    {
+      "index": 63,
+      "text": "Renata's heart was beating in her ears.",
+      "start_ms": 178137,
+      "end_ms": 180370
+    },
+    {
+      "index": 64,
+      "text": "She lifted the violin very slowly out of its case.",
+      "start_ms": 180370,
+      "end_ms": 183217
+    },
+    {
+      "index": 65,
+      "text": "She turned it over.",
+      "start_ms": 183217,
+      "end_ms": 184333
+    },
+    {
+      "index": 66,
+      "text": "She looked inside.",
+      "start_ms": 184333,
+      "end_ms": 185394
+    },
+    {
+      "index": 67,
+      "text": "Through the f-hole she could see — she could see the label.",
+      "start_ms": 185394,
+      "end_ms": 188743
+    },
+    {
+      "index": 68,
+      "text": "And on the label was a small careful C inside a small circle.",
+      "start_ms": 188743,
+      "end_ms": 192204
+    },
+    {
+      "index": 69,
+      "text": "Painted in slightly faded ink.",
+      "start_ms": 192204,
+      "end_ms": 193935
+    },
+    {
+      "index": 70,
+      "text": "Two hundred and twenty-six years ago.",
+      "start_ms": 193935,
+      "end_ms": 196112
+    },
+    {
+      "index": 71,
+      "text": "She took it to Don Aurelio the next day.",
+      "start_ms": 196112,
+      "end_ms": 198401
+    },
+    {
+      "index": 72,
+      "text": "She walked up the narrow stairs to the third floor with the old case in her hands, and she opened the door of the workshop without knocking, and Don Aurelio was at the bench, and he looked up.",
+      "start_ms": 198401,
+      "end_ms": 209175
+    },
+    {
+      "index": 73,
+      "text": "He saw her face first.",
+      "start_ms": 209175,
+      "end_ms": 210459
+    },
+    {
+      "index": 74,
+      "text": "Then he saw the case.",
+      "start_ms": 210459,
+      "end_ms": 211687
+    },
+    {
+      "index": 75,
+      "text": "He set down his tools very slowly.",
+      "start_ms": 211687,
+      "end_ms": 213641
+    },
+    {
+      "index": 76,
+      "text": "He came around the bench.",
+      "start_ms": 213641,
+      "end_ms": 215092
+    },
+    {
+      "index": 77,
+      "text": "He did not say anything.",
+      "start_ms": 215092,
+      "end_ms": 216432
+    },
+    {
+      "index": 78,
+      "text": "Renata put the case on the small customer chair.",
+      "start_ms": 216432,
+      "end_ms": 219334
+    },
+    {
+      "index": 79,
+      "text": "She opened it.",
+      "start_ms": 219334,
+      "end_ms": 220223
+    },
+    {
+      "index": 80,
+      "text": "She lifted out the violin.",
+      "start_ms": 220223,
+      "end_ms": 221822
+    },
+    {
+      "index": 81,
+      "text": "She handed it to Don Aurelio.",
+      "start_ms": 221822,
+      "end_ms": 223599
+    },
+    {
+      "index": 82,
+      "text": "Don Aurelio took it in both hands.",
+      "start_ms": 223599,
+      "end_ms": 225672
+    },
+    {
+      "index": 83,
+      "text": "He was very careful with it.",
+      "start_ms": 225672,
+      "end_ms": 227389
+    },
+    {
+      "index": 84,
+      "text": "He held it up to the light.",
+      "start_ms": 227389,
+      "end_ms": 229048
+    },
+    {
+      "index": 85,
+      "text": "He turned it slowly.",
+      "start_ms": 229048,
+      "end_ms": 230291
+    },
+    {
+      "index": 86,
+      "text": "He looked at the fingerboard.",
+      "start_ms": 230291,
+      "end_ms": 232068
+    },
+    {
+      "index": 87,
+      "text": "He looked at the curl of the scroll.",
+      "start_ms": 232068,
+      "end_ms": 234260
+    },
+    {
+      "index": 88,
+      "text": "He looked at the back — the wood grain.",
+      "start_ms": 234260,
+      "end_ms": 236629
+    },
+    {
+      "index": 89,
+      "text": "He looked at the label through the f-hole.",
+      "start_ms": 236629,
+      "end_ms": 239176
+    },
+    {
+      "index": 90,
+      "text": "He was completely silent for maybe two minutes.",
+      "start_ms": 239176,
+      "end_ms": 242019
+    },
+    {
+      "index": 91,
+      "text": "Then, very softly, he said, \"Oh.",
+      "start_ms": 242019,
+      "end_ms": 243973
+    },
+    {
+      "index": 92,
+      "text": "Oh.",
+      "start_ms": 243973,
+      "end_ms": 244210
+    },
+    {
+      "index": 93,
+      "text": "Oh, my father.",
+      "start_ms": 244210,
+      "end_ms": 245099
+    },
+    {
+      "index": 94,
+      "text": "Oh, my father, look what she found.\" And he sat down in the customer chair with the violin in his lap, and he cried.",
+      "start_ms": 245099,
+      "end_ms": 252088
+    },
+    {
+      "index": 95,
+      "text": "They hung it on the wall together, that afternoon.",
+      "start_ms": 252088,
+      "end_ms": 255108
+    },
+    {
+      "index": 96,
+      "text": "Don Aurelio had had a fifth hook up there for as long as Renata had known him.",
+      "start_ms": 255108,
+      "end_ms": 259787
+    },
+    {
+      "index": 97,
+      "text": "She had not really noticed it — she had thought it was just an empty hook, waiting for something else.",
+      "start_ms": 259787,
+      "end_ms": 265888
+    },
+    {
+      "index": 98,
+      "text": "But it had been waiting for this.",
+      "start_ms": 265888,
+      "end_ms": 267902
+    },
+    {
+      "index": 99,
+      "text": "She helped him lift the fifth violin onto it.",
+      "start_ms": 267902,
+      "end_ms": 270626
+    },
+    {
+      "index": 100,
+      "text": "Now there were five in a row.",
+      "start_ms": 270626,
+      "end_ms": 272403
+    },
+    {
+      "index": 101,
+      "text": "All the same.",
+      "start_ms": 272403,
+      "end_ms": 273232
+    },
+    {
+      "index": 102,
+      "text": "All finally together.",
+      "start_ms": 273232,
+      "end_ms": 274535
+    },
+    {
+      "index": 103,
+      "text": "Two hundred and twenty-six years after they had left Constanzi's workshop, they were together again.",
+      "start_ms": 274535,
+      "end_ms": 280577
+    },
+    {
+      "index": 104,
+      "text": "They stood looking at them for a long time.",
+      "start_ms": 280577,
+      "end_ms": 283183
+    },
+    {
+      "index": 105,
+      "text": "Don Aurelio said, quietly, \"Renata.",
+      "start_ms": 283183,
+      "end_ms": 285315
+    },
+    {
+      "index": 106,
+      "text": "You know that Signor Petrini — the man who gave it to you — did not know.",
+      "start_ms": 285315,
+      "end_ms": 289698
+    },
+    {
+      "index": 107,
+      "text": "He did not know what it was.",
+      "start_ms": 289698,
+      "end_ms": 291415
+    },
+    {
+      "index": 108,
+      "text": "He was giving you a family violin.",
+      "start_ms": 291415,
+      "end_ms": 293488
+    },
+    {
+      "index": 109,
+      "text": "He did not know he was giving you a Constanzi.\" Renata said, \"I did not tell him.",
+      "start_ms": 293488,
+      "end_ms": 298345
+    },
+    {
+      "index": 110,
+      "text": "I could not tell him.",
+      "start_ms": 298345,
+      "end_ms": 299648
+    },
+    {
+      "index": 111,
+      "text": "It felt wrong.",
+      "start_ms": 299648,
+      "end_ms": 300537
+    },
+    {
+      "index": 112,
+      "text": "He gave it to me because he loved me playing.",
+      "start_ms": 300537,
+      "end_ms": 303261
+    },
+    {
+      "index": 113,
+      "text": "If I had told him what it was worth, he would have — I don't know.",
+      "start_ms": 303261,
+      "end_ms": 307229
+    },
+    {
+      "index": 114,
+      "text": "He would have felt differently.",
+      "start_ms": 307229,
+      "end_ms": 309125
+    },
+    {
+      "index": 115,
+      "text": "He gave it as a gift.",
+      "start_ms": 309125,
+      "end_ms": 310428
+    },
+    {
+      "index": 116,
+      "text": "I want to take it as a gift.\" Don Aurelio nodded slowly.",
+      "start_ms": 310428,
+      "end_ms": 313804
+    },
+    {
+      "index": 117,
+      "text": "\"That is the right answer,\" he said.",
+      "start_ms": 313804,
+      "end_ms": 315936
+    },
+    {
+      "index": 118,
+      "text": "Renata played the fifth Constanzi for the rest of her life.",
+      "start_ms": 315936,
+      "end_ms": 319604
+    },
+    {
+      "index": 119,
+      "text": "She did not sell it.",
+      "start_ms": 319604,
+      "end_ms": 320887
+    },
+    {
+      "index": 120,
+      "text": "She did not put it in a museum.",
+      "start_ms": 320887,
+      "end_ms": 322843
+    },
+    {
+      "index": 121,
+      "text": "She played it.",
+      "start_ms": 322843,
+      "end_ms": 323760
+    },
+    {
+      "index": 122,
+      "text": "She had it insured and she took it to Don Aurelio for a check every year, but otherwise she played it — at concerts, at rehearsals, in her own living room in the afternoons.",
+      "start_ms": 323760,
+      "end_ms": 334397
+    },
+    {
+      "index": 123,
+      "text": "When she was old, she brought a young student to Don Aurelio's workshop — Don Aurelio had died by then, but his daughter had taken over — and she showed the student the wall of five violins.",
+      "start_ms": 334397,
+      "end_ms": 346072
+    },
+    {
+      "index": 124,
+      "text": "She said, quietly, \"There are four here.",
+      "start_ms": 346072,
+      "end_ms": 348578
+    },
+    {
+      "index": 125,
+      "text": "Not five.",
+      "start_ms": 348578,
+      "end_ms": 349190
+    },
+    {
+      "index": 126,
+      "text": "Because one is in my case.",
+      "start_ms": 349190,
+      "end_ms": 350840
+    },
+    {
+      "index": 127,
+      "text": "And when I die, it will come back and it will hang here with the others.",
+      "start_ms": 350840,
+      "end_ms": 355303
+    },
+    {
+      "index": 128,
+      "text": "That is the plan.",
+      "start_ms": 355303,
+      "end_ms": 356403
+    },
+    {
+      "index": 129,
+      "text": "But for now — for now, it is being played.\"",
+      "start_ms": 356403,
+      "end_ms": 359154
+    },
+    {
+      "index": 130,
+      "text": "The young student looked at the four on the wall.",
+      "start_ms": 359154,
+      "end_ms": 362210
+    },
+    {
+      "index": 131,
+      "text": "She said, \"Was there ever a sixth.",
+      "start_ms": 362210,
+      "end_ms": 364350
+    },
+    {
+      "index": 132,
+      "text": "A Constanzi sextet.\" Renata smiled.",
+      "start_ms": 364350,
+      "end_ms": 366550
+    },
+    {
+      "index": 133,
+      "text": "She said, \"I do not know.",
+      "start_ms": 366550,
+      "end_ms": 368139
+    },
+    {
+      "index": 134,
+      "text": "Nobody knows.",
+      "start_ms": 368139,
+      "end_ms": 368995
+    },
+    {
+      "index": 135,
+      "text": "If there was, it is still lost.\" The young student nodded seriously.",
+      "start_ms": 368995,
+      "end_ms": 373213
+    },
+    {
+      "index": 136,
+      "text": "She said, \"Then I am going to try to find it.\" And Renata put her hand on the girl's shoulder, and she said, \"Good.\"",
+      "start_ms": 373213,
+      "end_ms": 380304
+    }
+  ]
+}

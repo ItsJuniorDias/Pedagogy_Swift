@@ -1,0 +1,751 @@
+{
+  "story_id": "nightingale-terminal",
+  "chapter": 3,
+  "total_duration_ms": 385824,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "They ate breakfast together at a small airport café that opened at six-thirty.",
+      "start_ms": 1686,
+      "end_ms": 7013
+    },
+    {
+      "index": 1,
+      "text": "It was a very simple breakfast — bread, cheese, olives, small cups of tea.",
+      "start_ms": 7013,
+      "end_ms": 12071
+    },
+    {
+      "index": 2,
+      "text": "Sena ate more than she had expected.",
+      "start_ms": 12071,
+      "end_ms": 14566
+    },
+    {
+      "index": 3,
+      "text": "She was hungry.",
+      "start_ms": 14566,
+      "end_ms": 15645
+    },
+    {
+      "index": 4,
+      "text": "Nazan ate slowly.",
+      "start_ms": 15645,
+      "end_ms": 16859
+    },
+    {
+      "index": 5,
+      "text": "They did not talk very much.",
+      "start_ms": 16859,
+      "end_ms": 18815
+    },
+    {
+      "index": 6,
+      "text": "Nazan seemed to feel that the important talking had happened in the middle of the night, and this morning was just — being together.",
+      "start_ms": 18815,
+      "end_ms": 27784
+    },
+    {
+      "index": 7,
+      "text": "Sena felt the same.",
+      "start_ms": 27784,
+      "end_ms": 29133
+    },
+    {
+      "index": 8,
+      "text": "She did not want to talk.",
+      "start_ms": 29133,
+      "end_ms": 30886
+    },
+    {
+      "index": 9,
+      "text": "She just wanted to be near Nazan for the little time that was left.",
+      "start_ms": 30886,
+      "end_ms": 35539
+    },
+    {
+      "index": 10,
+      "text": "At seven-fifteen Nazan's gate opened.",
+      "start_ms": 35539,
+      "end_ms": 38102
+    },
+    {
+      "index": 11,
+      "text": "It was time.",
+      "start_ms": 38102,
+      "end_ms": 38979
+    },
+    {
+      "index": 12,
+      "text": "They stood up.",
+      "start_ms": 38979,
+      "end_ms": 39990
+    },
+    {
+      "index": 13,
+      "text": "Nazan gathered her small canvas bag.",
+      "start_ms": 39990,
+      "end_ms": 42485
+    },
+    {
+      "index": 14,
+      "text": "She looked at Sena.",
+      "start_ms": 42485,
+      "end_ms": 43834
+    },
+    {
+      "index": 15,
+      "text": "She said, \"Well, Sena.",
+      "start_ms": 43834,
+      "end_ms": 45385
+    },
+    {
+      "index": 16,
+      "text": "Twelve hours is up.",
+      "start_ms": 45385,
+      "end_ms": 46734
+    },
+    {
+      "index": 17,
+      "text": "It is time for me to go home.",
+      "start_ms": 46734,
+      "end_ms": 48757
+    },
+    {
+      "index": 18,
+      "text": "It is time for you to go to your father.\" Sena said, \"Nazan.",
+      "start_ms": 48757,
+      "end_ms": 52871
+    },
+    {
+      "index": 19,
+      "text": "Thank you.",
+      "start_ms": 52871,
+      "end_ms": 53612
+    },
+    {
+      "index": 20,
+      "text": "Thank you for staying with me.",
+      "start_ms": 53612,
+      "end_ms": 55703
+    },
+    {
+      "index": 21,
+      "text": "Thank you for the story.\" Nazan said, \"Sena.",
+      "start_ms": 55703,
+      "end_ms": 58738
+    },
+    {
+      "index": 22,
+      "text": "Would you write to me.",
+      "start_ms": 58738,
+      "end_ms": 60289
+    },
+    {
+      "index": 23,
+      "text": "Real letters.",
+      "start_ms": 60289,
+      "end_ms": 61233
+    },
+    {
+      "index": 24,
+      "text": "Not the fast ones.",
+      "start_ms": 61233,
+      "end_ms": 62514
+    },
+    {
+      "index": 25,
+      "text": "I have a pen and a piece of paper.",
+      "start_ms": 62514,
+      "end_ms": 64874
+    },
+    {
+      "index": 26,
+      "text": "Give me your address in Singapore, and your address in Frankfurt.",
+      "start_ms": 64874,
+      "end_ms": 69325
+    },
+    {
+      "index": 27,
+      "text": "I will write to you first.",
+      "start_ms": 69325,
+      "end_ms": 71146
+    },
+    {
+      "index": 28,
+      "text": "Then you can write back if you want.",
+      "start_ms": 71146,
+      "end_ms": 73641
+    },
+    {
+      "index": 29,
+      "text": "Or not.",
+      "start_ms": 73641,
+      "end_ms": 74181
+    },
+    {
+      "index": 30,
+      "text": "It is up to you.\"",
+      "start_ms": 74181,
+      "end_ms": 75462
+    },
+    {
+      "index": 31,
+      "text": "Sena took the pen.",
+      "start_ms": 75462,
+      "end_ms": 76743
+    },
+    {
+      "index": 32,
+      "text": "She wrote her mother's address in Frankfurt.",
+      "start_ms": 76743,
+      "end_ms": 79778
+    },
+    {
+      "index": 33,
+      "text": "She wrote her father's address in Singapore.",
+      "start_ms": 79778,
+      "end_ms": 82813
+    },
+    {
+      "index": 34,
+      "text": "She wrote her email too, just in case.",
+      "start_ms": 82813,
+      "end_ms": 85443
+    },
+    {
+      "index": 35,
+      "text": "She wrote her phone number too.",
+      "start_ms": 85443,
+      "end_ms": 87601
+    },
+    {
+      "index": 36,
+      "text": "She wanted to give Nazan every way to find her.",
+      "start_ms": 87601,
+      "end_ms": 90838
+    },
+    {
+      "index": 37,
+      "text": "Nazan took the piece of paper.",
+      "start_ms": 90838,
+      "end_ms": 92928
+    },
+    {
+      "index": 38,
+      "text": "She folded it carefully and put it in her canvas bag.",
+      "start_ms": 92928,
+      "end_ms": 96570
+    },
+    {
+      "index": 39,
+      "text": "She reached into her bag.",
+      "start_ms": 96570,
+      "end_ms": 98323
+    },
+    {
+      "index": 40,
+      "text": "She took out a small card.",
+      "start_ms": 98323,
+      "end_ms": 100144
+    },
+    {
+      "index": 41,
+      "text": "She wrote her own address in Istanbul on the back of it.",
+      "start_ms": 100144,
+      "end_ms": 103988
+    },
+    {
+      "index": 42,
+      "text": "She gave it to Sena.",
+      "start_ms": 103988,
+      "end_ms": 105404
+    },
+    {
+      "index": 43,
+      "text": "\"I will write to you next week,\" she said.",
+      "start_ms": 105404,
+      "end_ms": 108304
+    },
+    {
+      "index": 44,
+      "text": "\"When I am home.",
+      "start_ms": 108304,
+      "end_ms": 109450
+    },
+    {
+      "index": 45,
+      "text": "Look for a letter.",
+      "start_ms": 109450,
+      "end_ms": 110732
+    },
+    {
+      "index": 46,
+      "text": "If you write back — I will keep writing.",
+      "start_ms": 110732,
+      "end_ms": 113497
+    },
+    {
+      "index": 47,
+      "text": "I would like this.",
+      "start_ms": 113497,
+      "end_ms": 114778
+    },
+    {
+      "index": 48,
+      "text": "I do not have grandchildren of my own.\"",
+      "start_ms": 114778,
+      "end_ms": 117408
+    },
+    {
+      "index": 49,
+      "text": "Sena said, \"Nazan.",
+      "start_ms": 117408,
+      "end_ms": 118728
+    },
+    {
+      "index": 50,
+      "text": "May I hug you.\" Nazan smiled.",
+      "start_ms": 118728,
+      "end_ms": 120812
+    },
+    {
+      "index": 51,
+      "text": "She said, \"Please.\" Sena hugged her.",
+      "start_ms": 120812,
+      "end_ms": 123382
+    },
+    {
+      "index": 52,
+      "text": "Nazan smelled like tea and cloves and something soft that Sena did not have a word for.",
+      "start_ms": 123382,
+      "end_ms": 129495
+    },
+    {
+      "index": 53,
+      "text": "When they let go, Nazan said, \"Buen viaje, Sena.",
+      "start_ms": 129495,
+      "end_ms": 132898
+    },
+    {
+      "index": 54,
+      "text": "Or — that is Spanish, not Turkish.",
+      "start_ms": 132898,
+      "end_ms": 135330
+    },
+    {
+      "index": 55,
+      "text": "Iyi yolculuklar.",
+      "start_ms": 135330,
+      "end_ms": 136511
+    },
+    {
+      "index": 56,
+      "text": "That is Turkish for the same thing.",
+      "start_ms": 136511,
+      "end_ms": 139011
+    },
+    {
+      "index": 57,
+      "text": "Have a good journey.\" Sena said, \"Iyi yolculuklar, Nazan.\" And Nazan turned and walked toward her gate.",
+      "start_ms": 139011,
+      "end_ms": 146236
+    },
+    {
+      "index": 58,
+      "text": "Sena watched her until she was out of sight.",
+      "start_ms": 146236,
+      "end_ms": 149431
+    },
+    {
+      "index": 59,
+      "text": "Sena went back to her window seat.",
+      "start_ms": 149431,
+      "end_ms": 151862
+    },
+    {
+      "index": 60,
+      "text": "She had another hour.",
+      "start_ms": 151862,
+      "end_ms": 153390
+    },
+    {
+      "index": 61,
+      "text": "She sat and watched the morning traffic on the tarmac.",
+      "start_ms": 153390,
+      "end_ms": 157211
+    },
+    {
+      "index": 62,
+      "text": "She thought about what Nazan had said.",
+      "start_ms": 157211,
+      "end_ms": 159920
+    },
+    {
+      "index": 63,
+      "text": "About choosing a time to think of each parent.",
+      "start_ms": 159920,
+      "end_ms": 163185
+    },
+    {
+      "index": 64,
+      "text": "She decided — right there, at that window — that from now on she would think of her mother at sunset, and her father at sunrise.",
+      "start_ms": 163185,
+      "end_ms": 172146
+    },
+    {
+      "index": 65,
+      "text": "Sunset had been the time in Nazan's story when Nazan thought of her father.",
+      "start_ms": 172146,
+      "end_ms": 177425
+    },
+    {
+      "index": 66,
+      "text": "But for Sena, it would be her mother.",
+      "start_ms": 177425,
+      "end_ms": 180064
+    },
+    {
+      "index": 67,
+      "text": "Because her mother was on the other side of a sunset now, in Germany.",
+      "start_ms": 180064,
+      "end_ms": 184927
+    },
+    {
+      "index": 68,
+      "text": "And her father was on the other side of a sunrise, in Singapore.",
+      "start_ms": 184927,
+      "end_ms": 189442
+    },
+    {
+      "index": 69,
+      "text": "That was how the world worked, geographically.",
+      "start_ms": 189442,
+      "end_ms": 192707
+    },
+    {
+      "index": 70,
+      "text": "It was fair.",
+      "start_ms": 192707,
+      "end_ms": 193679
+    },
+    {
+      "index": 71,
+      "text": "She was going to write to Nazan.",
+      "start_ms": 193679,
+      "end_ms": 195972
+    },
+    {
+      "index": 72,
+      "text": "She had decided already.",
+      "start_ms": 195972,
+      "end_ms": 197708
+    },
+    {
+      "index": 73,
+      "text": "She was going to write a real letter — the slow kind, on paper — when she got to her father's apartment.",
+      "start_ms": 197708,
+      "end_ms": 205002
+    },
+    {
+      "index": 74,
+      "text": "She was going to tell Nazan about her flight, and about Singapore, and about her father.",
+      "start_ms": 205002,
+      "end_ms": 211184
+    },
+    {
+      "index": 75,
+      "text": "She was going to keep writing to Nazan for as long as Nazan wanted to write.",
+      "start_ms": 211184,
+      "end_ms": 216533
+    },
+    {
+      "index": 76,
+      "text": "She thought, in a very grown-up way for her age, that she had found a person in the world she was not going to let slip away.",
+      "start_ms": 216533,
+      "end_ms": 225216
+    },
+    {
+      "index": 77,
+      "text": "Her flight boarded at eight-thirty.",
+      "start_ms": 225216,
+      "end_ms": 227518
+    },
+    {
+      "index": 78,
+      "text": "She got on.",
+      "start_ms": 227518,
+      "end_ms": 228286
+    },
+    {
+      "index": 79,
+      "text": "She found her seat.",
+      "start_ms": 228286,
+      "end_ms": 229565
+    },
+    {
+      "index": 80,
+      "text": "She sat by the window.",
+      "start_ms": 229565,
+      "end_ms": 231036
+    },
+    {
+      "index": 81,
+      "text": "The plane taxied.",
+      "start_ms": 231036,
+      "end_ms": 232187
+    },
+    {
+      "index": 82,
+      "text": "It took off.",
+      "start_ms": 232187,
+      "end_ms": 233018
+    },
+    {
+      "index": 83,
+      "text": "Istanbul fell away below her — she could see, in the pink morning light, the great city stretched along both sides of the Bosphorus, the mosques with their domes, the old walls, the huge amount of it, the beauty of it.",
+      "start_ms": 233018,
+      "end_ms": 247024
+    },
+    {
+      "index": 84,
+      "text": "Somewhere down there was Nazan, on her flight back to Kadıköy.",
+      "start_ms": 247024,
+      "end_ms": 251053
+    },
+    {
+      "index": 85,
+      "text": "Sena thought — she is down there.",
+      "start_ms": 251053,
+      "end_ms": 253227
+    },
+    {
+      "index": 86,
+      "text": "I know her.",
+      "start_ms": 253227,
+      "end_ms": 253995
+    },
+    {
+      "index": 87,
+      "text": "I met her last night.",
+      "start_ms": 253995,
+      "end_ms": 255401
+    },
+    {
+      "index": 88,
+      "text": "That is a person I know now, in this whole huge city.",
+      "start_ms": 255401,
+      "end_ms": 258919
+    },
+    {
+      "index": 89,
+      "text": "The flight to Singapore was ten hours.",
+      "start_ms": 258919,
+      "end_ms": 261413
+    },
+    {
+      "index": 90,
+      "text": "Sena slept for four of them.",
+      "start_ms": 261413,
+      "end_ms": 263268
+    },
+    {
+      "index": 91,
+      "text": "She read for two.",
+      "start_ms": 263268,
+      "end_ms": 264419
+    },
+    {
+      "index": 92,
+      "text": "She watched a movie.",
+      "start_ms": 264419,
+      "end_ms": 265762
+    },
+    {
+      "index": 93,
+      "text": "When they landed at Changi Airport in Singapore, she came off the plane and walked with the airline staff to the arrivals hall, and there was her father, waiting, smiling, arms out.",
+      "start_ms": 265762,
+      "end_ms": 277401
+    },
+    {
+      "index": 94,
+      "text": "She ran to him.",
+      "start_ms": 277401,
+      "end_ms": 278424
+    },
+    {
+      "index": 95,
+      "text": "He picked her up — she was almost too big for it but not quite.",
+      "start_ms": 278424,
+      "end_ms": 282517
+    },
+    {
+      "index": 96,
+      "text": "He said, \"Sena.",
+      "start_ms": 282517,
+      "end_ms": 283540
+    },
+    {
+      "index": 97,
+      "text": "Sena.",
+      "start_ms": 283540,
+      "end_ms": 283924
+    },
+    {
+      "index": 98,
+      "text": "I missed you.\" She said, \"I missed you too, Papa.\" And they walked out of the airport into the warm humid Singapore evening, and Sena thought, briefly, of her mother in Frankfurt, where it was afternoon.",
+      "start_ms": 283924,
+      "end_ms": 296970
+    },
+    {
+      "index": 99,
+      "text": "She held that thought for a moment.",
+      "start_ms": 296970,
+      "end_ms": 299273
+    },
+    {
+      "index": 100,
+      "text": "Then she let it be.",
+      "start_ms": 299273,
+      "end_ms": 300552
+    },
+    {
+      "index": 101,
+      "text": "She would return to it at sunset.",
+      "start_ms": 300552,
+      "end_ms": 302726
+    },
+    {
+      "index": 102,
+      "text": "That would be her mother's time from now on.",
+      "start_ms": 302726,
+      "end_ms": 305668
+    },
+    {
+      "index": 103,
+      "text": "She wrote to Nazan two days later.",
+      "start_ms": 305668,
+      "end_ms": 307906
+    },
+    {
+      "index": 104,
+      "text": "A real letter, on paper, in her best handwriting.",
+      "start_ms": 307906,
+      "end_ms": 311104
+    },
+    {
+      "index": 105,
+      "text": "She told Nazan about her flight, about Singapore, about her father.",
+      "start_ms": 311104,
+      "end_ms": 315453
+    },
+    {
+      "index": 106,
+      "text": "She told her that she had decided to think of her mother at sunset and her father at sunrise.",
+      "start_ms": 315453,
+      "end_ms": 321464
+    },
+    {
+      "index": 107,
+      "text": "She told her thank you for the tea.",
+      "start_ms": 321464,
+      "end_ms": 323766
+    },
+    {
+      "index": 108,
+      "text": "She told her that she thought Nazan was one of the best people she had ever met, and that she was very glad they had shared a terminal.",
+      "start_ms": 323766,
+      "end_ms": 332400
+    },
+    {
+      "index": 109,
+      "text": "Nazan wrote back three weeks later.",
+      "start_ms": 332400,
+      "end_ms": 334422
+    },
+    {
+      "index": 110,
+      "text": "A real letter.",
+      "start_ms": 334422,
+      "end_ms": 335265
+    },
+    {
+      "index": 111,
+      "text": "Her handwriting was small and careful.",
+      "start_ms": 335265,
+      "end_ms": 337456
+    },
+    {
+      "index": 112,
+      "text": "She wrote about Istanbul, about her son in Frankfurt, about the small piano she still played sometimes.",
+      "start_ms": 337456,
+      "end_ms": 343298
+    },
+    {
+      "index": 113,
+      "text": "She said, at the end of the letter, \"Sena.",
+      "start_ms": 343298,
+      "end_ms": 345714
+    },
+    {
+      "index": 114,
+      "text": "I am eighty years old.",
+      "start_ms": 345714,
+      "end_ms": 347006
+    },
+    {
+      "index": 115,
+      "text": "I do not have many years left.",
+      "start_ms": 347006,
+      "end_ms": 348747
+    },
+    {
+      "index": 116,
+      "text": "But I will write to you for every year that I have.",
+      "start_ms": 348747,
+      "end_ms": 351669
+    },
+    {
+      "index": 117,
+      "text": "Please write back to me.",
+      "start_ms": 351669,
+      "end_ms": 353073
+    },
+    {
+      "index": 118,
+      "text": "You are one of the small good things that happened to me in my last decade.",
+      "start_ms": 353073,
+      "end_ms": 357342
+    },
+    {
+      "index": 119,
+      "text": "I am very grateful the airplane brought me your way.\" Sena kept every letter.",
+      "start_ms": 357342,
+      "end_ms": 361724
+    },
+    {
+      "index": 120,
+      "text": "She still has them.",
+      "start_ms": 361724,
+      "end_ms": 362848
+    },
+    {
+      "index": 121,
+      "text": "She wrote to Nazan for ten years, until Nazan died at ninety.",
+      "start_ms": 362848,
+      "end_ms": 366331
+    },
+    {
+      "index": 122,
+      "text": "She flew, in those years, through Istanbul many more times, and always — always — she sat at the window at her old gate, and always she remembered.",
+      "start_ms": 366331,
+      "end_ms": 374645
+    },
+    {
+      "index": 123,
+      "text": "And when she was grown, and when she had her own child, she told her child about a Turkish woman in an airport who had stayed with her all night, and taught her how to love people who were not there.",
+      "start_ms": 374645,
+      "end_ms": 385824
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "story_id": "return-boat",
+  "chapter": 1,
+  "total_duration_ms": 355488,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Yara lived with her mother in a small stone house that had been in her family for six generations, on a hillside above the Douro river in the north of Portugal.",
+      "start_ms": 1675,
+      "end_ms": 11305
+    },
+    {
+      "index": 1,
+      "text": "The hillside was covered in the terraced vineyards that were used to grow port wine grapes.",
+      "start_ms": 11305,
+      "end_ms": 16808
+    },
+    {
+      "index": 2,
+      "text": "Her family had grown grapes there for two hundred years.",
+      "start_ms": 16808,
+      "end_ms": 20217
+    },
+    {
+      "index": 3,
+      "text": "Yara's mother worked at the winery on the next hill over now.",
+      "start_ms": 20217,
+      "end_ms": 23925
+    },
+    {
+      "index": 4,
+      "text": "Her father had died when Yara was six, in a fall from a scaffold at work.",
+      "start_ms": 23925,
+      "end_ms": 28352
+    },
+    {
+      "index": 5,
+      "text": "Yara and her mother had lived alone since then.",
+      "start_ms": 28352,
+      "end_ms": 31223
+    },
+    {
+      "index": 6,
+      "text": "Their house was old and warm and full of the smell of dry grape leaves.",
+      "start_ms": 31223,
+      "end_ms": 35589
+    },
+    {
+      "index": 7,
+      "text": "At the bottom of their property was a small wooden pier that stuck into the river.",
+      "start_ms": 35589,
+      "end_ms": 40554
+    },
+    {
+      "index": 8,
+      "text": "And tied to the pier was a boat.",
+      "start_ms": 40554,
+      "end_ms": 42527
+    },
+    {
+      "index": 9,
+      "text": "A very old one.",
+      "start_ms": 42527,
+      "end_ms": 43484
+    },
+    {
+      "index": 10,
+      "text": "A rabelo — one of the traditional flat wooden boats that had been used, for centuries, to carry barrels of port wine down the Douro from the high country to the warehouses in Porto.",
+      "start_ms": 43484,
+      "end_ms": 54370
+    },
+    {
+      "index": 11,
+      "text": "Since the roads and the trains had come, in the twentieth century, the boats had stopped being used.",
+      "start_ms": 54370,
+      "end_ms": 60412
+    },
+    {
+      "index": 12,
+      "text": "Most of them had been broken up or had rotted.",
+      "start_ms": 60412,
+      "end_ms": 63223
+    },
+    {
+      "index": 13,
+      "text": "A few were kept as museum pieces.",
+      "start_ms": 63223,
+      "end_ms": 65256
+    },
+    {
+      "index": 14,
+      "text": "Yara's family boat was one of the last that had never been sold.",
+      "start_ms": 65256,
+      "end_ms": 69144
+    },
+    {
+      "index": 15,
+      "text": "It had belonged to her great-great-grandfather.",
+      "start_ms": 69144,
+      "end_ms": 72015
+    },
+    {
+      "index": 16,
+      "text": "It had been sitting on their pier for maybe eighty years.",
+      "start_ms": 72015,
+      "end_ms": 75544
+    },
+    {
+      "index": 17,
+      "text": "It was Yara's mother who told her about the museum.",
+      "start_ms": 75544,
+      "end_ms": 78655
+    },
+    {
+      "index": 18,
+      "text": "It was a warm evening in May.",
+      "start_ms": 78655,
+      "end_ms": 80449
+    },
+    {
+      "index": 19,
+      "text": "Yara's mother had brought a letter home from work.",
+      "start_ms": 80449,
+      "end_ms": 83500
+    },
+    {
+      "index": 20,
+      "text": "She sat at the kitchen table and read it to Yara.",
+      "start_ms": 83500,
+      "end_ms": 86490
+    },
+    {
+      "index": 21,
+      "text": "\"They want the boat.",
+      "start_ms": 86490,
+      "end_ms": 87746
+    },
+    {
+      "index": 22,
+      "text": "The port wine museum in Porto.",
+      "start_ms": 87746,
+      "end_ms": 89601
+    },
+    {
+      "index": 23,
+      "text": "They are collecting the last of the old rabelos.",
+      "start_ms": 89601,
+      "end_ms": 92531
+    },
+    {
+      "index": 24,
+      "text": "They will restore ours and put it on display.",
+      "start_ms": 92531,
+      "end_ms": 95283
+    },
+    {
+      "index": 25,
+      "text": "They will hire a boatman to sail it down.",
+      "start_ms": 95283,
+      "end_ms": 97795
+    },
+    {
+      "index": 26,
+      "text": "They will pay us a small amount.",
+      "start_ms": 97795,
+      "end_ms": 99769
+    },
+    {
+      "index": 27,
+      "text": "But the boat will not come back.",
+      "start_ms": 99769,
+      "end_ms": 101743
+    },
+    {
+      "index": 28,
+      "text": "It will live in the museum forever.\"",
+      "start_ms": 101743,
+      "end_ms": 103896
+    },
+    {
+      "index": 29,
+      "text": "Yara said, \"But — Mãe.",
+      "start_ms": 103896,
+      "end_ms": 105527
+    },
+    {
+      "index": 30,
+      "text": "That is our boat.",
+      "start_ms": 105527,
+      "end_ms": 106803
+    },
+    {
+      "index": 31,
+      "text": "Great-Great-Grandpa's boat.\" Yara's mother said, \"I know, coração.",
+      "start_ms": 106803,
+      "end_ms": 111554
+    },
+    {
+      "index": 32,
+      "text": "I know.",
+      "start_ms": 111554,
+      "end_ms": 112122
+    },
+    {
+      "index": 33,
+      "text": "But — we have not used it in eighty years.",
+      "start_ms": 112122,
+      "end_ms": 115171
+    },
+    {
+      "index": 34,
+      "text": "Nobody in the family has known how to sail one for four generations.",
+      "start_ms": 115171,
+      "end_ms": 120064
+    },
+    {
+      "index": 35,
+      "text": "I do not know how.",
+      "start_ms": 120064,
+      "end_ms": 121411
+    },
+    {
+      "index": 36,
+      "text": "Your grandmother did not know how.",
+      "start_ms": 121411,
+      "end_ms": 123893
+    },
+    {
+      "index": 37,
+      "text": "If we do not send it to the museum, it will just sit there and eventually rot away.",
+      "start_ms": 123893,
+      "end_ms": 129850
+    },
+    {
+      "index": 38,
+      "text": "This way it will be preserved.",
+      "start_ms": 129850,
+      "end_ms": 132048
+    },
+    {
+      "index": 39,
+      "text": "And it will be seen.",
+      "start_ms": 132048,
+      "end_ms": 133537
+    },
+    {
+      "index": 40,
+      "text": "Thousands of people every year will see our boat.",
+      "start_ms": 133537,
+      "end_ms": 137083
+    },
+    {
+      "index": 41,
+      "text": "That is better than nobody seeing it.",
+      "start_ms": 137083,
+      "end_ms": 139777
+    },
+    {
+      "index": 42,
+      "text": "Isn't it?\" Yara thought.",
+      "start_ms": 139777,
+      "end_ms": 141550
+    },
+    {
+      "index": 43,
+      "text": "She thought about it for a long moment.",
+      "start_ms": 141550,
+      "end_ms": 144386
+    },
+    {
+      "index": 44,
+      "text": "She said, \"Yes.",
+      "start_ms": 144386,
+      "end_ms": 145521
+    },
+    {
+      "index": 45,
+      "text": "It is better.",
+      "start_ms": 145521,
+      "end_ms": 146514
+    },
+    {
+      "index": 46,
+      "text": "I just — I want to say goodbye to it properly.\"",
+      "start_ms": 146514,
+      "end_ms": 149988
+    },
+    {
+      "index": 47,
+      "text": "\"That is why I brought this letter,\" said her mother.",
+      "start_ms": 149988,
+      "end_ms": 153818
+    },
+    {
+      "index": 48,
+      "text": "\"They will send a boatman here in two weeks to sail it down to Porto.",
+      "start_ms": 153818,
+      "end_ms": 158781
+    },
+    {
+      "index": 49,
+      "text": "It takes three days.",
+      "start_ms": 158781,
+      "end_ms": 160271
+    },
+    {
+      "index": 50,
+      "text": "He works alone, but he says he needs a second pair of hands on a boat that has not been sailed in eighty years.",
+      "start_ms": 160271,
+      "end_ms": 168213
+    },
+    {
+      "index": 51,
+      "text": "In case something goes wrong.",
+      "start_ms": 168213,
+      "end_ms": 170340
+    },
+    {
+      "index": 52,
+      "text": "He asked if there was someone in the family who could go with him.\" She looked at Yara.",
+      "start_ms": 170340,
+      "end_ms": 176580
+    },
+    {
+      "index": 53,
+      "text": "\"I have to work.",
+      "start_ms": 176580,
+      "end_ms": 177786
+    },
+    {
+      "index": 54,
+      "text": "So I cannot.",
+      "start_ms": 177786,
+      "end_ms": 178708
+    },
+    {
+      "index": 55,
+      "text": "But — I asked if you could go.",
+      "start_ms": 178708,
+      "end_ms": 180906
+    },
+    {
+      "index": 56,
+      "text": "If you wanted to.",
+      "start_ms": 180906,
+      "end_ms": 182182
+    },
+    {
+      "index": 57,
+      "text": "He said yes, if you were sensible.",
+      "start_ms": 182182,
+      "end_ms": 184664
+    },
+    {
+      "index": 58,
+      "text": "And I said you were the most sensible eleven-year-old in Portugal.\" Yara sat up.",
+      "start_ms": 184664,
+      "end_ms": 190408
+    },
+    {
+      "index": 59,
+      "text": "She said, \"I can go?\" \"Yes,\" said her mother.",
+      "start_ms": 190408,
+      "end_ms": 193670
+    },
+    {
+      "index": 60,
+      "text": "\"Three days.",
+      "start_ms": 193670,
+      "end_ms": 194592
+    },
+    {
+      "index": 61,
+      "text": "On our boat.",
+      "start_ms": 194592,
+      "end_ms": 195514
+    },
+    {
+      "index": 62,
+      "text": "Sailing it to its new home.",
+      "start_ms": 195514,
+      "end_ms": 197499
+    },
+    {
+      "index": 63,
+      "text": "If you want to.\" Yara said, \"Yes.",
+      "start_ms": 197499,
+      "end_ms": 199910
+    },
+    {
+      "index": 64,
+      "text": "Yes yes yes.\"",
+      "start_ms": 199910,
+      "end_ms": 200832
+    },
+    {
+      "index": 65,
+      "text": "The boatman arrived two weeks later.",
+      "start_ms": 200832,
+      "end_ms": 202863
+    },
+    {
+      "index": 66,
+      "text": "His name was Senhor Fonseca.",
+      "start_ms": 202863,
+      "end_ms": 204455
+    },
+    {
+      "index": 67,
+      "text": "He was maybe forty-five.",
+      "start_ms": 204455,
+      "end_ms": 205827
+    },
+    {
+      "index": 68,
+      "text": "He was thin and had dark hair and a face that had been in the sun for years.",
+      "start_ms": 205827,
+      "end_ms": 210054
+    },
+    {
+      "index": 69,
+      "text": "He shook Yara's mother's hand and then Yara's hand.",
+      "start_ms": 210054,
+      "end_ms": 212908
+    },
+    {
+      "index": 70,
+      "text": "His hand was very hard and very rough.",
+      "start_ms": 212908,
+      "end_ms": 215049
+    },
+    {
+      "index": 71,
+      "text": "He did not smile.",
+      "start_ms": 215049,
+      "end_ms": 216037
+    },
+    {
+      "index": 72,
+      "text": "He did not say much.",
+      "start_ms": 216037,
+      "end_ms": 217190
+    },
+    {
+      "index": 73,
+      "text": "He walked down to the pier without waiting for anyone.",
+      "start_ms": 217190,
+      "end_ms": 220209
+    },
+    {
+      "index": 74,
+      "text": "He climbed onto the boat.",
+      "start_ms": 220209,
+      "end_ms": 221636
+    },
+    {
+      "index": 75,
+      "text": "He walked its whole length very slowly.",
+      "start_ms": 221636,
+      "end_ms": 223832
+    },
+    {
+      "index": 76,
+      "text": "He looked at every board.",
+      "start_ms": 223832,
+      "end_ms": 225259
+    },
+    {
+      "index": 77,
+      "text": "He climbed under the mast.",
+      "start_ms": 225259,
+      "end_ms": 226741
+    },
+    {
+      "index": 78,
+      "text": "He checked the sail — which was folded up on the deck — piece by piece.",
+      "start_ms": 226741,
+      "end_ms": 230693
+    },
+    {
+      "index": 79,
+      "text": "He was there for maybe two hours.",
+      "start_ms": 230693,
+      "end_ms": 232560
+    },
+    {
+      "index": 80,
+      "text": "Yara sat on the pier and watched.",
+      "start_ms": 232560,
+      "end_ms": 234426
+    },
+    {
+      "index": 81,
+      "text": "She did not want to interrupt him.",
+      "start_ms": 234426,
+      "end_ms": 236347
+    },
+    {
+      "index": 82,
+      "text": "He seemed to be — communicating with the boat, in some way.",
+      "start_ms": 236347,
+      "end_ms": 239696
+    },
+    {
+      "index": 83,
+      "text": "Finally he came off.",
+      "start_ms": 239696,
+      "end_ms": 240848
+    },
+    {
+      "index": 84,
+      "text": "He nodded to Yara's mother.",
+      "start_ms": 240848,
+      "end_ms": 242385
+    },
+    {
+      "index": 85,
+      "text": "He said, \"The boat is good.",
+      "start_ms": 242385,
+      "end_ms": 243922
+    },
+    {
+      "index": 86,
+      "text": "The wood is sound.",
+      "start_ms": 243922,
+      "end_ms": 244965
+    },
+    {
+      "index": 87,
+      "text": "The sail needs some repair — I will fix it tomorrow.",
+      "start_ms": 244965,
+      "end_ms": 247874
+    },
+    {
+      "index": 88,
+      "text": "We can leave the day after tomorrow, in the morning.",
+      "start_ms": 247874,
+      "end_ms": 250784
+    },
+    {
+      "index": 89,
+      "text": "Wednesday.",
+      "start_ms": 250784,
+      "end_ms": 251388
+    },
+    {
+      "index": 90,
+      "text": "Do you have the girl ready.\" Yara's mother said, \"She will be ready.\" Senhor Fonseca looked at Yara.",
+      "start_ms": 251388,
+      "end_ms": 256932
+    },
+    {
+      "index": 91,
+      "text": "He said, \"How old.\" \"Eleven,\" said Yara.",
+      "start_ms": 256932,
+      "end_ms": 259182
+    },
+    {
+      "index": 92,
+      "text": "\"Have you been on a boat before.\" \"On small boats.",
+      "start_ms": 259182,
+      "end_ms": 261982
+    },
+    {
+      "index": 93,
+      "text": "On the river.",
+      "start_ms": 261982,
+      "end_ms": 262750
+    },
+    {
+      "index": 94,
+      "text": "Not for a long trip.\" \"Can you follow instructions.\" \"Yes.\" \"Can you be quiet.\" Yara paused.",
+      "start_ms": 262750,
+      "end_ms": 267855
+    },
+    {
+      "index": 95,
+      "text": "She said, \"Yes.\" Senhor Fonseca nodded.",
+      "start_ms": 267855,
+      "end_ms": 270051
+    },
+    {
+      "index": 96,
+      "text": "He said, \"Good.",
+      "start_ms": 270051,
+      "end_ms": 270929
+    },
+    {
+      "index": 97,
+      "text": "See you Wednesday morning at six.\"",
+      "start_ms": 270929,
+      "end_ms": 272905
+    },
+    {
+      "index": 98,
+      "text": "Wednesday morning at six, Yara was on the pier with a small canvas bag.",
+      "start_ms": 272905,
+      "end_ms": 276857
+    },
+    {
+      "index": 99,
+      "text": "Her mother had packed her clothes for three days, and some snacks, and a small first-aid kit.",
+      "start_ms": 276857,
+      "end_ms": 282017
+    },
+    {
+      "index": 100,
+      "text": "She had a big envelope from the museum with a letter of authorization in it, and money for hotels for two nights.",
+      "start_ms": 282017,
+      "end_ms": 288275
+    },
+    {
+      "index": 101,
+      "text": "Senhor Fonseca had rigged the boat.",
+      "start_ms": 288275,
+      "end_ms": 290251
+    },
+    {
+      "index": 102,
+      "text": "The single square sail was up on the wooden mast.",
+      "start_ms": 290251,
+      "end_ms": 292996
+    },
+    {
+      "index": 103,
+      "text": "It was smaller than Yara had expected — she had thought it would be big and impressive, but it was actually a modest square of heavy canvas, maybe three meters on each side.",
+      "start_ms": 292996,
+      "end_ms": 302547
+    },
+    {
+      "index": 104,
+      "text": "Senhor Fonseca said, \"The current does most of the work.",
+      "start_ms": 302547,
+      "end_ms": 305676
+    },
+    {
+      "index": 105,
+      "text": "The sail is for steering, not for speed.",
+      "start_ms": 305676,
+      "end_ms": 307926
+    },
+    {
+      "index": 106,
+      "text": "Come aboard.\"",
+      "start_ms": 307926,
+      "end_ms": 308640
+    },
+    {
+      "index": 107,
+      "text": "Yara hugged her mother.",
+      "start_ms": 308640,
+      "end_ms": 310480
+    },
+    {
+      "index": 108,
+      "text": "Her mother whispered, \"Be brave.",
+      "start_ms": 310480,
+      "end_ms": 313010
+    },
+    {
+      "index": 109,
+      "text": "Be careful.",
+      "start_ms": 313010,
+      "end_ms": 313931
+    },
+    {
+      "index": 110,
+      "text": "Do exactly what he says.",
+      "start_ms": 313931,
+      "end_ms": 315847
+    },
+    {
+      "index": 111,
+      "text": "I will meet you at the museum in three days.\" Yara nodded.",
+      "start_ms": 315847,
+      "end_ms": 320371
+    },
+    {
+      "index": 112,
+      "text": "She got on the boat.",
+      "start_ms": 320371,
+      "end_ms": 321981
+    },
+    {
+      "index": 113,
+      "text": "Senhor Fonseca untied it from the pier.",
+      "start_ms": 321981,
+      "end_ms": 325048
+    },
+    {
+      "index": 114,
+      "text": "He took his position at the long wooden steering oar at the back.",
+      "start_ms": 325048,
+      "end_ms": 330109
+    },
+    {
+      "index": 115,
+      "text": "The current caught the boat almost immediately.",
+      "start_ms": 330109,
+      "end_ms": 333789
+    },
+    {
+      "index": 116,
+      "text": "They began to drift downstream.",
+      "start_ms": 333789,
+      "end_ms": 336243
+    },
+    {
+      "index": 117,
+      "text": "Yara stood at the front.",
+      "start_ms": 336243,
+      "end_ms": 338160
+    },
+    {
+      "index": 118,
+      "text": "She waved to her mother.",
+      "start_ms": 338160,
+      "end_ms": 340076
+    },
+    {
+      "index": 119,
+      "text": "Her mother waved back.",
+      "start_ms": 340076,
+      "end_ms": 341840
+    },
+    {
+      "index": 120,
+      "text": "Then the bend of the river came, and the pier was out of sight, and Yara turned around, and she was on the boat, on the river, going somewhere.",
+      "start_ms": 341840,
+      "end_ms": 352881
+    },
+    {
+      "index": 121,
+      "text": "Alone with a man who barely spoke.",
+      "start_ms": 352881,
+      "end_ms": 355488
+    }
+  ]
+}

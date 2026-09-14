@@ -1,0 +1,168 @@
+{
+  "id": "grey-cat-of-otsu",
+  "title": "The Grey Cat of Otsu",
+  "subtitle": "A Tale from Lake Biwa",
+  "author": null,
+  "summary": "Yui is spending a week with her grandfather in Otsu, a town on the shore of Lake Biwa, and she has brought her old shiba dog Momo with her. Her grandfather tells her the local legend of a grey cat that visits people who are very sad, sits with them for three days, and then goes. Yui does not believe him. Two days later, Momo dies. On the afternoon they bury him in the garden, a grey cat appears on the wall.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-grey-cat-of-otsu-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old girl (Yui) with a short black bob haircut, sitting on the wooden engawa porch of a traditional Japanese house looking out at a small stone-and-moss garden. On the low garden wall in front of her sits a grey cat with dark markings, looking directly at her with pale amber eyes. The girl's hand rests on a folded blanket beside her. In the distance behind the garden wall: a glimpse of Lake Biwa, still and grey. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0), muted moss green, deep ink outlines for the cat, soft grey for its coat, small dusty rose (#FF5B8D) accent on the girl's cheeks. Small margin at top and bottom for card padding.",
+  "category": "legend",
+  "isPremium": true,
+  "publishedAt": "2026-10-15",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Legend",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "gc-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior of a traditional Japanese house in Otsu, close to Lake Biwa. Wooden facade, tile roof, a low garden wall with moss. A girl (Yui, 10, short black bob) walking through the front gate carrying a small overnight bag, followed by an old shiba dog (Momo) on a red lead walking slowly. Summer afternoon light. Heavy black ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "Yui and her mother took the train to Otsu on a Sunday afternoon. It was not a long ride from Kyoto — only fifteen minutes — but Yui had brought her old shiba dog Momo with her, and Momo did not like the train. He was fifteen years old, which was very old for a shiba, and he did not like anything new anymore, and he had spent the whole ride pressed against Yui's leg making small worried sounds. When they got off at Otsu station, Yui knelt down and put her face against his neck for a moment before they walked to Ojiisan's house.",
+            "Ojiisan lived alone in the same small wooden house he had lived in for forty years, five streets back from the shore of Lake Biwa. Yui was ten and she had been to Ojiisan's house every summer for as long as she could remember, but this was the first time she had come without her mother — her mother was going back on the evening train, because there was a work thing. Yui was staying for a whole week, alone. Just her and Ojiisan. And Momo."
+          ]
+        },
+        {
+          "image": "gc-ch1-p2-ojiisan",
+          "imagePrompt": "Mike Mignola style for children: interior of a traditional Japanese living room with tatami mats and a low table. An older man (Ojiisan, seventies, thin, gentle face) kneels at the table pouring tea from a small clay pot into two cups. A girl (Yui, 10) sits across from him, holding a cup with both hands. An old shiba dog (Momo) lies at her side, eyes closed. Late afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Ojiisan was very glad to see Yui. He had made cold barley tea and small round rice balls for her, and he had put out a soft folded blanket in the corner of the main room for Momo, because he had known Momo since Momo was a puppy. After Yui's mother left, they sat at the low table together and ate the rice balls, and they did not talk very much. Ojiisan was a quiet man. That was one of the things Yui liked best about him. She never had to think of what to say.",
+            "After they ate, Yui went out onto the wooden engawa porch that ran along the back of the house. It faced the small garden — a bit of moss, some carefully placed stones, and a low wall around it all. Beyond the wall, if you looked between the roofs of the other houses, you could just see a strip of grey water, which was the lake. She sat down on the porch. Momo followed her, slowly, and lay down next to her with a long slow sigh, and she put her hand on his back. Ojiisan came out too, and sat on her other side."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They sat like that for a while, watching the garden. Yui was thinking about Momo. He had been slower this year than last, and thinner, and he slept most of the day now, and sometimes he woke up in the night and cried a little, softly. Her mother had said Momo was very old, and that Yui should be ready for what would come. Yui was ready. She thought she was ready. She was not sure.",
+            "\"Ojiisan,\" she said. \"Yes.\" \"When Baba died, were you very sad.\" Ojiisan was quiet for a long moment. Baba was Ojiisan's wife, Yui's grandmother, and she had died before Yui was born. He turned to look at her, then looked back out at the garden. \"Yes,\" he said. \"I was very sad.\" Yui nodded. She had thought so."
+          ]
+        },
+        {
+          "image": "gc-ch1-p4-telling",
+          "imagePrompt": "Mike Mignola style for children: two people on a wooden engawa porch at dusk. An older man (Ojiisan, seventies) is speaking, gesturing gently. A girl (Yui, 10) leans against a pillar listening, an old shiba dog (Momo) lying between them, sleeping. Behind them, the garden and a low wall. Warm evening light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"There is a story from around here,\" Ojiisan said, after a while. \"An old story. About what happens when someone is very sad. My grandmother told it to me when I was your age.\" \"What is it,\" said Yui. Ojiisan settled himself. He was a good teller of stories, even though he did not tell many. He waited until the light in the garden went a little more golden. Then he began.",
+            "\"When someone in Otsu is very sad — really sad, so sad they cannot eat or sleep or think — a grey cat comes. She is not a normal cat. She has been in Otsu for many hundreds of years. She comes to the house of the sad person, and she sits on the wall of the garden, and she watches. She does not come inside, unless she is invited. If you notice her, and if you want her to stay, you leave a small dish of water on the porch. Then she stays for three days. She does not speak. She does not do anything special. She only sits with you.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"And then what,\" said Yui. \"Then, on the third day, she goes. She does not come back. Not for you. Not ever. She is only for one sadness. And the story is that when she is with you, the sadness is a little easier. Not gone. Just easier. As if there is someone else carrying part of it.\" Yui thought about this. She was ten and she did not always believe things people told her, but she also did not disbelieve them right away, because she knew she did not know everything yet.",
+            "\"Have you seen her,\" she said. Ojiisan smiled a small sad smile. \"Once,\" he said. \"When Baba died. She came the day after the funeral. She sat on that wall right there.\" He pointed. \"For three days. I put water out for her. On the third evening, she was gone. She did not eat the food I put out. I only saw her drink from the water twice, and only a little. But she stayed.\" Yui watched the wall. Nothing was on it. The garden was still. \"Do you think she was real,\" she said. Ojiisan did not answer for a long time. Then he said, \"I think it does not matter whether she was real. That is not the important part.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Second Day",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "gc-ch2-p1-morning",
+          "imagePrompt": "Mike Mignola style for children: morning scene, interior of the tatami room. A girl (Yui, 10) sits cross-legged on the mats next to an old shiba dog (Momo) who is lying on his blanket, awake but very still. She is stroking his head slowly. Warm morning light through a shoji screen. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The next morning Momo would not eat his breakfast. Yui put his food down in the bowl and he lifted his head and looked at it and put his head back down. Yui was not very worried at first. Momo did not eat some mornings. She sat with him and stroked his head, and he pushed his nose into her hand, and she thought maybe he would eat later.",
+            "But he did not eat later. He did not eat lunch either. And when Yui tried to take him for their afternoon walk, he stood up shakily and then he sat back down and looked at her, and there was something in his eyes that she had not seen before. Or maybe she had seen it and had not understood. She sat down next to him on the tatami and did not go for the walk. Ojiisan came in from the kitchen and looked at them and did not say anything for a long time. Then he said, \"Yui.\" And she said, \"I know, Ojiisan.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Momo died that night. Yui was lying on her futon in the small guest room, and Momo was on his blanket beside her, and she was awake with her hand on his side to feel him breathing. Sometime around midnight his breathing changed — became slower, and further apart, and thinner — and then it stopped. It was very quiet. He did not make any sound. He did not seem afraid. He just breathed slower and slower, and then he did not breathe. Yui kept her hand on him. She did not move for a long time. She was not crying yet. She thought maybe she was going to cry a lot later, but not yet.",
+            "After a while Ojiisan came in. She had not called him but he had heard her somehow, or he had known. He knelt down beside her and he put his hand on her back. He did not say anything. She said, \"He didn't hurt.\" \"No,\" said Ojiisan. \"He didn't hurt.\" \"He was old,\" she said. \"He was very old,\" said Ojiisan."
+          ]
+        },
+        {
+          "image": "gc-ch2-p3-burying",
+          "imagePrompt": "Mike Mignola style for children: morning scene in the small stone-and-moss garden behind the house. An older man (Ojiisan) has just finished digging a small hole in a corner of the garden. A girl (Yui, 10) is kneeling nearby holding a small wrapped bundle. She is not crying, but her face is very still. A soft grey morning light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the morning they buried Momo in the corner of the garden, under a small maple tree. Ojiisan did the digging. Yui carried the small bundle, which was Momo wrapped in his own blanket, and she put him in the hole herself, and then she stood back and Ojiisan filled it in slowly. Then he placed a smooth grey stone on top, the way his grandmother had done for the dog she had loved.",
+            "Yui did not cry until they had gone back inside. Then she sat at the low table with her hands flat on it and she cried, hard, for a long time. Ojiisan sat with her. He did not try to make her stop. He did not say things like \"he had a good life\" or \"you were a good friend to him,\" though both of these things were true. He only sat with her. Once he put his hand on the back of her hand. Once he refilled her tea. When she had cried herself into being tired, he made her a small bowl of rice and made her eat it. She ate it slowly, and it helped, though she could not have said why."
+          ]
+        },
+        {
+          "image": "gc-ch2-p4-wall",
+          "imagePrompt": "Mike Mignola style for children: view of the low stone wall at the back of the garden. On top of the wall sits a grey cat with dark ear markings and pale amber eyes, sitting perfectly still and looking calmly toward the porch. The garden is dappled in warm afternoon sunlight, empty otherwise. Heavy ink outlines, flat shadows, cream and sepia palette with cool grey cat.",
+          "paragraphs": [
+            "In the afternoon Yui went out to sit on the engawa. She sat where she had sat the first evening, and she looked at the corner of the garden where Momo was, under the maple, and she tried to feel him there. She was not sure she felt him. She was not sure what she felt. She sat for a long time.",
+            "And then she looked up and there was a cat on the wall. A grey cat. It was very still. It had dark markings on its ears and pale amber eyes, and it was sitting straight, facing her. She had not seen it come. She had not heard it. It was just there. Yui stared at it. The cat stared back. Not the way cats usually look at people — measuring, watchful — but the way an old person looks at another person. As if it saw her."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Yui got up very slowly and went into the house. Ojiisan was in the kitchen washing a small pan. She stood in the doorway. She said, \"Ojiisan. There is a grey cat on the wall.\" Ojiisan turned. He looked at her for a moment. Then he did something she did not expect. He smiled, softly, at nothing in particular. He put down the pan. He went to the small ceramic bowl he kept on the shelf by the door, and he filled it with water from the tap, and he handed it to her. \"Put it on the porch,\" he said. \"Where she can see you doing it.\"",
+            "Yui carried the bowl outside. The cat was still there. Yui set the bowl down on the wood of the porch, near the edge, in plain view. Then she stepped back. The cat watched her the whole time. Then Yui went back to her spot on the engawa and sat down. The cat did not come to the water. The cat did not move at all. It stayed on the wall, watching her. And Yui, without deciding to, began to talk to it. Quietly. About Momo. About the time she had gotten him as a puppy. About the way he used to run in circles when she came home from school. About small stupid things. The cat listened. The cat did not go."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Third Day",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "gc-ch3-p1-still-there",
+          "imagePrompt": "Mike Mignola style for children: early morning view of the garden wall with the grey cat still sitting in the same spot, calm and unmoved. Dew on the moss. A small ceramic bowl of water sits on the wooden porch below. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The cat was still there in the morning. It had not eaten. The bowl of water was slightly lower — Yui thought, maybe, it had drunk a little in the night. But the cat itself had not moved from the same spot on the wall. Its coat was slightly damp with dew. Its eyes were closed but it opened them when Yui came to the porch. It watched her.",
+            "Ojiisan came out and sat with her. \"She stayed,\" he said. Yui nodded. She did not know what to say about it. She had spent half the night thinking about whether the cat was real, whether she was making up how still it was, whether Ojiisan was doing it on purpose to make her feel better. But she had gotten up twice in the night to check, and both times the cat had been there. Still. Watching. Real."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "That was the second day. Yui did not do much. She sat on the engawa most of the day. She talked to the cat sometimes and did not talk to it sometimes. Ojiisan brought her tea. Yui went into the garden once, and knelt by Momo's stone, and put her hand on the ground. The cat watched her from the wall. Once, Yui almost went to it — to try to touch it, to see if it was warm. But she stopped herself. She thought it was not that kind of cat.",
+            "That night she slept better than she had expected to. When she woke up, the sun was already up, and she could hear a bird singing outside, and for one moment before she remembered everything she was almost happy. Then she remembered. She lay in her futon for a while. Then she got up and she went out to the engawa. The cat was still there. It looked, if she was being honest with herself, a little tired. But it was still there. That was the third morning."
+          ]
+        },
+        {
+          "image": "gc-ch3-p3-third-day",
+          "imagePrompt": "Mike Mignola style for children: afternoon on the porch. A girl (Yui, 10) sits cross-legged looking at the grey cat on the wall. Between them, the ceramic bowl of water. The garden is dappled in warm afternoon light. The girl is smiling just a little, softly. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She spent the third day differently. She had noticed, during the second day, that her sadness was still there — it had not gone away, it had not become smaller — but that something was different about carrying it. It was not resting all on her. It was as if some of it was on the wall, on the cat, and she could put a little of it there whenever she needed to. So on the third day she stopped guarding her sadness. She let it come and go. Sometimes she cried a little, and sometimes she did not. It felt allowed either way.",
+            "In the afternoon her mother called on Ojiisan's phone. Yui told her about Momo. She was worried her mother would try to come get her early, but her mother did not — she asked if Yui wanted to stay for the rest of the week, and Yui said yes, and her mother said okay. Yui did not tell her mother about the cat. She did not know how to. She thought maybe she would tell her someday, but not yet."
+          ]
+        },
+        {
+          "image": "gc-ch3-p4-evening",
+          "imagePrompt": "Mike Mignola style for children: evening scene. The wall in the garden is empty now. The ceramic bowl of water still sits on the porch. A girl (Yui, 10) is standing looking at the empty wall in the fading golden light. Her expression is quiet, calm. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That evening — the third evening — Yui was inside helping Ojiisan wash the dishes when she looked out the window and saw that the cat was not on the wall. She dried her hands and went out to the porch. The bowl of water was still there. The wall was empty. She stood there for a moment. Then she looked around the garden, in case the cat had come down. It had not. It was gone.",
+            "Yui stood on the porch for a long time. She was not sure what she felt. She was not surprised. Ojiisan had told her the story. She had known the cat would go. But she still stood on the porch for a while, looking at the empty wall, before she went back inside. The bowl of water she left where it was. She did not tell Ojiisan yet. She wanted to keep it for a moment longer."
+          ]
+        },
+        {
+          "image": "gc-ch3-p5-quiet",
+          "imagePrompt": "Mike Mignola style for children: night interior of the tatami room. An older man (Ojiisan, seventies) and a girl (Yui, 10) sit at the low table with two cups of tea. Between them the room is quiet, warmly lit by a small lantern. A folded blanket sits on the floor where the shiba used to lie, empty now. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Later, when they were sitting at the low table with tea, Yui said, \"She went, Ojiisan.\" Ojiisan set down his cup. He nodded. \"Yes,\" he said. \"That is how it works.\" Yui looked into her tea. She said, \"Was she real.\" Ojiisan was quiet for a long moment. Then he said, \"Yui. Do you feel better than you did two days ago.\" \"A little,\" said Yui. \"Not a lot. But a little.\" \"Then she was real,\" said Ojiisan.",
+            "Yui thought about that. She thought about it for the rest of the week. She thought about it on the train ride back to Kyoto. She thought about it when she got home and Momo's blanket and food dish were still in the corner of the kitchen, and she cried again, alone, in her room. She thought about it years later, when she was grown, and other people she loved had died, and she had sat with those sadnesses too. And she came to understand what Ojiisan had meant. The cat was real because the sitting was real. That was the whole thing. Someone had sat with her. That was what mattered.",
+            "Every time she thought this, she also thought about the day, weeks after she had come back from Otsu, when she saw a grey cat on the wall of a neighbor's house in Kyoto — a completely ordinary neighborhood cat, not hers, not the same one. And she remembered noticing that she had smiled a little at it. And she had thought, oh, hello. Not you. But hello."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "grief",
+    "japan",
+    "grandfather",
+    "pet",
+    "legend"
+  ]
+}

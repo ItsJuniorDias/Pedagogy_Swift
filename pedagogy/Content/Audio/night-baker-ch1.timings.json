@@ -1,0 +1,619 @@
+{
+  "story_id": "night-baker",
+  "chapter": 1,
+  "total_duration_ms": 318816,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Ana lived with her mother in a small apartment on the second floor of an old yellow-painted building in Alfama, the oldest neighborhood in Lisbon.",
+      "start_ms": 2046,
+      "end_ms": 10890
+    },
+    {
+      "index": 1,
+      "text": "The alley in front of their building was so narrow that if Ana stood at the window and reached out, she could almost touch the building across the way.",
+      "start_ms": 10890,
+      "end_ms": 20034
+    },
+    {
+      "index": 2,
+      "text": "The apartment had two rooms and a small balcony where her mother grew basil in a plastic pot.",
+      "start_ms": 20034,
+      "end_ms": 25690
+    },
+    {
+      "index": 3,
+      "text": "It was Ana's whole world.",
+      "start_ms": 25690,
+      "end_ms": 27254
+    },
+    {
+      "index": 4,
+      "text": "She was ten.",
+      "start_ms": 27254,
+      "end_ms": 28036
+    },
+    {
+      "index": 5,
+      "text": "She had lived there her whole life.",
+      "start_ms": 28036,
+      "end_ms": 30262
+    },
+    {
+      "index": 6,
+      "text": "Her mother worked as a nurse at a hospital across the river.",
+      "start_ms": 30262,
+      "end_ms": 33932
+    },
+    {
+      "index": 7,
+      "text": "Her mother's shifts were long and often at strange hours, and sometimes she came home very late, and sometimes she was already asleep when Ana woke up.",
+      "start_ms": 33932,
+      "end_ms": 43077
+    },
+    {
+      "index": 8,
+      "text": "Ana knew how to make her own breakfast and her own supper, and she was not afraid of being alone.",
+      "start_ms": 43077,
+      "end_ms": 48973
+    },
+    {
+      "index": 9,
+      "text": "But she had not been sleeping well that autumn.",
+      "start_ms": 48973,
+      "end_ms": 51861
+    },
+    {
+      "index": 10,
+      "text": "She would fall asleep, and then wake up at one or two in the morning, and lie there for a long time in the dark, and finally get up and get a glass of water from the kitchen.",
+      "start_ms": 51861,
+      "end_ms": 62390
+    },
+    {
+      "index": 11,
+      "text": "That was what happened on the Tuesday night in October when this story starts.",
+      "start_ms": 62390,
+      "end_ms": 67203
+    },
+    {
+      "index": 12,
+      "text": "That night Ana got up at 2:47 in the morning.",
+      "start_ms": 67203,
+      "end_ms": 69970
+    },
+    {
+      "index": 13,
+      "text": "She checked her phone.",
+      "start_ms": 69970,
+      "end_ms": 71354
+    },
+    {
+      "index": 14,
+      "text": "Her mother was still at the hospital.",
+      "start_ms": 71354,
+      "end_ms": 73640
+    },
+    {
+      "index": 15,
+      "text": "She would not be home until seven.",
+      "start_ms": 73640,
+      "end_ms": 75746
+    },
+    {
+      "index": 16,
+      "text": "Ana drank her water and stood at the kitchen window, which faced down at the alley, and looked out for a while.",
+      "start_ms": 75746,
+      "end_ms": 82484
+    },
+    {
+      "index": 17,
+      "text": "It was almost completely dark.",
+      "start_ms": 82484,
+      "end_ms": 84349
+    },
+    {
+      "index": 18,
+      "text": "There was one dim streetlamp at the far end of the alley.",
+      "start_ms": 84349,
+      "end_ms": 87839
+    },
+    {
+      "index": 19,
+      "text": "Everything was quiet.",
+      "start_ms": 87839,
+      "end_ms": 89162
+    },
+    {
+      "index": 20,
+      "text": "Alfama was mostly quiet at three in the morning, which was one of the strange things about a city that everyone thought never slept.",
+      "start_ms": 89162,
+      "end_ms": 97104
+    },
+    {
+      "index": 21,
+      "text": "But directly below her window, in the ground floor of her own building, there was a warm gold light coming out of the small window of the bakery.",
+      "start_ms": 97104,
+      "end_ms": 105509
+    },
+    {
+      "index": 22,
+      "text": "Ana knew the bakery.",
+      "start_ms": 105509,
+      "end_ms": 106718
+    },
+    {
+      "index": 23,
+      "text": "It had been there her whole life.",
+      "start_ms": 106718,
+      "end_ms": 108675
+    },
+    {
+      "index": 24,
+      "text": "It was called Padaria Mendes.",
+      "start_ms": 108675,
+      "end_ms": 110402
+    },
+    {
+      "index": 25,
+      "text": "It sold small round breads and custard tarts and coffee, and it opened at seven in the morning and closed at three in the afternoon.",
+      "start_ms": 110402,
+      "end_ms": 118059
+    },
+    {
+      "index": 26,
+      "text": "Ana had walked past it a thousand times.",
+      "start_ms": 118059,
+      "end_ms": 120419
+    },
+    {
+      "index": 27,
+      "text": "She had never seen it open at any other hour.",
+      "start_ms": 120419,
+      "end_ms": 123068
+    },
+    {
+      "index": 28,
+      "text": "Never once.",
+      "start_ms": 123068,
+      "end_ms": 123758
+    },
+    {
+      "index": 29,
+      "text": "But now, at three in the morning, the light was on.",
+      "start_ms": 123758,
+      "end_ms": 126752
+    },
+    {
+      "index": 30,
+      "text": "She could see, through the window, the shape of a person moving inside.",
+      "start_ms": 126752,
+      "end_ms": 130955
+    },
+    {
+      "index": 31,
+      "text": "Ana thought about it for maybe ten minutes.",
+      "start_ms": 130955,
+      "end_ms": 133488
+    },
+    {
+      "index": 32,
+      "text": "She was not supposed to leave the apartment alone at night.",
+      "start_ms": 133488,
+      "end_ms": 136942
+    },
+    {
+      "index": 33,
+      "text": "Her mother had told her this many times.",
+      "start_ms": 136942,
+      "end_ms": 139302
+    },
+    {
+      "index": 34,
+      "text": "But the bakery was right underneath her — one flight of stairs, five meters of cobblestone, and she would be at the door.",
+      "start_ms": 139302,
+      "end_ms": 146325
+    },
+    {
+      "index": 35,
+      "text": "She could see it from her own window.",
+      "start_ms": 146325,
+      "end_ms": 148513
+    },
+    {
+      "index": 36,
+      "text": "It was not really going out.",
+      "start_ms": 148513,
+      "end_ms": 150183
+    },
+    {
+      "index": 37,
+      "text": "Not exactly.",
+      "start_ms": 150183,
+      "end_ms": 150989
+    },
+    {
+      "index": 38,
+      "text": "She put on her cardigan and her slippers.",
+      "start_ms": 150989,
+      "end_ms": 153406
+    },
+    {
+      "index": 39,
+      "text": "She went down the stairs very quietly.",
+      "start_ms": 153406,
+      "end_ms": 155652
+    },
+    {
+      "index": 40,
+      "text": "The building was completely silent.",
+      "start_ms": 155652,
+      "end_ms": 157724
+    },
+    {
+      "index": 41,
+      "text": "She unlocked the front door of the building and stepped out into the cool alley.",
+      "start_ms": 157724,
+      "end_ms": 162387
+    },
+    {
+      "index": 42,
+      "text": "She walked the five steps to the bakery window.",
+      "start_ms": 162387,
+      "end_ms": 165150
+    },
+    {
+      "index": 43,
+      "text": "She pressed her face against the glass.",
+      "start_ms": 165150,
+      "end_ms": 167453
+    },
+    {
+      "index": 44,
+      "text": "Inside, an old man with white hair and a flour-dusted apron was kneading a large round of dough on a wooden work surface.",
+      "start_ms": 167453,
+      "end_ms": 174477
+    },
+    {
+      "index": 45,
+      "text": "He did not see her at first.",
+      "start_ms": 174477,
+      "end_ms": 176146
+    },
+    {
+      "index": 46,
+      "text": "She stood there for a while.",
+      "start_ms": 176146,
+      "end_ms": 177816
+    },
+    {
+      "index": 47,
+      "text": "Then he looked up, and he saw her, and he smiled a small tired smile, and he beckoned her in.",
+      "start_ms": 177816,
+      "end_ms": 183227
+    },
+    {
+      "index": 48,
+      "text": "She was surprised at how not-surprised he seemed.",
+      "start_ms": 183227,
+      "end_ms": 186048
+    },
+    {
+      "index": 49,
+      "text": "The bakery inside smelled like the best thing Ana had ever smelled.",
+      "start_ms": 186048,
+      "end_ms": 190262
+    },
+    {
+      "index": 50,
+      "text": "Warm flour and yeast and something like burnt sugar.",
+      "start_ms": 190262,
+      "end_ms": 193546
+    },
+    {
+      "index": 51,
+      "text": "The old man kept working.",
+      "start_ms": 193546,
+      "end_ms": 195157
+    },
+    {
+      "index": 52,
+      "text": "He said, in a gentle voice, \"Come in, come in.",
+      "start_ms": 195157,
+      "end_ms": 198069
+    },
+    {
+      "index": 53,
+      "text": "Close the door.",
+      "start_ms": 198069,
+      "end_ms": 199060
+    },
+    {
+      "index": 54,
+      "text": "It gets cold.",
+      "start_ms": 199060,
+      "end_ms": 199928
+    },
+    {
+      "index": 55,
+      "text": "Are you the girl from upstairs.\" Ana nodded.",
+      "start_ms": 199928,
+      "end_ms": 202716
+    },
+    {
+      "index": 56,
+      "text": "She said, \"I am Ana.",
+      "start_ms": 202716,
+      "end_ms": 204018
+    },
+    {
+      "index": 57,
+      "text": "I live on the second floor.\" \"Ana,\" said the old man.",
+      "start_ms": 204018,
+      "end_ms": 207364
+    },
+    {
+      "index": 58,
+      "text": "\"I am Senhor Mendes.",
+      "start_ms": 207364,
+      "end_ms": 208665
+    },
+    {
+      "index": 59,
+      "text": "I know your mother.",
+      "start_ms": 208665,
+      "end_ms": 209904
+    },
+    {
+      "index": 60,
+      "text": "She has bought bread from me for many years.",
+      "start_ms": 209904,
+      "end_ms": 212693
+    },
+    {
+      "index": 61,
+      "text": "You have bought bread from me too, when you were smaller.",
+      "start_ms": 212693,
+      "end_ms": 216287
+    },
+    {
+      "index": 62,
+      "text": "I remember when you could barely see over this counter.\"",
+      "start_ms": 216287,
+      "end_ms": 219880
+    },
+    {
+      "index": 63,
+      "text": "Ana did remember Senhor Mendes now.",
+      "start_ms": 219880,
+      "end_ms": 222111
+    },
+    {
+      "index": 64,
+      "text": "He was the man who sold her the pão when she came in after school.",
+      "start_ms": 222111,
+      "end_ms": 226263
+    },
+    {
+      "index": 65,
+      "text": "But she had never really looked at him.",
+      "start_ms": 226263,
+      "end_ms": 228741
+    },
+    {
+      "index": 66,
+      "text": "He had just been the bakery man.",
+      "start_ms": 228741,
+      "end_ms": 230786
+    },
+    {
+      "index": 67,
+      "text": "Now she looked at him.",
+      "start_ms": 230786,
+      "end_ms": 232211
+    },
+    {
+      "index": 68,
+      "text": "He was older than she had realized.",
+      "start_ms": 232211,
+      "end_ms": 234442
+    },
+    {
+      "index": 69,
+      "text": "His hands were very big and very red at the knuckles, and there was flour up to his elbows.",
+      "start_ms": 234442,
+      "end_ms": 240143
+    },
+    {
+      "index": 70,
+      "text": "His eyes were kind but they were also tired.",
+      "start_ms": 240143,
+      "end_ms": 242931
+    },
+    {
+      "index": 71,
+      "text": "Very tired.",
+      "start_ms": 242931,
+      "end_ms": 243737
+    },
+    {
+      "index": 72,
+      "text": "\"Why are you awake,\" said Senhor Mendes.",
+      "start_ms": 243737,
+      "end_ms": 246277
+    },
+    {
+      "index": 73,
+      "text": "Ana said, \"I do not sleep very well.",
+      "start_ms": 246277,
+      "end_ms": 248570
+    },
+    {
+      "index": 74,
+      "text": "I saw your light.",
+      "start_ms": 248570,
+      "end_ms": 249685
+    },
+    {
+      "index": 75,
+      "text": "I did not know the bakery was open at night.\" Senhor Mendes smiled.",
+      "start_ms": 249685,
+      "end_ms": 253899
+    },
+    {
+      "index": 76,
+      "text": "\"It is not open,\" he said.",
+      "start_ms": 253899,
+      "end_ms": 255572
+    },
+    {
+      "index": 77,
+      "text": "\"Not to customers.",
+      "start_ms": 255572,
+      "end_ms": 256749
+    },
+    {
+      "index": 78,
+      "text": "But every day at midnight, I come in and I start.",
+      "start_ms": 256749,
+      "end_ms": 259847
+    },
+    {
+      "index": 79,
+      "text": "I have been doing this for fifty-one years.",
+      "start_ms": 259847,
+      "end_ms": 262574
+    },
+    {
+      "index": 80,
+      "text": "The bread we sell in the morning starts at midnight.",
+      "start_ms": 262574,
+      "end_ms": 265858
+    },
+    {
+      "index": 81,
+      "text": "All night I work.",
+      "start_ms": 265858,
+      "end_ms": 266973
+    },
+    {
+      "index": 82,
+      "text": "All night.",
+      "start_ms": 266973,
+      "end_ms": 267655
+    },
+    {
+      "index": 83,
+      "text": "Then at six in the morning the first customers come and I open the door, and by three in the afternoon I am done, and I go home and sleep.",
+      "start_ms": 267655,
+      "end_ms": 276268
+    },
+    {
+      "index": 84,
+      "text": "Then at midnight I come back.",
+      "start_ms": 276268,
+      "end_ms": 278127
+    },
+    {
+      "index": 85,
+      "text": "That has been my life.\"",
+      "start_ms": 278127,
+      "end_ms": 279552
+    },
+    {
+      "index": 86,
+      "text": "\"That is a strange life,\" Ana said.",
+      "start_ms": 279552,
+      "end_ms": 282058
+    },
+    {
+      "index": 87,
+      "text": "She said it without thinking.",
+      "start_ms": 282058,
+      "end_ms": 284147
+    },
+    {
+      "index": 88,
+      "text": "She was worried immediately that she had been rude.",
+      "start_ms": 284147,
+      "end_ms": 287767
+    },
+    {
+      "index": 89,
+      "text": "But Senhor Mendes laughed.",
+      "start_ms": 287767,
+      "end_ms": 289646
+    },
+    {
+      "index": 90,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 289646,
+      "end_ms": 290760
+    },
+    {
+      "index": 91,
+      "text": "\"It is a strange life.",
+      "start_ms": 290760,
+      "end_ms": 292362
+    },
+    {
+      "index": 92,
+      "text": "Very strange.",
+      "start_ms": 292362,
+      "end_ms": 293336
+    },
+    {
+      "index": 93,
+      "text": "I do not know many people who work at night.",
+      "start_ms": 293336,
+      "end_ms": 296469
+    },
+    {
+      "index": 94,
+      "text": "But someone has to make the bread.",
+      "start_ms": 296469,
+      "end_ms": 298906
+    },
+    {
+      "index": 95,
+      "text": "It cannot happen while everyone else is awake.",
+      "start_ms": 298906,
+      "end_ms": 302178
+    },
+    {
+      "index": 96,
+      "text": "There is not time.",
+      "start_ms": 302178,
+      "end_ms": 303500
+    },
+    {
+      "index": 97,
+      "text": "So — I do it.",
+      "start_ms": 303500,
+      "end_ms": 304475
+    },
+    {
+      "index": 98,
+      "text": "You get used to being awake at night.",
+      "start_ms": 304475,
+      "end_ms": 307120
+    },
+    {
+      "index": 99,
+      "text": "There is a certain calm to it.",
+      "start_ms": 307120,
+      "end_ms": 309278
+    },
+    {
+      "index": 100,
+      "text": "You should feel this calm, since you are also awake at three in the morning.",
+      "start_ms": 309278,
+      "end_ms": 314639
+    },
+    {
+      "index": 101,
+      "text": "This is when we know things that people asleep do not know.\"",
+      "start_ms": 314639,
+      "end_ms": 318816
+    }
+  ]
+}

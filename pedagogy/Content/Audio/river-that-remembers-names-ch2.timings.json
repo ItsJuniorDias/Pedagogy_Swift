@@ -1,0 +1,667 @@
+{
+  "story_id": "river-that-remembers-names",
+  "chapter": 2,
+  "total_duration_ms": 325296,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The next three days, Vovó Marisel taught Iracema the names.",
+      "start_ms": 1396,
+      "end_ms": 5204
+    },
+    {
+      "index": 1,
+      "text": "She had a very old handwritten notebook that she had kept for maybe fifty years.",
+      "start_ms": 5204,
+      "end_ms": 10345
+    },
+    {
+      "index": 2,
+      "text": "In it were the names — many names.",
+      "start_ms": 10345,
+      "end_ms": 12566
+    },
+    {
+      "index": 3,
+      "text": "Written in careful old handwriting.",
+      "start_ms": 12566,
+      "end_ms": 14851
+    },
+    {
+      "index": 4,
+      "text": "Iracema read them one by one with her grandmother.",
+      "start_ms": 14851,
+      "end_ms": 18087
+    },
+    {
+      "index": 5,
+      "text": "Vovó would read a name aloud in Nheengatu, or in old Portuguese, or in a mixed way.",
+      "start_ms": 18087,
+      "end_ms": 23418
+    },
+    {
+      "index": 6,
+      "text": "Then she would read another.",
+      "start_ms": 23418,
+      "end_ms": 25259
+    },
+    {
+      "index": 7,
+      "text": "Then another.",
+      "start_ms": 25259,
+      "end_ms": 26147
+    },
+    {
+      "index": 8,
+      "text": "Iracema listened.",
+      "start_ms": 26147,
+      "end_ms": 27290
+    },
+    {
+      "index": 9,
+      "text": "Sometimes she asked who a person had been.",
+      "start_ms": 27290,
+      "end_ms": 30019
+    },
+    {
+      "index": 10,
+      "text": "Sometimes Vovó knew.",
+      "start_ms": 30019,
+      "end_ms": 31351
+    },
+    {
+      "index": 11,
+      "text": "Sometimes she said, \"Nobody knows anymore.",
+      "start_ms": 31351,
+      "end_ms": 34080
+    },
+    {
+      "index": 12,
+      "text": "But she was one of us.",
+      "start_ms": 34080,
+      "end_ms": 35540
+    },
+    {
+      "index": 13,
+      "text": "That is enough.\"",
+      "start_ms": 35540,
+      "end_ms": 36682
+    },
+    {
+      "index": 14,
+      "text": "The list was about — Vovó counted — eighty names.",
+      "start_ms": 36682,
+      "end_ms": 39856
+    },
+    {
+      "index": 15,
+      "text": "Going back to a woman named Bartolomea, who had died in 1802.",
+      "start_ms": 39856,
+      "end_ms": 43790
+    },
+    {
+      "index": 16,
+      "text": "Vovó said, \"My mother said we do not know if there were names before Bartolomea.",
+      "start_ms": 43790,
+      "end_ms": 48931
+    },
+    {
+      "index": 17,
+      "text": "Maybe there were.",
+      "start_ms": 48931,
+      "end_ms": 50073
+    },
+    {
+      "index": 18,
+      "text": "Someone forgot.",
+      "start_ms": 50073,
+      "end_ms": 51089
+    },
+    {
+      "index": 19,
+      "text": "But from Bartolomea onward, the names have been kept.",
+      "start_ms": 51089,
+      "end_ms": 54516
+    },
+    {
+      "index": 20,
+      "text": "That is a long time.\"",
+      "start_ms": 54516,
+      "end_ms": 55976
+    },
+    {
+      "index": 21,
+      "text": "\"Vovó,\" said Iracema, on the second afternoon.",
+      "start_ms": 55976,
+      "end_ms": 58958
+    },
+    {
+      "index": 22,
+      "text": "\"Who taught this to Bartolomea.",
+      "start_ms": 58958,
+      "end_ms": 60989
+    },
+    {
+      "index": 23,
+      "text": "Where did the ceremony come from.\" Vovó thought.",
+      "start_ms": 60989,
+      "end_ms": 64099
+    },
+    {
+      "index": 24,
+      "text": "She said, \"My mother said the ceremony came from the caboclo people of this region.",
+      "start_ms": 64099,
+      "end_ms": 69430
+    },
+    {
+      "index": 25,
+      "text": "It is a mix — some of it is from the indigenous people whose river this always was, before the Portuguese came, and some of it is from what the Portuguese brought.",
+      "start_ms": 69430,
+      "end_ms": 79838
+    },
+    {
+      "index": 26,
+      "text": "It is a mix.",
+      "start_ms": 79838,
+      "end_ms": 80663
+    },
+    {
+      "index": 27,
+      "text": "But — the going out on the river, and saying the names, and letting the water carry them — that part is very old.",
+      "start_ms": 80663,
+      "end_ms": 87898
+    },
+    {
+      "index": 28,
+      "text": "That part is from the people who were here first.",
+      "start_ms": 87898,
+      "end_ms": 91071
+    },
+    {
+      "index": 29,
+      "text": "That is what my mother told me.",
+      "start_ms": 91071,
+      "end_ms": 93102
+    },
+    {
+      "index": 30,
+      "text": "The Portuguese part is only the way we say them.",
+      "start_ms": 93102,
+      "end_ms": 96212
+    },
+    {
+      "index": 31,
+      "text": "Some of the names on the list are Portuguese names.",
+      "start_ms": 96212,
+      "end_ms": 99512
+    },
+    {
+      "index": 32,
+      "text": "Some of the names are indigenous names.",
+      "start_ms": 99512,
+      "end_ms": 102051
+    },
+    {
+      "index": 33,
+      "text": "Some of them are mixed.",
+      "start_ms": 102051,
+      "end_ms": 103574
+    },
+    {
+      "index": 34,
+      "text": "Like us.\"",
+      "start_ms": 103574,
+      "end_ms": 104272
+    },
+    {
+      "index": 35,
+      "text": "Iracema thought about this.",
+      "start_ms": 104272,
+      "end_ms": 106049
+    },
+    {
+      "index": 36,
+      "text": "She thought about the fact that her name — Iracema — was an old indigenous name that a nineteenth-century Portuguese poet had used in a novel.",
+      "start_ms": 106049,
+      "end_ms": 115124
+    },
+    {
+      "index": 37,
+      "text": "She thought about how many people were going to say her name one day in a river, if she was lucky.",
+      "start_ms": 115124,
+      "end_ms": 121344
+    },
+    {
+      "index": 38,
+      "text": "On the third evening, Vovó told Iracema it was time for her to write down her own names.",
+      "start_ms": 121344,
+      "end_ms": 126513
+    },
+    {
+      "index": 39,
+      "text": "Not for memorization.",
+      "start_ms": 126513,
+      "end_ms": 127791
+    },
+    {
+      "index": 40,
+      "text": "Just — for herself.",
+      "start_ms": 127791,
+      "end_ms": 128953
+    },
+    {
+      "index": 41,
+      "text": "For Iracema to think about who she wanted to add to the ceremony on Saturday night.",
+      "start_ms": 128953,
+      "end_ms": 133831
+    },
+    {
+      "index": 42,
+      "text": "Iracema sat at the small kitchen table with a piece of paper and a pencil.",
+      "start_ms": 133831,
+      "end_ms": 138187
+    },
+    {
+      "index": 43,
+      "text": "She thought for a long time.",
+      "start_ms": 138187,
+      "end_ms": 139872
+    },
+    {
+      "index": 44,
+      "text": "She thought about her father — her biological father — who had died in a motorcycle accident when she was four.",
+      "start_ms": 139872,
+      "end_ms": 146377
+    },
+    {
+      "index": 45,
+      "text": "She barely remembered him.",
+      "start_ms": 146377,
+      "end_ms": 147945
+    },
+    {
+      "index": 46,
+      "text": "Her name was on the list because of him — she had been named after his mother.",
+      "start_ms": 147945,
+      "end_ms": 152533
+    },
+    {
+      "index": 47,
+      "text": "She would say his name.",
+      "start_ms": 152533,
+      "end_ms": 153927
+    },
+    {
+      "index": 48,
+      "text": "She wrote: Vitor Damasceno da Silva.",
+      "start_ms": 153927,
+      "end_ms": 156135
+    },
+    {
+      "index": 49,
+      "text": "She thought about her mother's cousin, a woman named Tia Rosa, who had been like an aunt to Iracema when she was small, and who had died two years ago of cancer.",
+      "start_ms": 156135,
+      "end_ms": 165544
+    },
+    {
+      "index": 50,
+      "text": "She would say her name.",
+      "start_ms": 165544,
+      "end_ms": 166938
+    },
+    {
+      "index": 51,
+      "text": "She wrote: Rosa Aparecida Ferreira.",
+      "start_ms": 166938,
+      "end_ms": 169028
+    },
+    {
+      "index": 52,
+      "text": "She thought for a long time.",
+      "start_ms": 169028,
+      "end_ms": 170713
+    },
+    {
+      "index": 53,
+      "text": "She thought about a small friend from her school in Manaus — a boy named Guilherme who had been in her class in the first grade, and who had drowned in a swimming accident that same year.",
+      "start_ms": 170713,
+      "end_ms": 181632
+    },
+    {
+      "index": 54,
+      "text": "Iracema had not been close to him, but she had been in the classroom with him for six months, and she had been present in the school that day when the news had come, and she had never really forgotten.",
+      "start_ms": 181632,
+      "end_ms": 193364
+    },
+    {
+      "index": 55,
+      "text": "She wrote his name too: Guilherme Ferreira dos Santos.",
+      "start_ms": 193364,
+      "end_ms": 196617
+    },
+    {
+      "index": 56,
+      "text": "She looked at the three names for a long time.",
+      "start_ms": 196617,
+      "end_ms": 199347
+    },
+    {
+      "index": 57,
+      "text": "She thought — is that too many.",
+      "start_ms": 199347,
+      "end_ms": 201205
+    },
+    {
+      "index": 58,
+      "text": "She showed the list to Vovó.",
+      "start_ms": 201205,
+      "end_ms": 202890
+    },
+    {
+      "index": 59,
+      "text": "She said, \"Vovó.",
+      "start_ms": 202890,
+      "end_ms": 203877
+    },
+    {
+      "index": 60,
+      "text": "Is three too many.",
+      "start_ms": 203877,
+      "end_ms": 204981
+    },
+    {
+      "index": 61,
+      "text": "For a first time.\" Vovó looked at the list.",
+      "start_ms": 204981,
+      "end_ms": 207536
+    },
+    {
+      "index": 62,
+      "text": "She said, \"No.",
+      "start_ms": 207536,
+      "end_ms": 208407
+    },
+    {
+      "index": 63,
+      "text": "Three is a good number.",
+      "start_ms": 208407,
+      "end_ms": 209801
+    },
+    {
+      "index": 64,
+      "text": "You knew them all.",
+      "start_ms": 209801,
+      "end_ms": 210905
+    },
+    {
+      "index": 65,
+      "text": "They deserve to be spoken.\" She was quiet for a moment.",
+      "start_ms": 210905,
+      "end_ms": 214157
+    },
+    {
+      "index": 66,
+      "text": "Then she said, \"Iracema.",
+      "start_ms": 214157,
+      "end_ms": 215609
+    },
+    {
+      "index": 67,
+      "text": "I want to tell you something.",
+      "start_ms": 215609,
+      "end_ms": 217352
+    },
+    {
+      "index": 68,
+      "text": "Some of the women in our family have added one name a year.",
+      "start_ms": 217352,
+      "end_ms": 220837
+    },
+    {
+      "index": 69,
+      "text": "Some have added no names in some years and many in others.",
+      "start_ms": 220837,
+      "end_ms": 224263
+    },
+    {
+      "index": 70,
+      "text": "There is no rule.",
+      "start_ms": 224263,
+      "end_ms": 225309
+    },
+    {
+      "index": 71,
+      "text": "It is not about numbers.",
+      "start_ms": 225309,
+      "end_ms": 226761
+    },
+    {
+      "index": 72,
+      "text": "It is about — the people you knew who are gone.",
+      "start_ms": 226761,
+      "end_ms": 229549
+    },
+    {
+      "index": 73,
+      "text": "Whoever you want to name, you name.",
+      "start_ms": 229549,
+      "end_ms": 231640
+    },
+    {
+      "index": 74,
+      "text": "Whoever you do not want to name, you do not.",
+      "start_ms": 231640,
+      "end_ms": 234253
+    },
+    {
+      "index": 75,
+      "text": "It is completely your decision.\"",
+      "start_ms": 234253,
+      "end_ms": 236112
+    },
+    {
+      "index": 76,
+      "text": "\"But,\" said Vovó, \"once you have said a name, that name is on the family list from then on.",
+      "start_ms": 236112,
+      "end_ms": 241637
+    },
+    {
+      "index": 77,
+      "text": "Do you understand?",
+      "start_ms": 241637,
+      "end_ms": 242778
+    },
+    {
+      "index": 78,
+      "text": "If you say Vitor Damasceno tomorrow night, next year — and every year — you or someone else has to say Vitor Damasceno.",
+      "start_ms": 242778,
+      "end_ms": 249985
+    },
+    {
+      "index": 79,
+      "text": "He is now on our list.",
+      "start_ms": 249985,
+      "end_ms": 251366
+    },
+    {
+      "index": 80,
+      "text": "Forever.",
+      "start_ms": 251366,
+      "end_ms": 251907
+    },
+    {
+      "index": 81,
+      "text": "That is how the list grows.",
+      "start_ms": 251907,
+      "end_ms": 253588
+    },
+    {
+      "index": 82,
+      "text": "So — think carefully.",
+      "start_ms": 253588,
+      "end_ms": 254910
+    },
+    {
+      "index": 83,
+      "text": "Not because you should not say him.",
+      "start_ms": 254910,
+      "end_ms": 257072
+    },
+    {
+      "index": 84,
+      "text": "But because — you are committing your family to remember him.",
+      "start_ms": 257072,
+      "end_ms": 260795
+    },
+    {
+      "index": 85,
+      "text": "Do you understand?\" Iracema said, \"Yes.",
+      "start_ms": 260795,
+      "end_ms": 263198
+    },
+    {
+      "index": 86,
+      "text": "I understand.",
+      "start_ms": 263198,
+      "end_ms": 264038
+    },
+    {
+      "index": 87,
+      "text": "I still want to say all three.\"",
+      "start_ms": 264038,
+      "end_ms": 266020
+    },
+    {
+      "index": 88,
+      "text": "Saturday came.",
+      "start_ms": 266020,
+      "end_ms": 266921
+    },
+    {
+      "index": 89,
+      "text": "Two other women arrived at Vovó's house in the afternoon.",
+      "start_ms": 266921,
+      "end_ms": 270404
+    },
+    {
+      "index": 90,
+      "text": "Both were women from the village.",
+      "start_ms": 270404,
+      "end_ms": 272446
+    },
+    {
+      "index": 91,
+      "text": "Vovó Nazaré, who was seventy-two and lived at the far end of the village, and Tia Gilda, who was forty-two and was actually Vovó's godchild — a woman Vovó had helped raise after Tia Gilda's mother had died.",
+      "start_ms": 272446,
+      "end_ms": 284878
+    },
+    {
+      "index": 92,
+      "text": "All three of them were part of the small ceremony.",
+      "start_ms": 284878,
+      "end_ms": 287941
+    },
+    {
+      "index": 93,
+      "text": "Iracema knew them both.",
+      "start_ms": 287941,
+      "end_ms": 289382
+    },
+    {
+      "index": 94,
+      "text": "She had seen them all her life.",
+      "start_ms": 289382,
+      "end_ms": 291304
+    },
+    {
+      "index": 95,
+      "text": "They greeted her warmly.",
+      "start_ms": 291304,
+      "end_ms": 292805
+    },
+    {
+      "index": 96,
+      "text": "Tia Gilda said, \"Marisel told me you were coming this year.",
+      "start_ms": 292805,
+      "end_ms": 296409
+    },
+    {
+      "index": 97,
+      "text": "I am glad.",
+      "start_ms": 296409,
+      "end_ms": 297069
+    },
+    {
+      "index": 98,
+      "text": "I was ten when I first came too.",
+      "start_ms": 297069,
+      "end_ms": 299051
+    },
+    {
+      "index": 99,
+      "text": "Do not worry.",
+      "start_ms": 299051,
+      "end_ms": 299892
+    },
+    {
+      "index": 100,
+      "text": "It is not scary.",
+      "start_ms": 299892,
+      "end_ms": 300913
+    },
+    {
+      "index": 101,
+      "text": "It is beautiful.\"",
+      "start_ms": 300913,
+      "end_ms": 302054
+    },
+    {
+      "index": 102,
+      "text": "They dressed simply — dark clothes, nothing bright.",
+      "start_ms": 302054,
+      "end_ms": 305177
+    },
+    {
+      "index": 103,
+      "text": "They ate a small supper together.",
+      "start_ms": 305177,
+      "end_ms": 307219
+    },
+    {
+      "index": 104,
+      "text": "They talked quietly, mostly about small things — the state of the river this year, some village news, the price of cassava flour.",
+      "start_ms": 307219,
+      "end_ms": 315026
+    },
+    {
+      "index": 105,
+      "text": "Iracema listened.",
+      "start_ms": 315026,
+      "end_ms": 316107
+    },
+    {
+      "index": 106,
+      "text": "She was calm.",
+      "start_ms": 316107,
+      "end_ms": 316948
+    },
+    {
+      "index": 107,
+      "text": "She did not feel nervous.",
+      "start_ms": 316948,
+      "end_ms": 318510
+    },
+    {
+      "index": 108,
+      "text": "She felt — she thought — she felt like she was becoming part of something.",
+      "start_ms": 318510,
+      "end_ms": 323014
+    },
+    {
+      "index": 109,
+      "text": "She had never really felt that before.",
+      "start_ms": 323014,
+      "end_ms": 325296
+    }
+  ]
+}

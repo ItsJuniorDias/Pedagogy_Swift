@@ -1,0 +1,167 @@
+{
+  "id": "cartographers-boy",
+  "title": "The Cartographer's Boy",
+  "subtitle": "Five Days at Cape Wrath",
+  "author": null,
+  "summary": "Ben is twelve, and his mother has arranged for him to spend a week walking the far north coast of Scotland with a cartographer named Fraser Gunn — a family friend she has not seen in twenty years. Fraser is thirty-five and does not say much, and Ben does not know what to make of him. Over five days of walking with almost no talking, Ben learns something new about paying attention to the world.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-cartographers-boy-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 12-year-old boy (Ben) with sandy short hair, wearing a heavy waterproof coat and hiking boots, walking behind a taller man (Fraser, mid-thirties, dark hair, dark beard, weathered face, waxed-canvas jacket) along a narrow footpath on a wild empty coastal moorland in far northwest Scotland. Ahead of them: cliffs falling to a grey sea, a small white lighthouse in the far distance on the highest point. The moor stretches away in every direction: heather, wet grass, low cloud passing. Fraser holds a small notebook and pencil, and points at something ahead. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0), muted heather purples and greens, deep ink outlines, cool sea grey, small dusty rose (#FF5B8D) accent on his cheeks. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2027-02-18",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Man at the Ferry",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cb-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a very small stone slipway on a sea loch in the far north of Scotland. A small passenger ferry (an open-decked motorboat) has just arrived. A boy (Ben, 12, backpack, waterproof coat) is stepping onto the slipway. Waiting on the shore: a tall man in his mid-thirties (Fraser, dark hair, dark beard, waxed jacket) with a smaller pack and a border collie by his side. Grey afternoon light. Heavy black ink outlines, flat shadows, cream palette with cool grey water and muted greens.",
+          "paragraphs": [
+            "Ben got off the small passenger ferry at the far northwest tip of Scotland at three in the afternoon on a Sunday in late June. The ferry was really just an open motorboat — it had crossed a sea loch called the Kyle of Durness, from one small pier on one side to an even smaller stone slipway on the other. There was no village at the slipway. There was one small stone building that used to be a post office and was now closed. There was a track leading off into the moor. That was all.",
+            "There was one person waiting for him. A tall thin man in his mid-thirties, in a waxed-canvas coat and heavy hiking boots, with a dark beard, standing very still with a small backpack at his feet and a black-and-white border collie sitting beside him. When Ben stepped off the ferry, the man raised a hand. He did not smile. He said, \"Ben.\" Ben said, \"Fraser.\" The man nodded. He said, \"This is Cass.\" He put his hand on the dog's head. The dog wagged her tail once. \"Come on,\" said Fraser. \"We have about eleven kilometers to Kearvaig bothy. We should start.\" And he turned and started walking. Ben, after standing there for a second, hurried after him."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Ben was twelve, and he lived in Edinburgh with his mother, and this was probably the strangest thing he had ever done. His mother had come up with the idea three months ago. She had said, \"I have a friend from university who I have not seen in twenty years. He is a cartographer. He works alone. He does not have any children. He wrote to me a few months ago and mentioned that if I knew any older children who wanted a genuine outdoor experience — not a summer camp — he would take one with him for a week's mapping trip in the far north.\" She had looked at Ben carefully. \"I thought of you. But it would be a hard trip. Long days walking. Camping in bothies. Not much company. Just him and a dog. What do you think?\"",
+            "Ben had said yes. He was not exactly sure why. Something about the idea had grabbed him. He liked walking. He liked maps — he had a small collection of Ordnance Survey maps of the Highlands that he had saved his pocket money for. And the idea of going somewhere very remote with a stranger who was going to just work — not entertain him — had appealed to him in a way he could not really explain. His mother had said, \"He does not talk much, Ben. Just so you know. He is a lovely man but he is very quiet. Do not be offended.\" Ben had said, \"That is fine.\" Now, three months later, walking behind Fraser Gunn along a rough track across the moor, he was starting to understand what his mother had meant."
+          ]
+        },
+        {
+          "image": "cb-ch1-p3-walking",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A man (Fraser, mid-thirties, tall, silent) walks ahead along a narrow moorland track. A boy (Ben, 12) follows about ten meters behind. The collie Cass runs alongside them, occasionally veering off to sniff at heather. Empty vast moor rolls away on all sides. Heavy ink outlines, flat shadows, cream palette with muted heather colors.",
+          "paragraphs": [
+            "Fraser walked fast. He did not talk. He did not look back. He walked with his eyes on the ground in front of him, or sometimes ahead at the horizon, or sometimes at Cass, who kept running out ahead of them and coming back. Ben walked behind. He was not offended. He had been warned. But he was surprised at how completely Fraser walked in his own head. It was as if Ben was almost not there. Fraser did not check to see if he was keeping up. Ben was keeping up, but only just — Fraser's legs were much longer than his.",
+            "They walked for maybe two hours. They passed a small freshwater loch. They passed a group of five red deer that watched them from a hilltop, then bounded away. Fraser did not stop. Ben wanted to look at the deer for longer but he did not want to fall behind. Once Fraser stopped for a moment — he pulled a small notebook out of his jacket pocket, wrote something in it, and put it away again. He did not explain. He kept walking."
+          ]
+        },
+        {
+          "image": "cb-ch1-p4-bothy",
+          "imagePrompt": "Mike Mignola style for children: exterior view of Kearvaig bothy — a small remote whitewashed stone cabin standing alone on a wide beach at the mouth of a small stream, surrounded by low green hills on three sides and the open sea on the fourth. Empty, wild, beautiful. A man and a boy approach on foot. Heavy ink outlines, flat shadows, cream palette with cool sea grey.",
+          "paragraphs": [
+            "They arrived at Kearvaig bothy just before six in the evening. It was a small whitewashed stone building — one room, no electricity, no running water — standing alone on a wide beach at the mouth of a small stream, with the open sea beyond and green hills coming down to it on the other three sides. Ben had never seen a more beautiful place. He stopped for a moment, just to look. Fraser had gone ahead to the door. He turned around. He noticed Ben looking. For the first time, he seemed to actually see Ben, actually notice him. He said, \"Yes. It is a good spot. Come on. Let's get the fire on before it gets cold.\"",
+            "Inside the bothy there was a stone fireplace, a couple of wooden sleeping platforms, a small table, and a candle stub. Fraser built a fire. He was quick and efficient. He boiled water on a small camping stove. He made them each a mug of tea and handed one to Ben without speaking. He set out a small meal — dried food, bread, cheese, chocolate. They ate together at the small table. Fraser did not talk during dinner. Ben was starting to feel weird about the silence but he decided to just be quiet too. He was not going to fill the silence out of nervousness. He was going to try to be like Fraser."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "After supper Fraser did the dishes with water from the stream. He came back inside. He got out his notebook. He sat by the fire with it open on his knee. He wrote for maybe twenty minutes, making small careful marks. Ben watched him. Eventually Fraser noticed Ben watching. He looked up. He seemed slightly surprised, as if he had forgotten Ben was there. He said, \"Sorry. I get lost. When I am mapping.\" He paused. Then he said, in a voice that was still quiet but a little warmer, \"Do you want to know what I am doing.\" Ben said, \"Yes.\"",
+            "\"I am mapping a trail,\" said Fraser. He turned the notebook so Ben could see. It had a rough drawing of a coastline, and a dotted line running along it, with small careful notes at various points along the dotted line. \"This trail. From the ferry to here. And onward. Nobody has ever properly mapped it. There are Ordnance Survey maps of this area, of course, but they show the coastline and the main tracks. They do not show the exact route of the walker's path — where you actually step. That is a slightly different thing. I am mapping the walker's path. Every rock. Every stream. Where the path narrows. Where it goes underwater at high tide. That is my job for this week.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Learning to Walk",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cb-ch2-p1-morning",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at dawn on a wide empty beach. A boy (Ben, 12) has just woken up and stepped outside the bothy in a heavy jumper. The sea is glassy and grey in the still cold morning air. In the middle distance, a man (Fraser) crouches beside the stream filling a water bottle. Heavy ink outlines, flat shadows, cool cream palette.",
+          "paragraphs": [
+            "On the first morning Ben woke up at five-thirty. He did not know why. It was very early. He got up quietly so as not to wake Fraser, but when he came out of the bothy he saw Fraser was already outside, crouched at the stream filling a water bottle. The sea was glass-still. There was no wind. The air was very cold and very quiet. Fraser looked up. He said, \"Ah. You are awake. Good. Come. I want to try something.\"",
+            "Ben went over. Fraser stood up. He handed Ben the small notebook and a pencil. He said, \"I want you to walk the path we came on yesterday. From here back to that big rock we passed — about a kilometer. Then come back. On the way, I want you to write down every important thing you see. Every stream. Every big rock. Every place where the path splits. Every hill you have to climb over. Every place where the ground is boggy. Every place where a walker might get confused. Take as long as you need. I will start breakfast when you get back.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Ben was not sure exactly what he was supposed to do. But he said okay. He set out. He walked slowly. He tried to look at everything. He noted a small stream that crossed the path — he wrote, \"Small stream, stepping stones\" — and a rock that stuck up in the middle of the path — he wrote, \"Boulder, path goes around left\" — and a fork in the path where you could go left toward the sea or right up a small hill. He walked to the big rock. He turned around. He came back. He gave the notebook to Fraser.",
+            "Fraser read it carefully. He said, \"Good. You noticed the fork. You noticed the boulder. But — did you notice how many times the path was under water on the beach section?\" Ben thought. \"No. Not really.\" \"How about which side of the path you have to walk on to avoid the boggy bit?\" \"No.\" \"How about whether the small stream was easy to cross today, or if you would need to be careful in rain?\" \"No.\" Fraser nodded, not unkindly. \"That is what I mean. You saw all the big obvious things. But there is a smaller layer of information. That is the layer I am trying to write down. That is what a walker's path is. Come. We will walk the whole thing together today. I will show you.\""
+          ]
+        },
+        {
+          "image": "cb-ch2-p3-teaching",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on the moorland path. Fraser (mid-thirties) has crouched down and is pointing at a small feature of the path — a low spot where water pools. Ben (12) crouches beside him, watching, notebook in hand. The collie Cass sits nearby. Heavy ink outlines, flat shadows, cream palette with muted greens.",
+          "paragraphs": [
+            "For the next four days they walked. Fraser taught Ben how to see the walker's path. It was completely different from how Ben had been seeing the world before. Fraser noticed things that Ben would never have thought to notice. Where the ground was slightly soft under a certain patch of grass. Where a particular kind of moss grew that meant water was near the surface. Where the wind would hit you differently at a certain corner because of how the hill was shaped. Where in fifty years — if the coastline eroded at its current rate — the path would have to move.",
+            "\"A path is not just a line,\" Fraser said, on the second day, sitting on a rock during a break. \"A path is a — a — a body of knowledge. Every person who has walked it has left a small bit of knowledge in it. Where to step. Where not to step. Where you can rest. That knowledge is not on any map. Ordnance Survey does not care about that. They care about big things. Bothies. Hills. Rivers. Roads. But the walker's knowledge is the small stuff. And when I map a path — a real one, the way I do it — I try to catch that. So a person who has never walked here can walk here safely. That is the whole point.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Ben started to see the world differently. He walked slower. He noticed things. On the third day he pointed at a small rock outcrop in front of them and he said, without thinking, \"Fraser — that section is going to be slippery in rain. There is not much to hold on to. Someone should know before they get there.\" Fraser stopped. He looked at Ben. Then he smiled — for the first time, a real smile — and he said, \"Yes. That is exactly right. Write it down.\" Ben wrote it in the notebook. Fraser read it later. That evening at the bothy, Fraser transferred the note into his own bigger notebook, in his own careful handwriting. He said, \"That is your entry now. If anyone ever reads my mapping book, they will read your entry. You mapped a bit of this path.\"",
+            "Ben looked at his own handwriting in Fraser's book. He was surprised by how much it meant to him. He had never made a thing that would be in a book that people would read. Even a small thing. Even one line. He kept looking at it for a while."
+          ]
+        },
+        {
+          "image": "cb-ch2-p5-question",
+          "imagePrompt": "Mike Mignola style for children: interior of a small stone bothy at night, lit only by a small candle and the fire. Fraser (mid-thirties) and Ben (12) sit at a wooden table with mugs of tea. Fraser looks up at Ben, more animated than before. The collie Cass sleeps on the floor. Heavy ink outlines, flat shadows, warm cream and gold palette with cool dark corners.",
+          "paragraphs": [
+            "On the fourth evening, at a different bothy, Ben finally asked Fraser something he had been wondering about the whole trip. \"Fraser. Do you always work alone. All year?\" Fraser was quiet for a while. Then he said, \"Yes. Mostly. I go on trips like this all summer. In the winter I am at home in Inverness and I turn the notes into finished maps. I sell them. There are people who buy them. Serious walkers. People planning long routes. It is not a big audience. But it is enough for me to live.\"",
+            "\"Why do you like it,\" said Ben. Fraser thought for a long time. Then he said, \"I like the walking. I like the quiet. I like the — the small work. Nobody notices the small stuff, but the small stuff is what actually matters. In the mountains, the small stuff can save your life. Not knowing there is a boggy patch, that is what makes people twist their ankle. Not knowing there is a slippery rock in the rain, that is what makes people fall. So if I write down where those things are, and someone reads it, and they walk safely — I have done something small but real for that person. I will never meet them. But I have helped them.\" He paused. \"I like that better than a job where I have to be around a lot of people. I have always been that way.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Last Day",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cb-ch3-p1-lighthouse",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A man (Fraser) and a boy (Ben, 12) approach the small white Cape Wrath lighthouse on the highest point of the far northwest corner of Scotland. The lighthouse stands alone above the massive dark cliffs. Wide sea behind. A single small keeper's cottage beside the lighthouse. Warm afternoon light. Heavy ink outlines, flat shadows, cream palette with cool sea grey.",
+          "paragraphs": [
+            "The trip was ending at the Cape Wrath lighthouse, which was the very furthest northwest point of the British mainland. They arrived there at four in the afternoon on the fifth day. The lighthouse was a small white tower on the highest cliff, with a small keeper's cottage beside it. The cliffs dropped hundreds of meters down to the sea. Ben stood at the edge — well back from the edge — and looked out. Nothing in front of him for a very long way. He said, quietly, \"Wow.\" Fraser said, \"Yes. I always come here. It is one of the good places.\"",
+            "They sat on the grass a little way from the lighthouse. Fraser opened his flask of tea and poured them each a cup. They drank slowly. Ben's legs were tired. His feet hurt. He had been walking for five days. He had blisters. He was happy. He did not want to leave. Fraser looked at him. Fraser said, \"You have been a good walking partner, Ben. I did not know if I would want a companion. I have not walked with anyone in years. But — it was good. You were quiet. You noticed things. You did not need to be entertained. Those are three things that are hard to find in one person, especially in a twelve-year-old.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Ben did not know what to say. He said, \"Thank you.\" Fraser looked out at the sea. He said, \"I was going to tell you at the end. But I think I will tell you now. I looked at your entries in my notebook. All of them. You have a good eye. There is one small trail I am mapping next August — up in the Cairngorms, on the eastern side — that I could use another walker on. If your mother said yes, and if you wanted to, I could take you on that one too. But I want you to know — this is not because I feel sorry for you or because I am doing your mother a favor. This is because you are actually good at it. If you were not good at it, I would not ask.\"",
+            "Ben was very quiet. He thought about it. He said, \"I would like that. A lot. Please ask my mother.\" Fraser smiled. He said, \"Good. Then that is settled.\""
+          ]
+        },
+        {
+          "image": "cb-ch3-p3-notebook",
+          "imagePrompt": "Mike Mignola style for children: exterior scene, same grass beside the lighthouse. Fraser (mid-thirties) hands Ben (12) a small new leather-bound notebook and a pencil. Ben holds them carefully. Heavy ink outlines, flat shadows, cream palette with cool grey sea.",
+          "paragraphs": [
+            "Fraser reached into his backpack. He took out a small new leather-bound notebook — smaller than his own, but similar. He handed it to Ben, along with a small pencil. \"This is for you,\" he said. \"For between now and next August. When you walk anywhere — even a walk in Edinburgh, even a walk in a park — you can practice. Write down the small things. Where the path is slippery. Where there is a good bench. Where the light is good at a certain time of day. This is what mapping is, really. It is paying attention on purpose. You can practice anywhere. And when we walk in August, you can bring this and I can look at your work.\"",
+            "Ben took the notebook. He held it in both hands. He said, \"Thank you.\" Fraser nodded. He said, \"Also — you can write to me. If you want. My address is inside the front cover. I do not answer very fast. But I do answer. Sometimes it is nice to have a letter in the mail that is about walking. Most of my letters are about invoices.\""
+          ]
+        },
+        {
+          "image": "cb-ch3-p4-boat",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the small stone slipway, evening. Ben (12) is stepping onto a small passenger ferry with his backpack. Fraser (mid-thirties) stands on the slipway waving. Cass sits beside Fraser. Warm evening gold light. Heavy ink outlines, flat shadows, cream palette with warm gold and cool water.",
+          "paragraphs": [
+            "The ferry back was that evening. They walked down together — one last small walk. Fraser did not talk much on the walk. He was back to his usual self. But it was different now. Ben understood what the quiet was. It was not distance. It was — the way Fraser lived. The way he was inside his head with all the small notes and observations he was making. Ben understood, now, that when Fraser was quiet he was not ignoring Ben. He was paying attention to the world. That was what he did all the time. Ben was starting to like it. Ben was starting to want to be like it.",
+            "At the slipway, Fraser did not hug him. Ben understood that too. Fraser shook his hand — a proper adult handshake — and he said, \"See you in August, Ben.\" Ben got on the ferry. He waved as it pulled away. Fraser waved back once, and then he turned and walked back up the path with Cass at his heels. He did not look back. Ben watched him go until he could not see him anymore."
+          ]
+        },
+        {
+          "image": "cb-ch3-p5-home",
+          "imagePrompt": "Mike Mignola style for children: interior scene at Ben's home in Edinburgh. Ben (12) sits at his bedroom desk with the small leather-bound notebook open, writing carefully. On the wall behind him: an Ordnance Survey map of the far north of Scotland with a route highlighted. Warm evening lamp light. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "Back in Edinburgh, Ben started the notebook that week. He wrote small notes about the paths in his own neighborhood — where a curb was uneven, where a specific bench had a good view at sunset, where a puddle always formed after rain. He carried the notebook everywhere. When his mother asked what he was doing he said, \"Mapping.\" She had smiled and said, \"How was Fraser.\" Ben had said, \"He is exactly like you said. He does not talk much. He is one of the best people I have ever met.\"",
+            "In August they did the trip in the Cairngorms together. And the next year. And the year after that. When Ben was seventeen, he told Fraser he wanted to be a cartographer too. Fraser had thought about this for a long time. Then Fraser had said, \"Ben. That is a hard life. You will be poor. You will be alone a lot. Most people will not know what you do. But — if you love it, it is a good life. It is a life that is on the side of walkers. It is a small quiet way to help people. If you want to do it, I will help you learn.\" And so, over the next many years, Ben became a cartographer. He walked all over Scotland. He mapped small trails. Sometimes he saw Fraser and they walked together. Sometimes they did not see each other for a whole year. That was fine. When they did see each other, they did not talk much. They just walked. They paid attention to the world together. And Ben, when he was old, said that had been the best gift anyone had ever given him — not the trip itself, but the way of looking that Fraser had shown him. He said it made every walk of his life, from Cape Wrath to the corner of his own street, a small quiet adventure. He said that was probably enough for one life."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "walking",
+    "scotland",
+    "craft",
+    "attention",
+    "mentor"
+  ]
+}

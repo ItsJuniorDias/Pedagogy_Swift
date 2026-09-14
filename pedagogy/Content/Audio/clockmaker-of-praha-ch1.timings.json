@@ -1,0 +1,613 @@
+{
+  "story_id": "clockmaker-of-praha",
+  "chapter": 1,
+  "total_duration_ms": 314736,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Klara's great-uncle Tomáš had a shop in the old part of Prague — in a neighborhood called Malá Strana, on a narrow cobbled street that had been narrow and cobbled for six hundred years.",
+      "start_ms": 2541,
+      "end_ms": 14355
+    },
+    {
+      "index": 1,
+      "text": "The shop was between a bakery and a bookseller and it had a single wooden door with a small painted sign above it that showed the face of an old clock.",
+      "start_ms": 14355,
+      "end_ms": 24010
+    },
+    {
+      "index": 2,
+      "text": "There was no other sign.",
+      "start_ms": 24010,
+      "end_ms": 25598
+    },
+    {
+      "index": 3,
+      "text": "The clock face was the sign.",
+      "start_ms": 25598,
+      "end_ms": 27440
+    },
+    {
+      "index": 4,
+      "text": "If you were the kind of person who knew, you knew.",
+      "start_ms": 27440,
+      "end_ms": 30679
+    },
+    {
+      "index": 5,
+      "text": "If you were not, you walked by.",
+      "start_ms": 30679,
+      "end_ms": 32775
+    },
+    {
+      "index": 6,
+      "text": "Klara was eleven, and she had been sent to stay with Uncle Tomáš for a week because her parents were moving apartments and did not want her in the middle of it.",
+      "start_ms": 32775,
+      "end_ms": 43002
+    },
+    {
+      "index": 7,
+      "text": "She had visited him twice before when she was younger, but always with her mother.",
+      "start_ms": 43002,
+      "end_ms": 48274
+    },
+    {
+      "index": 8,
+      "text": "This was the first time she had come alone.",
+      "start_ms": 48274,
+      "end_ms": 51068
+    },
+    {
+      "index": 9,
+      "text": "She had taken the tram from her cousin's house on the other side of the city, and she had walked the last two streets by herself with the map her mother had drawn.",
+      "start_ms": 51068,
+      "end_ms": 61549
+    },
+    {
+      "index": 10,
+      "text": "She pushed open the door.",
+      "start_ms": 61549,
+      "end_ms": 63200
+    },
+    {
+      "index": 11,
+      "text": "A little bell rang.",
+      "start_ms": 63200,
+      "end_ms": 64471
+    },
+    {
+      "index": 12,
+      "text": "The shop was very small — maybe three meters by four — and it was completely full of clocks.",
+      "start_ms": 64471,
+      "end_ms": 70378
+    },
+    {
+      "index": 13,
+      "text": "Every wall was covered from floor to ceiling.",
+      "start_ms": 70378,
+      "end_ms": 73300
+    },
+    {
+      "index": 14,
+      "text": "Glass cases held dozens of pocket watches.",
+      "start_ms": 73300,
+      "end_ms": 76031
+    },
+    {
+      "index": 15,
+      "text": "Tall pendulum clocks stood in the corners.",
+      "start_ms": 76031,
+      "end_ms": 78762
+    },
+    {
+      "index": 16,
+      "text": "A cuckoo clock hung above the door.",
+      "start_ms": 78762,
+      "end_ms": 81049
+    },
+    {
+      "index": 17,
+      "text": "There was an astronomical clock face mounted on the back wall that Klara thought might be older than her country.",
+      "start_ms": 81049,
+      "end_ms": 88290
+    },
+    {
+      "index": 18,
+      "text": "And in the middle of the shop, at a small wooden workbench with a green-shaded lamp, sat Uncle Tomáš.",
+      "start_ms": 88290,
+      "end_ms": 94769
+    },
+    {
+      "index": 19,
+      "text": "He was thin and had small round spectacles and a leather apron with many small pockets.",
+      "start_ms": 94769,
+      "end_ms": 100358
+    },
+    {
+      "index": 20,
+      "text": "He looked up.",
+      "start_ms": 100358,
+      "end_ms": 101184
+    },
+    {
+      "index": 21,
+      "text": "\"Klárka,\" he said.",
+      "start_ms": 101184,
+      "end_ms": 102498
+    },
+    {
+      "index": 22,
+      "text": "He had a very deep quiet voice.",
+      "start_ms": 102498,
+      "end_ms": 104712
+    },
+    {
+      "index": 23,
+      "text": "\"You made it.",
+      "start_ms": 104712,
+      "end_ms": 105680
+    },
+    {
+      "index": 24,
+      "text": "Good.",
+      "start_ms": 105680,
+      "end_ms": 106095
+    },
+    {
+      "index": 25,
+      "text": "Come in.",
+      "start_ms": 106095,
+      "end_ms": 106718
+    },
+    {
+      "index": 26,
+      "text": "Close the door behind you.",
+      "start_ms": 106718,
+      "end_ms": 108585
+    },
+    {
+      "index": 27,
+      "text": "It is drafty.\" Klara closed the door.",
+      "start_ms": 108585,
+      "end_ms": 111214
+    },
+    {
+      "index": 28,
+      "text": "The bell rang again.",
+      "start_ms": 111214,
+      "end_ms": 112667
+    },
+    {
+      "index": 29,
+      "text": "Uncle Tomáš stood up slowly.",
+      "start_ms": 112667,
+      "end_ms": 114673
+    },
+    {
+      "index": 30,
+      "text": "He took off his spectacles.",
+      "start_ms": 114673,
+      "end_ms": 116610
+    },
+    {
+      "index": 31,
+      "text": "He looked at her for a long moment.",
+      "start_ms": 116610,
+      "end_ms": 119100
+    },
+    {
+      "index": 32,
+      "text": "Then he smiled.",
+      "start_ms": 119100,
+      "end_ms": 120207
+    },
+    {
+      "index": 33,
+      "text": "It was a small smile but it went all the way to his eyes.",
+      "start_ms": 120207,
+      "end_ms": 124219
+    },
+    {
+      "index": 34,
+      "text": "\"You have grown,\" he said.",
+      "start_ms": 124219,
+      "end_ms": 126086
+    },
+    {
+      "index": 35,
+      "text": "\"You look like your grandmother when she was your age.\"",
+      "start_ms": 126086,
+      "end_ms": 130029
+    },
+    {
+      "index": 36,
+      "text": "Uncle Tomáš had a small apartment above the shop, and that was where Klara would sleep for the week.",
+      "start_ms": 130029,
+      "end_ms": 137016
+    },
+    {
+      "index": 37,
+      "text": "But she spent most of the first afternoon downstairs, wandering around the shop, looking at things.",
+      "start_ms": 137016,
+      "end_ms": 143933
+    },
+    {
+      "index": 38,
+      "text": "Uncle Tomáš worked at the bench, tuning a small brass mantel clock.",
+      "start_ms": 143933,
+      "end_ms": 148637
+    },
+    {
+      "index": 39,
+      "text": "Klara noticed, after a while, that not all the clocks were running.",
+      "start_ms": 148637,
+      "end_ms": 153340
+    },
+    {
+      "index": 40,
+      "text": "Some of them were silent.",
+      "start_ms": 153340,
+      "end_ms": 155139
+    },
+    {
+      "index": 41,
+      "text": "Their hands were stopped at different times.",
+      "start_ms": 155139,
+      "end_ms": 158321
+    },
+    {
+      "index": 42,
+      "text": "She asked Uncle Tomáš about it.",
+      "start_ms": 158321,
+      "end_ms": 160534
+    },
+    {
+      "index": 43,
+      "text": "\"Are those broken?\" He looked up.",
+      "start_ms": 160534,
+      "end_ms": 162886
+    },
+    {
+      "index": 44,
+      "text": "He looked at the clocks she was pointing at.",
+      "start_ms": 162886,
+      "end_ms": 165999
+    },
+    {
+      "index": 45,
+      "text": "\"No,\" he said.",
+      "start_ms": 165999,
+      "end_ms": 167037
+    },
+    {
+      "index": 46,
+      "text": "\"They are not broken.",
+      "start_ms": 167037,
+      "end_ms": 168558
+    },
+    {
+      "index": 47,
+      "text": "They are waiting.\" \"Waiting for what?\" Uncle Tomáš thought for a moment.",
+      "start_ms": 168558,
+      "end_ms": 173608
+    },
+    {
+      "index": 48,
+      "text": "\"Waiting for their owner to come get them.",
+      "start_ms": 173608,
+      "end_ms": 176582
+    },
+    {
+      "index": 49,
+      "text": "Some clocks come to me and the owner does not come back right away.",
+      "start_ms": 176582,
+      "end_ms": 181286
+    },
+    {
+      "index": 50,
+      "text": "Sometimes they come back in a year.",
+      "start_ms": 181286,
+      "end_ms": 183776
+    },
+    {
+      "index": 51,
+      "text": "Sometimes ten years.",
+      "start_ms": 183776,
+      "end_ms": 185229
+    },
+    {
+      "index": 52,
+      "text": "Sometimes not at all.",
+      "start_ms": 185229,
+      "end_ms": 186751
+    },
+    {
+      "index": 53,
+      "text": "Until then, the clocks wait.",
+      "start_ms": 186751,
+      "end_ms": 188757
+    },
+    {
+      "index": 54,
+      "text": "They are still theirs.",
+      "start_ms": 188757,
+      "end_ms": 190348
+    },
+    {
+      "index": 55,
+      "text": "Not mine.\"",
+      "start_ms": 190348,
+      "end_ms": 191178
+    },
+    {
+      "index": 56,
+      "text": "\"But — why do you not just start them running,\" Klara asked.",
+      "start_ms": 191178,
+      "end_ms": 195397
+    },
+    {
+      "index": 57,
+      "text": "\"To keep them nice.\" Uncle Tomáš shook his head.",
+      "start_ms": 195397,
+      "end_ms": 198787
+    },
+    {
+      "index": 58,
+      "text": "\"The clocks are stopped for a reason.",
+      "start_ms": 198787,
+      "end_ms": 201415
+    },
+    {
+      "index": 59,
+      "text": "They stopped at a specific moment.",
+      "start_ms": 201415,
+      "end_ms": 203837
+    },
+    {
+      "index": 60,
+      "text": "That is part of what makes them what they are.",
+      "start_ms": 203837,
+      "end_ms": 207088
+    },
+    {
+      "index": 61,
+      "text": "If I start them, I change something.",
+      "start_ms": 207088,
+      "end_ms": 209647
+    },
+    {
+      "index": 62,
+      "text": "So I let them wait.",
+      "start_ms": 209647,
+      "end_ms": 211031
+    },
+    {
+      "index": 63,
+      "text": "When the owner comes, they can choose.",
+      "start_ms": 211031,
+      "end_ms": 213728
+    },
+    {
+      "index": 64,
+      "text": "Some ask me to start them.",
+      "start_ms": 213728,
+      "end_ms": 215596
+    },
+    {
+      "index": 65,
+      "text": "Some do not.\" He looked at her.",
+      "start_ms": 215596,
+      "end_ms": 217809
+    },
+    {
+      "index": 66,
+      "text": "\"You are a very serious girl, Klárka.",
+      "start_ms": 217809,
+      "end_ms": 220438
+    },
+    {
+      "index": 67,
+      "text": "You ask good questions.\" Klara said, \"Nobody has ever said that to me before.\" Uncle Tomáš said, \"Then you must be spending time with people who are not paying attention.",
+      "start_ms": 220438,
+      "end_ms": 232267
+    },
+    {
+      "index": 68,
+      "text": "Get me the small brass tweezers, please.",
+      "start_ms": 232267,
+      "end_ms": 235103
+    },
+    {
+      "index": 69,
+      "text": "On the shelf behind you.\"",
+      "start_ms": 235103,
+      "end_ms": 236832
+    },
+    {
+      "index": 70,
+      "text": "That was how the week started.",
+      "start_ms": 236832,
+      "end_ms": 238697
+    },
+    {
+      "index": 71,
+      "text": "On the first evening, when they closed the shop and went upstairs, Uncle Tomáš cooked her a very simple meal of dumplings and cabbage, and they ate at a small table beside a window that looked out at rooftops.",
+      "start_ms": 238697,
+      "end_ms": 251330
+    },
+    {
+      "index": 72,
+      "text": "He asked her about her school and her parents and her friends.",
+      "start_ms": 251330,
+      "end_ms": 255120
+    },
+    {
+      "index": 73,
+      "text": "He listened carefully.",
+      "start_ms": 255120,
+      "end_ms": 256504
+    },
+    {
+      "index": 74,
+      "text": "He did not talk about himself.",
+      "start_ms": 256504,
+      "end_ms": 258368
+    },
+    {
+      "index": 75,
+      "text": "Klara noticed this and did not press.",
+      "start_ms": 258368,
+      "end_ms": 260654
+    },
+    {
+      "index": 76,
+      "text": "She thought maybe he would tell her things later, in his own time.",
+      "start_ms": 260654,
+      "end_ms": 264745
+    },
+    {
+      "index": 77,
+      "text": "The next morning the first customer came at about ten o'clock.",
+      "start_ms": 264745,
+      "end_ms": 268535
+    },
+    {
+      "index": 78,
+      "text": "He was an old man in a wool coat.",
+      "start_ms": 268535,
+      "end_ms": 270580
+    },
+    {
+      "index": 79,
+      "text": "He walked in slowly and set a small worn leather case on the counter.",
+      "start_ms": 270580,
+      "end_ms": 274791
+    },
+    {
+      "index": 80,
+      "text": "\"For my daughter's birthday,\" he said, in Czech.",
+      "start_ms": 274791,
+      "end_ms": 277739
+    },
+    {
+      "index": 81,
+      "text": "\"It was my father's.",
+      "start_ms": 277739,
+      "end_ms": 279002
+    },
+    {
+      "index": 82,
+      "text": "I want it working before I give it to her.\" Uncle Tomáš took the case.",
+      "start_ms": 279002,
+      "end_ms": 283274
+    },
+    {
+      "index": 83,
+      "text": "He opened it.",
+      "start_ms": 283274,
+      "end_ms": 284116
+    },
+    {
+      "index": 84,
+      "text": "Inside was a small pocket watch.",
+      "start_ms": 284116,
+      "end_ms": 286101
+    },
+    {
+      "index": 85,
+      "text": "He looked at it.",
+      "start_ms": 286101,
+      "end_ms": 287124
+    },
+    {
+      "index": 86,
+      "text": "He wound it very carefully.",
+      "start_ms": 287124,
+      "end_ms": 288808
+    },
+    {
+      "index": 87,
+      "text": "He held it to his ear.",
+      "start_ms": 288808,
+      "end_ms": 290192
+    },
+    {
+      "index": 88,
+      "text": "He set it down.",
+      "start_ms": 290192,
+      "end_ms": 291214
+    },
+    {
+      "index": 89,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 291214,
+      "end_ms": 292177
+    },
+    {
+      "index": 90,
+      "text": "\"I can fix this.",
+      "start_ms": 292177,
+      "end_ms": 293200
+    },
+    {
+      "index": 91,
+      "text": "Two days.",
+      "start_ms": 293200,
+      "end_ms": 293801
+    },
+    {
+      "index": 92,
+      "text": "Please come Thursday.\" The old man nodded, thanked him, paid a small deposit, and left.",
+      "start_ms": 293801,
+      "end_ms": 299095
+    },
+    {
+      "index": 93,
+      "text": "Uncle Tomáš took the watch to the workbench and set it under his green lamp.",
+      "start_ms": 299095,
+      "end_ms": 303727
+    },
+    {
+      "index": 94,
+      "text": "Klara came over and looked at it.",
+      "start_ms": 303727,
+      "end_ms": 305773
+    },
+    {
+      "index": 95,
+      "text": "It was old and small and ordinary.",
+      "start_ms": 305773,
+      "end_ms": 307878
+    },
+    {
+      "index": 96,
+      "text": "\"That was easy,\" she said.",
+      "start_ms": 307878,
+      "end_ms": 309502
+    },
+    {
+      "index": 97,
+      "text": "\"Yes,\" said Uncle Tomáš.",
+      "start_ms": 309502,
+      "end_ms": 311006
+    },
+    {
+      "index": 98,
+      "text": "\"That one was easy.",
+      "start_ms": 311006,
+      "end_ms": 312209
+    },
+    {
+      "index": 99,
+      "text": "He is a normal customer.",
+      "start_ms": 312209,
+      "end_ms": 313713
+    },
+    {
+      "index": 100,
+      "text": "Not everyone is.\"",
+      "start_ms": 313713,
+      "end_ms": 314736
+    }
+  ]
+}

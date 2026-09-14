@@ -1,0 +1,167 @@
+{
+  "id": "snow-lion",
+  "title": "The Snow Lion",
+  "subtitle": "A Monastery Above the Clouds",
+  "author": null,
+  "summary": "Tenzin is eleven and lives in the small kingdom of Bhutan, in the eastern Himalayas. Every summer he walks two days into the mountains to visit his grandfather, who is a monk at a small monastery at 3,400 meters. This summer Grandfather Rinpoche has something specific he wants to give Tenzin: a small carved snow lion that has belonged to their family for four hundred years, and a story that goes with it.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-snow-lion-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old boy (Tenzin) with straight black hair, wearing a traditional Bhutanese gho robe of dark red and cream stripes, standing on a stone terrace of a small mountain monastery high in the Himalayas. He is holding, in both cupped hands, a small dark carved wooden snow lion — a mythical creature the size of his palm, with a mane and a serious face. Behind him: whitewashed monastery walls with red and gold trim, prayer flags fluttering, and beyond that, huge snow-covered Himalayan peaks under a deep blue high-altitude sky. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0), deep sepia wood, deep ink outlines, muted brick red and cream on his robe, small dusty rose (#FF5B8D) accent on his cheeks. Small margin at top and bottom for card padding.",
+  "category": "legend",
+  "isPremium": true,
+  "publishedAt": "2027-04-29",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Walk Up",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sl-ch1-p1-village",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small Bhutanese village in a green valley at the foot of the Himalayas. Traditional whitewashed houses with dark timber frames and painted decorations. Terraced fields. Prayer flags strung between poles. Green forested hills rising steeply behind. A boy (Tenzin, 11, in a red and cream gho robe, small canvas pack) walks up the path leaving the village behind. Warm morning light. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens and brick reds.",
+          "paragraphs": [
+            "Tenzin lived in a small village in the Bumthang valley, in central Bhutan. It was a quiet place — maybe two hundred people, a handful of farms, a small school, one bakery, one general store, and, on the highest ridge behind the village, a small monastery where seventeen monks lived. Tenzin's grandfather was one of those monks, though he did not live in the monastery in the village — he lived in a much smaller monastery, much higher up, two days' walk into the mountains.",
+            "His grandfather was Grandfather Rinpoche, but everyone in Tenzin's family called him Grandfather Rinpoche because he was both — he was a grandfather, and he was a rinpoche, which was an old title of respect for a Buddhist monk who had studied for many years. He was seventy-six years old. He had lived at the high monastery for forty-one years. Before that he had been married, briefly, and had had Tenzin's mother. Tenzin's grandmother had died young, and after her death Grandfather Rinpoche had gone into the monastery. That was the whole story, more or less. Tenzin's mother had grown up mostly with her aunt in the village. She had always loved her father and had never resented his choice."
+          ]
+        },
+        {
+          "image": "sl-ch1-p2-walking",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A boy (Tenzin, 11) walks alone up a narrow steep dirt path through a dark pine forest. The path climbs steeply. Filtered sunlight. Heavy ink outlines, flat shadows, cream palette with deep greens.",
+          "paragraphs": [
+            "Tenzin was eleven, and this was the third summer he had walked to the high monastery alone. His mother had said, when he was nine, that he could go alone starting when he was ten. The path was not dangerous — it was well-marked and well-used, and there were two small villages along the way where he stopped to eat and to sleep. But it was two days' walk, and it climbed steeply from 2,700 meters at the village to 3,400 meters at the monastery. Tenzin was strong for his age. He liked the walk. He looked forward to it all year.",
+            "This July he had left the village at first light on a Monday morning. He carried a small canvas pack with a change of clothes, some dried food, a water bottle, and a small paper-wrapped gift for his grandfather — his mother had made a small woolen scarf. It was still cool. Bhutan in July was the beginning of the monsoon, which meant it rained heavily most afternoons and was misty most mornings. Tenzin walked. He knew the path. He passed the first small village at midmorning. He passed the second one at noon and stopped there for a hot meal. In the afternoon he continued upward, into the pine forest, into the mist."
+          ]
+        },
+        {
+          "image": "sl-ch1-p3-first-sight",
+          "imagePrompt": "Mike Mignola style for children: exterior scene late afternoon on the second day. Tenzin (11) has come up over a ridge and can see, in the distance, the small white monastery perched on a rocky outcrop across a deep valley. Prayer flags on the roofs. Behind: massive snow-covered Himalayan peaks. Warm afternoon light. Heavy ink outlines, flat shadows, cream palette with deep blue distances.",
+          "paragraphs": [
+            "He slept that first night at a small pilgrim's hut halfway up. There were two other travelers there — an older monk on his way down to the village, and a woman making a pilgrimage to a specific shrine. They shared a small fire and simple food. Tenzin was very tired. He slept without dreams. In the morning he continued up. The path got steeper. The trees got smaller. The air got thinner.",
+            "In the afternoon of the second day he came up over a ridge and there — across a deep valley — was the monastery. It was very small. Whitewashed walls, red and gold trim, prayer flags on the roof. It clung to the side of a rocky outcrop as if it had grown there. Beyond it, the great snow peaks of the Himalayas rose into the deep blue sky. Tenzin stopped for a moment. He had seen the monastery every summer for three years but every time he stopped at this same spot. It was one of the most beautiful views in the world."
+          ]
+        },
+        {
+          "image": "sl-ch1-p4-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the monastery gate. Tenzin (11) is being welcomed by an older monk (Grandfather Rinpoche, seventies, in a maroon and saffron monk's robe, thin, kind face, shaved head). Grandfather Rinpoche has one hand on Tenzin's shoulder. Warm late afternoon light. Heavy ink outlines, flat shadows, cream palette with maroon and saffron accents.",
+          "paragraphs": [
+            "He arrived at the monastery gate at four in the afternoon. Grandfather Rinpoche was waiting at the gate. He had known Tenzin was coming. Tenzin's mother had sent a message through a monk going up the previous week. Grandfather Rinpoche was small and thin and had a shaved head. He wore the maroon and saffron robes of a Bhutanese monk. He looked much like the other monks in the monastery. But his eyes were Tenzin's grandfather's eyes.",
+            "He put his hand on Tenzin's shoulder. He said, in his soft voice, \"You made it, boy. Come. You need tea. You need food. You need rest. In that order. Everything else can wait.\" Tenzin gave him the small wrapped scarf. Grandfather Rinpoche opened it. He put it around his neck immediately. He said, \"Beautiful. Your mother's hands. Tell her when you see her that I wore it the first day. Come.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The monastery was small — one main building, one prayer hall, one kitchen, and a row of small cells for the monks to sleep in. There were seven monks living there full-time, and usually a few visiting monks or pilgrims. Tenzin would sleep in a small guest cell near his grandfather's. He had done this three summers now. He knew the routine. Meals at fixed times. Chanting in the early morning and at dusk. Small work in the middle of the day — gardening, sweeping, tending the small chapel. Long periods of silence. Tenzin liked the routine. He liked the silence best.",
+            "That evening after supper, Grandfather Rinpoche took Tenzin outside onto the stone terrace at the front of the monastery. The sun was setting behind the great peaks. The whole world was pink and gold. Grandfather Rinpoche said, \"This summer, Tenzin. I want to give you something. Not tonight. In a few days. But I want you to know I have something for you. I have been waiting for the right summer. This is it. You will be twelve in the winter, correct?\" Tenzin said, \"Yes. In December.\" Grandfather Rinpoche nodded. He said, \"Then this is the right summer. Rest tonight. Tomorrow we talk.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Snow Lion",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sl-ch2-p1-cell",
+          "imagePrompt": "Mike Mignola style for children: interior view of Grandfather Rinpoche's small monastic cell. A simple wooden bed. A low table with a butter lamp burning. Small shelves with a few religious books and a small metal butter-lamp stand. Grandfather Rinpoche sits cross-legged on a cushion. Tenzin sits across from him. Between them, on the low table, a small dark wooden object wrapped in soft red silk. Warm butter-lamp light. Heavy ink outlines, flat shadows, cream palette with warm gold and cool shadows.",
+          "paragraphs": [
+            "The next morning, after the morning chanting and after breakfast, Grandfather Rinpoche brought Tenzin into his small cell. It was very simple — a wooden bed, a low table, a butter lamp, a small shelf of books. Grandfather Rinpoche sat cross-legged on a cushion on the floor. Tenzin sat across from him. Between them, on the low table, Grandfather Rinpoche placed a small object wrapped in soft red silk.",
+            "\"This,\" he said, \"has been in our family for four hundred years. It was carved by the grandmother of my great-great-great-grandfather. That was in 1626. She carved it from a piece of hard black wood — a wood called sengchen, that grows only in one small valley high in the mountains. She was a woodcarver. She carved many things in her life. This was one of her small ones. But it is the only one of hers that has stayed with our family. Everything else has been lost, or given away, or has broken. Only this remains.\""
+          ]
+        },
+        {
+          "image": "sl-ch2-p2-unwrapping",
+          "imagePrompt": "Mike Mignola style for children: interior close view. Grandfather Rinpoche unwraps the silk cloth to reveal a small carved wooden snow lion — a mythical creature about the size of a palm. It has a serious face and a small mane. The wood is very dark, almost black, but shows the marks of many hands over centuries. Warm butter-lamp light. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "He unwrapped the silk. Inside was a small carved snow lion. It was maybe as big as Tenzin's palm. It was carved from dark, almost black wood, and it had been rubbed smooth over four hundred years — you could see the marks of many hands. It had a serious face. It had a small mane. It had four small feet planted firmly. It looked, Tenzin thought, exactly like what a snow lion should look like — an ancient mountain creature, half real and half not, standing on its rock in the wind.",
+            "\"The snow lion,\" said Grandfather Rinpoche, \"is one of our four dignities. Do you know the four dignities?\" Tenzin said, \"The tiger, the snow lion, the garuda, and the dragon.\" \"Yes,\" said Grandfather Rinpoche. \"Very good. And the snow lion — the snow lion represents joyful energy. Not simple happiness — the joy that comes from being fully alive. The joy of a wild thing running in the snow. My grandmother's grandmother carved this snow lion, my father told me, in the winter that her own son died. He was small. He died of a fever. And she carved this — she carved joyful energy, out of the hardest wood she could find — because she needed to remember that joy still existed in the world, even when her son had died in it. That is why she made it. Small joyful mountain creature, made in the middle of the biggest grief of her life.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Grandfather Rinpoche paused. He said, \"Since then, it has passed from parent to child. Not always to the oldest. To the one — the one who seemed to need it. My grandmother's grandmother gave it to her surviving daughter. That daughter gave it to her younger son. And so on. Twelve generations. Every time — a child who seemed to need to know that joyful energy was a real thing. That the world is a joyful place, at bottom, even when it is also sad. That is the rule.\"",
+            "\"I got it,\" said Grandfather Rinpoche, \"from my mother, when I was ten. She gave it to me because she said I was a very serious child, and she wanted me to remember that seriousness was not the whole thing. She said — you can be a serious person and also a joyful person. Both at once. This snow lion is here to remind you of both. I have had it for sixty-six years now. And now I am giving it to you.\""
+          ]
+        },
+        {
+          "image": "sl-ch2-p4-lifting",
+          "imagePrompt": "Mike Mignola style for children: interior close view. Tenzin (11) has lifted the small carved snow lion from the silk cloth and is holding it in both hands. His face shows quiet awe. Grandfather Rinpoche watches. Warm butter-lamp light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Tenzin lifted the small snow lion carefully. It was heavier than it looked. The wood was so dark it was almost like stone. He turned it over in his palms. On the bottom, in very small carved letters, was the initial that the great-great-great-grandmother had carved when she made it — a single character in an old Bhutanese script that Tenzin could not fully read. He held it in his palm. He said, \"But Grandfather — why me. Am I — am I a serious child.\" Grandfather Rinpoche smiled. He said, \"Yes, Tenzin. You are a very serious child. Do you not know that.\" Tenzin thought. He said, \"Maybe. Yes.\"",
+            "\"You have been a serious child since you were small,\" said Grandfather Rinpoche. \"Everyone in the family has noticed. Your mother has noticed. She and I have talked about it. She said to me, years ago — Tenzin is like you. He thinks too much. He does not have enough joy. I have watched you every summer to see if she was right. She was right. You do have a serious mind. It is a good mind. It will serve you well. But — you need this. You need the snow lion. To remind you that joy is a real thing too, and that you are allowed to have it. That is why I am giving it to you.\""
+          ]
+        },
+        {
+          "image": "sl-ch2-p5-question",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Tenzin (11) sits with the snow lion in his palm. He looks at his grandfather with a question on his face. Grandfather Rinpoche waits. Warm butter-lamp light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Tenzin said, \"Grandfather. May I ask something.\" Grandfather Rinpoche said, \"Anything.\" Tenzin said, \"When you gave up — when you became a monk. After Grandmother died. Was that — was that serious, or was that joyful. Or was it both.\" Grandfather Rinpoche was silent for a long moment. Then he said, \"That is exactly the question. And nobody has ever asked me that in forty-one years. I am glad it is you who is asking me. It was both, Tenzin. When I came here, I was in a lot of grief. My wife had died. My daughter was going to be raised by her aunt. I did not know what to do with myself. I came here because I needed the silence. That was the serious part. That was the grief part.\"",
+            "\"But then — over the years — I found that the silence had joy in it too. That the mountains had joy in them. That praying with the other monks in the early morning had joy in it. That the small work of tending the garden had joy in it. I did not expect this. I had come here to be sad. Slowly, without meaning to, I became — happy. Not in a happy-ending way. In a — quiet way. In the way the snow lion is happy on the mountain in the snow. Fully alive. That was what happened. That is why I am still here. I have been very happy in this monastery. Even when I have missed you all, in the valley — I have been happy.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Way Down",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sl-ch3-p1-terrace",
+          "imagePrompt": "Mike Mignola style for children: exterior morning scene on the monastery's stone terrace. Grandfather Rinpoche and Tenzin (11) stand together looking out at the great snow peaks. Tenzin holds the small snow lion carefully in one hand. Cool clear morning light with warm gold on the peaks. Heavy ink outlines, flat shadows, cream palette with muted maroon and cool blue.",
+          "paragraphs": [
+            "Tenzin stayed at the monastery for a week. Every morning he did the morning chanting with the monks. Every afternoon he helped in the small vegetable garden. He walked with his grandfather along the small paths behind the monastery. They talked, or they did not talk. Tenzin thought about the snow lion. He carried it in the pocket of his gho all week. He touched it sometimes without taking it out. It made him feel — different. Not exactly joyful. But — connected. Connected to all the people who had held it before him. Connected to the woman who had carved it four hundred years ago because her son had died. Connected to his grandfather. Connected to his mother, who had not been given the snow lion but had grown up knowing it existed. Connected to all of it.",
+            "On the last morning, Grandfather Rinpoche walked with Tenzin down to the small path where Tenzin would begin his walk back to the village. They stopped there. Grandfather Rinpoche said, \"Tenzin. Take good care of the snow lion. When you are old — sometime — you will need to choose who to give it to. That will be up to you. There is no rule. You will know who they are. Someone who is serious, and who does not yet know that they are allowed to be joyful. Someone who you love very much. Give it to them. Then it will keep going.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Grandfather,\" said Tenzin. \"I will not see you again next summer, will I.\" Grandfather Rinpoche was silent. Tenzin had said it before he had really thought about it. It had just come out of him. He had not known he had known it. But he had known it. He had seen it in his grandfather's face all week — a small tiredness that had not been there before. A small slowness. A small — finishing quality.",
+            "Grandfather Rinpoche said, quietly, \"I do not think so, Tenzin. My body is tired. I have been here forty-one years. I am seventy-six. I think this was our last summer. I am glad it was a full one. I am glad we had the snow lion between us this week. That is why I gave it to you now, and not later. I wanted to give it to you myself. I wanted to see you take it.\""
+          ]
+        },
+        {
+          "image": "sl-ch3-p3-goodbye",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Grandfather Rinpoche and Tenzin (11) stand facing each other on the mountain path. Tenzin is not quite crying but his eyes are full. Grandfather Rinpoche has one hand on Tenzin's shoulder. Both are still. Warm morning light. Heavy ink outlines, flat shadows, cream palette with maroon and cream.",
+          "paragraphs": [
+            "Tenzin was crying now. He was not making sounds. He was just crying. Grandfather Rinpoche did not try to stop him. He put his hand on Tenzin's shoulder. He said, \"Tenzin. Listen. This is very important. When I die — and it will probably be sometime this winter — I want you to know that I am not sad. I am ready. I have had a very good life. I have had a wife I loved. A daughter I love. A grandson I love. Forty-one years in a place I love. That is a full life. When you hear that I have died, I want you to take the snow lion in your palm, and I want you to remember what I have told you. That I was happy here. That I am happy now. That there is joy on the other side of the leaving. Not just sadness. Joy too. Yes?\" Tenzin nodded. He could not speak. Grandfather Rinpoche said, \"Now go. Walk carefully. Say hello to your mother. Say I loved her every single day.\"",
+            "Tenzin turned. He walked down the path. He walked for a long time. When he had gone maybe a kilometer, he looked back one last time. Grandfather Rinpoche was still standing at the top of the path. He raised his hand. Tenzin raised his hand. Grandfather Rinpoche turned and walked back to the monastery. Tenzin watched him go. Then he turned and he walked down."
+          ]
+        },
+        {
+          "image": "sl-ch3-p4-winter",
+          "imagePrompt": "Mike Mignola style for children: interior scene at Tenzin's home in the village in winter. Tenzin (now about 11 and a half, in warm clothes) sits on the floor by a small stove holding the snow lion in one palm. His mother sits beside him with one arm around him. Both are quiet. Warm firelight. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "Grandfather Rinpoche died in November, four months later. A monk walked down from the high monastery to bring the message. He arrived at Tenzin's house in the evening. Tenzin's mother opened the door. She knew from the monk's face what he had come to say. She let him in. He sat with them. He told them the news. Grandfather Rinpoche had died in his sleep. He had been ill for two weeks. He had asked, before he died, that a message be sent down. He had asked that the message say specifically to Tenzin — I am happy. Remember what I told you.",
+            "Tenzin took the small snow lion out of the pocket of his gho, where he had been keeping it. He held it in his palm. He sat by the small stove. His mother sat beside him. She put her arm around him. He cried for a long time. But he also held the snow lion, and he thought about his grandfather at the monastery, happy in the silence and the snow. He thought about the great-great-great-grandmother four hundred years ago, carving joy out of the hardest wood she could find, in the winter her son died. He thought — she was right. She was right that both are possible at once. Grief and joy. Both. Grandfather was right too. He said, quietly, to himself, and to the small snow lion in his palm, \"I remember, Grandfather. I remember.\""
+          ]
+        },
+        {
+          "image": "sl-ch3-p5-years-later",
+          "imagePrompt": "Mike Mignola style for children: interior scene many years later. Tenzin now clearly older (perhaps in his forties, dressed in a village adult's gho, with slight gray at his temples) sits at a small wooden table across from a young child (maybe his own child, 10, or a niece/nephew, in a small gho). Between them, on the table, wrapped in the same red silk cloth: the small snow lion. Warm evening lamp light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Tenzin kept the snow lion for the rest of his life. He carried it everywhere for years. When he was grown, and had a family of his own, he still kept it on a small shelf in his home in the Bumthang valley. He looked at it often. When his children were small he told them the story of it — about the great-great-great-grandmother, about the son who had died, about Grandfather Rinpoche at the high monastery. His children listened. He watched them, over the years, to see if any of them was — the right person. He was not sure. He thought maybe his oldest daughter. He was not sure yet.",
+            "When Tenzin was forty-two he had a small niece who came to visit for a summer — his sister's child. She was ten. She was a very serious girl. Tenzin watched her for a week. He saw — he saw exactly what his mother had seen in him, and what his grandmother had seen in his grandfather. A serious child who did not yet know she was allowed to be joyful. On the last evening of her visit, Tenzin brought the snow lion out. He unwrapped it. He put it in his niece's hand. He told her the story — from the beginning, the four hundred years, all of it. He said, \"This is yours now. Take good care of it. Someday you will give it to a serious child in the family. You will know who. And it will keep going.\" His niece held the snow lion in both hands. She was quiet. She said, \"Uncle. Thank you.\" And Tenzin was — for that moment — very much like his grandfather, on the day he had given away the snow lion. Grateful. Tired. Joyful. All at once."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grandfather",
+    "bhutan",
+    "mountains",
+    "grief"
+  ]
+}

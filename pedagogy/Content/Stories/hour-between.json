@@ -1,0 +1,168 @@
+{
+  "id": "hour-between",
+  "title": "The Hour Between",
+  "subtitle": "A Constellation My Family Watches",
+  "author": null,
+  "summary": "Diego is twelve, and his father works at an astronomical observatory in the Atacama Desert in Chile. His father is retiring soon and moving back to Santiago, so this is Diego's last visit to the mountain. There is a constellation his family has been watching for four generations, and each generation has added a story to it. Diego has one last summer to learn the stories, and to add one of his own.",
+  "readingTimeMinutes": 16,
+  "coverImage": "story-hour-between-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 12-year-old boy (Diego) with dark curly hair, standing on the flat roof of a small stone observatory cabin high in the Atacama Desert of Chile. He is wearing a heavy dark parka against the cold and looking up at a vast field of stars — the Southern Cross visible above him, the Milky Way arching across the sky. Behind him: the low silhouettes of the desert mountains, a large telescope dome partly visible at the edge of the frame. Character positioned center-left, filling roughly 40% of frame height. Palette: deep dark blue night sky, cream and pale bone dust (#FFF9F0 tinted cool) for the ground and rocks, dusty rose (#FF5B8D) accent on his cheeks from cold, tiny warm gold for stars. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2026-10-08",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Mountain",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hb-ch1-p1-drive",
+          "imagePrompt": "Mike Mignola style for children: a small dusty pickup truck driving up a winding gravel road through the dry pale mountains of the Atacama Desert. Vast empty land stretches on either side. A boy (Diego, 12, dark curly hair) sits in the passenger seat looking out the window with wide eyes. Heavy black ink outlines, flat shadows, cream and sepia palette with cool blue-grey mountains.",
+          "paragraphs": [
+            "The drive up to the observatory took four hours. Diego's father drove the whole way with both hands on the wheel and his elbows locked, because the road was gravel and it turned back on itself often and there was nothing on either side of it but the same empty pale mountains going on forever. Diego watched out the window. He had been to the mountain three times before, when he was younger, but he had forgotten how the land looked. Nothing grew here. Nothing at all. The Atacama Desert was the driest place on earth, his father had told him once, and some parts of it had not seen rain in four hundred years.",
+            "\"It gets colder as we go up,\" said his father. \"Are you cold now?\" \"A little,\" said Diego. His father reached across and turned the heat up. Diego was twelve. He was old enough to fly by himself now, from Santiago to Antofagasta, and he had done it that morning, and he was very proud of that, but he had also been afraid the whole flight, and he was still tired from being afraid. His father knew this. His father did not say anything about it."
+          ]
+        },
+        {
+          "image": "hb-ch1-p2-cabin",
+          "imagePrompt": "Mike Mignola style for children: a small stone and wood cabin at the top of a rocky ridge in the Atacama Desert. Behind and above the cabin, a large white astronomical telescope dome is partly visible. The land around the cabin is pale bone-white. A thin high blue sky. Heavy ink outlines, flat shadows, cream and sepia palette with cool grey stone.",
+          "paragraphs": [
+            "His father worked at the Cerro Antares observatory, and his cabin was one of six small stone houses that had been built for the astronomers along the ridge, a hundred meters below the main telescope. The cabin had two rooms and a small kitchen and a stove that burned wood, because at 2,600 meters up in the desert the nights got very cold, even in summer. There was electricity, but only for the fridge and the light bulbs, and only from a generator that his father said made too much noise, so they only ran it for a few hours a day.",
+            "When they got there, in the late afternoon, Diego stood outside the cabin for a while and just looked at the land. It stretched away and away, pale and empty, all the way to another ridge of dry mountains far off. There was no sound at all. Not even wind. His ears felt strange, as if the silence was pressing against them. \"Yeah,\" said his father, coming up behind him. \"It does that to me too. Every time.\""
+          ]
+        },
+        {
+          "image": "hb-ch1-p3-inside",
+          "imagePrompt": "Mike Mignola style for children: interior of the small observatory cabin. A wood stove burning warmly. A small wooden kitchen table. On one wall, a hand-drawn star chart pinned up. On another wall, a shelf with a few photographs of family in old frames. Warm firelight. No people visible. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Inside the cabin, his father lit the stove. It was already getting cold. Diego set his bag down on the small bed in the second room, which would be his for the two weeks. He noticed things he had not noticed on his last visit, when he had been eight. On the wall of the main room there was a hand-drawn star chart, pinned up with tacks. It was old, and the paper had gone yellow at the edges. On another wall there was a shelf with photographs — his grandfather, whom Diego had never met. His great-grandmother. A picture of Diego and his father together, when Diego was a baby. His mother was not there. His parents had been separated since Diego was three.",
+            "\"Papá,\" said Diego. He had been meaning to ask this on the drive up, but he had not found the right moment. \"When are you moving to Santiago.\" His father was hanging up his coat. He did not turn around. \"October,\" he said. \"So this is our last summer up here.\" \"Yes,\" said his father. \"This is our last summer here.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Diego sat down on the edge of the bed. He was not sad exactly, because his father moving to Santiago was a good thing — Santiago was where Diego lived, with his mother, and it meant he would see his father much more often, not just twice a year. But he had been thinking about the mountain for a long time. He had made a plan for this trip. He had made lists of things he wanted to see with his father before it was too late. And now he was here, and there were only two weeks, and he did not know how to start.",
+            "His father came in and sat down next to him. He was still wearing his boots. \"Diego,\" he said. \"Listen. I know this is a strange trip. Everything up here you and I will do this time will be the last time we do it. That is a lot to carry. But I want to do something specific with you this summer, if you're willing. Something I should have done with you already, and I kept waiting because you were young. I'm going to teach you our stars.\""
+          ]
+        },
+        {
+          "image": "hb-ch1-p5-star-chart",
+          "imagePrompt": "Mike Mignola style for children: close view of a father's finger (weathered, adult) pointing at a hand-drawn star chart on paper. The chart shows a portion of the southern sky with a specific pattern circled — a group of stars including the Southern Cross. Boy's face (Diego, 12) leaning in to look. Warm cabin light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "His father stood up and went to the chart on the wall. He took it down and brought it to the small kitchen table, and Diego sat across from him. His father spread the chart flat. In the middle of it, drawn in careful pencil around a specific pattern of stars, there was a circle. \"This,\" his father said. \"This is what we watch. My father showed me. His mother showed him. Her father showed her. Four generations. Nobody outside our family has seen this chart. It is not a real constellation. The astronomers do not call it anything. But we do.\"",
+            "Diego leaned in. The circle contained the four stars of the Southern Cross, and also five or six other stars nearby, in a shape he could not quite make out. \"What is it called,\" he asked. His father smiled. \"It does not have a name. Every person in the family has to make up their own name for it. That is one of the rules.\" \"There are rules?\" \"Yes,\" said his father. \"There are three. And every generation adds a story. I will tell you the four stories tonight. And you have until we leave in two weeks to think of the fifth.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Four Stories",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hb-ch2-p1-roof",
+          "imagePrompt": "Mike Mignola style for children: night scene on the flat roof of a small stone cabin high in the desert mountains. A man (Diego's father, 40s) and boy (Diego, 12) lying on their backs on blankets, looking straight up at a sky vast with stars, the Milky Way arching over them. Heavy ink outlines, flat shadows, deep dark blue sky palette with tiny warm gold star points.",
+          "paragraphs": [
+            "That first night they climbed up to the flat roof of the cabin, which his father had reinforced years ago for exactly this purpose. They took a blanket each and a thermos of hot chocolate, and they lay on their backs side by side. The sky at 2,600 meters in the middle of the Atacama was not the sky Diego knew from home. There was no city glow. There was no moon that night. There were more stars than he had ever seen, and the Milky Way was a real river across the middle of the sky, thick and pale and dust-colored, with dark places in it that his father said were clouds of gas so far away he could not even do the math on the distance.",
+            "\"The first rule,\" his father said, \"is that you can only watch it from a place where there is real silence. No cars. No people. It has to be a place where the stars belong. That is why I bring you here. My father brought me to a hill in the country when I was your age. His mother took him to a lake in the south. It changes with the family. The land is not the thing. The silence is the thing.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"The second rule,\" he went on, \"is that when you tell your story, you have to be looking at the constellation. Not at your notes. Not at your listener. At the stars. You have to look at them the whole time you talk.\" \"The third rule is that the story you add cannot be an important story. It cannot be about something famous, or something that will change history, or a thing you did that you are proud of. It has to be something small. A small true thing. Because if it is a small true thing, and you tell it looking at the stars, then it becomes big. That is how it works.\"",
+            "Diego thought about this for a while. He watched the constellation his father had pointed out earlier — the Cross and its five nearby stars, arranged like a person leaning forward with one hand out. \"What is the first story,\" he said. His father was quiet for a moment. \"The first story is my great-grandmother's. Her name was Rosa. She said, looking at these stars in 1918: I planted a tree at my house when I was seven years old. My father did not want me to plant it because it was in a bad place. I planted it anyway. He was angry with me for a week. Then he stopped being angry. When my father died, he was buried in the shade of that tree. It was the only shade in the yard by then. That is what I want to tell.\""
+          ]
+        },
+        {
+          "image": "hb-ch2-p3-stories",
+          "imagePrompt": "Mike Mignola style for children: night scene. A father (40s) sits up on the cabin roof looking at the sky, one hand raised gesturing to the stars. A boy (Diego, 12) still lying on his back, listening. The father's face is soft, focused up. Heavy ink outlines, flat shadows, deep blue night palette, tiny gold star points.",
+          "paragraphs": [
+            "His father was quiet again, giving Rosa's story time to sit. Then he said, \"The second story is my grandfather's. His name was Emilio. He said, looking at these stars in 1946: I had a friend named Tomás when I was nine years old. We were the same age. One day we had a fight about a spinning top. I hit him with a stick and he cried and he ran home. I never went to his house to say I was sorry. He moved away with his family six months later. I have thought about this every year of my life. That is what I want to tell.\"",
+            "\"The third,\" his father went on, \"is my mother's, your grandmother, Ana. She said, looking at these stars in 1978: I was afraid, for a long time, that I was not a good mother. My son was quiet and I did not know what he was thinking. I thought I was doing everything wrong. One night when he was ten he came into my room while I was reading and he put his hand on my hair, just for a moment, and he went back to bed. He said nothing. That was enough to keep me going for a very long time. That is what I want to tell.\"",
+            "\"The fourth,\" said his father, and his voice went softer, \"is mine.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Mine is: I met your mother in a bookstore in Santiago when we were both twenty. I was reading a book that I did not really understand, but I wanted to look like the sort of person who would understand it. She came over and she looked at the book in my hands and she said, this book is very stupid, you should read something better. I was angry with her for about ten seconds. Then I laughed. And I bought a different book. And I asked her out for coffee. Everything in my life that has come after that has been because of a small moment when I laughed instead of being embarrassed. That is what I want to tell.\"",
+            "Diego lay very still. He had never heard the story of how his parents met before. He had asked, more than once, and his father had always given a shorter version — we met in a bookstore, we started talking. Not the whole thing. Not the part where they laughed. He turned his head. He could see his father's face in profile against the stars. His father was still looking up. \"Papá,\" said Diego. \"Yes.\" \"Do the stories have to be about family.\" \"No,\" said his father. \"They just have to be small and true.\""
+          ]
+        },
+        {
+          "image": "hb-ch2-p5-thinking",
+          "imagePrompt": "Mike Mignola style for children: a boy (Diego, 12) walking alone across the pale bone-white desert during the day, one hand in his coat pocket, looking down. Empty desert around him, distant mountains. Pale blue sky. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "For the next twelve days Diego thought about his story. He walked around the desert during the day with his hands in his pockets, thinking. He watched his father work — his father spent most of his time in a small office up at the main telescope, checking data and writing reports. Diego sat in the office some afternoons and read, and thought. He kept trying to find something that felt right. But the small true things he could think of all felt very small, and not very true. Or they felt true but he was not sure why he wanted to tell them.",
+            "He asked his father about it, on the eighth day. \"How did you know yours,\" he said. His father thought for a moment. \"I did not know it,\" he said. \"I made it up. I mean, it was true — it happened. But I did not know why I wanted to tell that one until I was already telling it. You have to just start. You will find out what you meant while you are saying it.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Fifth Story",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hb-ch3-p1-last-day",
+          "imagePrompt": "Mike Mignola style for children: dusk view over the desert. A boy (Diego, 12) sits on the edge of the cabin roof, legs dangling, looking out at the sun setting behind the far mountains. Long shadows across the pale bone land. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold sunset accents.",
+          "paragraphs": [
+            "On the last full day, Diego still did not have his story. He had thought of five different ones over the two weeks, and he had rejected all of them. One about a fish he had caught with his mother and let go. One about the day his best friend Tomás — a different Tomás, a friend at his school — had defended him when a bigger boy pushed him. One about the way his mother sang when she was cooking. Each one had felt close, but not right. Not the story he actually wanted to tell.",
+            "He climbed up onto the roof at dusk to watch the sunset alone, before his father joined him. He watched the light go pink and then orange and then red and then gone, and the desert turn from bone-white to cool grey to almost black. He thought about all the small true things that had happened in his life. He could not narrow them down. He wondered if maybe there was no right one. Maybe you just picked."
+          ]
+        },
+        {
+          "image": "hb-ch3-p2-with-father",
+          "imagePrompt": "Mike Mignola style for children: night. Two figures lying on the roof of the cabin under a vast starfield. Man (father, 40s) and boy (Diego, 12), both wrapped in blankets, both looking up. Milky Way arching over them. Heavy ink outlines, flat shadows, deep dark blue sky palette with tiny warm gold star points.",
+          "paragraphs": [
+            "His father came up when it was fully dark, with two thermoses and two blankets. They lay down on their backs. The constellation his family watched came up over the eastern ridge around eleven o'clock. Diego watched it come up. His father was quiet, giving him time. Diego kept trying to think of a story. Nothing was coming. He watched the stars.",
+            "And then, without meaning to — without deciding to — he started talking. His father did not move. He did not turn to look. Diego was looking at the Cross. He kept looking at it the whole time."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"When I was ten,\" Diego said, \"you called me on my birthday. From up here. It was a bad phone call because the connection kept breaking. And you were talking, and I could not hear you very well, and I was trying to understand you, but I could not. And after a while I got frustrated. And I was going to hang up. But then you said, into the bad phone, 'Diego, I miss you.' And I heard that part. It came through the bad phone perfectly. Just that part. And then the phone cut off. And I sat there on the floor of my room for a while, and then I called Mamá to come and I said the phone was broken. But it was not really broken. I just wanted her to be with me for a minute. That is what I want to tell.\"",
+            "He stopped. He kept looking at the Cross. He heard his father breathing beside him, but his father did not say anything, and did not turn to him, because that was the second rule. You looked at the stars until you were done. So Diego kept looking. And then, because he was not done yet, he said one more thing. \"That was the first time I understood that you being far away was not the same as you not being there. That is all.\" And then he stopped."
+          ]
+        },
+        {
+          "image": "hb-ch3-p4-after",
+          "imagePrompt": "Mike Mignola style for children: on the cabin roof at night. Boy (Diego, 12) sitting up now, looking down at his hands. Man (father, 40s) sitting beside him, one arm around his shoulders. Both quiet. Vast starfield above. Heavy ink outlines, flat shadows, deep dark blue palette with tiny gold star points.",
+          "paragraphs": [
+            "There was a long silence. The stars did not move. His father, next to him, was still looking up. Then his father sat up slowly. He put his arm around Diego's shoulders and pulled him against his side, and he did not say anything at all for a while, and Diego felt him take a very slow breath, and let it out. \"That's a good story, Diego,\" his father said finally. His voice was thick. \"That is the story.\" \"Is it a small enough one,\" said Diego. \"Yes,\" said his father. \"It is very small. It is exactly the right size.\"",
+            "They sat on the roof for a long time after that. Neither of them talked. The Cross moved slowly across the sky, and by the time it was nearly at the western horizon, Diego was almost asleep against his father's shoulder. His father lifted him — even though he was twelve now, and heavy — and carried him down the ladder to his bed."
+          ]
+        },
+        {
+          "image": "hb-ch3-p5-morning-drive",
+          "imagePrompt": "Mike Mignola style for children: interior of a truck cabin during the drive back down the mountain. Morning light. Father driving, boy (Diego, 12) in the passenger seat. Between them, on the seat, the folded star chart. Diego is looking down at the chart with a small still expression. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the morning they packed up and drove down. The chart came with them, folded, on the seat between them. His father did not talk much on the drive. Diego watched the empty land go by. After a while, he opened the chart and looked at it in his lap. There were five circles around the constellation now, one for each generation, and beside each one, in tiny handwriting, was a name. Rosa. Emilio. Ana. Elias. And, in his father's writing, added that morning: Diego.",
+            "\"Papá,\" said Diego. \"Yes.\" \"When my son is old enough. Or my daughter. I have to bring them here.\" His father did not smile, exactly, but his mouth turned up at one corner. \"Somewhere with real silence,\" he said. \"Yes,\" said Diego. \"Somewhere with real silence.\" They drove the rest of the way down the mountain together, and after a while they started talking again about small things, and the observatory disappeared behind them, and Diego held the chart in his lap for the whole four hours, and he did not put it away."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "father",
+    "astronomy",
+    "chile",
+    "memory"
+  ]
+}

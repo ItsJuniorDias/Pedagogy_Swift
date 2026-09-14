@@ -1,0 +1,166 @@
+{
+  "id": "honey-map",
+  "title": "The Honey Map",
+  "subtitle": "A Summer with Uncle Béla",
+  "author": null,
+  "summary": "Ilona is spending August with her Uncle Béla, a beekeeper in a small village in the hills of northern Hungary. He is old and he is stopping soon. He wants to teach her how to read a jar of honey — how to draw a map of where the bees went, from taste alone. Ilona does not want to learn it. Until, in the last jar of the summer, she tastes something impossible.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-honey-map-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Ilona) with long dark braids, wearing a light summer dress and a linen apron, standing in a sunlit farmhouse kitchen at a wooden table. In front of her: several small glass jars of honey in different colors from pale gold to dark amber, a spoon, and a large sheet of paper with a hand-drawn map showing hills, villages, and flower symbols. Behind her: an open kitchen window with a view of low green Hungarian hills and a beehive visible in the garden. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), honey golds, sepia paper, deep ink outlines for outlines, small dusty rose (#FF5B8D) accent on her cheeks. Small margin at top and bottom for card padding.",
+  "category": "wonder",
+  "isPremium": true,
+  "publishedAt": "2026-10-29",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Old Way",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hm-ch1-p1-village",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small Hungarian village in low rolling hills — a few whitewashed houses with red tile roofs, a small church tower, dirt roads, orchards. In the foreground, a girl (Ilona, 11, dark braids, summer dress) walking up a dusty road carrying a canvas bag. Warm summer light. Heavy black ink outlines, flat shadows, cream and sepia palette with muted greens and golden tones.",
+          "paragraphs": [
+            "Uncle Béla's village was so small that it did not really have a name that anyone outside of Hungary would know. It was in the low green hills north of Eger, on a road that ended at his door. Twenty-four houses. A church. A grocery that was open three days a week. The bus came once a day, in the late afternoon, and Ilona took it up from Eger the last week of July, with a canvas bag over her shoulder and a paper with Uncle Béla's number in her pocket in case she got confused.",
+            "She did not get confused. The bus driver knew where she was going. He dropped her at the top of the road and pointed down at a white house at the end. \"That one,\" he said. \"He is expecting you. Go, go.\" So Ilona walked down the road with her bag. She was eleven. She had not been to Uncle Béla's alone before. But she had wanted to come. Her mother had said she did not have to. Her mother had said Ilona could come home whenever she wanted. Ilona had said she wanted to try to stay the whole month."
+          ]
+        },
+        {
+          "image": "hm-ch1-p2-uncle-bela",
+          "imagePrompt": "Mike Mignola style for children: exterior of a small whitewashed Hungarian house with a low front porch. An old man (Uncle Béla, seventies, thin, sunburned, in a linen shirt and worn straw hat) stands at the porch step waiting, holding a small clay cup of water. A girl (Ilona, 11, dark braids) approaching with her canvas bag. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Uncle Béla was waiting on the front porch. He was thin and sunburned and had a face like an old piece of leather, and he wore a linen shirt and a straw hat that had been the same hat forever. When Ilona came up the path he did not stand up right away — his knees were bad, he had told her mother — but he raised his hand at her and smiled, and when she was closer he handed her a small clay cup of cold water. \"Drink,\" he said. \"You walked in the sun. First things first.\" So she drank.",
+            "Uncle Béla was her mother's uncle, so her great-uncle. He was seventy-four. He had been a beekeeper since he was fourteen, which meant sixty years, and everyone in the family said he was one of the last people in Hungary who did it the old way — no chemicals, no plastic hives, no shortcut anything. His honey was famous in Eger. People came from far away to buy it. Ilona had grown up eating it. She had never really thought about how it was made."
+          ]
+        },
+        {
+          "image": "hm-ch1-p3-hives",
+          "imagePrompt": "Mike Mignola style for children: a small back garden in a Hungarian village. In the center: several old wooden bee hives — box-shaped, painted in faded pale colors, arranged in a row on wooden supports. Bees flying around them. In the background, a small orchard of pear trees and beyond that, the low green hills. A girl (Ilona, 11) stands at a safe distance watching. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The bees lived in the back garden. There were seven hives, painted in old faded colors — pale blue, pale green, yellow that had gone almost cream. Uncle Béla did not wear a suit or a veil when he went near them. He was very slow and very calm around them, and he sang in a low voice as he worked. \"They know me,\" he said, when Ilona asked. \"I have been here as long as they have. Longer. My father put these hives in this garden. My grandfather made three of the boxes with his own hands. The bees now are not the same bees. But it is the same colony. They know.\"",
+            "He looked at Ilona. \"You do not have to come close. That is your choice. I will tell you when it is safe. But you will not learn what I want to teach you by staying at the back gate. So think about it.\" Ilona thought about it. She stayed at the back gate for the first two days. On the third day she came up to the hives with him, slowly, and stood beside him while he opened one, and he showed her the comb, and the bees walked around on his hands and did not sting him, and she did not scream. She was proud of this."
+          ]
+        },
+        {
+          "image": "hm-ch1-p4-tasting",
+          "imagePrompt": "Mike Mignola style for children: interior of a Hungarian farmhouse kitchen. A small wooden table with several small glass jars of honey in different colors from pale gold to dark amber. An old man (Uncle Béla) sits across from a girl (Ilona, 11) at the table. He is holding out a small wooden spoon with honey on it. Warm sunlight through a small window. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "It was in the kitchen, that first week, that he explained the map. He had six small glass jars on the table, each with a small handwritten paper label. He gave her a small wooden spoon. \"Try this one first,\" he said, opening the palest jar. She dipped the spoon and tasted. It was honey. It tasted like honey. It was very good honey. She said so. Uncle Béla nodded, patient. \"Yes. But listen. Now this one.\" He opened the next jar, which was slightly darker. She tasted. This one was different. It was still honey, but it had a — she did not have the word — a bit of a bite to it. Something almost like pepper.",
+            "\"Now this one.\" A darker one. This one tasted like flowers. Really tasted like flowers, so much that she could almost see them. \"And this one.\" The darkest. This one was almost bitter, almost like tea, almost like something burned. She was surprised. She had thought all honey was more or less the same. \"They are all mine,\" said Uncle Béla. \"All from those seven hives out there. All from this summer. All different because the bees went different places for the nectar. That is what makes them different. That is what a beekeeper who knows how to taste can read.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "He took out a large sheet of paper. On it, drawn in fine ink, was a hand-drawn map. It showed the village at the bottom, and the hills around it, and small circles for the places bees had gone during different weeks of the summer. Each circle had a symbol beside it — a flower, a tree, a small pot. \"This one is where they went at the beginning of June,\" he said, pointing. \"The acacia trees on that hill. This one, mid-June — buckwheat, in the field of Farkas Antal. This one — end of June — the wild thyme up the pass. I know because I taste it. That is how I make the map.\"",
+            "Ilona looked at the map for a long time. She thought it was very beautiful. She thought Uncle Béla was probably a little crazy. \"Uncle Béla,\" she said. \"Nobody would know if you drew the map wrong. You could just guess.\" Uncle Béla laughed. He did not laugh often. \"You are right,\" he said. \"Nobody would know. Nobody but the bees. And me. And now, if you learn it — you.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Ilona Learns",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hm-ch2-p1-teaching",
+          "imagePrompt": "Mike Mignola style for children: interior kitchen scene. An old man (Uncle Béla) and a girl (Ilona, 11) sit at the table facing each other, jars and small saucers between them. He is speaking, gesturing. She is listening with a slightly annoyed expression, arms folded. Late afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The first two weeks were frustrating for Ilona. Uncle Béla was patient but firm. Every day at four o'clock they sat at the kitchen table, and he opened jars, and he made her taste them, and he asked her what she tasted. At first she could only say \"honey.\" He would nod and let her try again. Slowly she started to notice things. Bitter. Sweet. Floral. Pepper. Woody. She began to have words for the differences.",
+            "But even when she could describe a taste, she could not connect the taste to a place. Uncle Béla would say, \"So where were the bees? Look at the map. Where were they in mid-July?\" And she would guess wrong. She did not know what acacia tasted like, or thyme, or clover. She was a city child. She was learning a language that she had no vocabulary for. It felt impossible. On the tenth day she got angry and pushed her jar away and said, \"Uncle Béla, I can't do this. Nobody does this anymore. Why does it matter.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Uncle Béla did not answer right away. He took the jar back. He put the lid on it. He did not look angry, but he did not look happy either. He said, quietly, \"It matters because when I die, this will die. My father was the last one who knew this. His mother taught him. I have been trying for years to find someone to teach it to. Everyone says nobody does this anymore. Everyone says it is silly. But when the last person who can do it is gone, then it is gone. That is what a lost thing is.\"",
+            "Ilona sat with her hands in her lap. She had not thought of it like that. She said, \"I'm sorry.\" Uncle Béla shook his head. \"Do not be sorry. But do not stop. It is your choice, of course. You can go home whenever you want. But if you stay, please be serious about it. If you do it you might be the last one after me. Or you might not. Maybe you teach it to your own daughter someday. That is what I hope for. But even if you never teach anyone, you will know. That is enough. Someone will still know how to read a jar of honey.\""
+          ]
+        },
+        {
+          "image": "hm-ch2-p3-outside",
+          "imagePrompt": "Mike Mignola style for children: an old man (Uncle Béla) and a girl (Ilona, 11) walking together on a dirt path through a wildflower meadow in the low Hungarian hills. He is pointing at a plant with small purple flowers. She is bent close to smell it. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "So Ilona kept trying. After that day, Uncle Béla changed how he taught her. Instead of tasting inside, he took her out onto the hills. He showed her the acacia trees, and he had her taste an acacia flower. \"See? Slightly sweet, slightly like grass. This is what the honey will taste like.\" He showed her the thyme, and had her rub it between her fingers, and smell it. He showed her wild sunflowers, and buckwheat fields, and a small stand of lime trees behind the church. Each thing had a smell and a taste, and each thing translated, later, into a taste in the honey.",
+            "It was slow going. But it was better than the kitchen. Ilona began to like the walks. She began to like the plants. She began to like Uncle Béla in a new way — not just as the great-uncle who used to give her honey on toast, but as a person who knew things. Real things. Things that were hard to know."
+          ]
+        },
+        {
+          "image": "hm-ch2-p4-first-guess",
+          "imagePrompt": "Mike Mignola style for children: kitchen table scene. A girl (Ilona, 11) tasting honey from a spoon with her eyes closed, concentrating. An old man (Uncle Béla) watching her with a slight smile. Small jars around them. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "By the end of the third week, Ilona could get some things right. Not everything. Not most things. But sometimes. Uncle Béla would open a jar, and she would taste it with her eyes closed, and she would say, \"This is acacia. Early. Maybe the third week of June.\" And Uncle Béla would smile and check the label, and she would be right. When she was right, she felt something completely new. It was not exactly pride. It was more like — recognition. As if she had opened a door and found a room that had always been there, waiting.",
+            "\"You are doing it,\" he said, one evening. \"You are actually doing it. I did not know if you would. I thought maybe you would not. But you are.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Uncle Béla,\" she said. \"There are seven jars in a row. I know what six of them are. But there is one from last week that I cannot figure out. It has something in it I have not tasted before.\" Uncle Béla nodded. \"Bring it out.\" She got up and got it from the shelf. It was the last jar of the season, from the very last collection Uncle Béla had done, three days before Ilona had first come. It was a light amber color, unremarkable to look at. She poured a small spoonful onto her spoon. She tasted it again. There it was. Something she could not name. Something that reminded her of somewhere, but she did not know where."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Last Jar",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hm-ch3-p1-thinking",
+          "imagePrompt": "Mike Mignola style for children: a girl (Ilona, 11) sits alone in the kitchen at night with just a candle lit, holding a small jar of honey and a spoon, tasting slowly, her face concentrating hard. Heavy ink outlines, flat shadows, warm cream and gold palette with cool dark surroundings.",
+          "paragraphs": [
+            "Ilona stayed up late that night thinking about the jar. She tasted it three more times. Each time she was more sure — there was something in it that she knew. Not from the walks with Uncle Béla. From somewhere else in her life. But she could not remember where. It was a small strange taste, tucked under the other tastes — a bit of clover, mostly, and some meadow flower — but with something else. Something that made her want to close her eyes and stand in a specific place. She just could not remember what place.",
+            "The next morning she asked Uncle Béla to walk with her again. \"I need to find the source,\" she said. \"There is something in the last jar I do not know.\" Uncle Béla looked pleased. \"Good,\" he said. \"That is exactly how it should feel. Let us look.\""
+          ]
+        },
+        {
+          "image": "hm-ch3-p2-search",
+          "imagePrompt": "Mike Mignola style for children: an old man (Uncle Béla) and a girl (Ilona, 11) walking together along a small dirt path through open Hungarian countryside — wildflowers, low hedges, a distant farmhouse. He points at a plant. She examines it. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They walked for two days. They walked to every place Uncle Béla thought the bees might have gone in early August. They tasted flowers. They examined the fields around Farkas Antal's farm. They walked up the pass to the wild thyme. They went to the small stand of linden trees. Ilona chewed on things and rubbed leaves between her fingers and stood with her eyes closed. Nothing matched. She kept tasting the honey from a small container in her pocket. The mystery flavor was still there, and she still knew it from somewhere.",
+            "\"It is not one of the local ones,\" Uncle Béla said, on the second evening. \"That is very strange. Bees do not usually fly far. But sometimes one goes far, if the weather is right, and if the taste is very good. Twenty kilometers is possible. Even thirty.\" He looked at Ilona. \"Where were you in the third week of July, Ilona. What flowers were near you.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Ilona thought. In the third week of July she had been at her grandmother's house. Not Uncle Béla — her other grandmother, her father's mother, whose name was Anna, and who had died the previous November. Ilona and her mother had gone to Nagymama Anna's house to help clean it out. It had been sad. Nagymama Anna's garden had been almost overgrown by then, because nobody had tended it for eight months. But her lavender had still been blooming. Whole rows of it. Big fat purple bushes that Nagymama Anna had planted many years ago. Ilona had sat in the middle of the lavender for a long time that afternoon, while her mother packed boxes. The smell of it had been everywhere.",
+            "Nagymama Anna's house was in a village called Erdőkövesd. It was thirty-two kilometers north of Uncle Béla's village. Ilona sat down on the path. She looked at Uncle Béla. \"Uncle Béla,\" she said. \"I know what it is. But I don't understand how.\" \"Tell me,\" he said. \"Lavender,\" she said. \"From my grandmother's garden. She's dead. Her house is thirty kilometers away.\" Uncle Béla was very quiet. Then he said, softly, \"Ah. That is very far. But sometimes one bee will fly that far. If she is looking for something specific. Only one bee. That is enough to change the taste of a whole jar, if there was enough lavender.\""
+          ]
+        },
+        {
+          "image": "hm-ch3-p4-first-map",
+          "imagePrompt": "Mike Mignola style for children: interior kitchen at evening. On the large table, a fresh sheet of paper. A girl (Ilona, 11) is drawing carefully on it with a fine pen. She has drawn a large circle in the north of the paper, with a small careful lavender symbol inside it, and a dotted line running south to where the village of Uncle Béla is marked. An old man (Uncle Béla) watches, smiling. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That evening Ilona sat at the kitchen table and Uncle Béla brought her a fresh sheet of paper. \"Draw it,\" he said. \"Draw the map for the last jar.\" So Ilona drew. She drew the village of Uncle Béla at the bottom. She drew the hills. She drew the small circles for the places she now knew — the acacia trees, the clover fields, the small stand of thyme. And then, at the very top of the page, thirty-two kilometers north, she drew a much larger circle. And inside it she drew a small careful lavender flower. Beside it, she wrote: Nagymama Anna, 2015-2025.",
+            "Uncle Béla looked at the map for a long time. Then he said, \"That is a very good map, Ilona.\" She could not speak. She was too full of something. She was not exactly crying but she could not quite talk. Uncle Béla did not try to make her. He only sat with her while she looked at her map."
+          ]
+        },
+        {
+          "image": "hm-ch3-p5-last-day",
+          "imagePrompt": "Mike Mignola style for children: exterior farmhouse view. On the porch step, an old man (Uncle Béla) sits next to a girl (Ilona, 11) with her canvas bag beside her, waiting for the bus. Both looking out at the low green hills together in the pale morning light. On her lap is the rolled-up map. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "It was Ilona's last day. The bus back to Eger was at eight in the morning, and she and Uncle Béla sat together on the porch step waiting for it. The map was rolled up in her canvas bag. Uncle Béla was going to keep drawing the maps, he had said, for a few more years. Maybe two, maybe three. Then he would stop. And he would send her every jar he made, with a little note saying which map it belonged to. And when she was older, when she wanted to, she could come back and he would show her the rest of what he knew. Or she could learn it on her own. Or she could stop. That was her choice.",
+            "\"Uncle Béla,\" she said. \"I don't think I'll stop.\" He smiled. He did not look surprised. He said, \"I did not think so either.\" And then the bus came, and she got on it, and she waved to him as he stood at the top of the road with his hand raised, and she looked at the low green hills going by all the way back to Eger, and she thought about a single bee, flying thirty-two kilometers north through the summer air, past every other flower it might have chosen, looking for the smell of her grandmother's garden."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "hungary",
+    "grandmother",
+    "memory",
+    "craft"
+  ]
+}

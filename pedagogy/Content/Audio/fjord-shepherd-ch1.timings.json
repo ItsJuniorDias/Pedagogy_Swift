@@ -1,0 +1,553 @@
+{
+  "story_id": "fjord-shepherd",
+  "chapter": 1,
+  "total_duration_ms": 389904,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Signe was eleven and lived in Bergen, on the wet green west coast of Norway.",
+      "start_ms": 1739,
+      "end_ms": 6358
+    },
+    {
+      "index": 1,
+      "text": "Her father was a schoolteacher and her mother worked at an insurance office and neither of them was, in any sense, a country person.",
+      "start_ms": 6358,
+      "end_ms": 14335
+    },
+    {
+      "index": 2,
+      "text": "But her father's older brother, her uncle Ólafur, was — Ólafur was a sheep farmer, and had been all his life, on a narrow green shelf of land above the Nærøyfjord, one of the deepest and narrowest fjords on the whole west coast.",
+      "start_ms": 14335,
+      "end_ms": 28070
+    },
+    {
+      "index": 3,
+      "text": "It was three hours by car and boat from Bergen.",
+      "start_ms": 28070,
+      "end_ms": 30949
+    },
+    {
+      "index": 4,
+      "text": "Ólafur had never married.",
+      "start_ms": 30949,
+      "end_ms": 32509
+    },
+    {
+      "index": 5,
+      "text": "He lived alone in a small red-painted wooden farmhouse with a barn and a wood-fired kitchen and three hundred sheep.",
+      "start_ms": 32509,
+      "end_ms": 39526
+    },
+    {
+      "index": 6,
+      "text": "He had inherited the farm from his own father, who had inherited it from his father, who had cleared the shelf of trees a hundred and forty years ago.",
+      "start_ms": 39526,
+      "end_ms": 48643
+    },
+    {
+      "index": 7,
+      "text": "Every July, Signe went for three weeks.",
+      "start_ms": 48643,
+      "end_ms": 51043
+    },
+    {
+      "index": 8,
+      "text": "She had first gone when she was six, with her father, and had loved it enough to keep going every year since.",
+      "start_ms": 51043,
+      "end_ms": 57640
+    },
+    {
+      "index": 9,
+      "text": "This July she was eleven, and she was — for the first time — considered old enough to help with the sheep on the high pastures.",
+      "start_ms": 57640,
+      "end_ms": 65318
+    },
+    {
+      "index": 10,
+      "text": "That was the plan for the summer.",
+      "start_ms": 65318,
+      "end_ms": 67417
+    },
+    {
+      "index": 11,
+      "text": "Ólafur was in his early fifties.",
+      "start_ms": 67417,
+      "end_ms": 69396
+    },
+    {
+      "index": 12,
+      "text": "He had a short greying blond beard, and pale grey eyes, and hands that had lifted lambs out of ewes for thirty years and looked like it.",
+      "start_ms": 69396,
+      "end_ms": 77613
+    },
+    {
+      "index": 13,
+      "text": "He was quieter even than Signe's father, which was saying something.",
+      "start_ms": 77613,
+      "end_ms": 81752
+    },
+    {
+      "index": 14,
+      "text": "He did not chat, ever.",
+      "start_ms": 81752,
+      "end_ms": 83132
+    },
+    {
+      "index": 15,
+      "text": "He said what needed to be said.",
+      "start_ms": 83132,
+      "end_ms": 85051
+    },
+    {
+      "index": 16,
+      "text": "When Signe asked him a question, he thought about the answer for as long as it took, and then he gave it in as few words as possible.",
+      "start_ms": 85051,
+      "end_ms": 93088
+    },
+    {
+      "index": 17,
+      "text": "Signe had learned, over five summers, that this was not because Ólafur did not care.",
+      "start_ms": 93088,
+      "end_ms": 98186
+    },
+    {
+      "index": 18,
+      "text": "It was because Ólafur believed that words used up something in the world, and that they should be spent carefully.",
+      "start_ms": 98186,
+      "end_ms": 105024
+    },
+    {
+      "index": 19,
+      "text": "In the traditional Norwegian way, Ólafur's sheep spent the summer up on the fjellbeite — the high mountain pastures above the fjord.",
+      "start_ms": 105024,
+      "end_ms": 114100
+    },
+    {
+      "index": 20,
+      "text": "In late June each year he drove them up the steep trail behind the farm, past the tree line, and released them onto the alpine grass.",
+      "start_ms": 114100,
+      "end_ms": 123245
+    },
+    {
+      "index": 21,
+      "text": "There they roamed freely for two and a half months, feeding on the fresh summer grass and the small alpine herbs that made Norwegian mutton famous.",
+      "start_ms": 123245,
+      "end_ms": 133345
+    },
+    {
+      "index": 22,
+      "text": "Ólafur went up every four or five days to check them, walking the long high loops of the ridge.",
+      "start_ms": 133345,
+      "end_ms": 139897
+    },
+    {
+      "index": 23,
+      "text": "In late August or early September he brought them down again.",
+      "start_ms": 139897,
+      "end_ms": 144128
+    },
+    {
+      "index": 24,
+      "text": "That was the year's rhythm.",
+      "start_ms": 144128,
+      "end_ms": 146107
+    },
+    {
+      "index": 25,
+      "text": "Signe helped with the daily work on the farm — feeding the chickens, mending the low stone walls, oiling Ólafur's tools, making bread with him in the wood-fired oven.",
+      "start_ms": 146107,
+      "end_ms": 157504
+    },
+    {
+      "index": 26,
+      "text": "In her second week, Ólafur said, at breakfast, \"On Friday I am going up to check the high pasture.",
+      "start_ms": 157504,
+      "end_ms": 164260
+    },
+    {
+      "index": 27,
+      "text": "You will come with me.",
+      "start_ms": 164260,
+      "end_ms": 165829
+    },
+    {
+      "index": 28,
+      "text": "It is a long walk.",
+      "start_ms": 165829,
+      "end_ms": 167126
+    },
+    {
+      "index": 29,
+      "text": "Wear the good boots.",
+      "start_ms": 167126,
+      "end_ms": 168559
+    },
+    {
+      "index": 30,
+      "text": "Bring your rain trousers.\" Signe was very pleased.",
+      "start_ms": 168559,
+      "end_ms": 172040
+    },
+    {
+      "index": 31,
+      "text": "She had asked to go up every year and every year Ólafur had said, next year.",
+      "start_ms": 172040,
+      "end_ms": 177363
+    },
+    {
+      "index": 32,
+      "text": "Thursday afternoon, they made preparations.",
+      "start_ms": 177363,
+      "end_ms": 180365
+    },
+    {
+      "index": 33,
+      "text": "Ólafur packed a small hard bag with a flask of coffee, some hard bread and brown cheese, a small first-aid kit, a length of thin rope, a compass, a folded map of the ridge, and a small radio for weather updates.",
+      "start_ms": 180365,
+      "end_ms": 194833
+    },
+    {
+      "index": 34,
+      "text": "He took his own staff — a long curved shepherd's staff made of dark birchwood, with a black iron hook at the end.",
+      "start_ms": 194833,
+      "end_ms": 202613
+    },
+    {
+      "index": 35,
+      "text": "It was as tall as he was.",
+      "start_ms": 202613,
+      "end_ms": 204387
+    },
+    {
+      "index": 36,
+      "text": "It looked ancient.",
+      "start_ms": 204387,
+      "end_ms": 205684
+    },
+    {
+      "index": 37,
+      "text": "Signe asked about it.",
+      "start_ms": 205684,
+      "end_ms": 207185
+    },
+    {
+      "index": 38,
+      "text": "Ólafur said, \"My grandfather made it.",
+      "start_ms": 207185,
+      "end_ms": 209778
+    },
+    {
+      "index": 39,
+      "text": "Nineteen twenty-eight.",
+      "start_ms": 209778,
+      "end_ms": 211348
+    },
+    {
+      "index": 40,
+      "text": "He was your age when he cut the wood.",
+      "start_ms": 211348,
+      "end_ms": 213941
+    },
+    {
+      "index": 41,
+      "text": "The iron hook was already old — from a farm implement his own grandfather had.",
+      "start_ms": 213941,
+      "end_ms": 219333
+    },
+    {
+      "index": 42,
+      "text": "So the staff is a hundred years old and the hook is older.",
+      "start_ms": 219333,
+      "end_ms": 223359
+    },
+    {
+      "index": 43,
+      "text": "Passed to my father, then to me.",
+      "start_ms": 223359,
+      "end_ms": 225611
+    },
+    {
+      "index": 44,
+      "text": "It works.\" He turned it around in his hands.",
+      "start_ms": 225611,
+      "end_ms": 228682
+    },
+    {
+      "index": 45,
+      "text": "On the shaft, near the top, Signe could see, burned into the wood, two small letters — OT.",
+      "start_ms": 228682,
+      "end_ms": 234892
+    },
+    {
+      "index": 46,
+      "text": "\"Olav Torgersen,\" Ólafur said.",
+      "start_ms": 234892,
+      "end_ms": 237008
+    },
+    {
+      "index": 47,
+      "text": "\"His mark.",
+      "start_ms": 237008,
+      "end_ms": 237758
+    },
+    {
+      "index": 48,
+      "text": "On everything he made.\"",
+      "start_ms": 237758,
+      "end_ms": 239328
+    },
+    {
+      "index": 49,
+      "text": "That evening Ólafur turned on the small radio and listened to the coastal weather forecast, as he did every evening.",
+      "start_ms": 239328,
+      "end_ms": 246916
+    },
+    {
+      "index": 50,
+      "text": "He listened for a long time.",
+      "start_ms": 246916,
+      "end_ms": 248796
+    },
+    {
+      "index": 51,
+      "text": "When it was over, he said to Signe, \"There is a summer storm moving in tomorrow afternoon.",
+      "start_ms": 248796,
+      "end_ms": 254698
+    },
+    {
+      "index": 52,
+      "text": "Not too bad — thunder, hard rain, maybe two hours.",
+      "start_ms": 254698,
+      "end_ms": 258005
+    },
+    {
+      "index": 53,
+      "text": "Nothing dangerous down here.",
+      "start_ms": 258005,
+      "end_ms": 259886
+    },
+    {
+      "index": 54,
+      "text": "But on the ridge, weather is always more.",
+      "start_ms": 259886,
+      "end_ms": 262609
+    },
+    {
+      "index": 55,
+      "text": "We go early tomorrow.",
+      "start_ms": 262609,
+      "end_ms": 264036
+    },
+    {
+      "index": 56,
+      "text": "We check the sheep quickly.",
+      "start_ms": 264036,
+      "end_ms": 265852
+    },
+    {
+      "index": 57,
+      "text": "If they are where they should be, we come straight back down.",
+      "start_ms": 265852,
+      "end_ms": 269873
+    },
+    {
+      "index": 58,
+      "text": "If any are missing, we deal with that.",
+      "start_ms": 269873,
+      "end_ms": 272402
+    },
+    {
+      "index": 59,
+      "text": "Then home before the rain.\"",
+      "start_ms": 272402,
+      "end_ms": 274282
+    },
+    {
+      "index": 60,
+      "text": "Signe said, \"Are the sheep in danger from thunder?\" Ólafur said, \"Not usually.",
+      "start_ms": 274282,
+      "end_ms": 279406
+    },
+    {
+      "index": 61,
+      "text": "They know to find shelter.",
+      "start_ms": 279406,
+      "end_ms": 281157
+    },
+    {
+      "index": 62,
+      "text": "They have been on that ridge for a thousand years.",
+      "start_ms": 281157,
+      "end_ms": 284464
+    },
+    {
+      "index": 63,
+      "text": "What I worry about, when there is thunder, is Ester.\" He drank his coffee.",
+      "start_ms": 284464,
+      "end_ms": 289328
+    },
+    {
+      "index": 64,
+      "text": "Signe waited.",
+      "start_ms": 289328,
+      "end_ms": 290236
+    },
+    {
+      "index": 65,
+      "text": "He said, \"Ester is old.",
+      "start_ms": 290236,
+      "end_ms": 291792
+    },
+    {
+      "index": 66,
+      "text": "Eight years.",
+      "start_ms": 291792,
+      "end_ms": 292635
+    },
+    {
+      "index": 67,
+      "text": "Old for a mountain ewe.",
+      "start_ms": 292635,
+      "end_ms": 294191
+    },
+    {
+      "index": 68,
+      "text": "She is the smartest sheep I have.",
+      "start_ms": 294191,
+      "end_ms": 296396
+    },
+    {
+      "index": 69,
+      "text": "She always leads the others down when the weather is bad.",
+      "start_ms": 296396,
+      "end_ms": 300158
+    },
+    {
+      "index": 70,
+      "text": "That is her role in the flock.",
+      "start_ms": 300158,
+      "end_ms": 302168
+    },
+    {
+      "index": 71,
+      "text": "If the flock is under a rock overhang tomorrow, she is the reason.",
+      "start_ms": 302168,
+      "end_ms": 306513
+    },
+    {
+      "index": 72,
+      "text": "But she is also curious.",
+      "start_ms": 306513,
+      "end_ms": 308134
+    },
+    {
+      "index": 73,
+      "text": "She wanders.",
+      "start_ms": 308134,
+      "end_ms": 308977
+    },
+    {
+      "index": 74,
+      "text": "Sometimes I find her in strange places.",
+      "start_ms": 308977,
+      "end_ms": 311571
+    },
+    {
+      "index": 75,
+      "text": "If she is not with the others tomorrow, I want to know why.\"",
+      "start_ms": 311571,
+      "end_ms": 315592
+    },
+    {
+      "index": 76,
+      "text": "They left at six in the morning.",
+      "start_ms": 315592,
+      "end_ms": 317732
+    },
+    {
+      "index": 77,
+      "text": "The trail up from the farm was a hard steep zig-zag cut into the side of the mountain — the same trail Ólafur's grandfather and great-grandfather had used.",
+      "start_ms": 317732,
+      "end_ms": 327849
+    },
+    {
+      "index": 78,
+      "text": "It took Ólafur about ninety minutes to climb at his own pace.",
+      "start_ms": 327849,
+      "end_ms": 331870
+    },
+    {
+      "index": 79,
+      "text": "It took Signe closer to two hours, at eleven.",
+      "start_ms": 331870,
+      "end_ms": 334853
+    },
+    {
+      "index": 80,
+      "text": "Ólafur waited at each of the switchbacks without commenting.",
+      "start_ms": 334853,
+      "end_ms": 338809
+    },
+    {
+      "index": 81,
+      "text": "He never rushed her.",
+      "start_ms": 338809,
+      "end_ms": 340170
+    },
+    {
+      "index": 82,
+      "text": "She was pleased with herself for keeping up as well as she did.",
+      "start_ms": 340170,
+      "end_ms": 344256
+    },
+    {
+      "index": 83,
+      "text": "At the top of the climb, the trail opened out onto the high pasture — a wide gently sloping green shelf that ran along the top of the fjord for several kilometers before rising into higher rock.",
+      "start_ms": 344256,
+      "end_ms": 356636
+    },
+    {
+      "index": 84,
+      "text": "It was cool, and the wind was fresh, and the sky was pale grey with a heavier line of cloud on the western horizon.",
+      "start_ms": 356636,
+      "end_ms": 364001
+    },
+    {
+      "index": 85,
+      "text": "Ólafur stopped and scanned the pasture with his small binoculars.",
+      "start_ms": 364001,
+      "end_ms": 368191
+    },
+    {
+      "index": 86,
+      "text": "Signe stood beside him and looked too.",
+      "start_ms": 368191,
+      "end_ms": 370667
+    },
+    {
+      "index": 87,
+      "text": "There were sheep scattered across the green — perhaps a hundred and fifty of them visible from where they stood.",
+      "start_ms": 370667,
+      "end_ms": 377841
+    },
+    {
+      "index": 88,
+      "text": "Others were probably around the bend or in the low folds.",
+      "start_ms": 377841,
+      "end_ms": 381524
+    },
+    {
+      "index": 89,
+      "text": "But even from here Signe could see they were unsettled — bunched, not grazing, heads up.",
+      "start_ms": 381524,
+      "end_ms": 387174
+    },
+    {
+      "index": 90,
+      "text": "They already knew the weather was changing.",
+      "start_ms": 387174,
+      "end_ms": 389904
+    }
+  ]
+}

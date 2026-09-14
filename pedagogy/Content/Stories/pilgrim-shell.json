@@ -1,0 +1,167 @@
+{
+  "id": "pilgrim-shell",
+  "title": "The Pilgrim Shell",
+  "subtitle": "Five Days on the Camino",
+  "author": null,
+  "summary": "Sofia is eleven. Her aunt Marisa has cancer and does not know how much longer she will be well enough to walk. She has always wanted to walk the last week of the Camino de Santiago pilgrimage, ending at the great cathedral in Santiago de Compostela. She asks Sofia to walk with her — just the two of them, five days, one hundred kilometers. Sofia says yes without really understanding what she is agreeing to.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-pilgrim-shell-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Sofia) with dark straight hair, wearing a lightweight hiking shirt and shorts and hiking boots, walking beside a thin woman in her early forties (Aunt Marisa) with a headscarf covering short hair growing back, both wearing small daypacks. Both have a scallop shell tied to their pack straps with red cord — the traditional pilgrim symbol. They walk on a dirt path through the rolling green Galician countryside, a small stone waymarker with a yellow arrow visible ahead. Warm morning light, distant hills. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0), muted Galician greens, deep ink outlines, small dusty rose (#FF5B8D) accent on the red cord and their cheeks. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2027-04-08",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Sarria",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ps-ch1-p1-starting",
+          "imagePrompt": "Mike Mignola style for children: exterior morning view of the small town of Sarria in Galicia, Spain. Traditional stone buildings, narrow streets. A church bell tower. In the foreground, a woman in her early forties (Aunt Marisa, thin, headscarf) and a girl (Sofia, 11) with small backpacks are checking a paper map on a low wall. Warm morning light. Heavy black ink outlines, flat shadows, cream palette with muted stone tones.",
+          "paragraphs": [
+            "Sofia was eleven, and she was in the small Galician town of Sarria at eight in the morning on a Tuesday in May, standing at the beginning of a path that ended one hundred kilometers away in the great cathedral of Santiago de Compostela. She had a small backpack. She had a wooden walking stick. She had a scallop shell tied to her backpack strap with a piece of red cord. The scallop shell was the ancient symbol of a pilgrim on the Camino, and Sofia was, this week, a pilgrim.",
+            "Beside her stood her Aunt Marisa. Marisa was her father's younger sister. She was forty-three. She was thin — thinner than she should have been — and she wore a soft cotton headscarf over her head because her hair, which had been dark and long, was now growing back short and gray after eight months of chemotherapy. Aunt Marisa had breast cancer. It was, at the moment, in a kind of quiet phase — she had had one round of treatment, and the doctors had said she could do this walk if she wanted to, though they had not exactly recommended it. She would need another round of treatment when she got back. And after that — the doctors had said they would see. Nothing was promised. Nothing was ruled out."
+          ]
+        },
+        {
+          "image": "ps-ch1-p2-shell",
+          "imagePrompt": "Mike Mignola style for children: close view of a small scallop shell tied to a backpack strap with red cord. In the background, an unfocused Galician stone building. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "It had been Aunt Marisa's idea. Six months ago, when her hair had just started to fall out, she had called Sofia on a Sunday afternoon. She had said, \"Sofia. I want to walk the Camino de Santiago. The last hundred kilometers. From Sarria to Santiago. I have always wanted to. And I want you to come with me. Just you. Not your parents. Not your uncle. Just us.\" Sofia had been surprised. She had said, \"I am eleven, Aunt Marisa.\" Aunt Marisa had said, \"Yes. That is why I want you. I want to walk it with someone who has not seen most of what I have seen. I want to walk it with someone who is looking at the world for the first time. Also — I love you. I want to spend a week with you before the next round of treatment.\"",
+            "Sofia's parents had had a long conversation about it. Her mother had been worried. Her father had said, \"Marisa is right. Sofia should go. It will be good for both of them.\" The doctors had agreed. And so, six months later, on a warm May morning, Sofia stood in Sarria with her aunt, ready to begin. Aunt Marisa turned to her. She said, \"Ready?\" Sofia said, \"Yes.\" Aunt Marisa said, \"Buen Camino.\" And they started walking."
+          ]
+        },
+        {
+          "image": "ps-ch1-p3-path",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A stone path leading out of Sarria and into the Galician countryside. On both sides, low stone walls, small fields with cows, wooded hills in the distance. Marisa and Sofia walk together, both looking around at the landscape. Warm morning light. Heavy ink outlines, flat shadows, cream palette with muted greens.",
+          "paragraphs": [
+            "The Camino was a path — it had been a path for over a thousand years. Pilgrims from all over Europe had walked to Santiago since the ninth century, when the bones of the apostle James were said to have been found there. Sofia had known this from school. She had thought of it as an ancient religious thing. But when they walked out of Sarria that first morning, she saw that it was still a very living thing. There were other pilgrims on the path — not many at this hour, but a steady trickle. Some old, some young. Some in groups. Some alone. Some with heavy packs, some with light packs. All of them wearing scallop shells. All of them going the same direction, west.",
+            "The path went out into the Galician countryside. It was very green. There were low stone walls on both sides of the path. There were fields with cows. There were small oak woods. Every so often the path went through a small village of stone houses with slate roofs — three or four houses, a cow in a yard, a small chapel, a fountain. Then out again into the fields. Sofia had never seen anywhere like this. She had lived her whole life in Madrid, in a city. This — a whole country of small quiet green places — was new to her."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"How are you feeling,\" Aunt Marisa asked, after about an hour. \"Good,\" said Sofia. \"How are you feeling.\" Marisa smiled. She said, \"I am tired. But I am the good kind of tired. I have not walked much in eight months. My legs have forgotten. But my heart is happy. Both are true.\" They walked in silence for a while. Then Marisa said, \"I want to tell you something, Sofia. I do not want you to worry, on this walk, about my — my health. I know you know I am sick. That is a fact. But this week is not about my sickness. This week is about — walking. About us being together. About the small things we see. If I need to rest, I will rest. If I need to say something, I will say it. But I do not want you to be careful with me. I want you to be an eleven-year-old on a long walk. Can you do that.\"",
+            "Sofia thought. She said, \"Yes. I can try.\" Marisa said, \"Good. If I am too much aunt today, tell me. And if you are too much eleven-year-old, I will tell you. We will just — walk.\""
+          ]
+        },
+        {
+          "image": "ps-ch1-p5-first-night",
+          "imagePrompt": "Mike Mignola style for children: interior scene at a small pilgrim's albergue (hostel) — a plain simple dormitory with several bunk beds. Marisa and Sofia sit on the lower bed of their bunk, eating simple food from a small brown paper bag. A few other pilgrims are visible in the background arranging their beds. Warm evening light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "They walked twenty kilometers that first day. They stopped in a small village called Portomarín. There was a pilgrim's albergue — a hostel — where any pilgrim with a shell could stay for a few euros a night. It was a plain place. There were bunk beds in a big room. There was one shared bathroom. There was a small kitchen. Marisa and Sofia found their bunks. They set down their packs. Marisa lay down for a while — she was tired, but not in a bad way — and Sofia went for a small walk around the village.",
+            "In the evening they ate supper together at a small pilgrim's restaurant that had a set menu for six euros — soup, chicken and rice, an apple, a small glass of wine for Marisa and water for Sofia. They ate at a long table shared with four other pilgrims — an older German couple, a young French woman walking alone, and a middle-aged man from Ireland who did not talk much. Everyone was tired. Nobody talked a great deal. But there was a small warm feeling around the table. Everyone was walking to the same place. Everyone had walked the same twenty kilometers today. Everyone would walk more tomorrow. There was a solidarity in it that did not need to be spoken."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Walking Together",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ps-ch2-p1-second-day",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on the second day of walking. Rolling Galician hills. Marisa and Sofia walk along a wooded section of the path where small oak trees create dappled shadows on the ground. Sofia is a few steps ahead, laughing at something. Marisa follows more slowly. Warm afternoon light. Heavy ink outlines, flat shadows, cream palette with muted greens.",
+          "paragraphs": [
+            "The second day was harder than the first. Sofia's legs were sore. Marisa was tired from the beginning. They walked more slowly. They stopped more often. But the path was beautiful. It went through oak woods and cornfields and past ruined stone monasteries. They passed cows and chickens and a pair of small brown horses. They met other pilgrims. Some overtook them. Some they overtook. There was a small language between pilgrims — you said Buen Camino when you passed someone. That was the whole conversation, most of the time. It was enough.",
+            "\"Aunt Marisa,\" Sofia asked, at one point, \"why are you doing this. Really. Not just the — I want to be with you thing. Why the walk.\" Marisa thought as she walked. She said, \"When I was your age, my grandmother — my father's mother, whom you never met — walked the Camino. She was already old. She had wanted to do it her whole life. She got sick shortly after. Not the same kind of sick as me — hers was her heart. She died two years later. But she had walked the Camino. She told me, before she died, that she was glad she had done it. She said walking a hundred kilometers had — done something to her. I am not sure exactly what. She could not describe it. She just said — do it, before you cannot. I have thought about it my whole life. Then I got sick. And I thought — if I do not do it now, I might not ever do it. So I am doing it.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Are you scared, Aunt Marisa,\" said Sofia. \"About being sick.\" Marisa was quiet for a moment. Then she said, in a level voice, \"Yes. I am scared. I do not know how the treatment will go. I do not know if I will live to be old. Some days I am very scared. Some days I am less scared. Today I am walking a path in the beautiful Galician countryside with my niece, and today I am not scared. Today I am — grateful. That is another feeling I have a lot, alongside the scared. Both are true.\"",
+            "Sofia thought about this. She said, \"I am also scared, Aunt Marisa. Sometimes. That you might not — that this might be the last time we get to do something like this together.\" Marisa stopped walking. She looked at Sofia. She said, \"Sofia. I have not thought about it exactly that way. But — you are right that we do not know. That is why we are doing this. Not because it is the last time. But because we do not know. That is why anyone does anything with someone they love. Because you do not know. That is not a sad thing. That is just the truth of it. Come. Let us walk. Buen Camino.\" And they walked on."
+          ]
+        },
+        {
+          "image": "ps-ch2-p3-fountain",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at a small ancient stone fountain by the side of the path. Water spills gently from a spout into a low stone basin. Marisa and Sofia have stopped to rest, both drinking from small metal cups filled from the fountain. Sunlight through the leaves overhead. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "On the third day they stopped for a long rest at a small ancient stone fountain by the side of the path. Water came out of a stone spout worn smooth by hundreds of years of pilgrim hands cupping it. There were three other pilgrims there when they arrived — an old couple from Spain and a young Australian man. Everyone drank. Everyone rested. The old Spanish woman looked at Marisa, and something in her face changed. She came over. She said, in Spanish, \"Are you well, sister.\" Marisa said, \"I am on the walk. I am doing all right.\" The old woman looked at her for a moment. She said, \"I walked this thirty years ago with my sister. She was younger than me. She was sick like you, I think. She died four years later. But she walked. She walked all one hundred kilometers.\"",
+            "Marisa did not answer for a moment. She said, softly, \"Thank you for telling me.\" The old woman said, \"I want to give you something. Wait.\" She reached into her pocket. She took out a small smooth stone. It was warm from her pocket. It was a small piece of quartz, worn smooth. She said, \"My sister carried this on her walk. She left it at Santiago at the end. I went back years later and I picked it up. I have carried it since. But it is time. I want you to have it. Carry it. Leave it wherever you like. At Santiago, or before. It is your stone now.\" And she pressed it into Marisa's hand."
+          ]
+        },
+        {
+          "image": "ps-ch2-p4-continuing",
+          "imagePrompt": "Mike Mignola style for children: exterior scene later that day. Marisa and Sofia continue walking. Marisa now holds the small quartz stone in her hand as she walks. Her face is thoughtful, moved. Sofia walks beside her, quiet. Late afternoon light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Marisa held the small stone in her hand for the rest of that afternoon. She did not put it in her pocket. She just held it. Sofia walked beside her. Neither of them spoke for a long time. After maybe an hour, Marisa said, \"That is a very beautiful thing. That an old stranger gave me her sister's stone. I do not know what to do with it. But I feel — very taken care of. By people I do not even know. That is a strange feeling.\" Sofia said, \"That is what people do on the Camino. That is what happens.\"",
+            "\"Yes,\" said Marisa. \"That is what happens. It is not just a walk, Sofia. I did not fully understand this until now. It is — people looking after each other on a walk. It has been that for a thousand years. And now we are part of it too. That is what my grandmother could not describe. She just knew.\""
+          ]
+        },
+        {
+          "image": "ps-ch2-p5-supper",
+          "imagePrompt": "Mike Mignola style for children: interior scene at an albergue kitchen at supper. A long wooden table where six or seven pilgrims share a meal together. Marisa and Sofia sit among them. Everyone is talking. Some are laughing. Warm evening light. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "That night the pilgrims cooked supper together at the albergue kitchen. Marisa and Sofia had bought bread and cheese and a few tomatoes at a small village shop. Other pilgrims had bought other things. A tall Dutchman had brought a chicken. A woman from Colombia had brought rice. Somehow everyone's food became one meal. Everyone sat down together at a long wooden table. Everyone told small stories about the day. There was a lot of laughter. It was, Sofia thought, one of the best meals of her life. She had never eaten with strangers before. She had never known you could feel so much like family with people you would not see again after tomorrow.",
+            "That night she lay in her bunk beside Marisa's and she thought about the walk. About the stone. About the people at the fountain. About the meal. She said, quietly, \"Aunt Marisa. Are you awake.\" Marisa said, \"Yes.\" Sofia said, \"I am glad I came.\" Marisa was quiet for a moment. Then she said, \"So am I, sweetheart. So am I.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Santiago",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ps-ch3-p1-approaching",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on the outskirts of the city of Santiago de Compostela. Marisa and Sofia walk along an urban path where the ancient stone walls of the old city are visible ahead. The great cathedral towers rise in the distance. Warm afternoon light. Both look tired but excited. Heavy ink outlines, flat shadows, cream palette with warm gold accents.",
+          "paragraphs": [
+            "On the fifth day, they came to Santiago. They had left their last albergue at seven in the morning and had walked all day. Sofia's legs were sore. Marisa was very tired. But when they came around the last bend of the path and saw, on the horizon, the twin towers of the great Cathedral of Santiago rising above the old city, Marisa stopped walking. She stood still for a long moment. Then she said, \"There. There it is.\" Sofia looked. It was — she had seen pictures — but it was different in person. The towers were enormous. They caught the afternoon sun.",
+            "They walked slowly into the old city. The streets were narrow and stone. Other pilgrims were walking in from many other paths — the Camino had many routes, all converging on Santiago at the end. Everyone was carrying a shell. Everyone was walking toward the same square. Marisa put her hand on Sofia's shoulder as they walked. She said, quietly, \"Do you understand what this is, Sofia. People have been walking to this square for over a thousand years. Every one of them coming from a different place, for a different reason, all ending here. That is a huge thing. That is a very human thing.\""
+          ]
+        },
+        {
+          "image": "ps-ch3-p2-square",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the great Praza do Obradoiro — the huge square in front of the Cathedral of Santiago de Compostela. The immense stone facade of the cathedral fills half the frame. Many pilgrims — small figures — stand and sit in the square, some looking up, some hugging, some lying down. Marisa and Sofia have just entered the square. Warm evening light. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "They came out into the great Praza do Obradoiro — the huge square in front of the cathedral. It was — Sofia had not been prepared. It was enormous. The stone facade of the cathedral rose above them, all baroque towers and carved saints and rose windows. And in the square, hundreds of pilgrims. Some standing, some sitting, some lying down on their packs, some hugging each other, some crying. All arrived. All finished. The end of the road, for all of them.",
+            "Marisa and Sofia stood at the edge of the square for a while. Marisa did not say anything. She just looked. Sofia looked too. After a few minutes, Marisa walked out into the middle of the square, and she sat down on the stones, and she took off her boots — very slowly, as if it hurt — and she sat with her bare feet on the ancient stones. Sofia sat beside her. They sat there for maybe twenty minutes without talking. Marisa was crying, Sofia realized. Quietly. Without any sound. Just tears. Sofia did not know what to say. She just sat with her aunt."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Finally Marisa said, \"Sofia. I did it. I actually did it.\" \"Yes,\" said Sofia. \"You did.\" Marisa said, \"And you did it too. You walked one hundred kilometers with me. You are eleven years old and you walked one hundred kilometers with a sick aunt without complaining once. Not once. I want you to know I noticed.\" Sofia said, \"You did not complain either.\" Marisa smiled. \"No,\" she said. \"I do not complain much these days. Complaining does not help. But — thank you. This has been the best week of my life. I want you to know that.\"",
+            "Sofia said, \"Even if the treatment does not go well after this, Aunt Marisa — you had this week. You did this. Nobody can take that from you.\" Marisa looked at her. She said, \"Sofia. You are eleven years old. That is a very grown-up thing to say. Where did you learn to say things like that.\" Sofia said, \"I don't know. Maybe from you. Maybe from walking.\" And Marisa laughed — a real laugh — and pulled Sofia against her side, and they sat together on the ancient stones of the great square, and other pilgrims arrived around them, and the sun began to set behind the cathedral."
+          ]
+        },
+        {
+          "image": "ps-ch3-p4-stone",
+          "imagePrompt": "Mike Mignola style for children: close view. Marisa and Sofia sit together at the base of a great stone column at the edge of the cathedral. Marisa is placing the small smooth quartz stone (the one from the old woman) at the base of the column, on top of many other small stones and pilgrims' offerings that other pilgrims have left. Warm evening light. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "When it was almost dark, Marisa took the small quartz stone out of her pocket. She said, \"Come. There is a tradition. Pilgrims leave a small thing here at the end. Not for the cathedral. Just — for whoever comes next. Something to say — I was here. I made it. Now you will make it too.\" They walked to the far side of the square, to a spot near a stone column where many small offerings had been left over the years — small stones, small crosses of sticks, small notes, small ribbons. Marisa knelt down. She placed the quartz stone very carefully among the others. She said, softly, \"Thank you, señora. I made it here. I am giving it back to the Camino now.\"",
+            "Sofia had brought a small thing too — she had not told Marisa. She reached into her pocket. She took out a very small green glass fish — one of Chiara's spare fish that her mother had — wait, no, that is a different story. She took out a small folded piece of paper on which she had written her name and the date. She placed it beside the quartz stone. She said, quietly, \"Sofia was here. May 2027. With her aunt Marisa. Please look after her.\" She was not exactly praying. She did not know exactly what she was doing. But it felt right."
+          ]
+        },
+        {
+          "image": "ps-ch3-p5-after",
+          "imagePrompt": "Mike Mignola style for children: exterior evening scene at the square. Marisa and Sofia stand together with their arms around each other, looking up at the illuminated facade of the great cathedral. The square is filling with more pilgrims. Warm gold evening light. Heavy ink outlines, flat shadows, cream palette with strong warm gold.",
+          "paragraphs": [
+            "Marisa lived for four more years after that. Two years of relatively good health, when the treatment worked. Then one year of decline. Then a final year of long slow decline. Sofia visited her often. In the last year Sofia was fifteen and stayed for whole weekends. Marisa was very tired but she was mostly at peace. They talked, sometimes, about the Camino. Marisa said, once, near the end, \"That week was the best week I ever had, Sofia. I want you to know. It was the best week. Nothing else has come close.\" Sofia said, \"Me too, Aunt Marisa.\"",
+            "Marisa died in the spring, at forty-seven. Sofia was fifteen. At the funeral, Sofia gave a small talk — she had asked to speak, and her parents had said yes. She talked about the walk. She did not go into details. She just talked about what a hundred kilometers with an aunt who was sick had done for her, and what it had done for Marisa. When she was done, she said, \"When I am older — maybe when I am fifty, or sixty — I am going to walk the Camino again. And I am going to bring someone with me. Maybe my child, if I have one. Maybe someone else who is sick, if they will let me. Because that is how you keep something that meant something to you. You do it again. You do it with someone else. And it goes on.\" And she sat down. And her father, in the front row, was crying quietly. And so was her mother. And Sofia sat with them and thought about a small quartz stone at the base of a column in a square in Santiago de Compostela, still there, or maybe by now moved on by another pilgrim who had needed it. Either way, it had done its work."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "aunt",
+    "spain",
+    "walking",
+    "grief"
+  ]
+}

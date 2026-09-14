@@ -1,0 +1,535 @@
+{
+  "story_id": "north-star-express",
+  "chapter": 3,
+  "total_duration_ms": 285216,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The station where she was getting off was called Chulym.",
+      "start_ms": 1329,
+      "end_ms": 5118
+    },
+    {
+      "index": 1,
+      "text": "It was almost the last small station before her father's actual town, and the conductor had explained to her mother that her father would come to Chulym to meet her because the train did not stop at the closer place.",
+      "start_ms": 5118,
+      "end_ms": 19542
+    },
+    {
+      "index": 2,
+      "text": "Chulym was three and a half days into the trip, in the middle of a country she had only seen from behind a window.",
+      "start_ms": 19542,
+      "end_ms": 27186
+    },
+    {
+      "index": 3,
+      "text": "When the conductor knocked on her compartment door and said, \"Elena.",
+      "start_ms": 27186,
+      "end_ms": 31772
+    },
+    {
+      "index": 4,
+      "text": "Fifteen minutes,\" she felt her stomach fold up completely.",
+      "start_ms": 31772,
+      "end_ms": 35761
+    },
+    {
+      "index": 5,
+      "text": "She packed her things.",
+      "start_ms": 35761,
+      "end_ms": 37289
+    },
+    {
+      "index": 6,
+      "text": "She checked the compartment three times.",
+      "start_ms": 37289,
+      "end_ms": 40015
+    },
+    {
+      "index": 7,
+      "text": "She put on her coat.",
+      "start_ms": 40015,
+      "end_ms": 41411
+    },
+    {
+      "index": 8,
+      "text": "She stood in the corridor with her red suitcase and her backpack, and she waited.",
+      "start_ms": 41411,
+      "end_ms": 46861
+    },
+    {
+      "index": 9,
+      "text": "Outside, the country slowed.",
+      "start_ms": 46861,
+      "end_ms": 48789
+    },
+    {
+      "index": 10,
+      "text": "A single low wooden platform came into view, with a small station building with a red star on it, and a tall pine tree beside it.",
+      "start_ms": 48789,
+      "end_ms": 57430
+    },
+    {
+      "index": 11,
+      "text": "The train stopped.",
+      "start_ms": 57430,
+      "end_ms": 58693
+    },
+    {
+      "index": 12,
+      "text": "The conductor opened the door.",
+      "start_ms": 58693,
+      "end_ms": 60753
+    },
+    {
+      "index": 13,
+      "text": "\"Go on, dear,\" she said.",
+      "start_ms": 60753,
+      "end_ms": 62415
+    },
+    {
+      "index": 14,
+      "text": "\"You'll be fine.\"",
+      "start_ms": 62415,
+      "end_ms": 63678
+    },
+    {
+      "index": 15,
+      "text": "Elena stepped down onto the platform.",
+      "start_ms": 63678,
+      "end_ms": 66204
+    },
+    {
+      "index": 16,
+      "text": "The cold hit her at once.",
+      "start_ms": 66204,
+      "end_ms": 67932
+    },
+    {
+      "index": 17,
+      "text": "It was late September and it was already cold here — colder than Moscow, colder than she had imagined.",
+      "start_ms": 67932,
+      "end_ms": 74778
+    },
+    {
+      "index": 18,
+      "text": "Her breath came out in a small white cloud.",
+      "start_ms": 74778,
+      "end_ms": 77703
+    },
+    {
+      "index": 19,
+      "text": "The train door closed behind her.",
+      "start_ms": 77703,
+      "end_ms": 79963
+    },
+    {
+      "index": 20,
+      "text": "She heard the whistle.",
+      "start_ms": 79963,
+      "end_ms": 81492
+    },
+    {
+      "index": 21,
+      "text": "She turned her head to watch as the train began to move, slowly at first, and then faster, and then it was gone, and the platform was empty, and the sound of the train was fading into the trees.",
+      "start_ms": 81492,
+      "end_ms": 94520
+    },
+    {
+      "index": 22,
+      "text": "She stood there.",
+      "start_ms": 94520,
+      "end_ms": 95650
+    },
+    {
+      "index": 23,
+      "text": "She was alone.",
+      "start_ms": 95650,
+      "end_ms": 96647
+    },
+    {
+      "index": 24,
+      "text": "She was in the middle of the taiga.",
+      "start_ms": 96647,
+      "end_ms": 99040
+    },
+    {
+      "index": 25,
+      "text": "She was more than three thousand kilometers from her mother.",
+      "start_ms": 99040,
+      "end_ms": 103094
+    },
+    {
+      "index": 26,
+      "text": "She was — she thought — probably going to be all right.",
+      "start_ms": 103094,
+      "end_ms": 106817
+    },
+    {
+      "index": 27,
+      "text": "She turned around.",
+      "start_ms": 106817,
+      "end_ms": 108080
+    },
+    {
+      "index": 28,
+      "text": "There was one other person on the platform.",
+      "start_ms": 108080,
+      "end_ms": 111004
+    },
+    {
+      "index": 29,
+      "text": "He was walking toward her from the far end.",
+      "start_ms": 111004,
+      "end_ms": 113929
+    },
+    {
+      "index": 30,
+      "text": "He was a tall thin man in a heavy dark coat, with spectacles that caught the light.",
+      "start_ms": 113929,
+      "end_ms": 119512
+    },
+    {
+      "index": 31,
+      "text": "He was walking quickly.",
+      "start_ms": 119512,
+      "end_ms": 121108
+    },
+    {
+      "index": 32,
+      "text": "It was her father.",
+      "start_ms": 121108,
+      "end_ms": 122304
+    },
+    {
+      "index": 33,
+      "text": "He walked all the way up to her.",
+      "start_ms": 122304,
+      "end_ms": 124408
+    },
+    {
+      "index": 34,
+      "text": "He stopped in front of her.",
+      "start_ms": 124408,
+      "end_ms": 126193
+    },
+    {
+      "index": 35,
+      "text": "He did not hug her right away — he was not that sort of person.",
+      "start_ms": 126193,
+      "end_ms": 130273
+    },
+    {
+      "index": 36,
+      "text": "He put his hands on her shoulders and looked at her for a moment.",
+      "start_ms": 130273,
+      "end_ms": 134480
+    },
+    {
+      "index": 37,
+      "text": "\"Elena,\" he said.",
+      "start_ms": 134480,
+      "end_ms": 135627
+    },
+    {
+      "index": 38,
+      "text": "\"You made it.\" \"Yes,\" she said.",
+      "start_ms": 135627,
+      "end_ms": 137667
+    },
+    {
+      "index": 39,
+      "text": "\"Papá.\" \"I was worried,\" he said.",
+      "start_ms": 137667,
+      "end_ms": 139835
+    },
+    {
+      "index": 40,
+      "text": "\"But you look completely fine.\" \"I met an opera singer,\" said Elena.",
+      "start_ms": 139835,
+      "end_ms": 144234
+    },
+    {
+      "index": 41,
+      "text": "Her father blinked.",
+      "start_ms": 144234,
+      "end_ms": 145508
+    },
+    {
+      "index": 42,
+      "text": "\"You did.\" \"And a geography teacher.",
+      "start_ms": 145508,
+      "end_ms": 147867
+    },
+    {
+      "index": 43,
+      "text": "And a boy who gave me an apricot.\" Her father slowly smiled.",
+      "start_ms": 147867,
+      "end_ms": 151756
+    },
+    {
+      "index": 44,
+      "text": "\"Well,\" he said.",
+      "start_ms": 151756,
+      "end_ms": 152840
+    },
+    {
+      "index": 45,
+      "text": "\"I want to hear about all of that.",
+      "start_ms": 152840,
+      "end_ms": 155071
+    },
+    {
+      "index": 46,
+      "text": "Come.",
+      "start_ms": 155071,
+      "end_ms": 155453
+    },
+    {
+      "index": 47,
+      "text": "My car is up by the station.\"",
+      "start_ms": 155453,
+      "end_ms": 157429
+    },
+    {
+      "index": 48,
+      "text": "His car was old and slightly dusty on the inside.",
+      "start_ms": 157429,
+      "end_ms": 160617
+    },
+    {
+      "index": 49,
+      "text": "There was a small wooden bird carved out of pine on the dashboard.",
+      "start_ms": 160617,
+      "end_ms": 164888
+    },
+    {
+      "index": 50,
+      "text": "Elena remembered it — he had had it forever.",
+      "start_ms": 164888,
+      "end_ms": 167757
+    },
+    {
+      "index": 51,
+      "text": "He drove slowly on a narrow road that went into the forest.",
+      "start_ms": 167757,
+      "end_ms": 171582
+    },
+    {
+      "index": 52,
+      "text": "The trees were very tall and very dark, and it was starting to be evening, and there were no other cars, and there was nothing at all along the road for a very long time.",
+      "start_ms": 171582,
+      "end_ms": 182546
+    },
+    {
+      "index": 53,
+      "text": "\"How far,\" she said eventually.",
+      "start_ms": 182546,
+      "end_ms": 184586
+    },
+    {
+      "index": 54,
+      "text": "\"Forty kilometers,\" said her father.",
+      "start_ms": 184586,
+      "end_ms": 186945
+    },
+    {
+      "index": 55,
+      "text": "\"Almost an hour.",
+      "start_ms": 186945,
+      "end_ms": 188029
+    },
+    {
+      "index": 56,
+      "text": "There is nothing here, Elena.",
+      "start_ms": 188029,
+      "end_ms": 189941
+    },
+    {
+      "index": 57,
+      "text": "I told you that.",
+      "start_ms": 189941,
+      "end_ms": 191025
+    },
+    {
+      "index": 58,
+      "text": "But there is also nothing, and that is a rare thing in the world now.",
+      "start_ms": 191025,
+      "end_ms": 195487
+    },
+    {
+      "index": 59,
+      "text": "You will get used to it.\" He glanced at her.",
+      "start_ms": 195487,
+      "end_ms": 198356
+    },
+    {
+      "index": 60,
+      "text": "\"You are not sorry to be coming, are you.\" Elena thought about it.",
+      "start_ms": 198356,
+      "end_ms": 202627
+    },
+    {
+      "index": 61,
+      "text": "She thought about her mother, in Moscow, packing for Portugal.",
+      "start_ms": 202627,
+      "end_ms": 206643
+    },
+    {
+      "index": 62,
+      "text": "She thought about the birch forests she had seen from the train.",
+      "start_ms": 206643,
+      "end_ms": 210787
+    },
+    {
+      "index": 63,
+      "text": "She thought about Anna Petrovna, and the apricot, and Vera Ilinichna's song.",
+      "start_ms": 210787,
+      "end_ms": 215696
+    },
+    {
+      "index": 64,
+      "text": "She thought about her father, right beside her now, whom she had not seen in six months.",
+      "start_ms": 215696,
+      "end_ms": 221369
+    },
+    {
+      "index": 65,
+      "text": "She said, \"No, Papá.",
+      "start_ms": 221369,
+      "end_ms": 222708
+    },
+    {
+      "index": 66,
+      "text": "I am not sorry.\"",
+      "start_ms": 222708,
+      "end_ms": 223728
+    },
+    {
+      "index": 67,
+      "text": "They arrived at the weather station just after full dark.",
+      "start_ms": 223728,
+      "end_ms": 227033
+    },
+    {
+      "index": 68,
+      "text": "It was a small wooden building in a clearing, surrounded on all sides by the forest, with a single yellow lamp glowing in one window.",
+      "start_ms": 227033,
+      "end_ms": 234669
+    },
+    {
+      "index": 69,
+      "text": "There was no other building anywhere in sight.",
+      "start_ms": 234669,
+      "end_ms": 237348
+    },
+    {
+      "index": 70,
+      "text": "Her father parked the car.",
+      "start_ms": 237348,
+      "end_ms": 238886
+    },
+    {
+      "index": 71,
+      "text": "He carried her suitcase for her.",
+      "start_ms": 238886,
+      "end_ms": 240767
+    },
+    {
+      "index": 72,
+      "text": "They walked to the door.",
+      "start_ms": 240767,
+      "end_ms": 242191
+    },
+    {
+      "index": 73,
+      "text": "Above them, in a sky that was completely black in a way Elena had never seen a sky be black, there were more stars than she had ever seen at once.",
+      "start_ms": 242191,
+      "end_ms": 250625
+    },
+    {
+      "index": 74,
+      "text": "\"Papá,\" she said, before they went inside.",
+      "start_ms": 250625,
+      "end_ms": 253076
+    },
+    {
+      "index": 75,
+      "text": "\"Yes.\" She looked up.",
+      "start_ms": 253076,
+      "end_ms": 254330
+    },
+    {
+      "index": 76,
+      "text": "The stars were spread everywhere, thick and bright.",
+      "start_ms": 254330,
+      "end_ms": 257293
+    },
+    {
+      "index": 77,
+      "text": "She could see the Milky Way.",
+      "start_ms": 257293,
+      "end_ms": 258945
+    },
+    {
+      "index": 78,
+      "text": "She had never seen the Milky Way in Moscow.",
+      "start_ms": 258945,
+      "end_ms": 261453
+    },
+    {
+      "index": 79,
+      "text": "\"You said your place had good sky.",
+      "start_ms": 261453,
+      "end_ms": 263447
+    },
+    {
+      "index": 80,
+      "text": "You were not lying.\" Her father laughed — a small quiet laugh.",
+      "start_ms": 263447,
+      "end_ms": 267037
+    },
+    {
+      "index": 81,
+      "text": "\"No,\" he said.",
+      "start_ms": 267037,
+      "end_ms": 267892
+    },
+    {
+      "index": 82,
+      "text": "\"I was not lying.",
+      "start_ms": 267892,
+      "end_ms": 268918
+    },
+    {
+      "index": 83,
+      "text": "Come inside, Elena.",
+      "start_ms": 268918,
+      "end_ms": 270058
+    },
+    {
+      "index": 84,
+      "text": "It is cold.",
+      "start_ms": 270058,
+      "end_ms": 270742
+    },
+    {
+      "index": 85,
+      "text": "I made soup.",
+      "start_ms": 270742,
+      "end_ms": 271482
+    },
+    {
+      "index": 86,
+      "text": "You have been on a train for four days.",
+      "start_ms": 271482,
+      "end_ms": 273762
+    },
+    {
+      "index": 87,
+      "text": "You must be hungry.\" And Elena, who had been hungry for hours and had not noticed until he said it, went inside with her father, and she ate his soup, and she slept, that first night, for eleven hours.",
+      "start_ms": 273762,
+      "end_ms": 285216
+    }
+  ]
+}

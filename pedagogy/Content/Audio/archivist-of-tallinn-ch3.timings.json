@@ -1,0 +1,691 @@
+{
+  "story_id": "archivist-of-tallinn",
+  "chapter": 3,
+  "total_duration_ms": 396552,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Silvia telephoned on the Tuesday.",
+      "start_ms": 2224,
+      "end_ms": 4324
+    },
+    {
+      "index": 1,
+      "text": "Kristjan listened as she explained the situation carefully to Piret Kask on the other end.",
+      "start_ms": 4324,
+      "end_ms": 9944
+    },
+    {
+      "index": 2,
+      "text": "Silvia said the word letter, and the word great-grandmother, and the word Aleksander.",
+      "start_ms": 9944,
+      "end_ms": 15256
+    },
+    {
+      "index": 3,
+      "text": "There was a long silence on the phone.",
+      "start_ms": 15256,
+      "end_ms": 17665
+    },
+    {
+      "index": 4,
+      "text": "Then Silvia said, \"Yes.",
+      "start_ms": 17665,
+      "end_ms": 19147
+    },
+    {
+      "index": 5,
+      "text": "Yes, of course.",
+      "start_ms": 19147,
+      "end_ms": 20135
+    },
+    {
+      "index": 6,
+      "text": "Friday afternoon, then.",
+      "start_ms": 20135,
+      "end_ms": 21618
+    },
+    {
+      "index": 7,
+      "text": "About three.",
+      "start_ms": 21618,
+      "end_ms": 22420
+    },
+    {
+      "index": 8,
+      "text": "Yes.",
+      "start_ms": 22420,
+      "end_ms": 22729
+    },
+    {
+      "index": 9,
+      "text": "Thank you.\" She hung up.",
+      "start_ms": 22729,
+      "end_ms": 24273
+    },
+    {
+      "index": 10,
+      "text": "She said to Kristjan, \"She wants to see it.",
+      "start_ms": 24273,
+      "end_ms": 26991
+    },
+    {
+      "index": 11,
+      "text": "She has never heard the name Aleksander from her family.",
+      "start_ms": 26991,
+      "end_ms": 30512
+    },
+    {
+      "index": 12,
+      "text": "She is curious.\"",
+      "start_ms": 30512,
+      "end_ms": 31623
+    },
+    {
+      "index": 13,
+      "text": "On Friday they took the morning bus to Tartu.",
+      "start_ms": 31623,
+      "end_ms": 34465
+    },
+    {
+      "index": 14,
+      "text": "Kristjan had his small suitcase — he would be going on to his parents' apartment afterward.",
+      "start_ms": 34465,
+      "end_ms": 40147
+    },
+    {
+      "index": 15,
+      "text": "Silvia had the letter, in a soft envelope in her handbag.",
+      "start_ms": 40147,
+      "end_ms": 43729
+    },
+    {
+      "index": 16,
+      "text": "At three o'clock they walked up to a small pale yellow apartment building on a quiet street a few blocks from the river.",
+      "start_ms": 43729,
+      "end_ms": 51203
+    },
+    {
+      "index": 17,
+      "text": "Piret Kask lived on the first floor.",
+      "start_ms": 51203,
+      "end_ms": 53488
+    },
+    {
+      "index": 18,
+      "text": "Silvia pressed the doorbell.",
+      "start_ms": 53488,
+      "end_ms": 55341
+    },
+    {
+      "index": 19,
+      "text": "Piret Kask was sixty-two and had silver-brown hair and a warm quick face and a small warm apartment full of books and one upright piano against the far wall.",
+      "start_ms": 55341,
+      "end_ms": 65100
+    },
+    {
+      "index": 20,
+      "text": "She let them in and made them tea and put out biscuits.",
+      "start_ms": 65100,
+      "end_ms": 68558
+    },
+    {
+      "index": 21,
+      "text": "She looked at Kristjan and said, \"You are the young man who did this?\" Kristjan said, \"My aunt did it, mostly.\" Silvia shook her head.",
+      "start_ms": 68558,
+      "end_ms": 76897
+    },
+    {
+      "index": 22,
+      "text": "\"Kristjan pushed me.",
+      "start_ms": 76897,
+      "end_ms": 78194
+    },
+    {
+      "index": 23,
+      "text": "I have had this letter for fifty years and would have had it for another fifty.",
+      "start_ms": 78194,
+      "end_ms": 83135
+    },
+    {
+      "index": 24,
+      "text": "He is the one.\"",
+      "start_ms": 83135,
+      "end_ms": 84185
+    },
+    {
+      "index": 25,
+      "text": "They sat down at Piret's small table.",
+      "start_ms": 84185,
+      "end_ms": 86532
+    },
+    {
+      "index": 26,
+      "text": "Silvia took out the letter.",
+      "start_ms": 86532,
+      "end_ms": 88261
+    },
+    {
+      "index": 27,
+      "text": "She said, \"Piret.",
+      "start_ms": 88261,
+      "end_ms": 89373
+    },
+    {
+      "index": 28,
+      "text": "This was written by a young man named Aleksander Rebane, in Tartu, on December nineteenth, eighteen ninety-eight, to a young woman named Marie Kask, of Räpina village.",
+      "start_ms": 89373,
+      "end_ms": 99749
+    },
+    {
+      "index": 29,
+      "text": "From what we can tell, your great-grandmother.",
+      "start_ms": 99749,
+      "end_ms": 102652
+    },
+    {
+      "index": 30,
+      "text": "It never reached her.",
+      "start_ms": 102652,
+      "end_ms": 104011
+    },
+    {
+      "index": 31,
+      "text": "He most likely died a few weeks later in the influenza.",
+      "start_ms": 104011,
+      "end_ms": 107470
+    },
+    {
+      "index": 32,
+      "text": "The letter went back to Tartu, then to the library archive.",
+      "start_ms": 107470,
+      "end_ms": 111176
+    },
+    {
+      "index": 33,
+      "text": "It has been in a box in the basement for a hundred and twenty-eight years.\" She handed Piret the small brown envelope.",
+      "start_ms": 111176,
+      "end_ms": 118464
+    },
+    {
+      "index": 34,
+      "text": "Piret opened the envelope slowly.",
+      "start_ms": 118464,
+      "end_ms": 120520
+    },
+    {
+      "index": 35,
+      "text": "She unfolded the thin brown paper.",
+      "start_ms": 120520,
+      "end_ms": 122637
+    },
+    {
+      "index": 36,
+      "text": "She began to read.",
+      "start_ms": 122637,
+      "end_ms": 123786
+    },
+    {
+      "index": 37,
+      "text": "She was a music teacher and her voice was very good — clear and quiet.",
+      "start_ms": 123786,
+      "end_ms": 128081
+    },
+    {
+      "index": 38,
+      "text": "She read the letter aloud, in the old Estonian, and Kristjan understood most of it now, having heard Silvia read it three times over the week.",
+      "start_ms": 128081,
+      "end_ms": 136729
+    },
+    {
+      "index": 39,
+      "text": "When she reached the line about the three things Aleksander loved about Marie, Piret's voice broke, and she stopped, and she was crying.",
+      "start_ms": 136729,
+      "end_ms": 145015
+    },
+    {
+      "index": 40,
+      "text": "She did not try to hide it.",
+      "start_ms": 145015,
+      "end_ms": 146709
+    },
+    {
+      "index": 41,
+      "text": "Silvia sat still.",
+      "start_ms": 146709,
+      "end_ms": 147798
+    },
+    {
+      "index": 42,
+      "text": "Kristjan sat still.",
+      "start_ms": 147798,
+      "end_ms": 149007
+    },
+    {
+      "index": 43,
+      "text": "It was very quiet in the little apartment except for a bird outside the window.",
+      "start_ms": 149007,
+      "end_ms": 153906
+    },
+    {
+      "index": 44,
+      "text": "After a moment Piret wiped her eyes.",
+      "start_ms": 153906,
+      "end_ms": 156144
+    },
+    {
+      "index": 45,
+      "text": "She said, \"Excuse me.",
+      "start_ms": 156144,
+      "end_ms": 157475
+    },
+    {
+      "index": 46,
+      "text": "I was not prepared.",
+      "start_ms": 157475,
+      "end_ms": 158684
+    },
+    {
+      "index": 47,
+      "text": "I knew that my great-grandmother had almost married someone before my great-grandfather.",
+      "start_ms": 158684,
+      "end_ms": 164067
+    },
+    {
+      "index": 48,
+      "text": "My grandmother told me once when I was small — that her mother had cried, sometimes on winter evenings, for a boy who had died before her wedding.",
+      "start_ms": 164067,
+      "end_ms": 172958
+    },
+    {
+      "index": 49,
+      "text": "My grandmother thought her mother had never entirely stopped grieving.",
+      "start_ms": 172958,
+      "end_ms": 177252
+    },
+    {
+      "index": 50,
+      "text": "But we did not know his name.",
+      "start_ms": 177252,
+      "end_ms": 179067
+    },
+    {
+      "index": 51,
+      "text": "We did not know he had bought them a house behind the mill in Räpina.",
+      "start_ms": 179067,
+      "end_ms": 183300
+    },
+    {
+      "index": 52,
+      "text": "We did not know he had loved three things about her.\" She looked at the letter.",
+      "start_ms": 183300,
+      "end_ms": 188139
+    },
+    {
+      "index": 53,
+      "text": "\"We did not know he had written to her the week he died.\"",
+      "start_ms": 188139,
+      "end_ms": 191707
+    },
+    {
+      "index": 54,
+      "text": "Piret held the letter for a while.",
+      "start_ms": 191707,
+      "end_ms": 193824
+    },
+    {
+      "index": 55,
+      "text": "Then she looked at Silvia and asked, \"May I keep it?\" Silvia said, \"Piret.",
+      "start_ms": 193824,
+      "end_ms": 198360
+    },
+    {
+      "index": 56,
+      "text": "It is yours.",
+      "start_ms": 198360,
+      "end_ms": 199147
+    },
+    {
+      "index": 57,
+      "text": "It was always yours.",
+      "start_ms": 199147,
+      "end_ms": 200417
+    },
+    {
+      "index": 58,
+      "text": "It has just taken a while to arrive.",
+      "start_ms": 200417,
+      "end_ms": 202655
+    },
+    {
+      "index": 59,
+      "text": "It belongs to your family now.",
+      "start_ms": 202655,
+      "end_ms": 204529
+    },
+    {
+      "index": 60,
+      "text": "The library will not want it back.\" Piret held it against her chest for a moment.",
+      "start_ms": 204529,
+      "end_ms": 209489
+    },
+    {
+      "index": 61,
+      "text": "Then she folded it very carefully and put it back into the brown envelope, and she set the envelope down on the table between them and rested her hand on top of it.",
+      "start_ms": 209489,
+      "end_ms": 219408
+    },
+    {
+      "index": 62,
+      "text": "\"I will read this at the family Christmas next year,\" she said.",
+      "start_ms": 219408,
+      "end_ms": 223562
+    },
+    {
+      "index": 63,
+      "text": "\"To my daughters, and their children.",
+      "start_ms": 223562,
+      "end_ms": 226028
+    },
+    {
+      "index": 64,
+      "text": "It is a good story to have.",
+      "start_ms": 226028,
+      "end_ms": 227846
+    },
+    {
+      "index": 65,
+      "text": "My great-grandmother married a good man in nineteen-oh-two.",
+      "start_ms": 227846,
+      "end_ms": 231740
+    },
+    {
+      "index": 66,
+      "text": "She had five children.",
+      "start_ms": 231740,
+      "end_ms": 233233
+    },
+    {
+      "index": 67,
+      "text": "My grandmother was one of them.",
+      "start_ms": 233233,
+      "end_ms": 235309
+    },
+    {
+      "index": 68,
+      "text": "My mother came from her.",
+      "start_ms": 235309,
+      "end_ms": 236932
+    },
+    {
+      "index": 69,
+      "text": "I come from her.",
+      "start_ms": 236932,
+      "end_ms": 238035
+    },
+    {
+      "index": 70,
+      "text": "If Aleksander had come for her at Christmas of ninety-eight, none of us would exist.",
+      "start_ms": 238035,
+      "end_ms": 243552
+    },
+    {
+      "index": 71,
+      "text": "That is a strange thought to have and it does not stop me from being sad for them.",
+      "start_ms": 243552,
+      "end_ms": 248939
+    },
+    {
+      "index": 72,
+      "text": "They can both be true.\" She smiled at Kristjan.",
+      "start_ms": 248939,
+      "end_ms": 252055
+    },
+    {
+      "index": 73,
+      "text": "\"You are a kind boy.",
+      "start_ms": 252055,
+      "end_ms": 253418
+    },
+    {
+      "index": 74,
+      "text": "Come back and see me sometime.",
+      "start_ms": 253418,
+      "end_ms": 255430
+    },
+    {
+      "index": 75,
+      "text": "I will play you something on the piano.\"",
+      "start_ms": 255430,
+      "end_ms": 258156
+    },
+    {
+      "index": 76,
+      "text": "They walked back toward the river.",
+      "start_ms": 258156,
+      "end_ms": 260427
+    },
+    {
+      "index": 77,
+      "text": "Silvia said, \"That was harder than I thought.",
+      "start_ms": 260427,
+      "end_ms": 263413
+    },
+    {
+      "index": 78,
+      "text": "And better than I thought.",
+      "start_ms": 263413,
+      "end_ms": 265165
+    },
+    {
+      "index": 79,
+      "text": "I do not think I have ever done anything with my life quite as satisfying as that.\" Kristjan said, \"You did forty years of archive work.\" Silvia laughed.",
+      "start_ms": 265165,
+      "end_ms": 275161
+    },
+    {
+      "index": 80,
+      "text": "\"Yes.",
+      "start_ms": 275161,
+      "end_ms": 275550
+    },
+    {
+      "index": 81,
+      "text": "And most of it was necessary and dull.",
+      "start_ms": 275550,
+      "end_ms": 278081
+    },
+    {
+      "index": 82,
+      "text": "This — this was different.\" She walked slowly, using her small folding cane.",
+      "start_ms": 278081,
+      "end_ms": 283079
+    },
+    {
+      "index": 83,
+      "text": "\"Forty years I was in that library and did not deliver one.",
+      "start_ms": 283079,
+      "end_ms": 286973
+    },
+    {
+      "index": 84,
+      "text": "You are here for two weeks and we delivered one.",
+      "start_ms": 286973,
+      "end_ms": 290153
+    },
+    {
+      "index": 85,
+      "text": "There is a lesson in there for me, Kristjan, and I am too old to be quite comfortable learning it.",
+      "start_ms": 290153,
+      "end_ms": 296579
+    },
+    {
+      "index": 86,
+      "text": "But I think I am learning it anyway.\"",
+      "start_ms": 296579,
+      "end_ms": 299110
+    },
+    {
+      "index": 87,
+      "text": "They stopped at the bridge over the Emajõgi.",
+      "start_ms": 299110,
+      "end_ms": 302031
+    },
+    {
+      "index": 88,
+      "text": "It was warm and golden and there were people on the water in small boats.",
+      "start_ms": 302031,
+      "end_ms": 306834
+    },
+    {
+      "index": 89,
+      "text": "Kristjan said, \"Will you deliver another one next year?\" Silvia thought.",
+      "start_ms": 306834,
+      "end_ms": 311572
+    },
+    {
+      "index": 90,
+      "text": "She said, \"Perhaps.",
+      "start_ms": 311572,
+      "end_ms": 312870
+    },
+    {
+      "index": 91,
+      "text": "One per summer.",
+      "start_ms": 312870,
+      "end_ms": 313908
+    },
+    {
+      "index": 92,
+      "text": "That would be about right.",
+      "start_ms": 313908,
+      "end_ms": 315661
+    },
+    {
+      "index": 93,
+      "text": "That would still leave — oh, seven thousand or so.",
+      "start_ms": 315661,
+      "end_ms": 318971
+    },
+    {
+      "index": 94,
+      "text": "I will not finish them.",
+      "start_ms": 318971,
+      "end_ms": 320528
+    },
+    {
+      "index": 95,
+      "text": "Nobody will.",
+      "start_ms": 320528,
+      "end_ms": 321372
+    },
+    {
+      "index": 96,
+      "text": "But one per summer, for as long as I have summers left, is not nothing.",
+      "start_ms": 321372,
+      "end_ms": 326045
+    },
+    {
+      "index": 97,
+      "text": "And when I stop coming to the library, perhaps you take the key.\"",
+      "start_ms": 326045,
+      "end_ms": 330264
+    },
+    {
+      "index": 98,
+      "text": "Kristjan thought about that.",
+      "start_ms": 330264,
+      "end_ms": 331861
+    },
+    {
+      "index": 99,
+      "text": "He looked at the river.",
+      "start_ms": 331861,
+      "end_ms": 333182
+    },
+    {
+      "index": 100,
+      "text": "He said, \"I would want to keep doing it.",
+      "start_ms": 333182,
+      "end_ms": 335439
+    },
+    {
+      "index": 101,
+      "text": "When I am older.\" Silvia said, \"Then that is decided.",
+      "start_ms": 335439,
+      "end_ms": 338412
+    },
+    {
+      "index": 102,
+      "text": "In fifty years, some young person from our family will be delivering a letter written before anyone alive can remember, and they will not know that it started with a ten-year-old on a Friday afternoon in Tartu.",
+      "start_ms": 338412,
+      "end_ms": 350029
+    },
+    {
+      "index": 103,
+      "text": "That is a good thing to start.",
+      "start_ms": 350029,
+      "end_ms": 351736
+    },
+    {
+      "index": 104,
+      "text": "Come.",
+      "start_ms": 351736,
+      "end_ms": 352066
+    },
+    {
+      "index": 105,
+      "text": "I will walk you as far as the corner.",
+      "start_ms": 352066,
+      "end_ms": 354159
+    },
+    {
+      "index": 106,
+      "text": "Your mother is expecting you at five.\"",
+      "start_ms": 354159,
+      "end_ms": 356361
+    },
+    {
+      "index": 107,
+      "text": "She walked him to his corner.",
+      "start_ms": 356361,
+      "end_ms": 358012
+    },
+    {
+      "index": 108,
+      "text": "She gave him a small quick kiss on the top of his head — Silvia was not a person who did this often — and she turned and walked back toward the bus station.",
+      "start_ms": 358012,
+      "end_ms": 366656
+    },
+    {
+      "index": 109,
+      "text": "Kristjan watched her go until she was small.",
+      "start_ms": 366656,
+      "end_ms": 369134
+    },
+    {
+      "index": 110,
+      "text": "Then he walked the last three blocks to his parents' apartment building, his small suitcase in his hand, thinking about a young man in Tartu in the winter of eighteen ninety-eight who had bought a small house behind the mill and had loved three things about a girl he never got to name aloud.",
+      "start_ms": 369134,
+      "end_ms": 385265
+    },
+    {
+      "index": 111,
+      "text": "He thought maybe, someday, when he was older, he would find out what the three things were.",
+      "start_ms": 385265,
+      "end_ms": 390331
+    },
+    {
+      "index": 112,
+      "text": "Or maybe he wouldn't.",
+      "start_ms": 390331,
+      "end_ms": 391542
+    },
+    {
+      "index": 113,
+      "text": "Maybe some things a letter did not need to say for the letter to still be worth delivering.",
+      "start_ms": 391542,
+      "end_ms": 396552
+    }
+  ]
+}

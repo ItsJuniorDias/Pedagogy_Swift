@@ -1,0 +1,565 @@
+{
+  "story_id": "crossings",
+  "chapter": 1,
+  "total_duration_ms": 307704,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The call came on a Tuesday evening in Lima, and Amaru's father was standing by the sink washing dishes when the phone rang.",
+      "start_ms": 2317,
+      "end_ms": 10769
+    },
+    {
+      "index": 1,
+      "text": "He picked it up.",
+      "start_ms": 10769,
+      "end_ms": 11928
+    },
+    {
+      "index": 2,
+      "text": "He listened for a long moment.",
+      "start_ms": 11928,
+      "end_ms": 14041
+    },
+    {
+      "index": 3,
+      "text": "He set the plate he was drying carefully on the counter.",
+      "start_ms": 14041,
+      "end_ms": 17926
+    },
+    {
+      "index": 4,
+      "text": "He said, in Quechua, three words that Amaru did not understand.",
+      "start_ms": 17926,
+      "end_ms": 22288
+    },
+    {
+      "index": 5,
+      "text": "Then he sat down at the kitchen table.",
+      "start_ms": 22288,
+      "end_ms": 25015
+    },
+    {
+      "index": 6,
+      "text": "Amaru knew, before his father hung up, that his great-grandfather Silverio had died.",
+      "start_ms": 25015,
+      "end_ms": 30809
+    },
+    {
+      "index": 7,
+      "text": "He did not know how he knew.",
+      "start_ms": 30809,
+      "end_ms": 32785
+    },
+    {
+      "index": 8,
+      "text": "He knew from his father's back.",
+      "start_ms": 32785,
+      "end_ms": 34966
+    },
+    {
+      "index": 9,
+      "text": "His father had been quiet for a long time, and then he had put down the phone, and he had said, in Spanish, \"Amaru.",
+      "start_ms": 34966,
+      "end_ms": 42873
+    },
+    {
+      "index": 10,
+      "text": "Tayta Silverio has died.\" Amaru sat down at the table too.",
+      "start_ms": 42873,
+      "end_ms": 46894
+    },
+    {
+      "index": 11,
+      "text": "He had met his great-grandfather only twice in his life — once when Amaru was four, once when he was seven — but he remembered both visits very clearly.",
+      "start_ms": 46894,
+      "end_ms": 57323
+    },
+    {
+      "index": 12,
+      "text": "Silverio had been a tall thin man with white hair and eyes the color of good coffee, and he had a way of looking at Amaru that made Amaru feel he was being seen carefully, all the way through.",
+      "start_ms": 57323,
+      "end_ms": 70546
+    },
+    {
+      "index": 13,
+      "text": "\"The funeral is Saturday,\" his father said, later that evening.",
+      "start_ms": 70546,
+      "end_ms": 74908
+    },
+    {
+      "index": 14,
+      "text": "He had spread a paper map on the kitchen table.",
+      "start_ms": 74908,
+      "end_ms": 78180
+    },
+    {
+      "index": 15,
+      "text": "\"I want to go.",
+      "start_ms": 78180,
+      "end_ms": 79203
+    },
+    {
+      "index": 16,
+      "text": "He was my grandfather.",
+      "start_ms": 79203,
+      "end_ms": 80770
+    },
+    {
+      "index": 17,
+      "text": "I want to be there.\" He looked at Amaru.",
+      "start_ms": 80770,
+      "end_ms": 83565
+    },
+    {
+      "index": 18,
+      "text": "\"I want you to come with me.",
+      "start_ms": 83565,
+      "end_ms": 85541
+    },
+    {
+      "index": 19,
+      "text": "But it will not be easy.",
+      "start_ms": 85541,
+      "end_ms": 87245
+    },
+    {
+      "index": 20,
+      "text": "The village is very remote.",
+      "start_ms": 87245,
+      "end_ms": 89154
+    },
+    {
+      "index": 21,
+      "text": "Two years ago there was a big landslide on the road from Cusco.",
+      "start_ms": 89154,
+      "end_ms": 93516
+    },
+    {
+      "index": 22,
+      "text": "The government has never rebuilt it.",
+      "start_ms": 93516,
+      "end_ms": 96038
+    },
+    {
+      "index": 23,
+      "text": "To get to the village now, you have to walk.",
+      "start_ms": 96038,
+      "end_ms": 99105
+    },
+    {
+      "index": 24,
+      "text": "Over the pass.",
+      "start_ms": 99105,
+      "end_ms": 100128
+    },
+    {
+      "index": 25,
+      "text": "Three days.\"",
+      "start_ms": 100128,
+      "end_ms": 101082
+    },
+    {
+      "index": 26,
+      "text": "He traced the route with his finger.",
+      "start_ms": 101082,
+      "end_ms": 103604
+    },
+    {
+      "index": 27,
+      "text": "It went up from the highway, over a mountain pass at almost fifteen thousand feet, and down again into a valley on the other side.",
+      "start_ms": 103604,
+      "end_ms": 112533
+    },
+    {
+      "index": 28,
+      "text": "A tiny name was written on the far side: Choquepata.",
+      "start_ms": 112533,
+      "end_ms": 116146
+    },
+    {
+      "index": 29,
+      "text": "That was the village.",
+      "start_ms": 116146,
+      "end_ms": 117645
+    },
+    {
+      "index": 30,
+      "text": "\"The village where I grew up,\" his father said.",
+      "start_ms": 117645,
+      "end_ms": 120917
+    },
+    {
+      "index": 31,
+      "text": "\"Where I lived until I was seventeen.",
+      "start_ms": 120917,
+      "end_ms": 123507
+    },
+    {
+      "index": 32,
+      "text": "Where my father lived, and his father, and his father.",
+      "start_ms": 123507,
+      "end_ms": 127256
+    },
+    {
+      "index": 33,
+      "text": "Where you have never been.\"",
+      "start_ms": 127256,
+      "end_ms": 129096
+    },
+    {
+      "index": 34,
+      "text": "\"Can I do it,\" said Amaru.",
+      "start_ms": 129096,
+      "end_ms": 130874
+    },
+    {
+      "index": 35,
+      "text": "\"The walking.\" His father looked at him for a long moment.",
+      "start_ms": 130874,
+      "end_ms": 134760
+    },
+    {
+      "index": 36,
+      "text": "\"You are twelve.",
+      "start_ms": 134760,
+      "end_ms": 135880
+    },
+    {
+      "index": 37,
+      "text": "You are strong.",
+      "start_ms": 135880,
+      "end_ms": 136933
+    },
+    {
+      "index": 38,
+      "text": "But you have grown up in Lima at sea level.",
+      "start_ms": 136933,
+      "end_ms": 139831
+    },
+    {
+      "index": 39,
+      "text": "The pass is very high.",
+      "start_ms": 139831,
+      "end_ms": 141346
+    },
+    {
+      "index": 40,
+      "text": "You will feel it.",
+      "start_ms": 141346,
+      "end_ms": 142532
+    },
+    {
+      "index": 41,
+      "text": "It will be hard.",
+      "start_ms": 142532,
+      "end_ms": 143651
+    },
+    {
+      "index": 42,
+      "text": "You may need to stop often.",
+      "start_ms": 143651,
+      "end_ms": 145495
+    },
+    {
+      "index": 43,
+      "text": "If you cannot make it, we will turn around.",
+      "start_ms": 145495,
+      "end_ms": 148393
+    },
+    {
+      "index": 44,
+      "text": "That is fine.",
+      "start_ms": 148393,
+      "end_ms": 149315
+    },
+    {
+      "index": 45,
+      "text": "But I think you can make it.",
+      "start_ms": 149315,
+      "end_ms": 151225
+    },
+    {
+      "index": 46,
+      "text": "I think you should try.\" He paused.",
+      "start_ms": 151225,
+      "end_ms": 153596
+    },
+    {
+      "index": 47,
+      "text": "\"I think Tayta Silverio would want you to see the village.",
+      "start_ms": 153596,
+      "end_ms": 157482
+    },
+    {
+      "index": 48,
+      "text": "Once, at least.",
+      "start_ms": 157482,
+      "end_ms": 158536
+    },
+    {
+      "index": 49,
+      "text": "Even if only once.\"",
+      "start_ms": 158536,
+      "end_ms": 159919
+    },
+    {
+      "index": 50,
+      "text": "So Amaru said yes.",
+      "start_ms": 159919,
+      "end_ms": 161170
+    },
+    {
+      "index": 51,
+      "text": "His mother packed for him.",
+      "start_ms": 161170,
+      "end_ms": 162949
+    },
+    {
+      "index": 52,
+      "text": "His father took his old backpack down from the top of the closet — the one Amaru had not seen for many years, faded green canvas with worn leather straps — and packed it with dried food and a small stove and two heavy wool blankets and a small trowel and a first aid kit and coca leaves.",
+      "start_ms": 162949,
+      "end_ms": 181917
+    },
+    {
+      "index": 53,
+      "text": "On Wednesday morning they flew to Cusco.",
+      "start_ms": 181917,
+      "end_ms": 184617
+    },
+    {
+      "index": 54,
+      "text": "On Thursday morning at dawn, they got out of a shared taxi at a bend in a dirt road above a river, and there was no road ahead of them, only a narrow stone path going up into the mountains.",
+      "start_ms": 184617,
+      "end_ms": 197196
+    },
+    {
+      "index": 55,
+      "text": "\"Ready,\" said his father.",
+      "start_ms": 197196,
+      "end_ms": 198909
+    },
+    {
+      "index": 56,
+      "text": "Amaru nodded.",
+      "start_ms": 198909,
+      "end_ms": 199831
+    },
+    {
+      "index": 57,
+      "text": "He was cold and his stomach was tight with nerves.",
+      "start_ms": 199831,
+      "end_ms": 203190
+    },
+    {
+      "index": 58,
+      "text": "He shouldered his own smaller pack.",
+      "start_ms": 203190,
+      "end_ms": 205561
+    },
+    {
+      "index": 59,
+      "text": "It had food and clothes and his own blanket in it.",
+      "start_ms": 205561,
+      "end_ms": 208920
+    },
+    {
+      "index": 60,
+      "text": "His father's pack was much heavier.",
+      "start_ms": 208920,
+      "end_ms": 211291
+    },
+    {
+      "index": 61,
+      "text": "They started walking.",
+      "start_ms": 211291,
+      "end_ms": 212740
+    },
+    {
+      "index": 62,
+      "text": "The path was narrow — one person wide — and it climbed steadily.",
+      "start_ms": 212740,
+      "end_ms": 217021
+    },
+    {
+      "index": 63,
+      "text": "There were no signs.",
+      "start_ms": 217021,
+      "end_ms": 218404
+    },
+    {
+      "index": 64,
+      "text": "There were no other people.",
+      "start_ms": 218404,
+      "end_ms": 220248
+    },
+    {
+      "index": 65,
+      "text": "There were, sometimes, small piles of stones stacked at the corners of the path, which his father said were called apachetas.",
+      "start_ms": 220248,
+      "end_ms": 228546
+    },
+    {
+      "index": 66,
+      "text": "They were made by people who had walked this way before, over hundreds of years, one stone each.",
+      "start_ms": 228546,
+      "end_ms": 234935
+    },
+    {
+      "index": 67,
+      "text": "His father added a stone to the first one they came to.",
+      "start_ms": 234935,
+      "end_ms": 238623
+    },
+    {
+      "index": 68,
+      "text": "He said, \"You do that.",
+      "start_ms": 238623,
+      "end_ms": 240138
+    },
+    {
+      "index": 69,
+      "text": "Every time we pass one.",
+      "start_ms": 240138,
+      "end_ms": 241718
+    },
+    {
+      "index": 70,
+      "text": "It brings you safely through.\"",
+      "start_ms": 241718,
+      "end_ms": 243826
+    },
+    {
+      "index": 71,
+      "text": "So Amaru did.",
+      "start_ms": 243826,
+      "end_ms": 244748
+    },
+    {
+      "index": 72,
+      "text": "He added a small flat grey stone to the pile.",
+      "start_ms": 244748,
+      "end_ms": 247778
+    },
+    {
+      "index": 73,
+      "text": "He said, quietly, \"For safe walking.\" And they went on.",
+      "start_ms": 247778,
+      "end_ms": 251400
+    },
+    {
+      "index": 74,
+      "text": "The first day was hard but not too hard.",
+      "start_ms": 251400,
+      "end_ms": 254072
+    },
+    {
+      "index": 75,
+      "text": "They climbed steadily.",
+      "start_ms": 254072,
+      "end_ms": 255571
+    },
+    {
+      "index": 76,
+      "text": "Amaru got out of breath easily but he did not have to stop for long.",
+      "start_ms": 255571,
+      "end_ms": 260067
+    },
+    {
+      "index": 77,
+      "text": "They ate small pieces of dried alpaca meat and hard bread as they walked.",
+      "start_ms": 260067,
+      "end_ms": 264890
+    },
+    {
+      "index": 78,
+      "text": "They drank water.",
+      "start_ms": 264890,
+      "end_ms": 266062
+    },
+    {
+      "index": 79,
+      "text": "His father chewed coca leaves and offered some to Amaru, who chewed them too, though he did not really like the taste.",
+      "start_ms": 266062,
+      "end_ms": 273817
+    },
+    {
+      "index": 80,
+      "text": "It kept the headache away, his father said.",
+      "start_ms": 273817,
+      "end_ms": 276685
+    },
+    {
+      "index": 81,
+      "text": "That was the important thing.",
+      "start_ms": 276685,
+      "end_ms": 278705
+    },
+    {
+      "index": 82,
+      "text": "They stopped at midafternoon at a flat spot where there was a small stone shelter — three walls and a roof, no door.",
+      "start_ms": 278705,
+      "end_ms": 286329
+    },
+    {
+      "index": 83,
+      "text": "Someone had built it long ago as a rest for travelers.",
+      "start_ms": 286329,
+      "end_ms": 289914
+    },
+    {
+      "index": 84,
+      "text": "There was old dry grass in one corner for a bed.",
+      "start_ms": 289914,
+      "end_ms": 293107
+    },
+    {
+      "index": 85,
+      "text": "There was a fire pit at the front.",
+      "start_ms": 293107,
+      "end_ms": 295388
+    },
+    {
+      "index": 86,
+      "text": "Amaru sat down and did not want to move again for the rest of his life.",
+      "start_ms": 295388,
+      "end_ms": 300080
+    },
+    {
+      "index": 87,
+      "text": "His father laughed.",
+      "start_ms": 300080,
+      "end_ms": 301383
+    },
+    {
+      "index": 88,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 301383,
+      "end_ms": 302426
+    },
+    {
+      "index": 89,
+      "text": "\"Rest.",
+      "start_ms": 302426,
+      "end_ms": 302882
+    },
+    {
+      "index": 90,
+      "text": "You did well today.",
+      "start_ms": 302882,
+      "end_ms": 304185
+    },
+    {
+      "index": 91,
+      "text": "Tomorrow is the hard day.",
+      "start_ms": 304185,
+      "end_ms": 305879
+    },
+    {
+      "index": 92,
+      "text": "Tomorrow we cross the pass.\"",
+      "start_ms": 305879,
+      "end_ms": 307704
+    }
+  ]
+}

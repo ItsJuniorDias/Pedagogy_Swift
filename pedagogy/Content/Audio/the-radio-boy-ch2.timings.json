@@ -1,0 +1,607 @@
+{
+  "story_id": "the-radio-boy",
+  "chapter": 2,
+  "total_duration_ms": 285936,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "It was on the third night that Ren first heard him.",
+      "start_ms": 1983,
+      "end_ms": 5419
+    },
+    {
+      "index": 1,
+      "text": "He had stayed up late, sitting on the floor with the radio in front of him.",
+      "start_ms": 5419,
+      "end_ms": 10442
+    },
+    {
+      "index": 2,
+      "text": "It was past midnight.",
+      "start_ms": 10442,
+      "end_ms": 11896
+    },
+    {
+      "index": 3,
+      "text": "Obaachan had gone to sleep.",
+      "start_ms": 11896,
+      "end_ms": 13747
+    },
+    {
+      "index": 4,
+      "text": "He was moving the dial very slowly, listening for interesting stations, when he heard something unusual.",
+      "start_ms": 13747,
+      "end_ms": 20686
+    },
+    {
+      "index": 5,
+      "text": "A boy's voice.",
+      "start_ms": 20686,
+      "end_ms": 21677
+    },
+    {
+      "index": 6,
+      "text": "Speaking in Japanese, but slowly, and carefully, with a strange formality.",
+      "start_ms": 21677,
+      "end_ms": 26634
+    },
+    {
+      "index": 7,
+      "text": "It sounded like a boy his own age.",
+      "start_ms": 26634,
+      "end_ms": 29013
+    },
+    {
+      "index": 8,
+      "text": "Ren stopped moving the dial.",
+      "start_ms": 29013,
+      "end_ms": 30930
+    },
+    {
+      "index": 9,
+      "text": "The frequency window was on 6.185 megahertz.",
+      "start_ms": 30930,
+      "end_ms": 33904
+    },
+    {
+      "index": 10,
+      "text": "The boy was saying, \"Hello.",
+      "start_ms": 33904,
+      "end_ms": 35754
+    },
+    {
+      "index": 11,
+      "text": "This is Tetsuo.",
+      "start_ms": 35754,
+      "end_ms": 36812
+    },
+    {
+      "index": 12,
+      "text": "Can anyone hear me.",
+      "start_ms": 36812,
+      "end_ms": 38133
+    },
+    {
+      "index": 13,
+      "text": "Over.\" There was a pause.",
+      "start_ms": 38133,
+      "end_ms": 39852
+    },
+    {
+      "index": 14,
+      "text": "Then the boy said, \"I am ten years old.",
+      "start_ms": 39852,
+      "end_ms": 42495
+    },
+    {
+      "index": 15,
+      "text": "I live in Kushiro.",
+      "start_ms": 42495,
+      "end_ms": 43751
+    },
+    {
+      "index": 16,
+      "text": "Is anyone listening.",
+      "start_ms": 43751,
+      "end_ms": 45139
+    },
+    {
+      "index": 17,
+      "text": "Over.\" There was another pause.",
+      "start_ms": 45139,
+      "end_ms": 47254
+    },
+    {
+      "index": 18,
+      "text": "Then the boy tried again.",
+      "start_ms": 47254,
+      "end_ms": 48972
+    },
+    {
+      "index": 19,
+      "text": "\"Please.",
+      "start_ms": 48972,
+      "end_ms": 49567
+    },
+    {
+      "index": 20,
+      "text": "If you hear me.",
+      "start_ms": 49567,
+      "end_ms": 50624
+    },
+    {
+      "index": 21,
+      "text": "Please answer.",
+      "start_ms": 50624,
+      "end_ms": 51616
+    },
+    {
+      "index": 22,
+      "text": "I have been trying for three months.",
+      "start_ms": 51616,
+      "end_ms": 54061
+    },
+    {
+      "index": 23,
+      "text": "Over.\"",
+      "start_ms": 54061,
+      "end_ms": 54590
+    },
+    {
+      "index": 24,
+      "text": "Ren sat very still.",
+      "start_ms": 54590,
+      "end_ms": 55911
+    },
+    {
+      "index": 25,
+      "text": "The radio he was listening to did not have a microphone — it could only receive, not transmit.",
+      "start_ms": 55911,
+      "end_ms": 62190
+    },
+    {
+      "index": 26,
+      "text": "He could not answer.",
+      "start_ms": 62190,
+      "end_ms": 63578
+    },
+    {
+      "index": 27,
+      "text": "He listened.",
+      "start_ms": 63578,
+      "end_ms": 64437
+    },
+    {
+      "index": 28,
+      "text": "The boy — Tetsuo — kept talking.",
+      "start_ms": 64437,
+      "end_ms": 66618
+    },
+    {
+      "index": 29,
+      "text": "He said his radio call sign, which was a string of letters and numbers.",
+      "start_ms": 66618,
+      "end_ms": 71376
+    },
+    {
+      "index": 30,
+      "text": "He said he was doing something called \"CQ,\" which he explained was what radio operators did when they were looking for anyone to talk to.",
+      "start_ms": 71376,
+      "end_ms": 80497
+    },
+    {
+      "index": 31,
+      "text": "He said again that he had been trying for three months.",
+      "start_ms": 80497,
+      "end_ms": 84198
+    },
+    {
+      "index": 32,
+      "text": "He sounded, Ren thought, a little tired, and a little brave.",
+      "start_ms": 84198,
+      "end_ms": 88295
+    },
+    {
+      "index": 33,
+      "text": "After maybe ten minutes, the boy said, \"That is all for tonight.",
+      "start_ms": 88295,
+      "end_ms": 92591
+    },
+    {
+      "index": 34,
+      "text": "Same time tomorrow, same frequency.",
+      "start_ms": 92591,
+      "end_ms": 94970
+    },
+    {
+      "index": 35,
+      "text": "Over and out.\" And then he was gone.",
+      "start_ms": 94970,
+      "end_ms": 97416
+    },
+    {
+      "index": 36,
+      "text": "There was only static.",
+      "start_ms": 97416,
+      "end_ms": 98936
+    },
+    {
+      "index": 37,
+      "text": "Ren sat with the headphones on for another few minutes, hoping he would come back.",
+      "start_ms": 98936,
+      "end_ms": 104421
+    },
+    {
+      "index": 38,
+      "text": "He did not.",
+      "start_ms": 104421,
+      "end_ms": 105214
+    },
+    {
+      "index": 39,
+      "text": "Ren turned off the radio and went to bed.",
+      "start_ms": 105214,
+      "end_ms": 107990
+    },
+    {
+      "index": 40,
+      "text": "He lay awake for a long time thinking about it.",
+      "start_ms": 107990,
+      "end_ms": 111096
+    },
+    {
+      "index": 41,
+      "text": "In the morning he asked Obaachan about it.",
+      "start_ms": 111096,
+      "end_ms": 113854
+    },
+    {
+      "index": 42,
+      "text": "He was trying to be careful.",
+      "start_ms": 113854,
+      "end_ms": 115715
+    },
+    {
+      "index": 43,
+      "text": "He asked, \"Obaachan, when Ojiichan was a boy, did he have a radio call sign?",
+      "start_ms": 115715,
+      "end_ms": 120654
+    },
+    {
+      "index": 44,
+      "text": "For his radio?\" Obaachan looked at him for a moment.",
+      "start_ms": 120654,
+      "end_ms": 124054
+    },
+    {
+      "index": 45,
+      "text": "\"Yes,\" she said.",
+      "start_ms": 124054,
+      "end_ms": 125145
+    },
+    {
+      "index": 46,
+      "text": "\"He did.",
+      "start_ms": 125145,
+      "end_ms": 125722
+    },
+    {
+      "index": 47,
+      "text": "All of the boys and girls who built their own radios did.",
+      "start_ms": 125722,
+      "end_ms": 129443
+    },
+    {
+      "index": 48,
+      "text": "It was how they identified themselves.",
+      "start_ms": 129443,
+      "end_ms": 131944
+    },
+    {
+      "index": 49,
+      "text": "Why do you ask.\" Ren said, \"Do you remember what his was?\" She thought.",
+      "start_ms": 131944,
+      "end_ms": 136563
+    },
+    {
+      "index": 50,
+      "text": "\"It was — JA8 something.",
+      "start_ms": 136563,
+      "end_ms": 138167
+    },
+    {
+      "index": 51,
+      "text": "JA8AB.",
+      "start_ms": 138167,
+      "end_ms": 138616
+    },
+    {
+      "index": 52,
+      "text": "Or JA8AC.",
+      "start_ms": 138616,
+      "end_ms": 139257
+    },
+    {
+      "index": 53,
+      "text": "Something like that.",
+      "start_ms": 139257,
+      "end_ms": 140604
+    },
+    {
+      "index": 54,
+      "text": "It was a long time ago.\" Ren nodded.",
+      "start_ms": 140604,
+      "end_ms": 142978
+    },
+    {
+      "index": 55,
+      "text": "He did not tell her the rest.",
+      "start_ms": 142978,
+      "end_ms": 144967
+    },
+    {
+      "index": 56,
+      "text": "\"And what was Ojiichan's name when he was a boy?",
+      "start_ms": 144967,
+      "end_ms": 148110
+    },
+    {
+      "index": 57,
+      "text": "His full name.\" She raised an eyebrow.",
+      "start_ms": 148110,
+      "end_ms": 150612
+    },
+    {
+      "index": 58,
+      "text": "\"Tetsuo,\" she said.",
+      "start_ms": 150612,
+      "end_ms": 151895
+    },
+    {
+      "index": 59,
+      "text": "\"Tetsuo Yamamoto.",
+      "start_ms": 151895,
+      "end_ms": 153049
+    },
+    {
+      "index": 60,
+      "text": "Why.",
+      "start_ms": 153049,
+      "end_ms": 153370
+    },
+    {
+      "index": 61,
+      "text": "Why do you want to know?\" Ren said, \"Just curious.\" And he went outside into the garden and he sat under the persimmon tree for a long time, and he thought about it.",
+      "start_ms": 153370,
+      "end_ms": 164083
+    },
+    {
+      "index": 62,
+      "text": "That night Ren listened again.",
+      "start_ms": 164083,
+      "end_ms": 166072
+    },
+    {
+      "index": 63,
+      "text": "At exactly the same time.",
+      "start_ms": 166072,
+      "end_ms": 167739
+    },
+    {
+      "index": 64,
+      "text": "On exactly the same frequency.",
+      "start_ms": 167739,
+      "end_ms": 169728
+    },
+    {
+      "index": 65,
+      "text": "And the same boy was there.",
+      "start_ms": 169728,
+      "end_ms": 171524
+    },
+    {
+      "index": 66,
+      "text": "Tetsuo.",
+      "start_ms": 171524,
+      "end_ms": 172037
+    },
+    {
+      "index": 67,
+      "text": "Ten years old.",
+      "start_ms": 172037,
+      "end_ms": 173000
+    },
+    {
+      "index": 68,
+      "text": "Kushiro.",
+      "start_ms": 173000,
+      "end_ms": 173577
+    },
+    {
+      "index": 69,
+      "text": "Which was a city in eastern Hokkaido — not the village where Ren was, but not so far.",
+      "start_ms": 173577,
+      "end_ms": 179094
+    },
+    {
+      "index": 70,
+      "text": "The boy did his CQ.",
+      "start_ms": 179094,
+      "end_ms": 180377
+    },
+    {
+      "index": 71,
+      "text": "He asked for anyone to answer.",
+      "start_ms": 180377,
+      "end_ms": 182365
+    },
+    {
+      "index": 72,
+      "text": "He said he had been trying for three months and now four.",
+      "start_ms": 182365,
+      "end_ms": 186086
+    },
+    {
+      "index": 73,
+      "text": "He described the radio he had built himself, out of parts his father had brought home from work.",
+      "start_ms": 186086,
+      "end_ms": 192373
+    },
+    {
+      "index": 74,
+      "text": "Ren listened for almost half an hour.",
+      "start_ms": 192373,
+      "end_ms": 194810
+    },
+    {
+      "index": 75,
+      "text": "At one point the boy told a small story about school.",
+      "start_ms": 194810,
+      "end_ms": 198274
+    },
+    {
+      "index": 76,
+      "text": "He said his teacher had been angry with him because he had been drawing radios instead of doing his math.",
+      "start_ms": 198274,
+      "end_ms": 205074
+    },
+    {
+      "index": 77,
+      "text": "He said his father had laughed when he heard about it.",
+      "start_ms": 205074,
+      "end_ms": 208602
+    },
+    {
+      "index": 78,
+      "text": "He said he thought the teacher was going to write a note home but the teacher had not.",
+      "start_ms": 208602,
+      "end_ms": 214183
+    },
+    {
+      "index": 79,
+      "text": "He said he had felt lucky.",
+      "start_ms": 214183,
+      "end_ms": 215915
+    },
+    {
+      "index": 80,
+      "text": "Ren, listening, understood something then.",
+      "start_ms": 215915,
+      "end_ms": 218674
+    },
+    {
+      "index": 81,
+      "text": "He was hearing his grandfather.",
+      "start_ms": 218674,
+      "end_ms": 220726
+    },
+    {
+      "index": 82,
+      "text": "Ten years old.",
+      "start_ms": 220726,
+      "end_ms": 221689
+    },
+    {
+      "index": 83,
+      "text": "In some year in the 1950s.",
+      "start_ms": 221689,
+      "end_ms": 223421
+    },
+    {
+      "index": 84,
+      "text": "Speaking into the air of a night that was over long before Ren had been born.",
+      "start_ms": 223421,
+      "end_ms": 228360
+    },
+    {
+      "index": 85,
+      "text": "He did not know how it was possible.",
+      "start_ms": 228360,
+      "end_ms": 230572
+    },
+    {
+      "index": 86,
+      "text": "He knew about radio waves — that they traveled at the speed of light, that they went out into space.",
+      "start_ms": 230572,
+      "end_ms": 236611
+    },
+    {
+      "index": 87,
+      "text": "He wondered if some signals bounced off things very far away and came back many years later.",
+      "start_ms": 236611,
+      "end_ms": 242171
+    },
+    {
+      "index": 88,
+      "text": "He wondered if this was one of those.",
+      "start_ms": 242171,
+      "end_ms": 244443
+    },
+    {
+      "index": 89,
+      "text": "He also wondered if he was wrong.",
+      "start_ms": 244443,
+      "end_ms": 246476
+    },
+    {
+      "index": 90,
+      "text": "If it was some other boy named Tetsuo, in some other place.",
+      "start_ms": 246476,
+      "end_ms": 250063
+    },
+    {
+      "index": 91,
+      "text": "If it was a recording someone was broadcasting on purpose.",
+      "start_ms": 250063,
+      "end_ms": 253591
+    },
+    {
+      "index": 92,
+      "text": "If he was making it all up in his head.",
+      "start_ms": 253591,
+      "end_ms": 256042
+    },
+    {
+      "index": 93,
+      "text": "But he did not think he was making it up.",
+      "start_ms": 256042,
+      "end_ms": 258553
+    },
+    {
+      "index": 94,
+      "text": "He thought it was really his grandfather.",
+      "start_ms": 258553,
+      "end_ms": 261064
+    },
+    {
+      "index": 95,
+      "text": "And so, that night, before Tetsuo signed off, Ren did something.",
+      "start_ms": 261064,
+      "end_ms": 264950
+    },
+    {
+      "index": 96,
+      "text": "He whispered into the empty room, into the radio, into the past — even though he knew the radio could not send anything, and even though he knew nothing could actually go back through time — he whispered, \"I hear you, Ojiichan.",
+      "start_ms": 264950,
+      "end_ms": 278582
+    },
+    {
+      "index": 97,
+      "text": "I hear you.",
+      "start_ms": 278582,
+      "end_ms": 279300
+    },
+    {
+      "index": 98,
+      "text": "It is Ren.",
+      "start_ms": 279300,
+      "end_ms": 279957
+    },
+    {
+      "index": 99,
+      "text": "Over and out.\" And then he took the headphones off, and he turned the radio off, and he went to bed.",
+      "start_ms": 279957,
+      "end_ms": 285936
+    }
+  ]
+}

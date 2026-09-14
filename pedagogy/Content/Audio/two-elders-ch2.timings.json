@@ -1,0 +1,817 @@
+{
+  "story_id": "two-elders",
+  "chapter": 2,
+  "total_duration_ms": 346416,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The next afternoon Signor Marco came out of his door as Simone was passing.",
+      "start_ms": 1645,
+      "end_ms": 6108
+    },
+    {
+      "index": 1,
+      "text": "He handed Simone a small folded paper.",
+      "start_ms": 6108,
+      "end_ms": 8399
+    },
+    {
+      "index": 2,
+      "text": "He said, quietly, \"Simone.",
+      "start_ms": 8399,
+      "end_ms": 9985
+    },
+    {
+      "index": 3,
+      "text": "Please give this to Bruno.\" Simone took the paper.",
+      "start_ms": 9985,
+      "end_ms": 12980
+    },
+    {
+      "index": 4,
+      "text": "He walked past his aunt's door.",
+      "start_ms": 12980,
+      "end_ms": 14860
+    },
+    {
+      "index": 5,
+      "text": "He knocked on Bruno's.",
+      "start_ms": 14860,
+      "end_ms": 16210
+    },
+    {
+      "index": 6,
+      "text": "Bruno opened.",
+      "start_ms": 16210,
+      "end_ms": 17033
+    },
+    {
+      "index": 7,
+      "text": "Simone gave him the paper.",
+      "start_ms": 17033,
+      "end_ms": 18618
+    },
+    {
+      "index": 8,
+      "text": "Bruno looked at it for a long moment.",
+      "start_ms": 18618,
+      "end_ms": 20850
+    },
+    {
+      "index": 9,
+      "text": "He took it.",
+      "start_ms": 20850,
+      "end_ms": 21555
+    },
+    {
+      "index": 10,
+      "text": "He said, \"Thank you.\" He closed the door.",
+      "start_ms": 21555,
+      "end_ms": 24081
+    },
+    {
+      "index": 11,
+      "text": "This happened again the next day.",
+      "start_ms": 24081,
+      "end_ms": 26078
+    },
+    {
+      "index": 12,
+      "text": "And the next.",
+      "start_ms": 26078,
+      "end_ms": 26900
+    },
+    {
+      "index": 13,
+      "text": "And the day after that.",
+      "start_ms": 26900,
+      "end_ms": 28309
+    },
+    {
+      "index": 14,
+      "text": "Simone became a small quiet courier.",
+      "start_ms": 28309,
+      "end_ms": 30483
+    },
+    {
+      "index": 15,
+      "text": "Every day one of them, sometimes both, would come out and hand him a folded paper.",
+      "start_ms": 30483,
+      "end_ms": 35357
+    },
+    {
+      "index": 16,
+      "text": "He would carry it the five meters between the two doors.",
+      "start_ms": 35357,
+      "end_ms": 38705
+    },
+    {
+      "index": 17,
+      "text": "He would knock.",
+      "start_ms": 38705,
+      "end_ms": 39645
+    },
+    {
+      "index": 18,
+      "text": "He would hand it over.",
+      "start_ms": 39645,
+      "end_ms": 40996
+    },
+    {
+      "index": 19,
+      "text": "He would not say anything.",
+      "start_ms": 40996,
+      "end_ms": 42582
+    },
+    {
+      "index": 20,
+      "text": "He never read the notes.",
+      "start_ms": 42582,
+      "end_ms": 44050
+    },
+    {
+      "index": 21,
+      "text": "Aunt Rosa never asked him about it.",
+      "start_ms": 44050,
+      "end_ms": 46164
+    },
+    {
+      "index": 22,
+      "text": "He did not know if she had noticed.",
+      "start_ms": 46164,
+      "end_ms": 48279
+    },
+    {
+      "index": 23,
+      "text": "He did not think she had, but he was not sure.",
+      "start_ms": 48279,
+      "end_ms": 51098
+    },
+    {
+      "index": 24,
+      "text": "By the end of the first week, Simone was carrying two or three notes a day.",
+      "start_ms": 51098,
+      "end_ms": 55562
+    },
+    {
+      "index": 25,
+      "text": "The two old men did not look at each other still.",
+      "start_ms": 55562,
+      "end_ms": 58498
+    },
+    {
+      "index": 26,
+      "text": "They did not talk.",
+      "start_ms": 58498,
+      "end_ms": 59614
+    },
+    {
+      "index": 27,
+      "text": "They did not sit closer to each other in the café.",
+      "start_ms": 59614,
+      "end_ms": 62610
+    },
+    {
+      "index": 28,
+      "text": "From the outside, nothing had changed.",
+      "start_ms": 62610,
+      "end_ms": 64900
+    },
+    {
+      "index": 29,
+      "text": "But something had changed.",
+      "start_ms": 64900,
+      "end_ms": 66486
+    },
+    {
+      "index": 30,
+      "text": "He knew this because — and this was strange — because both of them seemed to be sleeping better.",
+      "start_ms": 66486,
+      "end_ms": 72183
+    },
+    {
+      "index": 31,
+      "text": "Signor Bruno had had a habit, on hot summer nights, of coming out onto his front step at three in the morning and sitting in his undershirt because he could not sleep.",
+      "start_ms": 72183,
+      "end_ms": 82050
+    },
+    {
+      "index": 32,
+      "text": "Simone had noticed this many summers before, when he had gotten up for water.",
+      "start_ms": 82050,
+      "end_ms": 86632
+    },
+    {
+      "index": 33,
+      "text": "This summer he had noticed it in the first week.",
+      "start_ms": 86632,
+      "end_ms": 89509
+    },
+    {
+      "index": 34,
+      "text": "But after the notes started, Signor Bruno stopped coming out at three in the morning.",
+      "start_ms": 89509,
+      "end_ms": 94561
+    },
+    {
+      "index": 35,
+      "text": "Simone could not confirm this — he was asleep most of the time — but he had gotten up twice at three, on purpose, to look, and the alley had been empty.",
+      "start_ms": 94561,
+      "end_ms": 103488
+    },
+    {
+      "index": 36,
+      "text": "Signor Marco had also seemed less — heavy — in the days after the notes started.",
+      "start_ms": 103488,
+      "end_ms": 109116
+    },
+    {
+      "index": 37,
+      "text": "He walked a little straighter.",
+      "start_ms": 109116,
+      "end_ms": 111270
+    },
+    {
+      "index": 38,
+      "text": "He smiled at the neighbors more.",
+      "start_ms": 111270,
+      "end_ms": 113563
+    },
+    {
+      "index": 39,
+      "text": "He talked more at the café.",
+      "start_ms": 113563,
+      "end_ms": 115508
+    },
+    {
+      "index": 40,
+      "text": "Both of them did.",
+      "start_ms": 115508,
+      "end_ms": 116759
+    },
+    {
+      "index": 41,
+      "text": "Simone noticed.",
+      "start_ms": 116759,
+      "end_ms": 117870
+    },
+    {
+      "index": 42,
+      "text": "He did not tell his aunt.",
+      "start_ms": 117870,
+      "end_ms": 119677
+    },
+    {
+      "index": 43,
+      "text": "He did not tell anyone.",
+      "start_ms": 119677,
+      "end_ms": 121414
+    },
+    {
+      "index": 44,
+      "text": "In the second week, something new happened.",
+      "start_ms": 121414,
+      "end_ms": 124471
+    },
+    {
+      "index": 45,
+      "text": "Simone was passing Signor Bruno's door when Bruno called him over.",
+      "start_ms": 124471,
+      "end_ms": 129126
+    },
+    {
+      "index": 46,
+      "text": "Bruno gave him the usual folded paper.",
+      "start_ms": 129126,
+      "end_ms": 131836
+    },
+    {
+      "index": 47,
+      "text": "Then, as Simone was turning to go, Bruno said, \"Simone.",
+      "start_ms": 131836,
+      "end_ms": 135727
+    },
+    {
+      "index": 48,
+      "text": "Wait.\" Simone stopped.",
+      "start_ms": 135727,
+      "end_ms": 137325
+    },
+    {
+      "index": 49,
+      "text": "Bruno said, \"When you give it to him — this time only — tell him something.",
+      "start_ms": 137325,
+      "end_ms": 142605
+    },
+    {
+      "index": 50,
+      "text": "Say — Bruno says he is sorry.",
+      "start_ms": 142605,
+      "end_ms": 144690
+    },
+    {
+      "index": 51,
+      "text": "That is all.",
+      "start_ms": 144690,
+      "end_ms": 145593
+    },
+    {
+      "index": 52,
+      "text": "Nothing else.\" Simone stared at Bruno.",
+      "start_ms": 145593,
+      "end_ms": 148302
+    },
+    {
+      "index": 53,
+      "text": "Bruno was looking at his own hands.",
+      "start_ms": 148302,
+      "end_ms": 150804
+    },
+    {
+      "index": 54,
+      "text": "He would not look at Simone.",
+      "start_ms": 150804,
+      "end_ms": 152888
+    },
+    {
+      "index": 55,
+      "text": "Simone said, \"Yes, Signor Bruno.\" He walked to Marco's door.",
+      "start_ms": 152888,
+      "end_ms": 157126
+    },
+    {
+      "index": 56,
+      "text": "He knocked.",
+      "start_ms": 157126,
+      "end_ms": 157960
+    },
+    {
+      "index": 57,
+      "text": "Marco opened.",
+      "start_ms": 157960,
+      "end_ms": 158933
+    },
+    {
+      "index": 58,
+      "text": "Simone handed him the paper.",
+      "start_ms": 158933,
+      "end_ms": 160948
+    },
+    {
+      "index": 59,
+      "text": "He said, quietly, \"Signor Marco.",
+      "start_ms": 160948,
+      "end_ms": 163241
+    },
+    {
+      "index": 60,
+      "text": "Signor Bruno says he is sorry.",
+      "start_ms": 163241,
+      "end_ms": 165395
+    },
+    {
+      "index": 61,
+      "text": "That is all.\" Marco held the paper in one hand.",
+      "start_ms": 165395,
+      "end_ms": 168730
+    },
+    {
+      "index": 62,
+      "text": "He looked at Simone.",
+      "start_ms": 168730,
+      "end_ms": 170189
+    },
+    {
+      "index": 63,
+      "text": "His face did not change much, but Simone saw his shoulders drop.",
+      "start_ms": 170189,
+      "end_ms": 174705
+    },
+    {
+      "index": 64,
+      "text": "He said, in a voice so quiet Simone almost did not hear it, \"Tell him — tell him — I know.",
+      "start_ms": 174705,
+      "end_ms": 181027
+    },
+    {
+      "index": 65,
+      "text": "Thank you.\" Simone nodded.",
+      "start_ms": 181027,
+      "end_ms": 182903
+    },
+    {
+      "index": 66,
+      "text": "He walked back past his aunt's door.",
+      "start_ms": 182903,
+      "end_ms": 185474
+    },
+    {
+      "index": 67,
+      "text": "He knocked on Bruno's.",
+      "start_ms": 185474,
+      "end_ms": 187072
+    },
+    {
+      "index": 68,
+      "text": "Bruno opened.",
+      "start_ms": 187072,
+      "end_ms": 188045
+    },
+    {
+      "index": 69,
+      "text": "Simone said, \"Signor Marco says he knows.",
+      "start_ms": 188045,
+      "end_ms": 190963
+    },
+    {
+      "index": 70,
+      "text": "And thank you.\" Bruno stood at the door for a long moment.",
+      "start_ms": 190963,
+      "end_ms": 195062
+    },
+    {
+      "index": 71,
+      "text": "He was breathing carefully.",
+      "start_ms": 195062,
+      "end_ms": 197008
+    },
+    {
+      "index": 72,
+      "text": "Then he said, \"Thank you, Simone.",
+      "start_ms": 197008,
+      "end_ms": 199370
+    },
+    {
+      "index": 73,
+      "text": "Come in for a moment.\"",
+      "start_ms": 199370,
+      "end_ms": 201038
+    },
+    {
+      "index": 74,
+      "text": "Simone had never been inside Signor Bruno's house before.",
+      "start_ms": 201038,
+      "end_ms": 205067
+    },
+    {
+      "index": 75,
+      "text": "It was dark and cool.",
+      "start_ms": 205067,
+      "end_ms": 206596
+    },
+    {
+      "index": 76,
+      "text": "There was one main room with old furniture and a small kitchen at the back.",
+      "start_ms": 206596,
+      "end_ms": 211876
+    },
+    {
+      "index": 77,
+      "text": "Bruno had Simone sit on a chair.",
+      "start_ms": 211876,
+      "end_ms": 214169
+    },
+    {
+      "index": 78,
+      "text": "Bruno went to a shelf.",
+      "start_ms": 214169,
+      "end_ms": 215767
+    },
+    {
+      "index": 79,
+      "text": "He took down a framed photograph.",
+      "start_ms": 215767,
+      "end_ms": 218130
+    },
+    {
+      "index": 80,
+      "text": "He handed it to Simone.",
+      "start_ms": 218130,
+      "end_ms": 219797
+    },
+    {
+      "index": 81,
+      "text": "It was old — sepia — and it showed two young men in their thirties, standing together, smiling, arms around each other.",
+      "start_ms": 219797,
+      "end_ms": 228135
+    },
+    {
+      "index": 82,
+      "text": "\"That is me,\" said Bruno.",
+      "start_ms": 228135,
+      "end_ms": 229941
+    },
+    {
+      "index": 83,
+      "text": "\"And that is Marco.",
+      "start_ms": 229941,
+      "end_ms": 231331
+    },
+    {
+      "index": 84,
+      "text": "In 1978.",
+      "start_ms": 231331,
+      "end_ms": 231956
+    },
+    {
+      "index": 85,
+      "text": "Before.\"",
+      "start_ms": 231956,
+      "end_ms": 232512
+    },
+    {
+      "index": 86,
+      "text": "\"What happened,\" said Simone.",
+      "start_ms": 232512,
+      "end_ms": 234257
+    },
+    {
+      "index": 87,
+      "text": "He asked before he had thought about whether it was okay to ask.",
+      "start_ms": 234257,
+      "end_ms": 238038
+    },
+    {
+      "index": 88,
+      "text": "Bruno was quiet for a long time.",
+      "start_ms": 238038,
+      "end_ms": 239958
+    },
+    {
+      "index": 89,
+      "text": "Then he said, \"It was very stupid.",
+      "start_ms": 239958,
+      "end_ms": 241994
+    },
+    {
+      "index": 90,
+      "text": "It was about our father's will.",
+      "start_ms": 241994,
+      "end_ms": 243856
+    },
+    {
+      "index": 91,
+      "text": "Our father died in 1982.",
+      "start_ms": 243856,
+      "end_ms": 245310
+    },
+    {
+      "index": 92,
+      "text": "He left our parents' house — this house — to me.",
+      "start_ms": 245310,
+      "end_ms": 248161
+    },
+    {
+      "index": 93,
+      "text": "He left the family olive grove to Marco.",
+      "start_ms": 248161,
+      "end_ms": 250546
+    },
+    {
+      "index": 94,
+      "text": "Marco thought he should have got the house, because he was newly married.",
+      "start_ms": 250546,
+      "end_ms": 254851
+    },
+    {
+      "index": 95,
+      "text": "I thought I should have got the house, because I was the older son.",
+      "start_ms": 254851,
+      "end_ms": 258806
+    },
+    {
+      "index": 96,
+      "text": "There was a lot of shouting.",
+      "start_ms": 258806,
+      "end_ms": 260494
+    },
+    {
+      "index": 97,
+      "text": "I said some terrible things.",
+      "start_ms": 260494,
+      "end_ms": 262181
+    },
+    {
+      "index": 98,
+      "text": "He said some terrible things too.",
+      "start_ms": 262181,
+      "end_ms": 264158
+    },
+    {
+      "index": 99,
+      "text": "I said things about his wife that I should not have said.",
+      "start_ms": 264158,
+      "end_ms": 267533
+    },
+    {
+      "index": 100,
+      "text": "I have never forgotten those things.",
+      "start_ms": 267533,
+      "end_ms": 269685
+    },
+    {
+      "index": 101,
+      "text": "He has not either.\" Bruno paused.",
+      "start_ms": 269685,
+      "end_ms": 271663
+    },
+    {
+      "index": 102,
+      "text": "\"That is how forty-three years passes.",
+      "start_ms": 271663,
+      "end_ms": 273932
+    },
+    {
+      "index": 103,
+      "text": "In the beginning you are angry and every day you get more angry.",
+      "start_ms": 273932,
+      "end_ms": 277713
+    },
+    {
+      "index": 104,
+      "text": "Then you are angry as a habit.",
+      "start_ms": 277713,
+      "end_ms": 279516
+    },
+    {
+      "index": 105,
+      "text": "Then you do not remember why you started.",
+      "start_ms": 279516,
+      "end_ms": 281960
+    },
+    {
+      "index": 106,
+      "text": "But you have said no for so long that saying yes seems impossible.",
+      "start_ms": 281960,
+      "end_ms": 285857
+    },
+    {
+      "index": 107,
+      "text": "It is easier to keep saying no.",
+      "start_ms": 285857,
+      "end_ms": 287719
+    },
+    {
+      "index": 108,
+      "text": "But every day is a small no.",
+      "start_ms": 287719,
+      "end_ms": 289406
+    },
+    {
+      "index": 109,
+      "text": "And a small no accumulates.\"",
+      "start_ms": 289406,
+      "end_ms": 291151
+    },
+    {
+      "index": 110,
+      "text": "\"Why did you start writing to him now,\" Simone said.",
+      "start_ms": 291151,
+      "end_ms": 294234
+    },
+    {
+      "index": 111,
+      "text": "Bruno smiled a small tired smile.",
+      "start_ms": 294234,
+      "end_ms": 296212
+    },
+    {
+      "index": 112,
+      "text": "\"Because I am eighty-one, Simone.",
+      "start_ms": 296212,
+      "end_ms": 298190
+    },
+    {
+      "index": 113,
+      "text": "And Marco is seventy-eight.",
+      "start_ms": 298190,
+      "end_ms": 299819
+    },
+    {
+      "index": 114,
+      "text": "One of us is going to die soon.",
+      "start_ms": 299819,
+      "end_ms": 301680
+    },
+    {
+      "index": 115,
+      "text": "I do not want the last thing between us to be a stupid fight from 1982.",
+      "start_ms": 301680,
+      "end_ms": 305869
+    },
+    {
+      "index": 116,
+      "text": "I want to at least — at least — say hello to my brother before one of us is gone.",
+      "start_ms": 305869,
+      "end_ms": 310639
+    },
+    {
+      "index": 117,
+      "text": "So I wrote a small note.",
+      "start_ms": 310639,
+      "end_ms": 312094
+    },
+    {
+      "index": 118,
+      "text": "I could not have brought it myself.",
+      "start_ms": 312094,
+      "end_ms": 314188
+    },
+    {
+      "index": 119,
+      "text": "My legs are old, my heart is old, my pride is old.",
+      "start_ms": 314188,
+      "end_ms": 317155
+    },
+    {
+      "index": 120,
+      "text": "But you were walking by.",
+      "start_ms": 317155,
+      "end_ms": 318609
+    },
+    {
+      "index": 121,
+      "text": "So I asked you.",
+      "start_ms": 318609,
+      "end_ms": 319540
+    },
+    {
+      "index": 122,
+      "text": "It is a small — a small — a small — coward's way to do it.",
+      "start_ms": 319540,
+      "end_ms": 322972
+    },
+    {
+      "index": 123,
+      "text": "But it is the only way I could do it.\"",
+      "start_ms": 322972,
+      "end_ms": 325299
+    },
+    {
+      "index": 124,
+      "text": "\"It is not coward's,\" said Simone.",
+      "start_ms": 325299,
+      "end_ms": 327335
+    },
+    {
+      "index": 125,
+      "text": "\"It is — it is starting.",
+      "start_ms": 327335,
+      "end_ms": 328789
+    },
+    {
+      "index": 126,
+      "text": "That is the important thing.\" Bruno looked at him.",
+      "start_ms": 328789,
+      "end_ms": 331756
+    },
+    {
+      "index": 127,
+      "text": "He said, in a slightly surprised voice, \"You are a very serious eleven-year-old, Simone.\" Simone shrugged.",
+      "start_ms": 331756,
+      "end_ms": 337981
+    },
+    {
+      "index": 128,
+      "text": "He did not know what to say.",
+      "start_ms": 337981,
+      "end_ms": 339668
+    },
+    {
+      "index": 129,
+      "text": "Bruno said, \"Come.",
+      "start_ms": 339668,
+      "end_ms": 340773
+    },
+    {
+      "index": 130,
+      "text": "It is time for you to go home.",
+      "start_ms": 340773,
+      "end_ms": 342577
+    },
+    {
+      "index": 131,
+      "text": "Your aunt will worry.",
+      "start_ms": 342577,
+      "end_ms": 343856
+    },
+    {
+      "index": 132,
+      "text": "Do not tell her yet.",
+      "start_ms": 343856,
+      "end_ms": 345078
+    },
+    {
+      "index": 133,
+      "text": "Not yet.",
+      "start_ms": 345078,
+      "end_ms": 345602
+    },
+    {
+      "index": 134,
+      "text": "Later, maybe.\"",
+      "start_ms": 345602,
+      "end_ms": 346416
+    }
+  ]
+}

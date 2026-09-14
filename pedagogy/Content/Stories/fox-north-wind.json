@@ -1,0 +1,242 @@
+{
+  "id": "fox-north-wind",
+  "title": "The Fox and the North Wind",
+  "subtitle": "A Jokkmokk Legend",
+  "author": null,
+  "summary": "When Nell visits her Swedish grandmother above the Arctic Circle for Christmas, she hears the old family story: when the north wind blows for three nights, a white fox comes to the door and must be given a gift. On the third night, Nell has to answer the door herself.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-fox-north-wind-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: 10-year-old girl (Nell) standing at the open doorway of a small red wooden Scandinavian cabin at night, deep snow all around, dark pine forest beyond. On the doorstep sits a beautiful white arctic fox looking up at her, amber eyes visible. Warm golden light spills from inside the cabin onto the snow. The girl and fox are looking at each other calmly. Character positioned center-left, filling roughly 40% of frame height. Keep 100px safety padding on all sides. Blue and warm gold accent palette. Reverent, magical mood — not scary. DO NOT include text or title.",
+  "category": "legend",
+  "isPremium": true,
+  "publishedAt": "2026-09-03",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The First Night",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "In the north of Sweden, above the Arctic Circle, there is a village called Jokkmokk. In winter, the sun comes up at ten in the morning and goes down at one in the afternoon, and for most of the day the sky is a deep blue that turns to black.",
+            "This is where Nell's grandmother lived, in a small red wooden house on the edge of a frozen lake. And this is where Nell spent Christmas when she was ten years old."
+          ],
+          "image": "fx-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: a small red wooden Scandinavian cabin nestled at the edge of a frozen lake, surrounded by dark pine trees, deep snow blanketing everything. Warm golden light glowing from the windows. Twilight sky in deep midnight blue with faint auroras. A single set of footprints leading to the front door. Heavy black inks, deep blue and warm cabin-gold palette."
+        },
+        {
+          "paragraphs": [
+            "Her grandmother — Farmor Astrid — was small and quiet and had white hair braided down her back. She spoke English carefully, with pauses, the way people do when they are translating from another language in their head.",
+            "The house was warm inside. There was a wood stove and a rug made of reindeer hide and a shelf full of small carved wooden animals. Farmor's cat, whose name was Måns, slept in a basket by the fire.",
+            "On Nell's first evening, after they had eaten and washed the dishes, Farmor pulled up two chairs to the stove and said, \"There is a story I need to tell you.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Nell settled in with a blanket.",
+            "\"Our family,\" said Farmor, \"has an agreement. It is very old. It goes back to my grandfather's grandfather, who was a sailor and who was almost lost at sea one winter, and who was saved by a light he saw in the forest.\"",
+            "\"A light in the forest? On the sea?\"",
+            "\"He had come ashore. He was lost. He was going to die of cold. The light led him home. When he got to the door of his own house, the light turned into a white fox. A small fox, with amber eyes. It looked at him for a long moment. Then it went back into the trees.\""
+          ],
+          "image": "fx-ch1-p3-storytelling",
+          "imagePrompt": "Mike Mignola style for children: interior of the wooden cabin at night. An elderly woman with a long white braid (Farmor Astrid) and a 10-year-old girl (Nell) wrapped in a blanket, sitting in two chairs by a wood-burning stove. Warm firelight on their faces. A cat sleeping in a basket. Wooden carved animals on a shelf behind them. Heavy black inks, warm amber tones against cool blue window shadows."
+        },
+        {
+          "paragraphs": [
+            "\"After that,\" Farmor went on, \"the fox came sometimes, in winter. Always when the north wind blew for three nights without stopping. On the third night, the fox would come to the door. And a gift had to be left for it.\"",
+            "\"A gift?\"",
+            "\"Something small. Something the family had made or found or valued. My grandfather always left a coin. His mother left a piece of bread. My father left a feather. It did not matter what the gift was, as long as it was given honestly.\"",
+            "\"And if you didn't give one?\"",
+            "Farmor looked at the fire.",
+            "\"Then the fox took something else,\" she said. \"That is what the story tells.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Nell was not sure if she believed the story. It sounded like the kind of story grandmothers told to make winter feel important.",
+            "But that night, when she was in bed under her thick duvet, she heard the wind begin.",
+            "It was not an ordinary wind. It came out of the north and it whistled through the trees and it made a sound around the corners of the house like someone humming a long, low note.",
+            "Nell got up and went to the window.",
+            "The moon was up. The snow in the yard was bright as day. And there, in the snow, close to the front door, were small tracks. Fox tracks. Fresh."
+          ],
+          "image": "fx-ch1-p5-first-tracks",
+          "imagePrompt": "Mike Mignola style for children: view through a frosty window pane at night. Bright moonlit snow outside. A trail of small fox tracks visible in the fresh snow, leading toward the front door of the cabin. No fox visible. Heavy black inks, silver-blue moonlight tones. Sense of quiet mystery."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "What to Offer",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "In the morning, Nell told Farmor about the tracks.",
+            "Farmor did not seem surprised. She stood at the window with her cup of coffee and looked out at the snow. The wind was still blowing.",
+            "\"Two nights,\" she said, quietly. \"If it goes another night, the fox will come.\"",
+            "\"Farmor, do you really believe in it? The story?\"",
+            "Her grandmother was quiet for a moment.",
+            "\"I believe,\" she said, \"that some things are true even if they cannot be explained. And I believe that some things are true because we agree to keep them true.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "That afternoon, Farmor went to a drawer in the kitchen and took out a very small wooden box.",
+            "It was old. The lid did not quite fit. Farmor blew on it and dust rose.",
+            "\"This,\" she said, \"is the offering box. My father kept it here. When the wind blew three nights, we put the gift inside, and we put the box on the doorstep at midnight.\"",
+            "She opened the box. It was empty.",
+            "\"Farmor. Do you have a gift ready?\"",
+            "Her grandmother sighed. She sat down at the kitchen table."
+          ],
+          "image": "fx-ch2-p2-offering-box",
+          "imagePrompt": "Mike Mignola style for children: close-up of an elderly woman's hands opening a small dusty wooden box on a kitchen table. The box is empty inside. Winter morning light through a nearby window. A cup of coffee steaming in the background. Heavy black inks, warm sepia and pale winter blue tones."
+        },
+        {
+          "paragraphs": [
+            "\"That is the trouble,\" she said. \"My father was the last one who knew the craft. He knew what to give. Since then — the wind has come three nights only twice in my life. Once when I was young. Once when your mother was small.\"",
+            "\"And what did you give?\"",
+            "\"The first time, I panicked. I gave a gold necklace. It was expensive. It felt important.\"",
+            "\"What happened?\"",
+            "\"The fox came,\" said Farmor slowly. \"It stood on the doorstep. It looked at the necklace. It looked at me. And it left, without taking anything.\"",
+            "She looked at Nell.",
+            "\"I did not understand what I had done wrong. But I knew I had done something wrong. The next morning, my father's silver ring — the one he wore his whole life — was missing. We looked for it for weeks. We never found it.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Nell felt the hairs on her arms stand up. \"So the story is real.\"",
+            "\"The story is real,\" said Farmor. \"But I never learned how to give.\"",
+            "Nell thought about this all afternoon while she helped Farmor bake. She thought about it while they ate soup for lunch. She thought about it while the wind kept blowing — hour after hour, without stopping.",
+            "\"Farmor,\" she said eventually. \"What was different about your grandfather? The first time. What did he do that worked?\"",
+            "Farmor stopped stirring the soup. She looked at Nell, and her eyes were bright.",
+            "\"He was a sailor,\" she said. \"He was cold and afraid and alone in the trees. And on that first night — the night he was almost lost — he sang. He sang to himself, to keep from being afraid. He sang all the way through the forest.\""
+          ],
+          "image": "fx-ch2-p4-farmor-remembering",
+          "imagePrompt": "Mike Mignola style for children: warm kitchen scene. An elderly woman standing at a stove stirring soup, has just paused mid-motion, looking with sudden recognition at the girl sitting at the table. Snow falling steadily outside the window behind them. Heavy black inks, warm honey kitchen tones against the cool blue of the snowstorm outside."
+        },
+        {
+          "paragraphs": [
+            "\"And the fox heard the song,\" said Nell slowly.",
+            "\"The fox heard the song. And came.\"",
+            "That night — the second night — the wind did not stop.",
+            "Nell went to bed but she could not sleep. She listened to the wind. She thought about her Farmor as a young woman, panicking, choosing a gold necklace. She thought about the silver ring that was never found.",
+            "And she thought about tomorrow. The third night. When the wind was still blowing.",
+            "By morning, she had decided what she would give."
+          ],
+          "image": null,
+          "imagePrompt": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Song",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "The wind blew all through the third day.",
+            "Farmor watched the light fade in the afternoon. She was quiet. She did not ask Nell what she had planned to offer. Perhaps she did not want to interfere. Perhaps she was afraid Nell had made the wrong choice, the way she had.",
+            "At eleven o'clock at night, Nell put on her boots and her coat and her hat.",
+            "\"Farmor,\" she said. \"I need to do this on my own.\"",
+            "Farmor did not argue. She only nodded, once, and put the small wooden offering box in Nell's hands.",
+            "\"Then take this,\" she said. \"Whatever you give — put it inside. That's the way it's done.\""
+          ],
+          "image": "fx-ch3-p1-getting-ready",
+          "imagePrompt": "Mike Mignola style for children: interior of the cabin at night. A 10-year-old girl bundled in a heavy coat and hat, standing by the front door. Her grandmother is placing a small old wooden box into the girl's mittened hands. Firelight from the wood stove behind them. Wind visibly rattling the door in its frame. Heavy black inks, warm interior gold against the sense of cold outside."
+        },
+        {
+          "paragraphs": [
+            "Nell opened the front door.",
+            "The cold came in like a slap. The wind was very loud. The snow in the yard was so bright with moonlight that it hurt to look at.",
+            "She stepped out onto the doorstep. She closed the door softly behind her.",
+            "The tracks from the last two nights were still there, filling in with fresh snow. New tracks led up to the doorstep from the trees.",
+            "Nell looked up.",
+            "The fox was there."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "It was smaller than she had expected. A pure white arctic fox, with the softest-looking fur she had ever seen. Its eyes were the color of amber — a warm, dark gold. It sat very still in the snow, three feet from her, and it looked at her.",
+            "Nell's heart was beating very hard. She did not know if the fox understood people. She did not know if it understood English. She did not know if it understood anything.",
+            "She only knew what she was going to try."
+          ],
+          "image": "fx-ch3-p3-the-fox",
+          "imagePrompt": "Mike Mignola style for children: a small pure white arctic fox sitting perfectly still in bright moonlit snow, three feet from the front door of a wooden cabin. Amber eyes glowing softly. The tail curled elegantly around its feet. A 10-year-old girl visible from the knees down, standing in the doorway, boots in the snow. Deep blue night, silver moonlight, warm gold from the eyes. Heavy black inks. Reverent, sacred mood."
+        },
+        {
+          "paragraphs": [
+            "She put the small wooden offering box down on the doorstep.",
+            "Then she took a deep, shaky breath, and she began to sing.",
+            "The song was a lullaby. It was the one her mother had sung to her when she was very small, before Nell could remember words. It was a Swedish lullaby, one her mother had learned from Farmor. Nell did not remember all the words. She sang the ones she knew and hummed the ones she didn't.",
+            "\"Vem kan segla förutan vind,\" she sang, quietly. \"Vem kan ro utan åror. Vem kan skiljas från vännen sin, utan att fälla tårar.\"",
+            "Her voice shook. She kept going."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The fox listened.",
+            "It did not move. Its amber eyes stayed on Nell's face. The wind, which had been so loud, seemed to grow softer, as if the trees themselves were listening.",
+            "Nell sang all four verses that she could remember. When she finished, she stood very still. The song hung in the cold air.",
+            "The fox got to its feet.",
+            "It walked to the offering box. It looked at it. Then it looked back at Nell.",
+            "It bowed its head, once — slowly, deliberately, like someone accepting a gift with great respect.",
+            "And then it turned and disappeared into the trees."
+          ],
+          "image": "fx-ch3-p5-the-bow",
+          "imagePrompt": "Mike Mignola style for children: a beautiful moment — the small white arctic fox has walked up to the wooden offering box on the snowy doorstep and is bowing its head down toward it. Its posture is reverent, formal. The girl watching from just inside the doorway, hand still raised as if in mid-song. Deep blue night, silver snow, warm cabin light spilling from the open door. Heavy black inks, glowing amber eyes. Sacred, magical moment."
+        },
+        {
+          "paragraphs": [
+            "Nell stood on the doorstep for a long time after the fox was gone.",
+            "The wind was still blowing. The moon was still bright. But something had changed. She could feel it.",
+            "She picked up the offering box. It was still empty — she had not put anything in it. She had thought that was what she was going to do. But when the moment came, she had not.",
+            "The song had been the gift. The box had been the way to say: this counts as an offering. Please receive it.",
+            "The fox had received it."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Inside, Farmor was waiting by the fire. She looked up when Nell came in, and she looked at the empty box in Nell's hands, and her eyes filled with tears.",
+            "\"You sang.\"",
+            "\"I sang the lullaby that Mama used to sing me.\"",
+            "Farmor put her hand over her mouth.",
+            "\"That was my mother's song,\" she said. \"She sang it to your mother. Your mother sang it to you. I never — I never thought to sing it to the fox.\"",
+            "Nell sat down beside her. Farmor put an arm around her shoulders."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The next morning, Farmor got a fresh piece of paper. In her careful, spidery handwriting, she wrote down the four verses of the lullaby that Nell had sung. She folded the paper and put it inside the small wooden offering box.",
+            "She closed the lid.",
+            "\"For the next one,\" she said. \"In case there is a long time before the wind comes again. In case whoever comes next does not remember the words.\"",
+            "She put the box back in the drawer.",
+            "Outside, the wind had finally stopped. The trees stood still. Somewhere far off in the forest, a small white fox was making its way home, carrying something very quietly, that only it could hear."
+          ],
+          "image": "fx-ch3-p8-passing-on",
+          "imagePrompt": "Mike Mignola style for children: warm morning kitchen scene. An elderly woman placing a folded piece of paper into a small wooden box on the kitchen table. A 10-year-old girl standing beside her, watching. Morning light through the window shows still trees, no wind. A cat rubbing against the girl's leg. Heavy black inks, honey and warm cream tones. Peaceful, generational ending."
+        }
+      ]
+    }
+  ]
+}

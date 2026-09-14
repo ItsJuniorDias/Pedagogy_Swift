@@ -1,0 +1,167 @@
+{
+  "id": "the-radio-boy",
+  "title": "The Radio Boy",
+  "subtitle": "A Signal from Hokkaido",
+  "author": null,
+  "summary": "Ren is spending August with his grandmother in a wooden house in eastern Hokkaido. In the attic he finds an old shortwave radio that his grandfather built when he was a boy. Late at night, on a specific frequency, he can hear another boy talking. The boy speaks slowly, in old-fashioned Japanese, and he seems to be waiting for someone to answer.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-the-radio-boy-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old boy (Ren) with short black hair, sitting cross-legged on a wooden attic floor in a warm summer night, wearing pajamas. In front of him: a large old wooden shortwave radio with brass dials and a glowing amber tuning window, one hand adjusting the dial, one hand holding an old canvas headphone against his ear. Warm light from a single hanging bulb overhead. A round attic window behind him shows a starlit Hokkaido sky. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), deep sepia wood, ink outlines, brass warm gold on radio dials, small dusty rose (#FF5B8D) accent on his cheeks. Small margin at top and bottom for card padding.",
+  "category": "mystery",
+  "isPremium": true,
+  "publishedAt": "2026-11-05",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Attic",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "tr-ch1-p1-house",
+          "imagePrompt": "Mike Mignola style for children: exterior of a traditional wooden Japanese farmhouse in eastern Hokkaido, surrounded by dense pine and birch forest. Summer evening light. A boy (Ren, 10, short black hair, summer clothes) is arriving at the door with a small suitcase. A woman (Obaachan, sixties) opens the door and smiles. Heavy black ink outlines, flat shadows, cream and sepia palette with muted forest greens.",
+          "paragraphs": [
+            "Ren's grandmother lived in a wooden farmhouse at the edge of a small village in eastern Hokkaido, deep in the pine forests, where the summer nights were cool and full of the sound of crickets. She had lived there alone since Ojiichan had died, three years before, and every August Ren came to stay with her for two weeks. He was ten. He liked the house. He liked the smell of it — old wood and cedar smoke — and the way the floors creaked in specific places that he had memorized. He liked Obaachan.",
+            "This year was different, because Obaachan was moving out of the house at the end of the summer. It was too big for her now, and it was too far from the village doctor, and Ren's father had convinced her, finally, to move into an apartment closer to the town. Ren had known this was coming, but seeing the house — his house, in a way, since he had known it his whole life — with cardboard boxes stacked in every room made his stomach feel strange."
+          ]
+        },
+        {
+          "image": "tr-ch1-p2-attic-first",
+          "imagePrompt": "Mike Mignola style for children: interior of a wooden attic room, low sloped ceiling, one round window at the end. Dust in the warm afternoon light. Cardboard boxes and covered furniture. A boy (Ren, 10) has just climbed up through the trap door and stands at the top, looking around. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"You can help me with the attic,\" Obaachan said, on the second day. \"I have not been up there in maybe ten years. Ojiichan used to work up there. I do not know what is left. You can go through it and tell me what to keep and what to give away.\" Ren was glad to have a job. He climbed up through the small trap door in the ceiling of the upstairs hallway and pulled himself into the attic. It was hotter than the rest of the house. The ceiling was low. There was one small round window at the far end that let in a circle of warm afternoon light.",
+            "There were boxes everywhere. Old winter clothes wrapped in paper. A stack of magazines from the 1970s. A broken lantern. A wooden go board. Ren opened boxes slowly. Some things he took down and showed to Obaachan. Some things he pushed to one side to give away. He was there for two whole afternoons before he found the radio."
+          ]
+        },
+        {
+          "image": "tr-ch1-p3-radio",
+          "imagePrompt": "Mike Mignola style for children: close view of an old wooden shortwave radio sitting on the attic floor, its wooden case scratched but intact. Brass dials and knobs, an amber tuning window, a coiled cord with old canvas headphones lying beside it. Ren's hands (a boy's hands) touching the case gently. Warm attic light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "It was in a wooden crate at the back of the attic, wrapped in an old blanket. When Ren pulled the blanket off, he saw a large wooden box with brass dials on the front and a small window in the middle. The window was marked with numbers — kilohertz, he found out later — and it had a delicate needle that was still in one piece even after all these years. There was a coiled cord attached, and at the end of the cord was a pair of canvas-covered headphones. The radio was heavy. It was much older than Ren.",
+            "He carried it very carefully down to the main room. He set it on the table in front of Obaachan. She looked at it for a long moment. Then she smiled, softly. \"That was Ojiichan's,\" she said. \"He built it when he was your age. He was ten or eleven. He was very proud of it. He listened to it for many years — he could hear stations from all over Asia at night. Russia, Korea, sometimes even further. When he got older he did not use it as much. But he never let anyone throw it away.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Does it still work,\" Ren asked. Obaachan shrugged. \"I do not know. I have not turned it on since — probably since he died. Maybe longer. You could try. It plugs into the wall. There.\" She pointed at a cord ending in an old plug. \"Be careful. It is very old. If it does not turn on, that is fine. Do not try to fix it.\"",
+            "Ren plugged the radio into the wall socket in the corner of the main room. He held his breath. He turned the small silver knob on the front. There was a click. Then a soft warm hum began. The amber tuning window slowly glowed to life, a pale gold. Ren looked at Obaachan. Obaachan looked at the radio. Neither of them spoke for a moment. Then Obaachan said, softly, \"Well. It is still alive.\""
+          ]
+        },
+        {
+          "image": "tr-ch1-p5-listening",
+          "imagePrompt": "Mike Mignola style for children: interior room scene. A boy (Ren, 10) sitting on the tatami mat, the old wooden radio in front of him, canvas headphones over his ears, one hand on the dial. His face is concentrating, eyes closed. An older woman (Obaachan) sits nearby knitting, watching him with a soft smile. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That evening Ren sat with the radio for hours. Obaachan showed him how to use the dials — the big one moved fast through the frequencies, the small one moved slow, for tuning finely. He put the headphones on. He listened. At first he only heard static and small pops. Then, as the sky got darker outside, and the shortwave signals traveled further, he began to hear things. Music from somewhere. A voice speaking in Chinese. A voice in Russian, singing along to a song Ren did not know. Weather reports in Korean. It felt like he was listening to the whole edge of the country at once.",
+            "\"It is a magic thing,\" he said to Obaachan, taking off the headphones. \"It really is a magic thing.\" Obaachan smiled. \"Ojiichan thought so too,\" she said. \"He used to say the radio was proof that people are less alone than they think. There are always voices in the air. You only have to know how to listen.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Boy on 6.185",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "tr-ch2-p1-night-listen",
+          "imagePrompt": "Mike Mignola style for children: nighttime scene. A boy (Ren, 10, in pajamas) sits alone on the floor of the tatami room, the old radio glowing amber in front of him, headphones on. The room is dark except for the glow of the radio and a small paper lamp. He is turning the dial very slowly, focused. Heavy ink outlines, flat shadows, warm cream and gold palette with cool dark surroundings.",
+          "paragraphs": [
+            "It was on the third night that Ren first heard him. He had stayed up late, sitting on the floor with the radio in front of him. It was past midnight. Obaachan had gone to sleep. He was moving the dial very slowly, listening for interesting stations, when he heard something unusual. A boy's voice. Speaking in Japanese, but slowly, and carefully, with a strange formality. It sounded like a boy his own age.",
+            "Ren stopped moving the dial. The frequency window was on 6.185 megahertz. The boy was saying, \"Hello. This is Tetsuo. Can anyone hear me. Over.\" There was a pause. Then the boy said, \"I am ten years old. I live in Kushiro. Is anyone listening. Over.\" There was another pause. Then the boy tried again. \"Please. If you hear me. Please answer. I have been trying for three months. Over.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Ren sat very still. The radio he was listening to did not have a microphone — it could only receive, not transmit. He could not answer. He listened. The boy — Tetsuo — kept talking. He said his radio call sign, which was a string of letters and numbers. He said he was doing something called \"CQ,\" which he explained was what radio operators did when they were looking for anyone to talk to. He said again that he had been trying for three months. He sounded, Ren thought, a little tired, and a little brave.",
+            "After maybe ten minutes, the boy said, \"That is all for tonight. Same time tomorrow, same frequency. Over and out.\" And then he was gone. There was only static. Ren sat with the headphones on for another few minutes, hoping he would come back. He did not. Ren turned off the radio and went to bed. He lay awake for a long time thinking about it."
+          ]
+        },
+        {
+          "image": "tr-ch2-p2-question",
+          "imagePrompt": "Mike Mignola style for children: morning kitchen scene. An older woman (Obaachan, sixties) at the low table, drinking tea, looking up at a boy (Ren, 10) with a slightly surprised expression. Warm morning light through a paper screen. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the morning he asked Obaachan about it. He was trying to be careful. He asked, \"Obaachan, when Ojiichan was a boy, did he have a radio call sign? For his radio?\" Obaachan looked at him for a moment. \"Yes,\" she said. \"He did. All of the boys and girls who built their own radios did. It was how they identified themselves. Why do you ask.\" Ren said, \"Do you remember what his was?\" She thought. \"It was — JA8 something. JA8AB. Or JA8AC. Something like that. It was a long time ago.\" Ren nodded. He did not tell her the rest.",
+            "\"And what was Ojiichan's name when he was a boy? His full name.\" She raised an eyebrow. \"Tetsuo,\" she said. \"Tetsuo Yamamoto. Why. Why do you want to know?\" Ren said, \"Just curious.\" And he went outside into the garden and he sat under the persimmon tree for a long time, and he thought about it."
+          ]
+        },
+        {
+          "image": "tr-ch2-p3-listening-again",
+          "imagePrompt": "Mike Mignola style for children: night scene, same tatami room. Boy (Ren, 10, in pajamas) sits at the radio, headphones on, but this time his face is different — solemn, focused, understanding something. Heavy ink outlines, flat shadows, warm gold and cool dark palette.",
+          "paragraphs": [
+            "That night Ren listened again. At exactly the same time. On exactly the same frequency. And the same boy was there. Tetsuo. Ten years old. Kushiro. Which was a city in eastern Hokkaido — not the village where Ren was, but not so far. The boy did his CQ. He asked for anyone to answer. He said he had been trying for three months and now four. He described the radio he had built himself, out of parts his father had brought home from work.",
+            "Ren listened for almost half an hour. At one point the boy told a small story about school. He said his teacher had been angry with him because he had been drawing radios instead of doing his math. He said his father had laughed when he heard about it. He said he thought the teacher was going to write a note home but the teacher had not. He said he had felt lucky. Ren, listening, understood something then. He was hearing his grandfather. Ten years old. In some year in the 1950s. Speaking into the air of a night that was over long before Ren had been born."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "He did not know how it was possible. He knew about radio waves — that they traveled at the speed of light, that they went out into space. He wondered if some signals bounced off things very far away and came back many years later. He wondered if this was one of those. He also wondered if he was wrong. If it was some other boy named Tetsuo, in some other place. If it was a recording someone was broadcasting on purpose. If he was making it all up in his head.",
+            "But he did not think he was making it up. He thought it was really his grandfather. And so, that night, before Tetsuo signed off, Ren did something. He whispered into the empty room, into the radio, into the past — even though he knew the radio could not send anything, and even though he knew nothing could actually go back through time — he whispered, \"I hear you, Ojiichan. I hear you. It is Ren. Over and out.\" And then he took the headphones off, and he turned the radio off, and he went to bed."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Same Time, Same Frequency",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "tr-ch3-p1-thinking",
+          "imagePrompt": "Mike Mignola style for children: a boy (Ren, 10) sits on the wooden engawa porch in the morning, one knee drawn up, looking out at the pine forest. A cup of tea beside him. His face is thoughtful, quiet. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "Ren listened to the boy every night for a week. Sometimes Tetsuo talked about small things — his mother's cooking, a bird he had seen, a book he was reading. Sometimes he only did the CQ and said his call sign and waited and then signed off. He was never answered. Ren wanted very badly to be able to answer. He looked at the radio during the day and tried to understand if it might be modified to send. It could not. It was a receiver only.",
+            "One morning Obaachan came out to the porch where Ren was sitting. She had two cups of tea. She sat down next to him. She was quiet for a moment. Then she said, \"You are listening to something on the radio. Every night. What are you listening to.\" Ren thought about lying. He decided not to. He said, \"I think — I think I am hearing Ojiichan. When he was a boy. On the radio.\" Obaachan looked at him. She did not laugh. She did not say he was making it up. She only nodded, very slowly."
+          ]
+        },
+        {
+          "image": "tr-ch3-p2-together",
+          "imagePrompt": "Mike Mignola style for children: night scene. An older woman (Obaachan, sixties) and a boy (Ren, 10) sit side by side on the tatami mat, the radio glowing between them. She is wearing the canvas headphones now, her eyes closed. He watches her. Warm cream and gold palette, cool dark surroundings. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "\"Can I listen with you,\" she said. Ren said yes. That night they sat together at the radio. Ren tuned it to 6.185 exactly at midnight. He handed Obaachan the headphones. She put them on. She closed her eyes. She listened.",
+            "For a long time she did not say anything. Ren could not hear what she was hearing, but he could see her face. She was very still. Once, her lips moved slightly, as if she was recognizing a word. Once, she smiled — a very small smile, at nothing Ren could see. Once, she took a breath in a way that Ren thought meant she was going to cry, but she did not. She just breathed."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "After twenty minutes she took the headphones off. She set them down carefully on the tatami. She sat very still. Then she said, \"That is his voice. He was ten. He was very serious as a boy. He told me once about the time his teacher almost wrote a note home for drawing radios. His father laughed and did not tell his mother. That was the story he just told.\" She looked at Ren. \"I do not understand how this is happening. But it is his voice. And it is a night in maybe 1957. He was ten in 1957.\"",
+            "Ren said, \"Do you think it is real. Or do you think — I don't know. That it is us imagining something.\" Obaachan thought for a very long time. Then she said, \"I do not think it matters, Ren. I think we are hearing him. Whether it is a radio wave that has been bouncing around for seventy years and finally came back to us. Or whether we are just remembering him, both of us together, so hard that we hear him. It is the same thing. He is here for a little while. That is what is happening.\""
+          ]
+        },
+        {
+          "image": "tr-ch3-p4-many-nights",
+          "imagePrompt": "Mike Mignola style for children: night scene. An older woman (Obaachan, sixties) and a boy (Ren, 10) both sit at the radio together, each with one earpiece of the canvas headphones split between them. Both listening. Warm gold glow of the radio. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "For the last few days of Ren's visit, they listened together every night. They split the headphones — Obaachan wore one earpiece, Ren wore the other. Sometimes Tetsuo told a story. Sometimes he was quiet, and only did his CQ. He never got an answer. Ren wondered, sometimes, what would happen if someone — somewhere in the actual 1950s — had answered him. He wondered if that had ever happened, in the real past. He hoped it had.",
+            "On the last night — the night before Ren was going home — Obaachan turned to Ren, headphones between them. She said, \"He is going to say goodnight in a moment. Then he will be gone. And then we are going to have to move out of this house. I do not know if we can hear him from the new apartment. It might not work there. It might be different. So this may be the last night.\" Ren nodded. He had thought about this too. Tetsuo — Ojiichan, when he was a boy — did his sign-off in his slow careful voice. Same time tomorrow, same frequency. Over and out. And then he was gone. And there was only static."
+          ]
+        },
+        {
+          "image": "tr-ch3-p5-moving",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the old wooden farmhouse. Boxes and belongings stacked outside as a moving truck sits in the driveway. A boy (Ren, 10) carefully carries the old wooden radio out of the front door, holding it against his chest. His grandmother (Obaachan) watches from the doorway with a soft still expression. Autumn light, cool. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Six weeks later, Ren went with his father to help Obaachan move. They packed up everything, and Ren was allowed to carry the radio himself. He carried it out to the moving truck in both arms, and he set it in a corner where it would not slide around. Obaachan came out with the last of her boxes. She stood in the driveway of the old house and looked at it for a while. Then she got in the car with Ren's father.",
+            "The new apartment was smaller and cleaner and closer to the doctor. There was no attic. But Obaachan had a corner in the main room for the radio, and she put it there, on a low table where it could plug into the wall. Ren was there the first night she tried it. She turned it on at midnight. She tuned it to 6.185. She put the headphones on. She listened for a long time. Then she looked at Ren. She smiled — a small strange smile. \"I can hear him,\" she said. \"He is here too. Somehow.\" Ren was very glad. He did not need to hear it himself. He believed her. And he understood, then, what Ojiichan had said once, according to Obaachan: that the radio was proof that people are less alone than they think. That there are always voices in the air. That you only had to know how to listen."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "japan",
+    "grandfather",
+    "radio",
+    "memory"
+  ]
+}

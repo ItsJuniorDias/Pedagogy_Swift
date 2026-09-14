@@ -1,0 +1,637 @@
+{
+  "story_id": "fifth-violin",
+  "chapter": 1,
+  "total_duration_ms": 374832,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Renata was eleven, and she had been playing the violin for six years, and she was one of the better students at the small music school in the neighborhood of Almagro in Buenos Aires.",
+      "start_ms": 1740,
+      "end_ms": 12352
+    },
+    {
+      "index": 1,
+      "text": "Her violin was not her own — the school lent it to her — but she had been using the same one for two years, and it felt like hers.",
+      "start_ms": 12352,
+      "end_ms": 19949
+    },
+    {
+      "index": 2,
+      "text": "On a Thursday in the middle of March, at the end of a rehearsal, her teacher had noticed a tiny crack near the base of the neck.",
+      "start_ms": 19949,
+      "end_ms": 27430
+    },
+    {
+      "index": 3,
+      "text": "Not big enough to affect the sound.",
+      "start_ms": 27430,
+      "end_ms": 29518
+    },
+    {
+      "index": 4,
+      "text": "But if it was left alone it would get worse.",
+      "start_ms": 29518,
+      "end_ms": 32127
+    },
+    {
+      "index": 5,
+      "text": "Her teacher had written down an address on a card.",
+      "start_ms": 32127,
+      "end_ms": 35085
+    },
+    {
+      "index": 6,
+      "text": "\"Don Aurelio,\" she had said.",
+      "start_ms": 35085,
+      "end_ms": 36766
+    },
+    {
+      "index": 7,
+      "text": "\"On Corrientes.",
+      "start_ms": 36766,
+      "end_ms": 37694
+    },
+    {
+      "index": 8,
+      "text": "He is the best luthier in the city.",
+      "start_ms": 37694,
+      "end_ms": 39782
+    },
+    {
+      "index": 9,
+      "text": "Take it after school on Monday.",
+      "start_ms": 39782,
+      "end_ms": 41638
+    },
+    {
+      "index": 10,
+      "text": "He will not charge you.",
+      "start_ms": 41638,
+      "end_ms": 43030
+    },
+    {
+      "index": 11,
+      "text": "He does the school violins for free.",
+      "start_ms": 43030,
+      "end_ms": 45175
+    },
+    {
+      "index": 12,
+      "text": "Tell him I sent you.\"",
+      "start_ms": 45175,
+      "end_ms": 46509
+    },
+    {
+      "index": 13,
+      "text": "So on Monday, in her school uniform, Renata took the subway to the Corrientes stop, and she walked along the huge busy street with her violin case in her hand.",
+      "start_ms": 46509,
+      "end_ms": 55788
+    },
+    {
+      "index": 14,
+      "text": "Corrientes was the great theater street of Buenos Aires — full of bookshops that stayed open until two in the morning, and old cafes, and marquees for tango shows and plays.",
+      "start_ms": 55788,
+      "end_ms": 65878
+    },
+    {
+      "index": 15,
+      "text": "Renata knew it well.",
+      "start_ms": 65878,
+      "end_ms": 67096
+    },
+    {
+      "index": 16,
+      "text": "Her parents used to bring her to the bookshops when she was small.",
+      "start_ms": 67096,
+      "end_ms": 70981
+    },
+    {
+      "index": 17,
+      "text": "She walked for maybe ten minutes, checking the number on the card, until she found the doorway.",
+      "start_ms": 70981,
+      "end_ms": 76607
+    },
+    {
+      "index": 18,
+      "text": "The workshop was on the third floor of an old building.",
+      "start_ms": 76607,
+      "end_ms": 79854
+    },
+    {
+      "index": 19,
+      "text": "The staircase was narrow and had iron banisters, and each stone step was worn smooth in the middle from a hundred years of use.",
+      "start_ms": 79854,
+      "end_ms": 87277
+    },
+    {
+      "index": 20,
+      "text": "Renata climbed carefully.",
+      "start_ms": 87277,
+      "end_ms": 88785
+    },
+    {
+      "index": 21,
+      "text": "She was a little nervous.",
+      "start_ms": 88785,
+      "end_ms": 90292
+    },
+    {
+      "index": 22,
+      "text": "She had never been to a luthier before.",
+      "start_ms": 90292,
+      "end_ms": 92612
+    },
+    {
+      "index": 23,
+      "text": "She had imagined a workshop something like a fancy shop, but the building did not feel like a shop — it felt like an old apartment building, with the smell of cooking and the sound of someone playing a radio behind one of the doors she passed.",
+      "start_ms": 92612,
+      "end_ms": 106704
+    },
+    {
+      "index": 24,
+      "text": "The door at the top said, in small careful painted letters, ATELIER AURELIO SANTOS.",
+      "start_ms": 106704,
+      "end_ms": 113364
+    },
+    {
+      "index": 25,
+      "text": "LUTHIER.",
+      "start_ms": 113364,
+      "end_ms": 114077
+    },
+    {
+      "index": 26,
+      "text": "There was no bell.",
+      "start_ms": 114077,
+      "end_ms": 115583
+    },
+    {
+      "index": 27,
+      "text": "Renata knocked.",
+      "start_ms": 115583,
+      "end_ms": 116852
+    },
+    {
+      "index": 28,
+      "text": "After a moment the door opened and a man was there.",
+      "start_ms": 116852,
+      "end_ms": 120975
+    },
+    {
+      "index": 29,
+      "text": "He was maybe fifty, tall, thin, with silver at his temples and dark eyes and a leather apron over his shirt.",
+      "start_ms": 120975,
+      "end_ms": 129616
+    },
+    {
+      "index": 30,
+      "text": "He looked at her for a moment.",
+      "start_ms": 129616,
+      "end_ms": 132074
+    },
+    {
+      "index": 31,
+      "text": "He said, in a quiet voice, \"You must be sent by Señora Vilar.",
+      "start_ms": 132074,
+      "end_ms": 136989
+    },
+    {
+      "index": 32,
+      "text": "She always sends the smaller ones on Mondays.",
+      "start_ms": 136989,
+      "end_ms": 140636
+    },
+    {
+      "index": 33,
+      "text": "Come in.\"",
+      "start_ms": 140636,
+      "end_ms": 141508
+    },
+    {
+      "index": 34,
+      "text": "The workshop was one big room.",
+      "start_ms": 141508,
+      "end_ms": 143966
+    },
+    {
+      "index": 35,
+      "text": "It had very high ceilings and huge old windows that let in a lot of warm afternoon light.",
+      "start_ms": 143966,
+      "end_ms": 151101
+    },
+    {
+      "index": 36,
+      "text": "Everything smelled of wood shavings and something else — a resinous smell that Renata could not name.",
+      "start_ms": 151101,
+      "end_ms": 159188
+    },
+    {
+      "index": 37,
+      "text": "There were half-finished violins hanging from hooks all around.",
+      "start_ms": 159188,
+      "end_ms": 164262
+    },
+    {
+      "index": 38,
+      "text": "There was a long wooden workbench along one wall with tiny brass tools laid out in careful rows.",
+      "start_ms": 164262,
+      "end_ms": 171952
+    },
+    {
+      "index": 39,
+      "text": "There was a small desk in one corner with paperwork on it.",
+      "start_ms": 171952,
+      "end_ms": 176630
+    },
+    {
+      "index": 40,
+      "text": "There was a chair for a customer.",
+      "start_ms": 176630,
+      "end_ms": 179326
+    },
+    {
+      "index": 41,
+      "text": "And on the far wall, in a straight line, there were four completely identical violins hanging on hooks.",
+      "start_ms": 179326,
+      "end_ms": 187571
+    },
+    {
+      "index": 42,
+      "text": "Renata noticed them almost immediately.",
+      "start_ms": 187571,
+      "end_ms": 190742
+    },
+    {
+      "index": 43,
+      "text": "She could not stop looking at them.",
+      "start_ms": 190742,
+      "end_ms": 193675
+    },
+    {
+      "index": 44,
+      "text": "Don Aurelio saw her looking.",
+      "start_ms": 193675,
+      "end_ms": 195975
+    },
+    {
+      "index": 45,
+      "text": "He said, \"Yes.",
+      "start_ms": 195975,
+      "end_ms": 197164
+    },
+    {
+      "index": 46,
+      "text": "Those.",
+      "start_ms": 197164,
+      "end_ms": 197719
+    },
+    {
+      "index": 47,
+      "text": "They are one of the reasons people come to see me.",
+      "start_ms": 197719,
+      "end_ms": 201762
+    },
+    {
+      "index": 48,
+      "text": "They are the reason my father bought this workshop, in fact.",
+      "start_ms": 201762,
+      "end_ms": 206598
+    },
+    {
+      "index": 49,
+      "text": "Come.",
+      "start_ms": 206598,
+      "end_ms": 207074
+    },
+    {
+      "index": 50,
+      "text": "Sit.",
+      "start_ms": 207074,
+      "end_ms": 207470
+    },
+    {
+      "index": 51,
+      "text": "Give me your violin.",
+      "start_ms": 207470,
+      "end_ms": 209135
+    },
+    {
+      "index": 52,
+      "text": "I will look at the crack.",
+      "start_ms": 209135,
+      "end_ms": 211197
+    },
+    {
+      "index": 53,
+      "text": "Then, if you want, we can talk about them.\"",
+      "start_ms": 211197,
+      "end_ms": 214764
+    },
+    {
+      "index": 54,
+      "text": "Renata gave him her violin.",
+      "start_ms": 214764,
+      "end_ms": 216984
+    },
+    {
+      "index": 55,
+      "text": "She sat in the customer chair.",
+      "start_ms": 216984,
+      "end_ms": 219442
+    },
+    {
+      "index": 56,
+      "text": "She kept looking at the four violins on the wall.",
+      "start_ms": 219442,
+      "end_ms": 223406
+    },
+    {
+      "index": 57,
+      "text": "They were the same size.",
+      "start_ms": 223406,
+      "end_ms": 225388
+    },
+    {
+      "index": 58,
+      "text": "They were the same color — a warm dark amber varnish that seemed to have a small glow of its own, even in the daylight.",
+      "start_ms": 225388,
+      "end_ms": 234902
+    },
+    {
+      "index": 59,
+      "text": "They had the same fingerboard.",
+      "start_ms": 234902,
+      "end_ms": 237359
+    },
+    {
+      "index": 60,
+      "text": "The same shape.",
+      "start_ms": 237359,
+      "end_ms": 238628
+    },
+    {
+      "index": 61,
+      "text": "The same little curls at the ends of the scrolls.",
+      "start_ms": 238628,
+      "end_ms": 242592
+    },
+    {
+      "index": 62,
+      "text": "They were not just similar.",
+      "start_ms": 242592,
+      "end_ms": 244812
+    },
+    {
+      "index": 63,
+      "text": "They were identical.",
+      "start_ms": 244812,
+      "end_ms": 246477
+    },
+    {
+      "index": 64,
+      "text": "Like four copies of the same photograph.",
+      "start_ms": 246477,
+      "end_ms": 249648
+    },
+    {
+      "index": 65,
+      "text": "Don Aurelio worked on Renata's violin at his bench.",
+      "start_ms": 249648,
+      "end_ms": 253005
+    },
+    {
+      "index": 66,
+      "text": "He barely looked at it — he had been doing this so long, she realized, that his hands knew what to do without much of him being there.",
+      "start_ms": 253005,
+      "end_ms": 261721
+    },
+    {
+      "index": 67,
+      "text": "He said, in his soft voice, while he worked, \"They are called the Constanzi Quartet.",
+      "start_ms": 261721,
+      "end_ms": 267209
+    },
+    {
+      "index": 68,
+      "text": "Made by a maker named Filippo Constanzi in Cremona, Italy, in 1801.",
+      "start_ms": 267209,
+      "end_ms": 271599
+    },
+    {
+      "index": 69,
+      "text": "He was a student of one of the great old makers.",
+      "start_ms": 271599,
+      "end_ms": 274762
+    },
+    {
+      "index": 70,
+      "text": "He made these four violins as a set, at the same time, from wood from the same tree.",
+      "start_ms": 274762,
+      "end_ms": 280250
+    },
+    {
+      "index": 71,
+      "text": "He wanted to give them all the same voice.",
+      "start_ms": 280250,
+      "end_ms": 283026
+    },
+    {
+      "index": 72,
+      "text": "So a string quartet could play them, and no one violin would stand out above the others.",
+      "start_ms": 283026,
+      "end_ms": 288772
+    },
+    {
+      "index": 73,
+      "text": "All matched.",
+      "start_ms": 288772,
+      "end_ms": 289611
+    },
+    {
+      "index": 74,
+      "text": "All the same.\"",
+      "start_ms": 289611,
+      "end_ms": 290644
+    },
+    {
+      "index": 75,
+      "text": "When Don Aurelio had finished with her violin — the crack, he said, was small; he would fill it and revarnish it and she could pick it up on Friday — he stood up and went to the wall.",
+      "start_ms": 290644,
+      "end_ms": 302524
+    },
+    {
+      "index": 76,
+      "text": "He pointed at each of the four in turn.",
+      "start_ms": 302524,
+      "end_ms": 305106
+    },
+    {
+      "index": 77,
+      "text": "\"This one belonged to a man named Bernardo Molina.",
+      "start_ms": 305106,
+      "end_ms": 308399
+    },
+    {
+      "index": 78,
+      "text": "A famous Argentine violinist.",
+      "start_ms": 308399,
+      "end_ms": 310335
+    },
+    {
+      "index": 79,
+      "text": "He played on it for forty years.",
+      "start_ms": 310335,
+      "end_ms": 312466
+    },
+    {
+      "index": 80,
+      "text": "When he died, in 1972, his widow sold it to my father.",
+      "start_ms": 312466,
+      "end_ms": 316017
+    },
+    {
+      "index": 81,
+      "text": "This one belonged to a Frenchwoman named Cecile Petit, who played in the Paris Opera in the 1880s.",
+      "start_ms": 316017,
+      "end_ms": 322408
+    },
+    {
+      "index": 82,
+      "text": "This one belonged to a Russian named Karyakin, who played in Moscow before the Revolution.",
+      "start_ms": 322408,
+      "end_ms": 328283
+    },
+    {
+      "index": 83,
+      "text": "He escaped Russia in 1918 with only this violin and the clothes on his back.",
+      "start_ms": 328283,
+      "end_ms": 333255
+    },
+    {
+      "index": 84,
+      "text": "This one — the last one — belonged to a young man named Diego Palma.",
+      "start_ms": 333255,
+      "end_ms": 337709
+    },
+    {
+      "index": 85,
+      "text": "He was Argentine also.",
+      "start_ms": 337709,
+      "end_ms": 339194
+    },
+    {
+      "index": 86,
+      "text": "He was going to be very famous.",
+      "start_ms": 339194,
+      "end_ms": 341260
+    },
+    {
+      "index": 87,
+      "text": "He died young.",
+      "start_ms": 341260,
+      "end_ms": 342229
+    },
+    {
+      "index": 88,
+      "text": "He was twenty-four.\"",
+      "start_ms": 342229,
+      "end_ms": 343649
+    },
+    {
+      "index": 89,
+      "text": "He turned to Renata.",
+      "start_ms": 343649,
+      "end_ms": 345005
+    },
+    {
+      "index": 90,
+      "text": "\"They came to my father one at a time.",
+      "start_ms": 345005,
+      "end_ms": 347523
+    },
+    {
+      "index": 91,
+      "text": "Over forty years.",
+      "start_ms": 347523,
+      "end_ms": 348685
+    },
+    {
+      "index": 92,
+      "text": "He tracked them down.",
+      "start_ms": 348685,
+      "end_ms": 350105
+    },
+    {
+      "index": 93,
+      "text": "He bought them from families, from estates.",
+      "start_ms": 350105,
+      "end_ms": 352946
+    },
+    {
+      "index": 94,
+      "text": "He believed — he truly believed — that they belonged together.",
+      "start_ms": 352946,
+      "end_ms": 357013
+    },
+    {
+      "index": 95,
+      "text": "That they had been made to be together.",
+      "start_ms": 357013,
+      "end_ms": 359596
+    },
+    {
+      "index": 96,
+      "text": "When my father died I promised him I would keep them together.",
+      "start_ms": 359596,
+      "end_ms": 363663
+    },
+    {
+      "index": 97,
+      "text": "So here they are.",
+      "start_ms": 363663,
+      "end_ms": 364825
+    },
+    {
+      "index": 98,
+      "text": "Four of the five.",
+      "start_ms": 364825,
+      "end_ms": 365987
+    },
+    {
+      "index": 99,
+      "text": "Together.\" Renata sat up.",
+      "start_ms": 365987,
+      "end_ms": 367666
+    },
+    {
+      "index": 100,
+      "text": "\"Four of the five,\" she said.",
+      "start_ms": 367666,
+      "end_ms": 369603
+    },
+    {
+      "index": 101,
+      "text": "Don Aurelio smiled.",
+      "start_ms": 369603,
+      "end_ms": 370894
+    },
+    {
+      "index": 102,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 370894,
+      "end_ms": 371927
+    },
+    {
+      "index": 103,
+      "text": "\"There is a fifth.",
+      "start_ms": 371927,
+      "end_ms": 373153
+    },
+    {
+      "index": 104,
+      "text": "There was always a fifth.\"",
+      "start_ms": 373153,
+      "end_ms": 374832
+    }
+  ]
+}

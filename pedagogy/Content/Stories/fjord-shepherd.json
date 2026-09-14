@@ -1,0 +1,168 @@
+{
+  "id": "fjord-shepherd",
+  "title": "The Fjord Shepherd",
+  "subtitle": "A Night Above Nærøyfjord",
+  "author": null,
+  "summary": "Signe is eleven and spends every July with her uncle Ólafur, a sheep farmer on the steep sides of the Nærøyfjord in western Norway. Ólafur keeps three hundred sheep, most of whom spend the summer roaming the high pastures above the fjord. This July, a summer storm is building on the horizon, and one particular ewe — Ester, an old wise ewe Ólafur has known her whole life — has not come down with the rest. Ólafur decides to go up and find her. Signe, this year, is going with him.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-fjord-shepherd-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old Norwegian girl (Signe) with pale blonde hair in a single low braid, wearing a heavy dark blue wool sweater, dark waterproof trousers, and rubber boots, standing on a steep grassy slope high above a narrow fjord. She holds a long curved shepherd's staff made of dark birchwood with a black iron hook. Beside her stands her uncle (Ólafur, early fifties, short greying blond beard, weathered kind face, dark green oilskin jacket), scanning the higher slopes with a small pair of binoculars. Below them, the narrow Nærøyfjord winds like a dark ribbon between towering rock walls; low storm clouds gather at the head of the fjord. Character positioned center-left, filling roughly 45% of frame height. Palette: warm cream (#FFF9F0), deep green mountain grass, grey-blue fjord water, deep ink outlines, small dusty rose (#FF5B8D) accent on Signe's cheeks. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2027-07-08",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Missing Ewe",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "fj-ch1-p1-farm",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small red-painted wooden farmhouse and barn on a narrow shelf of land above the deep dark waters of a Norwegian fjord. Steep dark rock walls rise on both sides. A small flock of white sheep graze on the green shelf. A single wooden dock extends into the fjord. Cool Nordic summer morning light. Heavy black ink outlines, flat shadows, warm cream and dark green palette.",
+          "paragraphs": [
+            "Signe was eleven and lived in Bergen, on the wet green west coast of Norway. Her father was a schoolteacher and her mother worked at an insurance office and neither of them was, in any sense, a country person. But her father's older brother, her uncle Ólafur, was — Ólafur was a sheep farmer, and had been all his life, on a narrow green shelf of land above the Nærøyfjord, one of the deepest and narrowest fjords on the whole west coast. It was three hours by car and boat from Bergen. Ólafur had never married. He lived alone in a small red-painted wooden farmhouse with a barn and a wood-fired kitchen and three hundred sheep. He had inherited the farm from his own father, who had inherited it from his father, who had cleared the shelf of trees a hundred and forty years ago.",
+            "Every July, Signe went for three weeks. She had first gone when she was six, with her father, and had loved it enough to keep going every year since. This July she was eleven, and she was — for the first time — considered old enough to help with the sheep on the high pastures. That was the plan for the summer."
+          ]
+        },
+        {
+          "image": "fj-ch1-p2-uncle",
+          "imagePrompt": "Mike Mignola style for children: interior view of the small warm kitchen of the farmhouse. A wood stove burns low. Ólafur (early fifties, short greying blond beard, dark green wool sweater) is drinking coffee at a wooden table. Signe (11, blonde braid, blue sweater) sits across from him eating a slice of dark bread with brown cheese. A view of the fjord through a small window behind them. Heavy ink outlines, flat shadows, warm cream and gold palette.",
+          "paragraphs": [
+            "Ólafur was in his early fifties. He had a short greying blond beard, and pale grey eyes, and hands that had lifted lambs out of ewes for thirty years and looked like it. He was quieter even than Signe's father, which was saying something. He did not chat, ever. He said what needed to be said. When Signe asked him a question, he thought about the answer for as long as it took, and then he gave it in as few words as possible. Signe had learned, over five summers, that this was not because Ólafur did not care. It was because Ólafur believed that words used up something in the world, and that they should be spent carefully.",
+            "In the traditional Norwegian way, Ólafur's sheep spent the summer up on the fjellbeite — the high mountain pastures above the fjord. In late June each year he drove them up the steep trail behind the farm, past the tree line, and released them onto the alpine grass. There they roamed freely for two and a half months, feeding on the fresh summer grass and the small alpine herbs that made Norwegian mutton famous. Ólafur went up every four or five days to check them, walking the long high loops of the ridge. In late August or early September he brought them down again. That was the year's rhythm."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Signe helped with the daily work on the farm — feeding the chickens, mending the low stone walls, oiling Ólafur's tools, making bread with him in the wood-fired oven. In her second week, Ólafur said, at breakfast, \"On Friday I am going up to check the high pasture. You will come with me. It is a long walk. Wear the good boots. Bring your rain trousers.\" Signe was very pleased. She had asked to go up every year and every year Ólafur had said, next year.",
+            "Thursday afternoon, they made preparations. Ólafur packed a small hard bag with a flask of coffee, some hard bread and brown cheese, a small first-aid kit, a length of thin rope, a compass, a folded map of the ridge, and a small radio for weather updates. He took his own staff — a long curved shepherd's staff made of dark birchwood, with a black iron hook at the end. It was as tall as he was. It looked ancient. Signe asked about it. Ólafur said, \"My grandfather made it. Nineteen twenty-eight. He was your age when he cut the wood. The iron hook was already old — from a farm implement his own grandfather had. So the staff is a hundred years old and the hook is older. Passed to my father, then to me. It works.\" He turned it around in his hands. On the shaft, near the top, Signe could see, burned into the wood, two small letters — OT. \"Olav Torgersen,\" Ólafur said. \"His mark. On everything he made.\""
+          ]
+        },
+        {
+          "image": "fj-ch1-p4-storm-radio",
+          "imagePrompt": "Mike Mignola style for children: interior of the kitchen, evening. Ólafur (early fifties) leans over the small brown radio on the kitchen table, listening intently to the weather forecast. Signe (11) sits across the table watching him. His face is thoughtful — not alarmed but not easy either. A single lamp is lit. Heavy ink outlines, flat shadows, warm gold and dark palette.",
+          "paragraphs": [
+            "That evening Ólafur turned on the small radio and listened to the coastal weather forecast, as he did every evening. He listened for a long time. When it was over, he said to Signe, \"There is a summer storm moving in tomorrow afternoon. Not too bad — thunder, hard rain, maybe two hours. Nothing dangerous down here. But on the ridge, weather is always more. We go early tomorrow. We check the sheep quickly. If they are where they should be, we come straight back down. If any are missing, we deal with that. Then home before the rain.\"",
+            "Signe said, \"Are the sheep in danger from thunder?\" Ólafur said, \"Not usually. They know to find shelter. They have been on that ridge for a thousand years. What I worry about, when there is thunder, is Ester.\" He drank his coffee. Signe waited. He said, \"Ester is old. Eight years. Old for a mountain ewe. She is the smartest sheep I have. She always leads the others down when the weather is bad. That is her role in the flock. If the flock is under a rock overhang tomorrow, she is the reason. But she is also curious. She wanders. Sometimes I find her in strange places. If she is not with the others tomorrow, I want to know why.\""
+          ]
+        },
+        {
+          "image": "fj-ch1-p5-up-the-trail",
+          "imagePrompt": "Mike Mignola style for children: exterior view. Steep zig-zag trail cut into the side of a mountain rising above the fjord. Ólafur (early fifties, oilskin, staff) leads. Signe (11, blue sweater, small backpack) follows a few paces behind. Both look small against the enormous cliffs and the dark fjord visible far below. Grey morning light, sky pale but heavy on the horizon. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They left at six in the morning. The trail up from the farm was a hard steep zig-zag cut into the side of the mountain — the same trail Ólafur's grandfather and great-grandfather had used. It took Ólafur about ninety minutes to climb at his own pace. It took Signe closer to two hours, at eleven. Ólafur waited at each of the switchbacks without commenting. He never rushed her. She was pleased with herself for keeping up as well as she did.",
+            "At the top of the climb, the trail opened out onto the high pasture — a wide gently sloping green shelf that ran along the top of the fjord for several kilometers before rising into higher rock. It was cool, and the wind was fresh, and the sky was pale grey with a heavier line of cloud on the western horizon. Ólafur stopped and scanned the pasture with his small binoculars. Signe stood beside him and looked too. There were sheep scattered across the green — perhaps a hundred and fifty of them visible from where they stood. Others were probably around the bend or in the low folds. But even from here Signe could see they were unsettled — bunched, not grazing, heads up. They already knew the weather was changing."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Above the Cliff Path",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "fj-ch2-p1-counting",
+          "imagePrompt": "Mike Mignola style for children: mid-shot on the alpine pasture. Ólafur (early fifties) crouches beside a cluster of white sheep with dark faces, one hand on the head of a large ewe. He is counting quietly. Signe (11) stands beside him with a small notebook, ready to write. The sky in the west is darkening visibly. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They walked the pasture in a slow loop. Ólafur counted. He knew almost every sheep individually — from their ear-marks and the small differences in their faces. Signe walked with him and helped when he asked, but mostly she watched him work. He was very calm. The sheep let him touch them without moving away.",
+            "By the time they had walked the full loop it was nearly ten. The wind had risen and the cloud on the western horizon was noticeably closer. Ólafur had counted two hundred and ninety-two sheep. There should have been three hundred. Eight were somewhere. He was not too worried about seven of them — those were younger, gregarious sheep who tended to stay near the flock, and were probably in one of the folds he had not been able to see into. But Ester was not with the flock. And Ester was always with the flock at bad-weather times. That was what she did."
+          ]
+        },
+        {
+          "image": "fj-ch2-p2-decision",
+          "imagePrompt": "Mike Mignola style for children: mid-shot. Ólafur (early fifties) stands looking up toward a much higher, steeper part of the ridge that rises above the alpine pasture — dark rock and thin grass, with a narrow cliff-side path visible cutting across a face. Signe (11) stands beside him, following his gaze. Both are windblown. The sky behind them is darker. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Ólafur put his hand up to shield his eyes and looked up the ridge, above the pasture, to where the ground rose steeply into rock. About a hundred and fifty meters up, running across the face, was a narrow ledge trail Signe had not noticed before. \"There is a small side ledge up there,\" Ólafur said. \"A crack in the rock, half-hidden. There is grass on it. Very sweet grass — a small alpine mustard grows only there. Ester goes up sometimes to eat it. She is the only one of the flock who knows. She showed her mother once and her mother showed her. She has never taken any of the others.\" He looked at Signe. \"If she is up there and the storm comes hard, she cannot get back down the ledge in the wet. It is too narrow. I am going up. It will take an hour. You can wait here in the shepherd's shelter\" — he pointed to a small stone hut Signe had not noticed, tucked into the base of the rock face — \"or you can come with me. If you come, you follow me exactly. You do not step where I have not stepped.\"",
+            "Signe thought for perhaps three seconds. She said, \"I come.\" Ólafur nodded. He handed her his staff. \"You carry this. I take the pack. If I need it back I will tell you. Come.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The climb up to the ledge was harder than the climb from the farm. There was no trail, exactly — just a route Ólafur knew, following small rock steps and grass patches diagonally up the face. He went slowly and stopped often to make sure Signe was still behind him. He never rushed her. The wind grew harder as they climbed. Twice, Signe was frightened enough that she nearly asked to go back. Both times she did not, because Ólafur was frightened too — she could see it in the concentration of his face — but Ólafur was going up anyway, because Ester was up there. And Signe wanted to be someone who went up anyway.",
+            "About forty minutes in, they reached the ledge. It ran across the face of the cliff for perhaps sixty meters, no wider than a person's shoulders in most places. On one side, the rock wall. On the other, a two-hundred-meter drop to the fjord below. Ólafur said, quietly, \"Now the important part. You stay against the wall. You watch every step I take. Where I put my foot, you put yours. Do not look down. If the wind gusts hard, drop to your hands and knees and stay. It will pass. Understand?\" Signe understood. She had never in her life been more focused."
+          ]
+        },
+        {
+          "image": "fj-ch2-p4-ester",
+          "imagePrompt": "Mike Mignola style for children: mid-shot on the narrow ledge. Ólafur (early fifties) has stopped and is crouched beside a large white ewe (Ester) lying on her side against the rock wall. One of her back legs is bent unnaturally. Signe (11) stands a few paces back, holding the staff, watching. Rain has just begun to fall — thin lines slanting across the shot. Heavy ink outlines, flat shadows, cool grey and dark palette.",
+          "paragraphs": [
+            "They found her about halfway along the ledge. She was lying on her side against the rock wall, one of her back legs bent at a wrong angle. She was breathing hard but she was alive. When she saw Ólafur, she made a small quiet bleat and then was still. She was too tired to move. Ólafur crouched beside her. He put his hand on her head. He was quiet for a long moment. Then he said to Signe, over his shoulder, without looking away from the sheep, \"She has fallen. She was reaching for the mustard higher up and lost her footing. Her back leg is broken, mid-shin. Not compound — the skin is not broken. If I can splint it and get her down, she may recover. If I leave her here, she will not survive tonight. So we do not leave her.\"",
+            "The first heavy drops of rain began to fall. Ólafur looked up at the sky. He said, \"We cannot get down the way we came, not in wet, not with her. There is a summer seter — an old shepherd's hut — on the upper ridge, ten minutes further along the ledge. My father used to sleep there when he was young. It is still standing. We take her there. We wait out the storm. We come down in the morning.\" He looked at Signe. \"Are you all right?\" Signe said, \"Yes.\" She said it with a small voice, but she said it. Ólafur said, \"Good. Give me the staff. Then take the pack.\""
+          ]
+        },
+        {
+          "image": "fj-ch2-p5-carrying",
+          "imagePrompt": "Mike Mignola style for children: mid-shot. Ólafur (early fifties) has now got the injured ewe Ester up over his shoulders in a shepherd's carry — the classic yoke position, her four legs held together in his hands in front of his chest. Signe (11) leads the way along the narrow ledge, walking carefully, one hand on the rock wall, the staff in the other. Rain falling harder. Heavy ink outlines, flat shadows, cool wet dark palette.",
+          "paragraphs": [
+            "Ólafur splinted Ester's leg quickly with two thin sticks from the pack and a length of rope. Then he lifted her onto his shoulders in the old shepherd's carry — a way of lifting a sheep so its weight was balanced across the back and its four legs were held together in front. Signe had seen him do this with lambs many times. Ester was much bigger. It was hard work. When he stood up, he swayed slightly, and then found his balance, and then said, \"Signe. You go first. Along the wall. Same rules. I follow. Slowly.\" And they went. The rain fell harder. Somewhere across the fjord, a low thunder rolled. Signe walked one foot at a time along the ledge, her hand against the wet rock, the old staff in the other, her uncle behind her carrying an eight-year-old ewe on his shoulders in the beginning of a mountain storm. She was not brave, exactly. She was determined, which was different, and which she would remember, later, as the first time in her life she had known the difference between the two."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Seter",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "fj-ch3-p1-seter",
+          "imagePrompt": "Mike Mignola style for children: exterior of a small very old stone-and-turf hut tucked into a fold at the top of the ridge — a low turf roof, a heavy wooden door, one small square window. Rain falls hard. Signe (11) has just reached the door and is opening it. Ólafur (early fifties) follows, still carrying Ester across his shoulders. Heavy ink outlines, flat shadows, cool dark palette with a hint of warm light beginning to show through the window.",
+          "paragraphs": [
+            "The seter was smaller than Signe had imagined — a low stone-and-turf hut tucked into a fold at the top of the ridge, its roof green with mountain grass, its walls thick enough that when Signe pushed open the heavy door and stepped inside, the sound of the storm dropped by half. Inside was a single room. A stone hearth. A low wooden bench. Two rolled sheepskin sleeping mats along one wall. A shelf with a few tin cups and a small kettle and a lidded jar of oats. A stack of very dry firewood, someone else's kindness left for whoever came next.",
+            "Ólafur came in with Ester and set her down gently in the corner farthest from the hearth. He arranged one of the sheepskin mats under her. She was breathing more slowly now — resigned or trusting, hard to tell. Ólafur closed the door against the storm. He said, \"Now we make her comfortable and dry ourselves. Then I look at the leg properly.\""
+          ]
+        },
+        {
+          "image": "fj-ch3-p2-splint",
+          "imagePrompt": "Mike Mignola style for children: interior close view. Ólafur (early fifties) is kneeling beside Ester the ewe, carefully cleaning her leg with a piece of cloth from the first-aid kit and applying a proper splint from thin wooden splints Signe holds ready. Signe (11) has small clean strips of cloth in one hand, ready to hand him one at a time. The fire in the hearth is beginning to build; warm firelight fills the small room. Heavy ink outlines, flat shadows, warm gold palette.",
+          "paragraphs": [
+            "Ólafur worked on Ester's leg for a long time. He was careful and slow and gentle. He cleaned the wound where the skin had been scraped raw. He straightened the bone as best he could — Ester bleated softly once and then held still. He built a proper splint with the two thin sticks and clean cotton strips from the first-aid kit. When he had finished, Ester's leg was neat and stable. Ólafur sat back on his heels and looked at her. He said, \"She will keep it. Not use it for six weeks. But she will keep it. She will not go up the ledge again. She is done with the mustard. She will spend the winter with me at the farm and not the high pasture. That may not be a bad retirement for her.\" He put his hand on her forehead. Ester closed her eyes.",
+            "Ólafur got up and built the fire higher and boiled water for coffee. He gave Signe a small hot cup with a lot of sugar. He gave himself a cup with none. They sat side by side on the wooden bench and drank."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Signe said, \"Uncle. About the staff. If you don't have children — what happens to it?\" Ólafur was quiet for a long time. Then he said, \"That has been on my mind for maybe ten years. I have thought about it. It will go to whoever, in the next generation, is going to keep doing this kind of work. Or something like it. Not necessarily sheep. It can be something else. But someone who understands why. If your father had a daughter who wanted a farm, it would go to her. My cousin Elin has two boys, but neither is that sort. There is you.\" He drank his coffee. \"But you are eleven. I do not know who you will be. I will not decide until you are twenty-five or thirty. Then I will look at all of you and think about it. Maybe it is you. Maybe it is someone else. Maybe it goes to a young shepherd in the valley I like — my grandfather did that once with a plough. It is not a thing to decide too early.\"",
+            "Signe nodded. She had not expected an answer that clear. She said, \"I would want it. I think.\" Ólafur said, \"That is good to know. I will hold it in mind.\" He did not say more. Ester, in the corner, was asleep."
+          ]
+        },
+        {
+          "image": "fj-ch3-p4-night",
+          "imagePrompt": "Mike Mignola style for children: interior late night. The fire has burned down to warm coals. Ólafur (early fifties) sleeps on the sheepskin mat by the wall. Signe (11) is awake, half-sitting up, looking at Ester the ewe, who lies on the other mat in the corner. Very dim warm red glow. The storm still audible faintly outside but softer now. Heavy ink outlines, deep quiet shadows.",
+          "paragraphs": [
+            "The storm passed slowly. By midnight the thunder had moved off to the east, and the rain had softened to a steady patter on the turf roof. Ólafur fell asleep on the second sheepskin mat, one hand within reach of Ester. Signe lay awake for a long time. She was warm and safe and full of the sort of tired that comes after real work. She looked at the low red glow of the fire and thought about the day. She thought about the ledge, and about not looking down, and about her uncle behind her carrying a sheep on his shoulders. She thought about Ester breathing softly in the corner, alive because two people had walked a narrow ledge in a storm for her. She had never done a thing that mattered like that before. She thought she might do more of them, over her life. She hoped so.",
+            "She fell asleep near morning."
+          ]
+        },
+        {
+          "image": "fj-ch3-p5-down",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the trail going down toward the fjord. Early morning after the storm — very clear cold blue-gold light. Ólafur (early fifties) walks slowly, carrying Ester the ewe across his shoulders again, but the sheep now clearly less distressed. Signe (11) walks ahead of him with the birchwood staff in her hand, watching the trail. The fjord is glassy calm below. Heavy ink outlines, flat shadows, warm cream and cold blue palette.",
+          "paragraphs": [
+            "They came down in the morning, slowly. The sky was clear cold blue. The rain had washed everything and the fjord below was a mirror. Ólafur carried Ester again. Signe walked in front with the staff, watching the trail. They took the long way — down the safer ridge path instead of the ledge — and it took them four hours to reach the farm. Ester, on Ólafur's shoulders, breathed easily. She was, if not comfortable, calm.",
+            "At the farm, they made Ester a small pen in a corner of the barn with fresh straw. Ólafur checked her leg again. It looked good. He gave her water and some sweet hay. He said, \"She stays here for six weeks. Then we see.\" He turned to Signe. He said, \"You did well yesterday. Very well. I would not have gone up if I had thought you could not do it. I thought you could. You did.\" He paused. \"Also. Every morning until you go home, before breakfast, you check on Ester. You bring her water. You put fresh hay. She is your responsibility until you leave.\" Signe nodded. She was very pleased."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "For the rest of her three weeks, she did. Every morning she got up before Ólafur, walked out to the barn in her boots and her sweater, and sat with Ester for ten or fifteen minutes. She changed the water. She put fresh hay. She talked to the sheep — small quiet things about the weather, and about what she had dreamed the night before, and once, at length, about her mother. Ester listened, or seemed to. On the last morning, before Signe's father came to drive her back to Bergen, she sat with Ester for half an hour and told her she would be back next July. Ester chewed slowly and did not disagree.",
+            "In the kitchen, over the last breakfast, Ólafur said to Signe, without looking up from his coffee, \"Your grandfather used to say that taking care of small things is the work of a whole life. He said it about the sheep and the walls and the pots and the fence and the door hinges and everything else. I think he was right. I think you may already know this. Ester is a small thing. What we did was a small thing. But taking small things seriously is not a small thing. Remember that.\" And that was almost the longest sentence Signe had ever heard him say. She kept it, for the rest of her life."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": ["family", "uncle", "norway", "sheep", "storm", "responsibility"]
+}

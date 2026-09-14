@@ -1,0 +1,655 @@
+{
+  "story_id": "two-elders",
+  "chapter": 3,
+  "total_duration_ms": 297936,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The notes continued for two more weeks.",
+      "start_ms": 1651,
+      "end_ms": 4010
+    },
+    {
+      "index": 1,
+      "text": "Simone was the courier.",
+      "start_ms": 4010,
+      "end_ms": 5426
+    },
+    {
+      "index": 2,
+      "text": "Sometimes he carried three or four in a day.",
+      "start_ms": 5426,
+      "end_ms": 8080
+    },
+    {
+      "index": 3,
+      "text": "Sometimes only one.",
+      "start_ms": 8080,
+      "end_ms": 9259
+    },
+    {
+      "index": 4,
+      "text": "Both old men began to give him small treats — sometimes a piece of candy, sometimes a fig from the tree in their back yards.",
+      "start_ms": 9259,
+      "end_ms": 16631
+    },
+    {
+      "index": 5,
+      "text": "He accepted them.",
+      "start_ms": 16631,
+      "end_ms": 17693
+    },
+    {
+      "index": 6,
+      "text": "It felt like the fair thing.",
+      "start_ms": 17693,
+      "end_ms": 19462
+    },
+    {
+      "index": 7,
+      "text": "In the third week, one of the messages was different.",
+      "start_ms": 19462,
+      "end_ms": 22646
+    },
+    {
+      "index": 8,
+      "text": "Signor Marco handed Simone a folded paper and said, out loud, \"Tell him — please — I would like to have coffee together on the day of the Assumption of Mary.",
+      "start_ms": 22646,
+      "end_ms": 31964
+    },
+    {
+      "index": 9,
+      "text": "In the small square, by the church.",
+      "start_ms": 31964,
+      "end_ms": 34088
+    },
+    {
+      "index": 10,
+      "text": "Not at the café.",
+      "start_ms": 34088,
+      "end_ms": 35090
+    },
+    {
+      "index": 11,
+      "text": "Somewhere quiet.",
+      "start_ms": 35090,
+      "end_ms": 36093
+    },
+    {
+      "index": 12,
+      "text": "If he wants.\" Simone nodded.",
+      "start_ms": 36093,
+      "end_ms": 37803
+    },
+    {
+      "index": 13,
+      "text": "He carried the paper.",
+      "start_ms": 37803,
+      "end_ms": 39100
+    },
+    {
+      "index": 14,
+      "text": "He also carried the message.",
+      "start_ms": 39100,
+      "end_ms": 40811
+    },
+    {
+      "index": 15,
+      "text": "Bruno received both.",
+      "start_ms": 40811,
+      "end_ms": 42049
+    },
+    {
+      "index": 16,
+      "text": "Bruno closed his eyes for a long moment.",
+      "start_ms": 42049,
+      "end_ms": 44467
+    },
+    {
+      "index": 17,
+      "text": "Then he said to Simone, \"Tell him yes.",
+      "start_ms": 44467,
+      "end_ms": 46767
+    },
+    {
+      "index": 18,
+      "text": "Tell him — I have been waiting for him to ask.",
+      "start_ms": 46767,
+      "end_ms": 49539
+    },
+    {
+      "index": 19,
+      "text": "Tell him — I will be there.\" And Simone carried that back to Marco.",
+      "start_ms": 49539,
+      "end_ms": 53549
+    },
+    {
+      "index": 20,
+      "text": "Marco stood at his door for a moment.",
+      "start_ms": 53549,
+      "end_ms": 55790
+    },
+    {
+      "index": 21,
+      "text": "Then he said, in a voice that had a small crack in it, \"Thank you, Simone.\"",
+      "start_ms": 55790,
+      "end_ms": 60331
+    },
+    {
+      "index": 22,
+      "text": "The Assumption of Mary was on the fifteenth of August.",
+      "start_ms": 60331,
+      "end_ms": 63575
+    },
+    {
+      "index": 23,
+      "text": "It was a warm evening.",
+      "start_ms": 63575,
+      "end_ms": 64931
+    },
+    {
+      "index": 24,
+      "text": "The whole village was in the streets.",
+      "start_ms": 64931,
+      "end_ms": 67173
+    },
+    {
+      "index": 25,
+      "text": "There were candles.",
+      "start_ms": 67173,
+      "end_ms": 68352
+    },
+    {
+      "index": 26,
+      "text": "There was music.",
+      "start_ms": 68352,
+      "end_ms": 69355
+    },
+    {
+      "index": 27,
+      "text": "There was a procession.",
+      "start_ms": 69355,
+      "end_ms": 70770
+    },
+    {
+      "index": 28,
+      "text": "Aunt Rosa went with Simone.",
+      "start_ms": 70770,
+      "end_ms": 72421
+    },
+    {
+      "index": 29,
+      "text": "They walked through the crowds.",
+      "start_ms": 72421,
+      "end_ms": 74309
+    },
+    {
+      "index": 30,
+      "text": "They watched the procession.",
+      "start_ms": 74309,
+      "end_ms": 76019
+    },
+    {
+      "index": 31,
+      "text": "Aunt Rosa knew everyone and stopped to talk to everyone.",
+      "start_ms": 76019,
+      "end_ms": 79380
+    },
+    {
+      "index": 32,
+      "text": "Simone was distracted.",
+      "start_ms": 79380,
+      "end_ms": 80737
+    },
+    {
+      "index": 33,
+      "text": "He kept looking around.",
+      "start_ms": 80737,
+      "end_ms": 82211
+    },
+    {
+      "index": 34,
+      "text": "He saw them at eight-thirty.",
+      "start_ms": 82211,
+      "end_ms": 83921
+    },
+    {
+      "index": 35,
+      "text": "Signor Bruno was sitting on a small stone bench at the edge of the small square by the church.",
+      "start_ms": 83921,
+      "end_ms": 89524
+    },
+    {
+      "index": 36,
+      "text": "Signor Marco was sitting beside him.",
+      "start_ms": 89524,
+      "end_ms": 91706
+    },
+    {
+      "index": 37,
+      "text": "They were not looking at each other.",
+      "start_ms": 91706,
+      "end_ms": 93888
+    },
+    {
+      "index": 38,
+      "text": "They were both looking at the church.",
+      "start_ms": 93888,
+      "end_ms": 96129
+    },
+    {
+      "index": 39,
+      "text": "But they were sitting together.",
+      "start_ms": 96129,
+      "end_ms": 98016
+    },
+    {
+      "index": 40,
+      "text": "On the same bench.",
+      "start_ms": 98016,
+      "end_ms": 99137
+    },
+    {
+      "index": 41,
+      "text": "For the first time in forty-three years.",
+      "start_ms": 99137,
+      "end_ms": 101496
+    },
+    {
+      "index": 42,
+      "text": "Simone stopped.",
+      "start_ms": 101496,
+      "end_ms": 102405
+    },
+    {
+      "index": 43,
+      "text": "He did not want to bother them.",
+      "start_ms": 102405,
+      "end_ms": 104222
+    },
+    {
+      "index": 44,
+      "text": "He watched from far off.",
+      "start_ms": 104222,
+      "end_ms": 105642
+    },
+    {
+      "index": 45,
+      "text": "Aunt Rosa noticed.",
+      "start_ms": 105642,
+      "end_ms": 106721
+    },
+    {
+      "index": 46,
+      "text": "She followed his eyes.",
+      "start_ms": 106721,
+      "end_ms": 108027
+    },
+    {
+      "index": 47,
+      "text": "She saw the two brothers on the bench.",
+      "start_ms": 108027,
+      "end_ms": 110242
+    },
+    {
+      "index": 48,
+      "text": "She stopped talking mid-sentence to whoever she was talking to.",
+      "start_ms": 110242,
+      "end_ms": 113877
+    },
+    {
+      "index": 49,
+      "text": "She said, softly, \"Simone.",
+      "start_ms": 113877,
+      "end_ms": 115410
+    },
+    {
+      "index": 50,
+      "text": "Look at that.\" Simone said, \"Yes.",
+      "start_ms": 115410,
+      "end_ms": 117341
+    },
+    {
+      "index": 51,
+      "text": "I see.\" Aunt Rosa turned to him.",
+      "start_ms": 117341,
+      "end_ms": 119216
+    },
+    {
+      "index": 52,
+      "text": "She said, \"Simone.",
+      "start_ms": 119216,
+      "end_ms": 120295
+    },
+    {
+      "index": 53,
+      "text": "Did you have something to do with this.\" And Simone said, \"A little.",
+      "start_ms": 120295,
+      "end_ms": 124213
+    },
+    {
+      "index": 54,
+      "text": "I carried some notes.\" And Aunt Rosa did not say anything for a long moment.",
+      "start_ms": 124213,
+      "end_ms": 128586
+    },
+    {
+      "index": 55,
+      "text": "Then she said, \"Well.",
+      "start_ms": 128586,
+      "end_ms": 129836
+    },
+    {
+      "index": 56,
+      "text": "Then you have done a very good thing this summer.\"",
+      "start_ms": 129836,
+      "end_ms": 132789
+    },
+    {
+      "index": 57,
+      "text": "Simone and Aunt Rosa watched them from the far side of the square.",
+      "start_ms": 132789,
+      "end_ms": 136594
+    },
+    {
+      "index": 58,
+      "text": "Bruno and Marco sat on the bench for maybe an hour.",
+      "start_ms": 136594,
+      "end_ms": 139548
+    },
+    {
+      "index": 59,
+      "text": "They did not say much.",
+      "start_ms": 139548,
+      "end_ms": 140854
+    },
+    {
+      "index": 60,
+      "text": "Simone could see, sometimes, that one of them was talking, and the other was listening.",
+      "start_ms": 140854,
+      "end_ms": 145852
+    },
+    {
+      "index": 61,
+      "text": "Then the other was talking, and the first was listening.",
+      "start_ms": 145852,
+      "end_ms": 149089
+    },
+    {
+      "index": 62,
+      "text": "They did not touch.",
+      "start_ms": 149089,
+      "end_ms": 150225
+    },
+    {
+      "index": 63,
+      "text": "But they were sitting together, and they were talking, and that was more than forty-three years' worth.",
+      "start_ms": 150225,
+      "end_ms": 156188
+    },
+    {
+      "index": 64,
+      "text": "The notes continued for the rest of Simone's visit.",
+      "start_ms": 156188,
+      "end_ms": 159141
+    },
+    {
+      "index": 65,
+      "text": "But now the two brothers also went for walks together sometimes, in the evening, when it was cool.",
+      "start_ms": 159141,
+      "end_ms": 164764
+    },
+    {
+      "index": 66,
+      "text": "They did not talk to each other in public in the daytime yet — that was too big a step, Simone understood — but they walked in the evenings.",
+      "start_ms": 164764,
+      "end_ms": 172772
+    },
+    {
+      "index": 67,
+      "text": "And sometimes, in the very early morning, Simone would see Marco cross the alley to Bruno's house, and Bruno would open the door before Marco could knock.",
+      "start_ms": 172772,
+      "end_ms": 181575
+    },
+    {
+      "index": 68,
+      "text": "They would go inside together for a while.",
+      "start_ms": 181575,
+      "end_ms": 183960
+    },
+    {
+      "index": 69,
+      "text": "When Simone left in early September, both of them came out to say goodbye.",
+      "start_ms": 183960,
+      "end_ms": 188485
+    },
+    {
+      "index": 70,
+      "text": "They stood side by side in the alley, though not touching.",
+      "start_ms": 188485,
+      "end_ms": 192045
+    },
+    {
+      "index": 71,
+      "text": "Bruno said, \"Thank you, Simone.",
+      "start_ms": 192045,
+      "end_ms": 193976
+    },
+    {
+      "index": 72,
+      "text": "You did what neither of us could do.",
+      "start_ms": 193976,
+      "end_ms": 196208
+    },
+    {
+      "index": 73,
+      "text": "We will not forget it.\" Marco said, \"Come back next summer.",
+      "start_ms": 196208,
+      "end_ms": 199829
+    },
+    {
+      "index": 74,
+      "text": "Come every summer.",
+      "start_ms": 199829,
+      "end_ms": 200975
+    },
+    {
+      "index": 75,
+      "text": "You will always have a place with us.\" Simone hugged both of them, one after the other.",
+      "start_ms": 200975,
+      "end_ms": 206285
+    },
+    {
+      "index": 76,
+      "text": "Aunt Rosa was crying a little.",
+      "start_ms": 206285,
+      "end_ms": 208155
+    },
+    {
+      "index": 77,
+      "text": "They drove down the road out of the village.",
+      "start_ms": 208155,
+      "end_ms": 210870
+    },
+    {
+      "index": 78,
+      "text": "Simone looked back once.",
+      "start_ms": 210870,
+      "end_ms": 212379
+    },
+    {
+      "index": 79,
+      "text": "Bruno and Marco were still standing together in the alley.",
+      "start_ms": 212379,
+      "end_ms": 215938
+    },
+    {
+      "index": 80,
+      "text": "They were watching the car go.",
+      "start_ms": 215938,
+      "end_ms": 217809
+    },
+    {
+      "index": 81,
+      "text": "Bruno raised his hand in a wave.",
+      "start_ms": 217809,
+      "end_ms": 219800
+    },
+    {
+      "index": 82,
+      "text": "Marco raised his.",
+      "start_ms": 219800,
+      "end_ms": 220946
+    },
+    {
+      "index": 83,
+      "text": "Simone came back the next summer.",
+      "start_ms": 220946,
+      "end_ms": 222998
+    },
+    {
+      "index": 84,
+      "text": "Bruno and Marco were sitting together at the café at three in the afternoon, at one table instead of two.",
+      "start_ms": 222998,
+      "end_ms": 229394
+    },
+    {
+      "index": 85,
+      "text": "Nobody in the village had said anything about it.",
+      "start_ms": 229394,
+      "end_ms": 232410
+    },
+    {
+      "index": 86,
+      "text": "Everyone had just noticed.",
+      "start_ms": 232410,
+      "end_ms": 234039
+    },
+    {
+      "index": 87,
+      "text": "Everyone had just adjusted.",
+      "start_ms": 234039,
+      "end_ms": 235729
+    },
+    {
+      "index": 88,
+      "text": "That was how these things happened in a small village.",
+      "start_ms": 235729,
+      "end_ms": 239047
+    },
+    {
+      "index": 89,
+      "text": "Simone had helped his aunt with the tomatoes.",
+      "start_ms": 239047,
+      "end_ms": 241823
+    },
+    {
+      "index": 90,
+      "text": "He had visited Bruno and Marco every evening.",
+      "start_ms": 241823,
+      "end_ms": 244598
+    },
+    {
+      "index": 91,
+      "text": "He had felt that this was — that this was how things should be.",
+      "start_ms": 244598,
+      "end_ms": 248520
+    },
+    {
+      "index": 92,
+      "text": "Bruno died in the winter that Simone was fifteen.",
+      "start_ms": 248520,
+      "end_ms": 251537
+    },
+    {
+      "index": 93,
+      "text": "He died in his sleep, peacefully.",
+      "start_ms": 251537,
+      "end_ms": 253589
+    },
+    {
+      "index": 94,
+      "text": "Marco lived another six years after that.",
+      "start_ms": 253589,
+      "end_ms": 256123
+    },
+    {
+      "index": 95,
+      "text": "Simone came for the funeral.",
+      "start_ms": 256123,
+      "end_ms": 257872
+    },
+    {
+      "index": 96,
+      "text": "When he arrived at the village, Marco was already at the church.",
+      "start_ms": 257872,
+      "end_ms": 261794
+    },
+    {
+      "index": 97,
+      "text": "Marco was very small and very old now.",
+      "start_ms": 261794,
+      "end_ms": 264147
+    },
+    {
+      "index": 98,
+      "text": "When he saw Simone, he came over and hugged him for a long time.",
+      "start_ms": 264147,
+      "end_ms": 268069
+    },
+    {
+      "index": 99,
+      "text": "He said, into Simone's shoulder — Simone was now taller than Marco was — \"Thank you, Simone.",
+      "start_ms": 268069,
+      "end_ms": 273681
+    },
+    {
+      "index": 100,
+      "text": "You gave me those years with him.",
+      "start_ms": 273681,
+      "end_ms": 275732
+    },
+    {
+      "index": 101,
+      "text": "You gave both of us those years.",
+      "start_ms": 275732,
+      "end_ms": 277723
+    },
+    {
+      "index": 102,
+      "text": "I have thanked God for you every single day.",
+      "start_ms": 277723,
+      "end_ms": 280438
+    },
+    {
+      "index": 103,
+      "text": "I will keep thanking God for you until I go too.\" And Simone did not know what to say.",
+      "start_ms": 280438,
+      "end_ms": 285688
+    },
+    {
+      "index": 104,
+      "text": "He said, \"I only carried the notes, Signor Marco.\" And Marco said, \"Simone.",
+      "start_ms": 285688,
+      "end_ms": 290273
+    },
+    {
+      "index": 105,
+      "text": "I am eighty-four years old.",
+      "start_ms": 290273,
+      "end_ms": 291963
+    },
+    {
+      "index": 106,
+      "text": "Some of the most important things people do in their lives are only carrying notes.",
+      "start_ms": 291963,
+      "end_ms": 297031
+    },
+    {
+      "index": 107,
+      "text": "Remember that.\"",
+      "start_ms": 297031,
+      "end_ms": 297936
+    }
+  ]
+}

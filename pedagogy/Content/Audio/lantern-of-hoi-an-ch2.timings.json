@@ -1,0 +1,679 @@
+{
+  "story_id": "lantern-of-hoi-an",
+  "chapter": 2,
+  "total_duration_ms": 296568,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Mai told her parents that night.",
+      "start_ms": 1399,
+      "end_ms": 3323
+    },
+    {
+      "index": 1,
+      "text": "Her father was silent for a long moment.",
+      "start_ms": 3323,
+      "end_ms": 5714
+    },
+    {
+      "index": 2,
+      "text": "Then he said, \"Ông Lâm is the most respected lantern maker in Hoi An.",
+      "start_ms": 5714,
+      "end_ms": 9795
+    },
+    {
+      "index": 3,
+      "text": "If he has chosen you, this is — this is a very serious honor, Mai.",
+      "start_ms": 9795,
+      "end_ms": 13702
+    },
+    {
+      "index": 4,
+      "text": "Very serious.",
+      "start_ms": 13702,
+      "end_ms": 14518
+    },
+    {
+      "index": 5,
+      "text": "I do not know if I would be brave enough to do it if he had chosen me.",
+      "start_ms": 14518,
+      "end_ms": 18657
+    },
+    {
+      "index": 6,
+      "text": "It is a lot to ask of a ten-year-old.\" Her mother said, \"You can say no if you are not ready.",
+      "start_ms": 18657,
+      "end_ms": 24138
+    },
+    {
+      "index": 7,
+      "text": "It is not — you do not have to say yes just because he asked.",
+      "start_ms": 24138,
+      "end_ms": 27753
+    },
+    {
+      "index": 8,
+      "text": "That is what being brave means.",
+      "start_ms": 27753,
+      "end_ms": 29619
+    },
+    {
+      "index": 9,
+      "text": "Being brave enough to say no.\" Her father added, \"But also being brave enough to say yes.\"",
+      "start_ms": 29619,
+      "end_ms": 34983
+    },
+    {
+      "index": 10,
+      "text": "Mai lay in bed for hours that night.",
+      "start_ms": 34983,
+      "end_ms": 37140
+    },
+    {
+      "index": 11,
+      "text": "She thought about what would happen if she dropped the string.",
+      "start_ms": 37140,
+      "end_ms": 40813
+    },
+    {
+      "index": 12,
+      "text": "If the wind took the lantern before she was ready.",
+      "start_ms": 40813,
+      "end_ms": 43787
+    },
+    {
+      "index": 13,
+      "text": "If the lantern caught fire.",
+      "start_ms": 43787,
+      "end_ms": 45419
+    },
+    {
+      "index": 14,
+      "text": "If she cried in front of everyone.",
+      "start_ms": 45419,
+      "end_ms": 47460
+    },
+    {
+      "index": 15,
+      "text": "She thought about all the ways it could go wrong.",
+      "start_ms": 47460,
+      "end_ms": 50375
+    },
+    {
+      "index": 16,
+      "text": "Then she thought about the small blue moon lantern she did not even remember pointing at.",
+      "start_ms": 50375,
+      "end_ms": 55623
+    },
+    {
+      "index": 17,
+      "text": "She thought about how Ông Lâm had waited three years.",
+      "start_ms": 55623,
+      "end_ms": 58771
+    },
+    {
+      "index": 18,
+      "text": "She thought about how he had decided that a small girl who noticed things was the right one.",
+      "start_ms": 58771,
+      "end_ms": 64193
+    },
+    {
+      "index": 19,
+      "text": "If she said no, that would mean he was wrong.",
+      "start_ms": 64193,
+      "end_ms": 66875
+    },
+    {
+      "index": 20,
+      "text": "But he did not seem wrong.",
+      "start_ms": 66875,
+      "end_ms": 68450
+    },
+    {
+      "index": 21,
+      "text": "He had seemed very sure.",
+      "start_ms": 68450,
+      "end_ms": 69966
+    },
+    {
+      "index": 22,
+      "text": "On Friday she walked to Ông Lâm's shop.",
+      "start_ms": 69966,
+      "end_ms": 72298
+    },
+    {
+      "index": 23,
+      "text": "She walked slowly.",
+      "start_ms": 72298,
+      "end_ms": 73406
+    },
+    {
+      "index": 24,
+      "text": "She was still afraid.",
+      "start_ms": 73406,
+      "end_ms": 74688
+    },
+    {
+      "index": 25,
+      "text": "When she got to the door, she stopped for a moment.",
+      "start_ms": 74688,
+      "end_ms": 77720
+    },
+    {
+      "index": 26,
+      "text": "Then she went in.",
+      "start_ms": 77720,
+      "end_ms": 78770
+    },
+    {
+      "index": 27,
+      "text": "Ông Lâm was there.",
+      "start_ms": 78770,
+      "end_ms": 79877
+    },
+    {
+      "index": 28,
+      "text": "He looked up.",
+      "start_ms": 79877,
+      "end_ms": 80694
+    },
+    {
+      "index": 29,
+      "text": "He waited.",
+      "start_ms": 80694,
+      "end_ms": 81335
+    },
+    {
+      "index": 30,
+      "text": "Mai said, \"I will do it, Ông Lâm.\" Ông Lâm nodded once.",
+      "start_ms": 81335,
+      "end_ms": 84600
+    },
+    {
+      "index": 31,
+      "text": "He said, \"Good.",
+      "start_ms": 84600,
+      "end_ms": 85533
+    },
+    {
+      "index": 32,
+      "text": "Come.",
+      "start_ms": 85533,
+      "end_ms": 85883
+    },
+    {
+      "index": 33,
+      "text": "We start now.\"",
+      "start_ms": 85883,
+      "end_ms": 86816
+    },
+    {
+      "index": 34,
+      "text": "He took out a long thin bamboo string, three meters long, with a small wooden handle on one end.",
+      "start_ms": 86816,
+      "end_ms": 92471
+    },
+    {
+      "index": 35,
+      "text": "He said, \"This is the practice string.",
+      "start_ms": 92471,
+      "end_ms": 94745
+    },
+    {
+      "index": 36,
+      "text": "It is the same length as the string on the fish lantern.",
+      "start_ms": 94745,
+      "end_ms": 98068
+    },
+    {
+      "index": 37,
+      "text": "Every day for three weeks, we will practice with it.",
+      "start_ms": 98068,
+      "end_ms": 101159
+    },
+    {
+      "index": 38,
+      "text": "First we practice holding.",
+      "start_ms": 101159,
+      "end_ms": 102733
+    },
+    {
+      "index": 39,
+      "text": "Then we practice standing.",
+      "start_ms": 102733,
+      "end_ms": 104307
+    },
+    {
+      "index": 40,
+      "text": "Then we practice with wind.",
+      "start_ms": 104307,
+      "end_ms": 105940
+    },
+    {
+      "index": 41,
+      "text": "Then we practice with everything.",
+      "start_ms": 105940,
+      "end_ms": 107922
+    },
+    {
+      "index": 42,
+      "text": "If in the last week you decide you cannot do it, that is fine.",
+      "start_ms": 107922,
+      "end_ms": 111595
+    },
+    {
+      "index": 43,
+      "text": "You can still say no.",
+      "start_ms": 111595,
+      "end_ms": 112878
+    },
+    {
+      "index": 44,
+      "text": "But we will practice as if you are going to say yes.\"",
+      "start_ms": 112878,
+      "end_ms": 115968
+    },
+    {
+      "index": 45,
+      "text": "The first thing he taught her was how to stand.",
+      "start_ms": 115968,
+      "end_ms": 118790
+    },
+    {
+      "index": 46,
+      "text": "This was harder than she had expected.",
+      "start_ms": 118790,
+      "end_ms": 121082
+    },
+    {
+      "index": 47,
+      "text": "She had to hold the string straight up above her head, one hand on the handle at the bottom, the other hand about a meter up the string for control.",
+      "start_ms": 121082,
+      "end_ms": 129841
+    },
+    {
+      "index": 48,
+      "text": "She had to stand with her feet apart and her back straight.",
+      "start_ms": 129841,
+      "end_ms": 133368
+    },
+    {
+      "index": 49,
+      "text": "She had to breathe slowly.",
+      "start_ms": 133368,
+      "end_ms": 134955
+    },
+    {
+      "index": 50,
+      "text": "She had to not lock her knees.",
+      "start_ms": 134955,
+      "end_ms": 136778
+    },
+    {
+      "index": 51,
+      "text": "She had to feel the string as if it was — Ông Lâm said this many times — as if it was a small living thing.",
+      "start_ms": 136778,
+      "end_ms": 143185
+    },
+    {
+      "index": 52,
+      "text": "\"Do not fight it,\" he said.",
+      "start_ms": 143185,
+      "end_ms": 144831
+    },
+    {
+      "index": 53,
+      "text": "\"The string is not against you.",
+      "start_ms": 144831,
+      "end_ms": 146712
+    },
+    {
+      "index": 54,
+      "text": "The lantern is not against you.",
+      "start_ms": 146712,
+      "end_ms": 148594
+    },
+    {
+      "index": 55,
+      "text": "The wind is not against you.",
+      "start_ms": 148594,
+      "end_ms": 150298
+    },
+    {
+      "index": 56,
+      "text": "All of it is together.",
+      "start_ms": 150298,
+      "end_ms": 151650
+    },
+    {
+      "index": 57,
+      "text": "You are part of it.",
+      "start_ms": 151650,
+      "end_ms": 152826
+    },
+    {
+      "index": 58,
+      "text": "If you fight, you tense up, and you drop the string.",
+      "start_ms": 152826,
+      "end_ms": 155942
+    },
+    {
+      "index": 59,
+      "text": "If you relax, and you stay with it, you will hold it as long as it needs to be held.\"",
+      "start_ms": 155942,
+      "end_ms": 161056
+    },
+    {
+      "index": 60,
+      "text": "For the first week Mai practiced only standing.",
+      "start_ms": 161056,
+      "end_ms": 163878
+    },
+    {
+      "index": 61,
+      "text": "Every afternoon she went to Ông Lâm's small courtyard.",
+      "start_ms": 163878,
+      "end_ms": 167111
+    },
+    {
+      "index": 62,
+      "text": "She stood with the empty practice string.",
+      "start_ms": 167111,
+      "end_ms": 169580
+    },
+    {
+      "index": 63,
+      "text": "Ông Lâm watched her.",
+      "start_ms": 169580,
+      "end_ms": 170814
+    },
+    {
+      "index": 64,
+      "text": "He corrected small things — her elbows, her breathing, the way her feet were set.",
+      "start_ms": 170814,
+      "end_ms": 175634
+    },
+    {
+      "index": 65,
+      "text": "He was patient.",
+      "start_ms": 175634,
+      "end_ms": 176575
+    },
+    {
+      "index": 66,
+      "text": "He never seemed disappointed.",
+      "start_ms": 176575,
+      "end_ms": 178339
+    },
+    {
+      "index": 67,
+      "text": "On the fourth day she was so tired her arms shook and she had to lower the string.",
+      "start_ms": 178339,
+      "end_ms": 183218
+    },
+    {
+      "index": 68,
+      "text": "She thought Ông Lâm would be upset.",
+      "start_ms": 183218,
+      "end_ms": 185334
+    },
+    {
+      "index": 69,
+      "text": "He was not.",
+      "start_ms": 185334,
+      "end_ms": 186039
+    },
+    {
+      "index": 70,
+      "text": "He said, \"Yes.",
+      "start_ms": 186039,
+      "end_ms": 186921
+    },
+    {
+      "index": 71,
+      "text": "That is what tired feels like.",
+      "start_ms": 186921,
+      "end_ms": 188743
+    },
+    {
+      "index": 72,
+      "text": "Now you know.",
+      "start_ms": 188743,
+      "end_ms": 189566
+    },
+    {
+      "index": 73,
+      "text": "Rest.",
+      "start_ms": 189566,
+      "end_ms": 189919
+    },
+    {
+      "index": 74,
+      "text": "In a minute, we do it again.\"",
+      "start_ms": 189919,
+      "end_ms": 191742
+    },
+    {
+      "index": 75,
+      "text": "In the second week they added the wind.",
+      "start_ms": 191742,
+      "end_ms": 194093
+    },
+    {
+      "index": 76,
+      "text": "Ông Lâm had a small paper kite the size of her hand, which he tied to the top of the practice string.",
+      "start_ms": 194093,
+      "end_ms": 200089
+    },
+    {
+      "index": 77,
+      "text": "It caught the wind and pulled the string sideways.",
+      "start_ms": 200089,
+      "end_ms": 203087
+    },
+    {
+      "index": 78,
+      "text": "Mai had to hold on.",
+      "start_ms": 203087,
+      "end_ms": 204263
+    },
+    {
+      "index": 79,
+      "text": "She had to lean into the pull.",
+      "start_ms": 204263,
+      "end_ms": 206085
+    },
+    {
+      "index": 80,
+      "text": "She had to not fight it — she had to move with it.",
+      "start_ms": 206085,
+      "end_ms": 209083
+    },
+    {
+      "index": 81,
+      "text": "This was much harder.",
+      "start_ms": 209083,
+      "end_ms": 210376
+    },
+    {
+      "index": 82,
+      "text": "The kite pulled her off balance.",
+      "start_ms": 210376,
+      "end_ms": 212316
+    },
+    {
+      "index": 83,
+      "text": "Twice she fell over.",
+      "start_ms": 212316,
+      "end_ms": 213551
+    },
+    {
+      "index": 84,
+      "text": "Ông Lâm helped her up.",
+      "start_ms": 213551,
+      "end_ms": 214903
+    },
+    {
+      "index": 85,
+      "text": "He did not laugh.",
+      "start_ms": 214903,
+      "end_ms": 215961
+    },
+    {
+      "index": 86,
+      "text": "He said, \"Good.",
+      "start_ms": 215961,
+      "end_ms": 216901
+    },
+    {
+      "index": 87,
+      "text": "Now you have fallen.",
+      "start_ms": 216901,
+      "end_ms": 218136
+    },
+    {
+      "index": 88,
+      "text": "Everyone falls the first time.",
+      "start_ms": 218136,
+      "end_ms": 219958
+    },
+    {
+      "index": 89,
+      "text": "Now you know what falling feels like.\"",
+      "start_ms": 219958,
+      "end_ms": 222192
+    },
+    {
+      "index": 90,
+      "text": "In the third week Ông Lâm brought her into the workshop.",
+      "start_ms": 222192,
+      "end_ms": 225967
+    },
+    {
+      "index": 91,
+      "text": "The fish lantern was almost finished.",
+      "start_ms": 225967,
+      "end_ms": 228484
+    },
+    {
+      "index": 92,
+      "text": "The bamboo frame was already built — it took up the whole floor.",
+      "start_ms": 228484,
+      "end_ms": 232789
+    },
+    {
+      "index": 93,
+      "text": "He was covering it now with layers of thin painted silk.",
+      "start_ms": 232789,
+      "end_ms": 236564
+    },
+    {
+      "index": 94,
+      "text": "Mai watched him work.",
+      "start_ms": 236564,
+      "end_ms": 238021
+    },
+    {
+      "index": 95,
+      "text": "She was allowed to help with small things — holding one edge of the silk while he glued, passing him tools when he asked.",
+      "start_ms": 238021,
+      "end_ms": 246101
+    },
+    {
+      "index": 96,
+      "text": "She was not allowed to touch the frame with unclean hands.",
+      "start_ms": 246101,
+      "end_ms": 250008
+    },
+    {
+      "index": 97,
+      "text": "She was not allowed to lean over it.",
+      "start_ms": 250008,
+      "end_ms": 252525
+    },
+    {
+      "index": 98,
+      "text": "\"This lantern,\" Ông Lâm said, gluing a fin, \"took me two months to make.",
+      "start_ms": 252525,
+      "end_ms": 257360
+    },
+    {
+      "index": 99,
+      "text": "The bamboo was cut in July.",
+      "start_ms": 257360,
+      "end_ms": 259214
+    },
+    {
+      "index": 100,
+      "text": "The silk was dyed in August.",
+      "start_ms": 259214,
+      "end_ms": 261135
+    },
+    {
+      "index": 101,
+      "text": "Now, in September, we finish it.",
+      "start_ms": 261135,
+      "end_ms": 263321
+    },
+    {
+      "index": 102,
+      "text": "On the night of the festival, we light it.",
+      "start_ms": 263321,
+      "end_ms": 266169
+    },
+    {
+      "index": 103,
+      "text": "It will fly for maybe twenty minutes.",
+      "start_ms": 266169,
+      "end_ms": 268685
+    },
+    {
+      "index": 104,
+      "text": "Then the paper will burn away and the lantern will fall gently into the river and float downstream and eventually sink.",
+      "start_ms": 268685,
+      "end_ms": 276633
+    },
+    {
+      "index": 105,
+      "text": "That is the whole life of this lantern.",
+      "start_ms": 276633,
+      "end_ms": 279282
+    },
+    {
+      "index": 106,
+      "text": "Two months to make.",
+      "start_ms": 279282,
+      "end_ms": 280607
+    },
+    {
+      "index": 107,
+      "text": "Twenty minutes to fly.",
+      "start_ms": 280607,
+      "end_ms": 282130
+    },
+    {
+      "index": 108,
+      "text": "Then gone.\" He looked up at Mai.",
+      "start_ms": 282130,
+      "end_ms": 284315
+    },
+    {
+      "index": 109,
+      "text": "\"That is why the person who holds the string has to be a person who understands that this is not — this is not about keeping.",
+      "start_ms": 284315,
+      "end_ms": 292660
+    },
+    {
+      "index": 110,
+      "text": "It is about letting go.",
+      "start_ms": 292660,
+      "end_ms": 294250
+    },
+    {
+      "index": 111,
+      "text": "The whole point is the letting go.\"",
+      "start_ms": 294250,
+      "end_ms": 296568
+    }
+  ]
+}

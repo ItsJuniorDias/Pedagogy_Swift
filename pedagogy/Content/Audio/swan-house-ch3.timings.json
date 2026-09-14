@@ -1,0 +1,697 @@
+{
+  "story_id": "swan-house",
+  "chapter": 3,
+  "total_duration_ms": 320472,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "They took Mummi's small wooden rowboat out.",
+      "start_ms": 1747,
+      "end_ms": 4396
+    },
+    {
+      "index": 1,
+      "text": "Elin rowed.",
+      "start_ms": 4396,
+      "end_ms": 5119
+    },
+    {
+      "index": 2,
+      "text": "Mummi looked.",
+      "start_ms": 5119,
+      "end_ms": 5962
+    },
+    {
+      "index": 3,
+      "text": "They went slowly along the reed bed.",
+      "start_ms": 5962,
+      "end_ms": 8191
+    },
+    {
+      "index": 4,
+      "text": "It was almost dark.",
+      "start_ms": 8191,
+      "end_ms": 9395
+    },
+    {
+      "index": 5,
+      "text": "The lake was calmer now, but there were still small waves lapping at the reeds.",
+      "start_ms": 9395,
+      "end_ms": 14213
+    },
+    {
+      "index": 6,
+      "text": "They looked for a long time.",
+      "start_ms": 14213,
+      "end_ms": 15960
+    },
+    {
+      "index": 7,
+      "text": "Mummi did not say anything.",
+      "start_ms": 15960,
+      "end_ms": 17646
+    },
+    {
+      "index": 8,
+      "text": "She only looked.",
+      "start_ms": 17646,
+      "end_ms": 18730
+    },
+    {
+      "index": 9,
+      "text": "It was Elin who saw it.",
+      "start_ms": 18730,
+      "end_ms": 20175
+    },
+    {
+      "index": 10,
+      "text": "In a shallow spot between two clumps of reeds, tangled in some floating branch debris that the storm had brought down, was a small grey shape.",
+      "start_ms": 20175,
+      "end_ms": 28788
+    },
+    {
+      "index": 11,
+      "text": "The cygnet.",
+      "start_ms": 28788,
+      "end_ms": 29510
+    },
+    {
+      "index": 12,
+      "text": "It was not moving.",
+      "start_ms": 29510,
+      "end_ms": 30655
+    },
+    {
+      "index": 13,
+      "text": "Elin thought — for one terrible second — that it was dead.",
+      "start_ms": 30655,
+      "end_ms": 34208
+    },
+    {
+      "index": 14,
+      "text": "Then she saw the small head lift.",
+      "start_ms": 34208,
+      "end_ms": 36255
+    },
+    {
+      "index": 15,
+      "text": "Just a little.",
+      "start_ms": 36255,
+      "end_ms": 37159
+    },
+    {
+      "index": 16,
+      "text": "It looked at her.",
+      "start_ms": 37159,
+      "end_ms": 38243
+    },
+    {
+      "index": 17,
+      "text": "It was alive.",
+      "start_ms": 38243,
+      "end_ms": 39086
+    },
+    {
+      "index": 18,
+      "text": "It was exhausted, and it was tangled, and it was alive.",
+      "start_ms": 39086,
+      "end_ms": 42459
+    },
+    {
+      "index": 19,
+      "text": "\"Mummi,\" said Elin.",
+      "start_ms": 42459,
+      "end_ms": 43663
+    },
+    {
+      "index": 20,
+      "text": "\"There.\"",
+      "start_ms": 43663,
+      "end_ms": 44265
+    },
+    {
+      "index": 21,
+      "text": "Elin worked as carefully as she could.",
+      "start_ms": 44265,
+      "end_ms": 46614
+    },
+    {
+      "index": 22,
+      "text": "She reached down.",
+      "start_ms": 46614,
+      "end_ms": 47698
+    },
+    {
+      "index": 23,
+      "text": "The cygnet was small — maybe two-thirds the size of an adult.",
+      "start_ms": 47698,
+      "end_ms": 51432
+    },
+    {
+      "index": 24,
+      "text": "It was heavy and wet and cold.",
+      "start_ms": 51432,
+      "end_ms": 53299
+    },
+    {
+      "index": 25,
+      "text": "She held it against her chest for a moment and then eased it into the bottom of the boat, on a piece of tarp Mummi had put down.",
+      "start_ms": 53299,
+      "end_ms": 61068
+    },
+    {
+      "index": 26,
+      "text": "She untangled the branches from around its legs and neck.",
+      "start_ms": 61068,
+      "end_ms": 64561
+    },
+    {
+      "index": 27,
+      "text": "It did not fight her.",
+      "start_ms": 64561,
+      "end_ms": 65886
+    },
+    {
+      "index": 28,
+      "text": "It was too tired to fight her.",
+      "start_ms": 65886,
+      "end_ms": 67753
+    },
+    {
+      "index": 29,
+      "text": "Its beak opened once and closed again.",
+      "start_ms": 67753,
+      "end_ms": 70162
+    },
+    {
+      "index": 30,
+      "text": "\"Row back,\" said Mummi.",
+      "start_ms": 70162,
+      "end_ms": 71607
+    },
+    {
+      "index": 31,
+      "text": "\"Slowly.",
+      "start_ms": 71607,
+      "end_ms": 72149
+    },
+    {
+      "index": 32,
+      "text": "Do not scare the others.",
+      "start_ms": 72149,
+      "end_ms": 73655
+    },
+    {
+      "index": 33,
+      "text": "But get us back to the dock.\" Elin rowed.",
+      "start_ms": 73655,
+      "end_ms": 76185
+    },
+    {
+      "index": 34,
+      "text": "When they got to the dock, she carried the cygnet up to the cabin.",
+      "start_ms": 76185,
+      "end_ms": 80220
+    },
+    {
+      "index": 35,
+      "text": "Mummi got out an old towel and they dried it as best they could.",
+      "start_ms": 80220,
+      "end_ms": 84134
+    },
+    {
+      "index": 36,
+      "text": "It sat quietly on the floor by the wood stove, panting, watching them.",
+      "start_ms": 84134,
+      "end_ms": 88410
+    },
+    {
+      "index": 37,
+      "text": "Mummi mixed a small bowl of water and put it in front of it.",
+      "start_ms": 88410,
+      "end_ms": 92084
+    },
+    {
+      "index": 38,
+      "text": "It drank a little.",
+      "start_ms": 92084,
+      "end_ms": 93168
+    },
+    {
+      "index": 39,
+      "text": "Elin sat on the floor beside it and watched.",
+      "start_ms": 93168,
+      "end_ms": 95947
+    },
+    {
+      "index": 40,
+      "text": "She was afraid to leave it, in case it died.",
+      "start_ms": 95947,
+      "end_ms": 98725
+    },
+    {
+      "index": 41,
+      "text": "Mummi made supper quietly at the counter.",
+      "start_ms": 98725,
+      "end_ms": 101318
+    },
+    {
+      "index": 42,
+      "text": "After a while she said, \"Elin.",
+      "start_ms": 101318,
+      "end_ms": 103232
+    },
+    {
+      "index": 43,
+      "text": "Come and eat.",
+      "start_ms": 103232,
+      "end_ms": 104097
+    },
+    {
+      "index": 44,
+      "text": "You can watch it while you eat.\" So Elin ate at the table, watching the cygnet.",
+      "start_ms": 104097,
+      "end_ms": 109036
+    },
+    {
+      "index": 45,
+      "text": "It sat by the stove.",
+      "start_ms": 109036,
+      "end_ms": 110333
+    },
+    {
+      "index": 46,
+      "text": "It slept a little.",
+      "start_ms": 110333,
+      "end_ms": 111506
+    },
+    {
+      "index": 47,
+      "text": "It woke.",
+      "start_ms": 111506,
+      "end_ms": 112062
+    },
+    {
+      "index": 48,
+      "text": "It drank again.",
+      "start_ms": 112062,
+      "end_ms": 113050
+    },
+    {
+      "index": 49,
+      "text": "By nine o'clock it was much better.",
+      "start_ms": 113050,
+      "end_ms": 115273
+    },
+    {
+      "index": 50,
+      "text": "It was still tired but it was breathing normally, and its eyes were bright.",
+      "start_ms": 115273,
+      "end_ms": 119965
+    },
+    {
+      "index": 51,
+      "text": "Elin thought maybe it was going to live.",
+      "start_ms": 119965,
+      "end_ms": 122559
+    },
+    {
+      "index": 52,
+      "text": "\"We have to put it back tonight,\" Mummi said.",
+      "start_ms": 122559,
+      "end_ms": 125399
+    },
+    {
+      "index": 53,
+      "text": "\"Its family is looking for it.",
+      "start_ms": 125399,
+      "end_ms": 127313
+    },
+    {
+      "index": 54,
+      "text": "If we wait until tomorrow, they may have moved on.",
+      "start_ms": 127313,
+      "end_ms": 130462
+    },
+    {
+      "index": 55,
+      "text": "And a swan cannot really live without its family.",
+      "start_ms": 130462,
+      "end_ms": 133549
+    },
+    {
+      "index": 56,
+      "text": "Especially not one this young.\" Elin nodded.",
+      "start_ms": 133549,
+      "end_ms": 136328
+    },
+    {
+      "index": 57,
+      "text": "She had known this.",
+      "start_ms": 136328,
+      "end_ms": 137563
+    },
+    {
+      "index": 58,
+      "text": "She had been hoping to keep the cygnet at the cabin for a night, to be sure, but Mummi was right.",
+      "start_ms": 137563,
+      "end_ms": 143675
+    },
+    {
+      "index": 59,
+      "text": "They took the cygnet down to the dock.",
+      "start_ms": 143675,
+      "end_ms": 146084
+    },
+    {
+      "index": 60,
+      "text": "Elin knelt at the edge.",
+      "start_ms": 146084,
+      "end_ms": 147565
+    },
+    {
+      "index": 61,
+      "text": "She held the cygnet in both hands.",
+      "start_ms": 147565,
+      "end_ms": 149726
+    },
+    {
+      "index": 62,
+      "text": "\"Go on,\" she whispered.",
+      "start_ms": 149726,
+      "end_ms": 151208
+    },
+    {
+      "index": 63,
+      "text": "\"Go find your family.",
+      "start_ms": 151208,
+      "end_ms": 152567
+    },
+    {
+      "index": 64,
+      "text": "Go on.\" She lowered it into the water.",
+      "start_ms": 152567,
+      "end_ms": 154975
+    },
+    {
+      "index": 65,
+      "text": "The cygnet floated.",
+      "start_ms": 154975,
+      "end_ms": 156210
+    },
+    {
+      "index": 66,
+      "text": "It looked confused for a second.",
+      "start_ms": 156210,
+      "end_ms": 158247
+    },
+    {
+      "index": 67,
+      "text": "Then it heard something — Elin could not hear it, but the cygnet's head turned quickly toward the middle of the lake.",
+      "start_ms": 158247,
+      "end_ms": 165533
+    },
+    {
+      "index": 68,
+      "text": "It gave one small tired call.",
+      "start_ms": 165533,
+      "end_ms": 167386
+    },
+    {
+      "index": 69,
+      "text": "Very far away, an adult swan called back.",
+      "start_ms": 167386,
+      "end_ms": 169979
+    },
+    {
+      "index": 70,
+      "text": "And then, from the direction of the reed bed, three white shapes were suddenly moving fast across the lake, straight toward the dock.",
+      "start_ms": 169979,
+      "end_ms": 178314
+    },
+    {
+      "index": 71,
+      "text": "The three of them came right up close.",
+      "start_ms": 178314,
+      "end_ms": 180723
+    },
+    {
+      "index": 72,
+      "text": "The cygnet paddled forward, weakly, toward its parents.",
+      "start_ms": 180723,
+      "end_ms": 184180
+    },
+    {
+      "index": 73,
+      "text": "The mother — the same swan who had been coming to Elin — nudged the cygnet with her beak.",
+      "start_ms": 184180,
+      "end_ms": 189737
+    },
+    {
+      "index": 74,
+      "text": "Then she and the father surrounded the cygnet completely, one on each side, and pressed it between them, and the other cygnet came to swim in front.",
+      "start_ms": 189737,
+      "end_ms": 198937
+    },
+    {
+      "index": 75,
+      "text": "The whole family stayed like that for a moment.",
+      "start_ms": 198937,
+      "end_ms": 201901
+    },
+    {
+      "index": 76,
+      "text": "Very close together.",
+      "start_ms": 201901,
+      "end_ms": 203136
+    },
+    {
+      "index": 77,
+      "text": "And then, when the cygnet was settled between them, the mother swan — Elin was sure it was her — separated from the group.",
+      "start_ms": 203136,
+      "end_ms": 210875
+    },
+    {
+      "index": 78,
+      "text": "She swam very slowly to the dock.",
+      "start_ms": 210875,
+      "end_ms": 213014
+    },
+    {
+      "index": 79,
+      "text": "She came closer than she had ever come.",
+      "start_ms": 213014,
+      "end_ms": 215530
+    },
+    {
+      "index": 80,
+      "text": "Almost right up to it.",
+      "start_ms": 215530,
+      "end_ms": 216977
+    },
+    {
+      "index": 81,
+      "text": "She looked at Elin.",
+      "start_ms": 216977,
+      "end_ms": 218236
+    },
+    {
+      "index": 82,
+      "text": "She held her look.",
+      "start_ms": 218236,
+      "end_ms": 219431
+    },
+    {
+      "index": 83,
+      "text": "She was still.",
+      "start_ms": 219431,
+      "end_ms": 220375
+    },
+    {
+      "index": 84,
+      "text": "Elin was still.",
+      "start_ms": 220375,
+      "end_ms": 221381
+    },
+    {
+      "index": 85,
+      "text": "They looked at each other for what felt like a long time.",
+      "start_ms": 221381,
+      "end_ms": 225093
+    },
+    {
+      "index": 86,
+      "text": "Then the mother swan did something Elin had never seen a swan do.",
+      "start_ms": 225093,
+      "end_ms": 229246
+    },
+    {
+      "index": 87,
+      "text": "She dipped her head, very slowly, and she bowed.",
+      "start_ms": 229246,
+      "end_ms": 232328
+    },
+    {
+      "index": 88,
+      "text": "Not the way swans move their necks when they are eating or preening.",
+      "start_ms": 232328,
+      "end_ms": 236670
+    },
+    {
+      "index": 89,
+      "text": "A different way.",
+      "start_ms": 236670,
+      "end_ms": 237739
+    },
+    {
+      "index": 90,
+      "text": "A deliberate way.",
+      "start_ms": 237739,
+      "end_ms": 238872
+    },
+    {
+      "index": 91,
+      "text": "A slow small bow, held for maybe two seconds, and then lifted again.",
+      "start_ms": 238872,
+      "end_ms": 243213
+    },
+    {
+      "index": 92,
+      "text": "She looked at Elin for one more moment.",
+      "start_ms": 243213,
+      "end_ms": 245729
+    },
+    {
+      "index": 93,
+      "text": "Then she turned and she swam back to her family.",
+      "start_ms": 245729,
+      "end_ms": 248812
+    },
+    {
+      "index": 94,
+      "text": "And all four of them, moving together, went back toward the far end of the lake.",
+      "start_ms": 248812,
+      "end_ms": 253971
+    },
+    {
+      "index": 95,
+      "text": "Elin stood on the dock for a long time.",
+      "start_ms": 253971,
+      "end_ms": 256488
+    },
+    {
+      "index": 96,
+      "text": "Mummi stood beside her.",
+      "start_ms": 256488,
+      "end_ms": 257998
+    },
+    {
+      "index": 97,
+      "text": "Neither of them said anything.",
+      "start_ms": 257998,
+      "end_ms": 259948
+    },
+    {
+      "index": 98,
+      "text": "Finally Mummi said, quietly, \"Well.",
+      "start_ms": 259948,
+      "end_ms": 262213
+    },
+    {
+      "index": 99,
+      "text": "You saw that.",
+      "start_ms": 262213,
+      "end_ms": 263094
+    },
+    {
+      "index": 100,
+      "text": "So it is not just me.\" Elin said, \"She bowed.",
+      "start_ms": 263094,
+      "end_ms": 265988
+    },
+    {
+      "index": 101,
+      "text": "She really bowed.",
+      "start_ms": 265988,
+      "end_ms": 267120
+    },
+    {
+      "index": 102,
+      "text": "She thanked me.\" \"Yes,\" said Mummi.",
+      "start_ms": 267120,
+      "end_ms": 269385
+    },
+    {
+      "index": 103,
+      "text": "\"She did.",
+      "start_ms": 269385,
+      "end_ms": 270014
+    },
+    {
+      "index": 104,
+      "text": "Do you believe it now, Elin.",
+      "start_ms": 270014,
+      "end_ms": 271839
+    },
+    {
+      "index": 105,
+      "text": "What I told you about the swans.\" Elin thought.",
+      "start_ms": 271839,
+      "end_ms": 274859
+    },
+    {
+      "index": 106,
+      "text": "She thought for a long time.",
+      "start_ms": 274859,
+      "end_ms": 276683
+    },
+    {
+      "index": 107,
+      "text": "She thought about a wild bird bowing to a person, and about how impossible that was.",
+      "start_ms": 276683,
+      "end_ms": 282031
+    },
+    {
+      "index": 108,
+      "text": "She thought about how, when Mummi's grandmother had first told the story, she had probably seen something like this too, in her own life, when she was a small girl on this same lake.",
+      "start_ms": 282031,
+      "end_ms": 293607
+    },
+    {
+      "index": 109,
+      "text": "Elin said, finally, \"I believe it in my own way, Mummi.",
+      "start_ms": 293607,
+      "end_ms": 297131
+    },
+    {
+      "index": 110,
+      "text": "Like you said.",
+      "start_ms": 297131,
+      "end_ms": 298074
+    },
+    {
+      "index": 111,
+      "text": "That might not be the same as believing it.",
+      "start_ms": 298074,
+      "end_ms": 300843
+    },
+    {
+      "index": 112,
+      "text": "But it is close enough for me.\" Mummi laughed softly, and put her arm around Elin.",
+      "start_ms": 300843,
+      "end_ms": 306065
+    },
+    {
+      "index": 113,
+      "text": "And they stood on the dock together for a while longer, watching the four white shapes on the far side of the lake, until the light was almost gone and Mummi said it was time to go in and dry off and drink some tea.",
+      "start_ms": 306065,
+      "end_ms": 319654
+    },
+    {
+      "index": 114,
+      "text": "And they did.",
+      "start_ms": 319654,
+      "end_ms": 320472
+    }
+  ]
+}

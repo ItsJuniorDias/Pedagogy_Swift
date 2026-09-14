@@ -1,0 +1,691 @@
+{
+  "story_id": "crossings",
+  "chapter": 2,
+  "total_duration_ms": 369168,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "They started before dawn.",
+      "start_ms": 1453,
+      "end_ms": 3169
+    },
+    {
+      "index": 1,
+      "text": "His father woke Amaru gently, brewed water for two small cups of tea, and packed the camp while Amaru drank.",
+      "start_ms": 3169,
+      "end_ms": 10366
+    },
+    {
+      "index": 2,
+      "text": "They ate a little bread.",
+      "start_ms": 10366,
+      "end_ms": 12016
+    },
+    {
+      "index": 3,
+      "text": "They started walking in the near-dark.",
+      "start_ms": 12016,
+      "end_ms": 14591
+    },
+    {
+      "index": 4,
+      "text": "It was extremely cold.",
+      "start_ms": 14591,
+      "end_ms": 16110
+    },
+    {
+      "index": 5,
+      "text": "Amaru's breath came out in white clouds.",
+      "start_ms": 16110,
+      "end_ms": 18817
+    },
+    {
+      "index": 6,
+      "text": "His fingers hurt inside his mittens.",
+      "start_ms": 18817,
+      "end_ms": 21260
+    },
+    {
+      "index": 7,
+      "text": "His father said, \"Walk hard.",
+      "start_ms": 21260,
+      "end_ms": 23175
+    },
+    {
+      "index": 8,
+      "text": "You will warm up.",
+      "start_ms": 23175,
+      "end_ms": 24363
+    },
+    {
+      "index": 9,
+      "text": "Walk hard.\" And Amaru walked hard.",
+      "start_ms": 24363,
+      "end_ms": 26740
+    },
+    {
+      "index": 10,
+      "text": "They walked upward for four hours straight.",
+      "start_ms": 26740,
+      "end_ms": 29645
+    },
+    {
+      "index": 11,
+      "text": "The path became harder — more scree, less grass.",
+      "start_ms": 29645,
+      "end_ms": 32880
+    },
+    {
+      "index": 12,
+      "text": "There were no more apachetas.",
+      "start_ms": 32880,
+      "end_ms": 34861
+    },
+    {
+      "index": 13,
+      "text": "There were no plants.",
+      "start_ms": 34861,
+      "end_ms": 36314
+    },
+    {
+      "index": 14,
+      "text": "There were only rocks and the sound of Amaru's own breath and his father's footsteps in front of him.",
+      "start_ms": 36314,
+      "end_ms": 43048
+    },
+    {
+      "index": 15,
+      "text": "Amaru could feel the altitude now.",
+      "start_ms": 43048,
+      "end_ms": 45359
+    },
+    {
+      "index": 16,
+      "text": "His head hurt a little.",
+      "start_ms": 45359,
+      "end_ms": 46944
+    },
+    {
+      "index": 17,
+      "text": "He was breathing much harder than he had ever breathed.",
+      "start_ms": 46944,
+      "end_ms": 50641
+    },
+    {
+      "index": 18,
+      "text": "He was determined not to complain.",
+      "start_ms": 50641,
+      "end_ms": 53018
+    },
+    {
+      "index": 19,
+      "text": "They crested the pass at midmorning.",
+      "start_ms": 53018,
+      "end_ms": 55461
+    },
+    {
+      "index": 20,
+      "text": "The wind was very strong.",
+      "start_ms": 55461,
+      "end_ms": 57177
+    },
+    {
+      "index": 21,
+      "text": "There was a large apacheta at the top, taller than Amaru — a heap of stones that had grown, one at a time, over hundreds of years.",
+      "start_ms": 57177,
+      "end_ms": 65827
+    },
+    {
+      "index": 22,
+      "text": "His father stood at the top and looked at it for a long moment.",
+      "start_ms": 65827,
+      "end_ms": 70052
+    },
+    {
+      "index": 23,
+      "text": "Then he took two flat stones out of his pocket.",
+      "start_ms": 70052,
+      "end_ms": 73221
+    },
+    {
+      "index": 24,
+      "text": "He gave one to Amaru.",
+      "start_ms": 73221,
+      "end_ms": 74674
+    },
+    {
+      "index": 25,
+      "text": "They each set a stone.",
+      "start_ms": 74674,
+      "end_ms": 76192
+    },
+    {
+      "index": 26,
+      "text": "\"For safe passage,\" his father said.",
+      "start_ms": 76192,
+      "end_ms": 78635
+    },
+    {
+      "index": 27,
+      "text": "\"And for Tayta Silverio.\" And then, without saying anything else, his father lifted his arm and pointed forward, into the valley on the other side, which was down below them and full of pale mist.",
+      "start_ms": 78635,
+      "end_ms": 91642
+    },
+    {
+      "index": 28,
+      "text": "Very far away, and very small, there was a tiny cluster of red-tile roofs.",
+      "start_ms": 91642,
+      "end_ms": 96528
+    },
+    {
+      "index": 29,
+      "text": "\"Choquepata,\" his father said.",
+      "start_ms": 96528,
+      "end_ms": 98522
+    },
+    {
+      "index": 30,
+      "text": "\"That is where I was born.\" Amaru looked at it.",
+      "start_ms": 98522,
+      "end_ms": 101610
+    },
+    {
+      "index": 31,
+      "text": "It was so small.",
+      "start_ms": 101610,
+      "end_ms": 102704
+    },
+    {
+      "index": 32,
+      "text": "From this far away it did not look like a whole world.",
+      "start_ms": 102704,
+      "end_ms": 106243
+    },
+    {
+      "index": 33,
+      "text": "It looked like a small stack of stones in the bottom of a very big cup.",
+      "start_ms": 106243,
+      "end_ms": 110875
+    },
+    {
+      "index": 34,
+      "text": "But his father, when Amaru looked at him, had a face Amaru had never seen before.",
+      "start_ms": 110875,
+      "end_ms": 116150
+    },
+    {
+      "index": 35,
+      "text": "His father was looking at the village.",
+      "start_ms": 116150,
+      "end_ms": 118659
+    },
+    {
+      "index": 36,
+      "text": "His whole self was looking at the village.",
+      "start_ms": 118659,
+      "end_ms": 121426
+    },
+    {
+      "index": 37,
+      "text": "Amaru understood then, in a way he had not understood before, that his father had not just come from somewhere.",
+      "start_ms": 121426,
+      "end_ms": 128631
+    },
+    {
+      "index": 38,
+      "text": "He had come from somewhere specific, and he had left it, and he had lived far from it for thirty years, and now he was going back.",
+      "start_ms": 128631,
+      "end_ms": 137124
+    },
+    {
+      "index": 39,
+      "text": "They started down.",
+      "start_ms": 137124,
+      "end_ms": 138346
+    },
+    {
+      "index": 40,
+      "text": "Going down was harder on Amaru's knees but easier on his breathing, and the altitude got lower as they descended.",
+      "start_ms": 138346,
+      "end_ms": 145680
+    },
+    {
+      "index": 41,
+      "text": "His father talked more that afternoon than he had all morning.",
+      "start_ms": 145680,
+      "end_ms": 149733
+    },
+    {
+      "index": 42,
+      "text": "He pointed at things.",
+      "start_ms": 149733,
+      "end_ms": 151149
+    },
+    {
+      "index": 43,
+      "text": "\"That mountain, over there — we called that Rimac Waskar.",
+      "start_ms": 151149,
+      "end_ms": 154880
+    },
+    {
+      "index": 44,
+      "text": "It looks like a person lying down.",
+      "start_ms": 154880,
+      "end_ms": 157132
+    },
+    {
+      "index": 45,
+      "text": "See the head.",
+      "start_ms": 157132,
+      "end_ms": 158033
+    },
+    {
+      "index": 46,
+      "text": "See the arm.",
+      "start_ms": 158033,
+      "end_ms": 158869
+    },
+    {
+      "index": 47,
+      "text": "There is a story about him — how he laid down to sleep at the end of the last age and never woke up.\" He pointed at a scattering of white shapes on a high slope.",
+      "start_ms": 158869,
+      "end_ms": 169291
+    },
+    {
+      "index": 48,
+      "text": "\"Vicuñas.",
+      "start_ms": 169291,
+      "end_ms": 169935
+    },
+    {
+      "index": 49,
+      "text": "Wild.",
+      "start_ms": 169935,
+      "end_ms": 170321
+    },
+    {
+      "index": 50,
+      "text": "Do not scare them.",
+      "start_ms": 170321,
+      "end_ms": 171543
+    },
+    {
+      "index": 51,
+      "text": "They belong to the mountain, my grandmother used to say.\"",
+      "start_ms": 171543,
+      "end_ms": 175339
+    },
+    {
+      "index": 52,
+      "text": "\"Papá,\" said Amaru, as they walked.",
+      "start_ms": 175339,
+      "end_ms": 177655
+    },
+    {
+      "index": 53,
+      "text": "\"Why did you leave.\" His father was quiet for a while.",
+      "start_ms": 177655,
+      "end_ms": 181193
+    },
+    {
+      "index": 54,
+      "text": "Then he said, \"I left because I wanted to study.",
+      "start_ms": 181193,
+      "end_ms": 184346
+    },
+    {
+      "index": 55,
+      "text": "There was no school in the village past the age of ten.",
+      "start_ms": 184346,
+      "end_ms": 187949
+    },
+    {
+      "index": 56,
+      "text": "My father took me to Cusco when I was seventeen and I stayed.",
+      "start_ms": 187949,
+      "end_ms": 191937
+    },
+    {
+      "index": 57,
+      "text": "I did secondary school.",
+      "start_ms": 191937,
+      "end_ms": 193481
+    },
+    {
+      "index": 58,
+      "text": "Then university.",
+      "start_ms": 193481,
+      "end_ms": 194575
+    },
+    {
+      "index": 59,
+      "text": "Then I met your mother.",
+      "start_ms": 194575,
+      "end_ms": 196119
+    },
+    {
+      "index": 60,
+      "text": "I built a life in Lima.",
+      "start_ms": 196119,
+      "end_ms": 197663
+    },
+    {
+      "index": 61,
+      "text": "It was — I did not decide once.",
+      "start_ms": 197663,
+      "end_ms": 199722
+    },
+    {
+      "index": 62,
+      "text": "I decided many times, in small pieces.",
+      "start_ms": 199722,
+      "end_ms": 202231
+    },
+    {
+      "index": 63,
+      "text": "To stay a little longer.",
+      "start_ms": 202231,
+      "end_ms": 203839
+    },
+    {
+      "index": 64,
+      "text": "To take a job.",
+      "start_ms": 203839,
+      "end_ms": 204804
+    },
+    {
+      "index": 65,
+      "text": "To marry.",
+      "start_ms": 204804,
+      "end_ms": 205448
+    },
+    {
+      "index": 66,
+      "text": "And by the time I noticed, I had been gone for twenty years.",
+      "start_ms": 205448,
+      "end_ms": 209372
+    },
+    {
+      "index": 67,
+      "text": "Then thirty.\" He looked at Amaru.",
+      "start_ms": 209372,
+      "end_ms": 211560
+    },
+    {
+      "index": 68,
+      "text": "\"I did not stop being from here.",
+      "start_ms": 211560,
+      "end_ms": 213683
+    },
+    {
+      "index": 69,
+      "text": "I only added another place.",
+      "start_ms": 213683,
+      "end_ms": 215484
+    },
+    {
+      "index": 70,
+      "text": "That is what I want you to understand, Amaru.",
+      "start_ms": 215484,
+      "end_ms": 218444
+    },
+    {
+      "index": 71,
+      "text": "You can be from more than one place.\"",
+      "start_ms": 218444,
+      "end_ms": 220824
+    },
+    {
+      "index": 72,
+      "text": "That night they stayed with a family in a small stone hut about halfway down.",
+      "start_ms": 220824,
+      "end_ms": 225730
+    },
+    {
+      "index": 73,
+      "text": "Two brothers and their wives and children, three generations under one roof, growing potatoes on a small terraced field.",
+      "start_ms": 225730,
+      "end_ms": 233341
+    },
+    {
+      "index": 74,
+      "text": "His father knew them.",
+      "start_ms": 233341,
+      "end_ms": 234725
+    },
+    {
+      "index": 75,
+      "text": "They had been children together, before he had left.",
+      "start_ms": 234725,
+      "end_ms": 238058
+    },
+    {
+      "index": 76,
+      "text": "There was a lot of talking that night — some in Spanish, some in Quechua that Amaru did not understand very well.",
+      "start_ms": 238058,
+      "end_ms": 245229
+    },
+    {
+      "index": 77,
+      "text": "They ate a hot soup with quinoa and small red potatoes.",
+      "start_ms": 245229,
+      "end_ms": 248751
+    },
+    {
+      "index": 78,
+      "text": "Amaru was very tired.",
+      "start_ms": 248751,
+      "end_ms": 250135
+    },
+    {
+      "index": 79,
+      "text": "He fell asleep on a mat on the floor while the adults were still talking.",
+      "start_ms": 250135,
+      "end_ms": 254853
+    },
+    {
+      "index": 80,
+      "text": "He half-woke, sometime in the middle of the night.",
+      "start_ms": 254853,
+      "end_ms": 258060
+    },
+    {
+      "index": 81,
+      "text": "His father was still up.",
+      "start_ms": 258060,
+      "end_ms": 259633
+    },
+    {
+      "index": 82,
+      "text": "He was sitting near the fire with one of the brothers.",
+      "start_ms": 259633,
+      "end_ms": 263092
+    },
+    {
+      "index": 83,
+      "text": "They were speaking quietly in Quechua.",
+      "start_ms": 263092,
+      "end_ms": 265545
+    },
+    {
+      "index": 84,
+      "text": "His father was crying, though not making sounds — just tears running down his face while he talked.",
+      "start_ms": 265545,
+      "end_ms": 271835
+    },
+    {
+      "index": 85,
+      "text": "Amaru had never seen his father cry before.",
+      "start_ms": 271835,
+      "end_ms": 274603
+    },
+    {
+      "index": 86,
+      "text": "Amaru did not move.",
+      "start_ms": 274603,
+      "end_ms": 275861
+    },
+    {
+      "index": 87,
+      "text": "He watched for maybe two minutes, and then he closed his eyes again, and he fell back asleep, and he did not tell his father in the morning that he had seen this.",
+      "start_ms": 275861,
+      "end_ms": 286113
+    },
+    {
+      "index": 88,
+      "text": "He thought some things were not for talking about.",
+      "start_ms": 286113,
+      "end_ms": 289321
+    },
+    {
+      "index": 89,
+      "text": "He thought this was one of them.",
+      "start_ms": 289321,
+      "end_ms": 291460
+    },
+    {
+      "index": 90,
+      "text": "They walked into Choquepata at midmorning on Saturday.",
+      "start_ms": 291460,
+      "end_ms": 294919
+    },
+    {
+      "index": 91,
+      "text": "The village was smaller than Amaru had expected — maybe forty houses arranged around a small plaza with a stone cross in the middle and a small stone church at one end.",
+      "start_ms": 294919,
+      "end_ms": 305549
+    },
+    {
+      "index": 92,
+      "text": "Many people were standing in the plaza in their good clothes.",
+      "start_ms": 305549,
+      "end_ms": 309449
+    },
+    {
+      "index": 93,
+      "text": "A funeral was clearly under way.",
+      "start_ms": 309449,
+      "end_ms": 311525
+    },
+    {
+      "index": 94,
+      "text": "When Amaru and his father came into the plaza, one of the older women recognized his father and gave a small cry, and then people started coming toward them.",
+      "start_ms": 311525,
+      "end_ms": 321463
+    },
+    {
+      "index": 95,
+      "text": "His father was hugged by people he had not seen in thirty years.",
+      "start_ms": 321463,
+      "end_ms": 325551
+    },
+    {
+      "index": 96,
+      "text": "Some of them were crying.",
+      "start_ms": 325551,
+      "end_ms": 327187
+    },
+    {
+      "index": 97,
+      "text": "Some of them were laughing.",
+      "start_ms": 327187,
+      "end_ms": 328948
+    },
+    {
+      "index": 98,
+      "text": "Amaru stood a little to the side, holding his pack.",
+      "start_ms": 328948,
+      "end_ms": 332219
+    },
+    {
+      "index": 99,
+      "text": "He did not know what to do.",
+      "start_ms": 332219,
+      "end_ms": 333980
+    },
+    {
+      "index": 100,
+      "text": "He was very tired.",
+      "start_ms": 333980,
+      "end_ms": 335112
+    },
+    {
+      "index": 101,
+      "text": "One old woman came over to him.",
+      "start_ms": 335112,
+      "end_ms": 337305
+    },
+    {
+      "index": 102,
+      "text": "She was small and had a very lined face.",
+      "start_ms": 337305,
+      "end_ms": 340114
+    },
+    {
+      "index": 103,
+      "text": "She looked at him for a long time.",
+      "start_ms": 340114,
+      "end_ms": 342512
+    },
+    {
+      "index": 104,
+      "text": "Then she said something in Quechua.",
+      "start_ms": 342512,
+      "end_ms": 344979
+    },
+    {
+      "index": 105,
+      "text": "She waited.",
+      "start_ms": 344979,
+      "end_ms": 345802
+    },
+    {
+      "index": 106,
+      "text": "Then she reached out and cupped his cheek with her hand, which was warm and dry.",
+      "start_ms": 345802,
+      "end_ms": 351352
+    },
+    {
+      "index": 107,
+      "text": "She said, in Spanish, \"You look exactly like your great-grandfather.",
+      "start_ms": 351352,
+      "end_ms": 356080
+    },
+    {
+      "index": 108,
+      "text": "Exactly.",
+      "start_ms": 356080,
+      "end_ms": 356697
+    },
+    {
+      "index": 109,
+      "text": "When he was your age.",
+      "start_ms": 356697,
+      "end_ms": 358204
+    },
+    {
+      "index": 110,
+      "text": "You look exactly like him.\" And she smiled.",
+      "start_ms": 358204,
+      "end_ms": 361219
+    },
+    {
+      "index": 111,
+      "text": "And Amaru understood then why his father had wanted him to come.",
+      "start_ms": 361219,
+      "end_ms": 365673
+    },
+    {
+      "index": 112,
+      "text": "To meet these people.",
+      "start_ms": 365673,
+      "end_ms": 367181
+    },
+    {
+      "index": 113,
+      "text": "To let these people meet him.",
+      "start_ms": 367181,
+      "end_ms": 369168
+    }
+  ]
+}

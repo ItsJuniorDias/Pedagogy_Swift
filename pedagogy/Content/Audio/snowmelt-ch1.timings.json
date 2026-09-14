@@ -1,0 +1,391 @@
+{
+  "story_id": "snowmelt",
+  "chapter": 1,
+  "total_duration_ms": 216096,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Jonas had never been to Iceland before, but Iceland was where his aunt lived, and his aunt was where his mother had said he was going for the summer, and so Iceland was where he went.",
+      "start_ms": 1253,
+      "end_ms": 11734
+    },
+    {
+      "index": 1,
+      "text": "He was ten.",
+      "start_ms": 11734,
+      "end_ms": 12418
+    },
+    {
+      "index": 2,
+      "text": "He flew alone from Copenhagen and got off the plane in Reykjavík, and then he took a very small car with a very quiet driver north for six hours until they came around a long slow curve in the road and he saw, tucked into the far end of a green valley by the water, a low turf-roofed farmhouse with a woman standing in the doorway.",
+      "start_ms": 12418,
+      "end_ms": 31386
+    },
+    {
+      "index": 3,
+      "text": "The woman was his Aunt Sigrún.",
+      "start_ms": 31386,
+      "end_ms": 33152
+    },
+    {
+      "index": 4,
+      "text": "She was tall and grey-haired and wore a heavy wool sweater the color of storm clouds.",
+      "start_ms": 33152,
+      "end_ms": 38051
+    },
+    {
+      "index": 5,
+      "text": "When Jonas got out of the car, she looked at him for a long time before she came down the path.",
+      "start_ms": 38051,
+      "end_ms": 43519
+    },
+    {
+      "index": 6,
+      "text": "She did not hug him.",
+      "start_ms": 43519,
+      "end_ms": 44715
+    },
+    {
+      "index": 7,
+      "text": "She put her hand on the top of his head, once, and then she took his duffel bag and turned and walked back up to the house, and Jonas followed her.",
+      "start_ms": 44715,
+      "end_ms": 53203
+    },
+    {
+      "index": 8,
+      "text": "The house was small and warm.",
+      "start_ms": 53203,
+      "end_ms": 54911
+    },
+    {
+      "index": 9,
+      "text": "There was a stove burning peat in the main room, and a table, and two chairs, and a shelf along one wall.",
+      "start_ms": 54911,
+      "end_ms": 60949
+    },
+    {
+      "index": 10,
+      "text": "On the shelf were objects — dozens of them.",
+      "start_ms": 60949,
+      "end_ms": 63456
+    },
+    {
+      "index": 11,
+      "text": "A rusted key.",
+      "start_ms": 63456,
+      "end_ms": 64253
+    },
+    {
+      "index": 12,
+      "text": "A small child's leather shoe, cracked with age.",
+      "start_ms": 64253,
+      "end_ms": 66987
+    },
+    {
+      "index": 13,
+      "text": "A porcelain doll with only one arm.",
+      "start_ms": 66987,
+      "end_ms": 69038
+    },
+    {
+      "index": 14,
+      "text": "A fountain pen.",
+      "start_ms": 69038,
+      "end_ms": 69949
+    },
+    {
+      "index": 15,
+      "text": "A folded pocket knife.",
+      "start_ms": 69949,
+      "end_ms": 71260
+    },
+    {
+      "index": 16,
+      "text": "A pair of spectacles with one lens missing.",
+      "start_ms": 71260,
+      "end_ms": 73766
+    },
+    {
+      "index": 17,
+      "text": "A small green tin box.",
+      "start_ms": 73766,
+      "end_ms": 75076
+    },
+    {
+      "index": 18,
+      "text": "Each object had a small paper tag tied to it with string.",
+      "start_ms": 75076,
+      "end_ms": 78437
+    },
+    {
+      "index": 19,
+      "text": "Jonas stood in front of the shelf and looked.",
+      "start_ms": 78437,
+      "end_ms": 81057
+    },
+    {
+      "index": 20,
+      "text": "He did not touch anything.",
+      "start_ms": 81057,
+      "end_ms": 82595
+    },
+    {
+      "index": 21,
+      "text": "Aunt Sigrún was in the kitchen, taking off her boots.",
+      "start_ms": 82595,
+      "end_ms": 85671
+    },
+    {
+      "index": 22,
+      "text": "\"They come out of the ground,\" she said, without looking up.",
+      "start_ms": 85671,
+      "end_ms": 89146
+    },
+    {
+      "index": 23,
+      "text": "\"Every June, when the frost lets go.",
+      "start_ms": 89146,
+      "end_ms": 91253
+    },
+    {
+      "index": 24,
+      "text": "Something new.",
+      "start_ms": 91253,
+      "end_ms": 92108
+    },
+    {
+      "index": 25,
+      "text": "Sometimes two things.",
+      "start_ms": 92108,
+      "end_ms": 93361
+    },
+    {
+      "index": 26,
+      "text": "This land was a farm for four hundred years before I bought it.",
+      "start_ms": 93361,
+      "end_ms": 97006
+    },
+    {
+      "index": 27,
+      "text": "And a stopping place on the fjord road for longer than that.",
+      "start_ms": 97006,
+      "end_ms": 100481
+    },
+    {
+      "index": 28,
+      "text": "Everything anyone ever lost here has been under the ice.\"",
+      "start_ms": 100481,
+      "end_ms": 103728
+    },
+    {
+      "index": 29,
+      "text": "She came into the main room and picked up one of the objects — the rusted key.",
+      "start_ms": 103728,
+      "end_ms": 108250
+    },
+    {
+      "index": 30,
+      "text": "She held it out to him.",
+      "start_ms": 108250,
+      "end_ms": 109624
+    },
+    {
+      "index": 31,
+      "text": "\"Every one has a story.",
+      "start_ms": 109624,
+      "end_ms": 110998
+    },
+    {
+      "index": 32,
+      "text": "Not always the whole story.",
+      "start_ms": 110998,
+      "end_ms": 112601
+    },
+    {
+      "index": 33,
+      "text": "But something.",
+      "start_ms": 112601,
+      "end_ms": 113459
+    },
+    {
+      "index": 34,
+      "text": "This key, for example.\" She tilted the tag so he could read it.",
+      "start_ms": 113459,
+      "end_ms": 117123
+    },
+    {
+      "index": 35,
+      "text": "In careful pencil handwriting, it said: 1978.",
+      "start_ms": 117123,
+      "end_ms": 119756
+    },
+    {
+      "index": 36,
+      "text": "From near the west wall.",
+      "start_ms": 119756,
+      "end_ms": 121187
+    },
+    {
+      "index": 37,
+      "text": "Ólafur Ragnarsson, who lived here from 1954 to 1971, was known to hide a spare key for his son who slept out in the field house in summer.",
+      "start_ms": 121187,
+      "end_ms": 129144
+    },
+    {
+      "index": 38,
+      "text": "The son, Bjarni, moved to Canada in 1971 and did not return.",
+      "start_ms": 129144,
+      "end_ms": 132693
+    },
+    {
+      "index": 39,
+      "text": "Jonas took the key carefully.",
+      "start_ms": 132693,
+      "end_ms": 134410
+    },
+    {
+      "index": 40,
+      "text": "It was cold and heavier than it looked.",
+      "start_ms": 134410,
+      "end_ms": 136700
+    },
+    {
+      "index": 41,
+      "text": "\"How do you know all that?\" he asked.",
+      "start_ms": 136700,
+      "end_ms": 138875
+    },
+    {
+      "index": 42,
+      "text": "Aunt Sigrún smiled just a little, at the corner of her mouth.",
+      "start_ms": 138875,
+      "end_ms": 142424
+    },
+    {
+      "index": 43,
+      "text": "\"I ask,\" she said.",
+      "start_ms": 142424,
+      "end_ms": 143512
+    },
+    {
+      "index": 44,
+      "text": "\"When something comes out of the ground, I go into the village and I ask the oldest person still living.",
+      "start_ms": 143512,
+      "end_ms": 149522
+    },
+    {
+      "index": 45,
+      "text": "And they remember.",
+      "start_ms": 149522,
+      "end_ms": 150610
+    },
+    {
+      "index": 46,
+      "text": "Or their mother remembered, and they were told.",
+      "start_ms": 150610,
+      "end_ms": 153358
+    },
+    {
+      "index": 47,
+      "text": "There is very little that is truly forgotten in Iceland.",
+      "start_ms": 153358,
+      "end_ms": 156621
+    },
+    {
+      "index": 48,
+      "text": "It is a small country and it is not in a hurry.\"",
+      "start_ms": 156621,
+      "end_ms": 159483
+    },
+    {
+      "index": 49,
+      "text": "That night Jonas lay awake for a long time.",
+      "start_ms": 159483,
+      "end_ms": 162001
+    },
+    {
+      "index": 50,
+      "text": "His bedroom was tiny and had a small window that looked out at the fjord, and even at midnight the sky was pale, a color that was almost blue and almost silver, and the water was completely still, and the mountains on the other side of the fjord were black and had no lights on them at all.",
+      "start_ms": 162001,
+      "end_ms": 178659
+    },
+    {
+      "index": 51,
+      "text": "He thought about the shelf.",
+      "start_ms": 178659,
+      "end_ms": 180262
+    },
+    {
+      "index": 52,
+      "text": "He thought about all the things that had been lost, and how someone had come and pulled them back out of the ground, one by one, and kept them.",
+      "start_ms": 180262,
+      "end_ms": 188562
+    },
+    {
+      "index": 53,
+      "text": "He thought about his father.",
+      "start_ms": 188562,
+      "end_ms": 190222
+    },
+    {
+      "index": 54,
+      "text": "He thought about him carefully, in the way he had learned to think about him — not too much, not too little.",
+      "start_ms": 190222,
+      "end_ms": 196462
+    },
+    {
+      "index": 55,
+      "text": "His father was named Karl.",
+      "start_ms": 196462,
+      "end_ms": 198007
+    },
+    {
+      "index": 56,
+      "text": "His father had gone on an expedition three years ago, to climb a mountain in the eastern part of Iceland.",
+      "start_ms": 198007,
+      "end_ms": 204075
+    },
+    {
+      "index": 57,
+      "text": "There had been a storm.",
+      "start_ms": 204075,
+      "end_ms": 205449
+    },
+    {
+      "index": 58,
+      "text": "His father had not come back.",
+      "start_ms": 205449,
+      "end_ms": 207166
+    },
+    {
+      "index": 59,
+      "text": "That was what Jonas knew.",
+      "start_ms": 207166,
+      "end_ms": 208654
+    },
+    {
+      "index": 60,
+      "text": "That was what everyone knew.",
+      "start_ms": 208654,
+      "end_ms": 210372
+    },
+    {
+      "index": 61,
+      "text": "He wondered if his mother had chosen this place on purpose.",
+      "start_ms": 210372,
+      "end_ms": 213806
+    },
+    {
+      "index": 62,
+      "text": "He was not sure.",
+      "start_ms": 213806,
+      "end_ms": 214779
+    },
+    {
+      "index": 63,
+      "text": "He did not want to ask.",
+      "start_ms": 214779,
+      "end_ms": 216096
+    }
+  ]
+}

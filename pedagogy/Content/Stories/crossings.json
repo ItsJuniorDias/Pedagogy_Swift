@@ -1,0 +1,167 @@
+{
+  "id": "crossings",
+  "title": "Crossings",
+  "subtitle": "Three Days Over the Andes",
+  "author": null,
+  "summary": "Amaru is twelve, and his great-grandfather Silverio has died in a small village high in the Peruvian Andes. There is no road to the village anymore — a landslide closed it two years ago. Amaru and his father have to walk over the pass, three days at high altitude, to be at the funeral. His father was born in that village and left it as a young man. Amaru has never been. On this trip, he learns what his father left behind, and what he took with him.",
+  "readingTimeMinutes": 16,
+  "coverImage": "story-crossings-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 12-year-old boy (Amaru) with straight black hair, wearing a knitted alpaca cap with earflaps and a heavy woven poncho, walking on a narrow stone path high in the Peruvian Andes at dawn. His father walks a few steps ahead of him, tall, carrying a large canvas pack. Behind them and around them: enormous grey-brown mountain slopes with patches of snow, a deep valley to one side, low grey cloud below the level of the peaks. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream sky (#FFF9F0), grey-brown mountains, deep ink outlines, small dusty rose (#FF5B8D) accent on his cap band and cheeks. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2026-12-24",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Road That Closed",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cr-ch1-p1-news",
+          "imagePrompt": "Mike Mignola style for children: interior of a modest apartment kitchen in Lima, Peru. A father (early forties, quiet face, glasses) sits at the small table holding a mobile phone against his ear, looking very still. A boy (Amaru, 12) stands in the doorway watching him. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The call came on a Tuesday evening in Lima, and Amaru's father was standing by the sink washing dishes when the phone rang. He picked it up. He listened for a long moment. He set the plate he was drying carefully on the counter. He said, in Quechua, three words that Amaru did not understand. Then he sat down at the kitchen table.",
+            "Amaru knew, before his father hung up, that his great-grandfather Silverio had died. He did not know how he knew. He knew from his father's back. His father had been quiet for a long time, and then he had put down the phone, and he had said, in Spanish, \"Amaru. Tayta Silverio has died.\" Amaru sat down at the table too. He had met his great-grandfather only twice in his life — once when Amaru was four, once when he was seven — but he remembered both visits very clearly. Silverio had been a tall thin man with white hair and eyes the color of good coffee, and he had a way of looking at Amaru that made Amaru feel he was being seen carefully, all the way through."
+          ]
+        },
+        {
+          "image": "cr-ch1-p2-map",
+          "imagePrompt": "Mike Mignola style for children: close view. A father's hands (adult, weathered) spread a folded paper map on a wooden table, tracing a route with one finger. Boy's hand (Amaru, 12) rests beside it. The map shows a portion of the Peruvian highlands with a mountain pass marked and a small village labeled on the far side. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"The funeral is Saturday,\" his father said, later that evening. He had spread a paper map on the kitchen table. \"I want to go. He was my grandfather. I want to be there.\" He looked at Amaru. \"I want you to come with me. But it will not be easy. The village is very remote. Two years ago there was a big landslide on the road from Cusco. The government has never rebuilt it. To get to the village now, you have to walk. Over the pass. Three days.\"",
+            "He traced the route with his finger. It went up from the highway, over a mountain pass at almost fifteen thousand feet, and down again into a valley on the other side. A tiny name was written on the far side: Choquepata. That was the village. \"The village where I grew up,\" his father said. \"Where I lived until I was seventeen. Where my father lived, and his father, and his father. Where you have never been.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Can I do it,\" said Amaru. \"The walking.\" His father looked at him for a long moment. \"You are twelve. You are strong. But you have grown up in Lima at sea level. The pass is very high. You will feel it. It will be hard. You may need to stop often. If you cannot make it, we will turn around. That is fine. But I think you can make it. I think you should try.\" He paused. \"I think Tayta Silverio would want you to see the village. Once, at least. Even if only once.\"",
+            "So Amaru said yes. His mother packed for him. His father took his old backpack down from the top of the closet — the one Amaru had not seen for many years, faded green canvas with worn leather straps — and packed it with dried food and a small stove and two heavy wool blankets and a small trowel and a first aid kit and coca leaves. On Wednesday morning they flew to Cusco. On Thursday morning at dawn, they got out of a shared taxi at a bend in a dirt road above a river, and there was no road ahead of them, only a narrow stone path going up into the mountains."
+          ]
+        },
+        {
+          "image": "cr-ch1-p3-start",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at dawn in the high Peruvian Andes. A father and a boy (Amaru, 12) at the beginning of a narrow stone path that winds up into the enormous grey-brown mountain slopes. Cool blue-grey pre-dawn light. Empty of any human structure. Heavy ink outlines, flat shadows, cream and sepia palette with cool grey tones.",
+          "paragraphs": [
+            "\"Ready,\" said his father. Amaru nodded. He was cold and his stomach was tight with nerves. He shouldered his own smaller pack. It had food and clothes and his own blanket in it. His father's pack was much heavier. They started walking. The path was narrow — one person wide — and it climbed steadily. There were no signs. There were no other people. There were, sometimes, small piles of stones stacked at the corners of the path, which his father said were called apachetas. They were made by people who had walked this way before, over hundreds of years, one stone each. His father added a stone to the first one they came to. He said, \"You do that. Every time we pass one. It brings you safely through.\"",
+            "So Amaru did. He added a small flat grey stone to the pile. He said, quietly, \"For safe walking.\" And they went on."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The first day was hard but not too hard. They climbed steadily. Amaru got out of breath easily but he did not have to stop for long. They ate small pieces of dried alpaca meat and hard bread as they walked. They drank water. His father chewed coca leaves and offered some to Amaru, who chewed them too, though he did not really like the taste. It kept the headache away, his father said. That was the important thing.",
+            "They stopped at midafternoon at a flat spot where there was a small stone shelter — three walls and a roof, no door. Someone had built it long ago as a rest for travelers. There was old dry grass in one corner for a bed. There was a fire pit at the front. Amaru sat down and did not want to move again for the rest of his life. His father laughed. \"Yes,\" he said. \"Rest. You did well today. Tomorrow is the hard day. Tomorrow we cross the pass.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Pass",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cr-ch2-p1-morning",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at first light in the high Andes. A father and a boy pack up a small camp near a rough stone shelter. The pre-dawn light is pale and cold. Steam rises from a small pot of tea. Behind them, mountains rise even higher toward a distant pass. Heavy ink outlines, flat shadows, cream and sepia palette with cool blue tones.",
+          "paragraphs": [
+            "They started before dawn. His father woke Amaru gently, brewed water for two small cups of tea, and packed the camp while Amaru drank. They ate a little bread. They started walking in the near-dark. It was extremely cold. Amaru's breath came out in white clouds. His fingers hurt inside his mittens. His father said, \"Walk hard. You will warm up. Walk hard.\" And Amaru walked hard.",
+            "They walked upward for four hours straight. The path became harder — more scree, less grass. There were no more apachetas. There were no plants. There were only rocks and the sound of Amaru's own breath and his father's footsteps in front of him. Amaru could feel the altitude now. His head hurt a little. He was breathing much harder than he had ever breathed. He was determined not to complain."
+          ]
+        },
+        {
+          "image": "cr-ch2-p2-summit",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the top of a high Andes pass. The path crests a rocky saddle between two snowy peaks. In the distance behind: the valley they came from. In the distance ahead: a deep valley on the other side, with the tiny suggestion of a village far below. A father stands with his hand on the shoulder of a boy (Amaru, 12) who has just crested the pass, both looking down. Bright clear high-altitude light. Heavy ink outlines, flat shadows, cream and sepia palette with brilliant cool blue sky.",
+          "paragraphs": [
+            "They crested the pass at midmorning. The wind was very strong. There was a large apacheta at the top, taller than Amaru — a heap of stones that had grown, one at a time, over hundreds of years. His father stood at the top and looked at it for a long moment. Then he took two flat stones out of his pocket. He gave one to Amaru. They each set a stone. \"For safe passage,\" his father said. \"And for Tayta Silverio.\" And then, without saying anything else, his father lifted his arm and pointed forward, into the valley on the other side, which was down below them and full of pale mist. Very far away, and very small, there was a tiny cluster of red-tile roofs.",
+            "\"Choquepata,\" his father said. \"That is where I was born.\" Amaru looked at it. It was so small. From this far away it did not look like a whole world. It looked like a small stack of stones in the bottom of a very big cup. But his father, when Amaru looked at him, had a face Amaru had never seen before. His father was looking at the village. His whole self was looking at the village. Amaru understood then, in a way he had not understood before, that his father had not just come from somewhere. He had come from somewhere specific, and he had left it, and he had lived far from it for thirty years, and now he was going back."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They started down. Going down was harder on Amaru's knees but easier on his breathing, and the altitude got lower as they descended. His father talked more that afternoon than he had all morning. He pointed at things. \"That mountain, over there — we called that Rimac Waskar. It looks like a person lying down. See the head. See the arm. There is a story about him — how he laid down to sleep at the end of the last age and never woke up.\" He pointed at a scattering of white shapes on a high slope. \"Vicuñas. Wild. Do not scare them. They belong to the mountain, my grandmother used to say.\"",
+            "\"Papá,\" said Amaru, as they walked. \"Why did you leave.\" His father was quiet for a while. Then he said, \"I left because I wanted to study. There was no school in the village past the age of ten. My father took me to Cusco when I was seventeen and I stayed. I did secondary school. Then university. Then I met your mother. I built a life in Lima. It was — I did not decide once. I decided many times, in small pieces. To stay a little longer. To take a job. To marry. And by the time I noticed, I had been gone for twenty years. Then thirty.\" He looked at Amaru. \"I did not stop being from here. I only added another place. That is what I want you to understand, Amaru. You can be from more than one place.\""
+          ]
+        },
+        {
+          "image": "cr-ch2-p4-descent",
+          "imagePrompt": "Mike Mignola style for children: exterior scene late afternoon. A father and boy walking down a lower path in the Andes, now at a level with some scattered wildflowers and low grass. In the middle distance: a small stone hut with smoke rising from a chimney. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "That night they stayed with a family in a small stone hut about halfway down. Two brothers and their wives and children, three generations under one roof, growing potatoes on a small terraced field. His father knew them. They had been children together, before he had left. There was a lot of talking that night — some in Spanish, some in Quechua that Amaru did not understand very well. They ate a hot soup with quinoa and small red potatoes. Amaru was very tired. He fell asleep on a mat on the floor while the adults were still talking.",
+            "He half-woke, sometime in the middle of the night. His father was still up. He was sitting near the fire with one of the brothers. They were speaking quietly in Quechua. His father was crying, though not making sounds — just tears running down his face while he talked. Amaru had never seen his father cry before. Amaru did not move. He watched for maybe two minutes, and then he closed his eyes again, and he fell back asleep, and he did not tell his father in the morning that he had seen this. He thought some things were not for talking about. He thought this was one of them."
+          ]
+        },
+        {
+          "image": "cr-ch2-p5-village",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at midmorning of the small Andean village of Choquepata: a cluster of stone houses with red-tile roofs, a small church with a stone bell tower, a central plaza with a stone cross. Villagers in traditional dress standing outside the church. A father and boy (Amaru, 12) walk into the plaza from a path down the mountain. Warm sun. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They walked into Choquepata at midmorning on Saturday. The village was smaller than Amaru had expected — maybe forty houses arranged around a small plaza with a stone cross in the middle and a small stone church at one end. Many people were standing in the plaza in their good clothes. A funeral was clearly under way. When Amaru and his father came into the plaza, one of the older women recognized his father and gave a small cry, and then people started coming toward them. His father was hugged by people he had not seen in thirty years. Some of them were crying. Some of them were laughing. Amaru stood a little to the side, holding his pack. He did not know what to do. He was very tired.",
+            "One old woman came over to him. She was small and had a very lined face. She looked at him for a long time. Then she said something in Quechua. She waited. Then she reached out and cupped his cheek with her hand, which was warm and dry. She said, in Spanish, \"You look exactly like your great-grandfather. Exactly. When he was your age. You look exactly like him.\" And she smiled. And Amaru understood then why his father had wanted him to come. To meet these people. To let these people meet him."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "What Was Kept",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cr-ch3-p1-funeral",
+          "imagePrompt": "Mike Mignola style for children: interior of a small stone Andean church, warm candlelight, a simple wooden coffin at the front decorated with flowers. Villagers seated on wooden benches, dressed in traditional clothing. A father and boy (Amaru, 12) sit in the front row. A priest speaks quietly. Heavy ink outlines, flat shadows, cream and sepia palette with warm candle gold.",
+          "paragraphs": [
+            "The funeral was in the small stone church. Tayta Silverio's coffin was made of unfinished wood and was covered in mountain flowers. The whole village was there — maybe eighty people. The priest spoke in Quechua and Spanish. There was singing. Amaru did not understand most of the words but he understood the singing. It was low and slow and heavy, like something being carefully carried. He held his father's hand. His father held it back. His father's eyes were wet but he did not cry openly.",
+            "After the service they walked in a procession up the hillside behind the church, to a small terraced cemetery cut into the mountain. Amaru had never seen a cemetery like it. Each grave was marked with a small stone house, or a wooden cross, and the whole thing was arranged in tiers going up the slope. Tayta Silverio's grave was near the top, next to the grave of his wife, who had died fifteen years before. His father helped the other men lower the coffin. They put flowers on top of the fresh earth. They put a small candle. They sang one more song. And then, one by one, everyone came forward and placed a small stone on the grave. Amaru placed his. His father placed his. The last person to place a stone was the oldest man in the village, who was Silverio's cousin, and who was ninety-three."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "That afternoon there was a feast at Silverio's house — the house where Amaru's father had grown up. Amaru had never been inside it before. It was small and dark and smelled of woodsmoke, and there was a low fire burning in a stone hearth in one corner, and there were bright woven blankets on the beds and the walls. Everyone was crowded in. There was chicha, which was a fermented corn drink, and there was food — lots of food — and there was talking and laughing that Amaru could not follow. He sat in a corner with a plate of food and ate. He watched his father move through the room. His father seemed to know everyone, and everyone seemed to know his father, and Amaru saw, again and again, his father hug people and be hugged back.",
+            "After a while an old man came over to Amaru. He sat down next to him. He had a small carved wooden box in his hand. \"You are Amaru,\" he said. \"You are Manuel's boy. I am your grandfather's brother. Do you know me. Have you heard of me.\" Amaru did not know him. But he nodded politely. The old man smiled. \"That is all right. You would not remember. I saw you when you were small. You had very small hands. Now they are big.\" He held out the wooden box. \"Silverio left this for you. He asked me to give it to you when you came. He knew you would come.\""
+          ]
+        },
+        {
+          "image": "cr-ch3-p3-gift",
+          "imagePrompt": "Mike Mignola style for children: close view. A boy (Amaru, 12) sits by the low fire in the dark stone house holding a small carved wooden box on his lap, open. Inside: a small flat black stone with a carved pattern on it, and a small folded piece of paper. Warm firelight illuminating his face and hands. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold.",
+          "paragraphs": [
+            "Amaru took the box. He opened it. Inside there were two things: a small flat black stone with a carved pattern on one side — a kind of spiral — and a folded piece of paper. Amaru unfolded the paper. It was a short note, in careful Spanish. He read it slowly.",
+            "Amaru, my great-grandson. This stone was my grandfather's, and his grandfather's before him. It is very old. Nobody now knows exactly what the pattern means. It is not important that we know. It is important that we keep it. Every child in this family, when they are ready, gets this stone for one week to hold and think about. Then they give it back and it is kept safe until the next child. When you go home to Lima, take it with you. Hold it for one week. Think about where it came from. Then send it back to my brother, who will keep it for the next one. — Tayta Silverio."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Amaru sat for a while with the small stone in his palm. It was cool. It fit his palm exactly. He closed his fingers around it. The old man beside him watched patiently and did not talk. Amaru said, quietly, \"Did my papá get to hold this too, when he was young.\" \"Yes,\" said the old man. \"When he was your age. He held it for one week. Then he gave it back. Now it is your turn. When your children are old enough, they will hold it too. If you have children. Or you can pass it to your sister's children, if you like. Silverio did not care who. Only that it kept going.\"",
+            "Amaru put the stone back in the box, gently, and put the note on top of it, and closed the box. He held the box in both hands. His father came over then, and sat down beside him, and looked at the box. Amaru said, \"He gave me this.\" His father nodded slowly. He said, \"I remember. I had it for one week when I was twelve. I sat on the roof of this house every evening that week and I held it in my hand and I thought about what he wanted me to think about. Which was — nothing specific. Just to sit with it. I did not know what it meant to sit with something then. Now I do.\""
+          ]
+        },
+        {
+          "image": "cr-ch3-p5-return",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A father and a boy (Amaru, 12) walk together back up the mountain path, heading toward the pass. The village is behind them below, small in the distance. Bright cool morning light. The boy's hand is closed around something small in his pocket. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They stayed in Choquepata for two more days. On Monday morning they started back. Going back was somehow easier — Amaru's body was more used to it, and the pass did not feel as far. On the way up, on the second morning, when they passed the great apacheta at the top of the pass, his father added a stone. Amaru added a stone. His father said, \"For Tayta Silverio's safe passage.\" Amaru said, \"For safe passage.\" And they went on down the other side.",
+            "In his pocket, in the small wooden box, was the stone. Amaru kept his hand on it, sometimes, as they walked. He thought about the fact that he was going back to Lima, which was a place his father had chosen, but that a small piece of Choquepata was coming with him, and that in a week he would send it back so it could keep waiting for the next child. He thought about his father's words at the top of the pass. You can be from more than one place. He had not fully understood then. He understood now. He was from Lima. He was also, now, from Choquepata. He always would be. And someday, when he was older and had his own children, he would take them back over the pass, if there was still no road, and he would show them the small stone house at the top of the terraced cemetery, and he would tell them who was buried there, and why they had come."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "father",
+    "peru",
+    "andes",
+    "heritage"
+  ]
+}

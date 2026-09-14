@@ -1,0 +1,631 @@
+{
+  "story_id": "fjord-shepherd",
+  "chapter": 2,
+  "total_duration_ms": 368160,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "They walked the pasture in a slow loop.",
+      "start_ms": 2126,
+      "end_ms": 4628
+    },
+    {
+      "index": 1,
+      "text": "Ólafur counted.",
+      "start_ms": 4628,
+      "end_ms": 5628
+    },
+    {
+      "index": 2,
+      "text": "He knew almost every sheep individually — from their ear-marks and the small differences in their faces.",
+      "start_ms": 5628,
+      "end_ms": 12195
+    },
+    {
+      "index": 3,
+      "text": "Signe walked with him and helped when he asked, but mostly she watched him work.",
+      "start_ms": 12195,
+      "end_ms": 17260
+    },
+    {
+      "index": 4,
+      "text": "He was very calm.",
+      "start_ms": 17260,
+      "end_ms": 18386
+    },
+    {
+      "index": 5,
+      "text": "The sheep let him touch them without moving away.",
+      "start_ms": 18386,
+      "end_ms": 21575
+    },
+    {
+      "index": 6,
+      "text": "By the time they had walked the full loop it was nearly ten.",
+      "start_ms": 21575,
+      "end_ms": 25390
+    },
+    {
+      "index": 7,
+      "text": "The wind had risen and the cloud on the western horizon was noticeably closer.",
+      "start_ms": 25390,
+      "end_ms": 30330
+    },
+    {
+      "index": 8,
+      "text": "Ólafur had counted two hundred and ninety-two sheep.",
+      "start_ms": 30330,
+      "end_ms": 33644
+    },
+    {
+      "index": 9,
+      "text": "There should have been three hundred.",
+      "start_ms": 33644,
+      "end_ms": 36021
+    },
+    {
+      "index": 10,
+      "text": "Eight were somewhere.",
+      "start_ms": 36021,
+      "end_ms": 37396
+    },
+    {
+      "index": 11,
+      "text": "He was not too worried about seven of them — those were younger, gregarious sheep who tended to stay near the flock, and were probably in one of the folds he had not been able to see into.",
+      "start_ms": 37396,
+      "end_ms": 49216
+    },
+    {
+      "index": 12,
+      "text": "But Ester was not with the flock.",
+      "start_ms": 49216,
+      "end_ms": 51342
+    },
+    {
+      "index": 13,
+      "text": "And Ester was always with the flock at bad-weather times.",
+      "start_ms": 51342,
+      "end_ms": 54969
+    },
+    {
+      "index": 14,
+      "text": "That was what she did.",
+      "start_ms": 54969,
+      "end_ms": 56470
+    },
+    {
+      "index": 15,
+      "text": "Ólafur put his hand up to shield his eyes and looked up the ridge, above the pasture, to where the ground rose steeply into rock.",
+      "start_ms": 56470,
+      "end_ms": 64600
+    },
+    {
+      "index": 16,
+      "text": "About a hundred and fifty meters up, running across the face, was a narrow ledge trail Signe had not noticed before.",
+      "start_ms": 64600,
+      "end_ms": 71916
+    },
+    {
+      "index": 17,
+      "text": "\"There is a small side ledge up there,\" Ólafur said.",
+      "start_ms": 71916,
+      "end_ms": 75231
+    },
+    {
+      "index": 18,
+      "text": "\"A crack in the rock, half-hidden.",
+      "start_ms": 75231,
+      "end_ms": 77419
+    },
+    {
+      "index": 19,
+      "text": "There is grass on it.",
+      "start_ms": 77419,
+      "end_ms": 78795
+    },
+    {
+      "index": 20,
+      "text": "Very sweet grass — a small alpine mustard grows only there.",
+      "start_ms": 78795,
+      "end_ms": 82547
+    },
+    {
+      "index": 21,
+      "text": "Ester goes up sometimes to eat it.",
+      "start_ms": 82547,
+      "end_ms": 84736
+    },
+    {
+      "index": 22,
+      "text": "She is the only one of the flock who knows.",
+      "start_ms": 84736,
+      "end_ms": 87488
+    },
+    {
+      "index": 23,
+      "text": "She showed her mother once and her mother showed her.",
+      "start_ms": 87488,
+      "end_ms": 90865
+    },
+    {
+      "index": 24,
+      "text": "She has never taken any of the others.\" He looked at Signe.",
+      "start_ms": 90865,
+      "end_ms": 94617
+    },
+    {
+      "index": 25,
+      "text": "\"If she is up there and the storm comes hard, she cannot get back down the ledge in the wet.",
+      "start_ms": 94617,
+      "end_ms": 100433
+    },
+    {
+      "index": 26,
+      "text": "It is too narrow.",
+      "start_ms": 100433,
+      "end_ms": 101558
+    },
+    {
+      "index": 27,
+      "text": "I am going up.",
+      "start_ms": 101558,
+      "end_ms": 102496
+    },
+    {
+      "index": 28,
+      "text": "It will take an hour.",
+      "start_ms": 102496,
+      "end_ms": 103872
+    },
+    {
+      "index": 29,
+      "text": "You can wait here in the shepherd's shelter\" — he pointed to a small stone hut Signe had not noticed, tucked into the base of the rock face — \"or you can come with me.",
+      "start_ms": 103872,
+      "end_ms": 114378
+    },
+    {
+      "index": 30,
+      "text": "If you come, you follow me exactly.",
+      "start_ms": 114378,
+      "end_ms": 116629
+    },
+    {
+      "index": 31,
+      "text": "You do not step where I have not stepped.\"",
+      "start_ms": 116629,
+      "end_ms": 119256
+    },
+    {
+      "index": 32,
+      "text": "Signe thought for perhaps three seconds.",
+      "start_ms": 119256,
+      "end_ms": 121828
+    },
+    {
+      "index": 33,
+      "text": "She said, \"I come.\" Ólafur nodded.",
+      "start_ms": 121828,
+      "end_ms": 124023
+    },
+    {
+      "index": 34,
+      "text": "He handed her his staff.",
+      "start_ms": 124023,
+      "end_ms": 125591
+    },
+    {
+      "index": 35,
+      "text": "\"You carry this.",
+      "start_ms": 125591,
+      "end_ms": 126657
+    },
+    {
+      "index": 36,
+      "text": "I take the pack.",
+      "start_ms": 126657,
+      "end_ms": 127724
+    },
+    {
+      "index": 37,
+      "text": "If I need it back I will tell you.",
+      "start_ms": 127724,
+      "end_ms": 129919
+    },
+    {
+      "index": 38,
+      "text": "Come.\"",
+      "start_ms": 129919,
+      "end_ms": 130421
+    },
+    {
+      "index": 39,
+      "text": "The climb up to the ledge was harder than the climb from the farm.",
+      "start_ms": 130421,
+      "end_ms": 134623
+    },
+    {
+      "index": 40,
+      "text": "There was no trail, exactly — just a route Ólafur knew, following small rock steps and grass patches diagonally up the face.",
+      "start_ms": 134623,
+      "end_ms": 142463
+    },
+    {
+      "index": 41,
+      "text": "He went slowly and stopped often to make sure Signe was still behind him.",
+      "start_ms": 142463,
+      "end_ms": 147105
+    },
+    {
+      "index": 42,
+      "text": "He never rushed her.",
+      "start_ms": 147105,
+      "end_ms": 148422
+    },
+    {
+      "index": 43,
+      "text": "The wind grew harder as they climbed.",
+      "start_ms": 148422,
+      "end_ms": 150806
+    },
+    {
+      "index": 44,
+      "text": "Twice, Signe was frightened enough that she nearly asked to go back.",
+      "start_ms": 150806,
+      "end_ms": 155133
+    },
+    {
+      "index": 45,
+      "text": "Both times she did not, because Ólafur was frightened too — she could see it in the concentration of his face — but Ólafur was going up anyway, because Ester was up there.",
+      "start_ms": 155133,
+      "end_ms": 165922
+    },
+    {
+      "index": 46,
+      "text": "And Signe wanted to be someone who went up anyway.",
+      "start_ms": 165922,
+      "end_ms": 169183
+    },
+    {
+      "index": 47,
+      "text": "About forty minutes in, they reached the ledge.",
+      "start_ms": 169183,
+      "end_ms": 172194
+    },
+    {
+      "index": 48,
+      "text": "It ran across the face of the cliff for perhaps sixty meters, no wider than a person's shoulders in most places.",
+      "start_ms": 172194,
+      "end_ms": 179282
+    },
+    {
+      "index": 49,
+      "text": "On one side, the rock wall.",
+      "start_ms": 179282,
+      "end_ms": 181038
+    },
+    {
+      "index": 50,
+      "text": "On the other, a two-hundred-meter drop to the fjord below.",
+      "start_ms": 181038,
+      "end_ms": 184739
+    },
+    {
+      "index": 51,
+      "text": "Ólafur said, quietly, \"Now the important part.",
+      "start_ms": 184739,
+      "end_ms": 187687
+    },
+    {
+      "index": 52,
+      "text": "You stay against the wall.",
+      "start_ms": 187687,
+      "end_ms": 189380
+    },
+    {
+      "index": 53,
+      "text": "You watch every step I take.",
+      "start_ms": 189380,
+      "end_ms": 191199
+    },
+    {
+      "index": 54,
+      "text": "Where I put my foot, you put yours.",
+      "start_ms": 191199,
+      "end_ms": 193457
+    },
+    {
+      "index": 55,
+      "text": "Do not look down.",
+      "start_ms": 193457,
+      "end_ms": 194586
+    },
+    {
+      "index": 56,
+      "text": "If the wind gusts hard, drop to your hands and knees and stay.",
+      "start_ms": 194586,
+      "end_ms": 198538
+    },
+    {
+      "index": 57,
+      "text": "It will pass.",
+      "start_ms": 198538,
+      "end_ms": 199416
+    },
+    {
+      "index": 58,
+      "text": "Understand?\" Signe understood.",
+      "start_ms": 199416,
+      "end_ms": 201360
+    },
+    {
+      "index": 59,
+      "text": "She had never in her life been more focused.",
+      "start_ms": 201360,
+      "end_ms": 204120
+    },
+    {
+      "index": 60,
+      "text": "They found her about halfway along the ledge.",
+      "start_ms": 204120,
+      "end_ms": 207399
+    },
+    {
+      "index": 61,
+      "text": "She was lying on her side against the rock wall, one of her back legs bent at a wrong angle.",
+      "start_ms": 207399,
+      "end_ms": 214028
+    },
+    {
+      "index": 62,
+      "text": "She was breathing hard but she was alive.",
+      "start_ms": 214028,
+      "end_ms": 217021
+    },
+    {
+      "index": 63,
+      "text": "When she saw Ólafur, she made a small quiet bleat and then was still.",
+      "start_ms": 217021,
+      "end_ms": 222011
+    },
+    {
+      "index": 64,
+      "text": "She was too tired to move.",
+      "start_ms": 222011,
+      "end_ms": 223935
+    },
+    {
+      "index": 65,
+      "text": "Ólafur crouched beside her.",
+      "start_ms": 223935,
+      "end_ms": 225931
+    },
+    {
+      "index": 66,
+      "text": "He put his hand on her head.",
+      "start_ms": 225931,
+      "end_ms": 227998
+    },
+    {
+      "index": 67,
+      "text": "He was quiet for a long moment.",
+      "start_ms": 227998,
+      "end_ms": 230279
+    },
+    {
+      "index": 68,
+      "text": "Then he said to Signe, over his shoulder, without looking away from the sheep, \"She has fallen.",
+      "start_ms": 230279,
+      "end_ms": 237122
+    },
+    {
+      "index": 69,
+      "text": "She was reaching for the mustard higher up and lost her footing.",
+      "start_ms": 237122,
+      "end_ms": 241755
+    },
+    {
+      "index": 70,
+      "text": "Her back leg is broken, mid-shin.",
+      "start_ms": 241755,
+      "end_ms": 244178
+    },
+    {
+      "index": 71,
+      "text": "Not compound — the skin is not broken.",
+      "start_ms": 244178,
+      "end_ms": 246958
+    },
+    {
+      "index": 72,
+      "text": "If I can splint it and get her down, she may recover.",
+      "start_ms": 246958,
+      "end_ms": 250807
+    },
+    {
+      "index": 73,
+      "text": "If I leave her here, she will not survive tonight.",
+      "start_ms": 250807,
+      "end_ms": 254442
+    },
+    {
+      "index": 74,
+      "text": "So we do not leave her.\"",
+      "start_ms": 254442,
+      "end_ms": 256295
+    },
+    {
+      "index": 75,
+      "text": "The first heavy drops of rain began to fall.",
+      "start_ms": 256295,
+      "end_ms": 259503
+    },
+    {
+      "index": 76,
+      "text": "Ólafur looked up at the sky.",
+      "start_ms": 259503,
+      "end_ms": 261570
+    },
+    {
+      "index": 77,
+      "text": "He said, \"We cannot get down the way we came, not in wet, not with her.",
+      "start_ms": 261570,
+      "end_ms": 266702
+    },
+    {
+      "index": 78,
+      "text": "There is a summer seter — an old shepherd's hut — on the upper ridge, ten minutes further along the ledge.",
+      "start_ms": 266702,
+      "end_ms": 274329
+    },
+    {
+      "index": 79,
+      "text": "My father used to sleep there when he was young.",
+      "start_ms": 274329,
+      "end_ms": 277821
+    },
+    {
+      "index": 80,
+      "text": "It is still standing.",
+      "start_ms": 277821,
+      "end_ms": 279389
+    },
+    {
+      "index": 81,
+      "text": "We take her there.",
+      "start_ms": 279389,
+      "end_ms": 280744
+    },
+    {
+      "index": 82,
+      "text": "We wait out the storm.",
+      "start_ms": 280744,
+      "end_ms": 282383
+    },
+    {
+      "index": 83,
+      "text": "We come down in the morning.\" He looked at Signe.",
+      "start_ms": 282383,
+      "end_ms": 285947
+    },
+    {
+      "index": 84,
+      "text": "\"Are you all right?\" Signe said, \"Yes.\" She said it with a small voice, but she said it.",
+      "start_ms": 285947,
+      "end_ms": 292291
+    },
+    {
+      "index": 85,
+      "text": "Ólafur said, \"Good.",
+      "start_ms": 292291,
+      "end_ms": 293716
+    },
+    {
+      "index": 86,
+      "text": "Give me the staff.",
+      "start_ms": 293716,
+      "end_ms": 295070
+    },
+    {
+      "index": 87,
+      "text": "Then take the pack.\"",
+      "start_ms": 295070,
+      "end_ms": 296496
+    },
+    {
+      "index": 88,
+      "text": "Ólafur splinted Ester's leg quickly with two thin sticks from the pack and a length of rope.",
+      "start_ms": 296496,
+      "end_ms": 303161
+    },
+    {
+      "index": 89,
+      "text": "Then he lifted her onto his shoulders in the old shepherd's carry — a way of lifting a sheep so its weight was balanced across the back and its four legs were held together in front.",
+      "start_ms": 303161,
+      "end_ms": 316275
+    },
+    {
+      "index": 90,
+      "text": "Signe had seen him do this with lambs many times.",
+      "start_ms": 316275,
+      "end_ms": 319858
+    },
+    {
+      "index": 91,
+      "text": "Ester was much bigger.",
+      "start_ms": 319858,
+      "end_ms": 321507
+    },
+    {
+      "index": 92,
+      "text": "It was hard work.",
+      "start_ms": 321507,
+      "end_ms": 322797
+    },
+    {
+      "index": 93,
+      "text": "When he stood up, he swayed slightly, and then found his balance, and then said, \"Signe.",
+      "start_ms": 322797,
+      "end_ms": 329175
+    },
+    {
+      "index": 94,
+      "text": "You go first.",
+      "start_ms": 329175,
+      "end_ms": 330178
+    },
+    {
+      "index": 95,
+      "text": "Along the wall.",
+      "start_ms": 330178,
+      "end_ms": 331325
+    },
+    {
+      "index": 96,
+      "text": "Same rules.",
+      "start_ms": 331325,
+      "end_ms": 332185
+    },
+    {
+      "index": 97,
+      "text": "I follow.",
+      "start_ms": 332185,
+      "end_ms": 332901
+    },
+    {
+      "index": 98,
+      "text": "Slowly.\" And they went.",
+      "start_ms": 332901,
+      "end_ms": 334621
+    },
+    {
+      "index": 99,
+      "text": "The rain fell harder.",
+      "start_ms": 334621,
+      "end_ms": 336198
+    },
+    {
+      "index": 100,
+      "text": "Somewhere across the fjord, a low thunder rolled.",
+      "start_ms": 336198,
+      "end_ms": 339781
+    },
+    {
+      "index": 101,
+      "text": "Signe walked one foot at a time along the ledge, her hand against the wet rock, the old staff in the other, her uncle behind her carrying an eight-year-old ewe on his shoulders in the beginning of a mountain storm.",
+      "start_ms": 339781,
+      "end_ms": 355189
+    },
+    {
+      "index": 102,
+      "text": "She was not brave, exactly.",
+      "start_ms": 355189,
+      "end_ms": 357195
+    },
+    {
+      "index": 103,
+      "text": "She was determined, which was different, and which she would remember, later, as the first time in her life she had known the difference between the two.",
+      "start_ms": 357195,
+      "end_ms": 368160
+    }
+  ]
+}

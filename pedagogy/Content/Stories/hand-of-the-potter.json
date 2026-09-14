@@ -1,0 +1,166 @@
+{
+  "id": "hand-of-the-potter",
+  "title": "The Hand of the Potter",
+  "subtitle": "Two Weeks in Ourense",
+  "author": null,
+  "summary": "Rafael is ten and spends two weeks each summer with his grandfather in Ourense, in Galicia, where his grandfather has been a potter for fifty years. Rafael has spent years watching him work but has never touched the clay. This summer, his grandfather says it is time. But first, before Rafael can shape anything, he has to learn to listen to what the clay is already saying.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-hand-of-the-potter-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old boy (Rafael) with dark brown hair, wearing a linen shirt with rolled sleeves and a leather apron, sitting at a wooden potter's wheel in a stone-walled Galician workshop. His hands are cupped around a spinning lump of grey clay, guided by the larger weathered hands of his grandfather (Avôlo, seventies, silver hair, dark eyes) who stands behind him. Warm afternoon light through a small arched window. Behind them: wooden shelves of finished pots, glazes in small jars, dry stone walls. Character positioned center-left, filling roughly 35% of frame height. Palette: warm cream (#FFF9F0), sepia clay and stone, deep ink outlines, small dusty rose (#FF5B8D) accent on the pot glaze. Small margin at top and bottom for card padding.",
+  "category": "wonder",
+  "isPremium": true,
+  "publishedAt": "2027-03-25",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Listening",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hp-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small stone house in the old town of Ourense, Galicia. Narrow cobbled street of medieval buildings. Warm afternoon light. An older man (Avôlo, seventies, silver hair, in a leather apron) stands at the door with a warm smile. A boy (Rafael, 10, dark hair, small suitcase) approaches. Heavy black ink outlines, flat shadows, cream and sepia palette with muted stone tones.",
+          "paragraphs": [
+            "Rafael's grandfather lived in a small stone house in the old town of Ourense, in the far northwest of Spain, in the region called Galicia. Rafael called him Avôlo — Galician for grandfather, not the Spanish abuelo — because his grandfather had insisted on the Galician word from the day Rafael was born. Avôlo had lived in the same small house for fifty-three years. His workshop was in what had once been the stables at the back of the house, opening onto a small stone courtyard where he had a wheel and a small wood-fired kiln.",
+            "Rafael was ten. He came to stay with Avôlo every summer for two weeks in July, and he had done so for as long as he could remember. His parents both worked, and it was easier if he was somewhere for those weeks, and everyone in the family agreed that being at Avôlo's was better than any summer camp. Rafael did not disagree. He loved Ourense. He loved the old town, which had streets so narrow that when it rained you could stretch your arms and touch both walls at once. He loved the way Avôlo cooked eggs with paprika. He loved the workshop most of all."
+          ]
+        },
+        {
+          "image": "hp-ch1-p2-workshop",
+          "imagePrompt": "Mike Mignola style for children: interior view of a small potter's workshop. High wooden shelves along the walls hold rows of small finished bowls, cups, and vases in muted glazes. A large wooden potter's wheel in the center. A workbench with tools. A small wood-fired kiln in the corner. Warm afternoon light through a small arched window. Not people, just the space. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The workshop had always been a place Rafael was allowed to be in but not really allowed to touch. He had spent hours sitting on a small wooden stool watching Avôlo work. He knew, from watching, roughly how a pot was made — you took a lump of clay, you centered it on the wheel, you opened it with your thumbs, you drew the walls up with your fingers. He had watched Avôlo do it thousands of times. He had never done it himself. Once, when he was seven, he had asked. Avôlo had said, \"Not yet, Rafael. When you are older.\" That had been the answer for three years. Every summer he asked, and every summer Avôlo said not yet.",
+            "But this summer was different. On the first evening, at supper — they were eating a simple potato-and-onion tortilla that Avôlo had made — Avôlo put down his fork and said, \"Rafael. This summer I want to teach you something. I want to teach you to work with clay. If you still want.\" Rafael sat up straight. He said, \"Really?\" \"Really,\" said Avôlo. \"You are ten now. That is a good age. Not too young. But not so old that you already think you know things. But there is one rule. You do not touch the wheel until I say. First we do something else. First we listen.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Listen to what,\" Rafael asked. Avôlo smiled his small quiet smile. He said, \"That is the whole first week. You have watched me for years, Rafael. You have watched how I move the clay. You have not watched what I am listening to while I move it. I am listening to the clay. Not with my ears — with my hands. Clay has things to tell you. What kind of clay it is. How wet it is. Where the air bubbles are. Where the grain is. Every lump is different. If you shape a lump without listening to what it is trying to be, you fight it, and it fights you, and everyone loses. If you listen first, the lump will show you what it wants. And then you help it become that.\"",
+            "Rafael tried to understand this. He said, \"Is this like — a Galician thing.\" Avôlo laughed. He said, \"No. Not a Galician thing. Every good potter in the world knows this. Some just call it something else. Some call it — feeling. Some call it — patience. Some do not have a word for it. I call it listening because that is what it feels like to me. Come. Tomorrow morning we start. Bring your hands and your patience and nothing else. You will not need anything else.\""
+          ]
+        },
+        {
+          "image": "hp-ch1-p4-first-lesson",
+          "imagePrompt": "Mike Mignola style for children: interior workshop scene. Avôlo (seventies) has placed three lumps of clay on a wooden table in front of Rafael (10). Rafael sits at a wooden stool, both hands hovering above one of the lumps, eyes closed, concentrating. Avôlo watches quietly. Warm morning light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The next morning, at nine o'clock, Rafael went to the workshop. Avôlo was already there. He had put three lumps of clay on a wooden table. Three fist-sized lumps, all grey, all slightly different. He said, \"Sit. Look. Do not touch yet. Just look at them. Tell me what you see.\" Rafael sat. He looked. He said, \"They are all grey. They look the same.\" Avôlo said, \"Look longer.\" Rafael looked longer. After maybe two minutes he said, \"That one is a little darker. That one is a little smaller. That one has a small pale streak in it.\" \"Better,\" said Avôlo. \"Now touch. Only touch. Do not squeeze, do not lift, do not shape. Just — put your hand on each one. Feel it. Take your time. What is it telling you?\"",
+            "Rafael put his hand on the first lump. It was cool. Damp. It gave a little under his palm — soft. He touched the second. This one was slightly firmer. Slightly less damp. He touched the third. This one was cool and damp like the first, but it had a small tight spot inside it that his hand could feel, even though he could not see it from outside. \"That one has a — something hard in it,\" he said. \"Like a bit of stone.\" Avôlo nodded. \"Yes. That is an air pocket, actually — feels like stone but it is dry harder clay around a bubble. That would be a problem in the kiln. It would explode. Come, let us take that one apart and knead it.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "So they kneaded the third lump together. Avôlo showed him how — the potter's kneading was different from bread kneading. It was more like folding. You had to work all the air out. You had to feel with your hands where the air pockets were and push them out. After maybe fifteen minutes Rafael had kneaded the lump enough that his hand could no longer find any hard spots.",
+            "\"Good,\" said Avôlo. \"That is your first job as a potter. You did it well. Now tomorrow we do this again, with three new lumps. And the day after that. All week. Until your hands know clay so well that you can tell by touching whether a lump is going to give you trouble. Only then do we go to the wheel. Is that all right?\" Rafael nodded. He was not disappointed. He was — he realized — a little excited. He had felt the air pocket. He had known something was wrong without seeing it. That was already something he had not been able to do the day before."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Wheel",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hp-ch2-p1-wheel-first",
+          "imagePrompt": "Mike Mignola style for children: interior workshop scene. Rafael (10) sits at the potter's wheel for the first time. His hands are on a spinning lump of clay, water dripping from a small bowl. His face is intensely focused. Avôlo (seventies) stands beside him, watching, one hand hovering nearby but not touching. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the second week Avôlo let Rafael sit at the wheel. He showed him how to center a lump of clay — how to place it firmly, how to push down with both hands as it spun, how to feel when it was true. It was much harder than it looked. Rafael's first lump wobbled and flew off the wheel. His second lump collapsed. His third lump would not center — it kept trying to spin off to one side. \"You are fighting it,\" Avôlo said, patient. \"Stop pushing so hard. Let your hands move with it. Do not try to force it into the shape you want. Feel where it wants to be, and guide it there.\"",
+            "Rafael slowed down. He breathed. He tried again. On the fourth try, the lump centered. It sat still on the wheel, spinning, but not moving from its axis. It was — he felt it — a completely different feeling. Almost as if the wheel had disappeared and there was only him and the clay and a quiet space between them. Avôlo said, softly, \"Yes. Now. Do not lose it. Just breathe. Feel that? That is what centered feels like. Now — thumbs. In the middle. Push down.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Rafael pushed his thumbs into the top of the spinning lump. He opened it up — a small dip that widened as the wheel spun. Then, with his fingers on the outside and his other hand on the inside, he began — very slowly — to draw the walls up. This was harder than centering. If he pulled unevenly, the walls got thin on one side and the whole pot leaned. If he pulled too fast, the walls tore. If he pulled too slowly, the clay got too dry and cracked. Twice his first attempt failed. On the third try, he got a small crooked bowl — maybe seven centimeters wide, five tall, walls uneven. It stayed standing when he stopped the wheel.",
+            "He looked at Avôlo. Avôlo was looking at the bowl with a small smile. He said, \"That is your first bowl, Rafael. It is not a pretty bowl. But it is a real bowl. You made it. Now we cut it off the wheel and set it aside. Tomorrow it will be dry enough to trim. Then we fire it. Then it is yours.\""
+          ]
+        },
+        {
+          "image": "hp-ch2-p3-progress",
+          "imagePrompt": "Mike Mignola style for children: interior workshop scene. Rafael (10) is at the wheel again, this time visibly more confident, his shoulders relaxed. A small collection of finished shapes on the shelf behind him. Warm afternoon light through the arched window. Avôlo (seventies) works at his own wheel across the room. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "For the rest of the week Rafael worked at the wheel every morning. He got better slowly. His pots stopped collapsing. His walls got more even. On the fifth day, he made a bowl that Avôlo said was actually acceptable — not just beginner acceptable, but real acceptable. Rafael was proud. He was also — he noticed — tired. Working with clay took much more of him than he had expected. His arms hurt. His back hurt. His mind was quiet in a way he was not used to. When he stopped working, at the end of a morning, and went outside to the courtyard for water, he felt like he had been somewhere else, and he was slowly coming back.",
+            "\"Avôlo,\" he asked, one afternoon, when they were sitting in the courtyard eating oranges. \"Why do you love this. You have done it for fifty years. Do you not get tired of it.\" Avôlo peeled his orange slowly. He said, \"Rafael. Have I ever told you why I became a potter.\" \"No,\" said Rafael. \"Not properly.\" Avôlo said, \"My mother died when I was your age. Ten years old. She was sick for six months. In those six months I was — I did not know what to do with myself. There was too much feeling inside me. My father was a potter, though not a very good one. He put me in the workshop with him. He gave me clay. He said — do not shape anything. Just — hold it. Just — hold it, and be with it, and let it hold what you cannot say. I sat with a lump of clay every afternoon for six months. When my mother died, the lump had been shaped by my hands into a small crooked bowl, though I did not remember shaping it. My father fired it. He gave it to me. I still have it.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Rafael was quiet. He said, \"Is that why you make so many bowls, Avôlo. Because your first one was a bowl.\" Avôlo laughed a small laugh. He said, \"No. I make many bowls because people need bowls. But — maybe a little bit yes. A bowl is a container. It holds what you cannot say. A bowl is a hand cupped, always. Every bowl I make is — someone will use it. Soup. Fruit. Coins. A ring taken off at night. Every bowl holds something. That is why I love it. Every bowl is going to hold a small piece of some person's life. And I made the bowl. That is a small immortality.\" He looked at Rafael. \"Some day, Rafael, one of your bowls will hold soup for your grandchildren. You will not remember making it. But it will be there. That is what a potter does.\""
+          ]
+        },
+        {
+          "image": "hp-ch2-p5-kiln",
+          "imagePrompt": "Mike Mignola style for children: exterior scene in the small stone courtyard. Avôlo (seventies) and Rafael (10) crouched beside a small wood-fired kiln. Avôlo is adjusting a small clay damper. Warm smoke rising from the top. Rafael watches carefully. Evening light. Heavy ink outlines, flat shadows, cream palette with warm gold accents from the kiln.",
+          "paragraphs": [
+            "On the second-to-last day, they fired Rafael's pots. Rafael had made five in the second week that Avôlo said were worth firing — three small bowls, one small cup, and a very small odd-shaped thing that was supposed to be a vase but had come out looking like a small squat mushroom. They loaded them into the kiln. Avôlo showed Rafael how to set the fire. The kiln was small and wood-fired, in the old way. It took eight hours to reach the right temperature. They tended it together all day. Rafael put pieces of wood in when Avôlo told him to. He watched the color of the flame — Avôlo said the color told you the temperature better than any thermometer.",
+            "That night when the kiln had cooled — they had let it cool overnight, and opened it in the morning — they took out the finished pots. They were transformed. The dull grey clay had become a warm terra-cotta orange. Rafael's odd little vase-mushroom was beautiful now — the color made it look intentional. His three bowls were solid and real. His cup had a small crack that Avôlo said was fine — cracks happen sometimes, and this one would not affect the use. Rafael held one of his bowls in both hands. It was small and warm and honest. He said, \"I made this.\" Avôlo said, \"You did.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Bowl for the Table",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hp-ch3-p1-last-day",
+          "imagePrompt": "Mike Mignola style for children: interior workshop scene on the last day. Avôlo (seventies) sits across the workbench from Rafael (10), holding a very old small dark clay bowl in both hands. He is showing it to Rafael. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On Rafael's last day, Avôlo brought out something Rafael had never seen before. It was a very small dark clay bowl, maybe seven centimeters wide. It was slightly crooked. The walls were uneven. Its glaze was a very old dark green that had faded in places. Avôlo held it in both hands. He said, \"This is the bowl I made when I was ten. When my mother died. I told you about it. This is that bowl.\" Rafael took it very carefully. It was so light. It had the same shape as his own first bowl, more or less. He was moved without knowing exactly why.",
+            "\"I want you to take one of your bowls home,\" said Avôlo. \"Any one. Your favorite. Keep it. Put it somewhere you will see it every day. In fifty years, when I am gone and you are old, you will hold it and you will remember. That is how this works.\" Rafael picked the smallest of his three bowls. It was slightly lopsided, but he had liked it best when he made it. \"I will take this one,\" he said."
+          ]
+        },
+        {
+          "image": "hp-ch3-p2-gift",
+          "imagePrompt": "Mike Mignola style for children: interior workshop scene. Rafael (10) holds his small finished lopsided bowl in one hand. He is looking up at Avôlo (seventies), who has taken down another very small bowl from a high shelf and is placing it on the workbench. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Avôlo took down a small carved wooden box from the top shelf. Inside was another very small bowl — a fresh one, unglazed, unfired. He set it on the workbench. He said, \"And this one I want you to help me finish. I made this last week — I threw it on the wheel while you were watching me. I want you to glaze it. Then we will fire it. And then — this one stays with me. On my table. So that every day I eat, I will look at it, and I will think of you.\"",
+            "Rafael did not know what to say. He said, quietly, \"But I have not learned to glaze yet.\" Avôlo smiled. He said, \"Then I will teach you now. It is not hard. It is another thing that is mostly listening. You will do it. You do not need to be perfect. This is the bowl you and I made together. If it is a little imperfect, that is exactly right.\""
+          ]
+        },
+        {
+          "image": "hp-ch3-p3-glazing",
+          "imagePrompt": "Mike Mignola style for children: interior workshop close view. Rafael (10) holds a small brush and is carefully applying a pale glaze to the inside of the small clay bowl. Avôlo (seventies) watches from beside him, patient. Small pots of colored glaze on the bench. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Avôlo showed him how to glaze. There were two things to decide, he said — the color, and how the color was applied. Rafael chose a pale blue-green that Avôlo had made himself from local minerals. Rafael dipped the bowl carefully into the glaze bucket. He turned it. He let the extra glaze drip off. He set it down. On the outside he used a small brush to add a thin dark rim near the top. That was a small choice he made. Avôlo watched him make it. Avôlo did not stop him. When Rafael was done, the bowl was — Rafael thought — plain but not ugly. Simple. Honest.",
+            "They fired it that afternoon. It was a small firing — only the one bowl, plus a few small things Avôlo had ready. Rafael tended the fire. When it was cool, in the morning, they took it out. The glaze had come out beautifully — a soft blue-green that looked like a pond. The dark rim held it. Rafael handed it to Avôlo. Avôlo held it in both hands. He said, \"Rafael. This is a beautiful bowl. Genuinely. Not because you are ten and I am your grandfather. It is a real bowl. It will hold soup very well. I will use it every day.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Avôlo,\" said Rafael. \"Can I ask you something else.\" \"Yes.\" \"Would you — could you — teach me every summer. Not just this once. Every summer that I come. Until I am — until I am too old to come.\" Avôlo looked at him for a long moment. He said, \"Rafael. That would make me very happy. But there is something you should know. I am seventy-four. I might not be here in ten years. I might not be here in five years. So — yes. Every summer for as long as I am here. I promise. But after that — after that — you have to keep doing it. Somewhere. With someone else. Or by yourself. Do not stop. You are becoming a potter. That is a small quiet gift. Do not put it down.\"",
+            "\"I promise,\" said Rafael. \"That is enough,\" said Avôlo."
+          ]
+        },
+        {
+          "image": "hp-ch3-p5-home",
+          "imagePrompt": "Mike Mignola style for children: interior scene at Rafael's small bedroom at home. Rafael (10, at home now) has just placed his small lopsided bowl on his bedside table. The bowl catches the warm evening lamp light. He steps back and looks at it. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "Rafael went home with his small lopsided bowl wrapped in a piece of soft cloth. His mother met him at the train station in Barcelona. She saw the small bowl. She asked what it was. Rafael said, \"I made it. At Avôlo's. He taught me.\" His mother did not say anything for a moment. Then she said, quietly, \"Oh, Rafael. That is — that is wonderful.\" She was tearing up. Rafael did not know why. He hugged her.",
+            "He put the bowl on his bedside table when he got home. He looked at it every night before he went to sleep. He looked at it every morning when he woke up. Every summer he went back to Ourense. Every summer he learned more. When he was twelve, he made a bowl that Avôlo said was as good as one of his own. When he was fifteen, he made a small vase that Avôlo said might be better than his own. Avôlo lived until Rafael was seventeen. On the day Avôlo died, Rafael was at university in Madrid. He went home. He took the small blue-green bowl he had made when he was ten from Avôlo's kitchen. He kept it beside his own first bowl. And every summer for the rest of his life, though Avôlo was gone, he went back to Ourense — to the small stone workshop — and he made bowls. He never became famous. He made about two hundred bowls a year. All of them went to people in Ourense and Barcelona who needed bowls. And every bowl held something. That was enough."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grandfather",
+    "spain",
+    "craft",
+    "pottery"
+  ]
+}

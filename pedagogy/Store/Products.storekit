@@ -1,0 +1,79 @@
+{
+  "identifier" : "6D3F8E0B-A7B2-4D3C-9E85-8F2A1B4C7D93",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_billingRetryPeriodEnabled" : false,
+    "_disableDialogs" : false,
+    "_failTransactionsEnabled" : false,
+    "_locale" : "pt_BR",
+    "_storefront" : "BRA",
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "6E7A9B21-3C4D-4E5F-8A9B-1C2D3E4F5A6B",
+      "localizations" : [
+        {
+          "description" : "Acesso completo ao Pedagogy",
+          "displayName" : "Pedagogy Books Pro",
+          "locale" : "pt_BR"
+        }
+      ],
+      "name" : "Pedagogy Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "399.90",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "8A9B1C2D-3E4F-4A5B-9C6D-7E8F9A0B1C2D",
+          "introductoryOffer" : {
+            "internalID" : "9B1C2D3E-4F5A-4B6C-8D7E-9F0A1B2C3D4E",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "Acesso completo por 12 meses. Cancele quando quiser.",
+              "displayName" : "Plano Anual",
+              "locale" : "pt_BR"
+            }
+          ],
+          "productID" : "annual_pedagogy",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Pedagogy Annual",
+          "subscriptionGroupID" : "6E7A9B21-3C4D-4E5F-8A9B-1C2D3E4F5A6B",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "59.90",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "AC2D3E4F-5A6B-4C7D-8E9F-0A1B2C3D4E5F",
+          "localizations" : [
+            {
+              "description" : "Acesso completo mensal. Cancele quando quiser.",
+              "displayName" : "Plano Mensal",
+              "locale" : "pt_BR"
+            }
+          ],
+          "productID" : "monthly_pedagogy",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pedagogy Monthly",
+          "subscriptionGroupID" : "6E7A9B21-3C4D-4E5F-8A9B-1C2D3E4F5A6B",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

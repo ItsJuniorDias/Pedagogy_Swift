@@ -1,0 +1,168 @@
+{
+  "id": "map-of-frida",
+  "title": "The Map of Frida",
+  "subtitle": "Six Places in Mexico City",
+  "author": null,
+  "summary": "Frida is ten and has never been to Mexico City. Her mother grew up there, and drew a map of the city when she was young — six places that mattered to her. She died two years ago. This December, Frida flies from Los Angeles to spend a week with her grandfather in the city, with the folded map in her pocket. Together, they visit all six places, in order.",
+  "readingTimeMinutes": 16,
+  "coverImage": "story-map-of-frida-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old girl (Frida) with long dark hair and a red hair ribbon, wearing a knitted cardigan, walking on a cobbled street in the Coyoacán neighborhood of Mexico City. She holds a folded piece of paper in one hand, opened just enough to show a hand-drawn map with six small marked spots. Beside her: her grandfather (Abuelo, seventies, in a wool coat and a felt hat) walking slowly. Behind them: a colorful painted wall (bougainvillea pink and cobalt blue), potted geraniums, a small tiled fountain. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), Mexico City pinks and cobalt blues, deep ink outlines, small dusty rose (#FF5B8D) accent on the hair ribbon. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2026-12-03",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Folded Paper",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "mf-ch1-p1-airport",
+          "imagePrompt": "Mike Mignola style for children: interior of a busy Mexico City airport arrivals hall. A ten-year-old girl (Frida, dark hair, red ribbon, small suitcase) walks alongside her grandfather (Abuelo, seventies, wool coat, felt hat, gray moustache), who has one hand on her shoulder. Warm afternoon light through big windows. Heavy black ink outlines, flat shadows, cream and sepia palette with muted pinks.",
+          "paragraphs": [
+            "Frida had never been to Mexico City before, though she had heard about it her whole life. Her mother had grown up there, in a neighborhood called Coyoacán, and had moved to Los Angeles at the age of nineteen, and had died two years ago when Frida was eight. Frida had visited her Abuelo — her grandfather — twice, when he had come to Los Angeles for Christmas. She had never been to his house. She had never seen the city her mother had loved.",
+            "But it was December, and Frida was ten now, and her father had said maybe it was time. He had bought her a plane ticket. She had flown alone from Los Angeles that morning, and Abuelo had met her at the arrivals hall in Mexico City, and he had hugged her hard and long, and she had cried a little into his coat because he smelled the same as her mother's old sweaters. He had let her cry. He had not said anything about it. He had just held her, and then he had picked up her suitcase, and he had said, in his soft accented English, \"Come on, mi vida. The city is waiting.\""
+          ]
+        },
+        {
+          "image": "mf-ch1-p2-house",
+          "imagePrompt": "Mike Mignola style for children: exterior of a small blue-painted house on a narrow cobbled street in the Coyoacán neighborhood of Mexico City. Bougainvillea spills over the front wall. A wooden door with iron studs. An older man (Abuelo, seventies) opens the door for a girl (Frida, 10) who stands at the threshold looking in. Warm winter afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette with muted pinks and cobalt blues.",
+          "paragraphs": [
+            "His house was in Coyoacán, exactly where her mother had grown up. It was small and blue and had one room on the ground floor and a small kitchen at the back and two bedrooms upstairs, and everything creaked when you walked on it. There were photographs everywhere. Frida had never seen most of them. Her mother as a small girl in a starched dress. Her mother at fourteen with her hair short. Her mother and Abuelo at the market together. Frida stood in front of each one for a long time.",
+            "That evening Abuelo made her mole with rice and a small salad, and they sat at the kitchen table and ate. He asked her about her school, and her father, and her cat named Pancho. She answered. Then she said, \"Abuelo. I brought something.\" She reached into her pocket. She took out a piece of paper, folded four times. It was old and soft. She unfolded it very carefully and laid it flat on the table."
+          ]
+        },
+        {
+          "image": "mf-ch1-p3-map",
+          "imagePrompt": "Mike Mignola style for children: close view of a folded hand-drawn map spread on a wooden kitchen table. The map shows a portion of Mexico City drawn in ballpoint pen — main streets, a few landmarks, six specific points marked with small careful stars and short handwritten notes beside them. A girl's hand (Frida's, 10) holds down one corner. An older man's hand (Abuelo's) rests beside it. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "It was a hand-drawn map. Ballpoint pen on a sheet of school paper, folded and refolded so many times the creases were almost transparent. The main streets of Mexico City were marked out roughly, with landmarks Frida did not know — a big church, a park, the Zócalo. And there were six small stars, each with a short handwritten note beside it. The handwriting was her mother's — the round careful handwriting of a girl of maybe fifteen or sixteen.",
+            "Abuelo went very still. He put on his reading glasses. He leaned in over the map. He was quiet for a long time. Then he touched one of the stars — the one labeled Casa de las bugambilias — very gently, with one finger. He said, \"Where did you find this, mi vida.\" Frida said, \"In Mamá's box. In the closet at home. Papá let me have it. I did not tell him why. I only said I wanted it.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Abuelo read the notes one by one, quietly, half to himself and half to Frida. Casa de las bugambilias — where I first climbed a tree. Café Tacuba — where Papá and I always got hot chocolate. La Merced — the pastry lady with the red shawl. Frida Kahlo's blue house — I stood outside for two hours in the rain. The Zócalo bell — I could hear it from my bedroom window at night. Chapultepec park, big tree by the little pond — I first read Rulfo here.",
+            "\"These are her places,\" Abuelo said. \"These are where she was a girl.\" \"I want to go to them,\" said Frida. \"All six. Is that possible. In a week.\" Abuelo looked at her. He did not say anything for a moment. His eyes were bright. Then he said, \"Yes. We will go to all six. Starting tomorrow. I will take you to every one. And I will tell you, at each one, what I remember of your mother being there.\" And Frida nodded, and she put her small hand on top of his big hand on the map, and neither of them said anything else for a while."
+          ]
+        },
+        {
+          "image": "mf-ch1-p5-bed",
+          "imagePrompt": "Mike Mignola style for children: night bedroom scene. A girl (Frida, 10) lies in bed under a heavy woven blanket, the folded map in her hand on the pillow beside her cheek, staring up at the ceiling. A small warm lamp glows on the nightstand. Heavy ink outlines, flat shadows, warm cream palette with cool dark corners.",
+          "paragraphs": [
+            "That night Frida lay in the small bedroom that had been her mother's when her mother was young. There was a small window facing an inner courtyard, and Frida could see the pink of a bougainvillea plant through the shutter, even at night. She had the map on the pillow beside her. She was tired but she did not want to fall asleep. She kept looking at her mother's handwriting.",
+            "She thought about what Abuelo had said — I will tell you, at each one, what I remember. She was afraid, a little, of hearing those things. She was afraid of what she might feel. She was more afraid, though, of not hearing them. Of leaving the city and going back to Los Angeles and never knowing. She held the map against her cheek and after a while she fell asleep."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Six Places",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "mf-ch2-p1-tree",
+          "imagePrompt": "Mike Mignola style for children: exterior of an old house in Coyoacán with a large jacaranda tree overhanging the front wall. Bougainvillea (bugambilias) grows wild over the fence. An older man (Abuelo, seventies) and a girl (Frida, 10) stand looking up at one of the tree's low branches. Morning light, dry December sky. Heavy ink outlines, flat shadows, cream and sepia palette with muted pinks.",
+          "paragraphs": [
+            "They started with Casa de las bugambilias. It was three streets from Abuelo's house — a small stucco place that Abuelo said had belonged to a family called Osorio when Frida's mother was young. The bougainvillea was still there, spilling over the front wall, though it was not blooming much in December. But the tree — a big old jacaranda — was there too, and Abuelo pointed at a specific low branch. \"That,\" he said. \"That was the one. She was five years old. She was determined to climb it. Her mother said no. I said no. She waited until we were both busy in the kitchen, and she climbed it, and she got up onto that branch, and she could not get down.\"",
+            "\"What did you do,\" Frida asked. \"I stood underneath and I told her to jump into my arms,\" Abuelo said. \"She did not want to. She was afraid. I stood there for maybe twenty minutes. She kept crying. Finally she jumped, and I caught her. And I said, we are not going to tell your mother about this. She was very good at keeping a secret. Even when she was five. She never told her mother.\" He looked at Frida. \"That was your Mamá. She was — very determined. About small things. About big things too.\""
+          ]
+        },
+        {
+          "image": "mf-ch2-p2-cafe",
+          "imagePrompt": "Mike Mignola style for children: interior of an old Mexico City café — dark wooden panels, wooden chairs, tiled floor, brass details, a long marble counter. An older man (Abuelo, seventies) and a girl (Frida, 10) sit at a small table with two ceramic cups of hot chocolate steaming in front of them. Warm ambient light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Café Tacuba was in the historic center, and they took a metro to get there. It had been open, Abuelo said, for over a hundred years — the same wooden panels, the same brass details, the same tiled floors. They sat at a small table and Abuelo ordered them two hot chocolates. When the cups arrived, thick and dark and smelling of cinnamon, Abuelo lifted his and clinked it gently against Frida's. \"To your Mamá,\" he said. Frida clinked back. \"To Mamá.\"",
+            "\"When she was a girl,\" Abuelo said, \"once a month, on a Saturday, we came here. Just her and me. Not her mother. It was our thing. She always got hot chocolate. I always got coffee. She would tell me everything that had happened at school. Everything. It was one of the times I knew what was happening in her life. When we walked home from here she always held my hand.\" He drank. \"You do not have to hold my hand,\" he added, without looking at her. \"But if you wanted to. I would not mind.\" So Frida did. She reached across the table and she held his old hand for a little while. His hand was very warm."
+          ]
+        },
+        {
+          "image": "mf-ch2-p3-market",
+          "imagePrompt": "Mike Mignola style for children: exterior scene in the bustling La Merced market in Mexico City — small food stalls, piles of fresh fruit and pastries, red awnings, hanging strings of chiles. An older man (Abuelo, seventies) and a girl (Frida, 10) stand at a specific pastry stall run by an older woman in a bright red rebozo shawl. The woman is smiling at Frida. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette with warm red accents.",
+          "paragraphs": [
+            "The pastry lady with the red shawl was still there. That was what Frida had not expected. In La Merced market, at the same stall her mother had drawn on the map, there was a woman in a bright red rebozo who had to be at least seventy years old, selling small cookies and rolls of sweet bread. Abuelo walked up to her and spoke to her in fast Spanish. The woman's eyes widened. She stared at Frida for a long moment. She said something in Spanish. Abuelo turned to Frida and translated: \"She says you have your mother's mouth. She says she remembers your mother very well. She says your mother always bought the sugar cookies, the pink ones with the seeds on top.\"",
+            "The woman handed Frida a small cookie. It was warm and pink and sprinkled with anise seeds. Frida bit into it. It was good. Simple. Sweet. The woman was watching her face. \"She says,\" Abuelo went on, \"that your mother used to eat one whole cookie standing right here, and then buy two more to take home. And that her mother — my wife — used to be angry with her for eating a whole cookie before dinner. And your Mamá never stopped doing it. Never. She would come here, when she visited from Los Angeles, right up until — until three years ago. Always bought three cookies. Always ate one standing right here.\"",
+            "Frida ate her cookie standing right there. She bought two more to take home."
+          ]
+        },
+        {
+          "image": "mf-ch2-p4-blue-house",
+          "imagePrompt": "Mike Mignola style for children: exterior of the Blue House (Casa Azul), Frida Kahlo's home in Coyoacán, its walls painted deep cobalt blue with warm ochre-yellow trim. A quiet street outside. An older man and a girl (Frida, 10) stand on the sidewalk across from the entrance, just looking. Winter afternoon light. Heavy ink outlines, flat shadows, cream palette with deep cobalt accents.",
+          "paragraphs": [
+            "The Blue House was Frida Kahlo's old house. Frida's mother had named her daughter after Frida Kahlo, and had loved her paintings, and had told Frida many times about the day she had stood outside the museum for two hours in the rain, when she was fourteen, because she had not been able to afford the entrance fee. She had refused to leave. She had wanted to see it.",
+            "Abuelo did not take Frida inside. He said, \"You can go inside another day. Today is not for going inside. Today is for standing where she stood.\" So they stood across the street. They stood for a long time. Abuelo said, \"She was so angry, that day. Not at me. At the world. She said the museum should be free. She said Frida Kahlo would have wanted it to be free. She was fourteen and she stood in the rain and she made a whole argument about it that I could not answer. She was a person who fought for what she thought was right. That is how I remember her most.\" Frida said, quietly, \"I am going to be like that too.\" Abuelo said, \"I know you are.\""
+          ]
+        },
+        {
+          "image": "mf-ch2-p5-bell",
+          "imagePrompt": "Mike Mignola style for children: an evening view of the grand Zócalo plaza in Mexico City, the huge cathedral rising up. A large iron bell tolls. An older man (Abuelo, seventies) and a girl (Frida, 10) stand in the middle of the plaza together, both looking up at the cathedral bell tower. The evening sky is going deep blue with early stars. Heavy ink outlines, flat shadows, cream and sepia palette with cool blue evening tones.",
+          "paragraphs": [
+            "That evening they went to the Zócalo — the huge central plaza of the city, with the great cathedral and the palace and the old buildings. They stood in the middle of it as the sun set. Abuelo pointed at the cathedral bell tower. \"There. That is the bell she wrote about. On summer nights she could hear it from her bedroom. Not always. Only when the wind was right. She used to lie in bed with the window open and count the tolls. She said it made her feel like she lived in a very old place, and that made her feel small in a good way.\"",
+            "Frida stood and listened. After a few minutes, the bell rang. Six clear tolls, deep and long, across the plaza. She counted them. She thought about her mother, at ten, at eleven, at fifteen, lying in bed at night and hearing this exact sound. The bell had been ringing for hundreds of years already, then. Now it was ringing for Frida too. \"Abuelo,\" she said. \"I want to remember this.\" Abuelo said, \"Then remember it. I will remember it with you. That way there will be two of us who remember.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Last Place",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "mf-ch3-p1-park",
+          "imagePrompt": "Mike Mignola style for children: view of Chapultepec park in Mexico City — a wide green space with big old ahuehuete trees, a small pond, walking paths. An older man (Abuelo, seventies) and a girl (Frida, 10) walk together toward one specific enormous ancient tree in the distance. A book is in the girl's arm. Winter morning light, cool. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "They saved the last place for the last day. Chapultepec park. A big tree by a little pond. That was the last note on the map. I first read Rulfo here. Rulfo, Abuelo had explained, was a Mexican writer, and the book — a small strange book of stories called El Llano en Llamas — had been Frida's mother's favorite book for her entire life. She had a battered copy of it on the shelf in Los Angeles. Frida had brought it with her. It was in her bag now.",
+            "The park was huge and it took them a while to find the right tree. But Abuelo knew which one. It was an enormous ahuehuete — a Mexican bald cypress — probably four hundred years old. Its trunk was as wide as a small house. It stood right at the edge of a small pond where ducks were swimming, and there was a low wall of stone around its base where a person could sit. Abuelo said, \"There. That was her place. She would sit right there with her back against the trunk. Not on the wall. On the ground. She said the wall was for tourists.\""
+          ]
+        },
+        {
+          "image": "mf-ch3-p2-sitting",
+          "imagePrompt": "Mike Mignola style for children: close view. A girl (Frida, 10) sits at the base of an enormous ancient tree, her back against the trunk, a small worn paperback book on her lap. Her grandfather (Abuelo, seventies) sits nearby on the stone wall, watching her with a soft still expression. The pond and ducks in the background. Winter morning light, cool. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "So Frida sat on the ground with her back against the trunk. Abuelo sat on the wall a little way off, so as not to hover. Frida opened her mother's copy of the book. It fell open naturally to a page that had been read many times — the first page of a story called Nos han dado la tierra. She read a little bit. She did not understand all the Spanish, though her Spanish was pretty good. She kept reading. She read for maybe twenty minutes. Then she closed the book and she just sat with her back against the tree.",
+            "She thought about her mother sitting in this exact spot when she was, maybe, fourteen. Reading this exact book for the first time. She thought about her mother's back against this same bark. She thought about how her mother had loved this place enough to draw a small star for it on her map, thirty years ago. She thought about how her mother was gone but the tree was here, and would still be here in a hundred years, and would probably still be here in three hundred years, long after Frida herself was gone too. And this thought did not make her sad. Or it made her sad in a different way than she was used to. A softer way. A larger way."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "After a while she got up. She went to Abuelo. She sat down beside him on the wall. She said, \"Abuelo. Can we do something. Can we — pretend she is here.\" Abuelo looked at her. He nodded slowly. He said, \"Yes. Yes, mi vida. What did you have in mind.\" Frida said, \"You said at each place you would tell me what you remember of her being there. And you did. That is why we came. But this is the last place. And I want us to do the last one different. I want us to tell her — the tree — about her.\" Abuelo did not understand at first. Then he did.",
+            "\"I want us to tell the tree things she would have wanted to know. If she were here. About us. About things that happened after.\" Abuelo swallowed. He nodded. He put his arm around her. He said, \"You start, mi vida.\" And Frida started."
+          ]
+        },
+        {
+          "image": "mf-ch3-p4-telling-tree",
+          "imagePrompt": "Mike Mignola style for children: close view. A girl (Frida, 10) sits beside her grandfather at the base of the enormous ancient tree, one small hand touching the tree bark. Her grandfather (Abuelo, seventies) has one arm around her. Both of them looking up at the tree with soft still expressions. Winter light filtered through branches. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She talked to the tree, softly, in English mostly with some Spanish, for maybe half an hour. She told the tree — she told her mother — everything she thought her mother would want to know. That her father was doing all right, some days. That Pancho the cat had grown fat. That Frida had learned to play a little bit of the piano. That she had made two new friends at school. That her father sometimes played her mother's records at dinner, and that this was a thing that used to make Frida cry, and that now it made her happy in a strange mixed way, and that she was proud of herself for that.",
+            "Then Abuelo talked. He talked to the tree — to Frida's mother — in Spanish. Frida did not understand every word. But she understood some. He said things about growing older. About the house being too quiet. About what he was proud of. He cried a little. Frida had not seen him cry before. She held his hand. When he was done, he said, \"That's enough for today, I think.\" And they got up and they walked out of the park, and Frida looked back once at the tree, and she thought — I will come back. I do not know when. But I will come back."
+          ]
+        },
+        {
+          "image": "mf-ch3-p5-airport-return",
+          "imagePrompt": "Mike Mignola style for children: interior of a departures area of the Mexico City airport. An older man (Abuelo, seventies) and a girl (Frida, 10) stand together at the security line. She has her small suitcase. He is holding her by both shoulders, looking at her. Warm morning light through big windows. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Frida flew home the next morning. At the airport Abuelo held her by the shoulders and looked at her for a moment before he let her go. He said, \"Come back next December. And every December. I will take you to new places. Ones your Mamá did not have on her map. But places she would have wanted to show you. Yes.\" \"Yes,\" said Frida. She hugged him one more time. And she went through security and she waved from the other side, and Abuelo waved back until she was out of sight.",
+            "On the plane home, she looked at the folded map for a long time. Then she took out a pen — she had brought one on purpose — and she drew, on the back of the map, a new small star. Not on the printed map her mother had drawn, but on the blank white back of it. Underneath the star she wrote: The tree at Chapultepec, where I told her about the last two years. She looked at the small star for a while, then folded the map back up and put it in her pocket. She thought, next December, I will add another one. And she felt, for the first time since her mother had died, that she was making a map of her own."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grief",
+    "mexico",
+    "mother",
+    "grandfather"
+  ]
+}

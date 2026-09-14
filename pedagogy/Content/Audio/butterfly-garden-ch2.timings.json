@@ -1,0 +1,241 @@
+{
+  "story_id": "butterfly-garden",
+  "chapter": 2,
+  "total_duration_ms": 141336,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The X was under the old rose bush.",
+      "start_ms": 1927,
+      "end_ms": 4701
+    },
+    {
+      "index": 1,
+      "text": "Iris waited until Grandmother Rose was asleep.",
+      "start_ms": 4701,
+      "end_ms": 8323
+    },
+    {
+      "index": 2,
+      "text": "She was not sure why she waited — Grandmother Rose would probably have come with her — but she felt that this was something she needed to do quietly, on her own, at night, when the butterflies could see her doing it.",
+      "start_ms": 8323,
+      "end_ms": 25123
+    },
+    {
+      "index": 3,
+      "text": "She took the small trowel from the greenhouse.",
+      "start_ms": 25123,
+      "end_ms": 28745
+    },
+    {
+      "index": 4,
+      "text": "She went out into the garden.",
+      "start_ms": 28745,
+      "end_ms": 31057
+    },
+    {
+      "index": 5,
+      "text": "The moon was bright.",
+      "start_ms": 31057,
+      "end_ms": 32752
+    },
+    {
+      "index": 6,
+      "text": "The old rose bush was enormous, and the ground under it was hard from years of roots.",
+      "start_ms": 32752,
+      "end_ms": 39380
+    },
+    {
+      "index": 7,
+      "text": "Iris dug for a long time.",
+      "start_ms": 39380,
+      "end_ms": 41461
+    },
+    {
+      "index": 8,
+      "text": "Her trowel hit something metal.",
+      "start_ms": 41461,
+      "end_ms": 44004
+    },
+    {
+      "index": 9,
+      "text": "It was a small tin box, rust-red with age.",
+      "start_ms": 44004,
+      "end_ms": 47318
+    },
+    {
+      "index": 10,
+      "text": "Iris pulled it up, brushed off the earth, and pried open the lid.",
+      "start_ms": 47318,
+      "end_ms": 52481
+    },
+    {
+      "index": 11,
+      "text": "Inside was a compass.",
+      "start_ms": 52481,
+      "end_ms": 54253
+    },
+    {
+      "index": 12,
+      "text": "It was a very old compass — brass, dented, with a needle that pointed in a wobbly, uncertain way.",
+      "start_ms": 54253,
+      "end_ms": 61883
+    },
+    {
+      "index": 13,
+      "text": "Iris held it flat and watched the needle.",
+      "start_ms": 61883,
+      "end_ms": 65119
+    },
+    {
+      "index": 14,
+      "text": "It swung.",
+      "start_ms": 65119,
+      "end_ms": 65890
+    },
+    {
+      "index": 15,
+      "text": "It did not settle on north.",
+      "start_ms": 65890,
+      "end_ms": 68048
+    },
+    {
+      "index": 16,
+      "text": "It kept moving.",
+      "start_ms": 68048,
+      "end_ms": 69358
+    },
+    {
+      "index": 17,
+      "text": "She rotated it.",
+      "start_ms": 69358,
+      "end_ms": 70591
+    },
+    {
+      "index": 18,
+      "text": "She held it still.",
+      "start_ms": 70591,
+      "end_ms": 72055
+    },
+    {
+      "index": 19,
+      "text": "She held her breath.",
+      "start_ms": 72055,
+      "end_ms": 73751
+    },
+    {
+      "index": 20,
+      "text": "The needle turned, and turned, and finally stopped.",
+      "start_ms": 73751,
+      "end_ms": 77758
+    },
+    {
+      "index": 21,
+      "text": "It was not pointing north or south or east or west.",
+      "start_ms": 77758,
+      "end_ms": 81842
+    },
+    {
+      "index": 22,
+      "text": "It was pointing straight up.",
+      "start_ms": 81842,
+      "end_ms": 84154
+    },
+    {
+      "index": 23,
+      "text": "Iris frowned.",
+      "start_ms": 84154,
+      "end_ms": 85233
+    },
+    {
+      "index": 24,
+      "text": "She tilted the compass.",
+      "start_ms": 85233,
+      "end_ms": 87083
+    },
+    {
+      "index": 25,
+      "text": "She tapped it.",
+      "start_ms": 87083,
+      "end_ms": 88239
+    },
+    {
+      "index": 26,
+      "text": "The needle wobbled a little, but it kept pointing up.",
+      "start_ms": 88239,
+      "end_ms": 92477
+    },
+    {
+      "index": 27,
+      "text": "\"Compasses don't point up,\" she whispered.",
+      "start_ms": 92477,
+      "end_ms": 95868
+    },
+    {
+      "index": 28,
+      "text": "The garden did not answer.",
+      "start_ms": 95868,
+      "end_ms": 98026
+    },
+    {
+      "index": 29,
+      "text": "She looked at the sky.",
+      "start_ms": 98026,
+      "end_ms": 99798
+    },
+    {
+      "index": 30,
+      "text": "There were more stars than usual, because the village had no streetlights.",
+      "start_ms": 99798,
+      "end_ms": 105578
+    },
+    {
+      "index": 31,
+      "text": "Iris held the compass toward the sky and turned very slowly in a circle.",
+      "start_ms": 105578,
+      "end_ms": 111281
+    },
+    {
+      "index": 32,
+      "text": "The needle stayed pointing up, but as she turned, it seemed to be pointing at one particular part of the sky.",
+      "start_ms": 111281,
+      "end_ms": 119758
+    },
+    {
+      "index": 33,
+      "text": "A star.",
+      "start_ms": 119758,
+      "end_ms": 120374
+    },
+    {
+      "index": 34,
+      "text": "A star Iris did not know the name of, a small red one, low in the east.",
+      "start_ms": 120374,
+      "end_ms": 126000
+    },
+    {
+      "index": 35,
+      "text": "She stared at it.",
+      "start_ms": 126000,
+      "end_ms": 127387
+    },
+    {
+      "index": 36,
+      "text": "It stared back.",
+      "start_ms": 127387,
+      "end_ms": 128697
+    },
+    {
+      "index": 37,
+      "text": "Behind her, in the greenhouse, the silver butterfly had opened its wings and closed them again, three times, very slowly, as if it were saying: yes.",
+      "start_ms": 128697,
+      "end_ms": 140180
+    },
+    {
+      "index": 38,
+      "text": "That's the one.",
+      "start_ms": 140180,
+      "end_ms": 141336
+    }
+  ]
+}

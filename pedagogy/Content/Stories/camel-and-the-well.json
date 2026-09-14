@@ -1,0 +1,167 @@
+{
+  "id": "camel-and-the-well",
+  "title": "The Camel and the Well",
+  "subtitle": "A Sandstorm in the Erg Chebbi",
+  "author": null,
+  "summary": "Nadia is twelve and is spending two weeks with her grandfather in a small village at the edge of the Erg Chebbi dunes, in southeastern Morocco. Her grandfather is the last man in the village who knows the location of the old wells hidden in the deep desert. On the third day of her visit, they are caught by a sudden sandstorm — three hours from home — with only their old camel to guide them.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-camel-and-the-well-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 12-year-old girl (Nadia) with dark brown hair, wearing a long loose blue-and-white striped cotton robe and a light indigo scarf wrapped over her head, walking beside a large tan Saharan camel in the enormous orange dunes of the Erg Chebbi. Her grandfather (weathered, sixties, in a dark blue tuareg-style robe) walks ahead holding a lead rope. Behind them: rising dark clouds and blowing sand on the horizon. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0) sky, orange-ochre sand, deep ink outlines, muted indigo blues on the clothing, small dusty rose (#FF5B8D) accent on her cheeks. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2027-01-14",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Sidi Hassan",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cw-ch1-p1-village",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small mud-brick Berber village at the edge of the vast orange dunes of the Erg Chebbi in southeastern Morocco. Low flat-roofed houses. Palm trees. A well in the center. In the distance, huge sculpted sand dunes rise. Warm afternoon light, dry blue sky. A girl (Nadia, 12, blue-and-white striped robe, indigo scarf) walks up a dirt path with her grandfather (weathered, sixties, dark blue robe). Heavy black ink outlines, flat shadows, cream and sepia palette with ochre desert tones.",
+          "paragraphs": [
+            "Nadia's grandfather lived in a small village of mud-brick houses at the very edge of the dunes. His name was Sidi Hassan, but everyone called him just Sidi. He was seventy-one, and he was thin, and he had the kind of dark weathered skin that comes from spending a life in the sun, and he did not talk very much. His village was called Merzouga, and it was in the southeastern part of Morocco, in a region where the paved road ran out and the huge orange dunes of the Erg Chebbi began. Nadia had come to visit him for two weeks, in the winter, when the desert was not too hot.",
+            "She was twelve, and she lived the rest of the year in the city of Meknes, far to the north. She had visited Sidi many times as a small child, but not since she was seven. She had almost forgotten the smell of his house — mint tea and cedar smoke and dry dust. She had almost forgotten how the light came into the small rooms through slits in the wooden shutters. She had almost forgotten, most of all, the silence. Merzouga was quiet in a way that Meknes never was."
+          ]
+        },
+        {
+          "image": "cw-ch1-p2-camel",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the edge of the village. An older man (Sidi, seventies) stands beside a large tan Saharan camel in a small stone corral. He is stroking the camel's neck. A girl (Nadia, 12) approaches carefully, one hand extended toward the camel. Warm morning light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On her second morning, Sidi took Nadia to meet the camel. His name was Farouk. He was old — twenty-two years old, which Sidi said was very old for a working camel — and he had been Sidi's camel for eighteen of those years. Farouk lived in a small stone corral behind Sidi's house. He was tan and huge and had big soft eyes and a mouth that always seemed to be chewing something. Sidi patted his neck and Farouk lowered his enormous head to be scratched between the ears.",
+            "\"Farouk knows the desert better than I do,\" Sidi said. He said this in the very serious way he said everything. \"He has been out there a thousand times. If we get lost, we trust him. That is a rule. Do not forget it. If we are ever in the desert and I say — trust the camel — then you do exactly what he does. Walk where he walks. Do not go in any other direction. Do you understand.\" Nadia nodded. She did not think she would ever be in a situation where she needed to remember this. But she nodded."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Sidi was one of the last men in the village who still knew the old wells. The dunes of the Erg Chebbi covered maybe fifty square kilometers, and in them, hidden and long forgotten by most people, were maybe twenty small wells — dug hundreds of years ago by nomads, kept in secret. Sidi's father had taught him where they were, and his father before that, going back many generations. The wells were mostly not used anymore — the village had a big new well of its own that had been drilled with modern equipment. But Sidi still visited the old ones. He said they were his responsibility.",
+            "\"Every few weeks I go and clean one,\" he told Nadia. \"I take a bucket, I take a small brush, I take a piece of cloth. I clean out the sand and I make sure the water is still good. It is a small work but it keeps them alive. If nobody remembers where they are, and if they fill in with sand, they are gone forever. And someday, someday if the modern well fails, this village will need them again. So I keep them.\"",
+            "\"How many people know where they are,\" Nadia asked. Sidi held up one hand. Then he lowered a finger. \"Four,\" he said. \"Me. My older brother in Rissani. Two younger men in the village that I have been teaching. That is all. When we die — well. We do not want them to die with us. That is why we teach.\""
+          ]
+        },
+        {
+          "image": "cw-ch1-p4-invitation",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the kitchen table. An older man (Sidi) sits with a girl (Nadia, 12) across from him. Between them, a small unrolled hand-drawn map of the dunes with several small marks on it. He is pointing at one mark, looking at her. Warm afternoon light through a wooden shutter. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"Nadia,\" Sidi said, on the third day. \"I want to take you to one. Tomorrow. It is far. Six hours by camel, out and back. I want you to see. Not so you can be one of the four. That is not — that is not how it works. But so you can know they exist. So when you are grown up, and if the village needs to know that some old man in a book once knew where they were, you can say — yes, my grandfather knew them. You can tell people. Even if you do not have the map yourself.\"",
+            "Nadia said yes. That evening Sidi prepared. He filled two big goatskins of water. He packed dates and small round pieces of dry flatbread. He got out an old wool blanket in case they had to rest in the sun. He checked Farouk's saddle. He rolled up a small piece of paper that had, on it, a hand-drawn map of the dunes. It had eleven small crosses on it. He tapped one of them. \"That one,\" he said. \"That is where we go tomorrow. Its name is Bir Amina. The well of Amina. Nobody knows anymore who Amina was. But she is in the name.\""
+          ]
+        },
+        {
+          "image": "cw-ch1-p5-start",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at dawn in Merzouga. Cool blue-orange dawn sky. The camel (Farouk, saddled and loaded) walks slowly out of the village into the dunes, led by Sidi. Nadia rides atop the camel. First rays of sun catching the crests of dunes. Heavy ink outlines, flat shadows, cool cream and ochre palette.",
+          "paragraphs": [
+            "They left before dawn. It was cold — much colder than Nadia had expected. She had put on all her layers, and Sidi had wrapped a long piece of indigo cloth around her head and over her nose, leaving only her eyes visible. He was dressed the same. Farouk carried the water and the food and Nadia. Sidi walked ahead. He said walking kept his legs strong, and that he could always ride if he needed to. The sky slowly went pink, then orange, then a very pale blue. They went up into the dunes. Behind them the village grew smaller. Ahead of them was only sand — one dune after another, each one exactly like the last, and yet each one somehow different."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Wind",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cw-ch2-p1-well",
+          "imagePrompt": "Mike Mignola style for children: exterior scene in a small dip between huge orange sand dunes. A stone-lined well maybe two meters wide, mostly covered by a piece of flat wood weighted with stones. Sidi (seventies) is beginning to lift the wood cover. Nadia (12) stands beside him, and Farouk the camel is resting to one side. Warm mid-morning light. Heavy ink outlines, flat shadows, cream and sepia palette with ochre.",
+          "paragraphs": [
+            "They found the well after three hours of walking. It was in a small dip between two big dunes — a place Nadia would never have picked out as different from anywhere else in the whole desert, but Sidi walked straight to it. The well was very old. It was a small stone-lined pit about two meters across, mostly covered by a large flat piece of wood weighted with stones. Sidi lifted the wood. Beneath it was a dark shaft going down. He lowered a small bucket on a rope. It went down for a long time. Then Nadia heard a small splash. Sidi pulled up. The bucket came back full of clear cool water. He held it out. She drank. It was the best water she had ever tasted.",
+            "\"Two hundred years old, this well,\" Sidi said. \"Maybe more. The water is from very deep. It has been safe from the surface heat and the surface dirt. My great-grandfather brought me here when I was a child. My great-great-grandfather brought him. That is how far back it goes.\" He cleaned some sand out of the edges. He checked the wood. He replaced it. He put the stones back. He did all of it slowly and carefully. Nadia watched. She thought about how many hands, over how many years, had done exactly this small piece of work at exactly this well."
+          ]
+        },
+        {
+          "image": "cw-ch2-p2-noticing",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Sidi (seventies) stands atop a small rise looking off into the distance, his hand shading his eyes. The sky in the direction he looks is going a darker orange-brown color, with what looks like a low wall of dust in the far distance. Nadia (12) stands beside him, also looking. Heavy ink outlines, flat shadows, cream and sepia palette with cool tones creeping in.",
+          "paragraphs": [
+            "They started back around eleven o'clock. They had eaten a small meal of bread and dates. Farouk was rested. The sun was high but the wind was very still. Sidi walked ahead. They were maybe forty minutes into the return walk when Sidi stopped. He climbed to the top of a small dune. He looked off to the east. He stayed there for a long moment. Then he came back down. His face was different. Not scared. But focused. He said, \"Nadia. Come here. Look.\"",
+            "She climbed up to him. She looked. Very far away, on the horizon in the direction they had come, there was a strange darkness. Not a cloud exactly. A wall. A low brown-orange wall stretching across the whole sky at that side. The sky between the wall and them was still bright blue. But the wall was there. And she could see, even from this far, that it was moving. Slowly, but moving. Toward them."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Sandstorm,\" said Sidi. He said it flatly. Not afraid. Just as a fact. \"It will be here in — maybe forty minutes. Maybe less. I did not see it before because it was behind the dunes. It has come up fast. This is a bad time of year for these. I should have watched more carefully.\" He was already climbing down the dune. \"Come. We are going to walk fast now.\" Nadia climbed down. Her heart was beating hard. \"We cannot outrun it,\" Sidi said, as they walked. \"But there is a small shelter — a small mudbrick shelter — maybe two kilometers back the way we came. It was built by nomads a long time ago. If we can get there before the storm, we can go inside and wait. If we cannot get there — then we have to stop, and we have to trust Farouk. Do you understand?\"",
+            "\"Yes,\" said Nadia. She thought she understood. She did not want to have to trust Farouk. She wanted very much to reach the shelter."
+          ]
+        },
+        {
+          "image": "cw-ch2-p4-walking-fast",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Sidi and Nadia walking as fast as they can through the dunes with Farouk. The sky above is still bright. Behind them, the wall of orange-brown dust has grown much closer, much higher. The first strong wind gusts blow at their clothing. Heavy ink outlines, flat shadows, cream and sepia palette with darkening tones behind.",
+          "paragraphs": [
+            "They walked fast for maybe twenty minutes. Sidi led Farouk by the rope. Nadia was still on the camel — Sidi said she was safer up there. She kept looking back. The wall of dust was much closer now. It was much higher — she could see, when she looked, that the top of it was above the highest dunes. It was maybe a hundred meters high. And it was coming. She could see the shape of it changing as it moved, big rolling shapes tumbling forward like a slow-motion wave. The wind was already starting to pick up. Small stinging bits of sand hit her hands. Her scarf whipped around her face.",
+            "\"Sidi,\" she called. \"Sidi. It is coming faster.\" \"Yes,\" he called back. \"We are not going to make the shelter. Get down. Come. Get down.\" He helped her off Farouk. He tied the goatskins to Nadia's back. He put a rope around her wrist and tied the other end to his own wrist. \"So we do not lose each other. In the storm we cannot see even one meter. If you are separated from me, I will not find you.\" He looked at Farouk. He said something to the camel in a language Nadia did not know. Farouk lowered his head. He touched his big soft nose to Nadia's forehead, once, gently. Then Sidi said, \"We follow him. Whatever he does. Wherever he goes. We follow him. Trust the camel. Yes?\" Nadia said, \"Yes.\""
+          ]
+        },
+        {
+          "image": "cw-ch2-p5-storm-hits",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. The full storm arriving. Everything becoming brown-orange, visibility dropping to almost nothing. Nadia and Sidi crouched close to the ground, holding onto Farouk who has lowered himself to a sitting position, providing a windbreak with his body. The scene is dark and swirling. Heavy ink outlines, flat shadows, orange-brown palette with dark accents.",
+          "paragraphs": [
+            "Then the storm hit. It was much worse than Nadia had imagined. The world went brown-orange. The wind was so loud she could not hear anything else — not Sidi, not Farouk, not her own breath. The sand hit her exposed skin like small needles. Sidi pulled her close and pushed her down. Farouk had lowered himself to a sitting position with his legs folded, and Sidi pressed Nadia against Farouk's side, and then Sidi sat down against Farouk on the other side. Farouk's body was warm. His fur was already covered in sand. His enormous side was blocking most of the wind.",
+            "The storm lasted maybe twenty minutes. It felt much longer. Nadia kept her eyes closed and her face pressed against Farouk's side and she held Sidi's hand very tightly through the storm. She was crying, quietly, but she was not making sounds. Sidi held her hand back. He did not say anything either. There was nothing to say. The wind screamed. The sand hissed. And then — slowly — the wind began to drop. The light began to come back. And after a while it was just a normal sand-blown afternoon, and everything was orange and quiet and it was almost as if the storm had not happened, except for the sand piled up against them and Farouk. They sat there for a while before they moved."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Trust the Camel",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cw-ch3-p1-after",
+          "imagePrompt": "Mike Mignola style for children: exterior scene right after the storm. Everything covered in a thick layer of orange sand. Sidi and Nadia stand up shakily. Farouk is standing again, giving himself a huge shake to get sand off his fur. The dunes look completely reshaped. Warm afternoon light returning. Heavy ink outlines, flat shadows, cream and sepia palette with ochre.",
+          "paragraphs": [
+            "Sidi stood up first. He was covered in sand. He shook himself. He helped Nadia up. She was also covered in sand. She shook herself. Farouk stood up. He gave himself a huge shake, and sand flew off him in a big cloud. The dunes around them looked completely different. Every crest had a new shape. Any footprints they had left were gone. There was no way to tell which way they had come. Nadia looked around. She had no idea which way home was. None. She turned to Sidi.",
+            "Sidi was looking too. He was looking carefully. Then he said, quietly, \"Nadia. Listen. I do not know which way home is either. The storm changed everything. Also I am — I am not thinking as clearly as I usually do. Something in my chest is not right. I got a shock when the storm came. My heart is beating hard. I need to sit and rest for a while.\" He sat back down. He put a hand on his chest. He was breathing carefully. His face was slightly grey. Nadia was suddenly very frightened."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Sidi,\" she said. \"What do we do.\" Sidi took a slow breath. He looked up at her. He said, \"Do you remember what I said. About the camel.\" \"Yes,\" said Nadia. \"Trust the camel.\" \"Yes,\" said Sidi. \"Trust the camel. Farouk knows the way home. He will walk there if we let him. He has done this walk a thousand times. He does not need me. Let him lead. Take the rope. Do not pull him. Do not try to steer him. Just — walk beside him. Whatever direction he goes, we go.\"",
+            "Nadia was quiet for a moment. She said, \"Can you walk, Sidi.\" Sidi said, \"I can walk. Slowly. If you help me. You take the camel. I hold the camel with one hand and you with the other. Yes?\" Nadia said yes. She helped him stand. She took the lead rope. She put her other hand on Sidi's arm. Sidi held Farouk's saddle. And she said to Farouk, in a small voice, \"All right, Farouk. Take us home. Please.\" And Farouk — after a moment of standing still, considering — turned his big head slightly to the north and began to walk."
+          ]
+        },
+        {
+          "image": "cw-ch3-p3-following",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Nadia walks slowly alongside Farouk, holding his rope. Her grandfather walks slowly beside her, one hand on the camel's saddle for support, one hand on Nadia's arm. They move through the endless orange dunes. Nadia's face is focused, brave. Warm late afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They walked for a very long time. Farouk did not walk fast. He walked at the pace of Sidi, which was slow. He walked up dunes and down them. Sometimes he took a route Nadia would never have chosen — around a large dune when it would have been shorter to go over it, or up a steep face when it looked like the wrong direction. But Nadia did not pull on the rope. She did not try to change his mind. She just walked beside him. She kept one hand on his rope and one hand on Sidi's arm. She could feel Sidi getting tired.",
+            "\"Sidi,\" she said, after maybe an hour. \"Do you need to rest.\" \"Yes,\" said Sidi. \"But we should keep going. If I sit now, I will not want to get up.\" So they kept going. Nadia talked to him a little as they walked, to keep him awake and talking. She told him about her school. She told him about her friends. She told him about the movie she had watched with her mother the week before. She was making it up as she went. She did not remember much of what she said. She just kept talking. Sidi answered sometimes. Sometimes he only nodded."
+          ]
+        },
+        {
+          "image": "cw-ch3-p4-village-appears",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at dusk. In the distance, the first mud-brick buildings of Merzouga village appear from behind a large dune, warm and welcoming with lit windows. Farouk continues to walk steadily toward them. Nadia and Sidi visible from behind, still walking together. Warm gold sunset light. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold accents.",
+          "paragraphs": [
+            "It was almost sunset when they came up over a dune and Nadia saw, at the base of the next slope, the first buildings of Merzouga. She almost cried. She had been walking for two and a half hours next to a camel through empty dunes, and she had honestly not been sure they would get there. She stopped and put both her arms around Farouk's big neck. She pressed her face against his fur. He smelled of sand and warm hair and dust. She said, into his fur, \"Thank you, Farouk. Thank you. Thank you.\" Farouk did not move. He let her hug him.",
+            "They came into the village in the last of the golden evening light. People saw them and came running. There was a lot of shouting. Sidi's neighbor, a strong young man named Youssef, took Sidi off the camel and helped him into the house. Someone ran to get the village nurse. Sidi was okay — he had had what the nurse said was a small heart episode, brought on by the shock of the storm, but he was going to recover. He needed rest. He would be fine in a few days."
+          ]
+        },
+        {
+          "image": "cw-ch3-p5-quiet",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the small home that evening. Sidi rests in bed under a blanket, tired but alert. Nadia sits on a small stool at the side of his bed with a cup of mint tea in her hands. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That evening Nadia sat by Sidi's bed with a cup of mint tea. He was very tired but he was awake. He looked at her for a while without speaking. Then he said, \"You did a very brave thing today, Nadia. You trusted the camel. Many people would not have. Many people would have panicked and tried to walk their own direction and would have gone the wrong way. And I would have died in the desert. And you would have died too. So you saved us both today. By listening to what I told you and by doing it.\"",
+            "Nadia said, quietly, \"I was very afraid.\" \"Yes,\" said Sidi. \"So was I. That is what being brave is. Being afraid, and doing the right thing anyway.\" He was quiet for a moment. Then he said, \"Nadia. I want to give you something.\" He reached into his robe. He took out the small piece of paper he had had all day — the folded hand-drawn map with the eleven small crosses on it. He held it out. \"I want you to have this.\" Nadia said, \"But — Sidi. You said only four people know. That is not — I am not supposed to have this.\" Sidi smiled just a little. He said, \"You are the fifth now. It is a decision I am making. You proved today that you can be trusted with something important. And you are twelve. You will live a long time. Someday, someone in the village will need this map. Keep it safe. Do not lose it. When you are older, bring it back and show it to the two younger men. Tell them who taught you. Yes?\" And Nadia took the small folded map. She put it against her chest. She said, quietly, \"Yes, Sidi. I will keep it safe.\" And she did, for the rest of her life."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grandfather",
+    "morocco",
+    "desert",
+    "courage"
+  ]
+}

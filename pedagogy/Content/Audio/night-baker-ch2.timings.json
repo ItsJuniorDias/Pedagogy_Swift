@@ -1,0 +1,631 @@
+{
+  "story_id": "night-baker",
+  "chapter": 2,
+  "total_duration_ms": 354792,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "That first night Senhor Mendes gave Ana a very small piece of dough.",
+      "start_ms": 1420,
+      "end_ms": 5503
+    },
+    {
+      "index": 1,
+      "text": "He put a small apron on her and had her stand at the work surface.",
+      "start_ms": 5503,
+      "end_ms": 9468
+    },
+    {
+      "index": 2,
+      "text": "He said, \"You cannot help me if you do not know the feel of it.",
+      "start_ms": 9468,
+      "end_ms": 13256
+    },
+    {
+      "index": 3,
+      "text": "So we start with feeling.",
+      "start_ms": 13256,
+      "end_ms": 14794
+    },
+    {
+      "index": 4,
+      "text": "Press your hands in.",
+      "start_ms": 14794,
+      "end_ms": 16037
+    },
+    {
+      "index": 5,
+      "text": "Just push.",
+      "start_ms": 16037,
+      "end_ms": 16688
+    },
+    {
+      "index": 6,
+      "text": "Push.",
+      "start_ms": 16688,
+      "end_ms": 17043
+    },
+    {
+      "index": 7,
+      "text": "That is right.",
+      "start_ms": 17043,
+      "end_ms": 17931
+    },
+    {
+      "index": 8,
+      "text": "Now fold, like this.\" He showed her.",
+      "start_ms": 17931,
+      "end_ms": 20120
+    },
+    {
+      "index": 9,
+      "text": "She copied.",
+      "start_ms": 20120,
+      "end_ms": 20830
+    },
+    {
+      "index": 10,
+      "text": "She was slow.",
+      "start_ms": 20830,
+      "end_ms": 21659
+    },
+    {
+      "index": 11,
+      "text": "He was patient.",
+      "start_ms": 21659,
+      "end_ms": 22606
+    },
+    {
+      "index": 12,
+      "text": "Her small piece of dough went from a lumpy ball to something smoother.",
+      "start_ms": 22606,
+      "end_ms": 26866
+    },
+    {
+      "index": 13,
+      "text": "\"That is enough for tonight,\" he said, after maybe twenty minutes.",
+      "start_ms": 26866,
+      "end_ms": 30831
+    },
+    {
+      "index": 14,
+      "text": "\"Now go home.",
+      "start_ms": 30831,
+      "end_ms": 31660
+    },
+    {
+      "index": 15,
+      "text": "Sleep if you can.",
+      "start_ms": 31660,
+      "end_ms": 32725
+    },
+    {
+      "index": 16,
+      "text": "If you want to come back tomorrow night, come at three again.",
+      "start_ms": 32725,
+      "end_ms": 36394
+    },
+    {
+      "index": 17,
+      "text": "I will be here.",
+      "start_ms": 36394,
+      "end_ms": 37341
+    },
+    {
+      "index": 18,
+      "text": "I am always here.",
+      "start_ms": 37341,
+      "end_ms": 38406
+    },
+    {
+      "index": 19,
+      "text": "But — do not tell your mother yet.",
+      "start_ms": 38406,
+      "end_ms": 40477
+    },
+    {
+      "index": 20,
+      "text": "Not because it is a secret.",
+      "start_ms": 40477,
+      "end_ms": 42134
+    },
+    {
+      "index": 21,
+      "text": "But because she is a nurse and she is tired, and if she thinks you are awake at three in the morning she will worry more, and she has enough to worry about.",
+      "start_ms": 42134,
+      "end_ms": 51425
+    },
+    {
+      "index": 22,
+      "text": "When she has a day off, we tell her together.",
+      "start_ms": 51425,
+      "end_ms": 54147
+    },
+    {
+      "index": 23,
+      "text": "Then it is not a secret.",
+      "start_ms": 54147,
+      "end_ms": 55627
+    },
+    {
+      "index": 24,
+      "text": "It is just a thing we are doing.\" Ana nodded.",
+      "start_ms": 55627,
+      "end_ms": 58349
+    },
+    {
+      "index": 25,
+      "text": "She agreed.",
+      "start_ms": 58349,
+      "end_ms": 59118
+    },
+    {
+      "index": 26,
+      "text": "She went back the next night.",
+      "start_ms": 59118,
+      "end_ms": 60893
+    },
+    {
+      "index": 27,
+      "text": "She went back the night after that.",
+      "start_ms": 60893,
+      "end_ms": 63024
+    },
+    {
+      "index": 28,
+      "text": "She went every night for six nights straight.",
+      "start_ms": 63024,
+      "end_ms": 65746
+    },
+    {
+      "index": 29,
+      "text": "She did not sleep less.",
+      "start_ms": 65746,
+      "end_ms": 67166
+    },
+    {
+      "index": 30,
+      "text": "She actually slept better — she found that she went to bed earlier and slept from ten to two-thirty, and then she got up, and she went down to the bakery, and she worked with Senhor Mendes for two or three hours, and then she went back up and slept from six to nine.",
+      "start_ms": 67166,
+      "end_ms": 82966
+    },
+    {
+      "index": 31,
+      "text": "The middle-of-the-night hours had always been the ones that made her feel worst.",
+      "start_ms": 82966,
+      "end_ms": 87760
+    },
+    {
+      "index": 32,
+      "text": "Now they had a purpose.",
+      "start_ms": 87760,
+      "end_ms": 89180
+    },
+    {
+      "index": 33,
+      "text": "Now they were the good part of the day.",
+      "start_ms": 89180,
+      "end_ms": 91488
+    },
+    {
+      "index": 34,
+      "text": "Senhor Mendes taught her all kinds of things.",
+      "start_ms": 91488,
+      "end_ms": 94105
+    },
+    {
+      "index": 35,
+      "text": "He taught her how a dough should feel when it was ready — like an earlobe, he said, which sounded strange but was true.",
+      "start_ms": 94105,
+      "end_ms": 100930
+    },
+    {
+      "index": 36,
+      "text": "He taught her the names of the different flours he used.",
+      "start_ms": 100930,
+      "end_ms": 104172
+    },
+    {
+      "index": 37,
+      "text": "He taught her the shapes — the small round pão, the long thin cacete, the pointy papo-seco.",
+      "start_ms": 104172,
+      "end_ms": 109405
+    },
+    {
+      "index": 38,
+      "text": "He taught her how to slash the tops with a razor before they went into the oven, so they would open up nicely.",
+      "start_ms": 109405,
+      "end_ms": 115719
+    },
+    {
+      "index": 39,
+      "text": "He taught her when a bread was done by knocking on the bottom — a hollow sound meant it was done, a dull sound meant more time.",
+      "start_ms": 115719,
+      "end_ms": 123000
+    },
+    {
+      "index": 40,
+      "text": "Ana learned quickly.",
+      "start_ms": 123000,
+      "end_ms": 124194
+    },
+    {
+      "index": 41,
+      "text": "Her hands began to know things they had not known a week before.",
+      "start_ms": 124194,
+      "end_ms": 127949
+    },
+    {
+      "index": 42,
+      "text": "The oven was the thing Ana came to love most.",
+      "start_ms": 127949,
+      "end_ms": 130565
+    },
+    {
+      "index": 43,
+      "text": "It was very old, made of brick, and it was heated by wood.",
+      "start_ms": 130565,
+      "end_ms": 133921
+    },
+    {
+      "index": 44,
+      "text": "Senhor Mendes started the fire at midnight, and by the time Ana arrived at three, it was the right temperature — hot enough that you could not stand close to it for long.",
+      "start_ms": 133921,
+      "end_ms": 143648
+    },
+    {
+      "index": 45,
+      "text": "Senhor Mendes used a long wooden peel to slide the shaped breads in and out.",
+      "start_ms": 143648,
+      "end_ms": 148028
+    },
+    {
+      "index": 46,
+      "text": "He did this hundreds of times a night.",
+      "start_ms": 148028,
+      "end_ms": 150246
+    },
+    {
+      "index": 47,
+      "text": "It was hard work.",
+      "start_ms": 150246,
+      "end_ms": 151270
+    },
+    {
+      "index": 48,
+      "text": "Ana was not allowed to touch the peel yet, because it was heavy and hot, but she was allowed to open the door for him when both his hands were full.",
+      "start_ms": 151270,
+      "end_ms": 159802
+    },
+    {
+      "index": 49,
+      "text": "\"How do you know when to put them in,\" she asked, on the third night.",
+      "start_ms": 159802,
+      "end_ms": 163784
+    },
+    {
+      "index": 50,
+      "text": "Senhor Mendes was slashing the tops of a batch of round breads.",
+      "start_ms": 163784,
+      "end_ms": 167424
+    },
+    {
+      "index": 51,
+      "text": "\"I do not know exactly,\" he said.",
+      "start_ms": 167424,
+      "end_ms": 169358
+    },
+    {
+      "index": 52,
+      "text": "\"I know from feel.",
+      "start_ms": 169358,
+      "end_ms": 170439
+    },
+    {
+      "index": 53,
+      "text": "From how puffed they are.",
+      "start_ms": 170439,
+      "end_ms": 171917
+    },
+    {
+      "index": 54,
+      "text": "From how they smell.",
+      "start_ms": 171917,
+      "end_ms": 173112
+    },
+    {
+      "index": 55,
+      "text": "From how the light in the room looks — which sounds crazy, but is true.",
+      "start_ms": 173112,
+      "end_ms": 177207
+    },
+    {
+      "index": 56,
+      "text": "At three-thirty in the morning the light is different than at four-thirty.",
+      "start_ms": 177207,
+      "end_ms": 181473
+    },
+    {
+      "index": 57,
+      "text": "Everything about it is different.",
+      "start_ms": 181473,
+      "end_ms": 183407
+    },
+    {
+      "index": 58,
+      "text": "And after fifty years, my hands and my nose and my eyes have all learned.",
+      "start_ms": 183407,
+      "end_ms": 187617
+    },
+    {
+      "index": 59,
+      "text": "I could do it in my sleep.",
+      "start_ms": 187617,
+      "end_ms": 189152
+    },
+    {
+      "index": 60,
+      "text": "Sometimes I think I am doing it in my sleep.\"",
+      "start_ms": 189152,
+      "end_ms": 191712
+    },
+    {
+      "index": 61,
+      "text": "On the fourth night, Ana asked him something she had been thinking about.",
+      "start_ms": 191712,
+      "end_ms": 196167
+    },
+    {
+      "index": 62,
+      "text": "\"Senhor Mendes.",
+      "start_ms": 196167,
+      "end_ms": 197131
+    },
+    {
+      "index": 63,
+      "text": "Are you the only one.",
+      "start_ms": 197131,
+      "end_ms": 198455
+    },
+    {
+      "index": 64,
+      "text": "In all of Lisbon.",
+      "start_ms": 198455,
+      "end_ms": 199539
+    },
+    {
+      "index": 65,
+      "text": "Who does this at night.\" Senhor Mendes laughed.",
+      "start_ms": 199539,
+      "end_ms": 202429
+    },
+    {
+      "index": 66,
+      "text": "\"Oh no,\" he said.",
+      "start_ms": 202429,
+      "end_ms": 203513
+    },
+    {
+      "index": 67,
+      "text": "\"There are many of us.",
+      "start_ms": 203513,
+      "end_ms": 204898
+    },
+    {
+      "index": 68,
+      "text": "Not as many as there used to be — most bakeries now make their bread with machines during the day, or they get their bread from a big factory somewhere.",
+      "start_ms": 204898,
+      "end_ms": 214109
+    },
+    {
+      "index": 69,
+      "text": "But the old bakeries — the ones like mine — there are maybe forty of us in Lisbon still.",
+      "start_ms": 214109,
+      "end_ms": 219468
+    },
+    {
+      "index": 70,
+      "text": "All working at night.",
+      "start_ms": 219468,
+      "end_ms": 220792
+    },
+    {
+      "index": 71,
+      "text": "All making bread by hand.",
+      "start_ms": 220792,
+      "end_ms": 222358
+    },
+    {
+      "index": 72,
+      "text": "If you go up to a rooftop and look out at Lisbon at three in the morning, you can see the little lights of maybe twenty bakeries in the dark.",
+      "start_ms": 222358,
+      "end_ms": 230907
+    },
+    {
+      "index": 73,
+      "text": "All of us working.",
+      "start_ms": 230907,
+      "end_ms": 232051
+    },
+    {
+      "index": 74,
+      "text": "All of us making tomorrow's bread.",
+      "start_ms": 232051,
+      "end_ms": 234158
+    },
+    {
+      "index": 75,
+      "text": "Nobody knows.",
+      "start_ms": 234158,
+      "end_ms": 235001
+    },
+    {
+      "index": 76,
+      "text": "The city is asleep.",
+      "start_ms": 235001,
+      "end_ms": 236206
+    },
+    {
+      "index": 77,
+      "text": "But we are awake, and we are feeding them.\"",
+      "start_ms": 236206,
+      "end_ms": 238915
+    },
+    {
+      "index": 78,
+      "text": "Ana thought about this.",
+      "start_ms": 238915,
+      "end_ms": 240360
+    },
+    {
+      "index": 79,
+      "text": "She thought about it for a long time.",
+      "start_ms": 240360,
+      "end_ms": 242648
+    },
+    {
+      "index": 80,
+      "text": "She thought about how she had lived her whole life above a bakery and had not known that at three in the morning her whole building had a warm bright light in the bottom of it and a man working.",
+      "start_ms": 242648,
+      "end_ms": 254388
+    },
+    {
+      "index": 81,
+      "text": "She thought about how many other things were happening at three in the morning that she did not know about.",
+      "start_ms": 254388,
+      "end_ms": 260891
+    },
+    {
+      "index": 82,
+      "text": "She thought about her mother, at the hospital, at three in the morning.",
+      "start_ms": 260891,
+      "end_ms": 265226
+    },
+    {
+      "index": 83,
+      "text": "Doing something for someone she did not know.",
+      "start_ms": 265226,
+      "end_ms": 268055
+    },
+    {
+      "index": 84,
+      "text": "On the sixth night, Ana stayed until the very end.",
+      "start_ms": 268055,
+      "end_ms": 271126
+    },
+    {
+      "index": 85,
+      "text": "She had usually left around five o'clock to go back upstairs before her mother came home, but this time — because her mother was working a double shift and would not be home until noon — she stayed until six.",
+      "start_ms": 271126,
+      "end_ms": 283710
+    },
+    {
+      "index": 86,
+      "text": "She helped Senhor Mendes arrange all the finished bread on the shelves.",
+      "start_ms": 283710,
+      "end_ms": 288044
+    },
+    {
+      "index": 87,
+      "text": "There were maybe two hundred loaves.",
+      "start_ms": 288044,
+      "end_ms": 290272
+    },
+    {
+      "index": 88,
+      "text": "Small round pão.",
+      "start_ms": 290272,
+      "end_ms": 291296
+    },
+    {
+      "index": 89,
+      "text": "Long thin cacete.",
+      "start_ms": 291296,
+      "end_ms": 292379
+    },
+    {
+      "index": 90,
+      "text": "Papo-seco with points.",
+      "start_ms": 292379,
+      "end_ms": 293764
+    },
+    {
+      "index": 91,
+      "text": "She had helped make maybe forty of them herself.",
+      "start_ms": 293764,
+      "end_ms": 296714
+    },
+    {
+      "index": 92,
+      "text": "She could tell which ones because they were a little wonkier than the ones Senhor Mendes had done alone.",
+      "start_ms": 296714,
+      "end_ms": 302976
+    },
+    {
+      "index": 93,
+      "text": "At six o'clock exactly, Senhor Mendes went to the door and unlocked it.",
+      "start_ms": 302976,
+      "end_ms": 307058
+    },
+    {
+      "index": 94,
+      "text": "The first customer came in almost immediately — a man in a work shirt, who nodded at Senhor Mendes and said, \"Bom dia.",
+      "start_ms": 307058,
+      "end_ms": 313804
+    },
+    {
+      "index": 95,
+      "text": "Two pão and one cafe, please.\" Senhor Mendes served him.",
+      "start_ms": 313804,
+      "end_ms": 317035
+    },
+    {
+      "index": 96,
+      "text": "Ana stood back and watched.",
+      "start_ms": 317035,
+      "end_ms": 318623
+    },
+    {
+      "index": 97,
+      "text": "The man did not know.",
+      "start_ms": 318623,
+      "end_ms": 319870
+    },
+    {
+      "index": 98,
+      "text": "He did not know that a ten-year-old girl who lived upstairs had helped shape one of the breads he was buying.",
+      "start_ms": 319870,
+      "end_ms": 326106
+    },
+    {
+      "index": 99,
+      "text": "He did not know that Senhor Mendes had been awake for six hours already.",
+      "start_ms": 326106,
+      "end_ms": 330245
+    },
+    {
+      "index": 100,
+      "text": "He was just buying bread on his way to work.",
+      "start_ms": 330245,
+      "end_ms": 332796
+    },
+    {
+      "index": 101,
+      "text": "He would go, and he would eat one of the breads on his break, and he would never think about it, and he would live his whole life this way, and other people would live their whole lives this way, and Ana understood that this was not sad.",
+      "start_ms": 332796,
+      "end_ms": 346288
+    },
+    {
+      "index": 102,
+      "text": "This was — how a city worked.",
+      "start_ms": 346288,
+      "end_ms": 347989
+    },
+    {
+      "index": 103,
+      "text": "Some people made things and other people did not know who had made them, and the city functioned because both were true.",
+      "start_ms": 347989,
+      "end_ms": 354792
+    }
+  ]
+}

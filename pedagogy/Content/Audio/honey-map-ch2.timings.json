@@ -1,0 +1,571 @@
+{
+  "story_id": "honey-map",
+  "chapter": 2,
+  "total_duration_ms": 273048,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The first two weeks were frustrating for Ilona.",
+      "start_ms": 1677,
+      "end_ms": 4773
+    },
+    {
+      "index": 1,
+      "text": "Uncle Béla was patient but firm.",
+      "start_ms": 4773,
+      "end_ms": 6902
+    },
+    {
+      "index": 2,
+      "text": "Every day at four o'clock they sat at the kitchen table, and he opened jars, and he made her taste them, and he asked her what she tasted.",
+      "start_ms": 6902,
+      "end_ms": 15867
+    },
+    {
+      "index": 3,
+      "text": "At first she could only say \"honey.\" He would nod and let her try again.",
+      "start_ms": 15867,
+      "end_ms": 20576
+    },
+    {
+      "index": 4,
+      "text": "Slowly she started to notice things.",
+      "start_ms": 20576,
+      "end_ms": 22963
+    },
+    {
+      "index": 5,
+      "text": "Bitter.",
+      "start_ms": 22963,
+      "end_ms": 23479
+    },
+    {
+      "index": 6,
+      "text": "Sweet.",
+      "start_ms": 23479,
+      "end_ms": 23930
+    },
+    {
+      "index": 7,
+      "text": "Floral.",
+      "start_ms": 23930,
+      "end_ms": 24446
+    },
+    {
+      "index": 8,
+      "text": "Pepper.",
+      "start_ms": 24446,
+      "end_ms": 24962
+    },
+    {
+      "index": 9,
+      "text": "Woody.",
+      "start_ms": 24962,
+      "end_ms": 25414
+    },
+    {
+      "index": 10,
+      "text": "She began to have words for the differences.",
+      "start_ms": 25414,
+      "end_ms": 28381
+    },
+    {
+      "index": 11,
+      "text": "But even when she could describe a taste, she could not connect the taste to a place.",
+      "start_ms": 28381,
+      "end_ms": 33928
+    },
+    {
+      "index": 12,
+      "text": "Uncle Béla would say, \"So where were the bees?",
+      "start_ms": 33928,
+      "end_ms": 36959
+    },
+    {
+      "index": 13,
+      "text": "Look at the map.",
+      "start_ms": 36959,
+      "end_ms": 38056
+    },
+    {
+      "index": 14,
+      "text": "Where were they in mid-July?\" And she would guess wrong.",
+      "start_ms": 38056,
+      "end_ms": 41732
+    },
+    {
+      "index": 15,
+      "text": "She did not know what acacia tasted like, or thyme, or clover.",
+      "start_ms": 41732,
+      "end_ms": 45796
+    },
+    {
+      "index": 16,
+      "text": "She was a city child.",
+      "start_ms": 45796,
+      "end_ms": 47215
+    },
+    {
+      "index": 17,
+      "text": "She was learning a language that she had no vocabulary for.",
+      "start_ms": 47215,
+      "end_ms": 51085
+    },
+    {
+      "index": 18,
+      "text": "It felt impossible.",
+      "start_ms": 51085,
+      "end_ms": 52375
+    },
+    {
+      "index": 19,
+      "text": "On the tenth day she got angry and pushed her jar away and said, \"Uncle Béla, I can't do this.",
+      "start_ms": 52375,
+      "end_ms": 58503
+    },
+    {
+      "index": 20,
+      "text": "Nobody does this anymore.",
+      "start_ms": 58503,
+      "end_ms": 60180
+    },
+    {
+      "index": 21,
+      "text": "Why does it matter.\"",
+      "start_ms": 60180,
+      "end_ms": 61599
+    },
+    {
+      "index": 22,
+      "text": "Uncle Béla did not answer right away.",
+      "start_ms": 61599,
+      "end_ms": 64050
+    },
+    {
+      "index": 23,
+      "text": "He took the jar back.",
+      "start_ms": 64050,
+      "end_ms": 65469
+    },
+    {
+      "index": 24,
+      "text": "He put the lid on it.",
+      "start_ms": 65469,
+      "end_ms": 66888
+    },
+    {
+      "index": 25,
+      "text": "He did not look angry, but he did not look happy either.",
+      "start_ms": 66888,
+      "end_ms": 70565
+    },
+    {
+      "index": 26,
+      "text": "He said, quietly, \"It matters because when I die, this will die.",
+      "start_ms": 70565,
+      "end_ms": 74757
+    },
+    {
+      "index": 27,
+      "text": "My father was the last one who knew this.",
+      "start_ms": 74757,
+      "end_ms": 77466
+    },
+    {
+      "index": 28,
+      "text": "His mother taught him.",
+      "start_ms": 77466,
+      "end_ms": 78950
+    },
+    {
+      "index": 29,
+      "text": "I have been trying for years to find someone to teach it to.",
+      "start_ms": 78950,
+      "end_ms": 82884
+    },
+    {
+      "index": 30,
+      "text": "Everyone says nobody does this anymore.",
+      "start_ms": 82884,
+      "end_ms": 85465
+    },
+    {
+      "index": 31,
+      "text": "Everyone says it is silly.",
+      "start_ms": 85465,
+      "end_ms": 87206
+    },
+    {
+      "index": 32,
+      "text": "But when the last person who can do it is gone, then it is gone.",
+      "start_ms": 87206,
+      "end_ms": 91399
+    },
+    {
+      "index": 33,
+      "text": "That is what a lost thing is.\"",
+      "start_ms": 91399,
+      "end_ms": 93463
+    },
+    {
+      "index": 34,
+      "text": "Ilona sat with her hands in her lap.",
+      "start_ms": 93463,
+      "end_ms": 95849
+    },
+    {
+      "index": 35,
+      "text": "She had not thought of it like that.",
+      "start_ms": 95849,
+      "end_ms": 98236
+    },
+    {
+      "index": 36,
+      "text": "She said, \"I'm sorry.\" Uncle Béla shook his head.",
+      "start_ms": 98236,
+      "end_ms": 101461
+    },
+    {
+      "index": 37,
+      "text": "\"Do not be sorry.",
+      "start_ms": 101461,
+      "end_ms": 102622
+    },
+    {
+      "index": 38,
+      "text": "But do not stop.",
+      "start_ms": 102622,
+      "end_ms": 103718
+    },
+    {
+      "index": 39,
+      "text": "It is your choice, of course.",
+      "start_ms": 103718,
+      "end_ms": 105653
+    },
+    {
+      "index": 40,
+      "text": "You can go home whenever you want.",
+      "start_ms": 105653,
+      "end_ms": 107911
+    },
+    {
+      "index": 41,
+      "text": "But if you stay, please be serious about it.",
+      "start_ms": 107911,
+      "end_ms": 110814
+    },
+    {
+      "index": 42,
+      "text": "If you do it you might be the last one after me.",
+      "start_ms": 110814,
+      "end_ms": 113974
+    },
+    {
+      "index": 43,
+      "text": "Or you might not.",
+      "start_ms": 113974,
+      "end_ms": 115135
+    },
+    {
+      "index": 44,
+      "text": "Maybe you teach it to your own daughter someday.",
+      "start_ms": 115135,
+      "end_ms": 118296
+    },
+    {
+      "index": 45,
+      "text": "That is what I hope for.",
+      "start_ms": 118296,
+      "end_ms": 119908
+    },
+    {
+      "index": 46,
+      "text": "But even if you never teach anyone, you will know.",
+      "start_ms": 119908,
+      "end_ms": 123198
+    },
+    {
+      "index": 47,
+      "text": "That is enough.",
+      "start_ms": 123198,
+      "end_ms": 124230
+    },
+    {
+      "index": 48,
+      "text": "Someone will still know how to read a jar of honey.\"",
+      "start_ms": 124230,
+      "end_ms": 127584
+    },
+    {
+      "index": 49,
+      "text": "So Ilona kept trying.",
+      "start_ms": 127584,
+      "end_ms": 129108
+    },
+    {
+      "index": 50,
+      "text": "After that day, Uncle Béla changed how he taught her.",
+      "start_ms": 129108,
+      "end_ms": 132848
+    },
+    {
+      "index": 51,
+      "text": "Instead of tasting inside, he took her out onto the hills.",
+      "start_ms": 132848,
+      "end_ms": 136935
+    },
+    {
+      "index": 52,
+      "text": "He showed her the acacia trees, and he had her taste an acacia flower.",
+      "start_ms": 136935,
+      "end_ms": 141853
+    },
+    {
+      "index": 53,
+      "text": "\"See?",
+      "start_ms": 141853,
+      "end_ms": 142269
+    },
+    {
+      "index": 54,
+      "text": "Slightly sweet, slightly like grass.",
+      "start_ms": 142269,
+      "end_ms": 144832
+    },
+    {
+      "index": 55,
+      "text": "This is what the honey will taste like.\" He showed her the thyme, and had her rub it between her fingers, and smell it.",
+      "start_ms": 144832,
+      "end_ms": 153144
+    },
+    {
+      "index": 56,
+      "text": "He showed her wild sunflowers, and buckwheat fields, and a small stand of lime trees behind the church.",
+      "start_ms": 153144,
+      "end_ms": 160348
+    },
+    {
+      "index": 57,
+      "text": "Each thing had a smell and a taste, and each thing translated, later, into a taste in the honey.",
+      "start_ms": 160348,
+      "end_ms": 167136
+    },
+    {
+      "index": 58,
+      "text": "It was slow going.",
+      "start_ms": 167136,
+      "end_ms": 168452
+    },
+    {
+      "index": 59,
+      "text": "But it was better than the kitchen.",
+      "start_ms": 168452,
+      "end_ms": 170946
+    },
+    {
+      "index": 60,
+      "text": "Ilona began to like the walks.",
+      "start_ms": 170946,
+      "end_ms": 173093
+    },
+    {
+      "index": 61,
+      "text": "She began to like the plants.",
+      "start_ms": 173093,
+      "end_ms": 175171
+    },
+    {
+      "index": 62,
+      "text": "She began to like Uncle Béla in a new way — not just as the great-uncle who used to give her honey on toast, but as a person who knew things.",
+      "start_ms": 175171,
+      "end_ms": 185007
+    },
+    {
+      "index": 63,
+      "text": "Real things.",
+      "start_ms": 185007,
+      "end_ms": 185907
+    },
+    {
+      "index": 64,
+      "text": "Things that were hard to know.",
+      "start_ms": 185907,
+      "end_ms": 188124
+    },
+    {
+      "index": 65,
+      "text": "By the end of the third week, Ilona could get some things right.",
+      "start_ms": 188124,
+      "end_ms": 192626
+    },
+    {
+      "index": 66,
+      "text": "Not everything.",
+      "start_ms": 192626,
+      "end_ms": 193735
+    },
+    {
+      "index": 67,
+      "text": "Not most things.",
+      "start_ms": 193735,
+      "end_ms": 194912
+    },
+    {
+      "index": 68,
+      "text": "But sometimes.",
+      "start_ms": 194912,
+      "end_ms": 195951
+    },
+    {
+      "index": 69,
+      "text": "Uncle Béla would open a jar, and she would taste it with her eyes closed, and she would say, \"This is acacia.",
+      "start_ms": 195951,
+      "end_ms": 203571
+    },
+    {
+      "index": 70,
+      "text": "Early.",
+      "start_ms": 203571,
+      "end_ms": 204056
+    },
+    {
+      "index": 71,
+      "text": "Maybe the third week of June.\" And Uncle Béla would smile and check the label, and she would be right.",
+      "start_ms": 204056,
+      "end_ms": 211190
+    },
+    {
+      "index": 72,
+      "text": "When she was right, she felt something completely new.",
+      "start_ms": 211190,
+      "end_ms": 215000
+    },
+    {
+      "index": 73,
+      "text": "It was not exactly pride.",
+      "start_ms": 215000,
+      "end_ms": 216801
+    },
+    {
+      "index": 74,
+      "text": "It was more like — recognition.",
+      "start_ms": 216801,
+      "end_ms": 219017
+    },
+    {
+      "index": 75,
+      "text": "As if she had opened a door and found a room that had always been there, waiting.",
+      "start_ms": 219017,
+      "end_ms": 224767
+    },
+    {
+      "index": 76,
+      "text": "\"You are doing it,\" he said, one evening.",
+      "start_ms": 224767,
+      "end_ms": 227676
+    },
+    {
+      "index": 77,
+      "text": "\"You are actually doing it.",
+      "start_ms": 227676,
+      "end_ms": 229615
+    },
+    {
+      "index": 78,
+      "text": "I did not know if you would.",
+      "start_ms": 229615,
+      "end_ms": 231624
+    },
+    {
+      "index": 79,
+      "text": "I thought maybe you would not.",
+      "start_ms": 231624,
+      "end_ms": 233772
+    },
+    {
+      "index": 80,
+      "text": "But you are.\"",
+      "start_ms": 233772,
+      "end_ms": 234672
+    },
+    {
+      "index": 81,
+      "text": "\"Uncle Béla,\" she said.",
+      "start_ms": 234672,
+      "end_ms": 236150
+    },
+    {
+      "index": 82,
+      "text": "\"There are seven jars in a row.",
+      "start_ms": 236150,
+      "end_ms": 238122
+    },
+    {
+      "index": 83,
+      "text": "I know what six of them are.",
+      "start_ms": 238122,
+      "end_ms": 239908
+    },
+    {
+      "index": 84,
+      "text": "But there is one from last week that I cannot figure out.",
+      "start_ms": 239908,
+      "end_ms": 243481
+    },
+    {
+      "index": 85,
+      "text": "It has something in it I have not tasted before.\" Uncle Béla nodded.",
+      "start_ms": 243481,
+      "end_ms": 247731
+    },
+    {
+      "index": 86,
+      "text": "\"Bring it out.\" She got up and got it from the shelf.",
+      "start_ms": 247731,
+      "end_ms": 251057
+    },
+    {
+      "index": 87,
+      "text": "It was the last jar of the season, from the very last collection Uncle Béla had done, three days before Ilona had first come.",
+      "start_ms": 251057,
+      "end_ms": 258819
+    },
+    {
+      "index": 88,
+      "text": "It was a light amber color, unremarkable to look at.",
+      "start_ms": 258819,
+      "end_ms": 262083
+    },
+    {
+      "index": 89,
+      "text": "She poured a small spoonful onto her spoon.",
+      "start_ms": 262083,
+      "end_ms": 264794
+    },
+    {
+      "index": 90,
+      "text": "She tasted it again.",
+      "start_ms": 264794,
+      "end_ms": 266087
+    },
+    {
+      "index": 91,
+      "text": "There it was.",
+      "start_ms": 266087,
+      "end_ms": 266950
+    },
+    {
+      "index": 92,
+      "text": "Something she could not name.",
+      "start_ms": 266950,
+      "end_ms": 268798
+    },
+    {
+      "index": 93,
+      "text": "Something that reminded her of somewhere, but she did not know where.",
+      "start_ms": 268798,
+      "end_ms": 273048
+    }
+  ]
+}

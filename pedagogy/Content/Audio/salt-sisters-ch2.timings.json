@@ -1,0 +1,559 @@
+{
+  "story_id": "salt-sisters",
+  "chapter": 2,
+  "total_duration_ms": 294960,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "It was still dark when they left.",
+      "start_ms": 1928,
+      "end_ms": 4112
+    },
+    {
+      "index": 1,
+      "text": "Isla had woken Camila before dawn, and they had eaten cold bread standing in the kitchen.",
+      "start_ms": 4112,
+      "end_ms": 9895
+    },
+    {
+      "index": 2,
+      "text": "Abuelo was still asleep, though his fever was worse.",
+      "start_ms": 9895,
+      "end_ms": 13300
+    },
+    {
+      "index": 3,
+      "text": "He had not woken up when Isla had put a cool cloth on his forehead.",
+      "start_ms": 13300,
+      "end_ms": 17669
+    },
+    {
+      "index": 4,
+      "text": "She had left a note by his bed just in case, and a jug of water.",
+      "start_ms": 17669,
+      "end_ms": 21845
+    },
+    {
+      "index": 5,
+      "text": "They had put on their thick sweaters and their wool caps and their boots.",
+      "start_ms": 21845,
+      "end_ms": 26600
+    },
+    {
+      "index": 6,
+      "text": "Isla carried the notebook wrapped in a piece of oilcloth, and a canvas bag for gathering, and a small folding knife that Abuelo had given her for her tenth birthday.",
+      "start_ms": 26600,
+      "end_ms": 37266
+    },
+    {
+      "index": 7,
+      "text": "Camila carried a smaller canvas bag and a paper bag with two apples.",
+      "start_ms": 37266,
+      "end_ms": 41763
+    },
+    {
+      "index": 8,
+      "text": "The walk to the north corner was five kilometers.",
+      "start_ms": 41763,
+      "end_ms": 44976
+    },
+    {
+      "index": 9,
+      "text": "In summer it took two hours.",
+      "start_ms": 44976,
+      "end_ms": 46839
+    },
+    {
+      "index": 10,
+      "text": "In autumn, after weeks of rain, it took longer, because the paths were muddy.",
+      "start_ms": 46839,
+      "end_ms": 51851
+    },
+    {
+      "index": 11,
+      "text": "Isla figured they would be there by nine, back by one, and could start the tea by two.",
+      "start_ms": 51851,
+      "end_ms": 57441
+    },
+    {
+      "index": 12,
+      "text": "That would give Abuelo his first dose in the afternoon.",
+      "start_ms": 57441,
+      "end_ms": 61039
+    },
+    {
+      "index": 13,
+      "text": "It was a plan.",
+      "start_ms": 61039,
+      "end_ms": 62003
+    },
+    {
+      "index": 14,
+      "text": "She kept saying the plan to herself.",
+      "start_ms": 62003,
+      "end_ms": 64380
+    },
+    {
+      "index": 15,
+      "text": "It made her feel less afraid.",
+      "start_ms": 64380,
+      "end_ms": 66372
+    },
+    {
+      "index": 16,
+      "text": "The forest at the north corner was a temperate rainforest, thick and wet and green in every direction.",
+      "start_ms": 66372,
+      "end_ms": 72990
+    },
+    {
+      "index": 17,
+      "text": "Everything dripped.",
+      "start_ms": 72990,
+      "end_ms": 74275
+    },
+    {
+      "index": 18,
+      "text": "Everything smelled like moss.",
+      "start_ms": 74275,
+      "end_ms": 76202
+    },
+    {
+      "index": 19,
+      "text": "The trees were pale and the ferns were huge, and Isla and Camila walked in single file along a narrow trail.",
+      "start_ms": 76202,
+      "end_ms": 83206
+    },
+    {
+      "index": 20,
+      "text": "Isla went first, holding the notebook open in one hand.",
+      "start_ms": 83206,
+      "end_ms": 86804
+    },
+    {
+      "index": 21,
+      "text": "Every so often she stopped to check a plant, in case it was the yerba de San Juan.",
+      "start_ms": 86804,
+      "end_ms": 92136
+    },
+    {
+      "index": 22,
+      "text": "Most of them were not.",
+      "start_ms": 92136,
+      "end_ms": 93678
+    },
+    {
+      "index": 23,
+      "text": "\"How do we know it,\" Camila asked, after they had been walking a while.",
+      "start_ms": 93678,
+      "end_ms": 98305
+    },
+    {
+      "index": 24,
+      "text": "\"Small leaves,\" Isla said, reading.",
+      "start_ms": 98305,
+      "end_ms": 100618
+    },
+    {
+      "index": 25,
+      "text": "\"Dark green.",
+      "start_ms": 100618,
+      "end_ms": 101453
+    },
+    {
+      "index": 26,
+      "text": "Little purple flowers, but only some of the year.",
+      "start_ms": 101453,
+      "end_ms": 104665
+    },
+    {
+      "index": 27,
+      "text": "Grows near stones.",
+      "start_ms": 104665,
+      "end_ms": 105886
+    },
+    {
+      "index": 28,
+      "text": "Smells like — Abuela wrote 'like a house after the rain'.",
+      "start_ms": 105886,
+      "end_ms": 109613
+    },
+    {
+      "index": 29,
+      "text": "I don't know what that means.\" Camila thought.",
+      "start_ms": 109613,
+      "end_ms": 112633
+    },
+    {
+      "index": 30,
+      "text": "\"Like our house?",
+      "start_ms": 112633,
+      "end_ms": 113725
+    },
+    {
+      "index": 31,
+      "text": "After it rains?",
+      "start_ms": 113725,
+      "end_ms": 114753
+    },
+    {
+      "index": 32,
+      "text": "It smells like wood.\" Isla said, \"I think so.",
+      "start_ms": 114753,
+      "end_ms": 117708
+    },
+    {
+      "index": 33,
+      "text": "I don't know.\"",
+      "start_ms": 117708,
+      "end_ms": 118608
+    },
+    {
+      "index": 34,
+      "text": "They found it at maybe ten o'clock.",
+      "start_ms": 118608,
+      "end_ms": 120819
+    },
+    {
+      "index": 35,
+      "text": "Camila was actually the one who saw it — a small dark green cluster of leaves near the base of a big mossy rock, with three tiny purple flowers still holding on despite the season.",
+      "start_ms": 120819,
+      "end_ms": 131934
+    },
+    {
+      "index": 36,
+      "text": "Isla checked the drawing.",
+      "start_ms": 131934,
+      "end_ms": 133531
+    },
+    {
+      "index": 37,
+      "text": "The shape was right.",
+      "start_ms": 133531,
+      "end_ms": 134821
+    },
+    {
+      "index": 38,
+      "text": "The color was right.",
+      "start_ms": 134821,
+      "end_ms": 136110
+    },
+    {
+      "index": 39,
+      "text": "The purple flowers were right.",
+      "start_ms": 136110,
+      "end_ms": 138014
+    },
+    {
+      "index": 40,
+      "text": "Camila leaned down and smelled the leaves.",
+      "start_ms": 138014,
+      "end_ms": 140655
+    },
+    {
+      "index": 41,
+      "text": "She sat back on her heels.",
+      "start_ms": 140655,
+      "end_ms": 142313
+    },
+    {
+      "index": 42,
+      "text": "\"It smells like our house,\" she said.",
+      "start_ms": 142313,
+      "end_ms": 144647
+    },
+    {
+      "index": 43,
+      "text": "\"It really does.",
+      "start_ms": 144647,
+      "end_ms": 145691
+    },
+    {
+      "index": 44,
+      "text": "It smells like wood.\" Isla smelled it too.",
+      "start_ms": 145691,
+      "end_ms": 148332
+    },
+    {
+      "index": 45,
+      "text": "Camila was right.",
+      "start_ms": 148332,
+      "end_ms": 149437
+    },
+    {
+      "index": 46,
+      "text": "It smelled like wood after rain.",
+      "start_ms": 149437,
+      "end_ms": 151525
+    },
+    {
+      "index": 47,
+      "text": "\"That's it,\" Isla said.",
+      "start_ms": 151525,
+      "end_ms": 152999
+    },
+    {
+      "index": 48,
+      "text": "Her hands were shaking a little.",
+      "start_ms": 152999,
+      "end_ms": 155025
+    },
+    {
+      "index": 49,
+      "text": "She was relieved.",
+      "start_ms": 155025,
+      "end_ms": 156131
+    },
+    {
+      "index": 50,
+      "text": "She had been so afraid it would not be here, or that she would not know it.",
+      "start_ms": 156131,
+      "end_ms": 160798
+    },
+    {
+      "index": 51,
+      "text": "But it was here, and she knew it.",
+      "start_ms": 160798,
+      "end_ms": 162886
+    },
+    {
+      "index": 52,
+      "text": "\"Now we have to sing to it,\" said Camila.",
+      "start_ms": 162886,
+      "end_ms": 165466
+    },
+    {
+      "index": 53,
+      "text": "Isla had not been looking forward to this part.",
+      "start_ms": 165466,
+      "end_ms": 168413
+    },
+    {
+      "index": 54,
+      "text": "She was not sure why.",
+      "start_ms": 168413,
+      "end_ms": 169764
+    },
+    {
+      "index": 55,
+      "text": "She flipped in the notebook to the song.",
+      "start_ms": 169764,
+      "end_ms": 172282
+    },
+    {
+      "index": 56,
+      "text": "It was written in Abuela's small careful notation.",
+      "start_ms": 172282,
+      "end_ms": 175414
+    },
+    {
+      "index": 57,
+      "text": "There were four lines.",
+      "start_ms": 175414,
+      "end_ms": 176827
+    },
+    {
+      "index": 58,
+      "text": "Isla could read music a little — she had learned some at the village school — but not well.",
+      "start_ms": 176827,
+      "end_ms": 182477
+    },
+    {
+      "index": 59,
+      "text": "She hummed the first line under her breath, slowly.",
+      "start_ms": 182477,
+      "end_ms": 185732
+    },
+    {
+      "index": 60,
+      "text": "Camila listened.",
+      "start_ms": 185732,
+      "end_ms": 186776
+    },
+    {
+      "index": 61,
+      "text": "Camila did not need the paper.",
+      "start_ms": 186776,
+      "end_ms": 188679
+    },
+    {
+      "index": 62,
+      "text": "Camila closed her eyes, and after a moment, she began to sing.",
+      "start_ms": 188679,
+      "end_ms": 192548
+    },
+    {
+      "index": 63,
+      "text": "She sang the song in her small clear voice.",
+      "start_ms": 192548,
+      "end_ms": 195250
+    },
+    {
+      "index": 64,
+      "text": "It was very simple — a low tune, four lines, in the old language of the island.",
+      "start_ms": 195250,
+      "end_ms": 200163
+    },
+    {
+      "index": 65,
+      "text": "Camila had heard it maybe two or three times when Abuela had been alive.",
+      "start_ms": 200163,
+      "end_ms": 204647
+    },
+    {
+      "index": 66,
+      "text": "She had remembered it.",
+      "start_ms": 204647,
+      "end_ms": 206059
+    },
+    {
+      "index": 67,
+      "text": "She sang it now, kneeling in the moss beside the plant.",
+      "start_ms": 206059,
+      "end_ms": 209498
+    },
+    {
+      "index": 68,
+      "text": "Isla did not sing with her.",
+      "start_ms": 209498,
+      "end_ms": 211218
+    },
+    {
+      "index": 69,
+      "text": "She only listened, and she looked at the plant.",
+      "start_ms": 211218,
+      "end_ms": 214104
+    },
+    {
+      "index": 70,
+      "text": "When Camila was done, Isla cut the plant carefully — not all of it, just what she needed, leaving the roots and some of the leaves so it would grow back.",
+      "start_ms": 214104,
+      "end_ms": 223832
+    },
+    {
+      "index": 71,
+      "text": "That was another thing Abuela had taught them.",
+      "start_ms": 223832,
+      "end_ms": 226801
+    },
+    {
+      "index": 72,
+      "text": "Never take more than half.",
+      "start_ms": 226801,
+      "end_ms": 228506
+    },
+    {
+      "index": 73,
+      "text": "Never take from a plant that is alone in its spot.",
+      "start_ms": 228506,
+      "end_ms": 231728
+    },
+    {
+      "index": 74,
+      "text": "Never take without asking.",
+      "start_ms": 231728,
+      "end_ms": 233434
+    },
+    {
+      "index": 75,
+      "text": "Isla put the leaves in the canvas bag.",
+      "start_ms": 233434,
+      "end_ms": 235897
+    },
+    {
+      "index": 76,
+      "text": "She said, quietly, \"Gracias, hermana.\" She was not sure if she was talking to the plant, or to Camila, or to Abuela.",
+      "start_ms": 235897,
+      "end_ms": 243288
+    },
+    {
+      "index": 77,
+      "text": "Maybe all three.",
+      "start_ms": 243288,
+      "end_ms": 244425
+    },
+    {
+      "index": 78,
+      "text": "They found two more of the plants further along, near where a small stream came out of the moss.",
+      "start_ms": 244425,
+      "end_ms": 250552
+    },
+    {
+      "index": 79,
+      "text": "They cut some from both — not too much, just a little from each.",
+      "start_ms": 250552,
+      "end_ms": 254658
+    },
+    {
+      "index": 80,
+      "text": "Isla marked each place carefully in the notebook — a small dot on a hand-drawn map of the island, with the date.",
+      "start_ms": 254658,
+      "end_ms": 261796
+    },
+    {
+      "index": 81,
+      "text": "Abuela had done the same thing for fifty years.",
+      "start_ms": 261796,
+      "end_ms": 264829
+    },
+    {
+      "index": 82,
+      "text": "That was how Isla could tell where to look.",
+      "start_ms": 264829,
+      "end_ms": 267608
+    },
+    {
+      "index": 83,
+      "text": "All the plants had dots.",
+      "start_ms": 267608,
+      "end_ms": 269250
+    },
+    {
+      "index": 84,
+      "text": "By eleven o'clock they were walking back with a full canvas bag.",
+      "start_ms": 269250,
+      "end_ms": 273356
+    },
+    {
+      "index": 85,
+      "text": "It was still overcast but it had not started raining hard yet.",
+      "start_ms": 273356,
+      "end_ms": 277336
+    },
+    {
+      "index": 86,
+      "text": "Camila hummed the song as they walked.",
+      "start_ms": 277336,
+      "end_ms": 279800
+    },
+    {
+      "index": 87,
+      "text": "She sang it to herself in a small voice.",
+      "start_ms": 279800,
+      "end_ms": 282389
+    },
+    {
+      "index": 88,
+      "text": "Isla listened.",
+      "start_ms": 282389,
+      "end_ms": 283337
+    },
+    {
+      "index": 89,
+      "text": "She thought, my sister is going to remember these songs longer than I am.",
+      "start_ms": 283337,
+      "end_ms": 288011
+    },
+    {
+      "index": 90,
+      "text": "She thought, maybe that is what Abuela was doing, when she taught Camila the tunes first.",
+      "start_ms": 288011,
+      "end_ms": 293697
+    },
+    {
+      "index": 91,
+      "text": "Maybe she knew that.",
+      "start_ms": 293697,
+      "end_ms": 294960
+    }
+  ]
+}

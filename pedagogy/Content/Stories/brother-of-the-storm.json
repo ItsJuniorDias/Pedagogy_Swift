@@ -1,0 +1,167 @@
+{
+  "id": "brother-of-the-storm",
+  "title": "Brother of the Storm",
+  "subtitle": "One Night on Stewart Island",
+  "author": null,
+  "summary": "Aiko is ten and her brother Kai is fifteen, and they live with their parents on Stewart Island in the far south of New Zealand. Their parents go to the mainland for a weekend medical appointment. That afternoon a huge storm comes in earlier than forecast. The ferry cannot bring their parents back. Kai has to keep them both safe until morning. Aiko has always thought her older brother was a little useless. That night she learns something different.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-brother-of-the-storm-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a ten-year-old girl (Aiko) with straight black hair to her shoulders, wearing a heavy dark wool jumper, standing beside her fifteen-year-old brother Kai (taller, thin, dark hair also straight and slightly long) who is holding a bright kerosene lantern up high. Both look up at a low wooden ceiling of a small cabin as the wind pushes at the walls from outside. Rain lashes against a small window. Kai's other hand rests protectively on Aiko's shoulder. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), sepia wood, deep ink outlines, warm gold from the lantern, cool blue-black through the window, small dusty rose (#FF5B8D) accent on Aiko's cheeks. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2027-02-11",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Weekend Alone",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "bs-ch1-p1-house",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small wooden cabin on Stewart Island, New Zealand. Set back from a rocky beach among wind-shaped rimu trees. Grey overcast sky. A wooden fishing boat pulled up on the shore. A boy (Kai, 15, tall, thin, dark hair) walks up the path from the beach carrying a small crate of vegetables. Behind him: a girl (Aiko, 10, black hair) sits on the porch with a book. Heavy black ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "Aiko and her family lived on Stewart Island, which is the third island of New Zealand, far to the south of the other two. It has almost no people on it — about four hundred, all told, and most of them in one small village called Oban. Aiko's family did not live in Oban. They lived on the west coast, in a small wooden cabin set back from a rocky beach, three hours' walk on the coast path from the nearest neighbor. Her father was a marine biologist and her mother made pottery, and they had chosen to live on Stewart Island because they liked the quiet.",
+            "Aiko was ten. Her brother Kai was fifteen. They were very different from each other. Aiko was serious and quiet and read a lot of books. Kai was — Aiko had thought this for years — a little bit useless. He was a teenager. He spent a lot of time in his room. He said mostly one-word answers when Aiko asked him things. He did not really help their parents around the cabin, and when he did help, he did it badly, and their mother would sigh and finish it herself. Aiko had a small ongoing feeling about Kai — a kind of low background disappointment — that she was not really aware of but that colored every time she looked at him. She loved him because he was her brother, but she did not think he was very good at anything."
+          ]
+        },
+        {
+          "image": "bs-ch1-p2-parents-leaving",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on a small wooden dock. A father and a mother in traveling clothes are boarding a small water taxi. On the dock, a boy (Kai, 15) and a girl (Aiko, 10) wave goodbye. The father is calling something back to Kai, one hand cupped by his mouth. Grey morning light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Their father had an appointment on the mainland with a specialist. He had been having some kind of chest problem — nobody had told Aiko exactly what it was, but her parents had been quieter than usual for the last two months, and she had noticed. He had to go to the mainland, and their mother wanted to go with him. It was going to be one night. They would leave Friday morning and come back on the ferry Saturday afternoon. Aiko and Kai would stay in the cabin. Kai was old enough. He had watched Aiko many times before, though usually just for an afternoon, not overnight.",
+            "\"It is one night,\" their father said, standing on the dock, before he got in the water taxi that would take him to Oban. \"You know how to do everything. Kai, you are in charge. Feed the fire. Cook the food I left in the fridge. If anything happens, you have the radio. If it is really bad you can call the neighbors — Mr. and Mrs. Kimura — and they can walk over. Yes?\" \"Yes, Dad,\" said Kai. He said it the way he said everything. Short. Not looking at his father. Aiko rolled her eyes internally. Their father did not seem to notice. He kissed them both. He got in the boat. He and their mother waved as they pulled away."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The morning was quiet. Aiko read. Kai went out to help fix a section of the fence that had come loose. He did it badly — Aiko watched from the window — but he did it. He came back inside for lunch and made them both cheese sandwiches. He burned the toast a little. Aiko did not say anything. They ate. Kai went back to his room. Aiko read some more.",
+            "In the afternoon Aiko went out for a walk on the beach. That was when she noticed the weather. The sky in the west, out over the sea, was going a strange color. Not the normal grey. A darker grey, almost brown. And low. It was moving fast. She stood on the rocks for a while and watched. She did not know a lot about weather but she knew a bad sky when she saw one. She went back inside. She said, \"Kai. Come and look at this.\" Kai came out of his room without hurrying. She showed him. He looked. His face did not change much."
+          ]
+        },
+        {
+          "image": "bs-ch1-p3-radio",
+          "imagePrompt": "Mike Mignola style for children: interior scene of the cabin. A boy (Kai, 15) crouches at a small marine radio on a shelf, adjusting knobs, listening carefully. A girl (Aiko, 10) stands beside him watching, arms crossed. Warm afternoon light through a small window but sky visible outside is now dark grey. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Kai went to the marine radio. He turned it on. He tuned to the weather channel. They listened. The forecaster said there was a low pressure system approaching from the Southern Ocean. It was expected to hit the west coast of Stewart Island by evening. Winds of 100 kilometers per hour. Heavy rain. Sea would be rough. Small vessels were advised to seek shelter. \"That is more than they said this morning,\" Kai said. He said it flatly. \"This morning they said we would get some rain. Now they are saying a storm. It has picked up more than they expected.\"",
+            "He was quiet for a moment. Then he switched to the coast guard channel. He called out. \"This is Ronaldson cabin, west coast, checking weather status.\" A voice came back after a moment. A calm woman. She said, \"Ronaldson cabin, hello. Yes, we have upgraded the alert. This storm is moving faster than expected. All vessels in the western sector are to remain in port. The Oban ferry has been cancelled for tomorrow. Please secure yourselves and prepare for a full storm event. Do you have adults present?\" Kai looked at Aiko. Then he said into the radio, \"Adults are away for medical appointment on mainland. Only my sister and I here. I am fifteen.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "There was a small pause. Then the calm woman said, \"Copy. Fifteen. Are you familiar with storm procedure at your cabin.\" Kai said, \"Yes. I have been here for storms before. We have supplies. We have the fire. We have the radio. Kimura cabin is our nearest neighbors — about two hours' walk on the coast path.\" \"Copy,\" said the woman. \"Please check in with us at 6 p.m. and 9 p.m. Once the storm arrives, do not attempt to walk to Kimura. Stay in your cabin. Ride it out. Storm should pass by dawn. Winds may exceed 120 kilometers per hour tonight. Any questions?\" Kai looked at Aiko. Aiko shook her head. She was starting to be afraid, but she did not want to say so. \"No questions,\" said Kai. \"Ronaldson out.\"",
+            "He switched off the radio. He turned to Aiko. He said, in a completely different voice — a voice she had never really heard him use before, a voice that was calm and clear and grown-up — \"Aiko. We have three hours. I need you to help me. We have a lot to do. Are you with me?\" Aiko looked at him. She said, \"Yes, Kai.\" She was still afraid. But something had shifted."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Before Dark",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "bs-ch2-p1-outside",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A boy (Kai, 15) and a girl (Aiko, 10) working together outside the cabin. Kai carries a heavy stack of firewood on his shoulder. Aiko carries a bucket. The sky is darker now, wind starting to move the trees. Heavy ink outlines, flat shadows, cream and sepia palette with cool tones.",
+          "paragraphs": [
+            "For the next three hours Kai told Aiko what to do and she did it. She did not argue. She did not even think about arguing. He was completely different. He knew exactly what needed to happen. He had them fill every container in the cabin with water — the storm could knock out the pump. He had them bring in enough firewood for two days. He had them put boards over the two windows facing west, where the storm was coming from. He had them bring in all the outside things — the axe, the fishing gear, the small chair from the porch — because anything left outside would become a projectile in the wind. He had them tie down the small fishing boat with an extra rope.",
+            "He was fast and he was decisive. He did not stop to explain most things. When Aiko started to ask, he said, \"Ask me later. Right now just do this.\" She did. She trusted him. She was surprised at how much she trusted him."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "At six o'clock, when they had done everything they could think of, they went back inside. Kai locked the door. He barred it — she had not known there was a heavy wooden bar for the door, but there was, and he showed her where it was kept and how to slide it. He checked in with the coast guard on the radio. He said everything was secure. The woman said the storm was now expected within the hour. She wished them luck. Kai turned off the radio.",
+            "He sat down at the kitchen table. Aiko sat across from him. She looked at him. For the first time all day, she really looked at him. He looked older than she had thought. He was fifteen but he looked, in that moment, more like twenty. His face was tired but calm. His hands were still. She said, quietly, \"Kai. How did you know what to do.\" Kai looked at her. He said, \"Dad taught me. Dad has been teaching me for years. He taught me the whole storm procedure when I was thirteen. He taught me again last winter. He said — someday I would need to know it, when he was not there. I did not know that day would be today. But I knew it would come sometime. So I paid attention.\""
+          ]
+        },
+        {
+          "image": "bs-ch2-p3-lantern",
+          "imagePrompt": "Mike Mignola style for children: interior scene of the cabin. Kai (15) lights a kerosene lantern on the kitchen table. The warm gold of the flame lights his face from below. Aiko (10) watches from across the table. Outside the window it is now getting dark and the trees are starting to bend. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold accent.",
+          "paragraphs": [
+            "Aiko was quiet for a moment. She said, \"Kai. Why do you always seem so — I don't know. Why do you seem like you don't care about things.\" Kai looked at her. He was not offended. He seemed to have expected the question. He said, \"I do care about things. I do a lot of things. You just don't see them because you are not the person I do them for.\" He was quiet. Then he said, \"I help Dad with a lot of things. He teaches me — how to fix things. How to read the sea. How to keep everyone safe. But he does it — quietly. Because he knows I don't want you and Mom to see me trying and failing. That would be embarrassing. So we do it when you are asleep or when you are reading or when you are somewhere else.\"",
+            "\"So you have been learning this stuff for years,\" Aiko said. \"Yes,\" said Kai. \"I have. Also — you know, Aiko. You think I don't help much. But that is because I am a teenager and I am supposed to look like I don't help much. That is one of my jobs. If I helped visibly and cheerfully, that would be weird. So I look grumpy and I go to my room a lot. But actually I am learning things all the time. And when there is a storm and Dad is not here, I am not confused about what to do. I know what to do. Because I have paid attention. That is the whole point.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Aiko sat there. She was quiet for a long time. She was thinking about all the things she had thought about Kai over the years. She was thinking about how many of them had been wrong. She was thinking about how it was possible to live in the same house as someone for ten years and not really see them. She said, \"Kai. I'm sorry.\" Kai laughed. He did not laugh often. He said, \"Aiko. Do not be sorry. I acted like I didn't care. I gave you that impression. It was for a reason. It was not a good reason, but it was a reason. Now you know. That is fine. Now — I need you to help me with one more thing. The storm is going to be very loud. It is going to shake the cabin. It is going to sound like the walls are going to break. They are not going to break. But it will sound like it. I need you to know that. I need you to trust me when I tell you it is normal.\"",
+            "\"Okay,\" said Aiko. Kai said, \"Also I have set up your bed for you here, next to the fire. I have set up my bed on the floor beside you. I am going to sleep on the floor next to you tonight. So you do not have to be alone. Is that okay?\" \"Yes,\" said Aiko. \"That is okay.\" Kai nodded. He lit the kerosene lantern. He set it in the middle of the table. He said, \"The storm will be here in maybe twenty minutes. Let us have supper first.\""
+          ]
+        },
+        {
+          "image": "bs-ch2-p5-supper",
+          "imagePrompt": "Mike Mignola style for children: interior cabin scene. Kai (15) and Aiko (10) sit at the kitchen table eating simple food — pasta with butter, cheese. The kerosene lantern glows warmly between them. Outside the window, first sheets of heavy rain begin to fall. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold accent.",
+          "paragraphs": [
+            "Kai cooked supper. Simple food — pasta with butter and cheese. He did it well. He did not burn it. He did not spill anything. Aiko watched him. She was aware, all the time, that this was a Kai she had not known existed. He served her. He sat down. They ate. The wind outside was starting to get louder — a low howl that was slowly rising. Aiko could hear the trees moving. She could hear the small tin roof of the woodshed making small sounds it did not usually make.",
+            "\"Aiko,\" Kai said, halfway through supper. \"There is one more thing I have to tell you. Dad's chest thing. Do you know what it is.\" Aiko shook her head. \"He has a heart problem. Something wrong with a valve. That is why he had to go to the mainland today. To see a specialist. If it is bad — if it is what they think it might be — he might need surgery. He might have to go to the mainland for weeks. Mom did not want to tell you until we knew. But — I want you to know now. In case it comes up. In case you overhear something. So you know.\" Aiko put down her fork. She had thought her father was okay. He had seemed the same. But she had noticed her mother being quiet. Now she understood. She said, \"Is he going to be okay.\" Kai said, \"I think so. I think it is fixable. The doctors think so too. But we have to wait and see. Okay?\" Aiko nodded. She started to cry a little. Not a lot. Just a little. Kai did not try to stop her. He reached across the table and put his hand on her hand and left it there while she cried."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "One Night",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "bs-ch3-p1-storm-arrives",
+          "imagePrompt": "Mike Mignola style for children: interior cabin scene. Full storm now. Kai (15) and Aiko (10) sit close together on the floor beside the fire, wrapped in blankets. The kerosene lantern glows. Rain and wind lash the walls. The cabin creaks. Aiko has her head on Kai's shoulder. Heavy ink outlines, flat shadows, cream palette with warm gold and cool storm darkness through the window.",
+          "paragraphs": [
+            "The storm hit around eight-thirty. It came all at once. The wind that had been howling became a scream. The rain that had been falling became a solid wall of water hitting the cabin. The tin roof made a sound Aiko had never heard before — a continuous drumming that was almost like a machine. The walls of the cabin shook. She could feel them shake. She was sitting on the floor beside the fire, wrapped in a blanket, and every so often the whole cabin creaked in a way that sounded like it was going to break apart.",
+            "Kai sat beside her. He did not do very much. He just sat there. Sometimes he put another log on the fire. Sometimes he checked the window boards. Once he got up and checked the radio and reported to the coast guard that they were fine — his voice, on the radio, was clear and calm. The coast guard said the storm was at its peak, and would begin to drop in about two hours. Kai came back and sat down beside Aiko. She leaned against his shoulder. He put his arm around her. Neither of them said anything. There was too much noise to talk anyway."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The worst was around ten p.m. There was a very big gust of wind, and something outside made a huge cracking noise — a tree, maybe, or a section of fence — and then a heavy thud against the western wall of the cabin. Aiko jumped. Kai did not. He said, \"It is okay. Something hit the wall. But the wall is not broken. Listen. Nothing is coming in.\" Aiko listened. Nothing was coming in. The wall was holding. She let out a breath.",
+            "\"I hate this,\" she said. Kai laughed a small laugh. He said, \"I hate it too. I have hated this every storm we have ever had. Do not think this is easy for me. I am scared. I have always been scared. But being scared and knowing what to do can happen at the same time. That is what Dad says. That is what he taught me. You can be really scared and you can still do the right thing. In fact, if you are scared, that means you know things. If you were not scared, that would mean you did not understand what was happening.\" Aiko thought about this. She thought — that is a good thing to know."
+          ]
+        },
+        {
+          "image": "bs-ch3-p3-peak",
+          "imagePrompt": "Mike Mignola style for children: interior cabin scene in the middle of the night. Kai (15) sits with his back against the wall, keeping watch. Aiko (10) sleeps on the floor beside him, curled up with her head in his lap. The kerosene lantern still glows softly. The wind outside is loud but the cabin is holding. Heavy ink outlines, flat shadows, warm gold palette with cool dark accents.",
+          "paragraphs": [
+            "The storm went on all night. Around two in the morning it started to drop a little. Around four it dropped a lot. By five it was just heavy rain. By six it was just rain. By seven the sun was coming up somewhere behind the clouds, and the rain was letting up, and the cabin was still standing. Aiko had fallen asleep sometime after midnight, curled up on the floor with her head in Kai's lap. Kai had stayed awake the whole time. He had put logs on the fire every hour. He had watched the window. He had listened to the walls. He had not slept.",
+            "When Aiko woke up it was full daylight. The storm was gone. Kai was still sitting where he had been. His eyes were red and he looked exhausted. She sat up. She said, \"Did you sleep at all.\" \"No,\" said Kai. \"Are you tired.\" \"Very,\" said Kai. \"Okay,\" said Aiko. \"Go to sleep. I am going to keep watch now. You can sleep. I have got it.\" Kai looked at her. He laughed a small tired laugh. He said, \"There is nothing to keep watch for anymore, Aiko. The storm is over.\" \"I know,\" said Aiko. \"But I want to keep watch. Go to sleep.\" And Kai — because he was exhausted and because he trusted her — lay down beside the fire, and he closed his eyes, and within a minute he was asleep. Aiko sat beside him. She kept watch."
+          ]
+        },
+        {
+          "image": "bs-ch3-p4-parents-return",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A small water taxi approaches the small dock. Aiko (10) stands on the dock waving. Kai (15) stands beside her, hair still slightly messy from sleep. A mother and father in the boat wave back, both looking worried and then very relieved. Grey overcast morning light after the storm. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Their parents came back on the afternoon ferry the next day, and the water taxi brought them out to the cabin. Their mother was crying before she was even out of the boat. Their father — who looked, Aiko thought, a little more tired than he had two days ago — was not crying, but his eyes were bright. He hugged both of them at once. He said, into their hair, \"You are okay. You are both okay. Thank god. Thank god.\"",
+            "That evening at supper, their father asked Kai what had happened. Kai told him. He told him everything he had done. He told him about the storm procedure. He told him about the tree that had hit the cabin. He told him about the radio calls. He was completely factual. He did not brag. He did not make himself sound heroic. He just reported. Their father listened. Their father did not say anything at the end. He only looked at Kai for a long moment. Then he put his hand on Kai's shoulder. He said, \"You did well, son. You did — you did everything I would have done. You did more than that. You kept your sister calm. That is the hardest part. Thank you.\""
+          ]
+        },
+        {
+          "image": "bs-ch3-p5-after",
+          "imagePrompt": "Mike Mignola style for children: exterior scene the next morning. Aiko (10) and Kai (15) sit together on the wooden porch of the cabin, both looking out at the sea, which is now calm and steel-grey in the light. Aiko is leaning against Kai's shoulder. Both are quiet. Heavy ink outlines, flat shadows, cream and sepia palette with cool sea tones.",
+          "paragraphs": [
+            "After that night, Aiko saw her brother differently. She did not tell him. She did not have to. She just — knew. She knew he was not the person she had thought he was. She had been wrong. Not in a way she had to apologize for; Kai had told her he had made himself look that way on purpose. But she knew, now, that when there was a real problem, Kai was the person she wanted to be next to. She knew he was going to be someone she looked to for the rest of her life.",
+            "Their father did have the heart surgery. He was on the mainland for six weeks. Their mother went with him. Aiko and Kai stayed at the cabin. Sometimes the Kimura family checked in on them. But mostly it was just the two of them. Kai cooked most of the meals. Aiko did most of the tidying. They had a rhythm together that had not existed before that one storm night. When their father came back, healthy again, and things went back to something like normal, Aiko still went and sat on Kai's floor sometimes, when he was reading. She would just be there for a while. Kai would not say much. He never did. But he would look up from his book, and he would smile at her, and she would smile back, and that was enough."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "brother",
+    "new zealand",
+    "storm",
+    "trust"
+  ]
+}

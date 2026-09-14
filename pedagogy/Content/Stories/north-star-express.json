@@ -1,0 +1,158 @@
+{
+  "id": "north-star-express",
+  "title": "The North Star Express",
+  "subtitle": "Four Days on the Trans-Siberian",
+  "author": null,
+  "summary": "Elena is twelve and has never traveled alone. She is riding the Trans-Siberian Railway from Moscow to a small station in central Siberia, where her father works at a weather monitoring outpost. Her mother has remarried and is moving to Portugal for a year. Elena will live with her father until they figure things out. Four days on a train. Four small strangers. And at the end of it, a father she has not seen since spring.",
+  "readingTimeMinutes": 16,
+  "coverImage": "story-north-star-express-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 12-year-old girl (Elena) with a short brown ponytail, wearing a wool jumper and a scarf, sitting on the lower bunk of a Trans-Siberian train compartment looking out through the window at a vast birch forest passing by in the pale golden light of early evening. Her hands are wrapped around a metal cup of tea. A small notebook sits on the blanket beside her. Behind her on the compartment wall: the small samovar-warm bronze glow of the corridor light. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream interior (#FFF9F0), sepia birches, deep ink outlines, muted dusty rose (#FF5B8D) accent on her cheeks and scarf. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2026-10-22",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Yaroslavsky Station",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ns-ch1-p1-platform",
+          "imagePrompt": "Mike Mignola style for children: a crowded Moscow railway platform in the late afternoon, a long green Trans-Siberian train sitting alongside. A girl (Elena, 12, brown ponytail, wool jumper, scarf) stands with a woman (her mother, late thirties). The girl has a small red suitcase and a backpack. Steam and coats and other travelers around them. Heavy black ink outlines, flat shadows, cream and sepia palette with muted greens and blues.",
+          "paragraphs": [
+            "The train left Yaroslavsky Station at 3:47 in the afternoon on a Wednesday in September. Elena's mother had come with her to the platform and had given her too many instructions and too many hugs, and then finally the conductor — a tall woman with grey hair pulled back very tight — had said, \"You are Elena Sokolova? Come. It is time.\" And Elena had hugged her mother one more time, and had climbed the metal steps up into carriage twelve, and had followed the conductor down the narrow corridor to her compartment.",
+            "The compartment was small. Four bunks, two on each side, with a small table between them under the window. There were already two other people in it — an old woman with a headscarf, and a boy who looked a little younger than Elena, maybe nine or ten, both of them settled on the lower bunks. The old woman looked up and smiled a small friendly smile. The boy did not look up. Elena climbed into the fourth bunk, the upper one on the boy's side, and she sat with her legs dangling, and she waited to see if she was going to cry."
+          ]
+        },
+        {
+          "image": "ns-ch1-p2-departure",
+          "imagePrompt": "Mike Mignola style for children: view from inside the train compartment window at a crowded Moscow station platform. A woman (Elena's mother) is standing on the platform, one hand raised in a small still gesture. The train is starting to move. Steam and other travelers on the platform. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She was going to cry. She could feel it coming. The train made a small jolt, and began to move very slowly. She pressed her face against the window. Her mother was standing on the platform. Her mother had one hand raised in a small still wave. Her mother was not smiling but she was not crying either. Elena tried to wave back but her hand did not want to move. Her mother saw her anyway. Her mother nodded at her, very slightly. And then the train was moving faster, and the platform was going past, and her mother was gone.",
+            "Elena let herself cry for a little bit, quietly. She pressed her face into the sleeve of her sweater. The old woman below her must have heard, because after a moment she said something in Russian very softly to the boy, and the boy got up and moved into the corridor, and the old woman said, in slow careful English, \"You come sit down here for a while, dear. It is easier to cry when you are not high up.\""
+          ]
+        },
+        {
+          "image": "ns-ch1-p3-babushka",
+          "imagePrompt": "Mike Mignola style for children: interior of the train compartment. A girl (Elena, 12) sits on the lower bunk beside an older woman (a babushka in headscarf, seventies). The older woman is holding a small metal cup of tea, offering it. Between them, on the small folding table, a plate of dark bread and a small tin of butter. Warm compartment light, birch forest passing by the window. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The old woman's name was Anna Petrovna. She was going to Perm, which was one day and one night away, to visit her sister. She spoke a little English because she had been a teacher of geography for many years. She poured Elena a small metal cup of tea from a thermos, and she cut her a slice of dark heavy bread and buttered it, and she did not ask Elena why she was traveling alone or where she was going. She only sat with her and made her drink the tea.",
+            "\"Have you taken this train before,\" she asked eventually. \"No,\" said Elena. \"Ah,\" said Anna Petrovna. \"Then let me tell you the important things. First. You must not sleep with your head against the window. It gets very cold at night. Second. At every stop, if the stop is longer than ten minutes, you may get off the train and walk on the platform. If it is shorter, you do not risk it. The train does not wait. Third. There is a samovar at the end of the corridor — you know a samovar? A big hot water thing. It is always hot. You can go there any time you want. Fourth.\" She looked at Elena more seriously. \"You will see many people on this train. Some going long, some going short. All of them will be kind to you. This train is like that. Do not be afraid of anyone.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Elena nodded. She drank her tea. She looked out the window. The train had left the city behind now and was rolling through a landscape of birch trees and pale grasses and small wooden houses very far apart. The light was going golden. She could not remember, later, exactly when she had stopped feeling like she was going to cry. But she stopped.",
+            "The boy came back into the compartment eventually, and did not talk to her, and read a comic book on his lower bunk. Anna Petrovna did some knitting. Elena sat with her metal cup and watched the birches go by, and she thought about her father, whom she had not seen since Easter. He had come to Moscow then, for four days, and had taken her to the ballet and to a bookshop, and he had been the same as always — quiet, thin, kind, tired-looking. She had asked him then if he was happy at his weather station, in the middle of nowhere. And he had thought about it for a long time and then he had said, \"I am not unhappy. I have work I can do. I have my books. I miss you.\" And then he had said, \"Someday you might come and see it. It is a strange place. But it has good sky.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Long Middle",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ns-ch2-p1-morning",
+          "imagePrompt": "Mike Mignola style for children: interior of the train compartment in early morning. Pale grey light through the window. A girl (Elena, 12) is sitting on the lower bunk in her clothes, hair mussed, looking out the window. Anna Petrovna's bunk is empty and neatly folded. A boy sleeps on the opposite lower bunk. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Elena slept badly the first night. She was on the upper bunk again, because Anna Petrovna had gone back to her own bunk after supper. The train shook. The wheels made a rhythmic sound that she could not stop hearing. She heard doors opening and closing far away in the corridor at all hours. She missed her own bed. She missed her mother. She got up at 5 in the morning when the sky started to go grey, and sat with her forehead against the cold window and watched the country roll by. Everything looked the same. Forest, then grass, then a small village, then forest again. She did not know exactly where they were.",
+            "Anna Petrovna got off the train at Perm in the middle of the second morning. Before she left, she pressed something small into Elena's hand — a piece of hard candy in a paper twist. \"You are a serious girl,\" she said. \"That is a good thing to be. But make sure you look out the window even when you do not feel like looking. There is a lot of country going by that you will only see once. Do not miss it.\" Then she was gone. Elena watched her walk down the platform. She was surprised by how much she missed her, and she had only known her for eighteen hours."
+          ]
+        },
+        {
+          "image": "ns-ch2-p2-new-passenger",
+          "imagePrompt": "Mike Mignola style for children: interior of the train compartment. A new passenger has arrived: a small elegant older woman in a long dark coat and pearl earrings, unpacking a small case. She holds a small dog (a dachshund) in one arm. A girl (Elena, 12) sits on the lower bunk watching her. Warm compartment light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The person who got on at Perm was completely different. She was maybe seventy years old, and she was very small, and she wore a long dark coat with a fur collar and pearl earrings, and she carried a small brown dachshund in her arm. She looked around the compartment as if she had been shown to somewhere very unsuitable and was making the best of it. Then she saw Elena and her face changed.",
+            "\"Hello,\" she said, in Russian. Then, when Elena's expression made it clear she did not speak Russian well, she switched to French. Elena did not speak French either. Then she switched to English. \"Hello, dear. What is your name?\" \"Elena.\" \"How lovely. I am Vera Ilinichna. This is Boris.\" She lifted the dachshund slightly. Boris looked at Elena with a very dignified expression and then looked away. \"We are traveling to Novosibirsk. I am going to sing at a concert.\" \"Sing,\" said Elena. \"Yes, dear. I was an opera singer for forty years. I still sing sometimes. Old friends invite me. I bring Boris everywhere.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Vera Ilinichna was completely unlike Anna Petrovna. She talked constantly. She told Elena about the operas she had sung in, and the cities she had been to, and the men she had loved, and a dinner she had once had with a Japanese diplomat. She fed Boris small pieces of cheese from a wax paper. She rearranged all of Elena's things without asking and put them in what she said was a better order. Elena was, at first, a little overwhelmed by her, and then, slowly, she started to enjoy her.",
+            "That night, Vera Ilinichna sang a very quiet song, just for Elena, sitting on the lower bunk. It was in Italian and Elena did not know the words but the tune was soft and slow and old, and Boris fell asleep on Vera's lap while she sang it, and Elena, who had thought she was not going to sleep at all, fell asleep during the second verse. It was the best night of the trip so far."
+          ]
+        },
+        {
+          "image": "ns-ch2-p4-samovar-boy",
+          "imagePrompt": "Mike Mignola style for children: interior of a train corridor at the samovar station, a large brass Russian samovar built into the wall. A girl (Elena, 12) is filling a metal cup with hot water. Next to her, another boy (maybe 13, thin, dark hair) is waiting with two cups. He is holding something out to her — a piece of dried apricot. Warm dim corridor light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On the third day Elena was standing at the samovar filling her cup for tea when another boy came up beside her with two cups. He was thin and had dark hair, and he was maybe a year older than her. He waited for her to finish, and while she was screwing the lid back on her tea, he held something out to her without speaking. It was a piece of dried apricot in a small square of wax paper. She looked at it. He shrugged. \"You look sad,\" he said, in careful English. \"Apricot helps. My grandmother taught me this.\"",
+            "She took the apricot. He filled his cups and went back to his compartment. She did not know his name. She did not see him again for the rest of the trip. But she ate the apricot slowly, back in her bunk, and it was sweet and chewy and tasted like sun, and she thought about what Anna Petrovna had said — that on this train, all the people would be kind to her. Even a boy who did not know her. Even a boy she would never see again. And she felt, for the first time on the trip, that she was going to be all right. She was not sure why. It was such a small thing. But she felt it."
+          ]
+        },
+        {
+          "image": "ns-ch2-p5-empty-comp",
+          "imagePrompt": "Mike Mignola style for children: interior of the train compartment on the fourth morning. Vera Ilinichna's bunk is empty and neatly made up. A girl (Elena, 12) sits on the lower bunk alone, writing in a small notebook. Grey early morning light through the window, a vast pale birch and pine forest passing outside. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Vera Ilinichna and Boris got off at Novosibirsk in the middle of the third night, and the compartment was quiet after that. A quiet man got on and slept on the opposite bunk without saying anything. Elena spent most of the fourth day alone at the small table under the window, writing in a notebook. She had not written in it since she had left Moscow — she had thought she would write every day and she had not — but on the fourth day she started writing about the people she had met so far. Anna Petrovna. Vera Ilinichna. The boy with the apricot. She wrote small descriptions of each of them, so she would not forget them.",
+            "She looked up sometimes and watched the country. It had changed a lot since Moscow. The forests were darker now — more pine, less birch. The villages were farther between. The sky felt bigger. She thought about how the same train that had left the Yaroslavsky Station was still moving her forward, hour after hour, through a country she had never seen. She thought that when she was old, she would remember this trip. She thought that a person's life had, in it, a few train journeys, and that this was one of hers."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Chulym",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ns-ch3-p1-small-station",
+          "imagePrompt": "Mike Mignola style for children: view from a train window at a small remote Siberian station. A single low wooden platform, a small station building with a red star on it, a lone tall pine tree beside it. In the distance, dark green taiga forest. Late afternoon golden-grey light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The station where she was getting off was called Chulym. It was almost the last small station before her father's actual town, and the conductor had explained to her mother that her father would come to Chulym to meet her because the train did not stop at the closer place. Chulym was three and a half days into the trip, in the middle of a country she had only seen from behind a window. When the conductor knocked on her compartment door and said, \"Elena. Fifteen minutes,\" she felt her stomach fold up completely.",
+            "She packed her things. She checked the compartment three times. She put on her coat. She stood in the corridor with her red suitcase and her backpack, and she waited. Outside, the country slowed. A single low wooden platform came into view, with a small station building with a red star on it, and a tall pine tree beside it. The train stopped. The conductor opened the door. \"Go on, dear,\" she said. \"You'll be fine.\""
+          ]
+        },
+        {
+          "image": "ns-ch3-p2-platform",
+          "imagePrompt": "Mike Mignola style for children: a small remote railway platform in the taiga. A girl (Elena, 12) stands on the platform with her red suitcase, looking down the platform. In the middle distance, a tall thin man (Elena's father, late thirties, dark hair, spectacles, heavy dark coat) is walking toward her. Behind him: the pine forest and the small station building. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Elena stepped down onto the platform. The cold hit her at once. It was late September and it was already cold here — colder than Moscow, colder than she had imagined. Her breath came out in a small white cloud. The train door closed behind her. She heard the whistle. She turned her head to watch as the train began to move, slowly at first, and then faster, and then it was gone, and the platform was empty, and the sound of the train was fading into the trees.",
+            "She stood there. She was alone. She was in the middle of the taiga. She was more than three thousand kilometers from her mother. She was — she thought — probably going to be all right. She turned around. There was one other person on the platform. He was walking toward her from the far end. He was a tall thin man in a heavy dark coat, with spectacles that caught the light. He was walking quickly. It was her father."
+          ]
+        },
+        {
+          "image": "ns-ch3-p3-meeting",
+          "imagePrompt": "Mike Mignola style for children: on the empty station platform, a father (late thirties, thin, dark coat) has stopped and put his hands on the shoulders of his daughter (Elena, 12), looking down at her face. He is smiling — a small tired smile. The girl is looking up at him with a still expression. Warm late afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "He walked all the way up to her. He stopped in front of her. He did not hug her right away — he was not that sort of person. He put his hands on her shoulders and looked at her for a moment. \"Elena,\" he said. \"You made it.\" \"Yes,\" she said. \"Papá.\" \"I was worried,\" he said. \"But you look completely fine.\" \"I met an opera singer,\" said Elena. Her father blinked. \"You did.\" \"And a geography teacher. And a boy who gave me an apricot.\" Her father slowly smiled. \"Well,\" he said. \"I want to hear about all of that. Come. My car is up by the station.\""
+          ]
+        },
+        {
+          "image": "ns-ch3-p4-drive",
+          "imagePrompt": "Mike Mignola style for children: interior view of a small old dusty Russian car driving on a lonely gravel road through a dark green pine forest at dusk. A father drives, spectacles reflecting the headlights, and a girl (Elena, 12) sits in the passenger seat looking out at the trees. Heavy ink outlines, flat shadows, cream and sepia palette with cool dark greens.",
+          "paragraphs": [
+            "His car was old and slightly dusty on the inside. There was a small wooden bird carved out of pine on the dashboard. Elena remembered it — he had had it forever. He drove slowly on a narrow road that went into the forest. The trees were very tall and very dark, and it was starting to be evening, and there were no other cars, and there was nothing at all along the road for a very long time.",
+            "\"How far,\" she said eventually. \"Forty kilometers,\" said her father. \"Almost an hour. There is nothing here, Elena. I told you that. But there is also nothing, and that is a rare thing in the world now. You will get used to it.\" He glanced at her. \"You are not sorry to be coming, are you.\" Elena thought about it. She thought about her mother, in Moscow, packing for Portugal. She thought about the birch forests she had seen from the train. She thought about Anna Petrovna, and the apricot, and Vera Ilinichna's song. She thought about her father, right beside her now, whom she had not seen in six months. She said, \"No, Papá. I am not sorry.\""
+          ]
+        },
+        {
+          "image": "ns-ch3-p5-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior of a small wooden weather station building in a clearing surrounded by dark taiga forest at twilight. Two figures — a tall thin man and a girl with a red suitcase — are walking toward the door. A single warm lamp glows in the window. First stars visible in the sky above. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They arrived at the weather station just after full dark. It was a small wooden building in a clearing, surrounded on all sides by the forest, with a single yellow lamp glowing in one window. There was no other building anywhere in sight. Her father parked the car. He carried her suitcase for her. They walked to the door. Above them, in a sky that was completely black in a way Elena had never seen a sky be black, there were more stars than she had ever seen at once.",
+            "\"Papá,\" she said, before they went inside. \"Yes.\" She looked up. The stars were spread everywhere, thick and bright. She could see the Milky Way. She had never seen the Milky Way in Moscow. \"You said your place had good sky. You were not lying.\" Her father laughed — a small quiet laugh. \"No,\" he said. \"I was not lying. Come inside, Elena. It is cold. I made soup. You have been on a train for four days. You must be hungry.\" And Elena, who had been hungry for hours and had not noticed until he said it, went inside with her father, and she ate his soup, and she slept, that first night, for eleven hours."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "father",
+    "russia",
+    "train",
+    "family",
+    "distance"
+  ]
+}

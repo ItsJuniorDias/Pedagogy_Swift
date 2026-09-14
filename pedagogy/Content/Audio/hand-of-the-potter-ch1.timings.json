@@ -1,0 +1,751 @@
+{
+  "story_id": "hand-of-the-potter",
+  "chapter": 1,
+  "total_duration_ms": 370464,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Rafael's grandfather lived in a small stone house in the old town of Ourense, in the far northwest of Spain, in the region called Galicia.",
+      "start_ms": 1596,
+      "end_ms": 11241
+    },
+    {
+      "index": 1,
+      "text": "Rafael called him Avôlo — Galician for grandfather, not the Spanish abuelo — because his grandfather had insisted on the Galician word from the day Rafael was born.",
+      "start_ms": 11241,
+      "end_ms": 22690
+    },
+    {
+      "index": 2,
+      "text": "Avôlo had lived in the same small house for fifty-three years.",
+      "start_ms": 22690,
+      "end_ms": 27061
+    },
+    {
+      "index": 3,
+      "text": "His workshop was in what had once been the stables at the back of the house, opening onto a small stone courtyard where he had a wheel and a small wood-fired kiln.",
+      "start_ms": 27061,
+      "end_ms": 38510
+    },
+    {
+      "index": 4,
+      "text": "Rafael was ten.",
+      "start_ms": 38510,
+      "end_ms": 39620
+    },
+    {
+      "index": 5,
+      "text": "He came to stay with Avôlo every summer for two weeks in July, and he had done so for as long as he could remember.",
+      "start_ms": 39620,
+      "end_ms": 47669
+    },
+    {
+      "index": 6,
+      "text": "His parents both worked, and it was easier if he was somewhere for those weeks, and everyone in the family agreed that being at Avôlo's was better than any summer camp.",
+      "start_ms": 47669,
+      "end_ms": 59395
+    },
+    {
+      "index": 7,
+      "text": "Rafael did not disagree.",
+      "start_ms": 59395,
+      "end_ms": 61130
+    },
+    {
+      "index": 8,
+      "text": "He loved Ourense.",
+      "start_ms": 61130,
+      "end_ms": 62379
+    },
+    {
+      "index": 9,
+      "text": "He loved the old town, which had streets so narrow that when it rained you could stretch your arms and touch both walls at once.",
+      "start_ms": 62379,
+      "end_ms": 71330
+    },
+    {
+      "index": 10,
+      "text": "He loved the way Avôlo cooked eggs with paprika.",
+      "start_ms": 71330,
+      "end_ms": 74730
+    },
+    {
+      "index": 11,
+      "text": "He loved the workshop most of all.",
+      "start_ms": 74730,
+      "end_ms": 77228
+    },
+    {
+      "index": 12,
+      "text": "The workshop had always been a place Rafael was allowed to be in but not really allowed to touch.",
+      "start_ms": 77228,
+      "end_ms": 84028
+    },
+    {
+      "index": 13,
+      "text": "He had spent hours sitting on a small wooden stool watching Avôlo work.",
+      "start_ms": 84028,
+      "end_ms": 89024
+    },
+    {
+      "index": 14,
+      "text": "He knew, from watching, roughly how a pot was made — you took a lump of clay, you centered it on the wheel, you opened it with your thumbs, you drew the walls up with your fingers.",
+      "start_ms": 89024,
+      "end_ms": 101583
+    },
+    {
+      "index": 15,
+      "text": "He had watched Avôlo do it thousands of times.",
+      "start_ms": 101583,
+      "end_ms": 104844
+    },
+    {
+      "index": 16,
+      "text": "He had never done it himself.",
+      "start_ms": 104844,
+      "end_ms": 106926
+    },
+    {
+      "index": 17,
+      "text": "Once, when he was seven, he had asked.",
+      "start_ms": 106926,
+      "end_ms": 109632
+    },
+    {
+      "index": 18,
+      "text": "Avôlo had said, \"Not yet, Rafael.",
+      "start_ms": 109632,
+      "end_ms": 111991
+    },
+    {
+      "index": 19,
+      "text": "When you are older.\" That had been the answer for three years.",
+      "start_ms": 111991,
+      "end_ms": 116362
+    },
+    {
+      "index": 20,
+      "text": "Every summer he asked, and every summer Avôlo said not yet.",
+      "start_ms": 116362,
+      "end_ms": 120456
+    },
+    {
+      "index": 21,
+      "text": "But this summer was different.",
+      "start_ms": 120456,
+      "end_ms": 122250
+    },
+    {
+      "index": 22,
+      "text": "On the first evening, at supper — they were eating a simple potato-and-onion tortilla that Avôlo had made — Avôlo put down his fork and said, \"Rafael.",
+      "start_ms": 122250,
+      "end_ms": 130989
+    },
+    {
+      "index": 23,
+      "text": "This summer I want to teach you something.",
+      "start_ms": 130989,
+      "end_ms": 133477
+    },
+    {
+      "index": 24,
+      "text": "I want to teach you to work with clay.",
+      "start_ms": 133477,
+      "end_ms": 135734
+    },
+    {
+      "index": 25,
+      "text": "If you still want.\" Rafael sat up straight.",
+      "start_ms": 135734,
+      "end_ms": 138280
+    },
+    {
+      "index": 26,
+      "text": "He said, \"Really?\" \"Really,\" said Avôlo.",
+      "start_ms": 138280,
+      "end_ms": 140653
+    },
+    {
+      "index": 27,
+      "text": "\"You are ten now.",
+      "start_ms": 140653,
+      "end_ms": 141695
+    },
+    {
+      "index": 28,
+      "text": "That is a good age.",
+      "start_ms": 141695,
+      "end_ms": 142852
+    },
+    {
+      "index": 29,
+      "text": "Not too young.",
+      "start_ms": 142852,
+      "end_ms": 143720
+    },
+    {
+      "index": 30,
+      "text": "But not so old that you already think you know things.",
+      "start_ms": 143720,
+      "end_ms": 146903
+    },
+    {
+      "index": 31,
+      "text": "But there is one rule.",
+      "start_ms": 146903,
+      "end_ms": 148234
+    },
+    {
+      "index": 32,
+      "text": "You do not touch the wheel until I say.",
+      "start_ms": 148234,
+      "end_ms": 150549
+    },
+    {
+      "index": 33,
+      "text": "First we do something else.",
+      "start_ms": 150549,
+      "end_ms": 152170
+    },
+    {
+      "index": 34,
+      "text": "First we listen.\"",
+      "start_ms": 152170,
+      "end_ms": 153269
+    },
+    {
+      "index": 35,
+      "text": "\"Listen to what,\" Rafael asked.",
+      "start_ms": 153269,
+      "end_ms": 155121
+    },
+    {
+      "index": 36,
+      "text": "Avôlo smiled his small quiet smile.",
+      "start_ms": 155121,
+      "end_ms": 157204
+    },
+    {
+      "index": 37,
+      "text": "He said, \"That is the whole first week.",
+      "start_ms": 157204,
+      "end_ms": 159519
+    },
+    {
+      "index": 38,
+      "text": "You have watched me for years, Rafael.",
+      "start_ms": 159519,
+      "end_ms": 161776
+    },
+    {
+      "index": 39,
+      "text": "You have watched how I move the clay.",
+      "start_ms": 161776,
+      "end_ms": 163975
+    },
+    {
+      "index": 40,
+      "text": "You have not watched what I am listening to while I move it.",
+      "start_ms": 163975,
+      "end_ms": 167506
+    },
+    {
+      "index": 41,
+      "text": "I am listening to the clay.",
+      "start_ms": 167506,
+      "end_ms": 169126
+    },
+    {
+      "index": 42,
+      "text": "Not with my ears — with my hands.",
+      "start_ms": 169126,
+      "end_ms": 171094
+    },
+    {
+      "index": 43,
+      "text": "Clay has things to tell you.",
+      "start_ms": 171094,
+      "end_ms": 172772
+    },
+    {
+      "index": 44,
+      "text": "What kind of clay it is.",
+      "start_ms": 172772,
+      "end_ms": 174219
+    },
+    {
+      "index": 45,
+      "text": "How wet it is.",
+      "start_ms": 174219,
+      "end_ms": 175087
+    },
+    {
+      "index": 46,
+      "text": "Where the air bubbles are.",
+      "start_ms": 175087,
+      "end_ms": 176649
+    },
+    {
+      "index": 47,
+      "text": "Where the grain is.",
+      "start_ms": 176649,
+      "end_ms": 177807
+    },
+    {
+      "index": 48,
+      "text": "Every lump is different.",
+      "start_ms": 177807,
+      "end_ms": 179253
+    },
+    {
+      "index": 49,
+      "text": "If you shape a lump without listening to what it is trying to be, you fight it, and it fights you, and everyone loses.",
+      "start_ms": 179253,
+      "end_ms": 186140
+    },
+    {
+      "index": 50,
+      "text": "If you listen first, the lump will show you what it wants.",
+      "start_ms": 186140,
+      "end_ms": 189555
+    },
+    {
+      "index": 51,
+      "text": "And then you help it become that.\"",
+      "start_ms": 189555,
+      "end_ms": 191638
+    },
+    {
+      "index": 52,
+      "text": "Rafael tried to understand this.",
+      "start_ms": 191638,
+      "end_ms": 193548
+    },
+    {
+      "index": 53,
+      "text": "He said, \"Is this like — a Galician thing.\" Avôlo laughed.",
+      "start_ms": 193548,
+      "end_ms": 196962
+    },
+    {
+      "index": 54,
+      "text": "He said, \"No.",
+      "start_ms": 196962,
+      "end_ms": 197772
+    },
+    {
+      "index": 55,
+      "text": "Not a Galician thing.",
+      "start_ms": 197772,
+      "end_ms": 199046
+    },
+    {
+      "index": 56,
+      "text": "Every good potter in the world knows this.",
+      "start_ms": 199046,
+      "end_ms": 201534
+    },
+    {
+      "index": 57,
+      "text": "Some just call it something else.",
+      "start_ms": 201534,
+      "end_ms": 203502
+    },
+    {
+      "index": 58,
+      "text": "Some call it — feeling.",
+      "start_ms": 203502,
+      "end_ms": 204891
+    },
+    {
+      "index": 59,
+      "text": "Some call it — patience.",
+      "start_ms": 204891,
+      "end_ms": 206337
+    },
+    {
+      "index": 60,
+      "text": "Some do not have a word for it.",
+      "start_ms": 206337,
+      "end_ms": 208189
+    },
+    {
+      "index": 61,
+      "text": "I call it listening because that is what it feels like to me.",
+      "start_ms": 208189,
+      "end_ms": 211777
+    },
+    {
+      "index": 62,
+      "text": "Come.",
+      "start_ms": 211777,
+      "end_ms": 212125
+    },
+    {
+      "index": 63,
+      "text": "Tomorrow morning we start.",
+      "start_ms": 212125,
+      "end_ms": 213687
+    },
+    {
+      "index": 64,
+      "text": "Bring your hands and your patience and nothing else.",
+      "start_ms": 213687,
+      "end_ms": 216754
+    },
+    {
+      "index": 65,
+      "text": "You will not need anything else.\"",
+      "start_ms": 216754,
+      "end_ms": 218664
+    },
+    {
+      "index": 66,
+      "text": "The next morning, at nine o'clock, Rafael went to the workshop.",
+      "start_ms": 218664,
+      "end_ms": 222925
+    },
+    {
+      "index": 67,
+      "text": "Avôlo was already there.",
+      "start_ms": 222925,
+      "end_ms": 224590
+    },
+    {
+      "index": 68,
+      "text": "He had put three lumps of clay on a wooden table.",
+      "start_ms": 224590,
+      "end_ms": 227919
+    },
+    {
+      "index": 69,
+      "text": "Three fist-sized lumps, all grey, all slightly different.",
+      "start_ms": 227919,
+      "end_ms": 231780
+    },
+    {
+      "index": 70,
+      "text": "He said, \"Sit.",
+      "start_ms": 231780,
+      "end_ms": 232779
+    },
+    {
+      "index": 71,
+      "text": "Look.",
+      "start_ms": 232779,
+      "end_ms": 233178
+    },
+    {
+      "index": 72,
+      "text": "Do not touch yet.",
+      "start_ms": 233178,
+      "end_ms": 234377
+    },
+    {
+      "index": 73,
+      "text": "Just look at them.",
+      "start_ms": 234377,
+      "end_ms": 235642
+    },
+    {
+      "index": 74,
+      "text": "Tell me what you see.\" Rafael sat.",
+      "start_ms": 235642,
+      "end_ms": 237972
+    },
+    {
+      "index": 75,
+      "text": "He looked.",
+      "start_ms": 237972,
+      "end_ms": 238705
+    },
+    {
+      "index": 76,
+      "text": "He said, \"They are all grey.",
+      "start_ms": 238705,
+      "end_ms": 240635
+    },
+    {
+      "index": 77,
+      "text": "They look the same.\" Avôlo said, \"Look longer.\" Rafael looked longer.",
+      "start_ms": 240635,
+      "end_ms": 245296
+    },
+    {
+      "index": 78,
+      "text": "After maybe two minutes he said, \"That one is a little darker.",
+      "start_ms": 245296,
+      "end_ms": 249490
+    },
+    {
+      "index": 79,
+      "text": "That one is a little smaller.",
+      "start_ms": 249490,
+      "end_ms": 251488
+    },
+    {
+      "index": 80,
+      "text": "That one has a small pale streak in it.\" \"Better,\" said Avôlo.",
+      "start_ms": 251488,
+      "end_ms": 255682
+    },
+    {
+      "index": 81,
+      "text": "\"Now touch.",
+      "start_ms": 255682,
+      "end_ms": 256481
+    },
+    {
+      "index": 82,
+      "text": "Only touch.",
+      "start_ms": 256481,
+      "end_ms": 257280
+    },
+    {
+      "index": 83,
+      "text": "Do not squeeze, do not lift, do not shape.",
+      "start_ms": 257280,
+      "end_ms": 260143
+    },
+    {
+      "index": 84,
+      "text": "Just — put your hand on each one.",
+      "start_ms": 260143,
+      "end_ms": 262407
+    },
+    {
+      "index": 85,
+      "text": "Feel it.",
+      "start_ms": 262407,
+      "end_ms": 263006
+    },
+    {
+      "index": 86,
+      "text": "Take your time.",
+      "start_ms": 263006,
+      "end_ms": 264071
+    },
+    {
+      "index": 87,
+      "text": "What is it telling you?\"",
+      "start_ms": 264071,
+      "end_ms": 265802
+    },
+    {
+      "index": 88,
+      "text": "Rafael put his hand on the first lump.",
+      "start_ms": 265802,
+      "end_ms": 268399
+    },
+    {
+      "index": 89,
+      "text": "It was cool.",
+      "start_ms": 268399,
+      "end_ms": 269265
+    },
+    {
+      "index": 90,
+      "text": "Damp.",
+      "start_ms": 269265,
+      "end_ms": 269664
+    },
+    {
+      "index": 91,
+      "text": "It gave a little under his palm — soft.",
+      "start_ms": 269664,
+      "end_ms": 272327
+    },
+    {
+      "index": 92,
+      "text": "He touched the second.",
+      "start_ms": 272327,
+      "end_ms": 273859
+    },
+    {
+      "index": 93,
+      "text": "This one was slightly firmer.",
+      "start_ms": 273859,
+      "end_ms": 275856
+    },
+    {
+      "index": 94,
+      "text": "Slightly less damp.",
+      "start_ms": 275856,
+      "end_ms": 277188
+    },
+    {
+      "index": 95,
+      "text": "He touched the third.",
+      "start_ms": 277188,
+      "end_ms": 278652
+    },
+    {
+      "index": 96,
+      "text": "This one was cool and damp like the first, but it had a small tight spot inside it that his hand could feel, even though he could not see it from outside.",
+      "start_ms": 278652,
+      "end_ms": 288972
+    },
+    {
+      "index": 97,
+      "text": "\"That one has a — something hard in it,\" he said.",
+      "start_ms": 288972,
+      "end_ms": 292301
+    },
+    {
+      "index": 98,
+      "text": "\"Like a bit of stone.\" Avôlo nodded.",
+      "start_ms": 292301,
+      "end_ms": 294765
+    },
+    {
+      "index": 99,
+      "text": "\"Yes.",
+      "start_ms": 294765,
+      "end_ms": 295164
+    },
+    {
+      "index": 100,
+      "text": "That is an air pocket, actually — feels like stone but it is dry harder clay around a bubble.",
+      "start_ms": 295164,
+      "end_ms": 301423
+    },
+    {
+      "index": 101,
+      "text": "That would be a problem in the kiln.",
+      "start_ms": 301423,
+      "end_ms": 303886
+    },
+    {
+      "index": 102,
+      "text": "It would explode.",
+      "start_ms": 303886,
+      "end_ms": 305085
+    },
+    {
+      "index": 103,
+      "text": "Come, let us take that one apart and knead it.\"",
+      "start_ms": 305085,
+      "end_ms": 308347
+    },
+    {
+      "index": 104,
+      "text": "So they kneaded the third lump together.",
+      "start_ms": 308347,
+      "end_ms": 311077
+    },
+    {
+      "index": 105,
+      "text": "Avôlo showed him how — the potter's kneading was different from bread kneading.",
+      "start_ms": 311077,
+      "end_ms": 316403
+    },
+    {
+      "index": 106,
+      "text": "It was more like folding.",
+      "start_ms": 316403,
+      "end_ms": 318134
+    },
+    {
+      "index": 107,
+      "text": "You had to work all the air out.",
+      "start_ms": 318134,
+      "end_ms": 320331
+    },
+    {
+      "index": 108,
+      "text": "You had to feel with your hands where the air pockets were and push them out.",
+      "start_ms": 320331,
+      "end_ms": 325524
+    },
+    {
+      "index": 109,
+      "text": "After maybe fifteen minutes Rafael had kneaded the lump enough that his hand could no longer find any hard spots.",
+      "start_ms": 325524,
+      "end_ms": 333048
+    },
+    {
+      "index": 110,
+      "text": "\"Good,\" said Avôlo.",
+      "start_ms": 333048,
+      "end_ms": 334399
+    },
+    {
+      "index": 111,
+      "text": "\"That is your first job as a potter.",
+      "start_ms": 334399,
+      "end_ms": 336898
+    },
+    {
+      "index": 112,
+      "text": "You did it well.",
+      "start_ms": 336898,
+      "end_ms": 338046
+    },
+    {
+      "index": 113,
+      "text": "Now tomorrow we do this again, with three new lumps.",
+      "start_ms": 338046,
+      "end_ms": 341625
+    },
+    {
+      "index": 114,
+      "text": "And the day after that.",
+      "start_ms": 341625,
+      "end_ms": 343246
+    },
+    {
+      "index": 115,
+      "text": "All week.",
+      "start_ms": 343246,
+      "end_ms": 343922
+    },
+    {
+      "index": 116,
+      "text": "Until your hands know clay so well that you can tell by touching whether a lump is going to give you trouble.",
+      "start_ms": 343922,
+      "end_ms": 351351
+    },
+    {
+      "index": 117,
+      "text": "Only then do we go to the wheel.",
+      "start_ms": 351351,
+      "end_ms": 353580
+    },
+    {
+      "index": 118,
+      "text": "Is that all right?\" Rafael nodded.",
+      "start_ms": 353580,
+      "end_ms": 355943
+    },
+    {
+      "index": 119,
+      "text": "He was not disappointed.",
+      "start_ms": 355943,
+      "end_ms": 357632
+    },
+    {
+      "index": 120,
+      "text": "He was — he realized — a little excited.",
+      "start_ms": 357632,
+      "end_ms": 360401
+    },
+    {
+      "index": 121,
+      "text": "He had felt the air pocket.",
+      "start_ms": 360401,
+      "end_ms": 362292
+    },
+    {
+      "index": 122,
+      "text": "He had known something was wrong without seeing it.",
+      "start_ms": 362292,
+      "end_ms": 365804
+    },
+    {
+      "index": 123,
+      "text": "That was already something he had not been able to do the day before.",
+      "start_ms": 365804,
+      "end_ms": 370464
+    }
+  ]
+}

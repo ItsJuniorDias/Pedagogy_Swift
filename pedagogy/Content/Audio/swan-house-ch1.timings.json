@@ -1,0 +1,451 @@
+{
+  "story_id": "swan-house",
+  "chapter": 1,
+  "total_duration_ms": 274008,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Elin's grandmother lived alone in a small red-painted wooden cabin on the shore of a lake in the middle of the Finnish forest, four hours from any city.",
+      "start_ms": 1661,
+      "end_ms": 10427
+    },
+    {
+      "index": 1,
+      "text": "There was no road that reached the cabin — a road came within about a kilometer, and then you walked the rest of the way through the trees.",
+      "start_ms": 10427,
+      "end_ms": 18448
+    },
+    {
+      "index": 2,
+      "text": "The cabin had one room and a sauna and a small wooden dock that stuck out into the still water.",
+      "start_ms": 18448,
+      "end_ms": 23948
+    },
+    {
+      "index": 3,
+      "text": "It was called a mökki.",
+      "start_ms": 23948,
+      "end_ms": 25265
+    },
+    {
+      "index": 4,
+      "text": "All Finnish grandmothers had one, more or less.",
+      "start_ms": 25265,
+      "end_ms": 28015
+    },
+    {
+      "index": 5,
+      "text": "Elin's mother had grown up spending summers here.",
+      "start_ms": 28015,
+      "end_ms": 30880
+    },
+    {
+      "index": 6,
+      "text": "Elin had done the same, from the time she was small.",
+      "start_ms": 30880,
+      "end_ms": 33973
+    },
+    {
+      "index": 7,
+      "text": "The year Elin was ten, she went to Mummi's cabin for six weeks, the whole month of July and the first week of August.",
+      "start_ms": 33973,
+      "end_ms": 40734
+    },
+    {
+      "index": 8,
+      "text": "Her mother left her at the little parking lot at the end of the road, kissed her on the top of the head, and drove back to Helsinki for work.",
+      "start_ms": 40734,
+      "end_ms": 48869
+    },
+    {
+      "index": 9,
+      "text": "Elin walked the last kilometer alone through the forest with her small suitcase.",
+      "start_ms": 48869,
+      "end_ms": 53510
+    },
+    {
+      "index": 10,
+      "text": "She knew the way completely.",
+      "start_ms": 53510,
+      "end_ms": 55171
+    },
+    {
+      "index": 11,
+      "text": "She had walked it every summer since she was old enough to walk.",
+      "start_ms": 55171,
+      "end_ms": 58895
+    },
+    {
+      "index": 12,
+      "text": "When she came out of the trees she saw the cabin, and she saw Mummi standing on the wooden dock in the pale evening light, and she saw the lake stretched out flat and silver.",
+      "start_ms": 58895,
+      "end_ms": 68921
+    },
+    {
+      "index": 13,
+      "text": "And on the lake, exactly where they always were, there was a family of four white swans.",
+      "start_ms": 68921,
+      "end_ms": 74077
+    },
+    {
+      "index": 14,
+      "text": "Mummi did not run to meet her.",
+      "start_ms": 74077,
+      "end_ms": 75853
+    },
+    {
+      "index": 15,
+      "text": "She never had.",
+      "start_ms": 75853,
+      "end_ms": 76712
+    },
+    {
+      "index": 16,
+      "text": "She only stood on the dock and waited.",
+      "start_ms": 76712,
+      "end_ms": 78947
+    },
+    {
+      "index": 17,
+      "text": "When Elin got to her, Mummi put her arm around her and pulled her close for a moment.",
+      "start_ms": 78947,
+      "end_ms": 83874
+    },
+    {
+      "index": 18,
+      "text": "She did not say anything.",
+      "start_ms": 83874,
+      "end_ms": 85363
+    },
+    {
+      "index": 19,
+      "text": "They stood together in the pale midsummer light and looked at the lake.",
+      "start_ms": 85363,
+      "end_ms": 89488
+    },
+    {
+      "index": 20,
+      "text": "\"The same family,\" Elin said.",
+      "start_ms": 89488,
+      "end_ms": 91207
+    },
+    {
+      "index": 21,
+      "text": "\"Yes,\" said Mummi.",
+      "start_ms": 91207,
+      "end_ms": 92295
+    },
+    {
+      "index": 22,
+      "text": "\"The same family.",
+      "start_ms": 92295,
+      "end_ms": 93327
+    },
+    {
+      "index": 23,
+      "text": "Two cygnets this year.",
+      "start_ms": 93327,
+      "end_ms": 94644
+    },
+    {
+      "index": 24,
+      "text": "Their third summer, I think.",
+      "start_ms": 94644,
+      "end_ms": 96306
+    },
+    {
+      "index": 25,
+      "text": "Or fourth.\"",
+      "start_ms": 96306,
+      "end_ms": 96936
+    },
+    {
+      "index": 26,
+      "text": "The swans on the lake were whooper swans — big white birds with yellow-and-black beaks.",
+      "start_ms": 96936,
+      "end_ms": 102280
+    },
+    {
+      "index": 27,
+      "text": "There were four of them.",
+      "start_ms": 102280,
+      "end_ms": 103798
+    },
+    {
+      "index": 28,
+      "text": "Two adults and two young ones that had been born earlier that spring.",
+      "start_ms": 103798,
+      "end_ms": 108049
+    },
+    {
+      "index": 29,
+      "text": "Every summer since Elin could remember, a family of whooper swans had come to this lake.",
+      "start_ms": 108049,
+      "end_ms": 113453
+    },
+    {
+      "index": 30,
+      "text": "Sometimes with cygnets, sometimes not.",
+      "start_ms": 113453,
+      "end_ms": 115821
+    },
+    {
+      "index": 31,
+      "text": "Mummi believed — and had told Elin from the time Elin was very small — that it was the same family every year.",
+      "start_ms": 115821,
+      "end_ms": 122562
+    },
+    {
+      "index": 32,
+      "text": "\"They have been here longer than I have,\" she had said, when Elin was little.",
+      "start_ms": 122562,
+      "end_ms": 127298
+    },
+    {
+      "index": 33,
+      "text": "\"Longer than my mother, when this was her mökki.",
+      "start_ms": 127298,
+      "end_ms": 130274
+    },
+    {
+      "index": 34,
+      "text": "Since before the war.",
+      "start_ms": 130274,
+      "end_ms": 131610
+    },
+    {
+      "index": 35,
+      "text": "The same swans.\"",
+      "start_ms": 131610,
+      "end_ms": 132703
+    },
+    {
+      "index": 36,
+      "text": "\"But Mummi,\" Elin had said once, when she was maybe six.",
+      "start_ms": 132703,
+      "end_ms": 136164
+    },
+    {
+      "index": 37,
+      "text": "\"Swans do not live that long.",
+      "start_ms": 136164,
+      "end_ms": 137986
+    },
+    {
+      "index": 38,
+      "text": "Swans only live twenty years.\" Mummi had smiled.",
+      "start_ms": 137986,
+      "end_ms": 140961
+    },
+    {
+      "index": 39,
+      "text": "\"Ah,\" she had said.",
+      "start_ms": 140961,
+      "end_ms": 142176
+    },
+    {
+      "index": 40,
+      "text": "\"Well.",
+      "start_ms": 142176,
+      "end_ms": 142601
+    },
+    {
+      "index": 41,
+      "text": "Then maybe they are not swans.",
+      "start_ms": 142601,
+      "end_ms": 144483
+    },
+    {
+      "index": 42,
+      "text": "Maybe they are people.",
+      "start_ms": 144483,
+      "end_ms": 145880
+    },
+    {
+      "index": 43,
+      "text": "That happens sometimes.",
+      "start_ms": 145880,
+      "end_ms": 147337
+    },
+    {
+      "index": 44,
+      "text": "People who have gone quiet for a while.",
+      "start_ms": 147337,
+      "end_ms": 149766
+    },
+    {
+      "index": 45,
+      "text": "They live as swans until they are ready to be people again.",
+      "start_ms": 149766,
+      "end_ms": 153410
+    },
+    {
+      "index": 46,
+      "text": "It is a rest they take.",
+      "start_ms": 153410,
+      "end_ms": 154867
+    },
+    {
+      "index": 47,
+      "text": "That is what my grandmother told me.",
+      "start_ms": 154867,
+      "end_ms": 157114
+    },
+    {
+      "index": 48,
+      "text": "And I have never seen anything to prove it wrong.\"",
+      "start_ms": 157114,
+      "end_ms": 160271
+    },
+    {
+      "index": 49,
+      "text": "Elin at six had not known what to do with this.",
+      "start_ms": 160271,
+      "end_ms": 163186
+    },
+    {
+      "index": 50,
+      "text": "At seven, she had thought it was a beautiful idea, and had watched the swans very carefully all summer looking for signs.",
+      "start_ms": 163186,
+      "end_ms": 170594
+    },
+    {
+      "index": 51,
+      "text": "At eight, she had decided her grandmother was making it up.",
+      "start_ms": 170594,
+      "end_ms": 174238
+    },
+    {
+      "index": 52,
+      "text": "At nine, she had not thought about it very much.",
+      "start_ms": 174238,
+      "end_ms": 177213
+    },
+    {
+      "index": 53,
+      "text": "And now, at ten, she thought about it in a different way — a kind of half-thought that she was not sure she believed but was not sure she disbelieved.",
+      "start_ms": 177213,
+      "end_ms": 186383
+    },
+    {
+      "index": 54,
+      "text": "The way you can think about a story you loved when you were younger.",
+      "start_ms": 186383,
+      "end_ms": 190512
+    },
+    {
+      "index": 55,
+      "text": "That first evening they ate cold bread and small pickled fish and drank hot tea, and Mummi told Elin about the summer — what berries had come out, which mushrooms she had already found, which of the neighbor cabin's dogs had had puppies.",
+      "start_ms": 190512,
+      "end_ms": 205397
+    },
+    {
+      "index": 56,
+      "text": "Elin listened.",
+      "start_ms": 205397,
+      "end_ms": 206336
+    },
+    {
+      "index": 57,
+      "text": "She was tired from the trip.",
+      "start_ms": 206336,
+      "end_ms": 208149
+    },
+    {
+      "index": 58,
+      "text": "After supper Mummi lit a candle on the table because it was almost midnight and the light outside was still pale silver, and they played a card game called mustamaija for a while, and then Elin went to bed in her small corner and slept.",
+      "start_ms": 208149,
+      "end_ms": 223035
+    },
+    {
+      "index": 59,
+      "text": "In the morning she woke early and went out on the dock in her nightgown to see if the swans were still there.",
+      "start_ms": 223035,
+      "end_ms": 229915
+    },
+    {
+      "index": 60,
+      "text": "They were.",
+      "start_ms": 229915,
+      "end_ms": 230603
+    },
+    {
+      "index": 61,
+      "text": "Same four.",
+      "start_ms": 230603,
+      "end_ms": 231291
+    },
+    {
+      "index": 62,
+      "text": "Same place.",
+      "start_ms": 231291,
+      "end_ms": 232041
+    },
+    {
+      "index": 63,
+      "text": "Sleeping in a small cluster near the far shore, floating still on the pale silver water.",
+      "start_ms": 232041,
+      "end_ms": 237670
+    },
+    {
+      "index": 64,
+      "text": "For the first week, everything was the same as every other summer.",
+      "start_ms": 237670,
+      "end_ms": 241860
+    },
+    {
+      "index": 65,
+      "text": "Elin swam.",
+      "start_ms": 241860,
+      "end_ms": 242548
+    },
+    {
+      "index": 66,
+      "text": "She helped Mummi in the small garden.",
+      "start_ms": 242548,
+      "end_ms": 244925
+    },
+    {
+      "index": 67,
+      "text": "She read old books that had been in the cabin for decades.",
+      "start_ms": 244925,
+      "end_ms": 248615
+    },
+    {
+      "index": 68,
+      "text": "She sat in the sauna on the dock in the evenings.",
+      "start_ms": 248615,
+      "end_ms": 251742
+    },
+    {
+      "index": 69,
+      "text": "Every day the swans were on the lake.",
+      "start_ms": 251742,
+      "end_ms": 254119
+    },
+    {
+      "index": 70,
+      "text": "Sometimes near the cabin.",
+      "start_ms": 254119,
+      "end_ms": 255745
+    },
+    {
+      "index": 71,
+      "text": "Sometimes at the far end.",
+      "start_ms": 255745,
+      "end_ms": 257371
+    },
+    {
+      "index": 72,
+      "text": "The cygnets were growing fast — they had been small and grey when Elin arrived, and by the end of the second week they were almost as big as their parents, though still with mottled grey feathers coming in among the white.",
+      "start_ms": 257371,
+      "end_ms": 271381
+    },
+    {
+      "index": 73,
+      "text": "Everything was normal until the ninth day.",
+      "start_ms": 271381,
+      "end_ms": 274008
+    }
+  ]
+}

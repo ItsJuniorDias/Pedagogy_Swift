@@ -1,0 +1,709 @@
+{
+  "story_id": "return-boat",
+  "chapter": 3,
+  "total_duration_ms": 348648,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The third day was the longest.",
+      "start_ms": 1400,
+      "end_ms": 3684
+    },
+    {
+      "index": 1,
+      "text": "They started before dawn.",
+      "start_ms": 3684,
+      "end_ms": 5600
+    },
+    {
+      "index": 2,
+      "text": "They had to make it into Porto before nightfall.",
+      "start_ms": 5600,
+      "end_ms": 9210
+    },
+    {
+      "index": 3,
+      "text": "Senhor Fonseca said the river got busier as you approached the city — big tour boats, motor barges — and it was harder to sail an old boat in traffic.",
+      "start_ms": 9210,
+      "end_ms": 20336
+    },
+    {
+      "index": 4,
+      "text": "Yara worked her rope.",
+      "start_ms": 20336,
+      "end_ms": 21957
+    },
+    {
+      "index": 5,
+      "text": "She watched the wind.",
+      "start_ms": 21957,
+      "end_ms": 23578
+    },
+    {
+      "index": 6,
+      "text": "She was tired.",
+      "start_ms": 23578,
+      "end_ms": 24683
+    },
+    {
+      "index": 7,
+      "text": "Her hands were sore.",
+      "start_ms": 24683,
+      "end_ms": 26231
+    },
+    {
+      "index": 8,
+      "text": "But she was — she noticed — she was actually helping.",
+      "start_ms": 26231,
+      "end_ms": 30210
+    },
+    {
+      "index": 9,
+      "text": "She was actually part of the sailing.",
+      "start_ms": 30210,
+      "end_ms": 33009
+    },
+    {
+      "index": 10,
+      "text": "Senhor Fonseca gave small instructions and she did them without needing to be told twice.",
+      "start_ms": 33009,
+      "end_ms": 39641
+    },
+    {
+      "index": 11,
+      "text": "It felt good.",
+      "start_ms": 39641,
+      "end_ms": 40746
+    },
+    {
+      "index": 12,
+      "text": "At about eleven that morning, Senhor Fonseca called her over to the stern.",
+      "start_ms": 40746,
+      "end_ms": 46272
+    },
+    {
+      "index": 13,
+      "text": "He said, \"Yara.",
+      "start_ms": 46272,
+      "end_ms": 47451
+    },
+    {
+      "index": 14,
+      "text": "I want you to try the oar.\" She looked at him.",
+      "start_ms": 47451,
+      "end_ms": 50914
+    },
+    {
+      "index": 15,
+      "text": "She said, \"Really?\" He said, \"Really.",
+      "start_ms": 50914,
+      "end_ms": 53714
+    },
+    {
+      "index": 16,
+      "text": "For maybe five minutes.",
+      "start_ms": 53714,
+      "end_ms": 55482
+    },
+    {
+      "index": 17,
+      "text": "It is not hard here — the river is straight, the current is steady.",
+      "start_ms": 55482,
+      "end_ms": 60493
+    },
+    {
+      "index": 18,
+      "text": "I will stand next to you.",
+      "start_ms": 60493,
+      "end_ms": 62409
+    },
+    {
+      "index": 19,
+      "text": "But I want you to feel it.",
+      "start_ms": 62409,
+      "end_ms": 64398
+    },
+    {
+      "index": 20,
+      "text": "So you know what it is.",
+      "start_ms": 64398,
+      "end_ms": 66166
+    },
+    {
+      "index": 21,
+      "text": "So that when you are older, you can say — I steered a rabelo down the Douro.",
+      "start_ms": 66166,
+      "end_ms": 71840
+    },
+    {
+      "index": 22,
+      "text": "Come.\"",
+      "start_ms": 71840,
+      "end_ms": 72429
+    },
+    {
+      "index": 23,
+      "text": "So Yara stood at the back of the boat.",
+      "start_ms": 72429,
+      "end_ms": 75303
+    },
+    {
+      "index": 24,
+      "text": "She put both her hands on the long wooden oar.",
+      "start_ms": 75303,
+      "end_ms": 78766
+    },
+    {
+      "index": 25,
+      "text": "Senhor Fonseca stood beside her but did not touch the oar.",
+      "start_ms": 78766,
+      "end_ms": 83113
+    },
+    {
+      "index": 26,
+      "text": "He said, \"Feel the current on it.",
+      "start_ms": 83113,
+      "end_ms": 85618
+    },
+    {
+      "index": 27,
+      "text": "Do you feel the pull.\" \"Yes.\" \"Now — the boat wants to drift a little to the right.",
+      "start_ms": 85618,
+      "end_ms": 91808
+    },
+    {
+      "index": 28,
+      "text": "See where the bow is going.",
+      "start_ms": 91808,
+      "end_ms": 93871
+    },
+    {
+      "index": 29,
+      "text": "Push the oar left.",
+      "start_ms": 93871,
+      "end_ms": 95271
+    },
+    {
+      "index": 30,
+      "text": "Just a little.",
+      "start_ms": 95271,
+      "end_ms": 96376
+    },
+    {
+      "index": 31,
+      "text": "Just a small motion.\" Yara pushed.",
+      "start_ms": 96376,
+      "end_ms": 98955
+    },
+    {
+      "index": 32,
+      "text": "The boat responded.",
+      "start_ms": 98955,
+      "end_ms": 100428
+    },
+    {
+      "index": 33,
+      "text": "It began to correct.",
+      "start_ms": 100428,
+      "end_ms": 101976
+    },
+    {
+      "index": 34,
+      "text": "\"Good,\" said Senhor Fonseca.",
+      "start_ms": 101976,
+      "end_ms": 104112
+    },
+    {
+      "index": 35,
+      "text": "\"Now hold it there.",
+      "start_ms": 104112,
+      "end_ms": 105586
+    },
+    {
+      "index": 36,
+      "text": "Do not overcorrect.",
+      "start_ms": 105586,
+      "end_ms": 107060
+    },
+    {
+      "index": 37,
+      "text": "Small movements.",
+      "start_ms": 107060,
+      "end_ms": 108312
+    },
+    {
+      "index": 38,
+      "text": "Small.\" Yara held.",
+      "start_ms": 108312,
+      "end_ms": 109712
+    },
+    {
+      "index": 39,
+      "text": "The boat sailed straight.",
+      "start_ms": 109712,
+      "end_ms": 111702
+    },
+    {
+      "index": 40,
+      "text": "She steered for maybe ten minutes.",
+      "start_ms": 111702,
+      "end_ms": 114281
+    },
+    {
+      "index": 41,
+      "text": "It was harder than it looked.",
+      "start_ms": 114281,
+      "end_ms": 116491
+    },
+    {
+      "index": 42,
+      "text": "The oar was heavy.",
+      "start_ms": 116491,
+      "end_ms": 117891
+    },
+    {
+      "index": 43,
+      "text": "The current was strong.",
+      "start_ms": 117891,
+      "end_ms": 119659
+    },
+    {
+      "index": 44,
+      "text": "You had to hold your body against it.",
+      "start_ms": 119659,
+      "end_ms": 122459
+    },
+    {
+      "index": 45,
+      "text": "But she did it.",
+      "start_ms": 122459,
+      "end_ms": 123638
+    },
+    {
+      "index": 46,
+      "text": "She kept the boat straight.",
+      "start_ms": 123638,
+      "end_ms": 125701
+    },
+    {
+      "index": 47,
+      "text": "Senhor Fonseca watched her the whole time.",
+      "start_ms": 125701,
+      "end_ms": 128870
+    },
+    {
+      "index": 48,
+      "text": "When he took the oar back, he said, quietly, \"You did well, Yara.",
+      "start_ms": 128870,
+      "end_ms": 133733
+    },
+    {
+      "index": 49,
+      "text": "A person who has never steered a boat before does not usually keep a boat that straight.",
+      "start_ms": 133733,
+      "end_ms": 140290
+    },
+    {
+      "index": 50,
+      "text": "You listened.",
+      "start_ms": 140290,
+      "end_ms": 141322
+    },
+    {
+      "index": 51,
+      "text": "That is what steering is.",
+      "start_ms": 141322,
+      "end_ms": 143237
+    },
+    {
+      "index": 52,
+      "text": "Listening.\"",
+      "start_ms": 143237,
+      "end_ms": 144048
+    },
+    {
+      "index": 53,
+      "text": "In the late afternoon they came around a wide bend and there it was — Porto.",
+      "start_ms": 144048,
+      "end_ms": 148629
+    },
+    {
+      "index": 54,
+      "text": "The city rose steeply on the right bank, all colored buildings and red roofs.",
+      "start_ms": 148629,
+      "end_ms": 153270
+    },
+    {
+      "index": 55,
+      "text": "On the left, the old port wine warehouses of Vila Nova de Gaia.",
+      "start_ms": 153270,
+      "end_ms": 157078
+    },
+    {
+      "index": 56,
+      "text": "The huge double-decker Dom Luís I bridge stretched across the river.",
+      "start_ms": 157078,
+      "end_ms": 161183
+    },
+    {
+      "index": 57,
+      "text": "There were dozens of boats now — tour boats, small motor launches, a few larger cruise boats.",
+      "start_ms": 161183,
+      "end_ms": 166775
+    },
+    {
+      "index": 58,
+      "text": "Yara had never seen so many boats.",
+      "start_ms": 166775,
+      "end_ms": 168858
+    },
+    {
+      "index": 59,
+      "text": "Senhor Fonseca sailed the rabelo carefully, staying close to the left bank, out of the way of the bigger traffic.",
+      "start_ms": 168858,
+      "end_ms": 175700
+    },
+    {
+      "index": 60,
+      "text": "The port wine museum had a small dock on the Vila Nova de Gaia side.",
+      "start_ms": 175700,
+      "end_ms": 179805
+    },
+    {
+      "index": 61,
+      "text": "As they approached, Yara could see her mother standing at the dock, waving.",
+      "start_ms": 179805,
+      "end_ms": 184327
+    },
+    {
+      "index": 62,
+      "text": "Yara waved back.",
+      "start_ms": 184327,
+      "end_ms": 185338
+    },
+    {
+      "index": 63,
+      "text": "Senhor Fonseca steered them slowly in.",
+      "start_ms": 185338,
+      "end_ms": 187658
+    },
+    {
+      "index": 64,
+      "text": "He tied the boat up.",
+      "start_ms": 187658,
+      "end_ms": 188908
+    },
+    {
+      "index": 65,
+      "text": "A group of museum people came to help — a woman with a clipboard, two workers who would take the boat away for restoration.",
+      "start_ms": 188908,
+      "end_ms": 196285
+    },
+    {
+      "index": 66,
+      "text": "They gave Senhor Fonseca some paperwork to sign.",
+      "start_ms": 196285,
+      "end_ms": 199201
+    },
+    {
+      "index": 67,
+      "text": "He signed it.",
+      "start_ms": 199201,
+      "end_ms": 200034
+    },
+    {
+      "index": 68,
+      "text": "Then he stepped off the boat.",
+      "start_ms": 200034,
+      "end_ms": 201819
+    },
+    {
+      "index": 69,
+      "text": "He turned back to Yara.",
+      "start_ms": 201819,
+      "end_ms": 203246
+    },
+    {
+      "index": 70,
+      "text": "He said, \"Time to say goodbye.",
+      "start_ms": 203246,
+      "end_ms": 205091
+    },
+    {
+      "index": 71,
+      "text": "Take a minute.\"",
+      "start_ms": 205091,
+      "end_ms": 206102
+    },
+    {
+      "index": 72,
+      "text": "Yara stepped back onto the boat.",
+      "start_ms": 206102,
+      "end_ms": 208066
+    },
+    {
+      "index": 73,
+      "text": "She walked its whole length slowly.",
+      "start_ms": 208066,
+      "end_ms": 210207
+    },
+    {
+      "index": 74,
+      "text": "She touched the wooden mast.",
+      "start_ms": 210207,
+      "end_ms": 211933
+    },
+    {
+      "index": 75,
+      "text": "She touched the ropes.",
+      "start_ms": 211933,
+      "end_ms": 213301
+    },
+    {
+      "index": 76,
+      "text": "She stood at the front.",
+      "start_ms": 213301,
+      "end_ms": 214729
+    },
+    {
+      "index": 77,
+      "text": "Then she went to the back and she stood at the steering oar for a moment with one hand on it.",
+      "start_ms": 214729,
+      "end_ms": 220322
+    },
+    {
+      "index": 78,
+      "text": "She thought about her great-great-grandfather, whom she had never met and had never seen a picture of, who had stood in this exact spot with his hand on this same oar a hundred and thirty years ago.",
+      "start_ms": 220322,
+      "end_ms": 232161
+    },
+    {
+      "index": 79,
+      "text": "She thought about all the trips his boat had made.",
+      "start_ms": 232161,
+      "end_ms": 235196
+    },
+    {
+      "index": 80,
+      "text": "All the barrels of port it had carried.",
+      "start_ms": 235196,
+      "end_ms": 237576
+    },
+    {
+      "index": 81,
+      "text": "All the years it had sat on their pier, quiet, waiting.",
+      "start_ms": 237576,
+      "end_ms": 240967
+    },
+    {
+      "index": 82,
+      "text": "She said, quietly, to the boat, \"Goodbye.",
+      "start_ms": 240967,
+      "end_ms": 243466
+    },
+    {
+      "index": 83,
+      "text": "Thank you.",
+      "start_ms": 243466,
+      "end_ms": 244120
+    },
+    {
+      "index": 84,
+      "text": "My great-great-grandfather sailed you.",
+      "start_ms": 244120,
+      "end_ms": 246440
+    },
+    {
+      "index": 85,
+      "text": "My mother's mother's mother's father.",
+      "start_ms": 246440,
+      "end_ms": 248701
+    },
+    {
+      "index": 86,
+      "text": "And now I have sailed you, on your very last trip.",
+      "start_ms": 248701,
+      "end_ms": 251736
+    },
+    {
+      "index": 87,
+      "text": "I am glad you get to be in a museum.",
+      "start_ms": 251736,
+      "end_ms": 253937
+    },
+    {
+      "index": 88,
+      "text": "I am glad you get to be seen.",
+      "start_ms": 253937,
+      "end_ms": 255722
+    },
+    {
+      "index": 89,
+      "text": "I promise I will come and visit you.",
+      "start_ms": 255722,
+      "end_ms": 257923
+    },
+    {
+      "index": 90,
+      "text": "I promise.\" Then she got off the boat.",
+      "start_ms": 257923,
+      "end_ms": 260184
+    },
+    {
+      "index": 91,
+      "text": "Senhor Fonseca shook her hand — his real hand-shake, the adult kind.",
+      "start_ms": 260184,
+      "end_ms": 265237
+    },
+    {
+      "index": 92,
+      "text": "He said, \"Yara.",
+      "start_ms": 265237,
+      "end_ms": 266409
+    },
+    {
+      "index": 93,
+      "text": "You are one of the sensible eleven-year-olds in Portugal.",
+      "start_ms": 266409,
+      "end_ms": 270656
+    },
+    {
+      "index": 94,
+      "text": "I want you to remember something.",
+      "start_ms": 270656,
+      "end_ms": 273146
+    },
+    {
+      "index": 95,
+      "text": "If in ten years or twelve years you decide you want to learn to sail one of these boats properly — write to me.",
+      "start_ms": 273146,
+      "end_ms": 281348
+    },
+    {
+      "index": 96,
+      "text": "I am not too hard to find.",
+      "start_ms": 281348,
+      "end_ms": 283325
+    },
+    {
+      "index": 97,
+      "text": "There are only three of us.",
+      "start_ms": 283325,
+      "end_ms": 285376
+    },
+    {
+      "index": 98,
+      "text": "If you decide you want to learn — I will teach you.",
+      "start_ms": 285376,
+      "end_ms": 289184
+    },
+    {
+      "index": 99,
+      "text": "It would be — it would be a good thing for me.",
+      "start_ms": 289184,
+      "end_ms": 292626
+    },
+    {
+      "index": 100,
+      "text": "For me and for you both.\" He nodded.",
+      "start_ms": 292626,
+      "end_ms": 295335
+    },
+    {
+      "index": 101,
+      "text": "He turned.",
+      "start_ms": 295335,
+      "end_ms": 296141
+    },
+    {
+      "index": 102,
+      "text": "He walked away.",
+      "start_ms": 296141,
+      "end_ms": 297386
+    },
+    {
+      "index": 103,
+      "text": "Yara stood on the dock with her mother.",
+      "start_ms": 297386,
+      "end_ms": 300315
+    },
+    {
+      "index": 104,
+      "text": "Her mother said, \"That is a very unusual offer, Yara.\" Yara said, \"I know.\" Yara's mother said, \"Are you going to write to him.\" Yara thought about it.",
+      "start_ms": 300315,
+      "end_ms": 311446
+    },
+    {
+      "index": 105,
+      "text": "She thought about the three days.",
+      "start_ms": 311446,
+      "end_ms": 313936
+    },
+    {
+      "index": 106,
+      "text": "About the current.",
+      "start_ms": 313936,
+      "end_ms": 315328
+    },
+    {
+      "index": 107,
+      "text": "About steering.",
+      "start_ms": 315328,
+      "end_ms": 316499
+    },
+    {
+      "index": 108,
+      "text": "About the small quiet man who had sailed eleven of these boats, and now twelve, and who was afraid the knowledge would die with him.",
+      "start_ms": 316499,
+      "end_ms": 326239
+    },
+    {
+      "index": 109,
+      "text": "She said, \"Yes.",
+      "start_ms": 326239,
+      "end_ms": 327411
+    },
+    {
+      "index": 110,
+      "text": "When I am older.",
+      "start_ms": 327411,
+      "end_ms": 328656
+    },
+    {
+      "index": 111,
+      "text": "I am going to write to him.",
+      "start_ms": 328656,
+      "end_ms": 330706
+    },
+    {
+      "index": 112,
+      "text": "I want to learn.\" Her mother put her arm around her.",
+      "start_ms": 330706,
+      "end_ms": 334587
+    },
+    {
+      "index": 113,
+      "text": "They stood on the dock for a while, watching.",
+      "start_ms": 334587,
+      "end_ms": 337956
+    },
+    {
+      "index": 114,
+      "text": "In the distance, the museum workers were beginning to move the boat toward its new home.",
+      "start_ms": 337956,
+      "end_ms": 344474
+    },
+    {
+      "index": 115,
+      "text": "The sun was setting over Porto.",
+      "start_ms": 344474,
+      "end_ms": 346817
+    },
+    {
+      "index": 116,
+      "text": "The river was going gold.",
+      "start_ms": 346817,
+      "end_ms": 348648
+    }
+  ]
+}

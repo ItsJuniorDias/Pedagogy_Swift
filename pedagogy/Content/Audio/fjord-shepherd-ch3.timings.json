@@ -1,0 +1,685 @@
+{
+  "story_id": "fjord-shepherd",
+  "chapter": 3,
+  "total_duration_ms": 390120,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The seter was smaller than Signe had imagined — a low stone-and-turf hut tucked into a fold at the top of the ridge, its roof green with mountain grass, its walls thick enough that when Signe pushed open the heavy door and stepped inside, the sound of the storm dropped by half.",
+      "start_ms": 1440,
+      "end_ms": 18902
+    },
+    {
+      "index": 1,
+      "text": "Inside was a single room.",
+      "start_ms": 18902,
+      "end_ms": 20530
+    },
+    {
+      "index": 2,
+      "text": "A stone hearth.",
+      "start_ms": 20530,
+      "end_ms": 21531
+    },
+    {
+      "index": 3,
+      "text": "A low wooden bench.",
+      "start_ms": 21531,
+      "end_ms": 22783
+    },
+    {
+      "index": 4,
+      "text": "Two rolled sheepskin sleeping mats along one wall.",
+      "start_ms": 22783,
+      "end_ms": 25975
+    },
+    {
+      "index": 5,
+      "text": "A shelf with a few tin cups and a small kettle and a lidded jar of oats.",
+      "start_ms": 25975,
+      "end_ms": 30544
+    },
+    {
+      "index": 6,
+      "text": "A stack of very dry firewood, someone else's kindness left for whoever came next.",
+      "start_ms": 30544,
+      "end_ms": 35739
+    },
+    {
+      "index": 7,
+      "text": "Ólafur came in with Ester and set her down gently in the corner farthest from the hearth.",
+      "start_ms": 35739,
+      "end_ms": 41372
+    },
+    {
+      "index": 8,
+      "text": "He arranged one of the sheepskin mats under her.",
+      "start_ms": 41372,
+      "end_ms": 44439
+    },
+    {
+      "index": 9,
+      "text": "She was breathing more slowly now — resigned or trusting, hard to tell.",
+      "start_ms": 44439,
+      "end_ms": 48946
+    },
+    {
+      "index": 10,
+      "text": "Ólafur closed the door against the storm.",
+      "start_ms": 48946,
+      "end_ms": 51574
+    },
+    {
+      "index": 11,
+      "text": "He said, \"Now we make her comfortable and dry ourselves.",
+      "start_ms": 51574,
+      "end_ms": 55142
+    },
+    {
+      "index": 12,
+      "text": "Then I look at the leg properly.\"",
+      "start_ms": 55142,
+      "end_ms": 57333
+    },
+    {
+      "index": 13,
+      "text": "Ólafur worked on Ester's leg for a long time.",
+      "start_ms": 57333,
+      "end_ms": 60212
+    },
+    {
+      "index": 14,
+      "text": "He was careful and slow and gentle.",
+      "start_ms": 60212,
+      "end_ms": 62465
+    },
+    {
+      "index": 15,
+      "text": "He cleaned the wound where the skin had been scraped raw.",
+      "start_ms": 62465,
+      "end_ms": 66095
+    },
+    {
+      "index": 16,
+      "text": "He straightened the bone as best he could — Ester bleated softly once and then held still.",
+      "start_ms": 66095,
+      "end_ms": 71791
+    },
+    {
+      "index": 17,
+      "text": "He built a proper splint with the two thin sticks and clean cotton strips from the first-aid kit.",
+      "start_ms": 71791,
+      "end_ms": 77925
+    },
+    {
+      "index": 18,
+      "text": "When he had finished, Ester's leg was neat and stable.",
+      "start_ms": 77925,
+      "end_ms": 81367
+    },
+    {
+      "index": 19,
+      "text": "Ólafur sat back on his heels and looked at her.",
+      "start_ms": 81367,
+      "end_ms": 84372
+    },
+    {
+      "index": 20,
+      "text": "He said, \"She will keep it.",
+      "start_ms": 84372,
+      "end_ms": 86124
+    },
+    {
+      "index": 21,
+      "text": "Not use it for six weeks.",
+      "start_ms": 86124,
+      "end_ms": 87752
+    },
+    {
+      "index": 22,
+      "text": "But she will keep it.",
+      "start_ms": 87752,
+      "end_ms": 89129
+    },
+    {
+      "index": 23,
+      "text": "She will not go up the ledge again.",
+      "start_ms": 89129,
+      "end_ms": 91382
+    },
+    {
+      "index": 24,
+      "text": "She is done with the mustard.",
+      "start_ms": 91382,
+      "end_ms": 93259
+    },
+    {
+      "index": 25,
+      "text": "She will spend the winter with me at the farm and not the high pasture.",
+      "start_ms": 93259,
+      "end_ms": 97766
+    },
+    {
+      "index": 26,
+      "text": "That may not be a bad retirement for her.\" He put his hand on her forehead.",
+      "start_ms": 97766,
+      "end_ms": 102523
+    },
+    {
+      "index": 27,
+      "text": "Ester closed her eyes.",
+      "start_ms": 102523,
+      "end_ms": 104025
+    },
+    {
+      "index": 28,
+      "text": "Ólafur got up and built the fire higher and boiled water for coffee.",
+      "start_ms": 104025,
+      "end_ms": 108344
+    },
+    {
+      "index": 29,
+      "text": "He gave Signe a small hot cup with a lot of sugar.",
+      "start_ms": 108344,
+      "end_ms": 111536
+    },
+    {
+      "index": 30,
+      "text": "He gave himself a cup with none.",
+      "start_ms": 111536,
+      "end_ms": 113601
+    },
+    {
+      "index": 31,
+      "text": "They sat side by side on the wooden bench and drank.",
+      "start_ms": 113601,
+      "end_ms": 116856
+    },
+    {
+      "index": 32,
+      "text": "Signe said, \"Uncle.",
+      "start_ms": 116856,
+      "end_ms": 118204
+    },
+    {
+      "index": 33,
+      "text": "About the staff.",
+      "start_ms": 118204,
+      "end_ms": 119349
+    },
+    {
+      "index": 34,
+      "text": "If you don't have children — what happens to it?\" Ólafur was quiet for a long time.",
+      "start_ms": 119349,
+      "end_ms": 125010
+    },
+    {
+      "index": 35,
+      "text": "Then he said, \"That has been on my mind for maybe ten years.",
+      "start_ms": 125010,
+      "end_ms": 129120
+    },
+    {
+      "index": 36,
+      "text": "I have thought about it.",
+      "start_ms": 129120,
+      "end_ms": 130805
+    },
+    {
+      "index": 37,
+      "text": "It will go to whoever, in the next generation, is going to keep doing this kind of work.",
+      "start_ms": 130805,
+      "end_ms": 136802
+    },
+    {
+      "index": 38,
+      "text": "Or something like it.",
+      "start_ms": 136802,
+      "end_ms": 138284
+    },
+    {
+      "index": 39,
+      "text": "Not necessarily sheep.",
+      "start_ms": 138284,
+      "end_ms": 139834
+    },
+    {
+      "index": 40,
+      "text": "It can be something else.",
+      "start_ms": 139834,
+      "end_ms": 141586
+    },
+    {
+      "index": 41,
+      "text": "But someone who understands why.",
+      "start_ms": 141586,
+      "end_ms": 143810
+    },
+    {
+      "index": 42,
+      "text": "If your father had a daughter who wanted a farm, it would go to her.",
+      "start_ms": 143810,
+      "end_ms": 148459
+    },
+    {
+      "index": 43,
+      "text": "My cousin Elin has two boys, but neither is that sort.",
+      "start_ms": 148459,
+      "end_ms": 152166
+    },
+    {
+      "index": 44,
+      "text": "There is you.\" He drank his coffee.",
+      "start_ms": 152166,
+      "end_ms": 154591
+    },
+    {
+      "index": 45,
+      "text": "\"But you are eleven.",
+      "start_ms": 154591,
+      "end_ms": 156006
+    },
+    {
+      "index": 46,
+      "text": "I do not know who you will be.",
+      "start_ms": 156006,
+      "end_ms": 158095
+    },
+    {
+      "index": 47,
+      "text": "I will not decide until you are twenty-five or thirty.",
+      "start_ms": 158095,
+      "end_ms": 161802
+    },
+    {
+      "index": 48,
+      "text": "Then I will look at all of you and think about it.",
+      "start_ms": 161802,
+      "end_ms": 165238
+    },
+    {
+      "index": 49,
+      "text": "Maybe it is you.",
+      "start_ms": 165238,
+      "end_ms": 166384
+    },
+    {
+      "index": 50,
+      "text": "Maybe it is someone else.",
+      "start_ms": 166384,
+      "end_ms": 168136
+    },
+    {
+      "index": 51,
+      "text": "Maybe it goes to a young shepherd in the valley I like — my grandfather did that once with a plough.",
+      "start_ms": 168136,
+      "end_ms": 174942
+    },
+    {
+      "index": 52,
+      "text": "It is not a thing to decide too early.\"",
+      "start_ms": 174942,
+      "end_ms": 177704
+    },
+    {
+      "index": 53,
+      "text": "Signe nodded.",
+      "start_ms": 177704,
+      "end_ms": 178648
+    },
+    {
+      "index": 54,
+      "text": "She had not expected an answer that clear.",
+      "start_ms": 178648,
+      "end_ms": 181545
+    },
+    {
+      "index": 55,
+      "text": "She said, \"I would want it.",
+      "start_ms": 181545,
+      "end_ms": 183432
+    },
+    {
+      "index": 56,
+      "text": "I think.\" Ólafur said, \"That is good to know.",
+      "start_ms": 183432,
+      "end_ms": 186532
+    },
+    {
+      "index": 57,
+      "text": "I will hold it in mind.\" He did not say more.",
+      "start_ms": 186532,
+      "end_ms": 189631
+    },
+    {
+      "index": 58,
+      "text": "Ester, in the corner, was asleep.",
+      "start_ms": 189631,
+      "end_ms": 191990
+    },
+    {
+      "index": 59,
+      "text": "The storm passed slowly.",
+      "start_ms": 191990,
+      "end_ms": 193674
+    },
+    {
+      "index": 60,
+      "text": "By midnight the thunder had moved off to the east, and the rain had softened to a steady patter on the turf roof.",
+      "start_ms": 193674,
+      "end_ms": 201356
+    },
+    {
+      "index": 61,
+      "text": "Ólafur fell asleep on the second sheepskin mat, one hand within reach of Ester.",
+      "start_ms": 201356,
+      "end_ms": 206747
+    },
+    {
+      "index": 62,
+      "text": "Signe lay awake for a long time.",
+      "start_ms": 206747,
+      "end_ms": 208971
+    },
+    {
+      "index": 63,
+      "text": "She was warm and safe and full of the sort of tired that comes after real work.",
+      "start_ms": 208971,
+      "end_ms": 214362
+    },
+    {
+      "index": 64,
+      "text": "She looked at the low red glow of the fire and thought about the day.",
+      "start_ms": 214362,
+      "end_ms": 219078
+    },
+    {
+      "index": 65,
+      "text": "She thought about the ledge, and about not looking down, and about her uncle behind her carrying a sheep on his shoulders.",
+      "start_ms": 219078,
+      "end_ms": 227367
+    },
+    {
+      "index": 66,
+      "text": "She thought about Ester breathing softly in the corner, alive because two people had walked a narrow ledge in a storm for her.",
+      "start_ms": 227367,
+      "end_ms": 235925
+    },
+    {
+      "index": 67,
+      "text": "She had never done a thing that mattered like that before.",
+      "start_ms": 235925,
+      "end_ms": 239900
+    },
+    {
+      "index": 68,
+      "text": "She thought she might do more of them, over her life.",
+      "start_ms": 239900,
+      "end_ms": 243539
+    },
+    {
+      "index": 69,
+      "text": "She hoped so.",
+      "start_ms": 243539,
+      "end_ms": 244550
+    },
+    {
+      "index": 70,
+      "text": "She fell asleep near morning.",
+      "start_ms": 244550,
+      "end_ms": 246504
+    },
+    {
+      "index": 71,
+      "text": "They came down in the morning, slowly.",
+      "start_ms": 246504,
+      "end_ms": 249088
+    },
+    {
+      "index": 72,
+      "text": "The sky was clear cold blue.",
+      "start_ms": 249088,
+      "end_ms": 251010
+    },
+    {
+      "index": 73,
+      "text": "The rain had washed everything and the fjord below was a mirror.",
+      "start_ms": 251010,
+      "end_ms": 255318
+    },
+    {
+      "index": 74,
+      "text": "Ólafur carried Ester again.",
+      "start_ms": 255318,
+      "end_ms": 257173
+    },
+    {
+      "index": 75,
+      "text": "Signe walked in front with the staff, watching the trail.",
+      "start_ms": 257173,
+      "end_ms": 261017
+    },
+    {
+      "index": 76,
+      "text": "They took the long way — down the safer ridge path instead of the ledge — and it took them four hours to reach the farm.",
+      "start_ms": 261017,
+      "end_ms": 269035
+    },
+    {
+      "index": 77,
+      "text": "Ester, on Ólafur's shoulders, breathed easily.",
+      "start_ms": 269035,
+      "end_ms": 272149
+    },
+    {
+      "index": 78,
+      "text": "She was, if not comfortable, calm.",
+      "start_ms": 272149,
+      "end_ms": 274535
+    },
+    {
+      "index": 79,
+      "text": "At the farm, they made Ester a small pen in a corner of the barn with fresh straw.",
+      "start_ms": 274535,
+      "end_ms": 280035
+    },
+    {
+      "index": 80,
+      "text": "Ólafur checked her leg again.",
+      "start_ms": 280035,
+      "end_ms": 282023
+    },
+    {
+      "index": 81,
+      "text": "It looked good.",
+      "start_ms": 282023,
+      "end_ms": 283084
+    },
+    {
+      "index": 82,
+      "text": "He gave her water and some sweet hay.",
+      "start_ms": 283084,
+      "end_ms": 285602
+    },
+    {
+      "index": 83,
+      "text": "He said, \"She stays here for six weeks.",
+      "start_ms": 285602,
+      "end_ms": 288252
+    },
+    {
+      "index": 84,
+      "text": "Then we see.\" He turned to Signe.",
+      "start_ms": 288252,
+      "end_ms": 290506
+    },
+    {
+      "index": 85,
+      "text": "He said, \"You did well yesterday.",
+      "start_ms": 290506,
+      "end_ms": 292759
+    },
+    {
+      "index": 86,
+      "text": "Very well.",
+      "start_ms": 292759,
+      "end_ms": 293488
+    },
+    {
+      "index": 87,
+      "text": "I would not have gone up if I had thought you could not do it.",
+      "start_ms": 293488,
+      "end_ms": 297662
+    },
+    {
+      "index": 88,
+      "text": "I thought you could.",
+      "start_ms": 297662,
+      "end_ms": 299054
+    },
+    {
+      "index": 89,
+      "text": "You did.\" He paused.",
+      "start_ms": 299054,
+      "end_ms": 300446
+    },
+    {
+      "index": 90,
+      "text": "\"Also.",
+      "start_ms": 300446,
+      "end_ms": 300909
+    },
+    {
+      "index": 91,
+      "text": "Every morning until you go home, before breakfast, you check on Ester.",
+      "start_ms": 300909,
+      "end_ms": 305614
+    },
+    {
+      "index": 92,
+      "text": "You bring her water.",
+      "start_ms": 305614,
+      "end_ms": 307006
+    },
+    {
+      "index": 93,
+      "text": "You put fresh hay.",
+      "start_ms": 307006,
+      "end_ms": 308265
+    },
+    {
+      "index": 94,
+      "text": "She is your responsibility until you leave.\" Signe nodded.",
+      "start_ms": 308265,
+      "end_ms": 312175
+    },
+    {
+      "index": 95,
+      "text": "She was very pleased.",
+      "start_ms": 312175,
+      "end_ms": 313699
+    },
+    {
+      "index": 96,
+      "text": "For the rest of her three weeks, she did.",
+      "start_ms": 313699,
+      "end_ms": 316482
+    },
+    {
+      "index": 97,
+      "text": "Every morning she got up before Ólafur, walked out to the barn in her boots and her sweater, and sat with Ester for ten or fifteen minutes.",
+      "start_ms": 316482,
+      "end_ms": 325760
+    },
+    {
+      "index": 98,
+      "text": "She changed the water.",
+      "start_ms": 325760,
+      "end_ms": 327284
+    },
+    {
+      "index": 99,
+      "text": "She put fresh hay.",
+      "start_ms": 327284,
+      "end_ms": 328543
+    },
+    {
+      "index": 100,
+      "text": "She talked to the sheep — small quiet things about the weather, and about what she had dreamed the night before, and once, at length, about her mother.",
+      "start_ms": 328543,
+      "end_ms": 338616
+    },
+    {
+      "index": 101,
+      "text": "Ester listened, or seemed to.",
+      "start_ms": 338616,
+      "end_ms": 340604
+    },
+    {
+      "index": 102,
+      "text": "On the last morning, before Signe's father came to drive her back to Bergen, she sat with Ester for half an hour and told her she would be back next July.",
+      "start_ms": 340604,
+      "end_ms": 350875
+    },
+    {
+      "index": 103,
+      "text": "Ester chewed slowly and did not disagree.",
+      "start_ms": 350875,
+      "end_ms": 353592
+    },
+    {
+      "index": 104,
+      "text": "In the kitchen, over the last breakfast, Ólafur said to Signe, without looking up from his coffee, \"Your grandfather used to say that taking care of small things is the work of a whole life.",
+      "start_ms": 353592,
+      "end_ms": 365357
+    },
+    {
+      "index": 105,
+      "text": "He said it about the sheep and the walls and the pots and the fence and the door hinges and everything else.",
+      "start_ms": 365357,
+      "end_ms": 372072
+    },
+    {
+      "index": 106,
+      "text": "I think he was right.",
+      "start_ms": 372072,
+      "end_ms": 373427
+    },
+    {
+      "index": 107,
+      "text": "I think you may already know this.",
+      "start_ms": 373427,
+      "end_ms": 375583
+    },
+    {
+      "index": 108,
+      "text": "Ester is a small thing.",
+      "start_ms": 375583,
+      "end_ms": 377061
+    },
+    {
+      "index": 109,
+      "text": "What we did was a small thing.",
+      "start_ms": 377061,
+      "end_ms": 378971
+    },
+    {
+      "index": 110,
+      "text": "But taking small things seriously is not a small thing.",
+      "start_ms": 378971,
+      "end_ms": 382420
+    },
+    {
+      "index": 111,
+      "text": "Remember that.\" And that was almost the longest sentence Signe had ever heard him say.",
+      "start_ms": 382420,
+      "end_ms": 387779
+    },
+    {
+      "index": 112,
+      "text": "She kept it, for the rest of her life.",
+      "start_ms": 387779,
+      "end_ms": 390120
+    }
+  ]
+}

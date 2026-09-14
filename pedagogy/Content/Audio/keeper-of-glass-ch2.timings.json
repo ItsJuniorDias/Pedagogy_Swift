@@ -1,0 +1,751 @@
+{
+  "story_id": "keeper-of-glass",
+  "chapter": 2,
+  "total_duration_ms": 342384,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "For the first week Elena mostly watched.",
+      "start_ms": 1787,
+      "end_ms": 4402
+    },
+    {
+      "index": 1,
+      "text": "Chiara made her sit at a safe distance, on a wooden stool near the wall, and just watch.",
+      "start_ms": 4402,
+      "end_ms": 10081
+    },
+    {
+      "index": 2,
+      "text": "Chiara did not explain very much.",
+      "start_ms": 10081,
+      "end_ms": 12250
+    },
+    {
+      "index": 3,
+      "text": "She said, \"Ask me any question you want.",
+      "start_ms": 12250,
+      "end_ms": 14866
+    },
+    {
+      "index": 4,
+      "text": "But at first — just look.",
+      "start_ms": 14866,
+      "end_ms": 16525
+    },
+    {
+      "index": 5,
+      "text": "Your eyes will teach you more than my words.\" So Elena looked.",
+      "start_ms": 16525,
+      "end_ms": 20545
+    },
+    {
+      "index": 6,
+      "text": "She watched Chiara make bowls, and small vases, and long-necked flasks, and once a beautiful spiral shape that Chiara said was going to be a hanging light fixture.",
+      "start_ms": 20545,
+      "end_ms": 31009
+    },
+    {
+      "index": 7,
+      "text": "She watched Chiara move — the exact steps of her feet from the furnace to the bench and back, the exact turn of her wrist as she rolled the pipe.",
+      "start_ms": 31009,
+      "end_ms": 40388
+    },
+    {
+      "index": 8,
+      "text": "In the evenings Elena went back to the house and slept, or sat by the small window in her room looking out at the canal, or read the books Chiara had left on the small shelf beside the bed.",
+      "start_ms": 40388,
+      "end_ms": 52511
+    },
+    {
+      "index": 9,
+      "text": "Chiara did not ask her about her parents.",
+      "start_ms": 52511,
+      "end_ms": 55191
+    },
+    {
+      "index": 10,
+      "text": "Elena did not talk about them.",
+      "start_ms": 55191,
+      "end_ms": 57169
+    },
+    {
+      "index": 11,
+      "text": "But she thought about them, in a quieter way than she had at home.",
+      "start_ms": 57169,
+      "end_ms": 61443
+    },
+    {
+      "index": 12,
+      "text": "Something about the days spent watching molten glass being shaped — a slow calm process that could not be rushed — had slowed her mind down.",
+      "start_ms": 61443,
+      "end_ms": 70440
+    },
+    {
+      "index": 13,
+      "text": "She still felt sad about the divorce.",
+      "start_ms": 70440,
+      "end_ms": 72864
+    },
+    {
+      "index": 14,
+      "text": "But the sadness had — space around it now.",
+      "start_ms": 72864,
+      "end_ms": 75608
+    },
+    {
+      "index": 15,
+      "text": "It was not the only thing in her head.",
+      "start_ms": 75608,
+      "end_ms": 78160
+    },
+    {
+      "index": 16,
+      "text": "On the eighth day, Chiara said, \"Come.",
+      "start_ms": 78160,
+      "end_ms": 80649
+    },
+    {
+      "index": 17,
+      "text": "Try something small.\" She led Elena to the pipe rack.",
+      "start_ms": 80649,
+      "end_ms": 84094
+    },
+    {
+      "index": 18,
+      "text": "She showed her how to hold the pipe.",
+      "start_ms": 84094,
+      "end_ms": 86455
+    },
+    {
+      "index": 19,
+      "text": "She showed her — with a cold pipe, no glass — how to blow into it slowly and steadily.",
+      "start_ms": 86455,
+      "end_ms": 92006
+    },
+    {
+      "index": 20,
+      "text": "\"Not fast,\" she said.",
+      "start_ms": 92006,
+      "end_ms": 93409
+    },
+    {
+      "index": 21,
+      "text": "\"Slow.",
+      "start_ms": 93409,
+      "end_ms": 93856
+    },
+    {
+      "index": 22,
+      "text": "As slow as a whole breath in and out.",
+      "start_ms": 93856,
+      "end_ms": 96281
+    },
+    {
+      "index": 23,
+      "text": "The glass responds to how you breathe.",
+      "start_ms": 96281,
+      "end_ms": 98769
+    },
+    {
+      "index": 24,
+      "text": "If you rush, it becomes uneven.",
+      "start_ms": 98769,
+      "end_ms": 100811
+    },
+    {
+      "index": 25,
+      "text": "If you are steady, it stays round.\" She had Elena practice breathing into a cold pipe for maybe half an hour.",
+      "start_ms": 100811,
+      "end_ms": 107829
+    },
+    {
+      "index": 26,
+      "text": "Elena thought she was doing it well.",
+      "start_ms": 107829,
+      "end_ms": 110190
+    },
+    {
+      "index": 27,
+      "text": "Chiara said, \"Better.",
+      "start_ms": 110190,
+      "end_ms": 111594
+    },
+    {
+      "index": 28,
+      "text": "But your shoulders are up.",
+      "start_ms": 111594,
+      "end_ms": 113316
+    },
+    {
+      "index": 29,
+      "text": "Drop them.",
+      "start_ms": 113316,
+      "end_ms": 114018
+    },
+    {
+      "index": 30,
+      "text": "Breathe from your belly, not your chest.",
+      "start_ms": 114018,
+      "end_ms": 116634
+    },
+    {
+      "index": 31,
+      "text": "Try again.\"",
+      "start_ms": 116634,
+      "end_ms": 117336
+    },
+    {
+      "index": 32,
+      "text": "That afternoon Chiara let her actually work with hot glass.",
+      "start_ms": 117336,
+      "end_ms": 121131
+    },
+    {
+      "index": 33,
+      "text": "Chiara put a small amount of molten glass on the end of a pipe.",
+      "start_ms": 121131,
+      "end_ms": 125179
+    },
+    {
+      "index": 34,
+      "text": "She handed the pipe to Elena.",
+      "start_ms": 125179,
+      "end_ms": 127076
+    },
+    {
+      "index": 35,
+      "text": "\"I will hold the far end,\" said Chiara.",
+      "start_ms": 127076,
+      "end_ms": 129606
+    },
+    {
+      "index": 36,
+      "text": "\"You blow.",
+      "start_ms": 129606,
+      "end_ms": 130302
+    },
+    {
+      "index": 37,
+      "text": "Slow.",
+      "start_ms": 130302,
+      "end_ms": 130682
+    },
+    {
+      "index": 38,
+      "text": "Long.",
+      "start_ms": 130682,
+      "end_ms": 131061
+    },
+    {
+      "index": 39,
+      "text": "Do not stop until I say stop.\" Elena blew.",
+      "start_ms": 131061,
+      "end_ms": 133781
+    },
+    {
+      "index": 40,
+      "text": "The glass bubbled outward — a small orange ball forming at the far end of the pipe.",
+      "start_ms": 133781,
+      "end_ms": 139094
+    },
+    {
+      "index": 41,
+      "text": "Elena kept blowing.",
+      "start_ms": 139094,
+      "end_ms": 140359
+    },
+    {
+      "index": 42,
+      "text": "She could feel it — really feel it — a small live thing at the other end of the pipe that responded to her breath.",
+      "start_ms": 140359,
+      "end_ms": 147633
+    },
+    {
+      "index": 43,
+      "text": "When Chiara said \"stop,\" Elena stopped.",
+      "start_ms": 147633,
+      "end_ms": 150163
+    },
+    {
+      "index": 44,
+      "text": "She was slightly out of breath.",
+      "start_ms": 150163,
+      "end_ms": 152187
+    },
+    {
+      "index": 45,
+      "text": "Chiara said, \"Good.",
+      "start_ms": 152187,
+      "end_ms": 153452
+    },
+    {
+      "index": 46,
+      "text": "You held it round.",
+      "start_ms": 153452,
+      "end_ms": 154653
+    },
+    {
+      "index": 47,
+      "text": "That is much harder than it looks.",
+      "start_ms": 154653,
+      "end_ms": 156867
+    },
+    {
+      "index": 48,
+      "text": "This is going to be a small orb.",
+      "start_ms": 156867,
+      "end_ms": 158954
+    },
+    {
+      "index": 49,
+      "text": "We will let it cool.",
+      "start_ms": 158954,
+      "end_ms": 160283
+    },
+    {
+      "index": 50,
+      "text": "It will be yours.\"",
+      "start_ms": 160283,
+      "end_ms": 161548
+    },
+    {
+      "index": 51,
+      "text": "The next morning the orb was cool.",
+      "start_ms": 161548,
+      "end_ms": 163761
+    },
+    {
+      "index": 52,
+      "text": "Chiara took it off the pipe and handed it to Elena.",
+      "start_ms": 163761,
+      "end_ms": 167050
+    },
+    {
+      "index": 53,
+      "text": "It was a small pale-amber ball, about the size of a large marble.",
+      "start_ms": 167050,
+      "end_ms": 171225
+    },
+    {
+      "index": 54,
+      "text": "It was perfectly round.",
+      "start_ms": 171225,
+      "end_ms": 172743
+    },
+    {
+      "index": 55,
+      "text": "It was hollow — you could see, if you held it to the light, that it had a small empty space in the middle.",
+      "start_ms": 172743,
+      "end_ms": 179510
+    },
+    {
+      "index": 56,
+      "text": "Elena held it in her palm.",
+      "start_ms": 179510,
+      "end_ms": 181218
+    },
+    {
+      "index": 57,
+      "text": "It was very light.",
+      "start_ms": 181218,
+      "end_ms": 182420
+    },
+    {
+      "index": 58,
+      "text": "It caught the light from the window and glowed slightly.",
+      "start_ms": 182420,
+      "end_ms": 186088
+    },
+    {
+      "index": 59,
+      "text": "\"That,\" Chiara said, \"is your breath.",
+      "start_ms": 186088,
+      "end_ms": 188492
+    },
+    {
+      "index": 60,
+      "text": "Frozen.",
+      "start_ms": 188492,
+      "end_ms": 188998
+    },
+    {
+      "index": 61,
+      "text": "Every piece of blown glass is a person's breath, turned solid.",
+      "start_ms": 188998,
+      "end_ms": 192983
+    },
+    {
+      "index": 62,
+      "text": "That is what glassblowing is, really.",
+      "start_ms": 192983,
+      "end_ms": 195386
+    },
+    {
+      "index": 63,
+      "text": "You breathe out.",
+      "start_ms": 195386,
+      "end_ms": 196461
+    },
+    {
+      "index": 64,
+      "text": "The glass captures the shape of your breath.",
+      "start_ms": 196461,
+      "end_ms": 199308
+    },
+    {
+      "index": 65,
+      "text": "Then it cools.",
+      "start_ms": 199308,
+      "end_ms": 200256
+    },
+    {
+      "index": 66,
+      "text": "Now the shape is permanent.",
+      "start_ms": 200256,
+      "end_ms": 202027
+    },
+    {
+      "index": 67,
+      "text": "In fifty years this will still be here.",
+      "start_ms": 202027,
+      "end_ms": 204557
+    },
+    {
+      "index": 68,
+      "text": "Your breath from yesterday morning, held in glass.",
+      "start_ms": 204557,
+      "end_ms": 207783
+    },
+    {
+      "index": 69,
+      "text": "That is what we do.\" Elena looked at the small orb.",
+      "start_ms": 207783,
+      "end_ms": 211072
+    },
+    {
+      "index": 70,
+      "text": "She had known glass was blown.",
+      "start_ms": 211072,
+      "end_ms": 213033
+    },
+    {
+      "index": 71,
+      "text": "She had not known — she had not felt — what that really meant.",
+      "start_ms": 213033,
+      "end_ms": 217018
+    },
+    {
+      "index": 72,
+      "text": "She said, quietly, \"That is a beautiful way to think of it.\" Chiara said, \"It is not only a way to think of it.",
+      "start_ms": 217018,
+      "end_ms": 224102
+    },
+    {
+      "index": 73,
+      "text": "It is what it is.\"",
+      "start_ms": 224102,
+      "end_ms": 225240
+    },
+    {
+      "index": 74,
+      "text": "In the second week Chiara let Elena try to make a small object — not just an orb, but something shaped.",
+      "start_ms": 225240,
+      "end_ms": 231128
+    },
+    {
+      "index": 75,
+      "text": "Elena chose a fish.",
+      "start_ms": 231128,
+      "end_ms": 232260
+    },
+    {
+      "index": 76,
+      "text": "There was one small glass fish in Chiara's house — pale green — that she had noticed on the first day, and she wanted to try to make one like it.",
+      "start_ms": 232260,
+      "end_ms": 240525
+    },
+    {
+      "index": 77,
+      "text": "Chiara said, \"A fish is not easy.",
+      "start_ms": 240525,
+      "end_ms": 242450
+    },
+    {
+      "index": 78,
+      "text": "You will not make it well on your first try.",
+      "start_ms": 242450,
+      "end_ms": 244997
+    },
+    {
+      "index": 79,
+      "text": "You may not make it well on your fiftieth try.",
+      "start_ms": 244997,
+      "end_ms": 247658
+    },
+    {
+      "index": 80,
+      "text": "But we can try.",
+      "start_ms": 247658,
+      "end_ms": 248564
+    },
+    {
+      "index": 81,
+      "text": "It will teach you many things whether you succeed or not.\"",
+      "start_ms": 248564,
+      "end_ms": 251961
+    },
+    {
+      "index": 82,
+      "text": "So Elena tried.",
+      "start_ms": 251961,
+      "end_ms": 252866
+    },
+    {
+      "index": 83,
+      "text": "Every day for a week she tried.",
+      "start_ms": 252866,
+      "end_ms": 254678
+    },
+    {
+      "index": 84,
+      "text": "Every day she made a small mess of a fish — one had no fins, one had a lopsided body, one broke while she was trying to pull the tail out.",
+      "start_ms": 254678,
+      "end_ms": 262547
+    },
+    {
+      "index": 85,
+      "text": "Elena did not get frustrated.",
+      "start_ms": 262547,
+      "end_ms": 264245
+    },
+    {
+      "index": 86,
+      "text": "She had learned something in the first week about slowness.",
+      "start_ms": 264245,
+      "end_ms": 267642
+    },
+    {
+      "index": 87,
+      "text": "Chiara did not get frustrated either.",
+      "start_ms": 267642,
+      "end_ms": 269793
+    },
+    {
+      "index": 88,
+      "text": "She only kept teaching.",
+      "start_ms": 269793,
+      "end_ms": 271152
+    },
+    {
+      "index": 89,
+      "text": "\"The tail comes out with a small pair of pincers.",
+      "start_ms": 271152,
+      "end_ms": 273982
+    },
+    {
+      "index": 90,
+      "text": "Not tweezers — pincers.",
+      "start_ms": 273982,
+      "end_ms": 275341
+    },
+    {
+      "index": 91,
+      "text": "Watch.",
+      "start_ms": 275341,
+      "end_ms": 275737
+    },
+    {
+      "index": 92,
+      "text": "Like this.",
+      "start_ms": 275737,
+      "end_ms": 276360
+    },
+    {
+      "index": 93,
+      "text": "You have to be quick but not fast.",
+      "start_ms": 276360,
+      "end_ms": 278341
+    },
+    {
+      "index": 94,
+      "text": "Yes.",
+      "start_ms": 278341,
+      "end_ms": 278625
+    },
+    {
+      "index": 95,
+      "text": "Try again.\"",
+      "start_ms": 278625,
+      "end_ms": 279360
+    },
+    {
+      "index": 96,
+      "text": "On the sixth day of the second week, Elena made a real fish.",
+      "start_ms": 279360,
+      "end_ms": 282814
+    },
+    {
+      "index": 97,
+      "text": "It was small — about the length of her finger — and pale green.",
+      "start_ms": 282814,
+      "end_ms": 286437
+    },
+    {
+      "index": 98,
+      "text": "It had a fat little body, two small clear fins on the sides, and a tail.",
+      "start_ms": 286437,
+      "end_ms": 290570
+    },
+    {
+      "index": 99,
+      "text": "The tail was not quite even.",
+      "start_ms": 290570,
+      "end_ms": 292211
+    },
+    {
+      "index": 100,
+      "text": "One eye was a little off.",
+      "start_ms": 292211,
+      "end_ms": 293683
+    },
+    {
+      "index": 101,
+      "text": "But it was a fish.",
+      "start_ms": 293683,
+      "end_ms": 294759
+    },
+    {
+      "index": 102,
+      "text": "It stayed together when Chiara took it off the pipe.",
+      "start_ms": 294759,
+      "end_ms": 297759
+    },
+    {
+      "index": 103,
+      "text": "It cooled.",
+      "start_ms": 297759,
+      "end_ms": 298382
+    },
+    {
+      "index": 104,
+      "text": "It became solid.",
+      "start_ms": 298382,
+      "end_ms": 299344
+    },
+    {
+      "index": 105,
+      "text": "It could be held.",
+      "start_ms": 299344,
+      "end_ms": 300363
+    },
+    {
+      "index": 106,
+      "text": "It looked like a fish.",
+      "start_ms": 300363,
+      "end_ms": 301665
+    },
+    {
+      "index": 107,
+      "text": "Elena held it in both hands, in the workshop, and she laughed a small laugh, and Chiara smiled, and neither of them said much because there was not much to say.",
+      "start_ms": 301665,
+      "end_ms": 310780
+    },
+    {
+      "index": 108,
+      "text": "It was a fish.",
+      "start_ms": 310780,
+      "end_ms": 311629
+    },
+    {
+      "index": 109,
+      "text": "Elena had made it.",
+      "start_ms": 311629,
+      "end_ms": 312648
+    },
+    {
+      "index": 110,
+      "text": "That evening they had supper together at Chiara's kitchen table.",
+      "start_ms": 312648,
+      "end_ms": 316143
+    },
+    {
+      "index": 111,
+      "text": "Chiara had put the small fish in the middle of the table between them.",
+      "start_ms": 316143,
+      "end_ms": 319961
+    },
+    {
+      "index": 112,
+      "text": "Chiara said, \"Elena.",
+      "start_ms": 319961,
+      "end_ms": 321090
+    },
+    {
+      "index": 113,
+      "text": "What is the fish going to be for.",
+      "start_ms": 321090,
+      "end_ms": 322918
+    },
+    {
+      "index": 114,
+      "text": "You should decide now.",
+      "start_ms": 322918,
+      "end_ms": 324155
+    },
+    {
+      "index": 115,
+      "text": "Not later.",
+      "start_ms": 324155,
+      "end_ms": 324747
+    },
+    {
+      "index": 116,
+      "text": "Now.",
+      "start_ms": 324747,
+      "end_ms": 325016
+    },
+    {
+      "index": 117,
+      "text": "What is its use going to be.\" Elena thought.",
+      "start_ms": 325016,
+      "end_ms": 327435
+    },
+    {
+      "index": 118,
+      "text": "She said, \"Can it just be — a fish.",
+      "start_ms": 327435,
+      "end_ms": 329371
+    },
+    {
+      "index": 119,
+      "text": "That I keep.\" Chiara said, \"Of course.",
+      "start_ms": 329371,
+      "end_ms": 331468
+    },
+    {
+      "index": 120,
+      "text": "But — I want you to also think about — is there a person in your life who might need a small glass fish.",
+      "start_ms": 331468,
+      "end_ms": 337114
+    },
+    {
+      "index": 121,
+      "text": "Maybe more than you do.",
+      "start_ms": 337114,
+      "end_ms": 338405
+    },
+    {
+      "index": 122,
+      "text": "Not that you should give it to them.",
+      "start_ms": 338405,
+      "end_ms": 340394
+    },
+    {
+      "index": 123,
+      "text": "Just that you should think about it.\"",
+      "start_ms": 340394,
+      "end_ms": 342384
+    }
+  ]
+}

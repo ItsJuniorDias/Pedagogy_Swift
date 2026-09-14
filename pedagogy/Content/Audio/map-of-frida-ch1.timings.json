@@ -1,0 +1,445 @@
+{
+  "story_id": "map-of-frida",
+  "chapter": 1,
+  "total_duration_ms": 276888,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Frida had never been to Mexico City before, though she had heard about it her whole life.",
+      "start_ms": 1813,
+      "end_ms": 7251
+    },
+    {
+      "index": 1,
+      "text": "Her mother had grown up there, in a neighborhood called Coyoacán, and had moved to Los Angeles at the age of nineteen, and had died two years ago when Frida was eight.",
+      "start_ms": 7251,
+      "end_ms": 17401
+    },
+    {
+      "index": 2,
+      "text": "Frida had visited her Abuelo — her grandfather — twice, when he had come to Los Angeles for Christmas.",
+      "start_ms": 17401,
+      "end_ms": 23625
+    },
+    {
+      "index": 3,
+      "text": "She had never been to his house.",
+      "start_ms": 23625,
+      "end_ms": 25619
+    },
+    {
+      "index": 4,
+      "text": "She had never seen the city her mother had loved.",
+      "start_ms": 25619,
+      "end_ms": 28700
+    },
+    {
+      "index": 5,
+      "text": "But it was December, and Frida was ten now, and her father had said maybe it was time.",
+      "start_ms": 28700,
+      "end_ms": 33957
+    },
+    {
+      "index": 6,
+      "text": "He had bought her a plane ticket.",
+      "start_ms": 33957,
+      "end_ms": 36011
+    },
+    {
+      "index": 7,
+      "text": "She had flown alone from Los Angeles that morning, and Abuelo had met her at the arrivals hall in Mexico City, and he had hugged her hard and long, and she had cried a little into his coat because he smelled the same as her mother's old sweaters.",
+      "start_ms": 36011,
+      "end_ms": 50935
+    },
+    {
+      "index": 8,
+      "text": "He had let her cry.",
+      "start_ms": 50935,
+      "end_ms": 52143
+    },
+    {
+      "index": 9,
+      "text": "He had not said anything about it.",
+      "start_ms": 52143,
+      "end_ms": 54258
+    },
+    {
+      "index": 10,
+      "text": "He had just held her, and then he had picked up her suitcase, and he had said, in his soft accented English, \"Come on, mi vida.",
+      "start_ms": 54258,
+      "end_ms": 61992
+    },
+    {
+      "index": 11,
+      "text": "The city is waiting.\"",
+      "start_ms": 61992,
+      "end_ms": 63382
+    },
+    {
+      "index": 12,
+      "text": "His house was in Coyoacán, exactly where her mother had grown up.",
+      "start_ms": 63382,
+      "end_ms": 67369
+    },
+    {
+      "index": 13,
+      "text": "It was small and blue and had one room on the ground floor and a small kitchen at the back and two bedrooms upstairs, and everything creaked when you walked on it.",
+      "start_ms": 67369,
+      "end_ms": 77279
+    },
+    {
+      "index": 14,
+      "text": "There were photographs everywhere.",
+      "start_ms": 77279,
+      "end_ms": 79393
+    },
+    {
+      "index": 15,
+      "text": "Frida had never seen most of them.",
+      "start_ms": 79393,
+      "end_ms": 81508
+    },
+    {
+      "index": 16,
+      "text": "Her mother as a small girl in a starched dress.",
+      "start_ms": 81508,
+      "end_ms": 84408
+    },
+    {
+      "index": 17,
+      "text": "Her mother at fourteen with her hair short.",
+      "start_ms": 84408,
+      "end_ms": 87067
+    },
+    {
+      "index": 18,
+      "text": "Her mother and Abuelo at the market together.",
+      "start_ms": 87067,
+      "end_ms": 89846
+    },
+    {
+      "index": 19,
+      "text": "Frida stood in front of each one for a long time.",
+      "start_ms": 89846,
+      "end_ms": 92928
+    },
+    {
+      "index": 20,
+      "text": "That evening Abuelo made her mole with rice and a small salad, and they sat at the kitchen table and ate.",
+      "start_ms": 92928,
+      "end_ms": 99332
+    },
+    {
+      "index": 21,
+      "text": "He asked her about her school, and her father, and her cat named Pancho.",
+      "start_ms": 99332,
+      "end_ms": 103743
+    },
+    {
+      "index": 22,
+      "text": "She answered.",
+      "start_ms": 103743,
+      "end_ms": 104589
+    },
+    {
+      "index": 23,
+      "text": "Then she said, \"Abuelo.",
+      "start_ms": 104589,
+      "end_ms": 106039
+    },
+    {
+      "index": 24,
+      "text": "I brought something.\" She reached into her pocket.",
+      "start_ms": 106039,
+      "end_ms": 109120
+    },
+    {
+      "index": 25,
+      "text": "She took out a piece of paper, folded four times.",
+      "start_ms": 109120,
+      "end_ms": 112141
+    },
+    {
+      "index": 26,
+      "text": "It was old and soft.",
+      "start_ms": 112141,
+      "end_ms": 113410
+    },
+    {
+      "index": 27,
+      "text": "She unfolded it very carefully and laid it flat on the table.",
+      "start_ms": 113410,
+      "end_ms": 117096
+    },
+    {
+      "index": 28,
+      "text": "It was a hand-drawn map.",
+      "start_ms": 117096,
+      "end_ms": 118640
+    },
+    {
+      "index": 29,
+      "text": "Ballpoint pen on a sheet of school paper, folded and refolded so many times the creases were almost transparent.",
+      "start_ms": 118640,
+      "end_ms": 125617
+    },
+    {
+      "index": 30,
+      "text": "The main streets of Mexico City were marked out roughly, with landmarks Frida did not know — a big church, a park, the Zócalo.",
+      "start_ms": 125617,
+      "end_ms": 133458
+    },
+    {
+      "index": 31,
+      "text": "And there were six small stars, each with a short handwritten note beside it.",
+      "start_ms": 133458,
+      "end_ms": 138274
+    },
+    {
+      "index": 32,
+      "text": "The handwriting was her mother's — the round careful handwriting of a girl of maybe fifteen or sixteen.",
+      "start_ms": 138274,
+      "end_ms": 144758
+    },
+    {
+      "index": 33,
+      "text": "Abuelo went very still.",
+      "start_ms": 144758,
+      "end_ms": 146239
+    },
+    {
+      "index": 34,
+      "text": "He put on his reading glasses.",
+      "start_ms": 146239,
+      "end_ms": 148153
+    },
+    {
+      "index": 35,
+      "text": "He leaned in over the map.",
+      "start_ms": 148153,
+      "end_ms": 149821
+    },
+    {
+      "index": 36,
+      "text": "He was quiet for a long time.",
+      "start_ms": 149821,
+      "end_ms": 151673
+    },
+    {
+      "index": 37,
+      "text": "Then he touched one of the stars — the one labeled Casa de las bugambilias — very gently, with one finger.",
+      "start_ms": 151673,
+      "end_ms": 158280
+    },
+    {
+      "index": 38,
+      "text": "He said, \"Where did you find this, mi vida.\" Frida said, \"In Mamá's box.",
+      "start_ms": 158280,
+      "end_ms": 162787
+    },
+    {
+      "index": 39,
+      "text": "In the closet at home.",
+      "start_ms": 162787,
+      "end_ms": 164207
+    },
+    {
+      "index": 40,
+      "text": "Papá let me have it.",
+      "start_ms": 164207,
+      "end_ms": 165504
+    },
+    {
+      "index": 41,
+      "text": "I did not tell him why.",
+      "start_ms": 165504,
+      "end_ms": 166986
+    },
+    {
+      "index": 42,
+      "text": "I only said I wanted it.\"",
+      "start_ms": 166986,
+      "end_ms": 168653
+    },
+    {
+      "index": 43,
+      "text": "Abuelo read the notes one by one, quietly, half to himself and half to Frida.",
+      "start_ms": 168653,
+      "end_ms": 173469
+    },
+    {
+      "index": 44,
+      "text": "Casa de las bugambilias — where I first climbed a tree.",
+      "start_ms": 173469,
+      "end_ms": 176926
+    },
+    {
+      "index": 45,
+      "text": "Café Tacuba — where Papá and I always got hot chocolate.",
+      "start_ms": 176926,
+      "end_ms": 180446
+    },
+    {
+      "index": 46,
+      "text": "La Merced — the pastry lady with the red shawl.",
+      "start_ms": 180446,
+      "end_ms": 183410
+    },
+    {
+      "index": 47,
+      "text": "Frida Kahlo's blue house — I stood outside for two hours in the rain.",
+      "start_ms": 183410,
+      "end_ms": 187732
+    },
+    {
+      "index": 48,
+      "text": "The Zócalo bell — I could hear it from my bedroom window at night.",
+      "start_ms": 187732,
+      "end_ms": 191869
+    },
+    {
+      "index": 49,
+      "text": "Chapultepec park, big tree by the little pond — I first read Rulfo here.",
+      "start_ms": 191869,
+      "end_ms": 196438
+    },
+    {
+      "index": 50,
+      "text": "\"These are her places,\" Abuelo said.",
+      "start_ms": 196438,
+      "end_ms": 198722
+    },
+    {
+      "index": 51,
+      "text": "\"These are where she was a girl.\" \"I want to go to them,\" said Frida.",
+      "start_ms": 198722,
+      "end_ms": 203044
+    },
+    {
+      "index": 52,
+      "text": "\"All six.",
+      "start_ms": 203044,
+      "end_ms": 203662
+    },
+    {
+      "index": 53,
+      "text": "Is that possible.",
+      "start_ms": 203662,
+      "end_ms": 204773
+    },
+    {
+      "index": 54,
+      "text": "In a week.\" Abuelo looked at her.",
+      "start_ms": 204773,
+      "end_ms": 206872
+    },
+    {
+      "index": 55,
+      "text": "He did not say anything for a moment.",
+      "start_ms": 206872,
+      "end_ms": 209219
+    },
+    {
+      "index": 56,
+      "text": "His eyes were bright.",
+      "start_ms": 209219,
+      "end_ms": 210577
+    },
+    {
+      "index": 57,
+      "text": "Then he said, \"Yes.",
+      "start_ms": 210577,
+      "end_ms": 211812
+    },
+    {
+      "index": 58,
+      "text": "We will go to all six.",
+      "start_ms": 211812,
+      "end_ms": 213232
+    },
+    {
+      "index": 59,
+      "text": "Starting tomorrow.",
+      "start_ms": 213232,
+      "end_ms": 214405
+    },
+    {
+      "index": 60,
+      "text": "I will take you to every one.",
+      "start_ms": 214405,
+      "end_ms": 216258
+    },
+    {
+      "index": 61,
+      "text": "And I will tell you, at each one, what I remember of your mother being there.\" And Frida nodded, and she put her small hand on top of his big hand on the map, and neither of them said anything else for a while.",
+      "start_ms": 216258,
+      "end_ms": 229224
+    },
+    {
+      "index": 62,
+      "text": "That night Frida lay in the small bedroom that had been her mother's when her mother was young.",
+      "start_ms": 229224,
+      "end_ms": 235374
+    },
+    {
+      "index": 63,
+      "text": "There was a small window facing an inner courtyard, and Frida could see the pink of a bougainvillea plant through the shutter, even at night.",
+      "start_ms": 235374,
+      "end_ms": 244471
+    },
+    {
+      "index": 64,
+      "text": "She had the map on the pillow beside her.",
+      "start_ms": 244471,
+      "end_ms": 247162
+    },
+    {
+      "index": 65,
+      "text": "She was tired but she did not want to fall asleep.",
+      "start_ms": 247162,
+      "end_ms": 250429
+    },
+    {
+      "index": 66,
+      "text": "She kept looking at her mother's handwriting.",
+      "start_ms": 250429,
+      "end_ms": 253440
+    },
+    {
+      "index": 67,
+      "text": "She thought about what Abuelo had said — I will tell you, at each one, what I remember.",
+      "start_ms": 253440,
+      "end_ms": 259078
+    },
+    {
+      "index": 68,
+      "text": "She was afraid, a little, of hearing those things.",
+      "start_ms": 259078,
+      "end_ms": 262345
+    },
+    {
+      "index": 69,
+      "text": "She was afraid of what she might feel.",
+      "start_ms": 262345,
+      "end_ms": 264844
+    },
+    {
+      "index": 70,
+      "text": "She was more afraid, though, of not hearing them.",
+      "start_ms": 264844,
+      "end_ms": 268047
+    },
+    {
+      "index": 71,
+      "text": "Of leaving the city and going back to Los Angeles and never knowing.",
+      "start_ms": 268047,
+      "end_ms": 272468
+    },
+    {
+      "index": 72,
+      "text": "She held the map against her cheek and after a while she fell asleep.",
+      "start_ms": 272468,
+      "end_ms": 276888
+    }
+  ]
+}

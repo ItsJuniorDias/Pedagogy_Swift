@@ -1,0 +1,277 @@
+{
+  "story_id": "lantern-keeper",
+  "chapter": 2,
+  "total_duration_ms": 157152,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The lamp room at the top of the tower was cold and glass-walled and impossibly loud.",
+      "start_ms": 2508,
+      "end_ms": 7644
+    },
+    {
+      "index": 1,
+      "text": "Milo pushed open the metal box marked SPARE PARTS.",
+      "start_ms": 7644,
+      "end_ms": 10689
+    },
+    {
+      "index": 2,
+      "text": "He counted the bulbs inside.",
+      "start_ms": 10689,
+      "end_ms": 12421
+    },
+    {
+      "index": 3,
+      "text": "There were none.",
+      "start_ms": 12421,
+      "end_ms": 13436
+    },
+    {
+      "index": 4,
+      "text": "There were only three empty cardboard sleeves and a note in his father's handwriting: ORDER MORE.",
+      "start_ms": 13436,
+      "end_ms": 19348
+    },
+    {
+      "index": 5,
+      "text": "The order had not come yet.",
+      "start_ms": 19348,
+      "end_ms": 21080
+    },
+    {
+      "index": 6,
+      "text": "Milo sat down on the metal floor for one full minute, because his legs would not hold him up.",
+      "start_ms": 21080,
+      "end_ms": 26693
+    },
+    {
+      "index": 7,
+      "text": "Then he stood up again, because sitting was not going to help the twelve people on the ferry.",
+      "start_ms": 26693,
+      "end_ms": 32366
+    },
+    {
+      "index": 8,
+      "text": "He thought about the old oil lantern in the cellar.",
+      "start_ms": 32366,
+      "end_ms": 35531
+    },
+    {
+      "index": 9,
+      "text": "His father had shown it to him once, years ago, when Milo had been small enough to hide inside the coil of rope in the corner of the storeroom.",
+      "start_ms": 35531,
+      "end_ms": 44130
+    },
+    {
+      "index": 10,
+      "text": "\"That's the emergency lantern,\" his father had said.",
+      "start_ms": 44130,
+      "end_ms": 47295
+    },
+    {
+      "index": 11,
+      "text": "\"From the old days.",
+      "start_ms": 47295,
+      "end_ms": 48489
+    },
+    {
+      "index": 12,
+      "text": "Before we had electric lamps up top.",
+      "start_ms": 48489,
+      "end_ms": 50699
+    },
+    {
+      "index": 13,
+      "text": "Nobody's used it since — well, since your great-grandmother's time.\"",
+      "start_ms": 50699,
+      "end_ms": 54879
+    },
+    {
+      "index": 14,
+      "text": "Milo went back down the stairs.",
+      "start_ms": 54879,
+      "end_ms": 56790
+    },
+    {
+      "index": 15,
+      "text": "He was faster on the way down.",
+      "start_ms": 56790,
+      "end_ms": 58641
+    },
+    {
+      "index": 16,
+      "text": "Fear made you slow going up and quick going back.",
+      "start_ms": 58641,
+      "end_ms": 61687
+    },
+    {
+      "index": 17,
+      "text": "The cellar was cold and smelled of salt and old wood.",
+      "start_ms": 61687,
+      "end_ms": 64911
+    },
+    {
+      "index": 18,
+      "text": "The oil lantern was there, on a shelf, exactly where his father had said.",
+      "start_ms": 64911,
+      "end_ms": 69330
+    },
+    {
+      "index": 19,
+      "text": "Milo took it down.",
+      "start_ms": 69330,
+      "end_ms": 70525
+    },
+    {
+      "index": 20,
+      "text": "Underneath it, tucked between the lantern and the wall, was a small wooden box.",
+      "start_ms": 70525,
+      "end_ms": 75302
+    },
+    {
+      "index": 21,
+      "text": "Milo had never noticed it before.",
+      "start_ms": 75302,
+      "end_ms": 77392
+    },
+    {
+      "index": 22,
+      "text": "He opened it.",
+      "start_ms": 77392,
+      "end_ms": 78288
+    },
+    {
+      "index": 23,
+      "text": "Inside were three things: a small brass tin of lamp oil, still sealed.",
+      "start_ms": 78288,
+      "end_ms": 82527
+    },
+    {
+      "index": 24,
+      "text": "A folded piece of paper.",
+      "start_ms": 82527,
+      "end_ms": 84020
+    },
+    {
+      "index": 25,
+      "text": "And, wrapped in cloth, a folded silver rectangle about the size of his hand.",
+      "start_ms": 84020,
+      "end_ms": 88678
+    },
+    {
+      "index": 26,
+      "text": "He unfolded the paper.",
+      "start_ms": 88678,
+      "end_ms": 90052
+    },
+    {
+      "index": 27,
+      "text": "The handwriting was old-fashioned, but clear.",
+      "start_ms": 90052,
+      "end_ms": 92858
+    },
+    {
+      "index": 28,
+      "text": "It said:",
+      "start_ms": 92858,
+      "end_ms": 93336
+    },
+    {
+      "index": 29,
+      "text": "March 1962.",
+      "start_ms": 93336,
+      "end_ms": 94063
+    },
+    {
+      "index": 30,
+      "text": "The lamp went out in the great storm, and the electric wires were down.",
+      "start_ms": 94063,
+      "end_ms": 98427
+    },
+    {
+      "index": 31,
+      "text": "I climbed with the oil lantern but it was too weak to be seen from the sea.",
+      "start_ms": 98427,
+      "end_ms": 103033
+    },
+    {
+      "index": 32,
+      "text": "I remembered my father's trick with the silver plates.",
+      "start_ms": 103033,
+      "end_ms": 106366
+    },
+    {
+      "index": 33,
+      "text": "If you find this in another storm someday, I hope it helps you as it helped the boat that night.",
+      "start_ms": 106366,
+      "end_ms": 112244
+    },
+    {
+      "index": 34,
+      "text": "Set the plates behind the lantern in a curve, and every bit of light you have will be doubled and thrown outward.",
+      "start_ms": 112244,
+      "end_ms": 119153
+    },
+    {
+      "index": 35,
+      "text": "— Isla Bell, keeper's daughter.",
+      "start_ms": 119153,
+      "end_ms": 121153
+    },
+    {
+      "index": 36,
+      "text": "Milo unwrapped the silver rectangle.",
+      "start_ms": 121153,
+      "end_ms": 123396
+    },
+    {
+      "index": 37,
+      "text": "It was one plate — a hammered silver mirror, small enough to hold in one hand.",
+      "start_ms": 123396,
+      "end_ms": 128244
+    },
+    {
+      "index": 38,
+      "text": "One plate.",
+      "start_ms": 128244,
+      "end_ms": 128971
+    },
+    {
+      "index": 39,
+      "text": "The note said plates.",
+      "start_ms": 128971,
+      "end_ms": 130304
+    },
+    {
+      "index": 40,
+      "text": "Plural.",
+      "start_ms": 130304,
+      "end_ms": 130850
+    },
+    {
+      "index": 41,
+      "text": "Milo looked around the cellar.",
+      "start_ms": 130850,
+      "end_ms": 132729
+    },
+    {
+      "index": 42,
+      "text": "The other silver plates were not here.",
+      "start_ms": 132729,
+      "end_ms": 135092
+    },
+    {
+      "index": 43,
+      "text": "His great-grandmother had used them and put them somewhere, and then years had passed and years and years, and now Milo was standing in the same cellar in another storm and he did not know where the plates were.",
+      "start_ms": 135092,
+      "end_ms": 148001
+    },
+    {
+      "index": 44,
+      "text": "Outside, the wind rose to a new pitch, and Milo heard it now for what it was — the sound the wind makes right before a ship is about to come into view.",
+      "start_ms": 148001,
+      "end_ms": 157152
+    }
+  ]
+}

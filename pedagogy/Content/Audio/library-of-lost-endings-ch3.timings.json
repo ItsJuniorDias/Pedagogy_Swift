@@ -1,0 +1,847 @@
+{
+  "story_id": "library-of-lost-endings",
+  "chapter": 3,
+  "total_duration_ms": 427176,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Ann Balfour came to the bookshop the next afternoon.",
+      "start_ms": 1783,
+      "end_ms": 5417
+    },
+    {
+      "index": 1,
+      "text": "She was maybe fifty-five.",
+      "start_ms": 5417,
+      "end_ms": 7200
+    },
+    {
+      "index": 2,
+      "text": "She had a warm coat and slightly worried eyes.",
+      "start_ms": 7200,
+      "end_ms": 10423
+    },
+    {
+      "index": 3,
+      "text": "Rosa had laid the eleven books out on the counter.",
+      "start_ms": 10423,
+      "end_ms": 13921
+    },
+    {
+      "index": 4,
+      "text": "Ann looked at them for a while without speaking.",
+      "start_ms": 13921,
+      "end_ms": 17281
+    },
+    {
+      "index": 5,
+      "text": "Then she said, \"Ah.",
+      "start_ms": 17281,
+      "end_ms": 18652
+    },
+    {
+      "index": 6,
+      "text": "I did not know — I did not know these were in the house.",
+      "start_ms": 18652,
+      "end_ms": 22561
+    },
+    {
+      "index": 7,
+      "text": "I did not go through the library carefully.",
+      "start_ms": 22561,
+      "end_ms": 25579
+    },
+    {
+      "index": 8,
+      "text": "I just packed the books up and brought them here.\" She looked up.",
+      "start_ms": 25579,
+      "end_ms": 30105
+    },
+    {
+      "index": 9,
+      "text": "\"You want to know who did this.",
+      "start_ms": 30105,
+      "end_ms": 32299
+    },
+    {
+      "index": 10,
+      "text": "Am I right.\" Rosa said, \"Yes.",
+      "start_ms": 32299,
+      "end_ms": 34356
+    },
+    {
+      "index": 11,
+      "text": "If you know.\"",
+      "start_ms": 34356,
+      "end_ms": 35385
+    },
+    {
+      "index": 12,
+      "text": "Ann sighed.",
+      "start_ms": 35385,
+      "end_ms": 36208
+    },
+    {
+      "index": 13,
+      "text": "She said, \"I know.",
+      "start_ms": 36208,
+      "end_ms": 37511
+    },
+    {
+      "index": 14,
+      "text": "It was my mother.",
+      "start_ms": 37511,
+      "end_ms": 38745
+    },
+    {
+      "index": 15,
+      "text": "And her mother before her.",
+      "start_ms": 38745,
+      "end_ms": 40597
+    },
+    {
+      "index": 16,
+      "text": "And her mother's mother before that.",
+      "start_ms": 40597,
+      "end_ms": 43134
+    },
+    {
+      "index": 17,
+      "text": "Four generations of Balfour women — great-grandmother, grandmother, mother, and — very briefly — me.",
+      "start_ms": 43134,
+      "end_ms": 50060
+    },
+    {
+      "index": 18,
+      "text": "Well, I stopped.",
+      "start_ms": 50060,
+      "end_ms": 51226
+    },
+    {
+      "index": 19,
+      "text": "I could not do it.",
+      "start_ms": 51226,
+      "end_ms": 52529
+    },
+    {
+      "index": 20,
+      "text": "But the three before me — yes.",
+      "start_ms": 52529,
+      "end_ms": 54654
+    },
+    {
+      "index": 21,
+      "text": "They tore the endings out.\"",
+      "start_ms": 54654,
+      "end_ms": 56643
+    },
+    {
+      "index": 22,
+      "text": "Iona and Rosa waited.",
+      "start_ms": 56643,
+      "end_ms": 58152
+    },
+    {
+      "index": 23,
+      "text": "Ann settled herself.",
+      "start_ms": 58152,
+      "end_ms": 59592
+    },
+    {
+      "index": 24,
+      "text": "She said, \"It started with my great-grandmother, Elspeth Balfour.",
+      "start_ms": 59592,
+      "end_ms": 64118
+    },
+    {
+      "index": 25,
+      "text": "She was born in 1856.",
+      "start_ms": 64118,
+      "end_ms": 65626
+    },
+    {
+      "index": 26,
+      "text": "She was — from what my mother told me — a very serious woman.",
+      "start_ms": 65626,
+      "end_ms": 69878
+    },
+    {
+      "index": 27,
+      "text": "She loved reading.",
+      "start_ms": 69878,
+      "end_ms": 71181
+    },
+    {
+      "index": 28,
+      "text": "She read a great deal.",
+      "start_ms": 71181,
+      "end_ms": 72758
+    },
+    {
+      "index": 29,
+      "text": "And one day, when she was maybe your age — she read a novel that had an ending she felt was — wrong.",
+      "start_ms": 72758,
+      "end_ms": 79684
+    },
+    {
+      "index": 30,
+      "text": "She felt the author had — cheated.",
+      "start_ms": 79684,
+      "end_ms": 82085
+    },
+    {
+      "index": 31,
+      "text": "Had put a false ending on a real story.",
+      "start_ms": 82085,
+      "end_ms": 84828
+    },
+    {
+      "index": 32,
+      "text": "She was so angry that she tore the last chapter out.",
+      "start_ms": 84828,
+      "end_ms": 88462
+    },
+    {
+      "index": 33,
+      "text": "She kept the book on her shelf without its ending.",
+      "start_ms": 88462,
+      "end_ms": 91959
+    },
+    {
+      "index": 34,
+      "text": "It was a small — protest.\"",
+      "start_ms": 91959,
+      "end_ms": 93879
+    },
+    {
+      "index": 35,
+      "text": "\"And then — well.",
+      "start_ms": 93879,
+      "end_ms": 95114
+    },
+    {
+      "index": 36,
+      "text": "She started thinking.",
+      "start_ms": 95114,
+      "end_ms": 96622
+    },
+    {
+      "index": 37,
+      "text": "She realized she could do it whenever she wanted.",
+      "start_ms": 96622,
+      "end_ms": 100051
+    },
+    {
+      "index": 38,
+      "text": "Whenever an ending felt wrong to her, she could just tear it out.",
+      "start_ms": 100051,
+      "end_ms": 104577
+    },
+    {
+      "index": 39,
+      "text": "Not tell anyone.",
+      "start_ms": 104577,
+      "end_ms": 105743
+    },
+    {
+      "index": 40,
+      "text": "And so — over her life — she tore the endings out of maybe thirty books.",
+      "start_ms": 105743,
+      "end_ms": 110749
+    },
+    {
+      "index": 41,
+      "text": "Only the ones whose endings she felt were wrong.",
+      "start_ms": 110749,
+      "end_ms": 114109
+    },
+    {
+      "index": 42,
+      "text": "Not all of them.",
+      "start_ms": 114109,
+      "end_ms": 115275
+    },
+    {
+      "index": 43,
+      "text": "Some novels she felt ended honestly.",
+      "start_ms": 115275,
+      "end_ms": 117812
+    },
+    {
+      "index": 44,
+      "text": "Those she left alone.",
+      "start_ms": 117812,
+      "end_ms": 119321
+    },
+    {
+      "index": 45,
+      "text": "But the ones where she felt the author had let her down — she tore.\"",
+      "start_ms": 119321,
+      "end_ms": 123984
+    },
+    {
+      "index": 46,
+      "text": "\"When she was old,\" Ann went on, \"she told her daughter, Mairi — my grandmother — what she had been doing.",
+      "start_ms": 123984,
+      "end_ms": 130846
+    },
+    {
+      "index": 47,
+      "text": "Mairi took it up.",
+      "start_ms": 130846,
+      "end_ms": 132000
+    },
+    {
+      "index": 48,
+      "text": "She continued.",
+      "start_ms": 132000,
+      "end_ms": 132962
+    },
+    {
+      "index": 49,
+      "text": "And when Mairi was old she told her own daughter, Isla — my mother.",
+      "start_ms": 132962,
+      "end_ms": 137323
+    },
+    {
+      "index": 50,
+      "text": "And my mother continued.",
+      "start_ms": 137323,
+      "end_ms": 138926
+    },
+    {
+      "index": 51,
+      "text": "Sixty, seventy years, on and off.",
+      "start_ms": 138926,
+      "end_ms": 141106
+    },
+    {
+      "index": 52,
+      "text": "All three of them tearing endings out of novels they thought had cheated them.",
+      "start_ms": 141106,
+      "end_ms": 146172
+    },
+    {
+      "index": 53,
+      "text": "Only when they had been really disappointed.",
+      "start_ms": 146172,
+      "end_ms": 149058
+    },
+    {
+      "index": 54,
+      "text": "Not out of spite.",
+      "start_ms": 149058,
+      "end_ms": 150212
+    },
+    {
+      "index": 55,
+      "text": "Out of — a kind of principle.",
+      "start_ms": 150212,
+      "end_ms": 152136
+    },
+    {
+      "index": 56,
+      "text": "As if they were correcting the historical record.",
+      "start_ms": 152136,
+      "end_ms": 155343
+    },
+    {
+      "index": 57,
+      "text": "As if they were saying — this book will not be complete on my shelf, because it did not deserve completion.\"",
+      "start_ms": 155343,
+      "end_ms": 162397
+    },
+    {
+      "index": 58,
+      "text": "\"When my mother was old,\" said Ann, \"she wanted to teach me.",
+      "start_ms": 162397,
+      "end_ms": 166309
+    },
+    {
+      "index": 59,
+      "text": "I did try.",
+      "start_ms": 166309,
+      "end_ms": 167014
+    },
+    {
+      "index": 60,
+      "text": "She gave me a novel one Christmas — I do not remember what it was — that she thought was going to make me want to tear the last chapter out.",
+      "start_ms": 167014,
+      "end_ms": 176056
+    },
+    {
+      "index": 61,
+      "text": "She said — read it, and see how you feel.",
+      "start_ms": 176056,
+      "end_ms": 178749
+    },
+    {
+      "index": 62,
+      "text": "I read it.",
+      "start_ms": 178749,
+      "end_ms": 179455
+    },
+    {
+      "index": 63,
+      "text": "I did not want to tear the ending out.",
+      "start_ms": 179455,
+      "end_ms": 181956
+    },
+    {
+      "index": 64,
+      "text": "I thought the ending was fine.",
+      "start_ms": 181956,
+      "end_ms": 183944
+    },
+    {
+      "index": 65,
+      "text": "I told her.",
+      "start_ms": 183944,
+      "end_ms": 184713
+    },
+    {
+      "index": 66,
+      "text": "She looked at me for a long time.",
+      "start_ms": 184713,
+      "end_ms": 186894
+    },
+    {
+      "index": 67,
+      "text": "Then she said, — Ann, you are not one of us.",
+      "start_ms": 186894,
+      "end_ms": 189779
+    },
+    {
+      "index": 68,
+      "text": "That is all right.",
+      "start_ms": 189779,
+      "end_ms": 190998
+    },
+    {
+      "index": 69,
+      "text": "Not everyone is one of us.",
+      "start_ms": 190998,
+      "end_ms": 192729
+    },
+    {
+      "index": 70,
+      "text": "Do not force it.",
+      "start_ms": 192729,
+      "end_ms": 193820
+    },
+    {
+      "index": 71,
+      "text": "And she never asked me again.\"",
+      "start_ms": 193820,
+      "end_ms": 195872
+    },
+    {
+      "index": 72,
+      "text": "Rosa said, \"So it stopped with your mother.\" Ann said, \"It stopped with my mother.",
+      "start_ms": 195872,
+      "end_ms": 201194
+    },
+    {
+      "index": 73,
+      "text": "She was the last.",
+      "start_ms": 201194,
+      "end_ms": 202349
+    },
+    {
+      "index": 74,
+      "text": "She was ninety-three when she died.",
+      "start_ms": 202349,
+      "end_ms": 204657
+    },
+    {
+      "index": 75,
+      "text": "She had been tearing endings out on and off for eighty years.",
+      "start_ms": 204657,
+      "end_ms": 208633
+    },
+    {
+      "index": 76,
+      "text": "If you count everything the three of them did, they must have — corrected — maybe eighty or ninety books, across the four generations.",
+      "start_ms": 208633,
+      "end_ms": 217290
+    },
+    {
+      "index": 77,
+      "text": "I do not know where all of them are now.",
+      "start_ms": 217290,
+      "end_ms": 219920
+    },
+    {
+      "index": 78,
+      "text": "Some my great-grandmother sold.",
+      "start_ms": 219920,
+      "end_ms": 221972
+    },
+    {
+      "index": 79,
+      "text": "Some my grandmother gave away.",
+      "start_ms": 221972,
+      "end_ms": 223960
+    },
+    {
+      "index": 80,
+      "text": "Angus bought some in the sixties.",
+      "start_ms": 223960,
+      "end_ms": 226140
+    },
+    {
+      "index": 81,
+      "text": "Now you have the last of them.\" Ann looked at Iona.",
+      "start_ms": 226140,
+      "end_ms": 229475
+    },
+    {
+      "index": 82,
+      "text": "\"That is the whole story.",
+      "start_ms": 229475,
+      "end_ms": 231142
+    },
+    {
+      "index": 83,
+      "text": "That is why the last chapters are gone from these books.",
+      "start_ms": 231142,
+      "end_ms": 234797
+    },
+    {
+      "index": 84,
+      "text": "Because three women in my family thought the books had let them down.",
+      "start_ms": 234797,
+      "end_ms": 239286
+    },
+    {
+      "index": 85,
+      "text": "That is all.\"",
+      "start_ms": 239286,
+      "end_ms": 240120
+    },
+    {
+      "index": 86,
+      "text": "Iona said, quietly, \"Miss Balfour.",
+      "start_ms": 240120,
+      "end_ms": 242129
+    },
+    {
+      "index": 87,
+      "text": "What were the endings that they took away.",
+      "start_ms": 242129,
+      "end_ms": 244598
+    },
+    {
+      "index": 88,
+      "text": "Do you know any of them.",
+      "start_ms": 244598,
+      "end_ms": 246033
+    },
+    {
+      "index": 89,
+      "text": "What actually happened in the missing chapters.\" Ann smiled a small smile.",
+      "start_ms": 246033,
+      "end_ms": 250339
+    },
+    {
+      "index": 90,
+      "text": "She said, \"That is the interesting question.",
+      "start_ms": 250339,
+      "end_ms": 252923
+    },
+    {
+      "index": 91,
+      "text": "I know some.",
+      "start_ms": 252923,
+      "end_ms": 253669
+    },
+    {
+      "index": 92,
+      "text": "My mother knew some.",
+      "start_ms": 253669,
+      "end_ms": 254875
+    },
+    {
+      "index": 93,
+      "text": "She had read the endings before she tore them out — that was the whole point, she had to read them to know if she wanted to tear them out.",
+      "start_ms": 254875,
+      "end_ms": 262855
+    },
+    {
+      "index": 94,
+      "text": "She told me a few.",
+      "start_ms": 262855,
+      "end_ms": 263946
+    },
+    {
+      "index": 95,
+      "text": "If you are interested, I could — I could write down what I remember.",
+      "start_ms": 263946,
+      "end_ms": 267908
+    },
+    {
+      "index": 96,
+      "text": "I could send it to Rosa.",
+      "start_ms": 267908,
+      "end_ms": 269343
+    },
+    {
+      "index": 97,
+      "text": "Would that be useful.\"",
+      "start_ms": 269343,
+      "end_ms": 270721
+    },
+    {
+      "index": 98,
+      "text": "\"Yes,\" said Rosa.",
+      "start_ms": 270721,
+      "end_ms": 271754
+    },
+    {
+      "index": 99,
+      "text": "\"That would be extraordinarily useful.",
+      "start_ms": 271754,
+      "end_ms": 273993
+    },
+    {
+      "index": 100,
+      "text": "I want to make a small shelf.",
+      "start_ms": 273993,
+      "end_ms": 275716
+    },
+    {
+      "index": 101,
+      "text": "Just for these books.",
+      "start_ms": 275716,
+      "end_ms": 276979
+    },
+    {
+      "index": 102,
+      "text": "All eleven.",
+      "start_ms": 276979,
+      "end_ms": 277668
+    },
+    {
+      "index": 103,
+      "text": "I want a small card explaining what happened to them.",
+      "start_ms": 277668,
+      "end_ms": 280768
+    },
+    {
+      "index": 104,
+      "text": "Not so I can sell them — I won't sell them.",
+      "start_ms": 280768,
+      "end_ms": 283294
+    },
+    {
+      "index": 105,
+      "text": "Just so people who visit the shop can see them, and can read the note, and can think about what it means.",
+      "start_ms": 283294,
+      "end_ms": 289380
+    },
+    {
+      "index": 106,
+      "text": "If you would be willing to write down what you know about the missing endings — I would put your notes with the books.\" Ann nodded slowly.",
+      "start_ms": 289380,
+      "end_ms": 297360
+    },
+    {
+      "index": 107,
+      "text": "She said, \"I would like that.",
+      "start_ms": 297360,
+      "end_ms": 299083
+    },
+    {
+      "index": 108,
+      "text": "I would like the tradition to be — remembered, at least.",
+      "start_ms": 299083,
+      "end_ms": 302355
+    },
+    {
+      "index": 109,
+      "text": "Even if no one in my family is going to keep doing it.\"",
+      "start_ms": 302355,
+      "end_ms": 305628
+    },
+    {
+      "index": 110,
+      "text": "That evening Rosa and Iona built the small shelf.",
+      "start_ms": 305628,
+      "end_ms": 308498
+    },
+    {
+      "index": 111,
+      "text": "It was in the front corner of the shop, near the counter.",
+      "start_ms": 308498,
+      "end_ms": 311828
+    },
+    {
+      "index": 112,
+      "text": "Rosa lettered a small card by hand: THE BALFOUR SHELF — BOOKS THAT WERE CORRECTED.",
+      "start_ms": 311828,
+      "end_ms": 316593
+    },
+    {
+      "index": 113,
+      "text": "She wrote a longer note that explained the family history.",
+      "start_ms": 316593,
+      "end_ms": 319981
+    },
+    {
+      "index": 114,
+      "text": "She put it on a small stand beside the shelf.",
+      "start_ms": 319981,
+      "end_ms": 322622
+    },
+    {
+      "index": 115,
+      "text": "She put the eleven books on the shelf.",
+      "start_ms": 322622,
+      "end_ms": 324861
+    },
+    {
+      "index": 116,
+      "text": "She did not put them for sale.",
+      "start_ms": 324861,
+      "end_ms": 326640
+    },
+    {
+      "index": 117,
+      "text": "She put them for looking at.",
+      "start_ms": 326640,
+      "end_ms": 328248
+    },
+    {
+      "index": 118,
+      "text": "The shelf stayed there for years.",
+      "start_ms": 328248,
+      "end_ms": 330521
+    },
+    {
+      "index": 119,
+      "text": "Ann Balfour came back a few weeks later with a small notebook.",
+      "start_ms": 330521,
+      "end_ms": 334732
+    },
+    {
+      "index": 120,
+      "text": "In it, she had written down what she remembered of the missing endings — five of the eleven books, she said, her mother had told her about, and she wrote down what her mother had said.",
+      "start_ms": 334732,
+      "end_ms": 347098
+    },
+    {
+      "index": 121,
+      "text": "Some of the endings she remembered had been — unearned, her mother had said.",
+      "start_ms": 347098,
+      "end_ms": 352245
+    },
+    {
+      "index": 122,
+      "text": "A character had been saved from a fate they had, in the story, clearly earned.",
+      "start_ms": 352245,
+      "end_ms": 357525
+    },
+    {
+      "index": 123,
+      "text": "Others had been — falsely happy, tied up too neatly.",
+      "start_ms": 357525,
+      "end_ms": 361068
+    },
+    {
+      "index": 124,
+      "text": "One had been — a marriage that made no sense given everything that had come before it.",
+      "start_ms": 361068,
+      "end_ms": 366883
+    },
+    {
+      "index": 125,
+      "text": "Iona read all five accounts carefully.",
+      "start_ms": 366883,
+      "end_ms": 369490
+    },
+    {
+      "index": 126,
+      "text": "She could see, in each case, why a very serious reader might have felt cheated.",
+      "start_ms": 369490,
+      "end_ms": 374838
+    },
+    {
+      "index": 127,
+      "text": "She could not tell if the readers had been right or the authors had been right.",
+      "start_ms": 374838,
+      "end_ms": 380185
+    },
+    {
+      "index": 128,
+      "text": "She thought — maybe both.",
+      "start_ms": 380185,
+      "end_ms": 381923
+    },
+    {
+      "index": 129,
+      "text": "Maybe neither.",
+      "start_ms": 381923,
+      "end_ms": 382926
+    },
+    {
+      "index": 130,
+      "text": "Maybe there was no answer.",
+      "start_ms": 382926,
+      "end_ms": 384797
+    },
+    {
+      "index": 131,
+      "text": "For many years after that, Iona kept coming to the shop.",
+      "start_ms": 384797,
+      "end_ms": 388607
+    },
+    {
+      "index": 132,
+      "text": "Rosa stayed until Iona was seventeen, and then Rosa moved to Edinburgh to run a bigger bookshop, and a new owner took over ByreBooks.",
+      "start_ms": 388607,
+      "end_ms": 397564
+    },
+    {
+      "index": 133,
+      "text": "The Balfour Shelf stayed.",
+      "start_ms": 397564,
+      "end_ms": 399302
+    },
+    {
+      "index": 134,
+      "text": "Every new owner kept it.",
+      "start_ms": 399302,
+      "end_ms": 400973
+    },
+    {
+      "index": 135,
+      "text": "People visiting the town would sometimes discover it, and they would stand there for a long time, reading Ann's notes.",
+      "start_ms": 400973,
+      "end_ms": 408928
+    },
+    {
+      "index": 136,
+      "text": "Some of them, Iona knew — because she had watched them — went home and started tearing the last chapters out of novels they thought had cheated them.",
+      "start_ms": 408928,
+      "end_ms": 418954
+    },
+    {
+      "index": 137,
+      "text": "The tradition, in this small strange way, had not really died.",
+      "start_ms": 418954,
+      "end_ms": 423165
+    },
+    {
+      "index": 138,
+      "text": "It had only moved.",
+      "start_ms": 423165,
+      "end_ms": 424435
+    },
+    {
+      "index": 139,
+      "text": "That was what a small book town could do.",
+      "start_ms": 424435,
+      "end_ms": 427176
+    }
+  ]
+}

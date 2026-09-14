@@ -1,0 +1,721 @@
+{
+  "story_id": "whale-road",
+  "chapter": 3,
+  "total_duration_ms": 330096,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "When Vidar sang the last note, he held it for a long time.",
+      "start_ms": 1397,
+      "end_ms": 5320
+    },
+    {
+      "index": 1,
+      "text": "As long as he could.",
+      "start_ms": 5320,
+      "end_ms": 6717
+    },
+    {
+      "index": 2,
+      "text": "Longer than he could — his breath ran out and he had to stop before he wanted to.",
+      "start_ms": 6717,
+      "end_ms": 12170
+    },
+    {
+      "index": 3,
+      "text": "And then there was silence in the bay.",
+      "start_ms": 12170,
+      "end_ms": 14763
+    },
+    {
+      "index": 4,
+      "text": "The whale did not move.",
+      "start_ms": 14763,
+      "end_ms": 16359
+    },
+    {
+      "index": 5,
+      "text": "Bjarni did not move.",
+      "start_ms": 16359,
+      "end_ms": 17756
+    },
+    {
+      "index": 6,
+      "text": "Vidar did not move.",
+      "start_ms": 17756,
+      "end_ms": 19086
+    },
+    {
+      "index": 7,
+      "text": "The only sound was the soft slap of water against the black rocks.",
+      "start_ms": 19086,
+      "end_ms": 23608
+    },
+    {
+      "index": 8,
+      "text": "For a moment Vidar thought the whale would just leave, the way stories were supposed to end.",
+      "start_ms": 23608,
+      "end_ms": 29792
+    },
+    {
+      "index": 9,
+      "text": "But he did not, right away.",
+      "start_ms": 29792,
+      "end_ms": 31654
+    },
+    {
+      "index": 10,
+      "text": "He stayed for maybe another thirty seconds, watching Vidar.",
+      "start_ms": 31654,
+      "end_ms": 35645
+    },
+    {
+      "index": 11,
+      "text": "His eye did not blink.",
+      "start_ms": 35645,
+      "end_ms": 37174
+    },
+    {
+      "index": 12,
+      "text": "He seemed to be taking Vidar in — every part of him.",
+      "start_ms": 37174,
+      "end_ms": 40699
+    },
+    {
+      "index": 13,
+      "text": "And Vidar looked back, and he understood, in that thirty seconds, that the whale had recognized something.",
+      "start_ms": 40699,
+      "end_ms": 47814
+    },
+    {
+      "index": 14,
+      "text": "That the whale had heard the song from Bjarni's mother when Bjarni was six.",
+      "start_ms": 47814,
+      "end_ms": 52868
+    },
+    {
+      "index": 15,
+      "text": "That the whale had heard it from Bjarni's grandfather.",
+      "start_ms": 52868,
+      "end_ms": 56526
+    },
+    {
+      "index": 16,
+      "text": "That the whale had heard it, in a way, in every generation.",
+      "start_ms": 56526,
+      "end_ms": 60516
+    },
+    {
+      "index": 17,
+      "text": "That he had not forgotten.",
+      "start_ms": 60516,
+      "end_ms": 62311
+    },
+    {
+      "index": 18,
+      "text": "That he had come back for it.",
+      "start_ms": 62311,
+      "end_ms": 64307
+    },
+    {
+      "index": 19,
+      "text": "And now he had heard it again.",
+      "start_ms": 64307,
+      "end_ms": 66368
+    },
+    {
+      "index": 20,
+      "text": "He had come, he had heard, and it was enough.",
+      "start_ms": 66368,
+      "end_ms": 69494
+    },
+    {
+      "index": 21,
+      "text": "The whale rolled slowly.",
+      "start_ms": 69494,
+      "end_ms": 71156
+    },
+    {
+      "index": 22,
+      "text": "He came upright.",
+      "start_ms": 71156,
+      "end_ms": 72287
+    },
+    {
+      "index": 23,
+      "text": "His huge back was above the water for a moment.",
+      "start_ms": 72287,
+      "end_ms": 75479
+    },
+    {
+      "index": 24,
+      "text": "He turned.",
+      "start_ms": 75479,
+      "end_ms": 76210
+    },
+    {
+      "index": 25,
+      "text": "Slowly and with dignity, he began to swim back toward the mouth of the bay.",
+      "start_ms": 76210,
+      "end_ms": 81264
+    },
+    {
+      "index": 26,
+      "text": "His tall fin moved through the water.",
+      "start_ms": 81264,
+      "end_ms": 83791
+    },
+    {
+      "index": 27,
+      "text": "Vidar watched him go.",
+      "start_ms": 83791,
+      "end_ms": 85254
+    },
+    {
+      "index": 28,
+      "text": "Bjarni watched with him.",
+      "start_ms": 85254,
+      "end_ms": 86917
+    },
+    {
+      "index": 29,
+      "text": "Neither of them said anything.",
+      "start_ms": 86917,
+      "end_ms": 88978
+    },
+    {
+      "index": 30,
+      "text": "The whale reached the mouth of the bay.",
+      "start_ms": 88978,
+      "end_ms": 91638
+    },
+    {
+      "index": 31,
+      "text": "He dove.",
+      "start_ms": 91638,
+      "end_ms": 92237
+    },
+    {
+      "index": 32,
+      "text": "He was gone.",
+      "start_ms": 92237,
+      "end_ms": 93168
+    },
+    {
+      "index": 33,
+      "text": "Vidar sat down on the rock.",
+      "start_ms": 93168,
+      "end_ms": 95030
+    },
+    {
+      "index": 34,
+      "text": "His legs were shaking.",
+      "start_ms": 95030,
+      "end_ms": 96560
+    },
+    {
+      "index": 35,
+      "text": "He was tired.",
+      "start_ms": 96560,
+      "end_ms": 97491
+    },
+    {
+      "index": 36,
+      "text": "He had not known how tired he was until it was over.",
+      "start_ms": 97491,
+      "end_ms": 101015
+    },
+    {
+      "index": 37,
+      "text": "Bjarni sat down beside him.",
+      "start_ms": 101015,
+      "end_ms": 102877
+    },
+    {
+      "index": 38,
+      "text": "Neither of them said anything for a long time.",
+      "start_ms": 102877,
+      "end_ms": 106003
+    },
+    {
+      "index": 39,
+      "text": "After maybe ten minutes, Bjarni said, quietly, \"You did it, Vidar.",
+      "start_ms": 106003,
+      "end_ms": 110458
+    },
+    {
+      "index": 40,
+      "text": "You did the whole song.",
+      "start_ms": 110458,
+      "end_ms": 112054
+    },
+    {
+      "index": 41,
+      "text": "He heard the whole thing.\" \"I could not sing at first,\" Vidar said.",
+      "start_ms": 112054,
+      "end_ms": 116576
+    },
+    {
+      "index": 42,
+      "text": "\"I forgot how.",
+      "start_ms": 116576,
+      "end_ms": 117574
+    },
+    {
+      "index": 43,
+      "text": "I got scared.\" Bjarni said, \"But then you did.",
+      "start_ms": 117574,
+      "end_ms": 120699
+    },
+    {
+      "index": 44,
+      "text": "That is what matters.",
+      "start_ms": 120699,
+      "end_ms": 122162
+    },
+    {
+      "index": 45,
+      "text": "He waited for you.",
+      "start_ms": 122162,
+      "end_ms": 123426
+    },
+    {
+      "index": 46,
+      "text": "He did not leave.",
+      "start_ms": 123426,
+      "end_ms": 124623
+    },
+    {
+      "index": 47,
+      "text": "He knew you would come back.",
+      "start_ms": 124623,
+      "end_ms": 126551
+    },
+    {
+      "index": 48,
+      "text": "And you did.\"",
+      "start_ms": 126551,
+      "end_ms": 127416
+    },
+    {
+      "index": 49,
+      "text": "They sat on the rock for another hour.",
+      "start_ms": 127416,
+      "end_ms": 130023
+    },
+    {
+      "index": 50,
+      "text": "The bay went back to normal.",
+      "start_ms": 130023,
+      "end_ms": 131962
+    },
+    {
+      "index": 51,
+      "text": "A puffin flew past.",
+      "start_ms": 131962,
+      "end_ms": 133299
+    },
+    {
+      "index": 52,
+      "text": "The wind picked up a little.",
+      "start_ms": 133299,
+      "end_ms": 135238
+    },
+    {
+      "index": 53,
+      "text": "The clouds moved across the sun.",
+      "start_ms": 135238,
+      "end_ms": 137444
+    },
+    {
+      "index": 54,
+      "text": "Nothing about the world looked any different than it had that morning.",
+      "start_ms": 137444,
+      "end_ms": 142190
+    },
+    {
+      "index": 55,
+      "text": "But everything was different.",
+      "start_ms": 142190,
+      "end_ms": 144196
+    },
+    {
+      "index": 56,
+      "text": "It had happened.",
+      "start_ms": 144196,
+      "end_ms": 145333
+    },
+    {
+      "index": 57,
+      "text": "It had happened in Vidar's generation, in Vidar's tenth year, and Vidar had been part of it, and it would be another sixty or seventy years now before it happened again.",
+      "start_ms": 145333,
+      "end_ms": 156698
+    },
+    {
+      "index": 58,
+      "text": "Vidar tried to picture himself at seventy, standing on this rock with a grandchild of his own, watching a whale come into the bay.",
+      "start_ms": 156698,
+      "end_ms": 165455
+    },
+    {
+      "index": 59,
+      "text": "It did not seem impossible.",
+      "start_ms": 165455,
+      "end_ms": 167327
+    },
+    {
+      "index": 60,
+      "text": "It seemed very possible.",
+      "start_ms": 167327,
+      "end_ms": 168998
+    },
+    {
+      "index": 61,
+      "text": "It seemed almost decided.",
+      "start_ms": 168998,
+      "end_ms": 170803
+    },
+    {
+      "index": 62,
+      "text": "Bjarni said, \"When we go up to the cottage, I am going to write it in the family book.",
+      "start_ms": 170803,
+      "end_ms": 176620
+    },
+    {
+      "index": 63,
+      "text": "Nineteenth of July, 2027.",
+      "start_ms": 176620,
+      "end_ms": 178358
+    },
+    {
+      "index": 64,
+      "text": "The whale came.",
+      "start_ms": 178358,
+      "end_ms": 179428
+    },
+    {
+      "index": 65,
+      "text": "Vidar Petersen sang the song.",
+      "start_ms": 179428,
+      "end_ms": 181433
+    },
+    {
+      "index": 66,
+      "text": "That is what I will write.",
+      "start_ms": 181433,
+      "end_ms": 183238
+    },
+    {
+      "index": 67,
+      "text": "And then that page will be there, in the book, when your grandchild is learning the song.",
+      "start_ms": 183238,
+      "end_ms": 189255
+    },
+    {
+      "index": 68,
+      "text": "Someday they will look at it.",
+      "start_ms": 189255,
+      "end_ms": 191260
+    },
+    {
+      "index": 69,
+      "text": "Someday they will know that you were the one who sang.",
+      "start_ms": 191260,
+      "end_ms": 194937
+    },
+    {
+      "index": 70,
+      "text": "That is how this works.\"",
+      "start_ms": 194937,
+      "end_ms": 196676
+    },
+    {
+      "index": 71,
+      "text": "That evening Bjarni brought out the family book.",
+      "start_ms": 196676,
+      "end_ms": 199951
+    },
+    {
+      "index": 72,
+      "text": "It was heavy and very old.",
+      "start_ms": 199951,
+      "end_ms": 201756
+    },
+    {
+      "index": 73,
+      "text": "Vidar had seen it many times but he had never really been allowed to read it — it had been for adults.",
+      "start_ms": 201756,
+      "end_ms": 208642
+    },
+    {
+      "index": 74,
+      "text": "Bjarni opened it now.",
+      "start_ms": 208642,
+      "end_ms": 210113
+    },
+    {
+      "index": 75,
+      "text": "He turned to the last-used page.",
+      "start_ms": 210113,
+      "end_ms": 212319
+    },
+    {
+      "index": 76,
+      "text": "It was Bjarni's own entry, from 1962.",
+      "start_ms": 212319,
+      "end_ms": 214860
+    },
+    {
+      "index": 77,
+      "text": "It said: 19 July 1962.",
+      "start_ms": 214860,
+      "end_ms": 216397
+    },
+    {
+      "index": 78,
+      "text": "The whale came.",
+      "start_ms": 216397,
+      "end_ms": 217467
+    },
+    {
+      "index": 79,
+      "text": "Ingrid Petersen sang the song.",
+      "start_ms": 217467,
+      "end_ms": 219539
+    },
+    {
+      "index": 80,
+      "text": "Her son Bjarni stood with her.",
+      "start_ms": 219539,
+      "end_ms": 221679
+    },
+    {
+      "index": 81,
+      "text": "Bjarni turned the page to the next blank one.",
+      "start_ms": 221679,
+      "end_ms": 224754
+    },
+    {
+      "index": 82,
+      "text": "He took a black-inked pen.",
+      "start_ms": 224754,
+      "end_ms": 226559
+    },
+    {
+      "index": 83,
+      "text": "He wrote, in his careful old handwriting: 19 July 2027.",
+      "start_ms": 226559,
+      "end_ms": 230303
+    },
+    {
+      "index": 84,
+      "text": "The whale came.",
+      "start_ms": 230303,
+      "end_ms": 231372
+    },
+    {
+      "index": 85,
+      "text": "Vidar Petersen sang the song.",
+      "start_ms": 231372,
+      "end_ms": 233378
+    },
+    {
+      "index": 86,
+      "text": "His grandfather Bjarni stood with him.",
+      "start_ms": 233378,
+      "end_ms": 235985
+    },
+    {
+      "index": 87,
+      "text": "He blew on the ink.",
+      "start_ms": 235985,
+      "end_ms": 237322
+    },
+    {
+      "index": 88,
+      "text": "He closed the book.",
+      "start_ms": 237322,
+      "end_ms": 238659
+    },
+    {
+      "index": 89,
+      "text": "He handed it to Vidar.",
+      "start_ms": 238659,
+      "end_ms": 240197
+    },
+    {
+      "index": 90,
+      "text": "\"This is yours to keep, now.",
+      "start_ms": 240197,
+      "end_ms": 242135
+    },
+    {
+      "index": 91,
+      "text": "This book.",
+      "start_ms": 242135,
+      "end_ms": 242871
+    },
+    {
+      "index": 92,
+      "text": "Not to show anyone.",
+      "start_ms": 242871,
+      "end_ms": 244208
+    },
+    {
+      "index": 93,
+      "text": "Not to talk about.",
+      "start_ms": 244208,
+      "end_ms": 245478
+    },
+    {
+      "index": 94,
+      "text": "It is a Petersen thing.",
+      "start_ms": 245478,
+      "end_ms": 247083
+    },
+    {
+      "index": 95,
+      "text": "You keep it until it is time to give it to your child, or your grandchild — whoever is going to be the one to sing next time.",
+      "start_ms": 247083,
+      "end_ms": 255506
+    },
+    {
+      "index": 96,
+      "text": "You will know who they are.",
+      "start_ms": 255506,
+      "end_ms": 257378
+    },
+    {
+      "index": 97,
+      "text": "When they are the right person, you will know.\"",
+      "start_ms": 257378,
+      "end_ms": 260520
+    },
+    {
+      "index": 98,
+      "text": "Vidar went back to the rock that evening, at sunset.",
+      "start_ms": 260520,
+      "end_ms": 264056
+    },
+    {
+      "index": 99,
+      "text": "He did not know why.",
+      "start_ms": 264056,
+      "end_ms": 265456
+    },
+    {
+      "index": 100,
+      "text": "He did not expect to see anything.",
+      "start_ms": 265456,
+      "end_ms": 267791
+    },
+    {
+      "index": 101,
+      "text": "He took his binoculars anyway.",
+      "start_ms": 267791,
+      "end_ms": 269859
+    },
+    {
+      "index": 102,
+      "text": "He sat on the rock and looked out at the empty bay.",
+      "start_ms": 269859,
+      "end_ms": 273328
+    },
+    {
+      "index": 103,
+      "text": "He watched for a long time.",
+      "start_ms": 273328,
+      "end_ms": 275196
+    },
+    {
+      "index": 104,
+      "text": "He knew he would probably not see the whale again in his life.",
+      "start_ms": 275196,
+      "end_ms": 279398
+    },
+    {
+      "index": 105,
+      "text": "Sixty, seventy years.",
+      "start_ms": 279398,
+      "end_ms": 280866
+    },
+    {
+      "index": 106,
+      "text": "The whale, if he was young, might come back one more time before the whale died — around the time Vidar was Bjarni's age.",
+      "start_ms": 280866,
+      "end_ms": 289004
+    },
+    {
+      "index": 107,
+      "text": "If the whale was old, this might have been his last.",
+      "start_ms": 289004,
+      "end_ms": 292540
+    },
+    {
+      "index": 108,
+      "text": "Vidar was not sure how to feel about that.",
+      "start_ms": 292540,
+      "end_ms": 295408
+    },
+    {
+      "index": 109,
+      "text": "He hoped the whale had had a good life.",
+      "start_ms": 295408,
+      "end_ms": 298076
+    },
+    {
+      "index": 110,
+      "text": "He hoped he had a family somewhere.",
+      "start_ms": 298076,
+      "end_ms": 300545
+    },
+    {
+      "index": 111,
+      "text": "He sat for a long time.",
+      "start_ms": 300545,
+      "end_ms": 302146
+    },
+    {
+      "index": 112,
+      "text": "Then he stood up and he walked back to the cottage.",
+      "start_ms": 302146,
+      "end_ms": 305614
+    },
+    {
+      "index": 113,
+      "text": "Bjarni was making supper.",
+      "start_ms": 305614,
+      "end_ms": 307349
+    },
+    {
+      "index": 114,
+      "text": "The peat fire was warm.",
+      "start_ms": 307349,
+      "end_ms": 308950
+    },
+    {
+      "index": 115,
+      "text": "Everything was quiet.",
+      "start_ms": 308950,
+      "end_ms": 310417
+    },
+    {
+      "index": 116,
+      "text": "And Vidar thought, this is the story I will tell my grandson someday.",
+      "start_ms": 310417,
+      "end_ms": 315087
+    },
+    {
+      "index": 117,
+      "text": "This is the day I will remember more than any other day.",
+      "start_ms": 315087,
+      "end_ms": 318889
+    },
+    {
+      "index": 118,
+      "text": "And he thought, also, that being ten years old could be a very heavy thing, and a very good thing, and that both were true at once, and that you did not have to choose.",
+      "start_ms": 318889,
+      "end_ms": 330096
+    }
+  ]
+}

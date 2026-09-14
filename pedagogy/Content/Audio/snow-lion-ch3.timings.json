@@ -1,0 +1,877 @@
+{
+  "story_id": "snow-lion",
+  "chapter": 3,
+  "total_duration_ms": 381912,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Tenzin stayed at the monastery for a week.",
+      "start_ms": 1425,
+      "end_ms": 3781
+    },
+    {
+      "index": 1,
+      "text": "Every morning he did the morning chanting with the monks.",
+      "start_ms": 3781,
+      "end_ms": 6960
+    },
+    {
+      "index": 2,
+      "text": "Every afternoon he helped in the small vegetable garden.",
+      "start_ms": 6960,
+      "end_ms": 10084
+    },
+    {
+      "index": 3,
+      "text": "He walked with his grandfather along the small paths behind the monastery.",
+      "start_ms": 10084,
+      "end_ms": 14194
+    },
+    {
+      "index": 4,
+      "text": "They talked, or they did not talk.",
+      "start_ms": 14194,
+      "end_ms": 16112
+    },
+    {
+      "index": 5,
+      "text": "Tenzin thought about the snow lion.",
+      "start_ms": 16112,
+      "end_ms": 18085
+    },
+    {
+      "index": 6,
+      "text": "He carried it in the pocket of his gho all week.",
+      "start_ms": 18085,
+      "end_ms": 20771
+    },
+    {
+      "index": 7,
+      "text": "He touched it sometimes without taking it out.",
+      "start_ms": 20771,
+      "end_ms": 23346
+    },
+    {
+      "index": 8,
+      "text": "It made him feel — different.",
+      "start_ms": 23346,
+      "end_ms": 24990
+    },
+    {
+      "index": 9,
+      "text": "Not exactly joyful.",
+      "start_ms": 24990,
+      "end_ms": 26086
+    },
+    {
+      "index": 10,
+      "text": "But — connected.",
+      "start_ms": 26086,
+      "end_ms": 27018
+    },
+    {
+      "index": 11,
+      "text": "Connected to all the people who had held it before him.",
+      "start_ms": 27018,
+      "end_ms": 30087
+    },
+    {
+      "index": 12,
+      "text": "Connected to the woman who had carved it four hundred years ago because her son had died.",
+      "start_ms": 30087,
+      "end_ms": 35019
+    },
+    {
+      "index": 13,
+      "text": "Connected to his grandfather.",
+      "start_ms": 35019,
+      "end_ms": 36664
+    },
+    {
+      "index": 14,
+      "text": "Connected to his mother, who had not been given the snow lion but had grown up knowing it existed.",
+      "start_ms": 36664,
+      "end_ms": 42089
+    },
+    {
+      "index": 15,
+      "text": "Connected to all of it.",
+      "start_ms": 42089,
+      "end_ms": 43459
+    },
+    {
+      "index": 16,
+      "text": "On the last morning, Grandfather Rinpoche walked with Tenzin down to the small path where Tenzin would begin his walk back to the village.",
+      "start_ms": 43459,
+      "end_ms": 51077
+    },
+    {
+      "index": 17,
+      "text": "They stopped there.",
+      "start_ms": 51077,
+      "end_ms": 52173
+    },
+    {
+      "index": 18,
+      "text": "Grandfather Rinpoche said, \"Tenzin.",
+      "start_ms": 52173,
+      "end_ms": 54146
+    },
+    {
+      "index": 19,
+      "text": "Take good care of the snow lion.",
+      "start_ms": 54146,
+      "end_ms": 55954
+    },
+    {
+      "index": 20,
+      "text": "When you are old — sometime — you will need to choose who to give it to.",
+      "start_ms": 55954,
+      "end_ms": 59955
+    },
+    {
+      "index": 21,
+      "text": "That will be up to you.",
+      "start_ms": 59955,
+      "end_ms": 61270
+    },
+    {
+      "index": 22,
+      "text": "There is no rule.",
+      "start_ms": 61270,
+      "end_ms": 62257
+    },
+    {
+      "index": 23,
+      "text": "You will know who they are.",
+      "start_ms": 62257,
+      "end_ms": 63791
+    },
+    {
+      "index": 24,
+      "text": "Someone who is serious, and who does not yet know that they are allowed to be joyful.",
+      "start_ms": 63791,
+      "end_ms": 68504
+    },
+    {
+      "index": 25,
+      "text": "Someone who you love very much.",
+      "start_ms": 68504,
+      "end_ms": 70258
+    },
+    {
+      "index": 26,
+      "text": "Give it to them.",
+      "start_ms": 70258,
+      "end_ms": 71190
+    },
+    {
+      "index": 27,
+      "text": "Then it will keep going.\"",
+      "start_ms": 71190,
+      "end_ms": 72669
+    },
+    {
+      "index": 28,
+      "text": "\"Grandfather,\" said Tenzin.",
+      "start_ms": 72669,
+      "end_ms": 74204
+    },
+    {
+      "index": 29,
+      "text": "\"I will not see you again next summer, will I.\" Grandfather Rinpoche was silent.",
+      "start_ms": 74204,
+      "end_ms": 78643
+    },
+    {
+      "index": 30,
+      "text": "Tenzin had said it before he had really thought about it.",
+      "start_ms": 78643,
+      "end_ms": 81822
+    },
+    {
+      "index": 31,
+      "text": "It had just come out of him.",
+      "start_ms": 81822,
+      "end_ms": 83411
+    },
+    {
+      "index": 32,
+      "text": "He had not known he had known it.",
+      "start_ms": 83411,
+      "end_ms": 85274
+    },
+    {
+      "index": 33,
+      "text": "But he had known it.",
+      "start_ms": 85274,
+      "end_ms": 86425
+    },
+    {
+      "index": 34,
+      "text": "He had seen it in his grandfather's face all week — a small tiredness that had not been there before.",
+      "start_ms": 86425,
+      "end_ms": 92015
+    },
+    {
+      "index": 35,
+      "text": "A small slowness.",
+      "start_ms": 92015,
+      "end_ms": 93002
+    },
+    {
+      "index": 36,
+      "text": "A small — finishing quality.",
+      "start_ms": 93002,
+      "end_ms": 94536
+    },
+    {
+      "index": 37,
+      "text": "Grandfather Rinpoche said, quietly, \"I do not think so, Tenzin.",
+      "start_ms": 94536,
+      "end_ms": 99048
+    },
+    {
+      "index": 38,
+      "text": "My body is tired.",
+      "start_ms": 99048,
+      "end_ms": 100317
+    },
+    {
+      "index": 39,
+      "text": "I have been here forty-one years.",
+      "start_ms": 100317,
+      "end_ms": 102713
+    },
+    {
+      "index": 40,
+      "text": "I am seventy-six.",
+      "start_ms": 102713,
+      "end_ms": 103982
+    },
+    {
+      "index": 41,
+      "text": "I think this was our last summer.",
+      "start_ms": 103982,
+      "end_ms": 106379
+    },
+    {
+      "index": 42,
+      "text": "I am glad it was a full one.",
+      "start_ms": 106379,
+      "end_ms": 108423
+    },
+    {
+      "index": 43,
+      "text": "I am glad we had the snow lion between us this week.",
+      "start_ms": 108423,
+      "end_ms": 112160
+    },
+    {
+      "index": 44,
+      "text": "That is why I gave it to you now, and not later.",
+      "start_ms": 112160,
+      "end_ms": 115614
+    },
+    {
+      "index": 45,
+      "text": "I wanted to give it to you myself.",
+      "start_ms": 115614,
+      "end_ms": 118081
+    },
+    {
+      "index": 46,
+      "text": "I wanted to see you take it.\"",
+      "start_ms": 118081,
+      "end_ms": 120266
+    },
+    {
+      "index": 47,
+      "text": "Tenzin was crying now.",
+      "start_ms": 120266,
+      "end_ms": 121888
+    },
+    {
+      "index": 48,
+      "text": "He was not making sounds.",
+      "start_ms": 121888,
+      "end_ms": 123721
+    },
+    {
+      "index": 49,
+      "text": "He was just crying.",
+      "start_ms": 123721,
+      "end_ms": 125131
+    },
+    {
+      "index": 50,
+      "text": "Grandfather Rinpoche did not try to stop him.",
+      "start_ms": 125131,
+      "end_ms": 128373
+    },
+    {
+      "index": 51,
+      "text": "He put his hand on Tenzin's shoulder.",
+      "start_ms": 128373,
+      "end_ms": 131052
+    },
+    {
+      "index": 52,
+      "text": "He said, \"Tenzin.",
+      "start_ms": 131052,
+      "end_ms": 132321
+    },
+    {
+      "index": 53,
+      "text": "Listen.",
+      "start_ms": 132321,
+      "end_ms": 132885
+    },
+    {
+      "index": 54,
+      "text": "This is very important.",
+      "start_ms": 132885,
+      "end_ms": 134577
+    },
+    {
+      "index": 55,
+      "text": "When I die — and it will probably be sometime this winter — I want you to know that I am not sad.",
+      "start_ms": 134577,
+      "end_ms": 141485
+    },
+    {
+      "index": 56,
+      "text": "I am ready.",
+      "start_ms": 141485,
+      "end_ms": 142331
+    },
+    {
+      "index": 57,
+      "text": "I have had a very good life.",
+      "start_ms": 142331,
+      "end_ms": 144376
+    },
+    {
+      "index": 58,
+      "text": "I have had a wife I loved.",
+      "start_ms": 144376,
+      "end_ms": 146279
+    },
+    {
+      "index": 59,
+      "text": "A daughter I love.",
+      "start_ms": 146279,
+      "end_ms": 147618
+    },
+    {
+      "index": 60,
+      "text": "A grandson I love.",
+      "start_ms": 147618,
+      "end_ms": 148958
+    },
+    {
+      "index": 61,
+      "text": "Forty-one years in a place I love.",
+      "start_ms": 148958,
+      "end_ms": 151425
+    },
+    {
+      "index": 62,
+      "text": "That is a full life.",
+      "start_ms": 151425,
+      "end_ms": 152905
+    },
+    {
+      "index": 63,
+      "text": "When you hear that I have died, I want you to take the snow lion in your palm, and I want you to remember what I have told you.",
+      "start_ms": 152905,
+      "end_ms": 161929
+    },
+    {
+      "index": 64,
+      "text": "That I was happy here.",
+      "start_ms": 161929,
+      "end_ms": 163550
+    },
+    {
+      "index": 65,
+      "text": "That I am happy now.",
+      "start_ms": 163550,
+      "end_ms": 165030
+    },
+    {
+      "index": 66,
+      "text": "That there is joy on the other side of the leaving.",
+      "start_ms": 165030,
+      "end_ms": 168696
+    },
+    {
+      "index": 67,
+      "text": "Not just sadness.",
+      "start_ms": 168696,
+      "end_ms": 169965
+    },
+    {
+      "index": 68,
+      "text": "Joy too.",
+      "start_ms": 169965,
+      "end_ms": 170599
+    },
+    {
+      "index": 69,
+      "text": "Yes?\" Tenzin nodded.",
+      "start_ms": 170599,
+      "end_ms": 172080
+    },
+    {
+      "index": 70,
+      "text": "He could not speak.",
+      "start_ms": 172080,
+      "end_ms": 173490
+    },
+    {
+      "index": 71,
+      "text": "Grandfather Rinpoche said, \"Now go.",
+      "start_ms": 173490,
+      "end_ms": 176027
+    },
+    {
+      "index": 72,
+      "text": "Walk carefully.",
+      "start_ms": 176027,
+      "end_ms": 177155
+    },
+    {
+      "index": 73,
+      "text": "Say hello to your mother.",
+      "start_ms": 177155,
+      "end_ms": 178988
+    },
+    {
+      "index": 74,
+      "text": "Say I loved her every single day.\"",
+      "start_ms": 178988,
+      "end_ms": 181526
+    },
+    {
+      "index": 75,
+      "text": "Tenzin turned.",
+      "start_ms": 181526,
+      "end_ms": 182583
+    },
+    {
+      "index": 76,
+      "text": "He walked down the path.",
+      "start_ms": 182583,
+      "end_ms": 184346
+    },
+    {
+      "index": 77,
+      "text": "He walked for a long time.",
+      "start_ms": 184346,
+      "end_ms": 186249
+    },
+    {
+      "index": 78,
+      "text": "When he had gone maybe a kilometer, he looked back one last time.",
+      "start_ms": 186249,
+      "end_ms": 190902
+    },
+    {
+      "index": 79,
+      "text": "Grandfather Rinpoche was still standing at the top of the path.",
+      "start_ms": 190902,
+      "end_ms": 195413
+    },
+    {
+      "index": 80,
+      "text": "He raised his hand.",
+      "start_ms": 195413,
+      "end_ms": 196823
+    },
+    {
+      "index": 81,
+      "text": "Tenzin raised his hand.",
+      "start_ms": 196823,
+      "end_ms": 198515
+    },
+    {
+      "index": 82,
+      "text": "Grandfather Rinpoche turned and walked back to the monastery.",
+      "start_ms": 198515,
+      "end_ms": 202886
+    },
+    {
+      "index": 83,
+      "text": "Tenzin watched him go.",
+      "start_ms": 202886,
+      "end_ms": 204507
+    },
+    {
+      "index": 84,
+      "text": "Then he turned and he walked down.",
+      "start_ms": 204507,
+      "end_ms": 206904
+    },
+    {
+      "index": 85,
+      "text": "Grandfather Rinpoche died in November, four months later.",
+      "start_ms": 206904,
+      "end_ms": 210600
+    },
+    {
+      "index": 86,
+      "text": "A monk walked down from the high monastery to bring the message.",
+      "start_ms": 210600,
+      "end_ms": 214741
+    },
+    {
+      "index": 87,
+      "text": "He arrived at Tenzin's house in the evening.",
+      "start_ms": 214741,
+      "end_ms": 217608
+    },
+    {
+      "index": 88,
+      "text": "Tenzin's mother opened the door.",
+      "start_ms": 217608,
+      "end_ms": 219711
+    },
+    {
+      "index": 89,
+      "text": "She knew from the monk's face what he had come to say.",
+      "start_ms": 219711,
+      "end_ms": 223215
+    },
+    {
+      "index": 90,
+      "text": "She let him in.",
+      "start_ms": 223215,
+      "end_ms": 224235
+    },
+    {
+      "index": 91,
+      "text": "He sat with them.",
+      "start_ms": 224235,
+      "end_ms": 225382
+    },
+    {
+      "index": 92,
+      "text": "He told them the news.",
+      "start_ms": 225382,
+      "end_ms": 226847
+    },
+    {
+      "index": 93,
+      "text": "Grandfather Rinpoche had died in his sleep.",
+      "start_ms": 226847,
+      "end_ms": 229651
+    },
+    {
+      "index": 94,
+      "text": "He had been ill for two weeks.",
+      "start_ms": 229651,
+      "end_ms": 231626
+    },
+    {
+      "index": 95,
+      "text": "He had asked, before he died, that a message be sent down.",
+      "start_ms": 231626,
+      "end_ms": 235385
+    },
+    {
+      "index": 96,
+      "text": "He had asked that the message say specifically to Tenzin — I am happy.",
+      "start_ms": 235385,
+      "end_ms": 239909
+    },
+    {
+      "index": 97,
+      "text": "Remember what I told you.",
+      "start_ms": 239909,
+      "end_ms": 241630
+    },
+    {
+      "index": 98,
+      "text": "Tenzin took the small snow lion out of the pocket of his gho, where he had been keeping it.",
+      "start_ms": 241630,
+      "end_ms": 247491
+    },
+    {
+      "index": 99,
+      "text": "He held it in his palm.",
+      "start_ms": 247491,
+      "end_ms": 249021
+    },
+    {
+      "index": 100,
+      "text": "He sat by the small stove.",
+      "start_ms": 249021,
+      "end_ms": 250741
+    },
+    {
+      "index": 101,
+      "text": "His mother sat beside him.",
+      "start_ms": 250741,
+      "end_ms": 252461
+    },
+    {
+      "index": 102,
+      "text": "She put her arm around him.",
+      "start_ms": 252461,
+      "end_ms": 254245
+    },
+    {
+      "index": 103,
+      "text": "He cried for a long time.",
+      "start_ms": 254245,
+      "end_ms": 255902
+    },
+    {
+      "index": 104,
+      "text": "But he also held the snow lion, and he thought about his grandfather at the monastery, happy in the silence and the snow.",
+      "start_ms": 255902,
+      "end_ms": 263675
+    },
+    {
+      "index": 105,
+      "text": "He thought about the great-great-great-grandmother four hundred years ago, carving joy out of the hardest wood she could find, in the winter her son died.",
+      "start_ms": 263675,
+      "end_ms": 273552
+    },
+    {
+      "index": 106,
+      "text": "He thought — she was right.",
+      "start_ms": 273552,
+      "end_ms": 275336
+    },
+    {
+      "index": 107,
+      "text": "She was right that both are possible at once.",
+      "start_ms": 275336,
+      "end_ms": 278267
+    },
+    {
+      "index": 108,
+      "text": "Grief and joy.",
+      "start_ms": 278267,
+      "end_ms": 279222
+    },
+    {
+      "index": 109,
+      "text": "Both.",
+      "start_ms": 279222,
+      "end_ms": 279605
+    },
+    {
+      "index": 110,
+      "text": "Grandfather was right too.",
+      "start_ms": 279605,
+      "end_ms": 281325
+    },
+    {
+      "index": 111,
+      "text": "He said, quietly, to himself, and to the small snow lion in his palm, \"I remember, Grandfather.",
+      "start_ms": 281325,
+      "end_ms": 287442
+    },
+    {
+      "index": 112,
+      "text": "I remember.\"",
+      "start_ms": 287442,
+      "end_ms": 288334
+    },
+    {
+      "index": 113,
+      "text": "Tenzin kept the snow lion for the rest of his life.",
+      "start_ms": 288334,
+      "end_ms": 291647
+    },
+    {
+      "index": 114,
+      "text": "He carried it everywhere for years.",
+      "start_ms": 291647,
+      "end_ms": 293941
+    },
+    {
+      "index": 115,
+      "text": "When he was grown, and had a family of his own, he still kept it on a small shelf in his home in the Bumthang valley.",
+      "start_ms": 293941,
+      "end_ms": 301459
+    },
+    {
+      "index": 116,
+      "text": "He looked at it often.",
+      "start_ms": 301459,
+      "end_ms": 302925
+    },
+    {
+      "index": 117,
+      "text": "When his children were small he told them the story of it — about the great-great-great-grandmother, about the son who had died, about Grandfather Rinpoche at the high monastery.",
+      "start_ms": 302925,
+      "end_ms": 314330
+    },
+    {
+      "index": 118,
+      "text": "His children listened.",
+      "start_ms": 314330,
+      "end_ms": 315796
+    },
+    {
+      "index": 119,
+      "text": "He watched them, over the years, to see if any of them was — the right person.",
+      "start_ms": 315796,
+      "end_ms": 320829
+    },
+    {
+      "index": 120,
+      "text": "He was not sure.",
+      "start_ms": 320829,
+      "end_ms": 321912
+    },
+    {
+      "index": 121,
+      "text": "He thought maybe his oldest daughter.",
+      "start_ms": 321912,
+      "end_ms": 324334
+    },
+    {
+      "index": 122,
+      "text": "He was not sure yet.",
+      "start_ms": 324334,
+      "end_ms": 325608
+    },
+    {
+      "index": 123,
+      "text": "When Tenzin was forty-two he had a small niece who came to visit for a summer — his sister's child.",
+      "start_ms": 325608,
+      "end_ms": 331617
+    },
+    {
+      "index": 124,
+      "text": "She was ten.",
+      "start_ms": 331617,
+      "end_ms": 332398
+    },
+    {
+      "index": 125,
+      "text": "She was a very serious girl.",
+      "start_ms": 332398,
+      "end_ms": 334141
+    },
+    {
+      "index": 126,
+      "text": "Tenzin watched her for a week.",
+      "start_ms": 334141,
+      "end_ms": 336004
+    },
+    {
+      "index": 127,
+      "text": "He saw — he saw exactly what his mother had seen in him, and what his grandmother had seen in his grandfather.",
+      "start_ms": 336004,
+      "end_ms": 342673
+    },
+    {
+      "index": 128,
+      "text": "A serious child who did not yet know she was allowed to be joyful.",
+      "start_ms": 342673,
+      "end_ms": 346699
+    },
+    {
+      "index": 129,
+      "text": "On the last evening of her visit, Tenzin brought the snow lion out.",
+      "start_ms": 346699,
+      "end_ms": 350786
+    },
+    {
+      "index": 130,
+      "text": "He unwrapped it.",
+      "start_ms": 350786,
+      "end_ms": 351807
+    },
+    {
+      "index": 131,
+      "text": "He put it in his niece's hand.",
+      "start_ms": 351807,
+      "end_ms": 353670
+    },
+    {
+      "index": 132,
+      "text": "He told her the story — from the beginning, the four hundred years, all of it.",
+      "start_ms": 353670,
+      "end_ms": 358417
+    },
+    {
+      "index": 133,
+      "text": "He said, \"This is yours now.",
+      "start_ms": 358417,
+      "end_ms": 360160
+    },
+    {
+      "index": 134,
+      "text": "Take good care of it.",
+      "start_ms": 360160,
+      "end_ms": 361482
+    },
+    {
+      "index": 135,
+      "text": "Someday you will give it to a serious child in the family.",
+      "start_ms": 361482,
+      "end_ms": 365027
+    },
+    {
+      "index": 136,
+      "text": "You will know who.",
+      "start_ms": 365027,
+      "end_ms": 366169
+    },
+    {
+      "index": 137,
+      "text": "And it will keep going.\" His niece held the snow lion in both hands.",
+      "start_ms": 366169,
+      "end_ms": 370315
+    },
+    {
+      "index": 138,
+      "text": "She was quiet.",
+      "start_ms": 370315,
+      "end_ms": 371216
+    },
+    {
+      "index": 139,
+      "text": "She said, \"Uncle.",
+      "start_ms": 371216,
+      "end_ms": 372298
+    },
+    {
+      "index": 140,
+      "text": "Thank you.\" And Tenzin was — for that moment — very much like his grandfather, on the day he had given away the snow lion.",
+      "start_ms": 372298,
+      "end_ms": 379689
+    },
+    {
+      "index": 141,
+      "text": "Grateful.",
+      "start_ms": 379689,
+      "end_ms": 380290
+    },
+    {
+      "index": 142,
+      "text": "Tired.",
+      "start_ms": 380290,
+      "end_ms": 380710
+    },
+    {
+      "index": 143,
+      "text": "Joyful.",
+      "start_ms": 380710,
+      "end_ms": 381191
+    },
+    {
+      "index": 144,
+      "text": "All at once.",
+      "start_ms": 381191,
+      "end_ms": 381912
+    }
+  ]
+}

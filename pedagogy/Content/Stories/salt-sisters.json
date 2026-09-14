@@ -1,0 +1,168 @@
+{
+  "id": "salt-sisters",
+  "title": "Salt Sisters",
+  "subtitle": "A Recipe from Chiloé",
+  "author": null,
+  "summary": "Isla is eleven and her sister Camila is eight, and they live with their grandfather on a wet green island in southern Chile. Their grandmother was the village healer — she knew every plant on the island and every song that went with it. She died in the spring. In the autumn, their grandfather falls sick with the same fever, and the sisters find her notebook, and they have to figure out how to help him before the ferry comes back.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-salt-sisters-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: two sisters — an 11-year-old (Isla) with long dark braided hair and an 8-year-old (Camila) with shorter loose hair — crouched together at the edge of a moss-covered coastal forest in southern Chile, harvesting small dark green leaves from a plant with tiny purple flowers. Both wear knitted wool sweaters and mud-splashed boots. The older sister holds an open leather notebook with handwritten notes and small drawings of plants. Behind them: the pale grey water of the Chiloé strait, a small wooden fishing boat at anchor, a low rain cloud. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0), muted greens and moss, deep ink outlines, small dusty rose (#FF5B8D) accent on their cheeks and on a flower. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2026-11-19",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Abuela's Notebook",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sst-ch1-p1-house",
+          "imagePrompt": "Mike Mignola style for children: exterior of a small palafito (wooden stilt house) at the edge of a wet green Chilean island, low tide, muddy shore with mussels and seaweed visible. A boat tied at a nearby wooden pier. Two sisters (Isla, 11, with braid, and Camila, 8) sit on the front steps. Grey overcast light. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens and cool grey water.",
+          "paragraphs": [
+            "Isla and Camila lived in a small palafito — a wooden house on stilts — at the edge of a green wet island in southern Chile. The island was called Quinchao, and it was one of the small islands in the Chiloé archipelago, and it rained there almost every day. When Isla, who was eleven, tried to describe the rain to anyone who did not live there, she said: it is not exactly rain. It is more like the air deciding, every day, to become water. That was what it was like.",
+            "Their mother worked in Puerto Montt on the mainland and came home when she could. Their grandfather, whom they called Abuelo, was the man of the house. He was quiet, and slow, and very tall, and he made the best sopa marinera — seafood soup — that anyone on Quinchao had ever tasted. He had been alone since spring, when their grandmother, Abuela Rosa, had died."
+          ]
+        },
+        {
+          "image": "sst-ch1-p2-abuela-memory",
+          "imagePrompt": "Mike Mignola style for children: memory/flashback view. An older woman (Abuela Rosa, sixties) in a wool shawl walks along a mossy forest path holding the hand of a younger Isla (about 9) and pointing at a plant. Camila (about 6) skips along behind them. Warm overcast light. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "Abuela Rosa had been the healer of Quinchao — the meica, as the old people said. She had known every plant on the island. She had known which one was for a stomachache and which one was for a bad dream and which one was for a fever that would not break. She had known the songs that went with each one, because — she had said — a plant that was picked without the right song was only a leaf. She had taken Isla and Camila with her whenever she went out to gather. She had shown them the plants and had sung them the songs, and Isla had liked it, and Camila had loved it.",
+            "But Abuela Rosa had died before Isla was old enough to really learn. She had died in three days, in the spring, of a fever that had come from nowhere. Isla had learned some plants — maybe twenty. Camila had learned a few of the songs, because Camila had a good memory for tunes. But most of it, most of what Abuela Rosa knew, had gone with her. Everyone on the island knew this. There was no one else who did what she had done."
+          ]
+        },
+        {
+          "image": "sst-ch1-p3-abuelo-sick",
+          "imagePrompt": "Mike Mignola style for children: interior of the palafito main room. An older man (Abuelo, seventies) is lying on a small bed under blankets, sweating, one hand on his forehead. Two sisters (Isla, 11, and Camila, 8) stand by his bed looking down at him with worried faces. A pot of tea steams on a small stove. Overcast grey light through the window. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the autumn — the sixth month after Abuela had died — Abuelo got a fever. It came on a Thursday afternoon. He had been out fishing all morning, and had come back looking tired, and had said he wanted to lie down. By evening he was hot to the touch and shivering. Isla knew what a bad fever looked like. She had seen Abuela Rosa go through it, and she recognized the same look on Abuelo's face. She knew the look meant serious.",
+            "The village doctor came from the town of Achao, and the ferry from Achao to Quinchao ran twice a day when the water was calm, but a big storm was coming in — the radio said so — and the ferry had already stopped running for the day. It would not run again for at least twenty-four hours. Isla knew this because she had gone down to the pier at four p.m., after Abuelo had fallen asleep, and the small wooden ferry office had been closed and the sign said: SIGUIENTE FERRY: MAÑANA 7:00. The next ferry would come in the morning. Maybe. If the storm did not delay it."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Isla walked back up to the palafito. Camila was sitting on the front steps waiting for her, arms wrapped around her knees. \"He is sick like Abuela was,\" Camila said, looking up. Isla sat down beside her. \"Yes,\" she said. \"I know.\" Camila said, \"He is going to die.\" Isla put her arm around Camila. \"He is not going to die,\" she said. \"He is not going to die because Abuela taught us things. And we are going to help him.\" Camila did not say anything for a moment. Then she said, \"We don't know enough.\" Isla said, \"Maybe we do. There is Abuela's notebook.\"",
+            "The notebook. Isla had thought about it many times but had not looked at it since Abuela died. It was on the top shelf of the pantry, where Abuela had always kept it. It was a small leather-bound thing, with soft yellow pages, and Abuela had written and drawn in it for maybe fifty years. Every plant, every song, every dose. Isla had seen it many times. She had never really read it. Abuela had said it was mostly to help her own memory, and that the real learning happened outside, in the forest. But it was still there, on the shelf, waiting."
+          ]
+        },
+        {
+          "image": "sst-ch1-p5-notebook",
+          "imagePrompt": "Mike Mignola style for children: close view of a small leather-bound notebook opened on a wooden kitchen table. The pages show handwritten Spanish notes, small ink drawings of plants, and small musical notation. Two young hands (Isla's hands, 11) turn a page carefully. A single candle burns beside the book. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Isla got up on the stool and reached the notebook down. She brought it to the kitchen table. Camila sat beside her, watching. Isla opened it slowly. The first page had a drawing of the island and a small song in the margin. The pages that followed had, one after another, drawings of plants — leaves, flowers, roots — each with a name in Spanish, and sometimes another name in the old language of the island, which Isla did not know. Beneath each drawing was a note about what the plant was for, and sometimes lines of a song written in small careful musical notation.",
+            "Isla read for maybe five minutes, turning pages carefully. Then she found what she was looking for. A page marked with a small pressed leaf. At the top: FIEBRE ALTA — SAN JUAN. She read the page. She read it again. She looked at Camila. \"There is a plant,\" she said. \"There is a plant Abuela used. For high fever. It is called yerba de San Juan. There is a picture of it here. And a song.\" Camila leaned in. \"Where does it grow.\" Isla pointed at Abuela's note. \"At the edge of the forest. Near the water. There is a place she wrote — el bosque del rincón norte. The forest at the north corner. That is by the point.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The North Corner",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sst-ch2-p1-going",
+          "imagePrompt": "Mike Mignola style for children: two sisters (Isla, 11, and Camila, 8) walking single-file along a muddy grass path away from their palafito house at very early morning. Each wears a heavy wool sweater. Isla carries the leather notebook and a canvas bag. Camila carries a smaller bag. The sky is heavy grey, drizzle in the air. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "It was still dark when they left. Isla had woken Camila before dawn, and they had eaten cold bread standing in the kitchen. Abuelo was still asleep, though his fever was worse. He had not woken up when Isla had put a cool cloth on his forehead. She had left a note by his bed just in case, and a jug of water. They had put on their thick sweaters and their wool caps and their boots. Isla carried the notebook wrapped in a piece of oilcloth, and a canvas bag for gathering, and a small folding knife that Abuelo had given her for her tenth birthday. Camila carried a smaller canvas bag and a paper bag with two apples.",
+            "The walk to the north corner was five kilometers. In summer it took two hours. In autumn, after weeks of rain, it took longer, because the paths were muddy. Isla figured they would be there by nine, back by one, and could start the tea by two. That would give Abuelo his first dose in the afternoon. It was a plan. She kept saying the plan to herself. It made her feel less afraid."
+          ]
+        },
+        {
+          "image": "sst-ch2-p2-forest",
+          "imagePrompt": "Mike Mignola style for children: two sisters walking through a dense wet temperate rainforest in Chiloé — moss-covered nalca (giant rhubarb) leaves, tall dark green ferns, thin pale trees with peeling bark, dripping vegetation. The path is narrow and muddy. Overcast diffuse light filtering down. Heavy ink outlines, flat shadows, cream and sepia palette with muted rich greens.",
+          "paragraphs": [
+            "The forest at the north corner was a temperate rainforest, thick and wet and green in every direction. Everything dripped. Everything smelled like moss. The trees were pale and the ferns were huge, and Isla and Camila walked in single file along a narrow trail. Isla went first, holding the notebook open in one hand. Every so often she stopped to check a plant, in case it was the yerba de San Juan. Most of them were not.",
+            "\"How do we know it,\" Camila asked, after they had been walking a while. \"Small leaves,\" Isla said, reading. \"Dark green. Little purple flowers, but only some of the year. Grows near stones. Smells like — Abuela wrote 'like a house after the rain'. I don't know what that means.\" Camila thought. \"Like our house? After it rains? It smells like wood.\" Isla said, \"I think so. I don't know.\""
+          ]
+        },
+        {
+          "image": "sst-ch2-p3-first-find",
+          "imagePrompt": "Mike Mignola style for children: two sisters crouched together in a mossy clearing at the edge of a rocky outcrop. Isla holds the open notebook and points at a picture of a plant. On the ground in front of them: a small dark green plant with tiny purple flowers growing among wet stones. Camila leans down close to smell it. Overcast diffuse light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They found it at maybe ten o'clock. Camila was actually the one who saw it — a small dark green cluster of leaves near the base of a big mossy rock, with three tiny purple flowers still holding on despite the season. Isla checked the drawing. The shape was right. The color was right. The purple flowers were right. Camila leaned down and smelled the leaves. She sat back on her heels. \"It smells like our house,\" she said. \"It really does. It smells like wood.\" Isla smelled it too. Camila was right. It smelled like wood after rain.",
+            "\"That's it,\" Isla said. Her hands were shaking a little. She was relieved. She had been so afraid it would not be here, or that she would not know it. But it was here, and she knew it. \"Now we have to sing to it,\" said Camila. Isla had not been looking forward to this part. She was not sure why. She flipped in the notebook to the song. It was written in Abuela's small careful notation. There were four lines. Isla could read music a little — she had learned some at the village school — but not well. She hummed the first line under her breath, slowly."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Camila listened. Camila did not need the paper. Camila closed her eyes, and after a moment, she began to sing. She sang the song in her small clear voice. It was very simple — a low tune, four lines, in the old language of the island. Camila had heard it maybe two or three times when Abuela had been alive. She had remembered it. She sang it now, kneeling in the moss beside the plant. Isla did not sing with her. She only listened, and she looked at the plant.",
+            "When Camila was done, Isla cut the plant carefully — not all of it, just what she needed, leaving the roots and some of the leaves so it would grow back. That was another thing Abuela had taught them. Never take more than half. Never take from a plant that is alone in its spot. Never take without asking. Isla put the leaves in the canvas bag. She said, quietly, \"Gracias, hermana.\" She was not sure if she was talking to the plant, or to Camila, or to Abuela. Maybe all three."
+          ]
+        },
+        {
+          "image": "sst-ch2-p5-more-plants",
+          "imagePrompt": "Mike Mignola style for children: two sisters walking back through the wet forest, canvas bag now visibly holding gathered greens. Both look tired but proud. Camila is skipping a little ahead, singing quietly. Isla holds the notebook against her chest. Grey overcast forest light. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "They found two more of the plants further along, near where a small stream came out of the moss. They cut some from both — not too much, just a little from each. Isla marked each place carefully in the notebook — a small dot on a hand-drawn map of the island, with the date. Abuela had done the same thing for fifty years. That was how Isla could tell where to look. All the plants had dots.",
+            "By eleven o'clock they were walking back with a full canvas bag. It was still overcast but it had not started raining hard yet. Camila hummed the song as they walked. She sang it to herself in a small voice. Isla listened. She thought, my sister is going to remember these songs longer than I am. She thought, maybe that is what Abuela was doing, when she taught Camila the tunes first. Maybe she knew that."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Tea",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sst-ch3-p1-kitchen",
+          "imagePrompt": "Mike Mignola style for children: interior kitchen of the palafito. A small iron stove with a kettle boiling. On the wooden table: the open notebook, the canvas bag of gathered leaves, a small ceramic teapot, a wooden spoon. Isla (11) stands at the table measuring something. Camila (8) is by the door of the bedroom, looking in at Abuelo. Grey afternoon light through the small window. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Back at the palafito, they moved quickly. Isla checked on Abuelo — his fever was worse. His breathing was shallow. He mumbled something Isla did not understand, and then he was quiet. She put a fresh cool cloth on his forehead. She kissed his hand. She went back to the kitchen. Camila had already put water on the stove.",
+            "Isla read Abuela's recipe out loud, twice, to make sure she had it right. Two handfuls of the leaves, chopped fine. Half a liter of water. Boil for exactly the length of the song, no more, no less — the song they had sung in the forest. Then strain. Then add one small pinch of sea salt. That was for the body. Give in small warm sips, every hour, for four hours. If the fever breaks, stop giving. If it does not break, come back in the morning and go get more plants."
+          ]
+        },
+        {
+          "image": "sst-ch3-p2-singing",
+          "imagePrompt": "Mike Mignola style for children: interior kitchen scene. A small pot boils on the stove with green leaves visible in the water. Camila (8) stands beside the stove singing, eyes closed, one hand on the pot handle. Isla (11) sits at the table timing on a small clock, notebook open in front of her. Warm firelight from the stove. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They chopped the leaves. They put them in the boiling water. Camila sang the song again, three times, to time the boil — Isla checked with the clock, and the song lasted almost exactly three minutes each time, so they let it boil for three songs. Camila's voice was steady and calm. It was a strange thing to hear in the kitchen — this small old song, in a language neither of them fully spoke, being used as a timer for their grandfather's medicine.",
+            "Isla strained the tea into a small ceramic cup. She added the pinch of sea salt. She smelled it. It smelled green, like the forest. She carried it into Abuelo's room. Camila followed with a small spoon and a folded towel. Isla sat down on the edge of the bed. She lifted Abuelo's head a little, and she brought the spoon of tea to his mouth, and she said, softly, \"Abuelo. Please. It is us. Drink a little.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "He drank. Slowly, but he drank. Sometimes he opened his eyes and looked at Isla, and sometimes he closed them and just swallowed. She gave him small sips every ten minutes for the first hour. Then every fifteen minutes. Then every half hour. Camila brought fresh cool cloths. Isla read to Abuelo, quietly, from a book of stories that had been Abuela's — even though she was not sure if he was really listening — because she thought maybe her voice would help. She had heard once that people who were very sick could still hear voices.",
+            "At about eight o'clock in the evening, Abuelo opened his eyes. He looked at Isla. He said, in a very tired voice, \"Nietita.\" Little granddaughter. And Isla started to cry. She was so tired she had not known she was going to cry. She just did. Abuelo lifted his hand — slowly, unsteadily — and put it on hers. He was still hot. But he was there. He was talking. \"You made me tea,\" he said. \"Yes,\" said Isla. \"Camila and I did.\" Abuelo said, \"Your Abuela — she taught you.\" Isla said, \"She wrote it down. In her book. We found it.\""
+          ]
+        },
+        {
+          "image": "sst-ch3-p4-morning",
+          "imagePrompt": "Mike Mignola style for children: morning kitchen scene. Grey light through the window. Isla (11) and Camila (8) both asleep sitting up on the bench beside Abuelo's bedroom door, leaning against each other. On the small nightstand, the empty ceramic cup. Heavy ink outlines, flat shadows, soft cream palette.",
+          "paragraphs": [
+            "In the morning, Abuelo's fever had broken. Isla could tell before she even touched him because he was breathing normally, deeply, the way people breathe when they are truly asleep. She put her hand on his forehead. He was cool. He was properly cool. She sat down on the floor beside his bed and she cried a little more, quietly, so she would not wake him. Then she went back to the kitchen. Camila was already up. Camila was sitting at the kitchen table with the notebook open in front of her, looking at a page.",
+            "\"Is he better,\" Camila said, without looking up. \"He is better,\" said Isla. \"His fever is gone.\" Camila nodded. She kept looking at the notebook. She said, \"I want to learn more songs.\" Isla sat down next to her. She looked over Camila's shoulder. The page Camila was on had a plant called peumo — a note said it was for children's coughs. Isla could read that Camila had already learned that one before Abuela died. She said, \"Yes. We will learn more songs.\" And Camila nodded again, and turned the page."
+          ]
+        },
+        {
+          "image": "sst-ch3-p5-ferry",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the wooden village pier in the mid-morning. A small ferry has just arrived, and a village doctor with a black bag is stepping off. Two sisters (Isla, 11, and Camila, 8) walk toward him along the pier. Behind them, the palafito visible on stilts, and Abuelo standing weakly in the doorway. Heavy ink outlines, flat shadows, cream and sepia palette with cool grey water.",
+          "paragraphs": [
+            "The ferry came at ten. The doctor from Achao — a small serious man with a black bag — walked up from the pier with Isla and Camila. Abuelo was sitting up in bed by then, tired but talking. The doctor looked him over. He listened to his chest. He took his temperature. He asked Isla what she had given him. Isla told him. She showed him the notebook.",
+            "The doctor read the page. He looked at the pressed leaf. He was quiet for a long time. Then he looked at Isla and Camila. He said, \"You two saved his life. Do you understand that? If he had not had that tea, he would have gotten worse in the night. He might not have made it until the ferry.\" Isla did not know what to say. She had not been thinking about it that way. She had only been thinking that Abuelo was sick and there was a book and they had to try. She said, quietly, \"Our Abuela was a meica. She taught us.\" The doctor nodded slowly. \"Yes,\" he said. \"She did. Keep that book somewhere safe. Someday you will teach it to someone else.\" And he looked at Isla, and at Camila, and he did not have to say who.",
+            "That was in the autumn. By the winter, Abuelo was fully himself again. And every Saturday, from then on, Isla and Camila took the notebook and they walked into the forest, and Camila sang, and Isla wrote. Not for anyone else. Just because. Because someone had to."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "sisters",
+    "chile",
+    "healing",
+    "tradition"
+  ]
+}

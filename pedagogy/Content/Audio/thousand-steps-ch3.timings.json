@@ -1,0 +1,709 @@
+{
+  "story_id": "thousand-steps",
+  "chapter": 3,
+  "total_duration_ms": 388560,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On the fifth morning, the last morning of the trip, they drove slowly back toward Cusco.",
+      "start_ms": 1681,
+      "end_ms": 7435
+    },
+    {
+      "index": 1,
+      "text": "They did not take the main road.",
+      "start_ms": 7435,
+      "end_ms": 9568
+    },
+    {
+      "index": 2,
+      "text": "Manuel took a smaller road that climbed high along one side of the valley, giving long views down onto the river and the terraced fields and the small stone villages.",
+      "start_ms": 9568,
+      "end_ms": 20364
+    },
+    {
+      "index": 3,
+      "text": "About halfway back, at a place where the road curved around a bend, Manuel pulled the car over.",
+      "start_ms": 20364,
+      "end_ms": 26570
+    },
+    {
+      "index": 4,
+      "text": "He did not say why.",
+      "start_ms": 26570,
+      "end_ms": 27863
+    },
+    {
+      "index": 5,
+      "text": "He got out.",
+      "start_ms": 27863,
+      "end_ms": 28639
+    },
+    {
+      "index": 6,
+      "text": "Diego got out.",
+      "start_ms": 28639,
+      "end_ms": 29674
+    },
+    {
+      "index": 7,
+      "text": "There was a small stone overlook wall — someone, decades ago, had built a low wall at the edge of the road for people to lean on.",
+      "start_ms": 29674,
+      "end_ms": 38078
+    },
+    {
+      "index": 8,
+      "text": "There was no sign, no marker.",
+      "start_ms": 38078,
+      "end_ms": 40017
+    },
+    {
+      "index": 9,
+      "text": "Just the wall and the view.",
+      "start_ms": 40017,
+      "end_ms": 41827
+    },
+    {
+      "index": 10,
+      "text": "Manuel walked to the wall and leaned on it and looked down.",
+      "start_ms": 41827,
+      "end_ms": 45706
+    },
+    {
+      "index": 11,
+      "text": "Diego joined him.",
+      "start_ms": 45706,
+      "end_ms": 46870
+    },
+    {
+      "index": 12,
+      "text": "Below them, the whole Sacred Valley spread out — the river winding between green fields, the small squares of terraced potato and quinoa, the stone walls, the villages, the distant white peaks.",
+      "start_ms": 46870,
+      "end_ms": 59412
+    },
+    {
+      "index": 13,
+      "text": "It was, Diego thought, more beautiful than anything he had seen in the five days.",
+      "start_ms": 59412,
+      "end_ms": 64778
+    },
+    {
+      "index": 14,
+      "text": "Manuel was quiet for a long time.",
+      "start_ms": 64778,
+      "end_ms": 66976
+    },
+    {
+      "index": 15,
+      "text": "Then he said, \"I stopped at this bend for the first time when I was twenty-two.",
+      "start_ms": 66976,
+      "end_ms": 72148
+    },
+    {
+      "index": 16,
+      "text": "I was on a bus back from Machu Picchu.",
+      "start_ms": 72148,
+      "end_ms": 74669
+    },
+    {
+      "index": 17,
+      "text": "It was my first trip alone as a young man.",
+      "start_ms": 74669,
+      "end_ms": 77449
+    },
+    {
+      "index": 18,
+      "text": "The bus stopped here to let a truck pass.",
+      "start_ms": 77449,
+      "end_ms": 80164
+    },
+    {
+      "index": 19,
+      "text": "I looked out.",
+      "start_ms": 80164,
+      "end_ms": 81069
+    },
+    {
+      "index": 20,
+      "text": "I thought, one day I want to understand a place well enough that I can look at it and see what it is thinking.",
+      "start_ms": 81069,
+      "end_ms": 88245
+    },
+    {
+      "index": 21,
+      "text": "That was the thought I had here, when I was twenty-two.",
+      "start_ms": 88245,
+      "end_ms": 91865
+    },
+    {
+      "index": 22,
+      "text": "I have stopped at this bend every time I have driven this road since.",
+      "start_ms": 91865,
+      "end_ms": 96391
+    },
+    {
+      "index": 23,
+      "text": "It is fifty years.",
+      "start_ms": 96391,
+      "end_ms": 97619
+    },
+    {
+      "index": 24,
+      "text": "I have stopped here maybe four hundred times.",
+      "start_ms": 97619,
+      "end_ms": 100593
+    },
+    {
+      "index": 25,
+      "text": "Every time, I think about that thought.\"",
+      "start_ms": 100593,
+      "end_ms": 103308
+    },
+    {
+      "index": 26,
+      "text": "He was quiet again.",
+      "start_ms": 103308,
+      "end_ms": 104601
+    },
+    {
+      "index": 27,
+      "text": "He looked down at his sketchbook, which he was holding in both hands.",
+      "start_ms": 104601,
+      "end_ms": 109126
+    },
+    {
+      "index": 28,
+      "text": "He said, \"I want to give you something, Diego.",
+      "start_ms": 109126,
+      "end_ms": 112165
+    },
+    {
+      "index": 29,
+      "text": "I have been thinking about it since April.",
+      "start_ms": 112165,
+      "end_ms": 114945
+    },
+    {
+      "index": 30,
+      "text": "I wanted to wait until we came here.",
+      "start_ms": 114945,
+      "end_ms": 117337
+    },
+    {
+      "index": 31,
+      "text": "This is where the decision belongs.\"",
+      "start_ms": 117337,
+      "end_ms": 119664
+    },
+    {
+      "index": 32,
+      "text": "Manuel held out the sketchbook.",
+      "start_ms": 119664,
+      "end_ms": 121437
+    },
+    {
+      "index": 33,
+      "text": "He said, \"This is yours now.",
+      "start_ms": 121437,
+      "end_ms": 123043
+    },
+    {
+      "index": 34,
+      "text": "From today.\" Diego did not move.",
+      "start_ms": 123043,
+      "end_ms": 124871
+    },
+    {
+      "index": 35,
+      "text": "He said, \"Abuelo.",
+      "start_ms": 124871,
+      "end_ms": 125868
+    },
+    {
+      "index": 36,
+      "text": "That is your book.",
+      "start_ms": 125868,
+      "end_ms": 126921
+    },
+    {
+      "index": 37,
+      "text": "That is fifty years.\" Manuel said, \"Fifty-two years.",
+      "start_ms": 126921,
+      "end_ms": 129857
+    },
+    {
+      "index": 38,
+      "text": "I started it when I was twenty.",
+      "start_ms": 129857,
+      "end_ms": 131629
+    },
+    {
+      "index": 39,
+      "text": "Yes.",
+      "start_ms": 131629,
+      "end_ms": 131906
+    },
+    {
+      "index": 40,
+      "text": "It is my book.",
+      "start_ms": 131906,
+      "end_ms": 132737
+    },
+    {
+      "index": 41,
+      "text": "And now it is yours.",
+      "start_ms": 132737,
+      "end_ms": 133900
+    },
+    {
+      "index": 42,
+      "text": "I have other sketchbooks.",
+      "start_ms": 133900,
+      "end_ms": 135341
+    },
+    {
+      "index": 43,
+      "text": "Six of them, at home.",
+      "start_ms": 135341,
+      "end_ms": 136559
+    },
+    {
+      "index": 44,
+      "text": "I will keep working.",
+      "start_ms": 136559,
+      "end_ms": 137723
+    },
+    {
+      "index": 45,
+      "text": "But this is the first one.",
+      "start_ms": 137723,
+      "end_ms": 139218
+    },
+    {
+      "index": 46,
+      "text": "I want it to go now, while I am here, so I can hand it to you myself.",
+      "start_ms": 139218,
+      "end_ms": 143096
+    },
+    {
+      "index": 47,
+      "text": "So I can watch you receive it.",
+      "start_ms": 143096,
+      "end_ms": 144813
+    },
+    {
+      "index": 48,
+      "text": "That matters to me.",
+      "start_ms": 144813,
+      "end_ms": 145921
+    },
+    {
+      "index": 49,
+      "text": "Please take it.\"",
+      "start_ms": 145921,
+      "end_ms": 146918
+    },
+    {
+      "index": 50,
+      "text": "Diego took it, carefully, in both hands.",
+      "start_ms": 146918,
+      "end_ms": 149189
+    },
+    {
+      "index": 51,
+      "text": "It was smaller than it had looked on the table all those years.",
+      "start_ms": 149189,
+      "end_ms": 152735
+    },
+    {
+      "index": 52,
+      "text": "The leather was soft.",
+      "start_ms": 152735,
+      "end_ms": 153953
+    },
+    {
+      "index": 53,
+      "text": "The pages, when he did not yet open it, felt full of something.",
+      "start_ms": 153953,
+      "end_ms": 157499
+    },
+    {
+      "index": 54,
+      "text": "He did not open it.",
+      "start_ms": 157499,
+      "end_ms": 158607
+    },
+    {
+      "index": 55,
+      "text": "He said, \"Why me, Abuelo?\"",
+      "start_ms": 158607,
+      "end_ms": 160158
+    },
+    {
+      "index": 56,
+      "text": "Manuel thought for a moment.",
+      "start_ms": 160158,
+      "end_ms": 161764
+    },
+    {
+      "index": 57,
+      "text": "He said, \"Because you noticed the drainage channel at Moray without me pointing it out.",
+      "start_ms": 161764,
+      "end_ms": 166639
+    },
+    {
+      "index": 58,
+      "text": "Because you drew the salt pool at Maras when I did not ask you to.",
+      "start_ms": 166639,
+      "end_ms": 170350
+    },
+    {
+      "index": 59,
+      "text": "Because you have asked good questions on this trip.",
+      "start_ms": 170350,
+      "end_ms": 173231
+    },
+    {
+      "index": 60,
+      "text": "I do not know, yet, whether you will be an architect, or a farmer, or a poet, or someone who thinks in a completely different way.",
+      "start_ms": 173231,
+      "end_ms": 180487
+    },
+    {
+      "index": 61,
+      "text": "That does not matter.",
+      "start_ms": 180487,
+      "end_ms": 181706
+    },
+    {
+      "index": 62,
+      "text": "What matters is that you look at things and want to understand them.",
+      "start_ms": 181706,
+      "end_ms": 185528
+    },
+    {
+      "index": 63,
+      "text": "This book is not for you to imitate.",
+      "start_ms": 185528,
+      "end_ms": 187578
+    },
+    {
+      "index": 64,
+      "text": "It is for you to hold in your hands when you are older and know that a person can look at the same landscape for fifty years and still learn something new every time.",
+      "start_ms": 187578,
+      "end_ms": 196829
+    },
+    {
+      "index": 65,
+      "text": "That is what the book is for.",
+      "start_ms": 196829,
+      "end_ms": 198491
+    },
+    {
+      "index": 66,
+      "text": "Not the drawings.",
+      "start_ms": 198491,
+      "end_ms": 199488
+    },
+    {
+      "index": 67,
+      "text": "The example.\"",
+      "start_ms": 199488,
+      "end_ms": 200208
+    },
+    {
+      "index": 68,
+      "text": "He was quiet.",
+      "start_ms": 200208,
+      "end_ms": 201126
+    },
+    {
+      "index": 69,
+      "text": "Then he said, \"Also — one more thing.",
+      "start_ms": 201126,
+      "end_ms": 203618
+    },
+    {
+      "index": 70,
+      "text": "When you are twenty, or thirty, or forty, and you find a landscape that you want to think about for the rest of your life, do not choose the famous one.",
+      "start_ms": 203618,
+      "end_ms": 213651
+    },
+    {
+      "index": 71,
+      "text": "Choose the one that is a question.",
+      "start_ms": 213651,
+      "end_ms": 215946
+    },
+    {
+      "index": 72,
+      "text": "Choose Moray, not Machu Picchu.",
+      "start_ms": 215946,
+      "end_ms": 218044
+    },
+    {
+      "index": 73,
+      "text": "Choose the salt pans, not the ruins.",
+      "start_ms": 218044,
+      "end_ms": 220470
+    },
+    {
+      "index": 74,
+      "text": "Choose the place that is still being figured out.",
+      "start_ms": 220470,
+      "end_ms": 223749
+    },
+    {
+      "index": 75,
+      "text": "That is where the interesting thinking is.",
+      "start_ms": 223749,
+      "end_ms": 226569
+    },
+    {
+      "index": 76,
+      "text": "That is what the Incas did.",
+      "start_ms": 226569,
+      "end_ms": 228405
+    },
+    {
+      "index": 77,
+      "text": "That is what your grandfather has been trying to do.",
+      "start_ms": 228405,
+      "end_ms": 231880
+    },
+    {
+      "index": 78,
+      "text": "I hope, someday, that is what you do too.",
+      "start_ms": 231880,
+      "end_ms": 234634
+    },
+    {
+      "index": 79,
+      "text": "Whatever the landscape.\"",
+      "start_ms": 234634,
+      "end_ms": 236339
+    },
+    {
+      "index": 80,
+      "text": "Diego sat down on the low stone wall.",
+      "start_ms": 236339,
+      "end_ms": 238831
+    },
+    {
+      "index": 81,
+      "text": "He opened the sketchbook to the first page.",
+      "start_ms": 238831,
+      "end_ms": 241716
+    },
+    {
+      "index": 82,
+      "text": "On the first page, in careful young handwriting from long before Diego was born, was a small pencil drawing of an Inca doorway — the trapezoidal stone doorway with the smaller top edge that Diego had seen a hundred times in Cusco.",
+      "start_ms": 241716,
+      "end_ms": 256863
+    },
+    {
+      "index": 83,
+      "text": "Beside it, his grandfather at twenty had written: The doorway leans in.",
+      "start_ms": 256863,
+      "end_ms": 261585
+    },
+    {
+      "index": 84,
+      "text": "Why?",
+      "start_ms": 261585,
+      "end_ms": 261913
+    },
+    {
+      "index": 85,
+      "text": "Something to do with earthquakes.",
+      "start_ms": 261913,
+      "end_ms": 264142
+    },
+    {
+      "index": 86,
+      "text": "Find out.",
+      "start_ms": 264142,
+      "end_ms": 264798
+    },
+    {
+      "index": 87,
+      "text": "There was a small date underneath — April, nineteen seventy-four.",
+      "start_ms": 264798,
+      "end_ms": 269191
+    },
+    {
+      "index": 88,
+      "text": "Diego turned the page.",
+      "start_ms": 269191,
+      "end_ms": 270699
+    },
+    {
+      "index": 89,
+      "text": "Another drawing — a section of stone wall, with a note about how the stones fit without mortar.",
+      "start_ms": 270699,
+      "end_ms": 276995
+    },
+    {
+      "index": 90,
+      "text": "Another page.",
+      "start_ms": 276995,
+      "end_ms": 277913
+    },
+    {
+      "index": 91,
+      "text": "Another drawing.",
+      "start_ms": 277913,
+      "end_ms": 279027
+    },
+    {
+      "index": 92,
+      "text": "He did not read them all — he could not.",
+      "start_ms": 279027,
+      "end_ms": 281716
+    },
+    {
+      "index": 93,
+      "text": "There were hundreds of pages.",
+      "start_ms": 281716,
+      "end_ms": 283683
+    },
+    {
+      "index": 94,
+      "text": "He would read them slowly, over years.",
+      "start_ms": 283683,
+      "end_ms": 286240
+    },
+    {
+      "index": 95,
+      "text": "He closed the book gently.",
+      "start_ms": 286240,
+      "end_ms": 288011
+    },
+    {
+      "index": 96,
+      "text": "He looked at his grandfather.",
+      "start_ms": 288011,
+      "end_ms": 289978
+    },
+    {
+      "index": 97,
+      "text": "He said, \"Abuelo.",
+      "start_ms": 289978,
+      "end_ms": 291158
+    },
+    {
+      "index": 98,
+      "text": "I do not know what to say.\" Manuel said, \"You do not have to say anything.",
+      "start_ms": 291158,
+      "end_ms": 296076
+    },
+    {
+      "index": 99,
+      "text": "That is why I gave it to you here, at this bend, instead of at the house over supper.",
+      "start_ms": 296076,
+      "end_ms": 301716
+    },
+    {
+      "index": 100,
+      "text": "Here you can just look at the valley.",
+      "start_ms": 301716,
+      "end_ms": 304208
+    },
+    {
+      "index": 101,
+      "text": "Which is what the book is about anyway.",
+      "start_ms": 304208,
+      "end_ms": 306830
+    },
+    {
+      "index": 102,
+      "text": "Come.",
+      "start_ms": 306830,
+      "end_ms": 307224
+    },
+    {
+      "index": 103,
+      "text": "We should drive.",
+      "start_ms": 307224,
+      "end_ms": 308339
+    },
+    {
+      "index": 104,
+      "text": "Your abuela is expecting us for lunch.\"",
+      "start_ms": 308339,
+      "end_ms": 310896
+    },
+    {
+      "index": 105,
+      "text": "They drove the last hour back to Cusco slowly.",
+      "start_ms": 310896,
+      "end_ms": 313828
+    },
+    {
+      "index": 106,
+      "text": "Diego held the sketchbook on his lap the whole way.",
+      "start_ms": 313828,
+      "end_ms": 317072
+    },
+    {
+      "index": 107,
+      "text": "He did not open it again in the car.",
+      "start_ms": 317072,
+      "end_ms": 319380
+    },
+    {
+      "index": 108,
+      "text": "He would open it many, many times in the years to come.",
+      "start_ms": 319380,
+      "end_ms": 322873
+    },
+    {
+      "index": 109,
+      "text": "He would carry it, in fact, on almost every long trip he ever took, for the rest of his life — first as a boy, then as a student, then as a young man doing whatever it turned out he was going to do, then as an older man himself.",
+      "start_ms": 322873,
+      "end_ms": 337158
+    },
+    {
+      "index": 110,
+      "text": "He would write in the blank pages at the back, filling them in with his own careful drawings and questions, in his own handwriting, over decades.",
+      "start_ms": 337158,
+      "end_ms": 346328
+    },
+    {
+      "index": 111,
+      "text": "But that afternoon, arriving back at the small stone house on the edge of Cusco, he did not think about any of that.",
+      "start_ms": 346328,
+      "end_ms": 353627
+    },
+    {
+      "index": 112,
+      "text": "He walked up the path with the book held against his chest, and his grandfather walked behind him, and the light was warm and gold on the rooftops of the old city below.",
+      "start_ms": 353627,
+      "end_ms": 364232
+    },
+    {
+      "index": 113,
+      "text": "Diego was thinking, in a small quiet way, about the salt pools at Maras and the circles at Moray and the bend in the road above the valley, and about how a person could look at a landscape for fifty-two years and still be, on the last day of a five-day trip in July, learning what to hand to whom, and when.",
+      "start_ms": 364232,
+      "end_ms": 383445
+    },
+    {
+      "index": 114,
+      "text": "That was what a life could be.",
+      "start_ms": 383445,
+      "end_ms": 385379
+    },
+    {
+      "index": 115,
+      "text": "He did not have the words for it yet.",
+      "start_ms": 385379,
+      "end_ms": 387749
+    },
+    {
+      "index": 116,
+      "text": "But he would.",
+      "start_ms": 387749,
+      "end_ms": 388560
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "story_id": "camel-and-the-well",
+  "chapter": 1,
+  "total_duration_ms": 321624,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Nadia's grandfather lived in a small village of mud-brick houses at the very edge of the dunes.",
+      "start_ms": 1653,
+      "end_ms": 7999
+    },
+    {
+      "index": 1,
+      "text": "His name was Sidi Hassan, but everyone called him just Sidi.",
+      "start_ms": 7999,
+      "end_ms": 12031
+    },
+    {
+      "index": 2,
+      "text": "He was seventy-one, and he was thin, and he had the kind of dark weathered skin that comes from spending a life in the sun, and he did not talk very much.",
+      "start_ms": 12031,
+      "end_ms": 22277
+    },
+    {
+      "index": 3,
+      "text": "His village was called Merzouga, and it was in the southeastern part of Morocco, in a region where the paved road ran out and the huge orange dunes of the Erg Chebbi began.",
+      "start_ms": 22277,
+      "end_ms": 33714
+    },
+    {
+      "index": 4,
+      "text": "Nadia had come to visit him for two weeks, in the winter, when the desert was not too hot.",
+      "start_ms": 33714,
+      "end_ms": 39795
+    },
+    {
+      "index": 5,
+      "text": "She was twelve, and she lived the rest of the year in the city of Meknes, far to the north.",
+      "start_ms": 39795,
+      "end_ms": 45877
+    },
+    {
+      "index": 6,
+      "text": "She had visited Sidi many times as a small child, but not since she was seven.",
+      "start_ms": 45877,
+      "end_ms": 51099
+    },
+    {
+      "index": 7,
+      "text": "She had almost forgotten the smell of his house — mint tea and cedar smoke and dry dust.",
+      "start_ms": 51099,
+      "end_ms": 56983
+    },
+    {
+      "index": 8,
+      "text": "She had almost forgotten how the light came into the small rooms through slits in the wooden shutters.",
+      "start_ms": 56983,
+      "end_ms": 63792
+    },
+    {
+      "index": 9,
+      "text": "She had almost forgotten, most of all, the silence.",
+      "start_ms": 63792,
+      "end_ms": 67229
+    },
+    {
+      "index": 10,
+      "text": "Merzouga was quiet in a way that Meknes never was.",
+      "start_ms": 67229,
+      "end_ms": 70667
+    },
+    {
+      "index": 11,
+      "text": "On her second morning, Sidi took Nadia to meet the camel.",
+      "start_ms": 70667,
+      "end_ms": 74501
+    },
+    {
+      "index": 12,
+      "text": "His name was Farouk.",
+      "start_ms": 74501,
+      "end_ms": 75889
+    },
+    {
+      "index": 13,
+      "text": "He was old — twenty-two years old, which Sidi said was very old for a working camel — and he had been Sidi's camel for eighteen of those years.",
+      "start_ms": 75889,
+      "end_ms": 85408
+    },
+    {
+      "index": 14,
+      "text": "Farouk lived in a small stone corral behind Sidi's house.",
+      "start_ms": 85408,
+      "end_ms": 89242
+    },
+    {
+      "index": 15,
+      "text": "He was tan and huge and had big soft eyes and a mouth that always seemed to be chewing something.",
+      "start_ms": 89242,
+      "end_ms": 95720
+    },
+    {
+      "index": 16,
+      "text": "Sidi patted his neck and Farouk lowered his enormous head to be scratched between the ears.",
+      "start_ms": 95720,
+      "end_ms": 101736
+    },
+    {
+      "index": 17,
+      "text": "\"Farouk knows the desert better than I do,\" Sidi said.",
+      "start_ms": 101736,
+      "end_ms": 105316
+    },
+    {
+      "index": 18,
+      "text": "He said this in the very serious way he said everything.",
+      "start_ms": 105316,
+      "end_ms": 109027
+    },
+    {
+      "index": 19,
+      "text": "\"He has been out there a thousand times.",
+      "start_ms": 109027,
+      "end_ms": 111696
+    },
+    {
+      "index": 20,
+      "text": "If we get lost, we trust him.",
+      "start_ms": 111696,
+      "end_ms": 113649
+    },
+    {
+      "index": 21,
+      "text": "That is a rule.",
+      "start_ms": 113649,
+      "end_ms": 114691
+    },
+    {
+      "index": 22,
+      "text": "Do not forget it.",
+      "start_ms": 114691,
+      "end_ms": 115863
+    },
+    {
+      "index": 23,
+      "text": "If we are ever in the desert and I say — trust the camel — then you do exactly what he does.",
+      "start_ms": 115863,
+      "end_ms": 121917
+    },
+    {
+      "index": 24,
+      "text": "Walk where he walks.",
+      "start_ms": 121917,
+      "end_ms": 123284
+    },
+    {
+      "index": 25,
+      "text": "Do not go in any other direction.",
+      "start_ms": 123284,
+      "end_ms": 125497
+    },
+    {
+      "index": 26,
+      "text": "Do you understand.\" Nadia nodded.",
+      "start_ms": 125497,
+      "end_ms": 127711
+    },
+    {
+      "index": 27,
+      "text": "She did not think she would ever be in a situation where she needed to remember this.",
+      "start_ms": 127711,
+      "end_ms": 133309
+    },
+    {
+      "index": 28,
+      "text": "But she nodded.",
+      "start_ms": 133309,
+      "end_ms": 134416
+    },
+    {
+      "index": 29,
+      "text": "Sidi was one of the last men in the village who still knew the old wells.",
+      "start_ms": 134416,
+      "end_ms": 139233
+    },
+    {
+      "index": 30,
+      "text": "The dunes of the Erg Chebbi covered maybe fifty square kilometers, and in them, hidden and long forgotten by most people, were maybe twenty small wells — dug hundreds of years ago by nomads, kept in secret.",
+      "start_ms": 139233,
+      "end_ms": 152709
+    },
+    {
+      "index": 31,
+      "text": "Sidi's father had taught him where they were, and his father before that, going back many generations.",
+      "start_ms": 152709,
+      "end_ms": 159414
+    },
+    {
+      "index": 32,
+      "text": "The wells were mostly not used anymore — the village had a big new well of its own that had been drilled with modern equipment.",
+      "start_ms": 159414,
+      "end_ms": 167747
+    },
+    {
+      "index": 33,
+      "text": "But Sidi still visited the old ones.",
+      "start_ms": 167747,
+      "end_ms": 170155
+    },
+    {
+      "index": 34,
+      "text": "He said they were his responsibility.",
+      "start_ms": 170155,
+      "end_ms": 172694
+    },
+    {
+      "index": 35,
+      "text": "\"Every few weeks I go and clean one,\" he told Nadia.",
+      "start_ms": 172694,
+      "end_ms": 176144
+    },
+    {
+      "index": 36,
+      "text": "\"I take a bucket, I take a small brush, I take a piece of cloth.",
+      "start_ms": 176144,
+      "end_ms": 180376
+    },
+    {
+      "index": 37,
+      "text": "I clean out the sand and I make sure the water is still good.",
+      "start_ms": 180376,
+      "end_ms": 184412
+    },
+    {
+      "index": 38,
+      "text": "It is a small work but it keeps them alive.",
+      "start_ms": 184412,
+      "end_ms": 187276
+    },
+    {
+      "index": 39,
+      "text": "If nobody remembers where they are, and if they fill in with sand, they are gone forever.",
+      "start_ms": 187276,
+      "end_ms": 193135
+    },
+    {
+      "index": 40,
+      "text": "And someday, someday if the modern well fails, this village will need them again.",
+      "start_ms": 193135,
+      "end_ms": 198473
+    },
+    {
+      "index": 41,
+      "text": "So I keep them.\"",
+      "start_ms": 198473,
+      "end_ms": 199645
+    },
+    {
+      "index": 42,
+      "text": "\"How many people know where they are,\" Nadia asked.",
+      "start_ms": 199645,
+      "end_ms": 203030
+    },
+    {
+      "index": 43,
+      "text": "Sidi held up one hand.",
+      "start_ms": 203030,
+      "end_ms": 204528
+    },
+    {
+      "index": 44,
+      "text": "Then he lowered a finger.",
+      "start_ms": 204528,
+      "end_ms": 206220
+    },
+    {
+      "index": 45,
+      "text": "\"Four,\" he said.",
+      "start_ms": 206220,
+      "end_ms": 207327
+    },
+    {
+      "index": 46,
+      "text": "\"Me.",
+      "start_ms": 207327,
+      "end_ms": 207652
+    },
+    {
+      "index": 47,
+      "text": "My older brother in Rissani.",
+      "start_ms": 207652,
+      "end_ms": 209540
+    },
+    {
+      "index": 48,
+      "text": "Two younger men in the village that I have been teaching.",
+      "start_ms": 209540,
+      "end_ms": 213316
+    },
+    {
+      "index": 49,
+      "text": "That is all.",
+      "start_ms": 213316,
+      "end_ms": 214162
+    },
+    {
+      "index": 50,
+      "text": "When we die — well.",
+      "start_ms": 214162,
+      "end_ms": 215464
+    },
+    {
+      "index": 51,
+      "text": "We do not want them to die with us.",
+      "start_ms": 215464,
+      "end_ms": 217808
+    },
+    {
+      "index": 52,
+      "text": "That is why we teach.\"",
+      "start_ms": 217808,
+      "end_ms": 219240
+    },
+    {
+      "index": 53,
+      "text": "\"Nadia,\" Sidi said, on the third day.",
+      "start_ms": 219240,
+      "end_ms": 221594
+    },
+    {
+      "index": 54,
+      "text": "\"I want to take you to one.",
+      "start_ms": 221594,
+      "end_ms": 223328
+    },
+    {
+      "index": 55,
+      "text": "Tomorrow.",
+      "start_ms": 223328,
+      "end_ms": 223947
+    },
+    {
+      "index": 56,
+      "text": "It is far.",
+      "start_ms": 223947,
+      "end_ms": 224629
+    },
+    {
+      "index": 57,
+      "text": "Six hours by camel, out and back.",
+      "start_ms": 224629,
+      "end_ms": 226735
+    },
+    {
+      "index": 58,
+      "text": "I want you to see.",
+      "start_ms": 226735,
+      "end_ms": 227911
+    },
+    {
+      "index": 59,
+      "text": "Not so you can be one of the four.",
+      "start_ms": 227911,
+      "end_ms": 230079
+    },
+    {
+      "index": 60,
+      "text": "That is not — that is not how it works.",
+      "start_ms": 230079,
+      "end_ms": 232557
+    },
+    {
+      "index": 61,
+      "text": "But so you can know they exist.",
+      "start_ms": 232557,
+      "end_ms": 234539
+    },
+    {
+      "index": 62,
+      "text": "So when you are grown up, and if the village needs to know that some old man in a book once knew where they were, you can say — yes, my grandfather knew them.",
+      "start_ms": 234539,
+      "end_ms": 244387
+    },
+    {
+      "index": 63,
+      "text": "You can tell people.",
+      "start_ms": 244387,
+      "end_ms": 245688
+    },
+    {
+      "index": 64,
+      "text": "Even if you do not have the map yourself.\"",
+      "start_ms": 245688,
+      "end_ms": 248413
+    },
+    {
+      "index": 65,
+      "text": "Nadia said yes.",
+      "start_ms": 248413,
+      "end_ms": 249404
+    },
+    {
+      "index": 66,
+      "text": "That evening Sidi prepared.",
+      "start_ms": 249404,
+      "end_ms": 251138
+    },
+    {
+      "index": 67,
+      "text": "He filled two big goatskins of water.",
+      "start_ms": 251138,
+      "end_ms": 253492
+    },
+    {
+      "index": 68,
+      "text": "He packed dates and small round pieces of dry flatbread.",
+      "start_ms": 253492,
+      "end_ms": 257022
+    },
+    {
+      "index": 69,
+      "text": "He got out an old wool blanket in case they had to rest in the sun.",
+      "start_ms": 257022,
+      "end_ms": 261234
+    },
+    {
+      "index": 70,
+      "text": "He checked Farouk's saddle.",
+      "start_ms": 261234,
+      "end_ms": 262968
+    },
+    {
+      "index": 71,
+      "text": "He rolled up a small piece of paper that had, on it, a hand-drawn map of the dunes.",
+      "start_ms": 262968,
+      "end_ms": 268171
+    },
+    {
+      "index": 72,
+      "text": "It had eleven small crosses on it.",
+      "start_ms": 268171,
+      "end_ms": 270339
+    },
+    {
+      "index": 73,
+      "text": "He tapped one of them.",
+      "start_ms": 270339,
+      "end_ms": 271764
+    },
+    {
+      "index": 74,
+      "text": "\"That one,\" he said.",
+      "start_ms": 271764,
+      "end_ms": 273064
+    },
+    {
+      "index": 75,
+      "text": "\"That is where we go tomorrow.",
+      "start_ms": 273064,
+      "end_ms": 274984
+    },
+    {
+      "index": 76,
+      "text": "Its name is Bir Amina.",
+      "start_ms": 274984,
+      "end_ms": 276409
+    },
+    {
+      "index": 77,
+      "text": "The well of Amina.",
+      "start_ms": 276409,
+      "end_ms": 277586
+    },
+    {
+      "index": 78,
+      "text": "Nobody knows anymore who Amina was.",
+      "start_ms": 277586,
+      "end_ms": 279816
+    },
+    {
+      "index": 79,
+      "text": "But she is in the name.\"",
+      "start_ms": 279816,
+      "end_ms": 281426
+    },
+    {
+      "index": 80,
+      "text": "They left before dawn.",
+      "start_ms": 281426,
+      "end_ms": 282851
+    },
+    {
+      "index": 81,
+      "text": "It was cold — much colder than Nadia had expected.",
+      "start_ms": 282851,
+      "end_ms": 286009
+    },
+    {
+      "index": 82,
+      "text": "She had put on all her layers, and Sidi had wrapped a long piece of indigo cloth around her head and over her nose, leaving only her eyes visible.",
+      "start_ms": 286009,
+      "end_ms": 295114
+    },
+    {
+      "index": 83,
+      "text": "He was dressed the same.",
+      "start_ms": 295114,
+      "end_ms": 296663
+    },
+    {
+      "index": 84,
+      "text": "Farouk carried the water and the food and Nadia.",
+      "start_ms": 296663,
+      "end_ms": 299698
+    },
+    {
+      "index": 85,
+      "text": "Sidi walked ahead.",
+      "start_ms": 299698,
+      "end_ms": 300875
+    },
+    {
+      "index": 86,
+      "text": "He said walking kept his legs strong, and that he could always ride if he needed to.",
+      "start_ms": 300875,
+      "end_ms": 306139
+    },
+    {
+      "index": 87,
+      "text": "The sky slowly went pink, then orange, then a very pale blue.",
+      "start_ms": 306139,
+      "end_ms": 309980
+    },
+    {
+      "index": 88,
+      "text": "They went up into the dunes.",
+      "start_ms": 309980,
+      "end_ms": 311776
+    },
+    {
+      "index": 89,
+      "text": "Behind them the village grew smaller.",
+      "start_ms": 311776,
+      "end_ms": 314129
+    },
+    {
+      "index": 90,
+      "text": "Ahead of them was only sand — one dune after another, each one exactly like the last, and yet each one somehow different.",
+      "start_ms": 314129,
+      "end_ms": 321624
+    }
+  ]
+}

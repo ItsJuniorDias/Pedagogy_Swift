@@ -1,0 +1,709 @@
+{
+  "story_id": "flower-clock",
+  "chapter": 3,
+  "total_duration_ms": 350280,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Grandpa read her notes twice.",
+      "start_ms": 1640,
+      "end_ms": 3532
+    },
+    {
+      "index": 1,
+      "text": "He nodded slowly.",
+      "start_ms": 3532,
+      "end_ms": 4667
+    },
+    {
+      "index": 2,
+      "text": "He said, \"That is impressive record-keeping, Fern.",
+      "start_ms": 4667,
+      "end_ms": 7884
+    },
+    {
+      "index": 3,
+      "text": "That is real research.\" Then he got up and went to his big botanical reference book.",
+      "start_ms": 7884,
+      "end_ms": 13245
+    },
+    {
+      "index": 4,
+      "text": "He flipped through it.",
+      "start_ms": 13245,
+      "end_ms": 14696
+    },
+    {
+      "index": 5,
+      "text": "He found the page.",
+      "start_ms": 14696,
+      "end_ms": 15894
+    },
+    {
+      "index": 6,
+      "text": "He turned the book so Fern could see.",
+      "start_ms": 15894,
+      "end_ms": 18291
+    },
+    {
+      "index": 7,
+      "text": "There was a small drawing of the plant she had been watching.",
+      "start_ms": 18291,
+      "end_ms": 22201
+    },
+    {
+      "index": 8,
+      "text": "Beside it, the name: Field Madder.",
+      "start_ms": 22201,
+      "end_ms": 24408
+    },
+    {
+      "index": 9,
+      "text": "Sherardia arvensis.",
+      "start_ms": 24408,
+      "end_ms": 25670
+    },
+    {
+      "index": 10,
+      "text": "A small ancient British plant.",
+      "start_ms": 25670,
+      "end_ms": 27625
+    },
+    {
+      "index": 11,
+      "text": "Native.",
+      "start_ms": 27625,
+      "end_ms": 28130
+    },
+    {
+      "index": 12,
+      "text": "Grows in old field margins and wall crevices.",
+      "start_ms": 28130,
+      "end_ms": 31094
+    },
+    {
+      "index": 13,
+      "text": "Grandpa read the entry.",
+      "start_ms": 31094,
+      "end_ms": 32608
+    },
+    {
+      "index": 14,
+      "text": "He said, in a quiet surprised voice, \"Oh, Fern.",
+      "start_ms": 32608,
+      "end_ms": 35635
+    },
+    {
+      "index": 15,
+      "text": "Look at this.",
+      "start_ms": 35635,
+      "end_ms": 36518
+    },
+    {
+      "index": 16,
+      "text": "Right here.",
+      "start_ms": 36518,
+      "end_ms": 37275
+    },
+    {
+      "index": 17,
+      "text": "It says: opens reliably in mid-afternoon in northern latitudes, generally around five p.m.",
+      "start_ms": 37275,
+      "end_ms": 43014
+    },
+    {
+      "index": 18,
+      "text": "in July and August.",
+      "start_ms": 43014,
+      "end_ms": 44276
+    },
+    {
+      "index": 19,
+      "text": "Closes at dusk.\" He looked up at her.",
+      "start_ms": 44276,
+      "end_ms": 46673
+    },
+    {
+      "index": 20,
+      "text": "\"You found it.",
+      "start_ms": 46673,
+      "end_ms": 47619
+    },
+    {
+      "index": 21,
+      "text": "You found the flower for the clock.",
+      "start_ms": 47619,
+      "end_ms": 49889
+    },
+    {
+      "index": 22,
+      "text": "Along the back wall the whole time.",
+      "start_ms": 49889,
+      "end_ms": 52160
+    },
+    {
+      "index": 23,
+      "text": "It has been growing there for maybe a hundred years.",
+      "start_ms": 52160,
+      "end_ms": 55503
+    },
+    {
+      "index": 24,
+      "text": "And no one ever noticed it opened at five.\"",
+      "start_ms": 55503,
+      "end_ms": 58341
+    },
+    {
+      "index": 25,
+      "text": "They transplanted six clumps of the plant into the five o'clock section that afternoon.",
+      "start_ms": 58341,
+      "end_ms": 63891
+    },
+    {
+      "index": 26,
+      "text": "Grandpa worked carefully.",
+      "start_ms": 63891,
+      "end_ms": 65531
+    },
+    {
+      "index": 27,
+      "text": "He said, \"They are small.",
+      "start_ms": 65531,
+      "end_ms": 67171
+    },
+    {
+      "index": 28,
+      "text": "They will not look like much for the rest of this summer.",
+      "start_ms": 67171,
+      "end_ms": 70829
+    },
+    {
+      "index": 29,
+      "text": "Next summer they will fill in.",
+      "start_ms": 70829,
+      "end_ms": 72784
+    },
+    {
+      "index": 30,
+      "text": "Small flowers.",
+      "start_ms": 72784,
+      "end_ms": 73730
+    },
+    {
+      "index": 31,
+      "text": "But that is all right.",
+      "start_ms": 73730,
+      "end_ms": 75181
+    },
+    {
+      "index": 32,
+      "text": "Not every hour needs to be a big flower.",
+      "start_ms": 75181,
+      "end_ms": 77767
+    },
+    {
+      "index": 33,
+      "text": "It is the reliability that matters.",
+      "start_ms": 77767,
+      "end_ms": 80037
+    },
+    {
+      "index": 34,
+      "text": "And you found a plant that was already living here.",
+      "start_ms": 80037,
+      "end_ms": 83317
+    },
+    {
+      "index": 35,
+      "text": "That is very good.",
+      "start_ms": 83317,
+      "end_ms": 84515
+    },
+    {
+      "index": 36,
+      "text": "That means we did not have to change the soil.",
+      "start_ms": 84515,
+      "end_ms": 87480
+    },
+    {
+      "index": 37,
+      "text": "It will be happy here.\"",
+      "start_ms": 87480,
+      "end_ms": 89056
+    },
+    {
+      "index": 38,
+      "text": "When they had them planted, they stood back and looked at the clock.",
+      "start_ms": 89056,
+      "end_ms": 93408
+    },
+    {
+      "index": 39,
+      "text": "From a distance you could barely see the little field madder plants — they were just green threads among the fresh brown earth.",
+      "start_ms": 93408,
+      "end_ms": 101481
+    },
+    {
+      "index": 40,
+      "text": "Grandpa put his arm around Fern's shoulders.",
+      "start_ms": 101481,
+      "end_ms": 104319
+    },
+    {
+      "index": 41,
+      "text": "He said, \"The clock is complete now.",
+      "start_ms": 104319,
+      "end_ms": 106653
+    },
+    {
+      "index": 42,
+      "text": "All twelve hours.",
+      "start_ms": 106653,
+      "end_ms": 107788
+    },
+    {
+      "index": 43,
+      "text": "It will be your clock too, from now on.",
+      "start_ms": 107788,
+      "end_ms": 110311
+    },
+    {
+      "index": 44,
+      "text": "You put the last one in.\"",
+      "start_ms": 110311,
+      "end_ms": 111888
+    },
+    {
+      "index": 45,
+      "text": "\"Grandpa,\" said Fern, still looking at the clock.",
+      "start_ms": 111888,
+      "end_ms": 114822
+    },
+    {
+      "index": 46,
+      "text": "\"Was there really no other flower that would have worked.",
+      "start_ms": 114822,
+      "end_ms": 118226
+    },
+    {
+      "index": 47,
+      "text": "In all your years.",
+      "start_ms": 118226,
+      "end_ms": 119341
+    },
+    {
+      "index": 48,
+      "text": "You never thought of field madder before?\" Grandpa was quiet for a moment.",
+      "start_ms": 119341,
+      "end_ms": 123742
+    },
+    {
+      "index": 49,
+      "text": "Then he said, \"I have known field madder my whole life.",
+      "start_ms": 123742,
+      "end_ms": 127028
+    },
+    {
+      "index": 50,
+      "text": "I could have looked it up years ago.",
+      "start_ms": 127028,
+      "end_ms": 129199
+    },
+    {
+      "index": 51,
+      "text": "I did look it up years ago, actually.",
+      "start_ms": 129199,
+      "end_ms": 131429
+    },
+    {
+      "index": 52,
+      "text": "I found it in the book.",
+      "start_ms": 131429,
+      "end_ms": 132837
+    },
+    {
+      "index": 53,
+      "text": "And I remember thinking — no, that plant is too small.",
+      "start_ms": 132837,
+      "end_ms": 136065
+    },
+    {
+      "index": 54,
+      "text": "Too ordinary.",
+      "start_ms": 136065,
+      "end_ms": 136887
+    },
+    {
+      "index": 55,
+      "text": "It has no color.",
+      "start_ms": 136887,
+      "end_ms": 137884
+    },
+    {
+      "index": 56,
+      "text": "It would ruin the clock.\" He looked at Fern.",
+      "start_ms": 137884,
+      "end_ms": 140525
+    },
+    {
+      "index": 57,
+      "text": "\"I was wrong.",
+      "start_ms": 140525,
+      "end_ms": 141346
+    },
+    {
+      "index": 58,
+      "text": "It is exactly right.",
+      "start_ms": 141346,
+      "end_ms": 142579
+    },
+    {
+      "index": 59,
+      "text": "But I could not see it.",
+      "start_ms": 142579,
+      "end_ms": 143987
+    },
+    {
+      "index": 60,
+      "text": "That is why I asked you to look.",
+      "start_ms": 143987,
+      "end_ms": 145924
+    },
+    {
+      "index": 61,
+      "text": "I needed someone who did not know what the clock was supposed to be.",
+      "start_ms": 145924,
+      "end_ms": 149973
+    },
+    {
+      "index": 62,
+      "text": "Someone who could look at a small ordinary plant and see that it was doing something extraordinary.\"",
+      "start_ms": 149973,
+      "end_ms": 155958
+    },
+    {
+      "index": 63,
+      "text": "Fern did not know what to say to this.",
+      "start_ms": 155958,
+      "end_ms": 158247
+    },
+    {
+      "index": 64,
+      "text": "She had not thought of herself that way.",
+      "start_ms": 158247,
+      "end_ms": 160653
+    },
+    {
+      "index": 65,
+      "text": "She thought about all the times she had walked past the back wall of the garden and not noticed the plant.",
+      "start_ms": 160653,
+      "end_ms": 166932
+    },
+    {
+      "index": 66,
+      "text": "It had been there the whole time.",
+      "start_ms": 166932,
+      "end_ms": 168927
+    },
+    {
+      "index": 67,
+      "text": "It had been opening at five o'clock every summer of Fern's whole life, and every summer of Grandpa's whole life, and probably every summer of Grandpa's mother's whole life, and no one had ever really watched it.",
+      "start_ms": 168927,
+      "end_ms": 181367
+    },
+    {
+      "index": 68,
+      "text": "Until she did.",
+      "start_ms": 181367,
+      "end_ms": 182248
+    },
+    {
+      "index": 69,
+      "text": "Because Grandpa had asked her to look.",
+      "start_ms": 182248,
+      "end_ms": 184595
+    },
+    {
+      "index": 70,
+      "text": "They watched the clock together at five o'clock the next day, with tea.",
+      "start_ms": 184595,
+      "end_ms": 188820
+    },
+    {
+      "index": 71,
+      "text": "And the day after.",
+      "start_ms": 188820,
+      "end_ms": 189935
+    },
+    {
+      "index": 72,
+      "text": "And every afternoon at five for the rest of the summer.",
+      "start_ms": 189935,
+      "end_ms": 193221
+    },
+    {
+      "index": 73,
+      "text": "The little transplanted field madder was, as Grandpa had said, small.",
+      "start_ms": 193221,
+      "end_ms": 197329
+    },
+    {
+      "index": 74,
+      "text": "It did not look like much.",
+      "start_ms": 197329,
+      "end_ms": 198913
+    },
+    {
+      "index": 75,
+      "text": "But at exactly five past five, small pale lilac flowers began to open on it.",
+      "start_ms": 198913,
+      "end_ms": 203432
+    },
+    {
+      "index": 76,
+      "text": "Small, honest, reliable.",
+      "start_ms": 203432,
+      "end_ms": 204899
+    },
+    {
+      "index": 77,
+      "text": "And Fern would kneel down and look at them and touch one of the leaves gently, and Grandpa would stand a little way off with his tea and not say anything.",
+      "start_ms": 204899,
+      "end_ms": 213936
+    },
+    {
+      "index": 78,
+      "text": "It became her hour.",
+      "start_ms": 213936,
+      "end_ms": 215171
+    },
+    {
+      "index": 79,
+      "text": "She realized this slowly.",
+      "start_ms": 215171,
+      "end_ms": 216776
+    },
+    {
+      "index": 80,
+      "text": "Five o'clock had always been a random time in her life before — the time when she was maybe walking home from school, or eating a snack, or watching television.",
+      "start_ms": 216776,
+      "end_ms": 226717
+    },
+    {
+      "index": 81,
+      "text": "Now, at five, wherever she was in the world, she thought about the flowers in the clock.",
+      "start_ms": 226717,
+      "end_ms": 232212
+    },
+    {
+      "index": 82,
+      "text": "She thought about them at five in the winter when she was at school in Edinburgh, and she knew they would not be open because it was winter, and that was all right.",
+      "start_ms": 232212,
+      "end_ms": 242400
+    },
+    {
+      "index": 83,
+      "text": "She thought about them at five in April when she was on a class trip, and she knew they were probably starting to send up leaves back at the garden.",
+      "start_ms": 242400,
+      "end_ms": 251600
+    },
+    {
+      "index": 84,
+      "text": "The garden was in her life now in a different way.",
+      "start_ms": 251600,
+      "end_ms": 254749
+    },
+    {
+      "index": 85,
+      "text": "It was a place that was doing something at every hour, whether she was there or not.",
+      "start_ms": 254749,
+      "end_ms": 260059
+    },
+    {
+      "index": 86,
+      "text": "On the last day of Fern's summer visit, Grandpa walked her to the garden gate.",
+      "start_ms": 260059,
+      "end_ms": 264937
+    },
+    {
+      "index": 87,
+      "text": "Her suitcase was beside her.",
+      "start_ms": 264937,
+      "end_ms": 266727
+    },
+    {
+      "index": 88,
+      "text": "Her father was coming to pick her up from the village.",
+      "start_ms": 266727,
+      "end_ms": 270123
+    },
+    {
+      "index": 89,
+      "text": "Grandpa handed her a small sealed envelope.",
+      "start_ms": 270123,
+      "end_ms": 272840
+    },
+    {
+      "index": 90,
+      "text": "\"Do not open this until you are home,\" he said.",
+      "start_ms": 272840,
+      "end_ms": 275804
+    },
+    {
+      "index": 91,
+      "text": "\"It is a small gift.",
+      "start_ms": 275804,
+      "end_ms": 277100
+    },
+    {
+      "index": 92,
+      "text": "From the garden.\" Fern took it.",
+      "start_ms": 277100,
+      "end_ms": 279076
+    },
+    {
+      "index": 93,
+      "text": "She hugged him hard.",
+      "start_ms": 279076,
+      "end_ms": 280373
+    },
+    {
+      "index": 94,
+      "text": "She looked at the flower clock one more time.",
+      "start_ms": 280373,
+      "end_ms": 283213
+    },
+    {
+      "index": 95,
+      "text": "It was almost noon; the pot marigold was fully open, bright orange, at the top of the circle.",
+      "start_ms": 283213,
+      "end_ms": 289017
+    },
+    {
+      "index": 96,
+      "text": "She waved.",
+      "start_ms": 289017,
+      "end_ms": 289696
+    },
+    {
+      "index": 97,
+      "text": "She walked out through the gate.",
+      "start_ms": 289696,
+      "end_ms": 291672
+    },
+    {
+      "index": 98,
+      "text": "In her bedroom at home, that night, she opened the envelope.",
+      "start_ms": 291672,
+      "end_ms": 295316
+    },
+    {
+      "index": 99,
+      "text": "Inside were seven very small dry seeds, wrapped in a small square of tissue paper.",
+      "start_ms": 295316,
+      "end_ms": 300275
+    },
+    {
+      "index": 100,
+      "text": "A note said: Field madder.",
+      "start_ms": 300275,
+      "end_ms": 301888
+    },
+    {
+      "index": 101,
+      "text": "Ancient British wildflower.",
+      "start_ms": 301888,
+      "end_ms": 303561
+    },
+    {
+      "index": 102,
+      "text": "Opens at five p.m.",
+      "start_ms": 303561,
+      "end_ms": 304696
+    },
+    {
+      "index": 103,
+      "text": "Will grow anywhere that is old enough to accept it.",
+      "start_ms": 304696,
+      "end_ms": 307803
+    },
+    {
+      "index": 104,
+      "text": "Plant a small patch by the wall of your school.",
+      "start_ms": 307803,
+      "end_ms": 310670
+    },
+    {
+      "index": 105,
+      "text": "Nobody will notice.",
+      "start_ms": 310670,
+      "end_ms": 311865
+    },
+    {
+      "index": 106,
+      "text": "But at five o'clock every summer afternoon, it will open.",
+      "start_ms": 311865,
+      "end_ms": 315330
+    },
+    {
+      "index": 107,
+      "text": "That is a secret you can keep.",
+      "start_ms": 315330,
+      "end_ms": 317182
+    },
+    {
+      "index": 108,
+      "text": "— Grandpa.",
+      "start_ms": 317182,
+      "end_ms": 317839
+    },
+    {
+      "index": 109,
+      "text": "Fern folded the note back up.",
+      "start_ms": 317839,
+      "end_ms": 319632
+    },
+    {
+      "index": 110,
+      "text": "She kept the seeds in a small envelope in her top drawer.",
+      "start_ms": 319632,
+      "end_ms": 323097
+    },
+    {
+      "index": 111,
+      "text": "In the spring, when her father took her back to school after the Easter break, she planted them in a small crack at the base of the old stone wall of her school garden.",
+      "start_ms": 323097,
+      "end_ms": 333193
+    },
+    {
+      "index": 112,
+      "text": "She did not tell anyone.",
+      "start_ms": 333193,
+      "end_ms": 334687
+    },
+    {
+      "index": 113,
+      "text": "Every summer after that, she checked at five o'clock, when she was still at school before the summer holidays.",
+      "start_ms": 334687,
+      "end_ms": 341319
+    },
+    {
+      "index": 114,
+      "text": "And every summer, the small pale lilac flowers opened.",
+      "start_ms": 341319,
+      "end_ms": 344604
+    },
+    {
+      "index": 115,
+      "text": "And she watched them.",
+      "start_ms": 344604,
+      "end_ms": 345919
+    },
+    {
+      "index": 116,
+      "text": "And she thought about the man who had grown a clock out of the whole day.",
+      "start_ms": 345919,
+      "end_ms": 350280
+    }
+  ]
+}

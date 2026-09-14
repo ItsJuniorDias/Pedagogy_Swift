@@ -1,0 +1,559 @@
+{
+  "story_id": "observatory-of-birds",
+  "chapter": 1,
+  "total_duration_ms": 315312,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The ringing station where Tamar's father worked was in a shallow valley in the Negev desert, three hours south of Tel Aviv, on a small dirt road that ended at the door.",
+      "start_ms": 2013,
+      "end_ms": 12321
+    },
+    {
+      "index": 1,
+      "text": "It was really just one long building — a stone base with a corrugated tin roof, with a kitchen at one end and a lab at the other and a couple of small bunks in between.",
+      "start_ms": 12321,
+      "end_ms": 22628
+    },
+    {
+      "index": 2,
+      "text": "Around it, in every direction, was pale bone-colored desert with low grey hills at the edges of the sky.",
+      "start_ms": 22628,
+      "end_ms": 29033
+    },
+    {
+      "index": 3,
+      "text": "There was almost nothing there.",
+      "start_ms": 29033,
+      "end_ms": 30984
+    },
+    {
+      "index": 4,
+      "text": "That was the point.",
+      "start_ms": 30984,
+      "end_ms": 32204
+    },
+    {
+      "index": 5,
+      "text": "It was almost nothing there that made the birds visible.",
+      "start_ms": 32204,
+      "end_ms": 35742
+    },
+    {
+      "index": 6,
+      "text": "Every autumn, when the northern hemisphere started to cool, hundreds of millions of small birds — warblers and flycatchers and shrikes and every kind of songbird — flew from Europe and western Asia south into Africa for the winter.",
+      "start_ms": 35742,
+      "end_ms": 49892
+    },
+    {
+      "index": 7,
+      "text": "The route took most of them across Israel.",
+      "start_ms": 49892,
+      "end_ms": 52515
+    },
+    {
+      "index": 8,
+      "text": "The Negev was one of the last stopping places they had before the Sinai desert and then the long crossing of the Red Sea.",
+      "start_ms": 52515,
+      "end_ms": 59956
+    },
+    {
+      "index": 9,
+      "text": "So they stopped, and rested, and ate, in the wadi behind the station.",
+      "start_ms": 59956,
+      "end_ms": 64225
+    },
+    {
+      "index": 10,
+      "text": "And Tamar's father and his small team put up mist nets — very fine soft nets, hard to see even up close — and gently caught a tiny handful of the birds each day, and put a small silver band on one leg, and let them go.",
+      "start_ms": 64225,
+      "end_ms": 77644
+    },
+    {
+      "index": 11,
+      "text": "Tamar had visited the station many times, from the time she was small.",
+      "start_ms": 77644,
+      "end_ms": 81974
+    },
+    {
+      "index": 12,
+      "text": "But this year was different.",
+      "start_ms": 81974,
+      "end_ms": 83743
+    },
+    {
+      "index": 13,
+      "text": "This year she was eleven, and her father had said she could stay for the last two weeks of the autumn ringing season and actually help.",
+      "start_ms": 83743,
+      "end_ms": 92038
+    },
+    {
+      "index": 14,
+      "text": "Not just watch — actually help.",
+      "start_ms": 92038,
+      "end_ms": 93990
+    },
+    {
+      "index": 15,
+      "text": "Empty the nets.",
+      "start_ms": 93990,
+      "end_ms": 94966
+    },
+    {
+      "index": 16,
+      "text": "Hold the birds.",
+      "start_ms": 94966,
+      "end_ms": 95941
+    },
+    {
+      "index": 17,
+      "text": "Learn to identify them.",
+      "start_ms": 95941,
+      "end_ms": 97405
+    },
+    {
+      "index": 18,
+      "text": "She had wanted this for as long as she could remember.",
+      "start_ms": 97405,
+      "end_ms": 100760
+    },
+    {
+      "index": 19,
+      "text": "She had gone out into the field with the assistants the previous summer, but only to carry things.",
+      "start_ms": 100760,
+      "end_ms": 106798
+    },
+    {
+      "index": 20,
+      "text": "This year she got to work.",
+      "start_ms": 106798,
+      "end_ms": 108384
+    },
+    {
+      "index": 21,
+      "text": "Her father was a serious quiet man.",
+      "start_ms": 108384,
+      "end_ms": 110935
+    },
+    {
+      "index": 22,
+      "text": "Around her mother, he sometimes joked.",
+      "start_ms": 110935,
+      "end_ms": 113699
+    },
+    {
+      "index": 23,
+      "text": "In the field, he did not joke.",
+      "start_ms": 113699,
+      "end_ms": 115896
+    },
+    {
+      "index": 24,
+      "text": "His whole face and voice changed when he was working.",
+      "start_ms": 115896,
+      "end_ms": 119723
+    },
+    {
+      "index": 25,
+      "text": "He was not less kind, but he was — Tamar had noticed — completely focused, in a way that felt almost like a different person.",
+      "start_ms": 119723,
+      "end_ms": 128653
+    },
+    {
+      "index": 26,
+      "text": "On the first morning at the station, over coffee at dawn, before they went out, he said, \"You will be careful.",
+      "start_ms": 128653,
+      "end_ms": 136520
+    },
+    {
+      "index": 27,
+      "text": "You will do exactly what I show you.",
+      "start_ms": 136520,
+      "end_ms": 139142
+    },
+    {
+      "index": 28,
+      "text": "If I say stop, you stop.",
+      "start_ms": 139142,
+      "end_ms": 140913
+    },
+    {
+      "index": 29,
+      "text": "A wild bird in your hand is a very fragile thing.",
+      "start_ms": 140913,
+      "end_ms": 144457
+    },
+    {
+      "index": 30,
+      "text": "You cannot practice on them.",
+      "start_ms": 144457,
+      "end_ms": 146512
+    },
+    {
+      "index": 31,
+      "text": "You have to be right the first time.",
+      "start_ms": 146512,
+      "end_ms": 149134
+    },
+    {
+      "index": 32,
+      "text": "Are you ready.\" Tamar nodded.",
+      "start_ms": 149134,
+      "end_ms": 151261
+    },
+    {
+      "index": 33,
+      "text": "She was ready.",
+      "start_ms": 151261,
+      "end_ms": 152394
+    },
+    {
+      "index": 34,
+      "text": "They walked out to the nets.",
+      "start_ms": 152394,
+      "end_ms": 154450
+    },
+    {
+      "index": 35,
+      "text": "It was still nearly dark.",
+      "start_ms": 154450,
+      "end_ms": 156292
+    },
+    {
+      "index": 36,
+      "text": "There were five nets, each strung between two tall poles about four meters apart.",
+      "start_ms": 156292,
+      "end_ms": 162104
+    },
+    {
+      "index": 37,
+      "text": "The nets were made of very fine soft mesh, and in the pale dawn light they were almost invisible.",
+      "start_ms": 162104,
+      "end_ms": 169049
+    },
+    {
+      "index": 38,
+      "text": "Her father walked slowly along the line, looking.",
+      "start_ms": 169049,
+      "end_ms": 172592
+    },
+    {
+      "index": 39,
+      "text": "Tamar walked beside him.",
+      "start_ms": 172592,
+      "end_ms": 174435
+    },
+    {
+      "index": 40,
+      "text": "\"Bird,\" he said quietly, at the second net.",
+      "start_ms": 174435,
+      "end_ms": 177553
+    },
+    {
+      "index": 41,
+      "text": "Tamar looked.",
+      "start_ms": 177553,
+      "end_ms": 178546
+    },
+    {
+      "index": 42,
+      "text": "A tiny warm brown shape was caught in the middle of the mesh, hanging quietly, its little feet gripping a strand.",
+      "start_ms": 178546,
+      "end_ms": 186625
+    },
+    {
+      "index": 43,
+      "text": "Her father reached in with very careful hands.",
+      "start_ms": 186625,
+      "end_ms": 189956
+    },
+    {
+      "index": 44,
+      "text": "He worked the bird out of the net.",
+      "start_ms": 189956,
+      "end_ms": 192436
+    },
+    {
+      "index": 45,
+      "text": "It was so small — the size of a plum.",
+      "start_ms": 192436,
+      "end_ms": 195129
+    },
+    {
+      "index": 46,
+      "text": "He held it in his cupped hands.",
+      "start_ms": 195129,
+      "end_ms": 197397
+    },
+    {
+      "index": 47,
+      "text": "He turned to Tamar.",
+      "start_ms": 197397,
+      "end_ms": 198814
+    },
+    {
+      "index": 48,
+      "text": "\"Willow warbler,\" he said.",
+      "start_ms": 198814,
+      "end_ms": 200728
+    },
+    {
+      "index": 49,
+      "text": "\"See the pale legs?",
+      "start_ms": 200728,
+      "end_ms": 202145
+    },
+    {
+      "index": 50,
+      "text": "See the little eyebrow stripe?",
+      "start_ms": 202145,
+      "end_ms": 204342
+    },
+    {
+      "index": 51,
+      "text": "Come on.",
+      "start_ms": 204342,
+      "end_ms": 204980
+    },
+    {
+      "index": 52,
+      "text": "Back to the lab.\"",
+      "start_ms": 204980,
+      "end_ms": 206327
+    },
+    {
+      "index": 53,
+      "text": "In the lab, her father showed her how to hold the bird — with the head between the index and middle fingers of one hand, with the body cradled softly in the palm.",
+      "start_ms": 206327,
+      "end_ms": 217879
+    },
+    {
+      "index": 54,
+      "text": "He weighed it.",
+      "start_ms": 217879,
+      "end_ms": 218942
+    },
+    {
+      "index": 55,
+      "text": "He measured its wing.",
+      "start_ms": 218942,
+      "end_ms": 220501
+    },
+    {
+      "index": 56,
+      "text": "He noted its fat and its molt.",
+      "start_ms": 220501,
+      "end_ms": 222698
+    },
+    {
+      "index": 57,
+      "text": "Then he took a very small ring from a numbered strip and, using a special pair of pliers, he closed it gently around one thin leg.",
+      "start_ms": 222698,
+      "end_ms": 231982
+    },
+    {
+      "index": 58,
+      "text": "\"Every ring has a unique number,\" he said.",
+      "start_ms": 231982,
+      "end_ms": 235029
+    },
+    {
+      "index": 59,
+      "text": "\"If this bird is ever caught again — anywhere, by anyone — the number tells us who it is.",
+      "start_ms": 235029,
+      "end_ms": 241408
+    },
+    {
+      "index": 60,
+      "text": "Where it came from.",
+      "start_ms": 241408,
+      "end_ms": 242825
+    },
+    {
+      "index": 61,
+      "text": "Where it went.\"",
+      "start_ms": 242825,
+      "end_ms": 243888
+    },
+    {
+      "index": 62,
+      "text": "Then he handed the bird to Tamar.",
+      "start_ms": 243888,
+      "end_ms": 245815
+    },
+    {
+      "index": 63,
+      "text": "Very carefully.",
+      "start_ms": 245815,
+      "end_ms": 246722
+    },
+    {
+      "index": 64,
+      "text": "He showed her the grip.",
+      "start_ms": 246722,
+      "end_ms": 248083
+    },
+    {
+      "index": 65,
+      "text": "She held it.",
+      "start_ms": 248083,
+      "end_ms": 248820
+    },
+    {
+      "index": 66,
+      "text": "The warbler was so light that she could barely feel it.",
+      "start_ms": 248820,
+      "end_ms": 251994
+    },
+    {
+      "index": 67,
+      "text": "It was warm.",
+      "start_ms": 251994,
+      "end_ms": 252731
+    },
+    {
+      "index": 68,
+      "text": "Its heart was beating very fast against her fingers.",
+      "start_ms": 252731,
+      "end_ms": 255735
+    },
+    {
+      "index": 69,
+      "text": "It looked at her — one tiny black eye.",
+      "start_ms": 255735,
+      "end_ms": 257946
+    },
+    {
+      "index": 70,
+      "text": "\"Now,\" her father said.",
+      "start_ms": 257946,
+      "end_ms": 259307
+    },
+    {
+      "index": 71,
+      "text": "\"Go outside.",
+      "start_ms": 259307,
+      "end_ms": 260043
+    },
+    {
+      "index": 72,
+      "text": "Hold it up over your head.",
+      "start_ms": 260043,
+      "end_ms": 261574
+    },
+    {
+      "index": 73,
+      "text": "Open your fingers, don't throw it.",
+      "start_ms": 261574,
+      "end_ms": 263558
+    },
+    {
+      "index": 74,
+      "text": "Just let it go.\" So Tamar went outside.",
+      "start_ms": 263558,
+      "end_ms": 265825
+    },
+    {
+      "index": 75,
+      "text": "She held the little bird up.",
+      "start_ms": 265825,
+      "end_ms": 267469
+    },
+    {
+      "index": 76,
+      "text": "She opened her hand.",
+      "start_ms": 267469,
+      "end_ms": 268660
+    },
+    {
+      "index": 77,
+      "text": "And the bird did not fly at first — it sat on her palm for one long second, deciding, and then it burst up into the pale desert sky and was gone.",
+      "start_ms": 268660,
+      "end_ms": 276936
+    },
+    {
+      "index": 78,
+      "text": "Tamar watched it go.",
+      "start_ms": 276936,
+      "end_ms": 278126
+    },
+    {
+      "index": 79,
+      "text": "She stood there for a long moment.",
+      "start_ms": 278126,
+      "end_ms": 280110
+    },
+    {
+      "index": 80,
+      "text": "She had done this.",
+      "start_ms": 280110,
+      "end_ms": 281187
+    },
+    {
+      "index": 81,
+      "text": "She had let a wild bird fly.",
+      "start_ms": 281187,
+      "end_ms": 282888
+    },
+    {
+      "index": 82,
+      "text": "For the first four days she and her father worked the nets.",
+      "start_ms": 282888,
+      "end_ms": 286289
+    },
+    {
+      "index": 83,
+      "text": "Every morning they got up at four.",
+      "start_ms": 286289,
+      "end_ms": 288273
+    },
+    {
+      "index": 84,
+      "text": "Every morning they walked the line.",
+      "start_ms": 288273,
+      "end_ms": 290314
+    },
+    {
+      "index": 85,
+      "text": "They caught, on some days, five or six birds.",
+      "start_ms": 290314,
+      "end_ms": 292921
+    },
+    {
+      "index": 86,
+      "text": "On other days, only one or two.",
+      "start_ms": 292921,
+      "end_ms": 294735
+    },
+    {
+      "index": 87,
+      "text": "They ringed each one.",
+      "start_ms": 294735,
+      "end_ms": 295982
+    },
+    {
+      "index": 88,
+      "text": "They released each one.",
+      "start_ms": 295982,
+      "end_ms": 297343
+    },
+    {
+      "index": 89,
+      "text": "Tamar learned to tell a Sardinian warbler from a Cyprus warbler, and a common redstart from a black redstart, and a lesser whitethroat from every other whitethroat.",
+      "start_ms": 297343,
+      "end_ms": 306696
+    },
+    {
+      "index": 90,
+      "text": "By the fourth day her father let her check a net alone.",
+      "start_ms": 306696,
+      "end_ms": 309927
+    },
+    {
+      "index": 91,
+      "text": "And on the fifth morning, at the first net, she found the bird her father had been waiting for.",
+      "start_ms": 309927,
+      "end_ms": 315312
+    }
+  ]
+}

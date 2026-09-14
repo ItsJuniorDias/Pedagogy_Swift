@@ -1,0 +1,169 @@
+{
+  "id": "sky-mirror",
+  "title": "The Sky Mirror",
+  "subtitle": "Five Days on the Salar",
+  "author": null,
+  "summary": "Elena is ten and lives in La Paz. Her father Ernesto is a Bolivian naturalist who works for the environment ministry, and every February he takes her on one long field trip. This year they drive south for two days to the Salar de Uyuni, the largest salt flat in the world, in the middle of the wet season when a shallow layer of water turns the whole thing into a mirror of the sky. Ernesto brings a very old film camera that his own father gave him at twelve — a camera he has carried across three continents and never once put film into. This year, for Elena, he loads it.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-sky-mirror-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old Bolivian girl (Elena) with black hair in two braids, wearing a red woven wool wayuu-style poncho over a plain white shirt and jeans, standing in ankle-deep water on the vast reflective surface of the Salar de Uyuni. She holds an old dark metal 35mm film camera up to her eye. Beside her stands her father (Ernesto, early forties, dark beard, dark hair, weathered kind face, a heavy grey wool poncho over practical field clothes), watching her with quiet pride. The salt flat stretches to the horizon in every direction, and its shallow water reflects the enormous sky above — pale blue, a few white clouds — so perfectly that horizon and sky merge into one endless space. Character positioned center-left, filling roughly 45% of frame height. Palette: warm cream (#FFF9F0), pale sky-blue, sepia salt, deep ink outlines, small dusty rose (#FF5B8D) accent on Elena's poncho. Small margin at top and bottom for card padding.",
+  "category": "wonder",
+  "isPremium": true,
+  "publishedAt": "2027-07-01",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Camera in the Bag",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "skm-ch1-p1-lapaz",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small apartment balcony in La Paz. High-altitude Andean city stretched out below, red-brick houses climbing steep hills, and Illimani mountain rising snow-capped in the distance. Elena (10, black braids, red woven wool poncho, small backpack) stands on the balcony beside her father Ernesto (early forties, dark beard, grey wool poncho, packing a rugged field bag). Early morning light. Heavy black ink outlines, flat shadows, warm cream and sepia palette.",
+          "paragraphs": [
+            "Elena was ten and lived in La Paz, in a small apartment on the seventh floor of a red-brick building that looked out across the whole city, and beyond it to the great snow-covered peak of Illimani. She had lived at almost four thousand meters above sea level her whole life, and her lungs were used to the thin cold air in a way that mystified visitors. Her mother was a doctor at a clinic in El Alto. Her father, Ernesto, was a naturalist who worked for the Bolivian environment ministry. He spent most of the year traveling to different parts of the country — the Amazonian lowlands to the north, the Chaco to the east, the altiplano to the south — writing careful reports about small things almost nobody else noticed.",
+            "Every February, in the middle of the summer rains, when Elena had school holidays and the altiplano was at its strangest, Ernesto took her on one long field trip. He had taken her to the highland wetlands when she was eight. He had taken her to a Chilean-border flamingo lake when she was nine. This year — her tenth year — he had said, quietly, over supper in early January, \"This year, mi hija, we go to the Salar.\""
+          ]
+        },
+        {
+          "image": "skm-ch1-p2-jeep",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a dusty red-earth road across the high altiplano south of La Paz. A rugged old dark green four-wheel-drive jeep drives away from the camera, small in the vast landscape. On either side of the road, endless pale golden grass; in the far distance, low blue mountains. Enormous sky above. Heavy ink outlines, flat shadows, warm sepia and pale blue palette.",
+          "paragraphs": [
+            "They drove south for two days. The road from La Paz to Uyuni ran across the altiplano — a huge high flat table of grassland between the two ranges of the Andes, at three and a half thousand meters. There were long stretches with nothing on either side but grass, and one or two vicuñas grazing in the distance, and the occasional adobe farmhouse with a tin roof. Ernesto drove the ministry's old dark green jeep. Elena sat in the passenger seat with a book she was not really reading and watched the country go past.",
+            "In the back of the jeep, wedged carefully between the tent and Ernesto's field bag, was a small hard camera case that Elena had not seen before. On the second afternoon, she asked what it was. Ernesto glanced at the mirror. \"My camera,\" he said. \"An old one. My father gave it to me when I was twelve. I have carried it with me on every trip since. I do not know why exactly. I never take pictures with it.\" Elena thought that was very strange. She did not press. She had learned that things her father said in that quiet way often came back later, when he was ready."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They stayed the first night in a small hostel in Oruro. They stayed the second night in a smaller village called Salinas de Garci Mendoza, which sat at the northern edge of the Salar. Ernesto knew the family who ran the small guesthouse there — he had stayed with them on many trips. That evening, over a supper of quinoa soup and roasted potatoes, he told Elena about the Salar. \"It is the largest salt flat in the world,\" he said. \"Ten thousand square kilometers of dry white salt, three meters thick in most places. It was once, a very long time ago, an enormous salt lake, and it dried up, and the salt stayed. For most of the year, it is white and dry and cracked into large hexagons. You could drive across it in any direction.\"",
+            "He drank some coca tea. \"But in the wet season — now, in February — a shallow layer of rain water sits on top of the salt. Not deep. Ankle deep. It cannot drain because the ground under is impermeable. So the water just sits. And because it sits perfectly still on a perfectly flat surface, and because the surface is white and reflective, the whole Salar becomes a mirror. A ten-thousand-square-kilometer mirror. When you stand on it, the sky is above you and the sky is below you and there is nothing to tell them apart. That is why we come in February and not in June. That is what I brought you to see.\""
+          ]
+        },
+        {
+          "image": "skm-ch1-p4-arriving",
+          "imagePrompt": "Mike Mignola style for children: exterior wide view. The green jeep has stopped at the edge of the Salar. Elena (10) and Ernesto (early forties) have just stepped out. In front of them, the vast flat surface of the Salar, gleaming with a thin layer of water, extends to a horizon that has completely dissolved — sky above and sky reflected below merge into one endless white-blue space. A few distant mountain silhouettes appear both above and below, floating. Elena stands with one hand at her mouth, awestruck. Ernesto stands beside her, hands on his hips, watching her. Heavy ink outlines, flat shadows, dramatic contrast between the warm land at their feet and the vast pale mirror beyond.",
+          "paragraphs": [
+            "They drove out onto the Salar the next morning. The road ended at the edge of the salt, and then there was no road — just the flat white surface, and the thin water. Ernesto stopped the jeep just where the water began. He and Elena climbed out.",
+            "Elena did not say anything for a long time. She had seen pictures. Everyone had seen pictures. But she had not understood, from pictures, what it would be. It was not a lake. It was not a plain. It was something else. The water was perfectly still, only ankle-deep — she could see the salt surface under it, cracked in wide hexagons — and it reflected the enormous pale sky above so exactly that when she looked out, she could not tell where the ground ended and the sky began. Distant mountains at the edge of the Salar seemed to be floating, doubled, one above and one below. She took one step onto the water. Her boot made a small ring of ripples that spread out in silence and dissolved."
+          ]
+        },
+        {
+          "image": "skm-ch1-p5-camera",
+          "imagePrompt": "Mike Mignola style for children: mid-shot. Ernesto (early forties) has opened the small camera case beside the jeep and is holding up an old dark metal 35mm Pentax film camera. He is loading a small yellow-and-black film cartridge into it. Elena (10) watches him closely, standing in the shallow water a few steps out. Bright altiplano sun. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Ernesto went back to the jeep. He opened the small camera case. He took out the old dark metal camera. He also took out, from a small pouch inside the case, a yellow and black cardboard box, and from the box a single roll of film. He walked back to Elena. He said, \"I have been carrying this camera for thirty years and I have never once put a film in it. My father put a film in it, when he gave it to me, and I finished that film in the first month. Then I went to the Amazon for the first time. And I did not put another film in. And I never have since. I have carried it, empty, on every trip. I do not really know why. Something to do with my father. Something to do with wanting to keep it ready but not use it. I have thought about this for many years and I do not have a clean answer.\"",
+            "He held the camera out to her. \"Today I am putting a film in. I have brought three rolls. They are for you. For this week. You take the pictures. I will show you how the camera works. Then it is yours to hold, for the five days we are here.\" Elena took the camera. It was heavier than she had thought. The dark metal was cool. It smelled faintly of leather and old grease. She looked up at her father. She did not know what to say."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Don Juan",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "skm-ch2-p1-teaching",
+          "imagePrompt": "Mike Mignola style for children: mid-shot at the edge of the Salar. Ernesto (early forties) crouches beside Elena (10) who holds the old camera. He is showing her the aperture ring and the focus ring, one hand pointing to each. The vast white mirror of the Salar behind them. Bright clear afternoon light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Ernesto taught her how the camera worked. He showed her the aperture ring, and the focus ring, and the small window at the top that told you how many pictures were left on the roll. He explained that the camera did not need batteries — that everything about it was mechanical, and would work anywhere in the world, at any temperature, if you kept it dry. He showed her how to advance the film, and how to press the shutter release with the pad of her finger and not the tip, so the camera did not jerk. She learned it quickly. She was patient in the way that ten-year-olds can be when they are being taken seriously.",
+            "The first afternoon she used the whole first roll — thirty-six exposures — in about two hours. She took pictures of the water, and of the horizon, and of the mountains floating, and of her father's boots reflected upside-down. Ernesto did not tell her to be careful about the film. He said, \"Use it. That is what it is for. I have two more rolls in the jeep.\""
+          ]
+        },
+        {
+          "image": "skm-ch2-p2-lodge",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small salt-brick lodge on the edge of the Salar — walls built of large white salt bricks, a low tile roof, warm yellow light coming from small windows in the evening. Two or three other jeeps parked nearby. Ernesto and Elena walk toward the door in fading twilight. Heavy ink outlines, flat shadows, warm cream and dark blue palette.",
+          "paragraphs": [
+            "That evening they stayed at a small lodge at the edge of the Salar — a low building whose walls were made of blocks of salt cut from the Salar itself. Even the tables inside were made of salt. It was warm and dim and smelled faintly of salt and woodsmoke. There were maybe eight other guests — a few Bolivian families like themselves, a small group of Japanese tourists, one older German couple.",
+            "And in the corner, at a small table by the woodstove, sat an old man with a white beard and a very worn dark green field jacket. He was drinking coffee and reading a book. Ernesto looked over and grinned. He said, \"Elena. Come. That is Don Juan.\" And he took her to the corner."
+          ]
+        },
+        {
+          "image": "skm-ch2-p3-donjuan",
+          "imagePrompt": "Mike Mignola style for children: interior close view at Don Juan's small table. Don Juan (seventy, white beard, worn green field jacket, weathered kind face) has looked up from his book and is smiling at Ernesto. Elena (10) stands slightly shy behind her father. On the table beside Don Juan's coffee cup is a folder of large black-and-white photographs. Warm firelight from the woodstove. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Don Juan was seventy years old, and had been a landscape photographer his entire adult life, and had come to the Salar every February for the past forty years to photograph it. Ernesto knew him — everyone in the small Bolivian scientific community knew Don Juan — and greeted him warmly. Don Juan smiled up at Elena and shook her hand seriously, as if she were an adult, which pleased her.",
+            "\"Show her,\" Ernesto said. Don Juan opened the folder on the table. Inside were maybe forty large black-and-white photographs, all taken at the Salar. Some showed the mirror. Some showed the dry season, the white cracked hexagons. Some showed people, small, walking. Some showed just the sky. Elena looked at them one by one. They were the most beautiful photographs she had ever seen. She could not stop looking."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "After she had looked at all of them, Elena asked, \"Don Juan, why do you keep taking pictures of the same place? Forty years is a long time.\" Don Juan smiled. He said, \"Because it is not the same place, hija. It looks the same to a person passing through once. But it is different every day. Every hour. The light changes. The wind changes. The water changes with the seasons and the rain. When there is no wind, it is a mirror. When there is a breeze, the mirror breaks into a million small facets. When there are clouds, the whole Salar is dark. When there are no clouds, the whole Salar is like a page. And I am different every day too. What I notice today is not what I noticed yesterday. So I keep coming. And I keep taking pictures. And they keep being different pictures. It does not end.\"",
+            "Elena thought about that. She looked at her father. Her father was watching her, quiet, half-smiling. Later, walking back to their room in the salt-brick lodge, she said, \"Papi, do you know why you never took pictures?\" Ernesto was quiet for many steps. Then he said, \"I have wondered this for thirty years. I think I know now. Do you want the answer?\" Elena nodded."
+          ]
+        },
+        {
+          "image": "skm-ch2-p5-explaining",
+          "imagePrompt": "Mike Mignola style for children: interior view of the small warm bedroom in the salt-brick lodge. Elena (10) sits on a bed, wrapped in a heavy woolen blanket. Her father Ernesto (early forties) sits on the edge of the other bed across from her, forearms on his knees, talking quietly. A single warm bedside lamp. The old camera sits on a small table between them. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "In their small warm room, wrapped in heavy woolen blankets against the cold Andean night, Ernesto sat on the edge of his bed and told her. He said, \"When I was young, I noticed that if I took a picture of something — really tried to compose the picture — I stopped seeing what was in front of me. I went to the other side of the camera. I was making a picture instead of being there. I could not do both. Some people can do both. Don Juan can do both. It is a gift. I did not have that gift. So I chose. I chose to see. And I stopped taking pictures. I carried the camera anyway, all these years, because my father gave it to me. And I never quite wanted to admit to myself that I was choosing not to use it. So it was easier to carry it, empty, and pretend I might use it someday.\"",
+            "Elena said, \"So why did you put a film in it now?\" Ernesto smiled at her. He said, \"Because now there is someone I want to take pictures. Not me. You. When you look at something, mi hija, I see it new. That is what watching a child watch the world does for a parent. It gives them the world back. If you take pictures this week, I get to see you seeing. That is a different thing than seeing the Salar. That is what I want. Watching someone see is a way of loving them. I did not know that when I was twenty. I know it now.\" He was quiet for a moment. \"So — you take the pictures. I will watch you.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The One Frame",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "skm-ch3-p1-days",
+          "imagePrompt": "Mike Mignola style for children: mid-shot on the Salar during the day. Elena (10) is far out in the shallow water, small in the enormous mirror landscape, camera up to her eye, photographing something on the horizon. Ernesto (early forties) stands a hundred meters back, watching her, hands in the pockets of his poncho. The sky above and its reflection below fill the frame. Late morning light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "For four days they were on the Salar. They stayed at the salt lodge, and each morning they drove out to a different part of the flat, and Elena took pictures. She used the second roll on the second day. She used the third roll on the third day. Ernesto had driven to the small town of Uyuni and bought her two more rolls at a shop he knew, and she used those too, more slowly, aware now that film was finite in a way she had not quite understood on the first afternoon.",
+            "Ernesto did not photograph. He watched her. He carried water for her, and made her wear her sunhat, and made her rest in the shade of the jeep in the middle of each day. He watched her walk out onto the mirror and become a small dark figure in the enormous whiteness, camera up to her face. He watched her sit cross-legged in the shallow water for half an hour once, waiting for a cloud to move exactly where she wanted it. He watched her hand her the camera to Don Juan one evening, and Don Juan look through the viewfinder at her framing and nod, seriously, and hand it back. He was, for those four days, the happiest he had been in years, and it took him a while to notice this."
+          ]
+        },
+        {
+          "image": "skm-ch3-p2-last-morning",
+          "imagePrompt": "Mike Mignola style for children: mid-shot on the mirror surface. Elena (10) has stopped walking. She is looking back toward her father Ernesto (early forties). She holds the camera out toward him with both hands, saying something. Ernesto stands about ten paces behind her. Both are reflected in the water below. Early morning golden light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "On the fifth morning, their last, they went out early — before dawn, so they could be on the Salar when the light came up. It was cold and dark when they parked the jeep. Elena walked out onto the flat in her rubber boots. Ernesto walked behind her. The light began to lift in the east, and the enormous mirror began to fill with soft pink, then gold, then finally the pale blue of full morning. Elena took perhaps twenty photographs. Then she stopped. She turned around and looked at her father, standing ten paces behind her in his grey poncho, and she walked back to him. She held the camera out.",
+            "She said, \"Papi. One picture. Of me.\" Ernesto looked at the camera in her hands. He did not move for a moment. Then he took it. He said, \"One?\" She said, \"Yes. Just one. Where I stand now. In the middle of the mirror. So I have a photograph of me from the Salar. And you have taken it.\""
+          ]
+        },
+        {
+          "image": "skm-ch3-p3-one-shot",
+          "imagePrompt": "Mike Mignola style for children: mid-shot. Elena (10) stands out on the mirror, framed by the sky above and its reflection below, arms slightly raised as if presenting herself. Ernesto (early forties) is a few paces back, camera lifted to his eye, framing the shot carefully. His face is completely absorbed. Soft golden morning light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Ernesto walked back to where he had been. Elena walked out to where she wanted to stand. She stopped. She lifted her arms very slightly, not posing exactly, just — being there. She looked at her father. He raised the camera to his eye. He took a long time. He was framing it very carefully. He was looking at his daughter through the viewfinder for the first time in his life, and he was, Elena could tell even from that distance, taking a long slow moment to be there and to make the picture. Then he pressed the shutter. There was a small clean click. He lowered the camera. He walked back to her. He handed her the camera. He said, \"I do not know how it will turn out. I have not done this in thirty years. But I did it.\"",
+            "Elena took the camera back. She said, \"It will turn out. I know it will.\""
+          ]
+        },
+        {
+          "image": "skm-ch3-p4-driving-home",
+          "imagePrompt": "Mike Mignola style for children: exterior. The dark green jeep drives north across the altiplano back toward La Paz. Late afternoon golden light. Elena sits in the passenger seat, the small camera case in her lap, looking out at the mountains. Ernesto drives, one hand on the wheel, the other resting on the gear shift. Heavy ink outlines, flat shadows, warm sepia and pale blue palette.",
+          "paragraphs": [
+            "They drove home the next two days. The Salar receded behind them and became one more thing that had happened. Elena kept the camera case in her lap the whole drive. Ernesto did not push her to talk. She thought a lot. She looked out at the altiplano, and at the vicuñas in the distance, and at the mountains, and she thought.",
+            "About halfway home she said, \"Papi. If I take pictures for the rest of my life, will you always not?\" Ernesto thought about this for a long time. Then he said, \"I do not know, mi hija. I have not decided. What I know is that I took one picture on the Salar last week. And I remember it exactly. I can close my eyes and see the frame. That is different from anything I have taken in thirty years. Maybe I will take one picture a year now. Or one picture a trip. Not many. Just — the ones I really want to make. When I know why. I will not become a photographer. But I will not throw away the camera anymore.\""
+          ]
+        },
+        {
+          "image": "skm-ch3-p5-three-weeks-later",
+          "imagePrompt": "Mike Mignola style for children: interior view of a small photo shop counter in La Paz. Elena (10) is standing on tiptoe at the counter, receiving a stack of developed 4x6 prints from the shopkeeper. Ernesto (early forties) stands behind her, watching. Warm afternoon shop light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Three weeks after they got home, they took the five rolls of film to a small photo shop in La Paz. It was one of the last shops in the city that still developed film. The owner remembered Ernesto from years ago and asked, with mild surprise, whether Ernesto had taken up photography. Ernesto laughed and said no — his daughter had. The shop took a week to develop the rolls. When Elena went back with her father to collect them, the owner handed her five thick envelopes of prints, plus the negatives in translucent sleeves.",
+            "They opened the envelopes at the kitchen table in the apartment. Elena's mother came over from the stove to look. Elena spread the prints out — a hundred and seventy or so photographs, taken by a ten-year-old on a five-day trip. Some were blurry. Some were badly framed. But some were extraordinary. There was one, taken lying on her back on the mirror, that showed the sky in every direction with only the small silhouette of a bird at the edge. There was one of Don Juan's coffee cup sitting on the salt-brick table at the lodge. There was one of the mountains floating, and one of her father's boots reflected upside down."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "And near the end of the third roll, in the middle of Elena's series from the fifth morning, was one photograph that was not by Elena. It showed her — small, in her red poncho, arms slightly raised, standing in the middle of the mirror in the soft golden light, framed by the sky above and the sky below. Her mother picked it up and looked at it for a long time. She said, \"Ernesto. Who took this?\" Ernesto did not say anything. Elena said, \"Papi did. It is the only picture he took. In thirty years.\"",
+            "Elena's mother put the photograph down very gently in the middle of the table. She looked at Ernesto. She did not say anything either. But she smiled a small smile that Elena had not seen before, and she went back to the stove. And Elena took the photograph and put it, later, above her small desk in her bedroom, where she could see it when she was doing her homework. She would keep it there for the rest of her life. And her father, though nobody said this at the time, would take one more photograph the next February, and one more the next, and one more the next, all of her, all of them, all of them of the way she looked at things — a small quiet series that nobody but the two of them would ever know had begun with a single frame at the edge of a mirror at the end of the world."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": ["family", "father", "bolivia", "salt-flat", "photography", "seeing"]
+}

@@ -1,0 +1,625 @@
+{
+  "story_id": "lantern-of-hoi-an",
+  "chapter": 1,
+  "total_duration_ms": 321696,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Mai had lived in Hoi An her whole life.",
+      "start_ms": 2072,
+      "end_ms": 4374
+    },
+    {
+      "index": 1,
+      "text": "She was ten.",
+      "start_ms": 4374,
+      "end_ms": 5123
+    },
+    {
+      "index": 2,
+      "text": "Her family had a small silk shop on Nguyen Thai Hoc street, in the old town, where the buildings were painted the color of egg yolks and where every eave was hung with paper lanterns.",
+      "start_ms": 5123,
+      "end_ms": 15713
+    },
+    {
+      "index": 3,
+      "text": "Tourists came from all over the world to see the old town, especially at night, when the lanterns were lit and the river was full of small floating candles.",
+      "start_ms": 15713,
+      "end_ms": 24749
+    },
+    {
+      "index": 4,
+      "text": "Mai walked through the tourists every day on her way home from school.",
+      "start_ms": 24749,
+      "end_ms": 28836
+    },
+    {
+      "index": 5,
+      "text": "She did not really notice them anymore.",
+      "start_ms": 28836,
+      "end_ms": 31138
+    },
+    {
+      "index": 6,
+      "text": "This was just her town.",
+      "start_ms": 31138,
+      "end_ms": 32577
+    },
+    {
+      "index": 7,
+      "text": "The lantern makers were the important people in Hoi An.",
+      "start_ms": 32577,
+      "end_ms": 35800
+    },
+    {
+      "index": 8,
+      "text": "The town was famous for its lanterns — silk lanterns of every color, some as small as an apple, some as big as a person.",
+      "start_ms": 35800,
+      "end_ms": 42764
+    },
+    {
+      "index": 9,
+      "text": "Mai's father bought lanterns from the makers to sell in the shop alongside the silk.",
+      "start_ms": 42764,
+      "end_ms": 47657
+    },
+    {
+      "index": 10,
+      "text": "There were maybe twenty proper lantern makers left in the old town.",
+      "start_ms": 47657,
+      "end_ms": 51570
+    },
+    {
+      "index": 11,
+      "text": "The oldest of them, and the one everyone considered the best, was a very small very old man called Ông Lâm — Grandfather Lâm — who worked out of a tiny shop on a side street near the Japanese covered bridge.",
+      "start_ms": 51570,
+      "end_ms": 63542
+    },
+    {
+      "index": 12,
+      "text": "He had been making lanterns for over sixty years.",
+      "start_ms": 63542,
+      "end_ms": 66478
+    },
+    {
+      "index": 13,
+      "text": "Mai went to Ông Lâm's shop on a Tuesday afternoon.",
+      "start_ms": 66478,
+      "end_ms": 69413
+    },
+    {
+      "index": 14,
+      "text": "Her father had sent her — he needed to order thirty small red silk lanterns for the shop for the upcoming Mid-Autumn Festival, which was in three weeks.",
+      "start_ms": 69413,
+      "end_ms": 78219
+    },
+    {
+      "index": 15,
+      "text": "Mai had been sent on errands like this before.",
+      "start_ms": 78219,
+      "end_ms": 80924
+    },
+    {
+      "index": 16,
+      "text": "She was not nervous.",
+      "start_ms": 80924,
+      "end_ms": 82133
+    },
+    {
+      "index": 17,
+      "text": "She knew Ông Lâm slightly.",
+      "start_ms": 82133,
+      "end_ms": 83687
+    },
+    {
+      "index": 18,
+      "text": "He always smiled at her when she came in.",
+      "start_ms": 83687,
+      "end_ms": 86104
+    },
+    {
+      "index": 19,
+      "text": "He never said much, but he always smiled.",
+      "start_ms": 86104,
+      "end_ms": 88464
+    },
+    {
+      "index": 20,
+      "text": "The shop was very small.",
+      "start_ms": 88464,
+      "end_ms": 90180
+    },
+    {
+      "index": 21,
+      "text": "Ông Lâm sat on a cushion on the floor working on a lantern frame.",
+      "start_ms": 90180,
+      "end_ms": 94708
+    },
+    {
+      "index": 22,
+      "text": "He looked up when Mai came in.",
+      "start_ms": 94708,
+      "end_ms": 96836
+    },
+    {
+      "index": 23,
+      "text": "She bowed politely.",
+      "start_ms": 96836,
+      "end_ms": 98208
+    },
+    {
+      "index": 24,
+      "text": "She said her father wanted to order thirty small red silk lanterns for the festival.",
+      "start_ms": 98208,
+      "end_ms": 104041
+    },
+    {
+      "index": 25,
+      "text": "Ông Lâm nodded.",
+      "start_ms": 104041,
+      "end_ms": 105139
+    },
+    {
+      "index": 26,
+      "text": "He wrote it down in a small book.",
+      "start_ms": 105139,
+      "end_ms": 107472
+    },
+    {
+      "index": 27,
+      "text": "He said, in his soft voice, \"Tell your father, ready in two weeks.",
+      "start_ms": 107472,
+      "end_ms": 112070
+    },
+    {
+      "index": 28,
+      "text": "Same price as last year.\" Mai bowed again.",
+      "start_ms": 112070,
+      "end_ms": 115020
+    },
+    {
+      "index": 29,
+      "text": "She was going to leave.",
+      "start_ms": 115020,
+      "end_ms": 116667
+    },
+    {
+      "index": 30,
+      "text": "But Ông Lâm said, \"Wait.",
+      "start_ms": 116667,
+      "end_ms": 118383
+    },
+    {
+      "index": 31,
+      "text": "Sit.",
+      "start_ms": 118383,
+      "end_ms": 118726
+    },
+    {
+      "index": 32,
+      "text": "I want to talk to you.\"",
+      "start_ms": 118726,
+      "end_ms": 120441
+    },
+    {
+      "index": 33,
+      "text": "Mai was surprised.",
+      "start_ms": 120441,
+      "end_ms": 121745
+    },
+    {
+      "index": 34,
+      "text": "She sat down on a small stool near the door.",
+      "start_ms": 121745,
+      "end_ms": 124833
+    },
+    {
+      "index": 35,
+      "text": "Ông Lâm set down his work.",
+      "start_ms": 124833,
+      "end_ms": 126686
+    },
+    {
+      "index": 36,
+      "text": "He looked at her for a long moment.",
+      "start_ms": 126686,
+      "end_ms": 129156
+    },
+    {
+      "index": 37,
+      "text": "Then he said, \"Mai.",
+      "start_ms": 129156,
+      "end_ms": 130529
+    },
+    {
+      "index": 38,
+      "text": "You know the fish lantern.\" She nodded.",
+      "start_ms": 130529,
+      "end_ms": 133273
+    },
+    {
+      "index": 39,
+      "text": "Of course she knew the fish lantern.",
+      "start_ms": 133273,
+      "end_ms": 135812
+    },
+    {
+      "index": 40,
+      "text": "Every year on the night of the Mid-Autumn Festival, Ông Lâm made one enormous lantern in the shape of a carp — two meters long, three meters if you counted the tail — and at the ceremony in the town square, he released it into the air over the river, holding it on a long string.",
+      "start_ms": 135812,
+      "end_ms": 155026
+    },
+    {
+      "index": 41,
+      "text": "It was the highlight of the festival.",
+      "start_ms": 155026,
+      "end_ms": 157634
+    },
+    {
+      "index": 42,
+      "text": "Everyone in the town knew about it.",
+      "start_ms": 157634,
+      "end_ms": 160104
+    },
+    {
+      "index": 43,
+      "text": "Everyone came to see.",
+      "start_ms": 160104,
+      "end_ms": 161682
+    },
+    {
+      "index": 44,
+      "text": "\"For twenty years,\" said Ông Lâm, \"I have held the string myself.",
+      "start_ms": 161682,
+      "end_ms": 166211
+    },
+    {
+      "index": 45,
+      "text": "Before that, my teacher held it.",
+      "start_ms": 166211,
+      "end_ms": 168476
+    },
+    {
+      "index": 46,
+      "text": "Before that, his teacher.",
+      "start_ms": 168476,
+      "end_ms": 170260
+    },
+    {
+      "index": 47,
+      "text": "The fish lantern has been released this way every Mid-Autumn Festival for — I do not know exactly.",
+      "start_ms": 170260,
+      "end_ms": 177053
+    },
+    {
+      "index": 48,
+      "text": "More than one hundred years.",
+      "start_ms": 177053,
+      "end_ms": 179043
+    },
+    {
+      "index": 49,
+      "text": "Maybe two hundred.",
+      "start_ms": 179043,
+      "end_ms": 180347
+    },
+    {
+      "index": 50,
+      "text": "In the old times a different lantern maker did it.",
+      "start_ms": 180347,
+      "end_ms": 183847
+    },
+    {
+      "index": 51,
+      "text": "Now it has been me, since my teacher died in 2005.\" He paused.",
+      "start_ms": 183847,
+      "end_ms": 188170
+    },
+    {
+      "index": 52,
+      "text": "\"But this year, I am not going to hold the string.",
+      "start_ms": 188170,
+      "end_ms": 191670
+    },
+    {
+      "index": 53,
+      "text": "I want you to hold it.\"",
+      "start_ms": 191670,
+      "end_ms": 193248
+    },
+    {
+      "index": 54,
+      "text": "Mai stared at him.",
+      "start_ms": 193248,
+      "end_ms": 194477
+    },
+    {
+      "index": 55,
+      "text": "She could not speak for a moment.",
+      "start_ms": 194477,
+      "end_ms": 196676
+    },
+    {
+      "index": 56,
+      "text": "She said, finally, \"Ông Lâm.",
+      "start_ms": 196676,
+      "end_ms": 198551
+    },
+    {
+      "index": 57,
+      "text": "I do not — I am ten.",
+      "start_ms": 198551,
+      "end_ms": 199910
+    },
+    {
+      "index": 58,
+      "text": "I am not — a lantern maker.",
+      "start_ms": 199910,
+      "end_ms": 201721
+    },
+    {
+      "index": 59,
+      "text": "I am not anybody special.",
+      "start_ms": 201721,
+      "end_ms": 203402
+    },
+    {
+      "index": 60,
+      "text": "Why me?\" Ông Lâm smiled his small quiet smile.",
+      "start_ms": 203402,
+      "end_ms": 206442
+    },
+    {
+      "index": 61,
+      "text": "He said, \"Why not you.\" Mai said, \"There are so many other people.",
+      "start_ms": 206442,
+      "end_ms": 210775
+    },
+    {
+      "index": 62,
+      "text": "Older people.",
+      "start_ms": 210775,
+      "end_ms": 211681
+    },
+    {
+      "index": 63,
+      "text": "People from the lantern-making families.",
+      "start_ms": 211681,
+      "end_ms": 214333
+    },
+    {
+      "index": 64,
+      "text": "My cousin Duc, he is seventeen and he is good at things.",
+      "start_ms": 214333,
+      "end_ms": 218019
+    },
+    {
+      "index": 65,
+      "text": "Why not him.\" \"Because I chose you,\" said Ông Lâm.",
+      "start_ms": 218019,
+      "end_ms": 221318
+    },
+    {
+      "index": 66,
+      "text": "\"That is how the choice is made.",
+      "start_ms": 221318,
+      "end_ms": 223452
+    },
+    {
+      "index": 67,
+      "text": "The person who holds the string this year chooses who holds the string next year.",
+      "start_ms": 223452,
+      "end_ms": 228756
+    },
+    {
+      "index": 68,
+      "text": "My teacher chose me when I was twenty-one.",
+      "start_ms": 228756,
+      "end_ms": 231537
+    },
+    {
+      "index": 69,
+      "text": "His teacher chose him when he was fifteen.",
+      "start_ms": 231537,
+      "end_ms": 234318
+    },
+    {
+      "index": 70,
+      "text": "There is no rule about who or how.",
+      "start_ms": 234318,
+      "end_ms": 236581
+    },
+    {
+      "index": 71,
+      "text": "There is only — the person who holds the string decides.",
+      "start_ms": 236581,
+      "end_ms": 240268
+    },
+    {
+      "index": 72,
+      "text": "And I have decided you.\"",
+      "start_ms": 240268,
+      "end_ms": 241950
+    },
+    {
+      "index": 73,
+      "text": "\"But why,\" said Mai.",
+      "start_ms": 241950,
+      "end_ms": 243308
+    },
+    {
+      "index": 74,
+      "text": "Ông Lâm was quiet for a long moment.",
+      "start_ms": 243308,
+      "end_ms": 245701
+    },
+    {
+      "index": 75,
+      "text": "Then he said, \"I have watched you walk past my shop for many years.",
+      "start_ms": 245701,
+      "end_ms": 250099
+    },
+    {
+      "index": 76,
+      "text": "You always look at the lanterns.",
+      "start_ms": 250099,
+      "end_ms": 252233
+    },
+    {
+      "index": 77,
+      "text": "You always slow down.",
+      "start_ms": 252233,
+      "end_ms": 253656
+    },
+    {
+      "index": 78,
+      "text": "Some children run past.",
+      "start_ms": 253656,
+      "end_ms": 255208
+    },
+    {
+      "index": 79,
+      "text": "Some children only look at the ones their parents point at.",
+      "start_ms": 255208,
+      "end_ms": 259089
+    },
+    {
+      "index": 80,
+      "text": "You look at the small ones I hang in the back.",
+      "start_ms": 259089,
+      "end_ms": 262129
+    },
+    {
+      "index": 81,
+      "text": "The ones nobody notices.",
+      "start_ms": 262129,
+      "end_ms": 263746
+    },
+    {
+      "index": 82,
+      "text": "Once, three years ago, you stopped and you pointed at one — a small blue one, shaped like a moon — and you told your mother it was the most beautiful one on the whole street.",
+      "start_ms": 263746,
+      "end_ms": 275064
+    },
+    {
+      "index": 83,
+      "text": "It was one of the first lanterns my teacher ever made.",
+      "start_ms": 275064,
+      "end_ms": 278621
+    },
+    {
+      "index": 84,
+      "text": "It had been hanging in my shop for forty years and nobody had ever noticed it.",
+      "start_ms": 278621,
+      "end_ms": 283731
+    },
+    {
+      "index": 85,
+      "text": "But you did.",
+      "start_ms": 283731,
+      "end_ms": 284572
+    },
+    {
+      "index": 86,
+      "text": "That is when I decided.\"",
+      "start_ms": 284572,
+      "end_ms": 286253
+    },
+    {
+      "index": 87,
+      "text": "Mai did not remember the moment.",
+      "start_ms": 286253,
+      "end_ms": 288387
+    },
+    {
+      "index": 88,
+      "text": "She did not remember pointing at a blue moon lantern when she was seven.",
+      "start_ms": 288387,
+      "end_ms": 293109
+    },
+    {
+      "index": 89,
+      "text": "But she believed Ông Lâm.",
+      "start_ms": 293109,
+      "end_ms": 294790
+    },
+    {
+      "index": 90,
+      "text": "She believed him because he said it so calmly.",
+      "start_ms": 294790,
+      "end_ms": 297830
+    },
+    {
+      "index": 91,
+      "text": "He had been waiting three years to tell her.",
+      "start_ms": 297830,
+      "end_ms": 300805
+    },
+    {
+      "index": 92,
+      "text": "\"Will you do it,\" he said.",
+      "start_ms": 300805,
+      "end_ms": 302552
+    },
+    {
+      "index": 93,
+      "text": "Mai thought.",
+      "start_ms": 302552,
+      "end_ms": 303392
+    },
+    {
+      "index": 94,
+      "text": "She was terrified.",
+      "start_ms": 303392,
+      "end_ms": 304621
+    },
+    {
+      "index": 95,
+      "text": "She had never been asked to do something so important.",
+      "start_ms": 304621,
+      "end_ms": 308179
+    },
+    {
+      "index": 96,
+      "text": "She said, \"Can I think about it.\" Ông Lâm nodded.",
+      "start_ms": 308179,
+      "end_ms": 311412
+    },
+    {
+      "index": 97,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 311412,
+      "end_ms": 312447
+    },
+    {
+      "index": 98,
+      "text": "\"Come back on Friday.",
+      "start_ms": 312447,
+      "end_ms": 313870
+    },
+    {
+      "index": 99,
+      "text": "Tell me then.",
+      "start_ms": 313870,
+      "end_ms": 314776
+    },
+    {
+      "index": 100,
+      "text": "If you say yes, we start practicing that afternoon.",
+      "start_ms": 314776,
+      "end_ms": 318139
+    },
+    {
+      "index": 101,
+      "text": "There is a lot to learn.",
+      "start_ms": 318139,
+      "end_ms": 319756
+    },
+    {
+      "index": 102,
+      "text": "Three weeks is not much time.\"",
+      "start_ms": 319756,
+      "end_ms": 321696
+    }
+  ]
+}

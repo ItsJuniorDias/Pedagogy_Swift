@@ -1,0 +1,167 @@
+{
+  "id": "inn-at-the-crossroads",
+  "title": "The Inn at the Crossroads",
+  "subtitle": "A House on the Old Road",
+  "author": null,
+  "summary": "Kostas is eleven and spends the summer with his grandmother at her tiny inn in the mountains of the Peloponnese, in Greece. Almost nobody stops there anymore — the main road is thirty kilometers to the north. But every so often a stranger appears, sometimes on foot, sometimes at odd hours, and asks for a room. His grandmother says yes to every one. This summer, three strangers come. And each of them leaves something behind.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-inn-at-the-crossroads-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old boy (Kostas) with dark curly hair, wearing a white cotton shirt and dark trousers, standing on the whitewashed stone porch of a small old Greek inn (khani) at dusk. Behind him: a single arched wooden door with an iron ring, a stone wall covered in flowering jasmine, an oil lamp lit above the door. In the distance: the road disappearing down into a rocky mountain pass, dry pine trees, the last pink light of sunset over the mountains. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), whitewashed stone, deep ink outlines, warm gold lamp light, small dusty rose (#FF5B8D) accent on the sunset and on a jasmine blossom. Small margin at top and bottom for card padding.",
+  "category": "mystery",
+  "isPremium": true,
+  "publishedAt": "2027-01-07",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Old Road",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "in-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small whitewashed stone inn (khani) at a crossroads in the dry mountains of the Peloponnese, southern Greece. Old cypress trees around it. A dry stone road passing in front. An older woman (Yiayia, seventies, in a dark dress) stands in the doorway watching a boy (Kostas, 11) approach from a small dusty rental car with his mother. Afternoon light, warm and dry. Heavy black ink outlines, flat shadows, cream and sepia palette with muted earth tones.",
+          "paragraphs": [
+            "Kostas's grandmother lived at a crossroads. There was no village anywhere close — the closest one was fourteen kilometers south, over a small pass. The crossroads itself was where two very old dirt roads met, in a dry rocky valley in the Peloponnese, and at that meeting place there was a small whitewashed stone inn — a khani, in Greek — that had been there for at least four hundred years. Yiayia's family had run it for the last hundred and forty of those years. Yiayia was the one running it now. She was seventy-three and she was small and quick, and she had white hair pulled back in a knot, and she wore a dark dress every day.",
+            "Almost nobody stopped at the khani anymore. Kostas's mother had explained this to him on the drive down from Athens. The old road used to be the main road from one part of the Peloponnese to another. But sixty years ago they had built a proper paved road thirty kilometers to the north, and now the traffic all went that way. The old road was still there, but people mostly did not use it. The khani had almost no customers. Yiayia lived on a small pension and grew her own vegetables and kept a couple of goats. She stayed because she had never wanted to be anywhere else, and because — she said — someone had to be at the crossroads."
+          ]
+        },
+        {
+          "image": "in-ch1-p2-inside",
+          "imagePrompt": "Mike Mignola style for children: interior of the khani main room — thick whitewashed walls, dark wooden beams overhead, a large stone fireplace at one end, three heavy old wooden tables. On one wall, a wooden shelf holds several small unusual objects — a striped stone, a small brass compass, a worn leather notebook, an embroidered handkerchief. A boy (Kostas, 11) stands in the doorway looking around. Warm afternoon light through small windows. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The inside of the khani was much larger than Kostas had expected. There was one main room with a huge stone fireplace and three heavy old wooden tables, and a small kitchen behind it, and four bedrooms upstairs for guests. Yiayia lived in a fifth room off the kitchen. Kostas would be in one of the guest rooms for the summer. It was small and had a narrow bed and a wooden shutter that opened onto the front of the building.",
+            "That first afternoon, while his mother was still there and they were having coffee at the kitchen table before she drove back, Kostas noticed the shelf on the main room wall. It had maybe ten small objects on it. A striped stone. A small brass compass. A worn leather notebook. A folded embroidered handkerchief. A small wooden bird. A silver ring. A dried flower pressed under glass. A candle stub. A pair of round wire-framed spectacles with no lenses in them. A single old key. He walked over and looked at them. They were arranged carefully but they did not seem to be connected to each other in any way."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Yiayia,\" he said. \"What are these.\" Yiayia looked over. She smiled slightly. \"Ah,\" she said. \"Those are things guests have left. Every guest who has stayed here in my time — and some in my mother's time before me — has left one small thing. Sometimes on purpose. Sometimes by accident. It is a tradition. Not a rule. Nobody makes them. But they do it. And I keep them.\"",
+            "\"How many are there,\" Kostas asked. Yiayia thought. \"That shelf is only what I have kept in the front room. There are more on shelves in the bedrooms upstairs. Maybe a hundred, all together. Some of them are older than me. My mother started collecting them here when she was a young woman. She kept a book — a notebook — where she wrote down the story of each thing. I have kept it up. When you are here, I will show you.\""
+          ]
+        },
+        {
+          "image": "in-ch1-p3-ledger",
+          "imagePrompt": "Mike Mignola style for children: interior kitchen scene. An older woman (Yiayia) sits at the table with a very large leather-bound ledger open in front of her. She has just turned a page and is pointing at an entry. A boy (Kostas, 11) leans in to look. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "After supper that evening, when his mother had left, Yiayia brought out the book. It was a large leather-bound ledger. She set it on the kitchen table. She opened it. The first page had a date in careful old handwriting — 1907. The name of a guest. The night they had stayed. And one line describing what they had left. A dried flower from the road, pressed. She went with her husband to see her sister in Kalamata. Told me she had a bad feeling about the visit.",
+            "Kostas turned pages. There were hundreds of entries. Some had names, some did not. Some were long — a paragraph of description. Some were only a sentence. A silver button. A widowed doctor from Sparta on his way north. He kissed the button before he left it here. A folded child's drawing. A young family in a car. Their oldest boy left it under the mattress; I think it was on purpose. A worn coin. A very silent man who did not tell me where he was going. He put it on the table without saying anything and walked out."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"But — why do they do it,\" Kostas asked. Yiayia thought. \"I think,\" she said, \"because this is a crossroads. People who are at a crossroads are — different. They are between two things. They are traveling from one part of their life to another part. They come here, they sleep one night, and then they go on. But some part of them wants to leave a small piece behind. To mark that they were here. To make sure the moment was real. My mother believed that all the objects together were — a kind of — a kind of memorial to all the small decisions of many people's lives. Not the big decisions. The small ones. The ones that no one else would ever have known about.\"",
+            "Kostas turned to a page in the middle of the book. He read: 1954. A grey coat button. A young woman on foot. She had walked all day from the north. She looked as if she had been crying. She would not say where she was going or where she was from. She left the button on the kitchen table. She was gone by dawn. Kostas closed the book. He was quiet for a while. He said, \"I want to see it. If someone comes this summer.\" Yiayia smiled. \"They will come,\" she said. \"They always do. Some summer only one. Some summers three or four. You will see.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Three Visits",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "in-ch2-p1-first-guest",
+          "imagePrompt": "Mike Mignola style for children: exterior evening scene at the khani. An older man (about seventy, tanned, weathered, in worn field clothes and a wide-brimmed hat) walks toward the door of the inn, carrying nothing except a small canvas bag. A boy (Kostas, 11) watches from the doorway. Warm evening light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The first guest came in the third week of Kostas's stay. Kostas was reading in the main room in the late afternoon when he heard footsteps on the stones outside. He looked up. A man was walking up to the door. He was maybe seventy, tanned very dark from the sun, in old field clothes and a wide straw hat. He carried a small canvas bag. He did not have a car. Kostas got up. He went to the door. He said, \"Kalispera.\" Good evening. The man nodded. He said, \"Do you have a room.\" Kostas said, \"Yes. Come in. I will get my grandmother.\"",
+            "Yiayia came out from the kitchen. She looked at the man for a moment. She smiled a small smile. \"Come in,\" she said. \"Sit. I will bring you something. Where are you coming from.\" The man sat down at one of the heavy tables. He took off his hat. \"From Karyes,\" he said. Karyes was a village very far to the south. Yiayia raised an eyebrow. \"You walked from Karyes?\" \"Yes,\" said the man. \"It took me nine days. I am going to my brother's funeral in Tripoli. It seemed like something I should do on foot.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Yiayia gave him a bowl of the lamb stew she had made for supper, and bread, and a small glass of wine. Kostas sat quietly at the next table and pretended to read. He listened. The man ate slowly. He was very quiet. When he was finished, he thanked Yiayia. He said he wanted to go to bed. He was very tired. Yiayia showed him to the second room upstairs.",
+            "In the morning, he was gone before dawn. Kostas came down to breakfast and found Yiayia in the main room. She was holding a small object in her hand. She held it out. It was a piece of dry gray wood, about as long as a finger, smooth from being handled. It had been carved into the shape of a fish. Yiayia said, \"This was on the pillow. He whittled it, I think, while he was walking. Nine days. That is a lot of walking. That is a lot of time to whittle a small wooden fish.\" She turned the little fish over in her palm. \"His brother must have loved fish. Or fishing. It was for him, this fish. But he left it here.\" She looked at Kostas. \"That is the first one for this summer. Write it down for me. In the book. Small carved wooden fish. An old man walking to his brother's funeral. He did not say his own name. But he left the fish.\""
+          ]
+        },
+        {
+          "image": "in-ch2-p3-second-guest",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the khani. A young woman in her twenties (backpack, hiking clothes, small ponytail, tired face) has just arrived on foot at dusk. A boy (Kostas, 11) opens the door. She looks up at him, surprised and grateful. Warm early evening light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The second guest came two weeks later. She was a young woman, maybe twenty-five, in hiking clothes with a heavy backpack. She had come off the mountain path from the west and it was almost dark. When Kostas opened the door she looked surprised — like she had not expected to find anything there at all. She said, in Greek with a foreign accent, \"I am so sorry. Do you have a room. I did not know there was still an inn here. My map is old.\" Kostas said, \"Yes. Come in.\"",
+            "Her name was Ines. She was from Portugal. She was walking a very long trail across the Peloponnese — a trail Kostas had never heard of, that went from ancient shrine to ancient shrine. She had been walking for three weeks. She was quiet at supper but she smiled a lot. She told Yiayia and Kostas that she was walking because her mother had walked this same trail forty years ago, when she was Ines's age, and had always said Ines should walk it too. Her mother was still alive. But she was old now, and she would never walk it again. \"So I walk it for her,\" said Ines. \"When I get home I will tell her everything.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "In the morning Ines left before Kostas was awake. Yiayia was in the main room with something small in her hand. It was a small pebble. Round. Perfectly smooth. Water-worn. \"From a river,\" Yiayia said. \"She left it on the kitchen table with a note. The note said: My mother told me to pick up one stone at every good place. This is a stone from the river three days ago, when I remembered my mother most clearly. Please keep it. Thank you for the room. Kostas wrote it in the book. A small round river pebble. A young Portuguese woman walking her mother's old trail. She was carrying pieces of every place, and she left one of them here.",
+            "\"How many things does she have,\" Kostas asked. \"In her bag,\" said Yiayia. \"Many. But she left one of them here. That is what matters.\""
+          ]
+        },
+        {
+          "image": "in-ch2-p5-third-guest",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene. A silver dust-covered old motorcycle has stopped at the crossroads. A man in his forties (in a leather jacket, helmet in one hand) stands in the road looking at the small lit-up inn. A boy (Kostas, 11) has come out into the doorway. A single oil lamp burns above the door. Heavy ink outlines, flat shadows, cream palette with warm gold lamp and cool blue night.",
+          "paragraphs": [
+            "The third guest was different. He came at night, on a motorcycle. It was maybe eleven o'clock. Kostas was already in bed but he was still awake — he had been reading by lamplight. He heard the engine come up the road, then stop. He heard the engine turn off. Then silence. He heard nothing for a long time. He was afraid, a little. He went to Yiayia's room.",
+            "Yiayia was awake too. She had heard him. She was already in her dressing gown. She said, \"Come with me. Do not be afraid.\" They went to the front door. A man was standing in the road, looking at the inn. He was maybe forty. He was dressed in dark clothes. He looked lost. Yiayia opened the door. She said, \"Come in. Do you want a room?\" The man looked up. \"Yes,\" he said. \"If it is not too late.\" His voice was rough."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "What He Left",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ic-ch3-p1-late",
+          "imagePrompt": "Mike Mignola style for children: interior late night scene at the khani main room. A middle-aged man in dark clothes sits at one of the heavy wooden tables with a mug of tea. An older woman (Yiayia) sits across from him quietly. A boy (Kostas, 11) sits at a second table pretending to read. Warm lamp light casting soft shadows. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Yiayia gave the man tea. She did not offer him food — he said he was not hungry — but she made him tea in a heavy mug and set it in front of him. She sat down across from him. She did not say anything. Kostas sat at the next table with his book. He pretended to read. The man drank his tea. He was quiet for a long time. He did not look at anything in particular. Once he closed his eyes and kept them closed for maybe a minute.",
+            "Finally, without looking at Yiayia, he said, \"I was not going to stop here. I did not know there was a place. I was riding through. I do not know why I stopped.\" Yiayia said, in her soft voice, \"That is fine. You are here now. You can sleep upstairs. In the morning you can go on. There is no need to explain anything.\" The man looked at her for a moment. He said, \"I was thinking about doing something bad. Something to myself. It is why I was riding tonight. To think about it. I stopped here — I do not know why. I just did.\" He was quiet again."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Yiayia did not say anything for a long time. She did not react quickly. She looked down at her hands on the table. Kostas did not move. He did not know if he should be listening. He did not know if he should leave. He stayed very still. Finally Yiayia said, \"Sit for a while. Sit for as long as you want. There is no rush. I have been running this inn for many years. Some people come here who are having a hard time. Sometimes it helps them to just be somewhere for a night. Somewhere that is not their life. Somewhere old. You can be here. You can be here as long as you want.\"",
+            "The man nodded slowly. He held his tea in both hands. He sat there for maybe an hour. He did not talk much more. Sometimes he closed his eyes. Sometimes he looked at the shelf on the wall where all the small objects sat. Yiayia sat with him. Kostas sat too, still pretending to read. Eventually the man said he was tired. Yiayia showed him upstairs. She came back down. She sat with Kostas for a minute in the kitchen."
+          ]
+        },
+        {
+          "image": "ic-ch3-p3-quiet",
+          "imagePrompt": "Mike Mignola style for children: interior kitchen scene, very late. An older woman (Yiayia) sits at the small kitchen table with a boy (Kostas, 11). Both are quiet, hands around cups of tea. A small oil lamp lit between them. Deep night through the small window. Heavy ink outlines, flat shadows, warm cream palette with cool dark surroundings.",
+          "paragraphs": [
+            "\"Yiayia,\" said Kostas. He was scared. He whispered. \"Is he going to be all right.\" Yiayia thought about this. She said, \"I hope so. I do not know. But I think — I think if he was going to do what he was thinking about, he would not have stopped here. He stopped because he did not want to. Some part of him did not want to. So the part of him that does not want to is still there. That is a good sign. But I am not sure.\" She looked at Kostas. \"Do not be afraid. We just — we let him stay. That is what we do. That is all we can do. In the morning we see what happens.\"",
+            "Kostas sat for a long time in the kitchen after Yiayia went to bed. He was awake for hours. He listened. He did not hear the man moving upstairs. He did not hear the motorcycle. He did not hear anything at all. Eventually he fell asleep on the kitchen bench, his head on his arms."
+          ]
+        },
+        {
+          "image": "ic-ch3-p4-morning",
+          "imagePrompt": "Mike Mignola style for children: interior morning scene at the main room of the khani. Early bright dawn light through the window. The middle-aged man from the previous night sits at the kitchen table, hair damp from washing, drinking coffee. He looks tired but calmer, more present. An older woman (Yiayia) is at the counter making eggs. A boy (Kostas, 11) sits at the same table watching. Heavy ink outlines, flat shadows, cream palette with warm morning light.",
+          "paragraphs": [
+            "When Kostas woke up it was morning. The man was in the kitchen. He was sitting at the table drinking coffee. His hair was damp. He looked tired but he looked — he looked more present than he had the night before. Yiayia was making eggs. The man said, quietly, to Yiayia, \"Thank you for last night. I do not know why I stopped. But I am glad I did.\" Yiayia only nodded. She set a plate of eggs in front of him. She said, \"Eat. You need it.\"",
+            "He ate slowly. When he was finished, he stood up. He was going to go on. He did not say where. He paid for the room. He shook Yiayia's hand and held it for a moment longer than usual. He looked at Kostas and nodded. He said to both of them, \"I do not know what I am going to do next. But I am going to see the day. I am going to see this day, at least. That is more than I thought I would.\" And he went out. They heard the motorcycle start. They heard it go down the road, back the way it had come the night before. Toward the north."
+          ]
+        },
+        {
+          "image": "ic-ch3-p5-shelf",
+          "imagePrompt": "Mike Mignola style for children: close view of the shelf in the main room. A new object has been added to the collection: a single silver key on a small piece of dark leather cord. A boy's hand (Kostas, 11) is just about to place a new small object on the shelf beside the others. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Yiayia found it when she went upstairs to strip the bed. She came down with something small in her hand. It was a single silver key on a small piece of dark leather cord. It was worn. It was old. She said, \"He left this on the pillow.\" She turned it over in her palm. Kostas came and looked. \"What is it for,\" he said. \"I don't know,\" said Yiayia. \"It is a key. It probably opens something somewhere. Someone will never know where it went. But he chose this to leave. He carried it with him last night and today he chose to leave it here.\"",
+            "She looked at Kostas. \"That is a decision. That is a small decision he made this morning. Instead of doing what he was thinking about doing last night. He chose to leave a key at a crossroads.\" She held out the key. \"You put it on the shelf. And write it in the book.\" So Kostas took the key, and he set it on the shelf, beside the small carved wooden fish and the small river pebble. And he opened the ledger and he wrote, in careful handwriting: A silver key on a leather cord. A man on a motorcycle who was thinking of doing something bad and stopped here instead. He did not tell us his name. But he left the key. Then he closed the book, and he put it away. He never found out what happened to the man. But every time, for the rest of his life, that he thought about the shelf of small things, he thought of the key first, and he hoped."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grandmother",
+    "greece",
+    "kindness",
+    "strangers"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "keeper-of-glass",
+  "title": "The Keeper of Glass",
+  "subtitle": "A Summer on Murano",
+  "author": null,
+  "summary": "Elena is eleven and has been sent to spend three weeks with a family friend — Maestra Chiara, a glassblower on the island of Murano in the Venetian lagoon. Chiara is one of the last women who blow glass in the traditional way. Elena has been sent because her parents are divorcing and everyone thinks it would be good for her to be away. Chiara says nothing about that. She only asks Elena to help in the workshop.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-keeper-of-glass-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Elena) with dark hair in a low bun, wearing a light cotton work shirt with sleeves rolled up, standing to the side of a large stone glassblowing furnace on the island of Murano. In front of her, at the furnace mouth: Maestra Chiara, a woman in her sixties with white hair pulled back, in a leather apron, holding a long steel pipe with a glowing orange ball of molten glass at the end. Chiara is turning the pipe with both hands, her cheeks pink from the heat. Warm orange glow from the furnace lights their faces. Behind them: a small canal outside the open workshop door, dark water reflecting. Character positioned center-left, filling roughly 35% of frame height. Palette: warm cream (#FFF9F0), sepia stone, deep ink outlines, strong warm orange from the furnace, small dusty rose (#FF5B8D) accent on cheeks and glass. Small margin at top and bottom for card padding.",
+  "category": "wonder",
+  "isPremium": true,
+  "publishedAt": "2027-04-01",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Furnace",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "kg-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small canal on the island of Murano in the Venetian lagoon. Old brick and stucco buildings with faded pastel paint lean over the narrow canal. A small boat is tied to a stone landing. A girl (Elena, 11, dark hair, small suitcase) has just stepped off the boat onto the landing. Warm afternoon light. Heavy black ink outlines, flat shadows, cream and sepia palette with muted pastel building tones.",
+          "paragraphs": [
+            "Elena's parents were getting divorced. She was eleven. They had told her three weeks before at the kitchen table, both of them together, in the practiced calm voice adults used when they had rehearsed the words. It was not her fault. They still both loved her. They would work it out. That was what they had said. Then, in the next three weeks, they had done nothing but disagree — quietly, in the next room, when they thought she could not hear — and Elena had stopped sleeping through the night, and her mother had said, one Sunday, \"I think you should go stay with Aunt Chiara on Murano for a few weeks. Just to be somewhere. Just to be away from this.\" And Elena had said yes.",
+            "Aunt Chiara was not really her aunt. She was a very old friend of Elena's mother — they had been at school together in Padua when they were girls. Chiara lived alone on Murano and had for forty years. She was a glassblower — a maestra vetraia — which meant she was one of the master glassblowers of Murano, an old title, a serious one. She had never had children of her own. She was sixty-two years old. Elena had met her only twice before in her life, at family occasions, and both times she had been friendly but quiet, with white hair pulled back very neatly and hands that were dark and rough from her work."
+          ]
+        },
+        {
+          "image": "kg-ch1-p2-house",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small pale-pink stucco house on a Murano canal. Iron shutters. A small door at street level. An older woman (Maestra Chiara, sixties, white hair, in a linen shirt and dark trousers) opens the door to greet Elena (11) who stands with her suitcase. Warm afternoon light. Heavy ink outlines, flat shadows, cream palette with warm pastel tones.",
+          "paragraphs": [
+            "Elena took the train and then the vaporetto and then a smaller boat to Murano, and she found Chiara's house exactly where her mother had said — on a small canal, a pale-pink stucco building, three floors, with iron shutters. Chiara opened the door. She looked at Elena for a moment. She said, quietly, \"Come in. Your mother said you were coming. I have made you a small lunch. Bring your bag.\" She did not hug Elena. She did not ask how the trip had been. She just brought her inside. Elena was oddly grateful for this. She had been afraid Chiara would want to talk about the divorce. Chiara did not seem to want to talk about it at all.",
+            "The house was small and completely full of glass. Every shelf, every table, every windowsill had glass objects on it. Small bowls in colors Elena had not known existed. Long thin vases that looked like frozen water. A whole collection of small glass animals — a cat, a bird, a horse, a fish. Even the light fixtures were glass. Elena had not known so much glass could exist in one place. Chiara noticed her looking. She said, \"Most of it I made. Some of it my teacher made. A few pieces are from friends. I have been doing this for forty years. Every year some pieces stay. They accumulate. Come. Lunch.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They ate a small simple meal at the kitchen table. Boiled eggs. Bread. Olive oil. Tomatoes. Chiara ate slowly. She did not ask Elena much. She said, \"You will sleep in the small room at the top. It is quiet. The window looks at the canal. If you need anything, ask me. If you do not want to ask, there is bread and butter always. Eat when you are hungry. If you need to cry, cry. If you need to be quiet, be quiet. I am the same. I will not bother you.\"",
+            "Elena nodded. She did not know what to say. Chiara said, \"Tomorrow morning I go to the workshop at six. If you want to come, come. If you want to sleep, sleep. It is up to you. There is no rule about what a guest does here. My only rule is that you eat.\" Elena said, \"I would like to come to the workshop.\" Chiara nodded. She said, \"Then I will wake you at five-thirty. Do you drink coffee.\" Elena said, \"No. I am eleven.\" Chiara said, \"Ah. Then I will make you tea.\""
+          ]
+        },
+        {
+          "image": "kg-ch1-p4-workshop",
+          "imagePrompt": "Mike Mignola style for children: interior view of a traditional Murano glass workshop. A large stone furnace at the center, glowing orange at its mouth. Long steel pipes hanging on a wall rack. Various wooden and metal tools laid out on a workbench. A small water bucket. Wooden benches for glassblowing. Warm morning light through the open door onto a canal. Elena (11) stands at the doorway looking in. Heavy ink outlines, flat shadows, cream palette with strong warm orange from furnace.",
+          "paragraphs": [
+            "The workshop was in a separate building down the canal. It was one large stone-walled room with a great stone furnace in the center. When Elena walked in, at just after six in the morning, the heat from the furnace hit her like a wall. The mouth of the furnace glowed orange. Around the room were long metal pipes hanging on racks, wooden and metal tools laid out on a workbench, wooden benches shaped like slides where a glassblower sat to work, and a small bucket of water for cooling.",
+            "\"The furnace burns at 1200 degrees,\" Chiara said. She was already at the wall pulling on a leather apron. \"It burns like this twenty-four hours a day. If we let it cool down, it would take three days to heat back up. So we do not let it cool down, ever. It has been burning without stopping for eleven months. When the winter comes, we shut down for a month, we rebuild the inside, and then we relight it. That is the rhythm.\""
+          ]
+        },
+        {
+          "image": "kg-ch1-p5-first-glass",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the workshop. Chiara (sixties) sits at a wooden bench with a long steel pipe across her lap. At the end of the pipe: a glowing orange sphere of molten glass. She is turning the pipe with both hands, shaping the ball against a small wooden paddle. Elena (11) sits nearby watching intently. Warm orange glow. Heavy ink outlines, flat shadows, cream palette with strong warm orange.",
+          "paragraphs": [
+            "Chiara showed her what she was going to do that morning. She was making a small blue bowl for a customer in Milan. \"Watch,\" she said. She took a long steel pipe and pushed one end into a pot of molten glass inside the furnace. She turned the pipe slowly. When she brought it out, there was a small glowing orange lump of glass on the end of the pipe. She sat at one of the wooden benches. She rolled the pipe on the bench arms with both hands. The glass began to take shape. She blew — one long slow breath — into her end of the pipe. The glass on the far end bubbled outward slowly. She turned it. She blew again. The glass was becoming a small hollow ball.",
+            "Elena had never seen this before. She had seen glass — everyone had seen glass — but she had not really understood what it was made of, or how. It was like watching a person blow a soap bubble that was slowly turning into an object. It was slow. It was beautiful. It was completely alive."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Small Fish",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "kg-ch2-p1-first-week",
+          "imagePrompt": "Mike Mignola style for children: interior workshop scene. Elena (11) sits on a stool near Chiara at the bench, watching the glassblowing process closely. Chiara is holding a partly-finished small vase on the end of the pipe, shaping its neck with a wooden tool. Warm orange furnace glow. Heavy ink outlines, flat shadows, cream palette with warm orange.",
+          "paragraphs": [
+            "For the first week Elena mostly watched. Chiara made her sit at a safe distance, on a wooden stool near the wall, and just watch. Chiara did not explain very much. She said, \"Ask me any question you want. But at first — just look. Your eyes will teach you more than my words.\" So Elena looked. She watched Chiara make bowls, and small vases, and long-necked flasks, and once a beautiful spiral shape that Chiara said was going to be a hanging light fixture. She watched Chiara move — the exact steps of her feet from the furnace to the bench and back, the exact turn of her wrist as she rolled the pipe.",
+            "In the evenings Elena went back to the house and slept, or sat by the small window in her room looking out at the canal, or read the books Chiara had left on the small shelf beside the bed. Chiara did not ask her about her parents. Elena did not talk about them. But she thought about them, in a quieter way than she had at home. Something about the days spent watching molten glass being shaped — a slow calm process that could not be rushed — had slowed her mind down. She still felt sad about the divorce. But the sadness had — space around it now. It was not the only thing in her head."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "On the eighth day, Chiara said, \"Come. Try something small.\" She led Elena to the pipe rack. She showed her how to hold the pipe. She showed her — with a cold pipe, no glass — how to blow into it slowly and steadily. \"Not fast,\" she said. \"Slow. As slow as a whole breath in and out. The glass responds to how you breathe. If you rush, it becomes uneven. If you are steady, it stays round.\" She had Elena practice breathing into a cold pipe for maybe half an hour. Elena thought she was doing it well. Chiara said, \"Better. But your shoulders are up. Drop them. Breathe from your belly, not your chest. Try again.\"",
+            "That afternoon Chiara let her actually work with hot glass. Chiara put a small amount of molten glass on the end of a pipe. She handed the pipe to Elena. \"I will hold the far end,\" said Chiara. \"You blow. Slow. Long. Do not stop until I say stop.\" Elena blew. The glass bubbled outward — a small orange ball forming at the far end of the pipe. Elena kept blowing. She could feel it — really feel it — a small live thing at the other end of the pipe that responded to her breath. When Chiara said \"stop,\" Elena stopped. She was slightly out of breath. Chiara said, \"Good. You held it round. That is much harder than it looks. This is going to be a small orb. We will let it cool. It will be yours.\""
+          ]
+        },
+        {
+          "image": "kg-ch2-p3-orb",
+          "imagePrompt": "Mike Mignola style for children: interior workshop scene. Chiara (sixties) hands Elena (11) a small, cool, round glass orb. The orb is a pale amber color and about the size of a large marble. Both are looking at it. Warm workshop light. Heavy ink outlines, flat shadows, cream palette with warm gold accents.",
+          "paragraphs": [
+            "The next morning the orb was cool. Chiara took it off the pipe and handed it to Elena. It was a small pale-amber ball, about the size of a large marble. It was perfectly round. It was hollow — you could see, if you held it to the light, that it had a small empty space in the middle. Elena held it in her palm. It was very light. It caught the light from the window and glowed slightly.",
+            "\"That,\" Chiara said, \"is your breath. Frozen. Every piece of blown glass is a person's breath, turned solid. That is what glassblowing is, really. You breathe out. The glass captures the shape of your breath. Then it cools. Now the shape is permanent. In fifty years this will still be here. Your breath from yesterday morning, held in glass. That is what we do.\" Elena looked at the small orb. She had known glass was blown. She had not known — she had not felt — what that really meant. She said, quietly, \"That is a beautiful way to think of it.\" Chiara said, \"It is not only a way to think of it. It is what it is.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "In the second week Chiara let Elena try to make a small object — not just an orb, but something shaped. Elena chose a fish. There was one small glass fish in Chiara's house — pale green — that she had noticed on the first day, and she wanted to try to make one like it. Chiara said, \"A fish is not easy. You will not make it well on your first try. You may not make it well on your fiftieth try. But we can try. It will teach you many things whether you succeed or not.\"",
+            "So Elena tried. Every day for a week she tried. Every day she made a small mess of a fish — one had no fins, one had a lopsided body, one broke while she was trying to pull the tail out. Elena did not get frustrated. She had learned something in the first week about slowness. Chiara did not get frustrated either. She only kept teaching. \"The tail comes out with a small pair of pincers. Not tweezers — pincers. Watch. Like this. You have to be quick but not fast. Yes. Try again.\""
+          ]
+        },
+        {
+          "image": "kg-ch2-p5-first-fish",
+          "imagePrompt": "Mike Mignola style for children: interior workshop close view. Elena (11) holds up a small finished pale-green glass fish about the length of her finger, examining it with a proud face. Chiara (sixties) stands beside her looking at it too, with a small smile. Warm workshop light. Heavy ink outlines, flat shadows, cream palette with warm gold and cool green accents.",
+          "paragraphs": [
+            "On the sixth day of the second week, Elena made a real fish. It was small — about the length of her finger — and pale green. It had a fat little body, two small clear fins on the sides, and a tail. The tail was not quite even. One eye was a little off. But it was a fish. It stayed together when Chiara took it off the pipe. It cooled. It became solid. It could be held. It looked like a fish. Elena held it in both hands, in the workshop, and she laughed a small laugh, and Chiara smiled, and neither of them said much because there was not much to say. It was a fish. Elena had made it.",
+            "That evening they had supper together at Chiara's kitchen table. Chiara had put the small fish in the middle of the table between them. Chiara said, \"Elena. What is the fish going to be for. You should decide now. Not later. Now. What is its use going to be.\" Elena thought. She said, \"Can it just be — a fish. That I keep.\" Chiara said, \"Of course. But — I want you to also think about — is there a person in your life who might need a small glass fish. Maybe more than you do. Not that you should give it to them. Just that you should think about it.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Two Fish",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "kg-ch3-p1-thinking",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Elena (11) sits by the small window of her upstairs bedroom, looking out at the canal. The small green glass fish sits on the windowsill beside her, catching the evening light. Warm evening tones. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "That night Elena lay awake for a long time. She thought about the fish. She thought about her mother. She thought about her father. They had both, at different times in the last few months, said something similar to her — something like, \"I know this is hard, sweetheart. I love you. Do you have anything you want to say to me.\" And she had never really had anything to say. She had been too full of feeling to find any words. She had wished she could — she thought about this now, lying in bed — give them something. Not words. A thing. A small thing that meant — I still love you. I know this is hard for you too. I am okay.",
+            "She thought — a small fish. A small glass fish. Small enough to hold in one hand. One for her mother. One for her father. They would each have one. And she would have one too, at Chiara's, that would stay here. Three fish. She would know they were all part of the same summer. Even if her parents lived in different apartments and never saw each other again, they would each have their fish, and she would have hers, and the three fish would be, in some invisible way, still a family."
+          ]
+        },
+        {
+          "image": "kg-ch3-p2-request",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the kitchen table over breakfast. Elena (11) sits across from Chiara (sixties). Both have cups of tea/coffee. Elena is talking, hands slightly gesturing. Chiara listens with a soft still expression. Warm morning light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "In the morning at breakfast Elena said, \"Chiara. Can I make two more fish. So I have three. One for my mother. One for my father. One for me.\" Chiara set down her coffee. She looked at Elena for a long moment. Her face did not change much but her eyes did. She said, in her quiet voice, \"Yes, Elena. Of course. That is a very good use for glass fish.\" She was silent for a moment. Then she said, \"Do you want them all to be the same color? Or different.\" Elena thought. She said, \"Different. My mother — she likes red. Deep red. My father likes blue. Deep dark blue. Mine — I will keep the green one. That is my color now, because it is the first fish I made.\"",
+            "Chiara nodded. She said, \"Then today we make a dark red fish and a dark blue fish. Come. To the workshop.\""
+          ]
+        },
+        {
+          "image": "kg-ch3-p3-making",
+          "imagePrompt": "Mike Mignola style for children: interior workshop close view. Elena (11) at the bench with a small orange-glowing glass on the end of a pipe. Chiara (sixties) stands beside her, one hand hovering to guide but not touching. Focused work. Warm orange glow. Heavy ink outlines, flat shadows, cream palette with warm orange.",
+          "paragraphs": [
+            "It took her all day to make both. The red one first. Chiara had a specific mineral — she called it a color rod — that she added to the molten glass to make the deep red. Elena worked slowly. She did the breathing. She did the shaping. She made a small mistake and Chiara had to help her recover it — she pinched the tail too hard and it started to sag, and Chiara reheated it in the furnace and Elena tried again. The finished red fish was slightly larger than the green one. It had a slightly rounder body. It stayed together. It was a good fish.",
+            "The blue one was harder. The blue color rod was more delicate — it could go grey if the glass was too hot. Chiara had to help her more. But by the end of the afternoon Elena had a small deep blue fish, about the same size as the red one, with a similarly shaped body. She lined them up on the workbench — green, red, blue. Three small fish. Three small solidified breaths. Chiara stood behind her and looked at them. She said, \"They will hold their color for hundreds of years, Elena. If your mother keeps hers, and your father keeps his, and you keep yours — in a hundred years, someone will find them somewhere. They will not know what they are. They will only know that someone made three small fish, once, on Murano.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Elena stayed for one more week after that. In the last week she did not blow any more glass. She just — was there. Sometimes she sat in the workshop and watched Chiara work. Sometimes she went for walks along the canals. Sometimes she read on the small stone bench outside Chiara's house. She had — she noticed — stopped feeling like she was drowning. She was still sad. The sadness had not gone. But she could carry it now. Something about the fish. Something about the way Chiara had let her make them without asking why.",
+            "On the last evening Chiara said something. They were at the kitchen table again. Chiara said, quietly, \"Elena. I want to tell you something. My parents divorced when I was fourteen. That was — a long time ago now. It was very hard. Nobody talked about it in the way we talk about it now. There was more shame around it then. I was very lonely. I stopped talking to almost everyone. But I had a teacher — the same teacher who taught me glass — who did not ask me questions. She only let me be at her workshop. She only let me sit and watch and, eventually, try to blow glass. She never asked about my family. But she gave me a place to be a person while all of that was happening. That is what I have tried to do for you. That is why your mother sent you to me. I think she remembered that I understood this.\""
+          ]
+        },
+        {
+          "image": "kg-ch3-p5-home",
+          "imagePrompt": "Mike Mignola style for children: interior scene at Elena's home in Padua. Elena (11, dressed for indoors) sits at a small kitchen table between her mother on one side and her father on the other side. Both parents are looking at the two small glass fish (red and blue) that sit on the table. Elena watches them. Warm evening lamp light. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "Elena went home the next morning. Her parents met her at the train station in Padua together — the first time she had seen them in the same place in three weeks. They were awkward. They were both trying. Elena hugged her mother, then her father. That evening — because they wanted to have a small welcome-home dinner together, even though they were getting divorced — the three of them sat at the kitchen table. Elena took a small box out of her bag. She opened it. Inside, wrapped in soft cloth, were the two fish. She put one in front of her mother. She put one in front of her father. She said, \"I made these. They are for you.\"",
+            "Her mother picked up the red fish. She held it very carefully. She looked at it for a long time. Her eyes filled with tears. Her father picked up the blue fish. He did the same. Elena said, \"I have a green one too. That is mine. I made three. So that — whatever happens with you two — the three of us have three fish. From the same day. From the same furnace. Made by the same person. And I want you to keep them. Wherever you live. Please.\"",
+            "Her parents did not speak for a moment. Then her mother put her arm around Elena, and her father put his hand on Elena's other shoulder, and neither of them said anything. Elena understood that they had heard her. She understood that they would keep the fish. She understood that this was not going to fix everything — this was not the point of the fish — but that it was going to make one small thing better. And she thought — Chiara was right about what a small thing can be for."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "divorce",
+    "italy",
+    "craft",
+    "wonder"
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "story_id": "the-radio-boy",
+  "chapter": 1,
+  "total_duration_ms": 278640,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Ren's grandmother lived in a wooden farmhouse at the edge of a small village in eastern Hokkaido, deep in the pine forests, where the summer nights were cool and full of the sound of crickets.",
+      "start_ms": 1480,
+      "end_ms": 13897
+    },
+    {
+      "index": 1,
+      "text": "She had lived there alone since Ojiichan had died, three years before, and every August Ren came to stay with her for two weeks.",
+      "start_ms": 13897,
+      "end_ms": 22197
+    },
+    {
+      "index": 2,
+      "text": "He was ten.",
+      "start_ms": 22197,
+      "end_ms": 22969
+    },
+    {
+      "index": 3,
+      "text": "He liked the house.",
+      "start_ms": 22969,
+      "end_ms": 24256
+    },
+    {
+      "index": 4,
+      "text": "He liked the smell of it — old wood and cedar smoke — and the way the floors creaked in specific places that he had memorized.",
+      "start_ms": 24256,
+      "end_ms": 32426
+    },
+    {
+      "index": 5,
+      "text": "He liked Obaachan.",
+      "start_ms": 32426,
+      "end_ms": 33713
+    },
+    {
+      "index": 6,
+      "text": "This year was different, because Obaachan was moving out of the house at the end of the summer.",
+      "start_ms": 33713,
+      "end_ms": 39890
+    },
+    {
+      "index": 7,
+      "text": "It was too big for her now, and it was too far from the village doctor, and Ren's father had convinced her, finally, to move into an apartment closer to the town.",
+      "start_ms": 39890,
+      "end_ms": 50377
+    },
+    {
+      "index": 8,
+      "text": "Ren had known this was coming, but seeing the house — his house, in a way, since he had known it his whole life — with cardboard boxes stacked in every room made his stomach feel strange.",
+      "start_ms": 50377,
+      "end_ms": 62537
+    },
+    {
+      "index": 9,
+      "text": "\"You can help me with the attic,\" Obaachan said, on the second day.",
+      "start_ms": 62537,
+      "end_ms": 66912
+    },
+    {
+      "index": 10,
+      "text": "\"I have not been up there in maybe ten years.",
+      "start_ms": 66912,
+      "end_ms": 69871
+    },
+    {
+      "index": 11,
+      "text": "Ojiichan used to work up there.",
+      "start_ms": 69871,
+      "end_ms": 71930
+    },
+    {
+      "index": 12,
+      "text": "I do not know what is left.",
+      "start_ms": 71930,
+      "end_ms": 73732
+    },
+    {
+      "index": 13,
+      "text": "You can go through it and tell me what to keep and what to give away.\" Ren was glad to have a job.",
+      "start_ms": 73732,
+      "end_ms": 80101
+    },
+    {
+      "index": 14,
+      "text": "He climbed up through the small trap door in the ceiling of the upstairs hallway and pulled himself into the attic.",
+      "start_ms": 80101,
+      "end_ms": 87564
+    },
+    {
+      "index": 15,
+      "text": "It was hotter than the rest of the house.",
+      "start_ms": 87564,
+      "end_ms": 90267
+    },
+    {
+      "index": 16,
+      "text": "The ceiling was low.",
+      "start_ms": 90267,
+      "end_ms": 91618
+    },
+    {
+      "index": 17,
+      "text": "There was one small round window at the far end that let in a circle of warm afternoon light.",
+      "start_ms": 91618,
+      "end_ms": 97730
+    },
+    {
+      "index": 18,
+      "text": "There were boxes everywhere.",
+      "start_ms": 97730,
+      "end_ms": 99596
+    },
+    {
+      "index": 19,
+      "text": "Old winter clothes wrapped in paper.",
+      "start_ms": 99596,
+      "end_ms": 101976
+    },
+    {
+      "index": 20,
+      "text": "A stack of magazines from the 1970s.",
+      "start_ms": 101976,
+      "end_ms": 104357
+    },
+    {
+      "index": 21,
+      "text": "A broken lantern.",
+      "start_ms": 104357,
+      "end_ms": 105515
+    },
+    {
+      "index": 22,
+      "text": "A wooden go board.",
+      "start_ms": 105515,
+      "end_ms": 106737
+    },
+    {
+      "index": 23,
+      "text": "Ren opened boxes slowly.",
+      "start_ms": 106737,
+      "end_ms": 108346
+    },
+    {
+      "index": 24,
+      "text": "Some things he took down and showed to Obaachan.",
+      "start_ms": 108346,
+      "end_ms": 111498
+    },
+    {
+      "index": 25,
+      "text": "Some things he pushed to one side to give away.",
+      "start_ms": 111498,
+      "end_ms": 114586
+    },
+    {
+      "index": 26,
+      "text": "He was there for two whole afternoons before he found the radio.",
+      "start_ms": 114586,
+      "end_ms": 118704
+    },
+    {
+      "index": 27,
+      "text": "It was in a wooden crate at the back of the attic, wrapped in an old blanket.",
+      "start_ms": 118704,
+      "end_ms": 123471
+    },
+    {
+      "index": 28,
+      "text": "When Ren pulled the blanket off, he saw a large wooden box with brass dials on the front and a small window in the middle.",
+      "start_ms": 123471,
+      "end_ms": 130989
+    },
+    {
+      "index": 29,
+      "text": "The window was marked with numbers — kilohertz, he found out later — and it had a delicate needle that was still in one piece even after all these years.",
+      "start_ms": 130989,
+      "end_ms": 140401
+    },
+    {
+      "index": 30,
+      "text": "There was a coiled cord attached, and at the end of the cord was a pair of canvas-covered headphones.",
+      "start_ms": 140401,
+      "end_ms": 146635
+    },
+    {
+      "index": 31,
+      "text": "The radio was heavy.",
+      "start_ms": 146635,
+      "end_ms": 147919
+    },
+    {
+      "index": 32,
+      "text": "It was much older than Ren.",
+      "start_ms": 147919,
+      "end_ms": 149691
+    },
+    {
+      "index": 33,
+      "text": "He carried it very carefully down to the main room.",
+      "start_ms": 149691,
+      "end_ms": 152870
+    },
+    {
+      "index": 34,
+      "text": "He set it on the table in front of Obaachan.",
+      "start_ms": 152870,
+      "end_ms": 155620
+    },
+    {
+      "index": 35,
+      "text": "She looked at it for a long moment.",
+      "start_ms": 155620,
+      "end_ms": 157820
+    },
+    {
+      "index": 36,
+      "text": "Then she smiled, softly.",
+      "start_ms": 157820,
+      "end_ms": 159348
+    },
+    {
+      "index": 37,
+      "text": "\"That was Ojiichan's,\" she said.",
+      "start_ms": 159348,
+      "end_ms": 161365
+    },
+    {
+      "index": 38,
+      "text": "\"He built it when he was your age.",
+      "start_ms": 161365,
+      "end_ms": 163504
+    },
+    {
+      "index": 39,
+      "text": "He was ten or eleven.",
+      "start_ms": 163504,
+      "end_ms": 164849
+    },
+    {
+      "index": 40,
+      "text": "He was very proud of it.",
+      "start_ms": 164849,
+      "end_ms": 166377
+    },
+    {
+      "index": 41,
+      "text": "He listened to it for many years — he could hear stations from all over Asia at night.",
+      "start_ms": 166377,
+      "end_ms": 171694
+    },
+    {
+      "index": 42,
+      "text": "Russia, Korea, sometimes even further.",
+      "start_ms": 171694,
+      "end_ms": 174078
+    },
+    {
+      "index": 43,
+      "text": "When he got older he did not use it as much.",
+      "start_ms": 174078,
+      "end_ms": 176828
+    },
+    {
+      "index": 44,
+      "text": "But he never let anyone throw it away.\"",
+      "start_ms": 176828,
+      "end_ms": 179334
+    },
+    {
+      "index": 45,
+      "text": "\"Does it still work,\" Ren asked.",
+      "start_ms": 179334,
+      "end_ms": 181351
+    },
+    {
+      "index": 46,
+      "text": "Obaachan shrugged.",
+      "start_ms": 181351,
+      "end_ms": 182512
+    },
+    {
+      "index": 47,
+      "text": "\"I do not know.",
+      "start_ms": 182512,
+      "end_ms": 183490
+    },
+    {
+      "index": 48,
+      "text": "I have not turned it on since — probably since he died.",
+      "start_ms": 183490,
+      "end_ms": 186913
+    },
+    {
+      "index": 49,
+      "text": "Maybe longer.",
+      "start_ms": 186913,
+      "end_ms": 187769
+    },
+    {
+      "index": 50,
+      "text": "You could try.",
+      "start_ms": 187769,
+      "end_ms": 188685
+    },
+    {
+      "index": 51,
+      "text": "It plugs into the wall.",
+      "start_ms": 188685,
+      "end_ms": 190152
+    },
+    {
+      "index": 52,
+      "text": "There.\" She pointed at a cord ending in an old plug.",
+      "start_ms": 190152,
+      "end_ms": 193391
+    },
+    {
+      "index": 53,
+      "text": "\"Be careful.",
+      "start_ms": 193391,
+      "end_ms": 194186
+    },
+    {
+      "index": 54,
+      "text": "It is very old.",
+      "start_ms": 194186,
+      "end_ms": 195164
+    },
+    {
+      "index": 55,
+      "text": "If it does not turn on, that is fine.",
+      "start_ms": 195164,
+      "end_ms": 197486
+    },
+    {
+      "index": 56,
+      "text": "Do not try to fix it.\"",
+      "start_ms": 197486,
+      "end_ms": 198953
+    },
+    {
+      "index": 57,
+      "text": "Ren plugged the radio into the wall socket in the corner of the main room.",
+      "start_ms": 198953,
+      "end_ms": 203537
+    },
+    {
+      "index": 58,
+      "text": "He held his breath.",
+      "start_ms": 203537,
+      "end_ms": 204760
+    },
+    {
+      "index": 59,
+      "text": "He turned the small silver knob on the front.",
+      "start_ms": 204760,
+      "end_ms": 207571
+    },
+    {
+      "index": 60,
+      "text": "There was a click.",
+      "start_ms": 207571,
+      "end_ms": 208732
+    },
+    {
+      "index": 61,
+      "text": "Then a soft warm hum began.",
+      "start_ms": 208732,
+      "end_ms": 210444
+    },
+    {
+      "index": 62,
+      "text": "The amber tuning window slowly glowed to life, a pale gold.",
+      "start_ms": 210444,
+      "end_ms": 214111
+    },
+    {
+      "index": 63,
+      "text": "Ren looked at Obaachan.",
+      "start_ms": 214111,
+      "end_ms": 215578
+    },
+    {
+      "index": 64,
+      "text": "Obaachan looked at the radio.",
+      "start_ms": 215578,
+      "end_ms": 217411
+    },
+    {
+      "index": 65,
+      "text": "Neither of them spoke for a moment.",
+      "start_ms": 217411,
+      "end_ms": 219612
+    },
+    {
+      "index": 66,
+      "text": "Then Obaachan said, softly, \"Well.",
+      "start_ms": 219612,
+      "end_ms": 221751
+    },
+    {
+      "index": 67,
+      "text": "It is still alive.\"",
+      "start_ms": 221751,
+      "end_ms": 222912
+    },
+    {
+      "index": 68,
+      "text": "That evening Ren sat with the radio for hours.",
+      "start_ms": 222912,
+      "end_ms": 225838
+    },
+    {
+      "index": 69,
+      "text": "Obaachan showed him how to use the dials — the big one moved fast through the frequencies, the small one moved slow, for tuning finely.",
+      "start_ms": 225838,
+      "end_ms": 234307
+    },
+    {
+      "index": 70,
+      "text": "He put the headphones on.",
+      "start_ms": 234307,
+      "end_ms": 235926
+    },
+    {
+      "index": 71,
+      "text": "He listened.",
+      "start_ms": 235926,
+      "end_ms": 236735
+    },
+    {
+      "index": 72,
+      "text": "At first he only heard static and small pops.",
+      "start_ms": 236735,
+      "end_ms": 239599
+    },
+    {
+      "index": 73,
+      "text": "Then, as the sky got darker outside, and the shortwave signals traveled further, he began to hear things.",
+      "start_ms": 239599,
+      "end_ms": 246199
+    },
+    {
+      "index": 74,
+      "text": "Music from somewhere.",
+      "start_ms": 246199,
+      "end_ms": 247569
+    },
+    {
+      "index": 75,
+      "text": "A voice speaking in Chinese.",
+      "start_ms": 247569,
+      "end_ms": 249375
+    },
+    {
+      "index": 76,
+      "text": "A voice in Russian, singing along to a song Ren did not know.",
+      "start_ms": 249375,
+      "end_ms": 253236
+    },
+    {
+      "index": 77,
+      "text": "Weather reports in Korean.",
+      "start_ms": 253236,
+      "end_ms": 254917
+    },
+    {
+      "index": 78,
+      "text": "It felt like he was listening to the whole edge of the country at once.",
+      "start_ms": 254917,
+      "end_ms": 259462
+    },
+    {
+      "index": 79,
+      "text": "\"It is a magic thing,\" he said to Obaachan, taking off the headphones.",
+      "start_ms": 259462,
+      "end_ms": 263883
+    },
+    {
+      "index": 80,
+      "text": "\"It really is a magic thing.\" Obaachan smiled.",
+      "start_ms": 263883,
+      "end_ms": 266809
+    },
+    {
+      "index": 81,
+      "text": "\"Ojiichan thought so too,\" she said.",
+      "start_ms": 266809,
+      "end_ms": 269113
+    },
+    {
+      "index": 82,
+      "text": "\"He used to say the radio was proof that people are less alone than they think.",
+      "start_ms": 269113,
+      "end_ms": 274095
+    },
+    {
+      "index": 83,
+      "text": "There are always voices in the air.",
+      "start_ms": 274095,
+      "end_ms": 276336
+    },
+    {
+      "index": 84,
+      "text": "You only have to know how to listen.\"",
+      "start_ms": 276336,
+      "end_ms": 278640
+    }
+  ]
+}

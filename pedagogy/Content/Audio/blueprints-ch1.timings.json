@@ -1,0 +1,349 @@
+{
+  "story_id": "blueprints",
+  "chapter": 1,
+  "total_duration_ms": 260904,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The apartment where Bea lived with her father was on the top floor of an old brick building in Chicago, and above their apartment was an attic that no one ever went into.",
+      "start_ms": 2019,
+      "end_ms": 12174
+    },
+    {
+      "index": 1,
+      "text": "It had a low sloped ceiling and a single round window at the far end that looked out at the roofs of the neighborhood.",
+      "start_ms": 12174,
+      "end_ms": 19241
+    },
+    {
+      "index": 2,
+      "text": "Her father kept old tax papers and Christmas boxes up there, and he had told Bea once that she was not to go in alone, because he had never checked the floorboards.",
+      "start_ms": 19241,
+      "end_ms": 29098
+    },
+    {
+      "index": 3,
+      "text": "But it was the second week of summer, and Bea was eleven, and her father was at work at the university, and she had been reading a book about an English girl who found a magic garden in the ruins of a manor house.",
+      "start_ms": 29098,
+      "end_ms": 41807
+    },
+    {
+      "index": 4,
+      "text": "When she closed the book, she thought about the attic.",
+      "start_ms": 41807,
+      "end_ms": 45073
+    },
+    {
+      "index": 5,
+      "text": "She thought about it for a long time.",
+      "start_ms": 45073,
+      "end_ms": 47330
+    },
+    {
+      "index": 6,
+      "text": "And then she got the small step-stool from the kitchen and she carried it into the hallway, and she pulled the string, and the folding ladder came down.",
+      "start_ms": 47330,
+      "end_ms": 56475
+    },
+    {
+      "index": 7,
+      "text": "The attic smelled like paper and cedar and a little bit of dust.",
+      "start_ms": 56475,
+      "end_ms": 60335
+    },
+    {
+      "index": 8,
+      "text": "There were more boxes than Bea had expected.",
+      "start_ms": 60335,
+      "end_ms": 63007
+    },
+    {
+      "index": 9,
+      "text": "Most were labeled in her father's small square handwriting — TAXES 2018, CHRISTMAS LIGHTS, TOBY (which was the name of a cat they had once had).",
+      "start_ms": 63007,
+      "end_ms": 71618
+    },
+    {
+      "index": 10,
+      "text": "But behind those, against the far wall under the round window, there was a box that had no label at all.",
+      "start_ms": 71618,
+      "end_ms": 77853
+    },
+    {
+      "index": 11,
+      "text": "The cardboard was old and soft.",
+      "start_ms": 77853,
+      "end_ms": 79754
+    },
+    {
+      "index": 12,
+      "text": "The flaps were tucked closed rather than taped.",
+      "start_ms": 79754,
+      "end_ms": 82663
+    },
+    {
+      "index": 13,
+      "text": "Bea opened the box.",
+      "start_ms": 82663,
+      "end_ms": 83851
+    },
+    {
+      "index": 14,
+      "text": "Inside were folded blueprints — big architect's papers, the kind that unfold into sheets almost as wide as she was tall.",
+      "start_ms": 83851,
+      "end_ms": 91037
+    },
+    {
+      "index": 15,
+      "text": "And on top of the blueprints, in a leather cover that had gone the color of old honey, was a sketchbook.",
+      "start_ms": 91037,
+      "end_ms": 97272
+    },
+    {
+      "index": 16,
+      "text": "The initials on the cover were R.",
+      "start_ms": 97272,
+      "end_ms": 99291
+    },
+    {
+      "index": 17,
+      "text": "L.",
+      "start_ms": 99291,
+      "end_ms": 99469
+    },
+    {
+      "index": 18,
+      "text": "M.",
+      "start_ms": 99469,
+      "end_ms": 99647
+    },
+    {
+      "index": 19,
+      "text": "Rachel Louisa Marchetti.",
+      "start_ms": 99647,
+      "end_ms": 101132
+    },
+    {
+      "index": 20,
+      "text": "Her mother's.",
+      "start_ms": 101132,
+      "end_ms": 101904
+    },
+    {
+      "index": 21,
+      "text": "Bea sat down on the attic floor with the sketchbook in her lap.",
+      "start_ms": 101904,
+      "end_ms": 105772
+    },
+    {
+      "index": 22,
+      "text": "She opened it very carefully.",
+      "start_ms": 105772,
+      "end_ms": 107585
+    },
+    {
+      "index": 23,
+      "text": "She had been told about her mother her whole life — that she had been an architect, that she had loved windows more than walls, that she had died when Bea was five, in a small car accident on the highway coming back from a work trip.",
+      "start_ms": 107585,
+      "end_ms": 121726
+    },
+    {
+      "index": 24,
+      "text": "Bea had two memories of her mother, or maybe just one and a half.",
+      "start_ms": 121726,
+      "end_ms": 125714
+    },
+    {
+      "index": 25,
+      "text": "One was the smell of her hair, which was like green tea.",
+      "start_ms": 125714,
+      "end_ms": 129159
+    },
+    {
+      "index": 26,
+      "text": "The other was a laugh, low and small, that she was not sure she was remembering correctly.",
+      "start_ms": 129159,
+      "end_ms": 134719
+    },
+    {
+      "index": 27,
+      "text": "The first page of the sketchbook was a drawing of a house.",
+      "start_ms": 134719,
+      "end_ms": 138284
+    },
+    {
+      "index": 28,
+      "text": "But it was not a house that could exist.",
+      "start_ms": 138284,
+      "end_ms": 140762
+    },
+    {
+      "index": 29,
+      "text": "It had three floors, and each floor was slightly rotated from the one below, so the whole building seemed to twist as it went up.",
+      "start_ms": 140762,
+      "end_ms": 148618
+    },
+    {
+      "index": 30,
+      "text": "There were spiral stairs on the outside, wrapping around.",
+      "start_ms": 148618,
+      "end_ms": 152123
+    },
+    {
+      "index": 31,
+      "text": "There was a garden on the roof with tiny drawn trees.",
+      "start_ms": 152123,
+      "end_ms": 155386
+    },
+    {
+      "index": 32,
+      "text": "There was a curved wall on the second floor that had no straight edges at all.",
+      "start_ms": 155386,
+      "end_ms": 160160
+    },
+    {
+      "index": 33,
+      "text": "And in the margin, in her mother's handwriting — Bea recognized it from the recipe cards her father still kept in the kitchen — there was a note that said: A house should follow the sun.",
+      "start_ms": 160160,
+      "end_ms": 171461
+    },
+    {
+      "index": 34,
+      "text": "It should not sit still and wait for the sun to come to it.",
+      "start_ms": 171461,
+      "end_ms": 175148
+    },
+    {
+      "index": 35,
+      "text": "Bea turned the page.",
+      "start_ms": 175148,
+      "end_ms": 176417
+    },
+    {
+      "index": 36,
+      "text": "There was another drawing.",
+      "start_ms": 176417,
+      "end_ms": 178048
+    },
+    {
+      "index": 37,
+      "text": "A room where the walls were bookshelves that went all the way up to the ceiling, and the ceiling was glass, and above the glass ceiling was a small pond, so that anyone lying on the floor of the library and looking up would see the shadows of fish moving across the books.",
+      "start_ms": 178048,
+      "end_ms": 194546
+    },
+    {
+      "index": 38,
+      "text": "In the margin: For a person who needs to read but does not want to be alone.",
+      "start_ms": 194546,
+      "end_ms": 199260
+    },
+    {
+      "index": 39,
+      "text": "She turned another page.",
+      "start_ms": 199260,
+      "end_ms": 200771
+    },
+    {
+      "index": 40,
+      "text": "A kitchen, but the kitchen table was mounted on a hinge and could be folded up flat against the wall when it was not being used.",
+      "start_ms": 200771,
+      "end_ms": 208567
+    },
+    {
+      "index": 41,
+      "text": "In the margin: Small rooms should be honest about being small.",
+      "start_ms": 208567,
+      "end_ms": 212374
+    },
+    {
+      "index": 42,
+      "text": "Give the floor back when you can.",
+      "start_ms": 212374,
+      "end_ms": 214368
+    },
+    {
+      "index": 43,
+      "text": "There were forty-two pages.",
+      "start_ms": 214368,
+      "end_ms": 215845
+    },
+    {
+      "index": 44,
+      "text": "Bea did not read them all.",
+      "start_ms": 215845,
+      "end_ms": 217270
+    },
+    {
+      "index": 45,
+      "text": "She read enough to understand that the whole book was one house — one impossible house, room by room.",
+      "start_ms": 217270,
+      "end_ms": 222652
+    },
+    {
+      "index": 46,
+      "text": "And her mother had been designing it, page by page, over many years.",
+      "start_ms": 222652,
+      "end_ms": 226292
+    },
+    {
+      "index": 47,
+      "text": "The last drawing was dated the month before she died.",
+      "start_ms": 226292,
+      "end_ms": 229194
+    },
+    {
+      "index": 48,
+      "text": "When her father got home that evening, Bea had made the kitchen table look normal again and had put the sketchbook in the middle of it, where he could not miss it.",
+      "start_ms": 229194,
+      "end_ms": 237847
+    },
+    {
+      "index": 49,
+      "text": "He came in, put down his bag, saw the book, and stopped.",
+      "start_ms": 237847,
+      "end_ms": 240854
+    },
+    {
+      "index": 50,
+      "text": "He did not ask where she had found it.",
+      "start_ms": 240854,
+      "end_ms": 242912
+    },
+    {
+      "index": 51,
+      "text": "He picked it up and opened it and looked at the first drawing for a long time.",
+      "start_ms": 242912,
+      "end_ms": 247133
+    },
+    {
+      "index": 52,
+      "text": "\"I didn't know she was still working on it,\" he said finally.",
+      "start_ms": 247133,
+      "end_ms": 250404
+    },
+    {
+      "index": 53,
+      "text": "\"She never showed me the whole thing.",
+      "start_ms": 250404,
+      "end_ms": 252409
+    },
+    {
+      "index": 54,
+      "text": "She said it wasn't finished.\" He looked up at Bea.",
+      "start_ms": 252409,
+      "end_ms": 255100
+    },
+    {
+      "index": 55,
+      "text": "\"Do you want to keep it in your room?\" Bea nodded.",
+      "start_ms": 255100,
+      "end_ms": 257791
+    },
+    {
+      "index": 56,
+      "text": "She was afraid that if she spoke, he would change his mind.",
+      "start_ms": 257791,
+      "end_ms": 260904
+    }
+  ]
+}

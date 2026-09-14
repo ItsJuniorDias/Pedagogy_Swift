@@ -1,0 +1,823 @@
+{
+  "story_id": "pilgrim-shell",
+  "chapter": 2,
+  "total_duration_ms": 378072,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The second day was harder than the first.",
+      "start_ms": 1964,
+      "end_ms": 4715
+    },
+    {
+      "index": 1,
+      "text": "Sofia's legs were sore.",
+      "start_ms": 4715,
+      "end_ms": 6286
+    },
+    {
+      "index": 2,
+      "text": "Marisa was tired from the beginning.",
+      "start_ms": 6286,
+      "end_ms": 8709
+    },
+    {
+      "index": 3,
+      "text": "They walked more slowly.",
+      "start_ms": 8709,
+      "end_ms": 10346
+    },
+    {
+      "index": 4,
+      "text": "They stopped more often.",
+      "start_ms": 10346,
+      "end_ms": 11983
+    },
+    {
+      "index": 5,
+      "text": "But the path was beautiful.",
+      "start_ms": 11983,
+      "end_ms": 13816
+    },
+    {
+      "index": 6,
+      "text": "It went through oak woods and cornfields and past ruined stone monasteries.",
+      "start_ms": 13816,
+      "end_ms": 18793
+    },
+    {
+      "index": 7,
+      "text": "They passed cows and chickens and a pair of small brown horses.",
+      "start_ms": 18793,
+      "end_ms": 22983
+    },
+    {
+      "index": 8,
+      "text": "They met other pilgrims.",
+      "start_ms": 22983,
+      "end_ms": 24620
+    },
+    {
+      "index": 9,
+      "text": "Some overtook them.",
+      "start_ms": 24620,
+      "end_ms": 25930
+    },
+    {
+      "index": 10,
+      "text": "Some they overtook.",
+      "start_ms": 25930,
+      "end_ms": 27240
+    },
+    {
+      "index": 11,
+      "text": "There was a small language between pilgrims — you said Buen Camino when you passed someone.",
+      "start_ms": 27240,
+      "end_ms": 33264
+    },
+    {
+      "index": 12,
+      "text": "That was the whole conversation, most of the time.",
+      "start_ms": 33264,
+      "end_ms": 36603
+    },
+    {
+      "index": 13,
+      "text": "It was enough.",
+      "start_ms": 36603,
+      "end_ms": 37651
+    },
+    {
+      "index": 14,
+      "text": "\"Aunt Marisa,\" Sofia asked, at one point, \"why are you doing this.",
+      "start_ms": 37651,
+      "end_ms": 42038
+    },
+    {
+      "index": 15,
+      "text": "Really.",
+      "start_ms": 42038,
+      "end_ms": 42562
+    },
+    {
+      "index": 16,
+      "text": "Not just the — I want to be with you thing.",
+      "start_ms": 42562,
+      "end_ms": 45443
+    },
+    {
+      "index": 17,
+      "text": "Why the walk.\" Marisa thought as she walked.",
+      "start_ms": 45443,
+      "end_ms": 48390
+    },
+    {
+      "index": 18,
+      "text": "She said, \"When I was your age, my grandmother — my father's mother, whom you never met — walked the Camino.",
+      "start_ms": 48390,
+      "end_ms": 55527
+    },
+    {
+      "index": 19,
+      "text": "She was already old.",
+      "start_ms": 55527,
+      "end_ms": 56902
+    },
+    {
+      "index": 20,
+      "text": "She had wanted to do it her whole life.",
+      "start_ms": 56902,
+      "end_ms": 59521
+    },
+    {
+      "index": 21,
+      "text": "She got sick shortly after.",
+      "start_ms": 59521,
+      "end_ms": 61355
+    },
+    {
+      "index": 22,
+      "text": "Not the same kind of sick as me — hers was her heart.",
+      "start_ms": 61355,
+      "end_ms": 64890
+    },
+    {
+      "index": 23,
+      "text": "She died two years later.",
+      "start_ms": 64890,
+      "end_ms": 66593
+    },
+    {
+      "index": 24,
+      "text": "But she had walked the Camino.",
+      "start_ms": 66593,
+      "end_ms": 68623
+    },
+    {
+      "index": 25,
+      "text": "She told me, before she died, that she was glad she had done it.",
+      "start_ms": 68623,
+      "end_ms": 72879
+    },
+    {
+      "index": 26,
+      "text": "She said walking a hundred kilometers had — done something to her.",
+      "start_ms": 72879,
+      "end_ms": 77266
+    },
+    {
+      "index": 27,
+      "text": "I am not sure exactly what.",
+      "start_ms": 77266,
+      "end_ms": 79100
+    },
+    {
+      "index": 28,
+      "text": "She could not describe it.",
+      "start_ms": 79100,
+      "end_ms": 80868
+    },
+    {
+      "index": 29,
+      "text": "She just said — do it, before you cannot.",
+      "start_ms": 80868,
+      "end_ms": 83618
+    },
+    {
+      "index": 30,
+      "text": "I have thought about it my whole life.",
+      "start_ms": 83618,
+      "end_ms": 86171
+    },
+    {
+      "index": 31,
+      "text": "Then I got sick.",
+      "start_ms": 86171,
+      "end_ms": 87285
+    },
+    {
+      "index": 32,
+      "text": "And I thought — if I do not do it now, I might not ever do it.",
+      "start_ms": 87285,
+      "end_ms": 91410
+    },
+    {
+      "index": 33,
+      "text": "So I am doing it.\"",
+      "start_ms": 91410,
+      "end_ms": 92719
+    },
+    {
+      "index": 34,
+      "text": "\"Are you scared, Aunt Marisa,\" said Sofia.",
+      "start_ms": 92719,
+      "end_ms": 95535
+    },
+    {
+      "index": 35,
+      "text": "\"About being sick.\" Marisa was quiet for a moment.",
+      "start_ms": 95535,
+      "end_ms": 98874
+    },
+    {
+      "index": 36,
+      "text": "Then she said, in a level voice, \"Yes.",
+      "start_ms": 98874,
+      "end_ms": 101428
+    },
+    {
+      "index": 37,
+      "text": "I am scared.",
+      "start_ms": 101428,
+      "end_ms": 102279
+    },
+    {
+      "index": 38,
+      "text": "I do not know how the treatment will go.",
+      "start_ms": 102279,
+      "end_ms": 104964
+    },
+    {
+      "index": 39,
+      "text": "I do not know if I will live to be old.",
+      "start_ms": 104964,
+      "end_ms": 107583
+    },
+    {
+      "index": 40,
+      "text": "Some days I am very scared.",
+      "start_ms": 107583,
+      "end_ms": 109417
+    },
+    {
+      "index": 41,
+      "text": "Some days I am less scared.",
+      "start_ms": 109417,
+      "end_ms": 111250
+    },
+    {
+      "index": 42,
+      "text": "Today I am walking a path in the beautiful Galician countryside with my niece, and today I am not scared.",
+      "start_ms": 111250,
+      "end_ms": 118191
+    },
+    {
+      "index": 43,
+      "text": "Today I am — grateful.",
+      "start_ms": 118191,
+      "end_ms": 119697
+    },
+    {
+      "index": 44,
+      "text": "That is another feeling I have a lot, alongside the scared.",
+      "start_ms": 119697,
+      "end_ms": 123626
+    },
+    {
+      "index": 45,
+      "text": "Both are true.\"",
+      "start_ms": 123626,
+      "end_ms": 124608
+    },
+    {
+      "index": 46,
+      "text": "Sofia thought about this.",
+      "start_ms": 124608,
+      "end_ms": 126319
+    },
+    {
+      "index": 47,
+      "text": "She said, \"I am also scared, Aunt Marisa.",
+      "start_ms": 126319,
+      "end_ms": 129084
+    },
+    {
+      "index": 48,
+      "text": "Sometimes.",
+      "start_ms": 129084,
+      "end_ms": 129808
+    },
+    {
+      "index": 49,
+      "text": "That you might not — that this might be the last time we get to do something like this together.\" Marisa stopped walking.",
+      "start_ms": 129808,
+      "end_ms": 137838
+    },
+    {
+      "index": 50,
+      "text": "She looked at Sofia.",
+      "start_ms": 137838,
+      "end_ms": 139220
+    },
+    {
+      "index": 51,
+      "text": "She said, \"Sofia.",
+      "start_ms": 139220,
+      "end_ms": 140405
+    },
+    {
+      "index": 52,
+      "text": "I have not thought about it exactly that way.",
+      "start_ms": 140405,
+      "end_ms": 143433
+    },
+    {
+      "index": 53,
+      "text": "But — you are right that we do not know.",
+      "start_ms": 143433,
+      "end_ms": 146131
+    },
+    {
+      "index": 54,
+      "text": "That is why we are doing this.",
+      "start_ms": 146131,
+      "end_ms": 148172
+    },
+    {
+      "index": 55,
+      "text": "Not because it is the last time.",
+      "start_ms": 148172,
+      "end_ms": 150344
+    },
+    {
+      "index": 56,
+      "text": "But because we do not know.",
+      "start_ms": 150344,
+      "end_ms": 152187
+    },
+    {
+      "index": 57,
+      "text": "That is why anyone does anything with someone they love.",
+      "start_ms": 152187,
+      "end_ms": 155939
+    },
+    {
+      "index": 58,
+      "text": "Because you do not know.",
+      "start_ms": 155939,
+      "end_ms": 157584
+    },
+    {
+      "index": 59,
+      "text": "That is not a sad thing.",
+      "start_ms": 157584,
+      "end_ms": 159230
+    },
+    {
+      "index": 60,
+      "text": "That is just the truth of it.",
+      "start_ms": 159230,
+      "end_ms": 161204
+    },
+    {
+      "index": 61,
+      "text": "Come.",
+      "start_ms": 161204,
+      "end_ms": 161599
+    },
+    {
+      "index": 62,
+      "text": "Let us walk.",
+      "start_ms": 161599,
+      "end_ms": 162455
+    },
+    {
+      "index": 63,
+      "text": "Buen Camino.\" And they walked on.",
+      "start_ms": 162455,
+      "end_ms": 164759
+    },
+    {
+      "index": 64,
+      "text": "On the third day they stopped for a long rest at a small ancient stone fountain by the side of the path.",
+      "start_ms": 164759,
+      "end_ms": 171670
+    },
+    {
+      "index": 65,
+      "text": "Water came out of a stone spout worn smooth by hundreds of years of pilgrim hands cupping it.",
+      "start_ms": 171670,
+      "end_ms": 177857
+    },
+    {
+      "index": 66,
+      "text": "There were three other pilgrims there when they arrived — an old couple from Spain and a young Australian man.",
+      "start_ms": 177857,
+      "end_ms": 185163
+    },
+    {
+      "index": 67,
+      "text": "Everyone drank.",
+      "start_ms": 185163,
+      "end_ms": 186216
+    },
+    {
+      "index": 68,
+      "text": "Everyone rested.",
+      "start_ms": 186216,
+      "end_ms": 187335
+    },
+    {
+      "index": 69,
+      "text": "The old Spanish woman looked at Marisa, and something in her face changed.",
+      "start_ms": 187335,
+      "end_ms": 192272
+    },
+    {
+      "index": 70,
+      "text": "She came over.",
+      "start_ms": 192272,
+      "end_ms": 193259
+    },
+    {
+      "index": 71,
+      "text": "She said, in Spanish, \"Are you well, sister.\" Marisa said, \"I am on the walk.",
+      "start_ms": 193259,
+      "end_ms": 198393
+    },
+    {
+      "index": 72,
+      "text": "I am doing all right.\" The old woman looked at her for a moment.",
+      "start_ms": 198393,
+      "end_ms": 202672
+    },
+    {
+      "index": 73,
+      "text": "She said, \"I walked this thirty years ago with my sister.",
+      "start_ms": 202672,
+      "end_ms": 206489
+    },
+    {
+      "index": 74,
+      "text": "She was younger than me.",
+      "start_ms": 206489,
+      "end_ms": 208135
+    },
+    {
+      "index": 75,
+      "text": "She was sick like you, I think.",
+      "start_ms": 208135,
+      "end_ms": 210241
+    },
+    {
+      "index": 76,
+      "text": "She died four years later.",
+      "start_ms": 210241,
+      "end_ms": 212018
+    },
+    {
+      "index": 77,
+      "text": "But she walked.",
+      "start_ms": 212018,
+      "end_ms": 213071
+    },
+    {
+      "index": 78,
+      "text": "She walked all one hundred kilometers.\"",
+      "start_ms": 213071,
+      "end_ms": 215770
+    },
+    {
+      "index": 79,
+      "text": "Marisa did not answer for a moment.",
+      "start_ms": 215770,
+      "end_ms": 218140
+    },
+    {
+      "index": 80,
+      "text": "She said, softly, \"Thank you for telling me.\" The old woman said, \"I want to give you something.",
+      "start_ms": 218140,
+      "end_ms": 224524
+    },
+    {
+      "index": 81,
+      "text": "Wait.\" She reached into her pocket.",
+      "start_ms": 224524,
+      "end_ms": 226894
+    },
+    {
+      "index": 82,
+      "text": "She took out a small smooth stone.",
+      "start_ms": 226894,
+      "end_ms": 229197
+    },
+    {
+      "index": 83,
+      "text": "It was warm from her pocket.",
+      "start_ms": 229197,
+      "end_ms": 231106
+    },
+    {
+      "index": 84,
+      "text": "It was a small piece of quartz, worn smooth.",
+      "start_ms": 231106,
+      "end_ms": 234068
+    },
+    {
+      "index": 85,
+      "text": "She said, \"My sister carried this on her walk.",
+      "start_ms": 234068,
+      "end_ms": 237162
+    },
+    {
+      "index": 86,
+      "text": "She left it at Santiago at the end.",
+      "start_ms": 237162,
+      "end_ms": 239531
+    },
+    {
+      "index": 87,
+      "text": "I went back years later and I picked it up.",
+      "start_ms": 239531,
+      "end_ms": 242427
+    },
+    {
+      "index": 88,
+      "text": "I have carried it since.",
+      "start_ms": 242427,
+      "end_ms": 244073
+    },
+    {
+      "index": 89,
+      "text": "But it is time.",
+      "start_ms": 244073,
+      "end_ms": 245126
+    },
+    {
+      "index": 90,
+      "text": "I want you to have it.",
+      "start_ms": 245126,
+      "end_ms": 246640
+    },
+    {
+      "index": 91,
+      "text": "Carry it.",
+      "start_ms": 246640,
+      "end_ms": 247298
+    },
+    {
+      "index": 92,
+      "text": "Leave it wherever you like.",
+      "start_ms": 247298,
+      "end_ms": 249141
+    },
+    {
+      "index": 93,
+      "text": "At Santiago, or before.",
+      "start_ms": 249141,
+      "end_ms": 250721
+    },
+    {
+      "index": 94,
+      "text": "It is your stone now.\" And she pressed it into Marisa's hand.",
+      "start_ms": 250721,
+      "end_ms": 254736
+    },
+    {
+      "index": 95,
+      "text": "Marisa held the small stone in her hand for the rest of that afternoon.",
+      "start_ms": 254736,
+      "end_ms": 259716
+    },
+    {
+      "index": 96,
+      "text": "She did not put it in her pocket.",
+      "start_ms": 259716,
+      "end_ms": 262068
+    },
+    {
+      "index": 97,
+      "text": "She just held it.",
+      "start_ms": 262068,
+      "end_ms": 263313
+    },
+    {
+      "index": 98,
+      "text": "Sofia walked beside her.",
+      "start_ms": 263313,
+      "end_ms": 265043
+    },
+    {
+      "index": 99,
+      "text": "Neither of them spoke for a long time.",
+      "start_ms": 265043,
+      "end_ms": 267741
+    },
+    {
+      "index": 100,
+      "text": "After maybe an hour, Marisa said, \"That is a very beautiful thing.",
+      "start_ms": 267741,
+      "end_ms": 272375
+    },
+    {
+      "index": 101,
+      "text": "That an old stranger gave me her sister's stone.",
+      "start_ms": 272375,
+      "end_ms": 275765
+    },
+    {
+      "index": 102,
+      "text": "I do not know what to do with it.",
+      "start_ms": 275765,
+      "end_ms": 278117
+    },
+    {
+      "index": 103,
+      "text": "But I feel — very taken care of.",
+      "start_ms": 278117,
+      "end_ms": 280399
+    },
+    {
+      "index": 104,
+      "text": "By people I do not even know.",
+      "start_ms": 280399,
+      "end_ms": 282474
+    },
+    {
+      "index": 105,
+      "text": "That is a strange feeling.\" Sofia said, \"That is what people do on the Camino.",
+      "start_ms": 282474,
+      "end_ms": 287939
+    },
+    {
+      "index": 106,
+      "text": "That is what happens.\"",
+      "start_ms": 287939,
+      "end_ms": 289599
+    },
+    {
+      "index": 107,
+      "text": "\"Yes,\" said Marisa.",
+      "start_ms": 289599,
+      "end_ms": 290983
+    },
+    {
+      "index": 108,
+      "text": "\"That is what happens.",
+      "start_ms": 290983,
+      "end_ms": 292574
+    },
+    {
+      "index": 109,
+      "text": "It is not just a walk, Sofia.",
+      "start_ms": 292574,
+      "end_ms": 294649
+    },
+    {
+      "index": 110,
+      "text": "I did not fully understand this until now.",
+      "start_ms": 294649,
+      "end_ms": 297623
+    },
+    {
+      "index": 111,
+      "text": "It is — people looking after each other on a walk.",
+      "start_ms": 297623,
+      "end_ms": 301151
+    },
+    {
+      "index": 112,
+      "text": "It has been that for a thousand years.",
+      "start_ms": 301151,
+      "end_ms": 303849
+    },
+    {
+      "index": 113,
+      "text": "And now we are part of it too.",
+      "start_ms": 303849,
+      "end_ms": 305993
+    },
+    {
+      "index": 114,
+      "text": "That is what my grandmother could not describe.",
+      "start_ms": 305993,
+      "end_ms": 309314
+    },
+    {
+      "index": 115,
+      "text": "She just knew.\"",
+      "start_ms": 309314,
+      "end_ms": 310490
+    },
+    {
+      "index": 116,
+      "text": "That night the pilgrims cooked supper together at the albergue kitchen.",
+      "start_ms": 310490,
+      "end_ms": 315470
+    },
+    {
+      "index": 117,
+      "text": "Marisa and Sofia had bought bread and cheese and a few tomatoes at a small village shop.",
+      "start_ms": 315470,
+      "end_ms": 321627
+    },
+    {
+      "index": 118,
+      "text": "Other pilgrims had bought other things.",
+      "start_ms": 321627,
+      "end_ms": 324394
+    },
+    {
+      "index": 119,
+      "text": "A tall Dutchman had brought a chicken.",
+      "start_ms": 324394,
+      "end_ms": 327091
+    },
+    {
+      "index": 120,
+      "text": "A woman from Colombia had brought rice.",
+      "start_ms": 327091,
+      "end_ms": 329858
+    },
+    {
+      "index": 121,
+      "text": "Somehow everyone's food became one meal.",
+      "start_ms": 329858,
+      "end_ms": 332694
+    },
+    {
+      "index": 122,
+      "text": "Everyone sat down together at a long wooden table.",
+      "start_ms": 332694,
+      "end_ms": 336222
+    },
+    {
+      "index": 123,
+      "text": "Everyone told small stories about the day.",
+      "start_ms": 336222,
+      "end_ms": 339197
+    },
+    {
+      "index": 124,
+      "text": "There was a lot of laughter.",
+      "start_ms": 339197,
+      "end_ms": 341203
+    },
+    {
+      "index": 125,
+      "text": "It was, Sofia thought, one of the best meals of her life.",
+      "start_ms": 341203,
+      "end_ms": 345215
+    },
+    {
+      "index": 126,
+      "text": "She had never eaten with strangers before.",
+      "start_ms": 345215,
+      "end_ms": 348189
+    },
+    {
+      "index": 127,
+      "text": "She had never known you could feel so much like family with people you would not see again after tomorrow.",
+      "start_ms": 348189,
+      "end_ms": 355660
+    },
+    {
+      "index": 128,
+      "text": "That night she lay in her bunk beside Marisa's and she thought about the walk.",
+      "start_ms": 355660,
+      "end_ms": 361125
+    },
+    {
+      "index": 129,
+      "text": "About the stone.",
+      "start_ms": 361125,
+      "end_ms": 362300
+    },
+    {
+      "index": 130,
+      "text": "About the people at the fountain.",
+      "start_ms": 362300,
+      "end_ms": 364652
+    },
+    {
+      "index": 131,
+      "text": "About the meal.",
+      "start_ms": 364652,
+      "end_ms": 365759
+    },
+    {
+      "index": 132,
+      "text": "She said, quietly, \"Aunt Marisa.",
+      "start_ms": 365759,
+      "end_ms": 368042
+    },
+    {
+      "index": 133,
+      "text": "Are you awake.\" Marisa said, \"Yes.\" Sofia said, \"I am glad I came.\" Marisa was quiet for a moment.",
+      "start_ms": 368042,
+      "end_ms": 374890
+    },
+    {
+      "index": 134,
+      "text": "Then she said, \"So am I, sweetheart.",
+      "start_ms": 374890,
+      "end_ms": 377449
+    },
+    {
+      "index": 135,
+      "text": "So am I.\"",
+      "start_ms": 377449,
+      "end_ms": 378072
+    }
+  ]
+}

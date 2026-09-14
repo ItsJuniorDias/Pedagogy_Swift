@@ -1,0 +1,451 @@
+{
+  "story_id": "bookbinders-daughter",
+  "chapter": 2,
+  "total_duration_ms": 259608,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Emiko spent the next few days looking.",
+      "start_ms": 2134,
+      "end_ms": 4325
+    },
+    {
+      "index": 1,
+      "text": "She did not know exactly what she was looking for.",
+      "start_ms": 4325,
+      "end_ms": 7190
+    },
+    {
+      "index": 2,
+      "text": "She started with the obvious places — the drawers of the low table in the workshop, the shelf above the kitchen sink, the small closet in the tatami room where the sleeping mats were kept.",
+      "start_ms": 7190,
+      "end_ms": 17805
+    },
+    {
+      "index": 3,
+      "text": "She found teacups, and old chopsticks, and a folded cloth that had been in the drawer for so long it had taken the shape of the drawer, and none of these things felt like they were what the house remembered.",
+      "start_ms": 17805,
+      "end_ms": 29544
+    },
+    {
+      "index": 4,
+      "text": "On the fourth day, she pulled out a drawer in the kitchen too hard and it came all the way out, and behind it, taped to the back of the drawer with brittle old tape, was a folded piece of paper.",
+      "start_ms": 29544,
+      "end_ms": 40497
+    },
+    {
+      "index": 5,
+      "text": "Emiko unfolded it carefully.",
+      "start_ms": 40497,
+      "end_ms": 42126
+    },
+    {
+      "index": 6,
+      "text": "It was a recipe.",
+      "start_ms": 42126,
+      "end_ms": 43081
+    },
+    {
+      "index": 7,
+      "text": "In handwriting she did not know.",
+      "start_ms": 43081,
+      "end_ms": 44934
+    },
+    {
+      "index": 8,
+      "text": "In Japanese, in careful sharp characters, it was a recipe for umeboshi — pickled plums.",
+      "start_ms": 44934,
+      "end_ms": 49877
+    },
+    {
+      "index": 9,
+      "text": "At the bottom, in the corner, it said, in the same handwriting: For Sachi.",
+      "start_ms": 49877,
+      "end_ms": 54090
+    },
+    {
+      "index": 10,
+      "text": "So she doesn't forget when I am gone.",
+      "start_ms": 54090,
+      "end_ms": 56224
+    },
+    {
+      "index": 11,
+      "text": "— H.",
+      "start_ms": 56224,
+      "end_ms": 56561
+    },
+    {
+      "index": 12,
+      "text": "Emiko took the recipe to the workshop.",
+      "start_ms": 56561,
+      "end_ms": 58752
+    },
+    {
+      "index": 13,
+      "text": "Obaachan was gluing paper to a spine.",
+      "start_ms": 58752,
+      "end_ms": 60886
+    },
+    {
+      "index": 14,
+      "text": "She looked at the recipe for a long moment.",
+      "start_ms": 60886,
+      "end_ms": 63358
+    },
+    {
+      "index": 15,
+      "text": "\"That is my mother's writing,\" she said.",
+      "start_ms": 63358,
+      "end_ms": 65661
+    },
+    {
+      "index": 16,
+      "text": "\"That is her recipe for umeboshi.",
+      "start_ms": 65661,
+      "end_ms": 67570
+    },
+    {
+      "index": 17,
+      "text": "She wrote it for me the year she was dying.",
+      "start_ms": 67570,
+      "end_ms": 70042
+    },
+    {
+      "index": 18,
+      "text": "She was afraid I would forget how she made them.",
+      "start_ms": 70042,
+      "end_ms": 72794
+    },
+    {
+      "index": 19,
+      "text": "I never used it.",
+      "start_ms": 72794,
+      "end_ms": 73749
+    },
+    {
+      "index": 20,
+      "text": "I know the recipe.",
+      "start_ms": 73749,
+      "end_ms": 74816
+    },
+    {
+      "index": 21,
+      "text": "I was just afraid to unfold this again, so I hid it, and then I forgot where.",
+      "start_ms": 74816,
+      "end_ms": 79197
+    },
+    {
+      "index": 22,
+      "text": "Fifty years ago.\" She handed it back to Emiko.",
+      "start_ms": 79197,
+      "end_ms": 81837
+    },
+    {
+      "index": 23,
+      "text": "\"You should put it in your book.\"",
+      "start_ms": 81837,
+      "end_ms": 83803
+    },
+    {
+      "index": 24,
+      "text": "That afternoon Emiko made her first page.",
+      "start_ms": 83803,
+      "end_ms": 86162
+    },
+    {
+      "index": 25,
+      "text": "Obaachan showed her how — how to glue paper into the book without wrinkling it, how to leave a little space at the edges, how to write a small note underneath in careful handwriting.",
+      "start_ms": 86162,
+      "end_ms": 96441
+    },
+    {
+      "index": 26,
+      "text": "Emiko glued the recipe on the first page.",
+      "start_ms": 96441,
+      "end_ms": 98800
+    },
+    {
+      "index": 27,
+      "text": "Underneath, in the neatest characters she could make, she wrote: A recipe H wrote for her daughter S, so she would not forget when H was gone.",
+      "start_ms": 98800,
+      "end_ms": 106832
+    },
+    {
+      "index": 28,
+      "text": "Found taped behind a kitchen drawer.",
+      "start_ms": 106832,
+      "end_ms": 108910
+    },
+    {
+      "index": 29,
+      "text": "Summer 2026.",
+      "start_ms": 108910,
+      "end_ms": 109584
+    },
+    {
+      "index": 30,
+      "text": "The next thing she found was behind a hanging scroll in the tokonoma alcove of the main room.",
+      "start_ms": 109584,
+      "end_ms": 115095
+    },
+    {
+      "index": 31,
+      "text": "She had taken the scroll down to look at it — it was a painting of a plum branch — and behind it, on the wall, taped there so long ago the tape had turned brown, was a photograph.",
+      "start_ms": 115095,
+      "end_ms": 125649
+    },
+    {
+      "index": 32,
+      "text": "Small, faded, brown at the edges.",
+      "start_ms": 125649,
+      "end_ms": 127643
+    },
+    {
+      "index": 33,
+      "text": "Two children in dark school uniforms.",
+      "start_ms": 127643,
+      "end_ms": 129871
+    },
+    {
+      "index": 34,
+      "text": "A boy and a girl.",
+      "start_ms": 129871,
+      "end_ms": 130926
+    },
+    {
+      "index": 35,
+      "text": "Standing in front of the exact same alcove Emiko was standing in, but the wall was different, and there was a different scroll, and the children were staring straight at the camera with very serious faces.",
+      "start_ms": 130926,
+      "end_ms": 143063
+    },
+    {
+      "index": 36,
+      "text": "She showed it to Obaachan.",
+      "start_ms": 143063,
+      "end_ms": 144646
+    },
+    {
+      "index": 37,
+      "text": "Obaachan took it in her hands and looked at it for a long time.",
+      "start_ms": 144646,
+      "end_ms": 148398
+    },
+    {
+      "index": 38,
+      "text": "\"This is me,\" she said, \"and my brother Kenji.",
+      "start_ms": 148398,
+      "end_ms": 151154
+    },
+    {
+      "index": 39,
+      "text": "He died in the war.",
+      "start_ms": 151154,
+      "end_ms": 152326
+    },
+    {
+      "index": 40,
+      "text": "He was fourteen.",
+      "start_ms": 152326,
+      "end_ms": 153323
+    },
+    {
+      "index": 41,
+      "text": "I was ten.",
+      "start_ms": 153323,
+      "end_ms": 153968
+    },
+    {
+      "index": 42,
+      "text": "Our father took this photograph the summer before he was called up.",
+      "start_ms": 153968,
+      "end_ms": 157955
+    },
+    {
+      "index": 43,
+      "text": "It is the last photograph of him.\" She turned it over.",
+      "start_ms": 157955,
+      "end_ms": 161180
+    },
+    {
+      "index": 44,
+      "text": "On the back, in old faded pencil, was a date: 1943.",
+      "start_ms": 161180,
+      "end_ms": 164229
+    },
+    {
+      "index": 45,
+      "text": "And a name: Kenji, plum blossom summer.",
+      "start_ms": 164229,
+      "end_ms": 166574
+    },
+    {
+      "index": 46,
+      "text": "\"I did not know it was there,\" Obaachan said.",
+      "start_ms": 166574,
+      "end_ms": 169271
+    },
+    {
+      "index": 47,
+      "text": "\"I have lived in this house all my life and I did not know it was there.\"",
+      "start_ms": 169271,
+      "end_ms": 173668
+    },
+    {
+      "index": 48,
+      "text": "Emiko put the photograph on the second page.",
+      "start_ms": 173668,
+      "end_ms": 176307
+    },
+    {
+      "index": 49,
+      "text": "Underneath she wrote: Two children, Obaachan (10) and her brother Kenji (14).",
+      "start_ms": 176307,
+      "end_ms": 180880
+    },
+    {
+      "index": 50,
+      "text": "Kenji died in the war the year after this was taken.",
+      "start_ms": 180880,
+      "end_ms": 183988
+    },
+    {
+      "index": 51,
+      "text": "Found taped behind a scroll in the alcove where they had stood.",
+      "start_ms": 183988,
+      "end_ms": 187740
+    },
+    {
+      "index": 52,
+      "text": "Summer 2026.",
+      "start_ms": 187740,
+      "end_ms": 188561
+    },
+    {
+      "index": 53,
+      "text": "The third thing she found was a small folded silk pouch in the very back of a cabinet in the workshop, behind a stack of paper.",
+      "start_ms": 188561,
+      "end_ms": 196066
+    },
+    {
+      "index": 54,
+      "text": "Inside the pouch was a single silver ring.",
+      "start_ms": 196066,
+      "end_ms": 198587
+    },
+    {
+      "index": 55,
+      "text": "It had no engraving.",
+      "start_ms": 198587,
+      "end_ms": 199818
+    },
+    {
+      "index": 56,
+      "text": "Obaachan did not know whose it was.",
+      "start_ms": 199818,
+      "end_ms": 201929
+    },
+    {
+      "index": 57,
+      "text": "\"But it belongs to the house,\" she said.",
+      "start_ms": 201929,
+      "end_ms": 204333
+    },
+    {
+      "index": 58,
+      "text": "\"So it goes in your book.",
+      "start_ms": 204333,
+      "end_ms": 205857
+    },
+    {
+      "index": 59,
+      "text": "Even if we don't know its story.\"",
+      "start_ms": 205857,
+      "end_ms": 207792
+    },
+    {
+      "index": 60,
+      "text": "The fourth thing was a shopping list in the drawer of the front step, written in a woman's handwriting Emiko did not know, dated 1978.",
+      "start_ms": 207792,
+      "end_ms": 215462
+    },
+    {
+      "index": 61,
+      "text": "The fifth thing was a small toy horse made of woven straw, in the back of the kimono closet.",
+      "start_ms": 215462,
+      "end_ms": 220746
+    },
+    {
+      "index": 62,
+      "text": "The sixth thing was a postcard from Hokkaido, unaddressed, undated, that said only, in a man's neat handwriting: I am sorry.",
+      "start_ms": 220746,
+      "end_ms": 227848
+    },
+    {
+      "index": 63,
+      "text": "Please write back.",
+      "start_ms": 227848,
+      "end_ms": 228984
+    },
+    {
+      "index": 64,
+      "text": "By the end of the second week, Emiko had filled nine of the ten pages of her book.",
+      "start_ms": 228984,
+      "end_ms": 233700
+    },
+    {
+      "index": 65,
+      "text": "She had found more than she had thought she would.",
+      "start_ms": 233700,
+      "end_ms": 236598
+    },
+    {
+      "index": 66,
+      "text": "Some things had a story that Obaachan could tell.",
+      "start_ms": 236598,
+      "end_ms": 239438
+    },
+    {
+      "index": 67,
+      "text": "Some things did not.",
+      "start_ms": 239438,
+      "end_ms": 240632
+    },
+    {
+      "index": 68,
+      "text": "Emiko had written what she could underneath each one, in her careful characters.",
+      "start_ms": 240632,
+      "end_ms": 245234
+    },
+    {
+      "index": 69,
+      "text": "She was proud of the book.",
+      "start_ms": 245234,
+      "end_ms": 246768
+    },
+    {
+      "index": 70,
+      "text": "It felt heavy in her hands now, thick with paper and lives.",
+      "start_ms": 246768,
+      "end_ms": 250233
+    },
+    {
+      "index": 71,
+      "text": "But the last page was still blank, and she did not know what to put on it.",
+      "start_ms": 250233,
+      "end_ms": 254495
+    },
+    {
+      "index": 72,
+      "text": "She had looked everywhere.",
+      "start_ms": 254495,
+      "end_ms": 256029
+    },
+    {
+      "index": 73,
+      "text": "She could not find one more thing in the house that felt right.",
+      "start_ms": 256029,
+      "end_ms": 259608
+    }
+  ]
+}

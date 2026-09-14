@@ -1,0 +1,493 @@
+{
+  "story_id": "hour-between",
+  "chapter": 3,
+  "total_duration_ms": 267216,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On the last full day, Diego still did not have his story.",
+      "start_ms": 1888,
+      "end_ms": 5663
+    },
+    {
+      "index": 1,
+      "text": "He had thought of five different ones over the two weeks, and he had rejected all of them.",
+      "start_ms": 5663,
+      "end_ms": 11586
+    },
+    {
+      "index": 2,
+      "text": "One about a fish he had caught with his mother and let go.",
+      "start_ms": 11586,
+      "end_ms": 15426
+    },
+    {
+      "index": 3,
+      "text": "One about the day his best friend Tomás — a different Tomás, a friend at his school — had defended him when a bigger boy pushed him.",
+      "start_ms": 15426,
+      "end_ms": 24083
+    },
+    {
+      "index": 4,
+      "text": "One about the way his mother sang when she was cooking.",
+      "start_ms": 24083,
+      "end_ms": 27728
+    },
+    {
+      "index": 5,
+      "text": "Each one had felt close, but not right.",
+      "start_ms": 27728,
+      "end_ms": 30331
+    },
+    {
+      "index": 6,
+      "text": "Not the story he actually wanted to tell.",
+      "start_ms": 30331,
+      "end_ms": 33130
+    },
+    {
+      "index": 7,
+      "text": "He climbed up onto the roof at dusk to watch the sunset alone, before his father joined him.",
+      "start_ms": 33130,
+      "end_ms": 39183
+    },
+    {
+      "index": 8,
+      "text": "He watched the light go pink and then orange and then red and then gone, and the desert turn from bone-white to cool grey to almost black.",
+      "start_ms": 39183,
+      "end_ms": 48231
+    },
+    {
+      "index": 9,
+      "text": "He thought about all the small true things that had happened in his life.",
+      "start_ms": 48231,
+      "end_ms": 53047
+    },
+    {
+      "index": 10,
+      "text": "He could not narrow them down.",
+      "start_ms": 53047,
+      "end_ms": 55065
+    },
+    {
+      "index": 11,
+      "text": "He wondered if maybe there was no right one.",
+      "start_ms": 55065,
+      "end_ms": 57994
+    },
+    {
+      "index": 12,
+      "text": "Maybe you just picked.",
+      "start_ms": 57994,
+      "end_ms": 59556
+    },
+    {
+      "index": 13,
+      "text": "His father came up when it was fully dark, with two thermoses and two blankets.",
+      "start_ms": 59556,
+      "end_ms": 64763
+    },
+    {
+      "index": 14,
+      "text": "They lay down on their backs.",
+      "start_ms": 64763,
+      "end_ms": 66716
+    },
+    {
+      "index": 15,
+      "text": "The constellation his family watched came up over the eastern ridge around eleven o'clock.",
+      "start_ms": 66716,
+      "end_ms": 72639
+    },
+    {
+      "index": 16,
+      "text": "Diego watched it come up.",
+      "start_ms": 72639,
+      "end_ms": 74331
+    },
+    {
+      "index": 17,
+      "text": "His father was quiet, giving him time.",
+      "start_ms": 74331,
+      "end_ms": 76870
+    },
+    {
+      "index": 18,
+      "text": "Diego kept trying to think of a story.",
+      "start_ms": 76870,
+      "end_ms": 79408
+    },
+    {
+      "index": 19,
+      "text": "Nothing was coming.",
+      "start_ms": 79408,
+      "end_ms": 80710
+    },
+    {
+      "index": 20,
+      "text": "He watched the stars.",
+      "start_ms": 80710,
+      "end_ms": 82207
+    },
+    {
+      "index": 21,
+      "text": "And then, without meaning to — without deciding to — he started talking.",
+      "start_ms": 82207,
+      "end_ms": 86958
+    },
+    {
+      "index": 22,
+      "text": "His father did not move.",
+      "start_ms": 86958,
+      "end_ms": 88586
+    },
+    {
+      "index": 23,
+      "text": "He did not turn to look.",
+      "start_ms": 88586,
+      "end_ms": 90213
+    },
+    {
+      "index": 24,
+      "text": "Diego was looking at the Cross.",
+      "start_ms": 90213,
+      "end_ms": 92296
+    },
+    {
+      "index": 25,
+      "text": "He kept looking at it the whole time.",
+      "start_ms": 92296,
+      "end_ms": 94704
+    },
+    {
+      "index": 26,
+      "text": "\"When I was ten,\" Diego said, \"you called me on my birthday.",
+      "start_ms": 94704,
+      "end_ms": 97868
+    },
+    {
+      "index": 27,
+      "text": "From up here.",
+      "start_ms": 97868,
+      "end_ms": 98594
+    },
+    {
+      "index": 28,
+      "text": "It was a bad phone call because the connection kept breaking.",
+      "start_ms": 98594,
+      "end_ms": 101811
+    },
+    {
+      "index": 29,
+      "text": "And you were talking, and I could not hear you very well, and I was trying to understand you, but I could not.",
+      "start_ms": 101811,
+      "end_ms": 107569
+    },
+    {
+      "index": 30,
+      "text": "And after a while I got frustrated.",
+      "start_ms": 107569,
+      "end_ms": 109436
+    },
+    {
+      "index": 31,
+      "text": "And I was going to hang up.",
+      "start_ms": 109436,
+      "end_ms": 110888
+    },
+    {
+      "index": 32,
+      "text": "But then you said, into the bad phone, 'Diego, I miss you.' And I heard that part.",
+      "start_ms": 110888,
+      "end_ms": 115194
+    },
+    {
+      "index": 33,
+      "text": "It came through the bad phone perfectly.",
+      "start_ms": 115194,
+      "end_ms": 117321
+    },
+    {
+      "index": 34,
+      "text": "Just that part.",
+      "start_ms": 117321,
+      "end_ms": 118151
+    },
+    {
+      "index": 35,
+      "text": "And then the phone cut off.",
+      "start_ms": 118151,
+      "end_ms": 119603
+    },
+    {
+      "index": 36,
+      "text": "And I sat there on the floor of my room for a while, and then I called Mamá to come and I said the phone was broken.",
+      "start_ms": 119603,
+      "end_ms": 125672
+    },
+    {
+      "index": 37,
+      "text": "But it was not really broken.",
+      "start_ms": 125672,
+      "end_ms": 127229
+    },
+    {
+      "index": 38,
+      "text": "I just wanted her to be with me for a minute.",
+      "start_ms": 127229,
+      "end_ms": 129615
+    },
+    {
+      "index": 39,
+      "text": "That is what I want to tell.\"",
+      "start_ms": 129615,
+      "end_ms": 131223
+    },
+    {
+      "index": 40,
+      "text": "He stopped.",
+      "start_ms": 131223,
+      "end_ms": 131845
+    },
+    {
+      "index": 41,
+      "text": "He kept looking at the Cross.",
+      "start_ms": 131845,
+      "end_ms": 133401
+    },
+    {
+      "index": 42,
+      "text": "He heard his father breathing beside him, but his father did not say anything, and did not turn to him, because that was the second rule.",
+      "start_ms": 133401,
+      "end_ms": 140560
+    },
+    {
+      "index": 43,
+      "text": "You looked at the stars until you were done.",
+      "start_ms": 140560,
+      "end_ms": 142894
+    },
+    {
+      "index": 44,
+      "text": "So Diego kept looking.",
+      "start_ms": 142894,
+      "end_ms": 144087
+    },
+    {
+      "index": 45,
+      "text": "And then, because he was not done yet, he said one more thing.",
+      "start_ms": 144087,
+      "end_ms": 147355
+    },
+    {
+      "index": 46,
+      "text": "\"That was the first time I understood that you being far away was not the same as you not being there.",
+      "start_ms": 147355,
+      "end_ms": 152698
+    },
+    {
+      "index": 47,
+      "text": "That is all.\" And then he stopped.",
+      "start_ms": 152698,
+      "end_ms": 154566
+    },
+    {
+      "index": 48,
+      "text": "There was a long silence.",
+      "start_ms": 154566,
+      "end_ms": 155914
+    },
+    {
+      "index": 49,
+      "text": "The stars did not move.",
+      "start_ms": 155914,
+      "end_ms": 157159
+    },
+    {
+      "index": 50,
+      "text": "His father, next to him, was still looking up.",
+      "start_ms": 157159,
+      "end_ms": 159597
+    },
+    {
+      "index": 51,
+      "text": "Then his father sat up slowly.",
+      "start_ms": 159597,
+      "end_ms": 161206
+    },
+    {
+      "index": 52,
+      "text": "He put his arm around Diego's shoulders and pulled him against his side, and he did not say anything at all for a while, and Diego felt him take a very slow breath, and let it out.",
+      "start_ms": 161206,
+      "end_ms": 170595
+    },
+    {
+      "index": 53,
+      "text": "\"That's a good story, Diego,\" his father said finally.",
+      "start_ms": 170595,
+      "end_ms": 173448
+    },
+    {
+      "index": 54,
+      "text": "His voice was thick.",
+      "start_ms": 173448,
+      "end_ms": 174537
+    },
+    {
+      "index": 55,
+      "text": "\"That is the story.\" \"Is it a small enough one,\" said Diego.",
+      "start_ms": 174537,
+      "end_ms": 177701
+    },
+    {
+      "index": 56,
+      "text": "\"Yes,\" said his father.",
+      "start_ms": 177701,
+      "end_ms": 178946
+    },
+    {
+      "index": 57,
+      "text": "\"It is very small.",
+      "start_ms": 178946,
+      "end_ms": 179932
+    },
+    {
+      "index": 58,
+      "text": "It is exactly the right size.\"",
+      "start_ms": 179932,
+      "end_ms": 181488
+    },
+    {
+      "index": 59,
+      "text": "They sat on the roof for a long time after that.",
+      "start_ms": 181488,
+      "end_ms": 184670
+    },
+    {
+      "index": 60,
+      "text": "Neither of them talked.",
+      "start_ms": 184670,
+      "end_ms": 186229
+    },
+    {
+      "index": 61,
+      "text": "The Cross moved slowly across the sky, and by the time it was nearly at the western horizon, Diego was almost asleep against his father's shoulder.",
+      "start_ms": 186229,
+      "end_ms": 195841
+    },
+    {
+      "index": 62,
+      "text": "His father lifted him — even though he was twelve now, and heavy — and carried him down the ladder to his bed.",
+      "start_ms": 195841,
+      "end_ms": 203115
+    },
+    {
+      "index": 63,
+      "text": "In the morning they packed up and drove down.",
+      "start_ms": 203115,
+      "end_ms": 206102
+    },
+    {
+      "index": 64,
+      "text": "The chart came with them, folded, on the seat between them.",
+      "start_ms": 206102,
+      "end_ms": 209999
+    },
+    {
+      "index": 65,
+      "text": "His father did not talk much on the drive.",
+      "start_ms": 209999,
+      "end_ms": 212792
+    },
+    {
+      "index": 66,
+      "text": "Diego watched the empty land go by.",
+      "start_ms": 212792,
+      "end_ms": 215130
+    },
+    {
+      "index": 67,
+      "text": "After a while, he opened the chart and looked at it in his lap.",
+      "start_ms": 215130,
+      "end_ms": 219286
+    },
+    {
+      "index": 68,
+      "text": "There were five circles around the constellation now, one for each generation, and beside each one, in tiny handwriting, was a name.",
+      "start_ms": 219286,
+      "end_ms": 227924
+    },
+    {
+      "index": 69,
+      "text": "Rosa.",
+      "start_ms": 227924,
+      "end_ms": 228314
+    },
+    {
+      "index": 70,
+      "text": "Emilio.",
+      "start_ms": 228314,
+      "end_ms": 228833
+    },
+    {
+      "index": 71,
+      "text": "Ana.",
+      "start_ms": 228833,
+      "end_ms": 229158
+    },
+    {
+      "index": 72,
+      "text": "Elias.",
+      "start_ms": 229158,
+      "end_ms": 229613
+    },
+    {
+      "index": 73,
+      "text": "And, in his father's writing, added that morning: Diego.",
+      "start_ms": 229613,
+      "end_ms": 233379
+    },
+    {
+      "index": 74,
+      "text": "\"Papá,\" said Diego.",
+      "start_ms": 233379,
+      "end_ms": 234678
+    },
+    {
+      "index": 75,
+      "text": "\"Yes.\" \"When my son is old enough.",
+      "start_ms": 234678,
+      "end_ms": 236951
+    },
+    {
+      "index": 76,
+      "text": "Or my daughter.",
+      "start_ms": 236951,
+      "end_ms": 237991
+    },
+    {
+      "index": 77,
+      "text": "I have to bring them here.\" His father did not smile, exactly, but his mouth turned up at one corner.",
+      "start_ms": 237991,
+      "end_ms": 244615
+    },
+    {
+      "index": 78,
+      "text": "\"Somewhere with real silence,\" he said.",
+      "start_ms": 244615,
+      "end_ms": 247213
+    },
+    {
+      "index": 79,
+      "text": "\"Yes,\" said Diego.",
+      "start_ms": 247213,
+      "end_ms": 248447
+    },
+    {
+      "index": 80,
+      "text": "\"Somewhere with real silence.\" They drove the rest of the way down the mountain together, and after a while they started talking again about small things, and the observatory disappeared behind them, and Diego held the chart in his lap for the whole four hours, and he did not put it away.",
+      "start_ms": 248447,
+      "end_ms": 267216
+    }
+  ]
+}

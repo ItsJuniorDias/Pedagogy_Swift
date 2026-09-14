@@ -1,0 +1,168 @@
+{
+  "id": "rock-and-salt",
+  "title": "Rock and Salt",
+  "subtitle": "A Holy Island Tide",
+  "author": null,
+  "summary": "Twins Ada and Wren are spending August with their Aunt Meg on the island of Lindisfarne, which is cut off from the mainland twice a day by the North Sea tide. On the third night, a stranger arrives at the door — wet, calm, and asking for their help to find a small church bell lost in the mud four hundred years ago. He knows things about them that a stranger should not know.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-rock-and-salt-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: two ten-year-old twins, Ada and Wren, side by side on the wet exposed tidal flats of Lindisfarne at very low tide. Ada with a dark short-cut cap of hair, Wren with the same face but a longer messy tie. Both wearing heavy wool sweaters and wellington boots. They are crouched over a small dark object half-buried in the wet sand — the corner of a small iron bell just visible. Behind them: the causeway markers stretching out to the mainland across the wet flats, the low silhouette of the ruined priory on the horizon, gulls in the pale sky. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream sky (#FFF9F0), grey-brown wet sand, deep ink outlines, muted dusty rose (#FF5B8D) accent on their cheeks from the wind. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2026-10-01",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Causeway",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rs-ch1-p1-causeway",
+          "imagePrompt": "Mike Mignola style for children: a low narrow causeway road across wet grey tidal flats, wooden tide marker posts along the edges, a small car driving across it. In the distance ahead: the island of Lindisfarne with its ruined priory and small village. Grey afternoon sky, wind implied. Heavy black ink outlines, flat shadows, cream and sepia palette with cool blue-grey tones.",
+          "paragraphs": [
+            "The road to Lindisfarne was under water twice a day, and if you got the timing wrong, you had to sit at the mainland end and wait six hours for the tide to go back out. Ada and Wren's father had checked the tide tables three times before he put them in the car, and he told them twice on the drive north that they would need to remember to check the tide tables themselves every single day for the whole three weeks they were on the island, or they would not be able to leave. He said it like it was a warning, but Ada thought it sounded like a promise.",
+            "Ada and Wren were twins. Everyone at their school in Newcastle mixed them up unless they were standing right next to each other. Then it was obvious — Ada kept her hair short and Wren kept hers long and messy — but from behind, or in photographs, or at a distance, they were the same person. They liked this most of the time. They had learned to answer to both names."
+          ]
+        },
+        {
+          "image": "rs-ch1-p2-aunt-meg",
+          "imagePrompt": "Mike Mignola style for children: exterior of a small stone cottage on Lindisfarne with a low painted door, a garden of thistles and windblown grass, a woman (Aunt Meg, mid-fifties) standing at the doorway with weathered hands and a heavy fisherman's jumper. Two young twins (Ada and Wren, 10) approaching with rucksacks. Grey afternoon sky, wind implied. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Their Aunt Meg lived in a small stone cottage right at the edge of the village on the western side of the island. She was their father's older sister, and she had lived on Lindisfarne alone for as long as either of the twins could remember. When their father dropped them off he did not stay long — the tide was coming in soon — and he hugged them both at once, one under each arm, and told them to be good and to help their aunt with everything.",
+            "Then he drove back over the causeway just before the water came up, and the twins and Aunt Meg stood in her doorway and watched the sea slowly close the road behind him. \"That's it,\" said Aunt Meg cheerfully. \"You're stuck now. Come inside. There's cake.\""
+          ]
+        },
+        {
+          "image": "rs-ch1-p3-tide-tables",
+          "imagePrompt": "Mike Mignola style for children: interior of a stone cottage kitchen. On the wall by the door hangs a printed tide table calendar. In front of it, a woman (Aunt Meg, mid-fifties) is pointing at it while two young twins (Ada and Wren, 10) stand looking up at it. Warm firelight from a small hearth. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Aunt Meg was different from what Ada had expected. She had thought she would be quiet, because their father always said Aunt Meg was quiet, but in her own house Aunt Meg was not quiet at all. She talked constantly, cheerfully, about small things — the weather, the seagull that lived on her roof, a woman in the village named Mrs. Fothergill who kept trying to sell her a very ugly painting. She fed them cake and she pointed at the tide table on the wall and she made them promise to check it every morning.",
+            "\"Now listen,\" she said, more seriously, when they were finishing their cake. \"There are only a few real rules on this island. You do not go out onto the tidal flats when the tide is coming in. Ever. You do not walk on the causeway when the water is above the marker posts. Ever. And if anyone knocks on the door at night — anyone at all — you come and get me first before you open it. Yes?\" She looked at both of them very steadily. Ada and Wren nodded. Aunt Meg nodded back. \"Good. Now off you go and explore.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "For the first two days they did nothing but walk around the island. It was smaller than they had expected — you could walk all the way around it in a few hours, if you stayed close to the shore. They went to the ruined priory, which was a huge stone skeleton of a church that had been built more than a thousand years ago and destroyed and rebuilt and destroyed again. They went to the castle on the rocky hill at the far end. They watched seals in the water.",
+            "On the third night, the wind came up. It came from the north, and it was cold, and the sea was loud. Ada and Wren were in bed in the small back room they were sharing. It was after midnight. They were both half-asleep. And that was when the knock came at the door."
+          ]
+        },
+        {
+          "image": "rs-ch1-p5-stranger",
+          "imagePrompt": "Mike Mignola style for children: interior of a stone cottage. A door is open a crack, warm firelight spilling out into the dark night. In the doorway stands a middle-aged man in old-fashioned dark wet clothes, his hair plastered down with rain or seawater, hands empty, face calm. A woman (Aunt Meg, mid-fifties) stands in the doorway with a candle held up. Two young twins (Ada and Wren, 10, in nightclothes) visible behind her at the far end of the hallway. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Ada was out of bed first. Wren was right behind her. They got to the top of the stairs just as Aunt Meg opened the door of her own bedroom, and she gave them one hard look and then she went downstairs without saying anything. The twins crept halfway down and sat on the step. From there they could see the front hall, and the door, and the person in the doorway.",
+            "The person was a man. He was maybe forty, maybe fifty — it was hard to tell, because he was very wet. His clothes were dark and old-fashioned. His hair was plastered down. He was not shivering. He was standing very still. He said, in a soft voice with a strong local accent, \"I'm sorry to disturb you at this hour. I'm looking for something I lost in the flats. I was told the Braithwaite house might help me.\" Aunt Meg did not answer for a long moment. Then she said, \"Come in.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Bell in the Mud",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rs-ch2-p1-fire",
+          "imagePrompt": "Mike Mignola style for children: interior of a stone cottage kitchen at night, a small peat fire burning. The wet stranger from the previous scene sits at the wooden table with a mug in his hands. A woman (Aunt Meg, mid-fifties) stands nearby, arms folded. Two young twins (Ada and Wren, 10, in wool jumpers over pajamas) are on the stairs peeking in. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Aunt Meg gave the stranger a mug of hot tea and did not offer him a change of clothes, and she stood across the kitchen from him with her arms folded, and she did not sit down. The twins had come the rest of the way downstairs and were sitting on the second step, watching. Aunt Meg had not sent them back to bed. Ada thought that was interesting. She thought that meant something.",
+            "\"So,\" said Aunt Meg. \"What did you lose.\" The stranger held the mug in both hands. He did not drink from it. \"A bell,\" he said. \"A small one. Bronze. About the size of your fist. It was lost near the west shore, in the mud, when I was here last. I was told it might have come up in the recent storms. And I was told your family had helped find things before.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"When you were here last,\" said Aunt Meg carefully, \"when was that.\" The stranger looked into his tea. \"A long time,\" he said. \"Long enough that I don't expect you to know me.\" \"Try me,\" said Aunt Meg. The stranger was quiet for a while. Then he said, \"It was in 1544. The bell was from the priory. It was one of the small ones, from the side chapel. When the raiders came, we tried to bury the things that could be carried. I carried this one myself and I dropped it in the mud near the west shore and I did not have time to mark the place. And I have not been able to find it since.\"",
+            "Aunt Meg did not laugh. Ada and Wren did not laugh either — though Ada felt her mouth open a little. Aunt Meg looked at the stranger for a very long moment. She said, \"You have come a long way.\" The stranger said, \"Yes.\" And then Aunt Meg turned to the twins on the step and she said, \"Get your boots and your jumpers. Both of you. If we're doing this, we're doing it before the tide comes back.\""
+          ]
+        },
+        {
+          "image": "rs-ch2-p3-torches",
+          "imagePrompt": "Mike Mignola style for children: night scene on the exposed wet tidal flats of Lindisfarne, low tide. Two young twins (Ada and Wren, 10) walking behind a woman (Aunt Meg, mid-fifties) and a wet middle-aged man in old-fashioned clothes. Aunt Meg is holding a large modern torch. The four of them cast long shadows on the wet sand. Sky pale grey, moon partly hidden by cloud. Distant silhouette of the ruined priory. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They walked out onto the tidal flats in the dark. Aunt Meg had a big torch. Wren had a smaller one. Ada did not have a torch, but her eyes had adjusted. The mud sucked at their boots. The wind was still strong but the tide was fully out now, and the flats stretched away to the west, wet and gleaming under the low pale moon, and everything smelled like salt and old fish and wet stone.",
+            "The stranger led them. He walked slowly, looking around. Sometimes he stopped and turned in a full circle, like he was trying to remember where things had been. \"The shore was different,\" he said once. \"The shore was closer, then. The land has moved.\" Aunt Meg did not answer. She only kept her torch on the ground and walked with him."
+          ]
+        },
+        {
+          "image": "rs-ch2-p4-knowing-things",
+          "imagePrompt": "Mike Mignola style for children: close view on the tidal flats at night. The stranger crouched beside one of the twins (Wren, 10), pointing at a small dark shape in the mud. His face is turned to hers, gentle. She looks up at him, uncertain. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "It was Wren who first noticed. They had been walking for maybe an hour, and the stranger was crouched down looking at a small object in the mud that turned out to be an oyster shell, and Wren said, quietly, mostly to Ada: \"Did we tell him our names?\" Ada thought about it. She had not told him. Aunt Meg had not told him — she was almost sure. But he had used both their names, on the walk out. Ada, come here and see this. Wren, keep close.",
+            "Ada watched the stranger more carefully after that. He was very calm and he was very tired-looking, and he seemed to know the flats very well, and he called Aunt Meg by her name too, which Aunt Meg had definitely not said. And once he said, without turning around, \"Careful of that channel, Wren, it's deeper than it looks.\" And Wren jumped a little, because she had been about to step there. And she and Ada looked at each other."
+          ]
+        },
+        {
+          "image": "rs-ch2-p5-fragments",
+          "imagePrompt": "Mike Mignola style for children: on the wet tidal flats, close view of several small dark objects being lifted from the mud: a bit of green-tarnished bronze, a fragment of dark clay pipe, a small iron nail. The stranger's hand and Ada's hand together in the center. Torch light illuminating them from above. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They found small things. A bit of green-tarnished bronze. A clay pipe fragment. A nail. The stranger looked at each one carefully and set most of them back down where he had found them. The nail he put in his pocket. \"That one is from the roof of the chapter house,\" he said. \"I remember when it was made.\" Ada said, \"How old are you?\" The stranger smiled just a little. \"I am not sure anymore,\" he said. \"I have been away a long time. Time is strange.\"",
+            "They walked for another hour. The tide would begin to come back in soon. Aunt Meg said so, twice. The stranger nodded but did not stop. And then, very suddenly, he stopped. He crouched down. He said, \"Here.\" And he dug with his hands, gently, in the wet mud."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Who Came By Water",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rs-ch3-p1-bell",
+          "imagePrompt": "Mike Mignola style for children: close view of a small tarnished bronze bell being lifted from the wet mud, held in a man's hand. The bell is fist-sized, its clapper still intact. Torch light illuminates it. Two twins' faces visible behind, watching. Heavy ink outlines, flat shadows, cream and sepia palette with a touch of green-bronze color.",
+          "paragraphs": [
+            "It was there. It came up out of the mud like a small dark heart. It was a bell, fist-sized, tarnished green-black. The clapper was still inside it. When the stranger lifted it and shook it, very gently, it made a small clear sound that seemed too big for its size — a tiny, perfect note that hung in the wet air for a moment and then was gone.",
+            "The stranger held the bell in both hands. He was crying. He was not making any noise, but Ada saw the water on his face reflecting the torchlight, and it was not seawater. Aunt Meg saw it too. She did not say anything. She only looked away, respectfully. Wren reached out and touched the back of the stranger's hand, very lightly, and he did not seem to notice."
+          ]
+        },
+        {
+          "image": "rs-ch3-p2-thank-you",
+          "imagePrompt": "Mike Mignola style for children: the stranger, now standing at the water's edge as the tide begins to come in, is looking back at the woman and two twins on the flats. He is holding the small bell against his chest. His expression is peaceful. First light of dawn in the pale sky behind him. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The tide was coming in. Aunt Meg said, \"We need to go back.\" The stranger nodded. He stood up. He put the bell inside his shirt, against his chest. He looked at the twins. \"Thank you,\" he said. \"Both of you. And you, Meg. This has been a long thing to carry.\" He looked at the eastern horizon, where a very pale grey was starting to appear. \"You should hurry back. The tide comes in fast on the west side.\"",
+            "\"Are you coming with us?\" said Ada. She had not thought before she said it. The stranger smiled. \"No,\" he said. \"I came by water. I'll leave by water. You know how it works, don't you? I think you do. I think you always did.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Ada did know how it worked. Not with her thinking-brain, but with the deeper part of her that knew things without being told them. She knew that the man was going to walk out into the sea, and that the water would come up to his knees, and to his waist, and to his shoulders, and that he would just keep walking. She knew he was not going to drown. She knew he was going where he belonged.",
+            "She and Wren and Aunt Meg walked back toward the cottage across the flats as fast as they could. The water was already coming up in the low channels behind them, and they had to lift their boots high. Once, Ada looked back. The stranger was still standing where they had left him. Then she looked again, a minute later, and he was gone."
+          ]
+        },
+        {
+          "image": "rs-ch3-p4-explanation",
+          "imagePrompt": "Mike Mignola style for children: interior of the cottage kitchen at early dawn, warm firelight, three people at the wooden table with mugs of tea — the woman (Aunt Meg, mid-fifties) and two young twins (Ada and Wren, 10). Everyone is muddy up to their knees. Grey pre-dawn light through the small window. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They sat in the kitchen with mugs of tea. Their boots were by the door, and their trousers were muddy up to the knees, and it was not quite dawn yet. Nobody said anything for a while. Then Wren said, \"Aunt Meg. Who was that?\" Aunt Meg looked at both of them, one after the other. Then she said, \"I don't know exactly. I think he was one of the monks from the priory. When the raiders came in 1544, the monks tried to hide what they could. Some of them died. Their bells were the most important things they had.\"",
+            "She sipped her tea. \"Our family has lived on Lindisfarne for a very long time. Since long before the priory was ruined. And every so often — once every fifty years, or every hundred years — someone comes to the door in the night. Wet. Very calm. Looking for something they lost. My mother met one, when she was young. My grandfather met one, when he was young. They come to the house because our family has always helped them find it. That's what we do. That's who we are.\""
+          ]
+        },
+        {
+          "image": "rs-ch3-p5-morning",
+          "imagePrompt": "Mike Mignola style for children: exterior of the stone cottage at dawn, two twins (Ada and Wren, 10) standing in the doorway looking out at the flats, where the tide is fully in and the water is silver-grey in the very early sunlight. The ruined priory silhouette visible in the distance. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"How did he know our names,\" said Ada. Aunt Meg smiled. \"Because our family has helped them for a long time. And they remember. They know who is here. They know we are still here.\" \"Will he come back,\" said Wren. Aunt Meg shook her head. \"No. He found what he was looking for. He won't need to.\"",
+            "Ada and Wren walked out into the front garden together as the sun was coming up. The tide was fully in now. You could not see the flats at all. The causeway was under water. The sea was silver and grey and calm, and the priory was a small dark silhouette on the horizon, and there was no sign anywhere that any of it had happened.",
+            "But Ada put her hand into her coat pocket — she had not remembered doing it, but she must have — and there, small and cold and green-tarnished, was the little iron nail that the stranger had picked up out of the mud. He must have put it in her pocket when they said goodbye. She showed it to Wren. Neither of them spoke. They stood in the garden and looked at the sea, and Ada put the nail back in her pocket, and she knew that when she was old, she would still have it."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "mystery",
+    "sea",
+    "history",
+    "twins"
+  ]
+}

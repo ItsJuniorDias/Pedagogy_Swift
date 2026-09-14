@@ -1,0 +1,307 @@
+{
+  "story_id": "fox-north-wind",
+  "chapter": 1,
+  "total_duration_ms": 194832,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "In the north of Sweden, above the Arctic Circle, there is a village called Jokkmokk.",
+      "start_ms": 2217,
+      "end_ms": 8715
+    },
+    {
+      "index": 1,
+      "text": "In winter, the sun comes up at ten in the morning and goes down at one in the afternoon, and for most of the day the sky is a deep blue that turns to black.",
+      "start_ms": 8715,
+      "end_ms": 20793
+    },
+    {
+      "index": 2,
+      "text": "This is where Nell's grandmother lived, in a small red wooden house on the edge of a frozen lake.",
+      "start_ms": 20793,
+      "end_ms": 28284
+    },
+    {
+      "index": 3,
+      "text": "And this is where Nell spent Christmas when she was ten years old.",
+      "start_ms": 28284,
+      "end_ms": 33482
+    },
+    {
+      "index": 4,
+      "text": "Her grandmother — Farmor Astrid — was small and quiet and had white hair braided down her back.",
+      "start_ms": 33482,
+      "end_ms": 40821
+    },
+    {
+      "index": 5,
+      "text": "She spoke English carefully, with pauses, the way people do when they are translating from another language in their head.",
+      "start_ms": 40821,
+      "end_ms": 50300
+    },
+    {
+      "index": 6,
+      "text": "The house was warm inside.",
+      "start_ms": 50300,
+      "end_ms": 52364
+    },
+    {
+      "index": 7,
+      "text": "There was a wood stove and a rug made of reindeer hide and a shelf full of small carved wooden animals.",
+      "start_ms": 52364,
+      "end_ms": 60314
+    },
+    {
+      "index": 8,
+      "text": "Farmor's cat, whose name was Måns, slept in a basket by the fire.",
+      "start_ms": 60314,
+      "end_ms": 65436
+    },
+    {
+      "index": 9,
+      "text": "On Nell's first evening, after they had eaten and washed the dishes, Farmor pulled up two chairs to the stove and said, \"There is a story I need to tell you.\"",
+      "start_ms": 65436,
+      "end_ms": 77667
+    },
+    {
+      "index": 10,
+      "text": "Nell settled in with a blanket.",
+      "start_ms": 77667,
+      "end_ms": 80189
+    },
+    {
+      "index": 11,
+      "text": "\"Our family,\" said Farmor, \"has an agreement.",
+      "start_ms": 80189,
+      "end_ms": 83706
+    },
+    {
+      "index": 12,
+      "text": "It is very old.",
+      "start_ms": 83706,
+      "end_ms": 84929
+    },
+    {
+      "index": 13,
+      "text": "It goes back to my grandfather's grandfather, who was a sailor and who was almost lost at sea one winter, and who was saved by a light he saw in the forest.\"",
+      "start_ms": 84929,
+      "end_ms": 97083
+    },
+    {
+      "index": 14,
+      "text": "\"A light in the forest?",
+      "start_ms": 97083,
+      "end_ms": 98918
+    },
+    {
+      "index": 15,
+      "text": "On the sea?\"",
+      "start_ms": 98918,
+      "end_ms": 99988
+    },
+    {
+      "index": 16,
+      "text": "\"He had come ashore.",
+      "start_ms": 99988,
+      "end_ms": 101593
+    },
+    {
+      "index": 17,
+      "text": "He was lost.",
+      "start_ms": 101593,
+      "end_ms": 102587
+    },
+    {
+      "index": 18,
+      "text": "He was going to die of cold.",
+      "start_ms": 102587,
+      "end_ms": 104804
+    },
+    {
+      "index": 19,
+      "text": "The light led him home.",
+      "start_ms": 104804,
+      "end_ms": 106639
+    },
+    {
+      "index": 20,
+      "text": "When he got to the door of his own house, the light turned into a white fox.",
+      "start_ms": 106639,
+      "end_ms": 112525
+    },
+    {
+      "index": 21,
+      "text": "A small fox, with amber eyes.",
+      "start_ms": 112525,
+      "end_ms": 114818
+    },
+    {
+      "index": 22,
+      "text": "It looked at him for a long moment.",
+      "start_ms": 114818,
+      "end_ms": 117570
+    },
+    {
+      "index": 23,
+      "text": "Then it went back into the trees.\"",
+      "start_ms": 117570,
+      "end_ms": 120322
+    },
+    {
+      "index": 24,
+      "text": "\"After that,\" Farmor went on, \"the fox came sometimes, in winter.",
+      "start_ms": 120322,
+      "end_ms": 125367
+    },
+    {
+      "index": 25,
+      "text": "Always when the north wind blew for three nights without stopping.",
+      "start_ms": 125367,
+      "end_ms": 130489
+    },
+    {
+      "index": 26,
+      "text": "On the third night, the fox would come to the door.",
+      "start_ms": 130489,
+      "end_ms": 134464
+    },
+    {
+      "index": 27,
+      "text": "And a gift had to be left for it.\"",
+      "start_ms": 134464,
+      "end_ms": 137216
+    },
+    {
+      "index": 28,
+      "text": "\"A gift?\"",
+      "start_ms": 137216,
+      "end_ms": 137904
+    },
+    {
+      "index": 29,
+      "text": "\"Something small.",
+      "start_ms": 137904,
+      "end_ms": 138984
+    },
+    {
+      "index": 30,
+      "text": "Something the family had made or found or valued.",
+      "start_ms": 138984,
+      "end_ms": 141983
+    },
+    {
+      "index": 31,
+      "text": "My grandfather always left a coin.",
+      "start_ms": 141983,
+      "end_ms": 144083
+    },
+    {
+      "index": 32,
+      "text": "His mother left a piece of bread.",
+      "start_ms": 144083,
+      "end_ms": 146122
+    },
+    {
+      "index": 33,
+      "text": "My father left a feather.",
+      "start_ms": 146122,
+      "end_ms": 147682
+    },
+    {
+      "index": 34,
+      "text": "It did not matter what the gift was, as long as it was given honestly.\"",
+      "start_ms": 147682,
+      "end_ms": 152061
+    },
+    {
+      "index": 35,
+      "text": "\"And if you didn't give one?\"",
+      "start_ms": 152061,
+      "end_ms": 153921
+    },
+    {
+      "index": 36,
+      "text": "Farmor looked at the fire.",
+      "start_ms": 153921,
+      "end_ms": 155600
+    },
+    {
+      "index": 37,
+      "text": "\"Then the fox took something else,\" she said.",
+      "start_ms": 155600,
+      "end_ms": 158360
+    },
+    {
+      "index": 38,
+      "text": "\"That is what the story tells.\"",
+      "start_ms": 158360,
+      "end_ms": 160339
+    },
+    {
+      "index": 39,
+      "text": "Nell was not sure if she believed the story.",
+      "start_ms": 160339,
+      "end_ms": 163039
+    },
+    {
+      "index": 40,
+      "text": "It sounded like the kind of story grandmothers told to make winter feel important.",
+      "start_ms": 163039,
+      "end_ms": 168078
+    },
+    {
+      "index": 41,
+      "text": "But that night, when she was in bed under her thick duvet, she heard the wind begin.",
+      "start_ms": 168078,
+      "end_ms": 173237
+    },
+    {
+      "index": 42,
+      "text": "It was not an ordinary wind.",
+      "start_ms": 173237,
+      "end_ms": 174976
+    },
+    {
+      "index": 43,
+      "text": "It came out of the north and it whistled through the trees and it made a sound around the corners of the house like someone humming a long, low note.",
+      "start_ms": 174976,
+      "end_ms": 184034
+    },
+    {
+      "index": 44,
+      "text": "Nell got up and went to the window.",
+      "start_ms": 184034,
+      "end_ms": 186254
+    },
+    {
+      "index": 45,
+      "text": "The moon was up.",
+      "start_ms": 186254,
+      "end_ms": 187274
+    },
+    {
+      "index": 46,
+      "text": "The snow in the yard was bright as day.",
+      "start_ms": 187274,
+      "end_ms": 189673
+    },
+    {
+      "index": 47,
+      "text": "And there, in the snow, close to the front door, were small tracks.",
+      "start_ms": 189673,
+      "end_ms": 193752
+    },
+    {
+      "index": 48,
+      "text": "Fox tracks.",
+      "start_ms": 193752,
+      "end_ms": 194472
+    },
+    {
+      "index": 49,
+      "text": "Fresh.",
+      "start_ms": 194472,
+      "end_ms": 194832
+    }
+  ]
+}

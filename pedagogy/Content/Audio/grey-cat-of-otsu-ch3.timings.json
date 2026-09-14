@@ -1,0 +1,547 @@
+{
+  "story_id": "grey-cat-of-otsu",
+  "chapter": 3,
+  "total_duration_ms": 312576,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The cat was still there in the morning.",
+      "start_ms": 1666,
+      "end_ms": 4134
+    },
+    {
+      "index": 1,
+      "text": "It had not eaten.",
+      "start_ms": 4134,
+      "end_ms": 5245
+    },
+    {
+      "index": 2,
+      "text": "The bowl of water was slightly lower — Yui thought, maybe, it had drunk a little in the night.",
+      "start_ms": 5245,
+      "end_ms": 11107
+    },
+    {
+      "index": 3,
+      "text": "But the cat itself had not moved from the same spot on the wall.",
+      "start_ms": 11107,
+      "end_ms": 15118
+    },
+    {
+      "index": 4,
+      "text": "Its coat was slightly damp with dew.",
+      "start_ms": 15118,
+      "end_ms": 17401
+    },
+    {
+      "index": 5,
+      "text": "Its eyes were closed but it opened them when Yui came to the porch.",
+      "start_ms": 17401,
+      "end_ms": 21597
+    },
+    {
+      "index": 6,
+      "text": "It watched her.",
+      "start_ms": 21597,
+      "end_ms": 22646
+    },
+    {
+      "index": 7,
+      "text": "Ojiisan came out and sat with her.",
+      "start_ms": 22646,
+      "end_ms": 24806
+    },
+    {
+      "index": 8,
+      "text": "\"She stayed,\" he said.",
+      "start_ms": 24806,
+      "end_ms": 26225
+    },
+    {
+      "index": 9,
+      "text": "Yui nodded.",
+      "start_ms": 26225,
+      "end_ms": 26966
+    },
+    {
+      "index": 10,
+      "text": "She did not know what to say about it.",
+      "start_ms": 26966,
+      "end_ms": 29372
+    },
+    {
+      "index": 11,
+      "text": "She had spent half the night thinking about whether the cat was real, whether she was making up how still it was, whether Ojiisan was doing it on purpose to make her feel better.",
+      "start_ms": 29372,
+      "end_ms": 40417
+    },
+    {
+      "index": 12,
+      "text": "But she had gotten up twice in the night to check, and both times the cat had been there.",
+      "start_ms": 40417,
+      "end_ms": 45971
+    },
+    {
+      "index": 13,
+      "text": "Still.",
+      "start_ms": 45971,
+      "end_ms": 46403
+    },
+    {
+      "index": 14,
+      "text": "Watching.",
+      "start_ms": 46403,
+      "end_ms": 47020
+    },
+    {
+      "index": 15,
+      "text": "Real.",
+      "start_ms": 47020,
+      "end_ms": 47452
+    },
+    {
+      "index": 16,
+      "text": "That was the second day.",
+      "start_ms": 47452,
+      "end_ms": 48995
+    },
+    {
+      "index": 17,
+      "text": "Yui did not do much.",
+      "start_ms": 48995,
+      "end_ms": 50290
+    },
+    {
+      "index": 18,
+      "text": "She sat on the engawa most of the day.",
+      "start_ms": 50290,
+      "end_ms": 52697
+    },
+    {
+      "index": 19,
+      "text": "She talked to the cat sometimes and did not talk to it sometimes.",
+      "start_ms": 52697,
+      "end_ms": 56770
+    },
+    {
+      "index": 20,
+      "text": "Ojiisan brought her tea.",
+      "start_ms": 56770,
+      "end_ms": 58312
+    },
+    {
+      "index": 21,
+      "text": "Yui went into the garden once, and knelt by Momo's stone, and put her hand on the ground.",
+      "start_ms": 58312,
+      "end_ms": 63866
+    },
+    {
+      "index": 22,
+      "text": "The cat watched her from the wall.",
+      "start_ms": 63866,
+      "end_ms": 66025
+    },
+    {
+      "index": 23,
+      "text": "Once, Yui almost went to it — to try to touch it, to see if it was warm.",
+      "start_ms": 66025,
+      "end_ms": 70530
+    },
+    {
+      "index": 24,
+      "text": "But she stopped herself.",
+      "start_ms": 70530,
+      "end_ms": 72073
+    },
+    {
+      "index": 25,
+      "text": "She thought it was not that kind of cat.",
+      "start_ms": 72073,
+      "end_ms": 74664
+    },
+    {
+      "index": 26,
+      "text": "That night she slept better than she had expected to.",
+      "start_ms": 74664,
+      "end_ms": 77996
+    },
+    {
+      "index": 27,
+      "text": "When she woke up, the sun was already up, and she could hear a bird singing outside, and for one moment before she remembered everything she was almost happy.",
+      "start_ms": 77996,
+      "end_ms": 87808
+    },
+    {
+      "index": 28,
+      "text": "Then she remembered.",
+      "start_ms": 87808,
+      "end_ms": 89104
+    },
+    {
+      "index": 29,
+      "text": "She lay in her futon for a while.",
+      "start_ms": 89104,
+      "end_ms": 91202
+    },
+    {
+      "index": 30,
+      "text": "Then she got up and she went out to the engawa.",
+      "start_ms": 91202,
+      "end_ms": 94163
+    },
+    {
+      "index": 31,
+      "text": "The cat was still there.",
+      "start_ms": 94163,
+      "end_ms": 95706
+    },
+    {
+      "index": 32,
+      "text": "It looked, if she was being honest with herself, a little tired.",
+      "start_ms": 95706,
+      "end_ms": 99717
+    },
+    {
+      "index": 33,
+      "text": "But it was still there.",
+      "start_ms": 99717,
+      "end_ms": 101198
+    },
+    {
+      "index": 34,
+      "text": "That was the third morning.",
+      "start_ms": 101198,
+      "end_ms": 102864
+    },
+    {
+      "index": 35,
+      "text": "She spent the third day differently.",
+      "start_ms": 102864,
+      "end_ms": 105282
+    },
+    {
+      "index": 36,
+      "text": "She had noticed, during the second day, that her sadness was still there — it had not gone away, it had not become smaller — but that something was different about carrying it.",
+      "start_ms": 105282,
+      "end_ms": 116851
+    },
+    {
+      "index": 37,
+      "text": "It was not resting all on her.",
+      "start_ms": 116851,
+      "end_ms": 118877
+    },
+    {
+      "index": 38,
+      "text": "It was as if some of it was on the wall, on the cat, and she could put a little of it there whenever she needed to.",
+      "start_ms": 118877,
+      "end_ms": 126458
+    },
+    {
+      "index": 39,
+      "text": "So on the third day she stopped guarding her sadness.",
+      "start_ms": 126458,
+      "end_ms": 129988
+    },
+    {
+      "index": 40,
+      "text": "She let it come and go.",
+      "start_ms": 129988,
+      "end_ms": 131556
+    },
+    {
+      "index": 41,
+      "text": "Sometimes she cried a little, and sometimes she did not.",
+      "start_ms": 131556,
+      "end_ms": 135282
+    },
+    {
+      "index": 42,
+      "text": "It felt allowed either way.",
+      "start_ms": 135282,
+      "end_ms": 137177
+    },
+    {
+      "index": 43,
+      "text": "In the afternoon her mother called on Ojiisan's phone.",
+      "start_ms": 137177,
+      "end_ms": 140772
+    },
+    {
+      "index": 44,
+      "text": "Yui told her about Momo.",
+      "start_ms": 140772,
+      "end_ms": 142406
+    },
+    {
+      "index": 45,
+      "text": "She was worried her mother would try to come get her early, but her mother did not — she asked if Yui wanted to stay for the rest of the week, and Yui said yes, and her mother said okay.",
+      "start_ms": 142406,
+      "end_ms": 154628
+    },
+    {
+      "index": 46,
+      "text": "Yui did not tell her mother about the cat.",
+      "start_ms": 154628,
+      "end_ms": 157438
+    },
+    {
+      "index": 47,
+      "text": "She did not know how to.",
+      "start_ms": 157438,
+      "end_ms": 159072
+    },
+    {
+      "index": 48,
+      "text": "She thought maybe she would tell her someday, but not yet.",
+      "start_ms": 159072,
+      "end_ms": 162993
+    },
+    {
+      "index": 49,
+      "text": "That evening — the third evening — Yui was inside helping Ojiisan wash the dishes when she looked out the window and saw that the cat was not on the wall.",
+      "start_ms": 162993,
+      "end_ms": 173124
+    },
+    {
+      "index": 50,
+      "text": "She dried her hands and went out to the porch.",
+      "start_ms": 173124,
+      "end_ms": 176196
+    },
+    {
+      "index": 51,
+      "text": "The bowl of water was still there.",
+      "start_ms": 176196,
+      "end_ms": 178483
+    },
+    {
+      "index": 52,
+      "text": "The wall was empty.",
+      "start_ms": 178483,
+      "end_ms": 179790
+    },
+    {
+      "index": 53,
+      "text": "She stood there for a moment.",
+      "start_ms": 179790,
+      "end_ms": 181751
+    },
+    {
+      "index": 54,
+      "text": "Then she looked around the garden, in case the cat had come down.",
+      "start_ms": 181751,
+      "end_ms": 186065
+    },
+    {
+      "index": 55,
+      "text": "It had not.",
+      "start_ms": 186065,
+      "end_ms": 186849
+    },
+    {
+      "index": 56,
+      "text": "It was gone.",
+      "start_ms": 186849,
+      "end_ms": 187764
+    },
+    {
+      "index": 57,
+      "text": "Yui stood on the porch for a long time.",
+      "start_ms": 187764,
+      "end_ms": 190378
+    },
+    {
+      "index": 58,
+      "text": "She was not sure what she felt.",
+      "start_ms": 190378,
+      "end_ms": 192470
+    },
+    {
+      "index": 59,
+      "text": "She was not surprised.",
+      "start_ms": 192470,
+      "end_ms": 193973
+    },
+    {
+      "index": 60,
+      "text": "Ojiisan had told her the story.",
+      "start_ms": 193973,
+      "end_ms": 196065
+    },
+    {
+      "index": 61,
+      "text": "She had known the cat would go.",
+      "start_ms": 196065,
+      "end_ms": 198156
+    },
+    {
+      "index": 62,
+      "text": "But she still stood on the porch for a while, looking at the empty wall, before she went back inside.",
+      "start_ms": 198156,
+      "end_ms": 204823
+    },
+    {
+      "index": 63,
+      "text": "The bowl of water she left where it was.",
+      "start_ms": 204823,
+      "end_ms": 207502
+    },
+    {
+      "index": 64,
+      "text": "She did not tell Ojiisan yet.",
+      "start_ms": 207502,
+      "end_ms": 209463
+    },
+    {
+      "index": 65,
+      "text": "She wanted to keep it for a moment longer.",
+      "start_ms": 209463,
+      "end_ms": 212208
+    },
+    {
+      "index": 66,
+      "text": "Later, when they were sitting at the low table with tea, Yui said, \"She went, Ojiisan.\" Ojiisan set down his cup.",
+      "start_ms": 212208,
+      "end_ms": 220709
+    },
+    {
+      "index": 67,
+      "text": "He nodded.",
+      "start_ms": 220709,
+      "end_ms": 221529
+    },
+    {
+      "index": 68,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 221529,
+      "end_ms": 222722
+    },
+    {
+      "index": 69,
+      "text": "\"That is how it works.\" Yui looked into her tea.",
+      "start_ms": 222722,
+      "end_ms": 226376
+    },
+    {
+      "index": 70,
+      "text": "She said, \"Was she real.\" Ojiisan was quiet for a long moment.",
+      "start_ms": 226376,
+      "end_ms": 231074
+    },
+    {
+      "index": 71,
+      "text": "Then he said, \"Yui.",
+      "start_ms": 231074,
+      "end_ms": 232565
+    },
+    {
+      "index": 72,
+      "text": "Do you feel better than you did two days ago.\" \"A little,\" said Yui.",
+      "start_ms": 232565,
+      "end_ms": 237710
+    },
+    {
+      "index": 73,
+      "text": "\"Not a lot.",
+      "start_ms": 237710,
+      "end_ms": 238605
+    },
+    {
+      "index": 74,
+      "text": "But a little.\" \"Then she was real,\" said Ojiisan.",
+      "start_ms": 238605,
+      "end_ms": 242408
+    },
+    {
+      "index": 75,
+      "text": "Yui thought about that.",
+      "start_ms": 242408,
+      "end_ms": 244198
+    },
+    {
+      "index": 76,
+      "text": "She thought about it for the rest of the week.",
+      "start_ms": 244198,
+      "end_ms": 247702
+    },
+    {
+      "index": 77,
+      "text": "She thought about it on the train ride back to Kyoto.",
+      "start_ms": 247702,
+      "end_ms": 251729
+    },
+    {
+      "index": 78,
+      "text": "She thought about it when she got home and Momo's blanket and food dish were still in the corner of the kitchen, and she cried again, alone, in her room.",
+      "start_ms": 251729,
+      "end_ms": 263212
+    },
+    {
+      "index": 79,
+      "text": "She thought about it years later, when she was grown, and other people she loved had died, and she had sat with those sadnesses too.",
+      "start_ms": 263212,
+      "end_ms": 273130
+    },
+    {
+      "index": 80,
+      "text": "And she came to understand what Ojiisan had meant.",
+      "start_ms": 273130,
+      "end_ms": 276933
+    },
+    {
+      "index": 81,
+      "text": "The cat was real because the sitting was real.",
+      "start_ms": 276933,
+      "end_ms": 280437
+    },
+    {
+      "index": 82,
+      "text": "That was the whole thing.",
+      "start_ms": 280437,
+      "end_ms": 282376
+    },
+    {
+      "index": 83,
+      "text": "Someone had sat with her.",
+      "start_ms": 282376,
+      "end_ms": 284315
+    },
+    {
+      "index": 84,
+      "text": "That was what mattered.",
+      "start_ms": 284315,
+      "end_ms": 286179
+    },
+    {
+      "index": 85,
+      "text": "Every time she thought this, she also thought about the day, weeks after she had come back from Otsu, when she saw a grey cat on the wall of a neighbor's house in Kyoto — a completely ordinary neighborhood cat, not hers, not the same one.",
+      "start_ms": 286179,
+      "end_ms": 304001
+    },
+    {
+      "index": 86,
+      "text": "And she remembered noticing that she had smiled a little at it.",
+      "start_ms": 304001,
+      "end_ms": 308773
+    },
+    {
+      "index": 87,
+      "text": "And she had thought, oh, hello.",
+      "start_ms": 308773,
+      "end_ms": 311159
+    },
+    {
+      "index": 88,
+      "text": "Not you.",
+      "start_ms": 311159,
+      "end_ms": 311830
+    },
+    {
+      "index": 89,
+      "text": "But hello.",
+      "start_ms": 311830,
+      "end_ms": 312576
+    }
+  ]
+}

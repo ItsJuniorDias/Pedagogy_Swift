@@ -1,0 +1,613 @@
+{
+  "story_id": "nightingale-terminal",
+  "chapter": 1,
+  "total_duration_ms": 322704,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Sena had been through Istanbul Airport six times before.",
+      "start_ms": 1750,
+      "end_ms": 5076
+    },
+    {
+      "index": 1,
+      "text": "She was eleven, and her mother lived in Frankfurt and her father lived in Singapore, and Sena spent half of every year with each.",
+      "start_ms": 5076,
+      "end_ms": 12662
+    },
+    {
+      "index": 2,
+      "text": "The direct flight was fifteen hours and expensive, so her parents flew her with a stop.",
+      "start_ms": 12662,
+      "end_ms": 17797
+    },
+    {
+      "index": 3,
+      "text": "Turkish Airlines was the cheapest with the best service for children flying alone.",
+      "start_ms": 17797,
+      "end_ms": 22640
+    },
+    {
+      "index": 4,
+      "text": "The stop was in Istanbul.",
+      "start_ms": 22640,
+      "end_ms": 24157
+    },
+    {
+      "index": 5,
+      "text": "Twelve hours, most times.",
+      "start_ms": 24157,
+      "end_ms": 25674
+    },
+    {
+      "index": 6,
+      "text": "She had learned to hate the twelve hours.",
+      "start_ms": 25674,
+      "end_ms": 28125
+    },
+    {
+      "index": 7,
+      "text": "Twelve hours was too long to just wait in an airport but too short to leave and see the city — she was too young to leave the terminal alone.",
+      "start_ms": 28125,
+      "end_ms": 36469
+    },
+    {
+      "index": 8,
+      "text": "Her flight from Frankfurt had landed at eight-thirty in the evening.",
+      "start_ms": 36469,
+      "end_ms": 40495
+    },
+    {
+      "index": 9,
+      "text": "Her connecting flight to Singapore left at nine in the morning.",
+      "start_ms": 40495,
+      "end_ms": 44229
+    },
+    {
+      "index": 10,
+      "text": "That was twelve and a half hours in the terminal.",
+      "start_ms": 44229,
+      "end_ms": 47147
+    },
+    {
+      "index": 11,
+      "text": "The airline's people had walked her from the arriving gate to the transit area and had shown her the small kids' lounge where children flying alone could wait.",
+      "start_ms": 47147,
+      "end_ms": 56482
+    },
+    {
+      "index": 12,
+      "text": "But she was old enough now that she was allowed to be in the general terminal too if she wanted.",
+      "start_ms": 56482,
+      "end_ms": 62142
+    },
+    {
+      "index": 13,
+      "text": "She always wanted.",
+      "start_ms": 62142,
+      "end_ms": 63251
+    },
+    {
+      "index": 14,
+      "text": "The kids' lounge was too full of small crying children and cartoons.",
+      "start_ms": 63251,
+      "end_ms": 67277
+    },
+    {
+      "index": 15,
+      "text": "She preferred to sit in the huge quiet windows of the international terminal and watch the planes come and go.",
+      "start_ms": 67277,
+      "end_ms": 73812
+    },
+    {
+      "index": 16,
+      "text": "She found her usual seating area — a quiet gate near the far end of the international terminal that did not have many flights at night.",
+      "start_ms": 73812,
+      "end_ms": 81748
+    },
+    {
+      "index": 17,
+      "text": "She sat down.",
+      "start_ms": 81748,
+      "end_ms": 82565
+    },
+    {
+      "index": 18,
+      "text": "She put her small backpack beside her.",
+      "start_ms": 82565,
+      "end_ms": 84840
+    },
+    {
+      "index": 19,
+      "text": "She took out her book.",
+      "start_ms": 84840,
+      "end_ms": 86182
+    },
+    {
+      "index": 20,
+      "text": "She tried to read for a while.",
+      "start_ms": 86182,
+      "end_ms": 87991
+    },
+    {
+      "index": 21,
+      "text": "She could not concentrate.",
+      "start_ms": 87991,
+      "end_ms": 89567
+    },
+    {
+      "index": 22,
+      "text": "She looked at her phone.",
+      "start_ms": 89567,
+      "end_ms": 91025
+    },
+    {
+      "index": 23,
+      "text": "It was nine-forty-five p.m.",
+      "start_ms": 91025,
+      "end_ms": 92659
+    },
+    {
+      "index": 24,
+      "text": "She still had eleven and a quarter hours to go.",
+      "start_ms": 92659,
+      "end_ms": 95460
+    },
+    {
+      "index": 25,
+      "text": "She put her head against the glass of the window.",
+      "start_ms": 95460,
+      "end_ms": 98378
+    },
+    {
+      "index": 26,
+      "text": "She watched a plane taxi past.",
+      "start_ms": 98378,
+      "end_ms": 100128
+    },
+    {
+      "index": 27,
+      "text": "This flight always tired her.",
+      "start_ms": 100128,
+      "end_ms": 102062
+    },
+    {
+      "index": 28,
+      "text": "Not because it was long — it was long, but she had done it so many times that it was routine.",
+      "start_ms": 102062,
+      "end_ms": 108122
+    },
+    {
+      "index": 29,
+      "text": "It tired her because every time she flew, she was leaving one parent and going to the other.",
+      "start_ms": 108122,
+      "end_ms": 114118
+    },
+    {
+      "index": 30,
+      "text": "Right now she was leaving her mother, whom she had lived with for six months, and going to her father, whom she had not seen in six months.",
+      "start_ms": 114118,
+      "end_ms": 123143
+    },
+    {
+      "index": 31,
+      "text": "She loved her father.",
+      "start_ms": 123143,
+      "end_ms": 124562
+    },
+    {
+      "index": 32,
+      "text": "She would be happy to see him.",
+      "start_ms": 124562,
+      "end_ms": 126560
+    },
+    {
+      "index": 33,
+      "text": "But she would miss her mother very much.",
+      "start_ms": 126560,
+      "end_ms": 129204
+    },
+    {
+      "index": 34,
+      "text": "And she knew that in six months she would fly back and it would be the reverse.",
+      "start_ms": 129204,
+      "end_ms": 134361
+    },
+    {
+      "index": 35,
+      "text": "She loved both parents.",
+      "start_ms": 134361,
+      "end_ms": 135908
+    },
+    {
+      "index": 36,
+      "text": "But she never felt fully at home anywhere.",
+      "start_ms": 135908,
+      "end_ms": 138680
+    },
+    {
+      "index": 37,
+      "text": "She was always half-there.",
+      "start_ms": 138680,
+      "end_ms": 140486
+    },
+    {
+      "index": 38,
+      "text": "At about ten-thirty an older woman sat down in the row of chairs — not next to Sena, but one over, with an empty seat between them.",
+      "start_ms": 140486,
+      "end_ms": 148996
+    },
+    {
+      "index": 39,
+      "text": "She was maybe seventy.",
+      "start_ms": 148996,
+      "end_ms": 150478
+    },
+    {
+      "index": 40,
+      "text": "She wore a modest dark dress and a soft rose-colored headscarf.",
+      "start_ms": 150478,
+      "end_ms": 154604
+    },
+    {
+      "index": 41,
+      "text": "She had a small canvas bag on her lap.",
+      "start_ms": 154604,
+      "end_ms": 157119
+    },
+    {
+      "index": 42,
+      "text": "She was holding a small paper cup of tea.",
+      "start_ms": 157119,
+      "end_ms": 159826
+    },
+    {
+      "index": 43,
+      "text": "She sat down carefully, like her back hurt a little.",
+      "start_ms": 159826,
+      "end_ms": 163243
+    },
+    {
+      "index": 44,
+      "text": "She did not look at Sena.",
+      "start_ms": 163243,
+      "end_ms": 164919
+    },
+    {
+      "index": 45,
+      "text": "She just sat and looked out the window.",
+      "start_ms": 164919,
+      "end_ms": 167563
+    },
+    {
+      "index": 46,
+      "text": "Sena did not really notice her for a while.",
+      "start_ms": 167563,
+      "end_ms": 170399
+    },
+    {
+      "index": 47,
+      "text": "Sena kept trying to read her book.",
+      "start_ms": 170399,
+      "end_ms": 172656
+    },
+    {
+      "index": 48,
+      "text": "At about eleven the old woman turned to Sena and said something in Turkish.",
+      "start_ms": 172656,
+      "end_ms": 177555
+    },
+    {
+      "index": 49,
+      "text": "Sena said, in English, \"I am sorry.",
+      "start_ms": 177555,
+      "end_ms": 179876
+    },
+    {
+      "index": 50,
+      "text": "I do not speak Turkish.\" The old woman smiled a small smile.",
+      "start_ms": 179876,
+      "end_ms": 183809
+    },
+    {
+      "index": 51,
+      "text": "She switched to English.",
+      "start_ms": 183809,
+      "end_ms": 185421
+    },
+    {
+      "index": 52,
+      "text": "Her English was clear but slow.",
+      "start_ms": 185421,
+      "end_ms": 187484
+    },
+    {
+      "index": 53,
+      "text": "She said, \"I said — you have been sitting there for a long time.",
+      "start_ms": 187484,
+      "end_ms": 191674
+    },
+    {
+      "index": 54,
+      "text": "Are you alone.\" Sena said, \"Yes.",
+      "start_ms": 191674,
+      "end_ms": 193801
+    },
+    {
+      "index": 55,
+      "text": "I am flying alone.",
+      "start_ms": 193801,
+      "end_ms": 195026
+    },
+    {
+      "index": 56,
+      "text": "My flight is in the morning.\"",
+      "start_ms": 195026,
+      "end_ms": 196896
+    },
+    {
+      "index": 57,
+      "text": "\"Where are you going,\" said the old woman.",
+      "start_ms": 196896,
+      "end_ms": 199605
+    },
+    {
+      "index": 58,
+      "text": "\"To Singapore.",
+      "start_ms": 199605,
+      "end_ms": 200550
+    },
+    {
+      "index": 59,
+      "text": "My father lives there.\" \"Where are you coming from.\" \"Frankfurt.",
+      "start_ms": 200550,
+      "end_ms": 204645
+    },
+    {
+      "index": 60,
+      "text": "My mother lives there.\" The old woman nodded.",
+      "start_ms": 204645,
+      "end_ms": 207543
+    },
+    {
+      "index": 61,
+      "text": "She said, \"How long is your wait here.\" \"Twelve and a half hours.",
+      "start_ms": 207543,
+      "end_ms": 211701
+    },
+    {
+      "index": 62,
+      "text": "My flight is at nine tomorrow morning.\" The old woman was silent for a moment.",
+      "start_ms": 211701,
+      "end_ms": 216678
+    },
+    {
+      "index": 63,
+      "text": "Then she said, \"That is a long time to sit by a window.",
+      "start_ms": 216678,
+      "end_ms": 220205
+    },
+    {
+      "index": 64,
+      "text": "My name is Nazan.",
+      "start_ms": 220205,
+      "end_ms": 221339
+    },
+    {
+      "index": 65,
+      "text": "If you would like company, I am also waiting.",
+      "start_ms": 221339,
+      "end_ms": 224237
+    },
+    {
+      "index": 66,
+      "text": "My flight is at eight in the morning.",
+      "start_ms": 224237,
+      "end_ms": 226631
+    },
+    {
+      "index": 67,
+      "text": "If you would prefer to be alone, I understand.\"",
+      "start_ms": 226631,
+      "end_ms": 229718
+    },
+    {
+      "index": 68,
+      "text": "Sena said, \"You can stay.",
+      "start_ms": 229718,
+      "end_ms": 231356
+    },
+    {
+      "index": 69,
+      "text": "Please stay.",
+      "start_ms": 231356,
+      "end_ms": 232175
+    },
+    {
+      "index": 70,
+      "text": "I am — I am tired of being alone.",
+      "start_ms": 232175,
+      "end_ms": 234317
+    },
+    {
+      "index": 71,
+      "text": "My name is Sena.\" Nazan smiled.",
+      "start_ms": 234317,
+      "end_ms": 236333
+    },
+    {
+      "index": 72,
+      "text": "She moved one seat closer so they were sitting next to each other.",
+      "start_ms": 236333,
+      "end_ms": 240554
+    },
+    {
+      "index": 73,
+      "text": "She said, \"Would you like some tea.",
+      "start_ms": 240554,
+      "end_ms": 242822
+    },
+    {
+      "index": 74,
+      "text": "I bought too much.\" She handed Sena the small paper cup.",
+      "start_ms": 242822,
+      "end_ms": 246413
+    },
+    {
+      "index": 75,
+      "text": "It was still warm.",
+      "start_ms": 246413,
+      "end_ms": 247610
+    },
+    {
+      "index": 76,
+      "text": "It was Turkish tea — strong and dark, with sugar.",
+      "start_ms": 247610,
+      "end_ms": 250760
+    },
+    {
+      "index": 77,
+      "text": "Sena drank a small sip.",
+      "start_ms": 250760,
+      "end_ms": 252272
+    },
+    {
+      "index": 78,
+      "text": "It was good.",
+      "start_ms": 252272,
+      "end_ms": 253154
+    },
+    {
+      "index": 79,
+      "text": "For the first hour they talked about small things.",
+      "start_ms": 253154,
+      "end_ms": 256367
+    },
+    {
+      "index": 80,
+      "text": "Nazan lived in Istanbul.",
+      "start_ms": 256367,
+      "end_ms": 257942
+    },
+    {
+      "index": 81,
+      "text": "She was returning home.",
+      "start_ms": 257942,
+      "end_ms": 259454
+    },
+    {
+      "index": 82,
+      "text": "She had been in Frankfurt visiting her son, who lived there.",
+      "start_ms": 259454,
+      "end_ms": 263296
+    },
+    {
+      "index": 83,
+      "text": "She had a small apartment in a district called Kadıköy on the Asian side of the city.",
+      "start_ms": 263296,
+      "end_ms": 268714
+    },
+    {
+      "index": 84,
+      "text": "She had been a music teacher for forty-five years — piano, mostly, and some voice.",
+      "start_ms": 268714,
+      "end_ms": 273943
+    },
+    {
+      "index": 85,
+      "text": "She had retired ten years ago.",
+      "start_ms": 273943,
+      "end_ms": 275896
+    },
+    {
+      "index": 86,
+      "text": "She lived alone now — her husband had died six years ago — but she was fine, she had many friends, and she saw her son and his family twice a year.",
+      "start_ms": 275896,
+      "end_ms": 285220
+    },
+    {
+      "index": 87,
+      "text": "This trip had been the second one this year.",
+      "start_ms": 285220,
+      "end_ms": 288118
+    },
+    {
+      "index": 88,
+      "text": "Sena told Nazan about her life.",
+      "start_ms": 288118,
+      "end_ms": 290134
+    },
+    {
+      "index": 89,
+      "text": "About Frankfurt.",
+      "start_ms": 290134,
+      "end_ms": 291205
+    },
+    {
+      "index": 90,
+      "text": "About Singapore.",
+      "start_ms": 291205,
+      "end_ms": 292276
+    },
+    {
+      "index": 91,
+      "text": "About flying twice a year.",
+      "start_ms": 292276,
+      "end_ms": 293977
+    },
+    {
+      "index": 92,
+      "text": "About the twelve-hour layover, which she had always hated.",
+      "start_ms": 293977,
+      "end_ms": 297694
+    },
+    {
+      "index": 93,
+      "text": "Nazan listened carefully.",
+      "start_ms": 297694,
+      "end_ms": 299332
+    },
+    {
+      "index": 94,
+      "text": "She did not interrupt.",
+      "start_ms": 299332,
+      "end_ms": 300781
+    },
+    {
+      "index": 95,
+      "text": "She nodded.",
+      "start_ms": 300781,
+      "end_ms": 301537
+    },
+    {
+      "index": 96,
+      "text": "When Sena had finished — she had talked for maybe fifteen minutes, which was longer than she had talked to anyone in a long time — Nazan said, quietly, \"That is a hard life for an eleven-year-old, Sena.",
+      "start_ms": 301537,
+      "end_ms": 314325
+    },
+    {
+      "index": 97,
+      "text": "Living in two places.",
+      "start_ms": 314325,
+      "end_ms": 315711
+    },
+    {
+      "index": 98,
+      "text": "Missing one parent while you are with the other.",
+      "start_ms": 315711,
+      "end_ms": 318798
+    },
+    {
+      "index": 99,
+      "text": "I want you to know that I hear that.",
+      "start_ms": 318798,
+      "end_ms": 321129
+    },
+    {
+      "index": 100,
+      "text": "It is a real hard thing.\"",
+      "start_ms": 321129,
+      "end_ms": 322704
+    }
+  ]
+}

@@ -1,0 +1,907 @@
+{
+  "story_id": "brother-of-the-storm",
+  "chapter": 2,
+  "total_duration_ms": 356304,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "For the next three hours Kai told Aiko what to do and she did it.",
+      "start_ms": 1408,
+      "end_ms": 5125
+    },
+    {
+      "index": 1,
+      "text": "She did not argue.",
+      "start_ms": 5125,
+      "end_ms": 6195
+    },
+    {
+      "index": 2,
+      "text": "She did not even think about arguing.",
+      "start_ms": 6195,
+      "end_ms": 8335
+    },
+    {
+      "index": 3,
+      "text": "He was completely different.",
+      "start_ms": 8335,
+      "end_ms": 9968
+    },
+    {
+      "index": 4,
+      "text": "He knew exactly what needed to happen.",
+      "start_ms": 9968,
+      "end_ms": 12165
+    },
+    {
+      "index": 5,
+      "text": "He had them fill every container in the cabin with water — the storm could knock out the pump.",
+      "start_ms": 12165,
+      "end_ms": 17515
+    },
+    {
+      "index": 6,
+      "text": "He had them bring in enough firewood for two days.",
+      "start_ms": 17515,
+      "end_ms": 20387
+    },
+    {
+      "index": 7,
+      "text": "He had them put boards over the two windows facing west, where the storm was coming from.",
+      "start_ms": 20387,
+      "end_ms": 25456
+    },
+    {
+      "index": 8,
+      "text": "He had them bring in all the outside things — the axe, the fishing gear, the small chair from the porch — because anything left outside would become a projectile in the wind.",
+      "start_ms": 25456,
+      "end_ms": 35311
+    },
+    {
+      "index": 9,
+      "text": "He had them tie down the small fishing boat with an extra rope.",
+      "start_ms": 35311,
+      "end_ms": 38972
+    },
+    {
+      "index": 10,
+      "text": "He was fast and he was decisive.",
+      "start_ms": 38972,
+      "end_ms": 40830
+    },
+    {
+      "index": 11,
+      "text": "He did not stop to explain most things.",
+      "start_ms": 40830,
+      "end_ms": 43083
+    },
+    {
+      "index": 12,
+      "text": "When Aiko started to ask, he said, \"Ask me later.",
+      "start_ms": 43083,
+      "end_ms": 45899
+    },
+    {
+      "index": 13,
+      "text": "Right now just do this.\" She did.",
+      "start_ms": 45899,
+      "end_ms": 47814
+    },
+    {
+      "index": 14,
+      "text": "She trusted him.",
+      "start_ms": 47814,
+      "end_ms": 48771
+    },
+    {
+      "index": 15,
+      "text": "She was surprised at how much she trusted him.",
+      "start_ms": 48771,
+      "end_ms": 51475
+    },
+    {
+      "index": 16,
+      "text": "At six o'clock, when they had done everything they could think of, they went back inside.",
+      "start_ms": 51475,
+      "end_ms": 56543
+    },
+    {
+      "index": 17,
+      "text": "Kai locked the door.",
+      "start_ms": 56543,
+      "end_ms": 57726
+    },
+    {
+      "index": 18,
+      "text": "He barred it — she had not known there was a heavy wooden bar for the door, but there was, and he showed her where it was kept and how to slide it.",
+      "start_ms": 57726,
+      "end_ms": 66061
+    },
+    {
+      "index": 19,
+      "text": "He checked in with the coast guard on the radio.",
+      "start_ms": 66061,
+      "end_ms": 68820
+    },
+    {
+      "index": 20,
+      "text": "He said everything was secure.",
+      "start_ms": 68820,
+      "end_ms": 70566
+    },
+    {
+      "index": 21,
+      "text": "The woman said the storm was now expected within the hour.",
+      "start_ms": 70566,
+      "end_ms": 73889
+    },
+    {
+      "index": 22,
+      "text": "She wished them luck.",
+      "start_ms": 73889,
+      "end_ms": 75128
+    },
+    {
+      "index": 23,
+      "text": "Kai turned off the radio.",
+      "start_ms": 75128,
+      "end_ms": 76536
+    },
+    {
+      "index": 24,
+      "text": "He sat down at the kitchen table.",
+      "start_ms": 76536,
+      "end_ms": 78581
+    },
+    {
+      "index": 25,
+      "text": "Aiko sat across from him.",
+      "start_ms": 78581,
+      "end_ms": 80145
+    },
+    {
+      "index": 26,
+      "text": "She looked at him.",
+      "start_ms": 80145,
+      "end_ms": 81288
+    },
+    {
+      "index": 27,
+      "text": "For the first time all day, she really looked at him.",
+      "start_ms": 81288,
+      "end_ms": 84536
+    },
+    {
+      "index": 28,
+      "text": "He looked older than she had thought.",
+      "start_ms": 84536,
+      "end_ms": 86821
+    },
+    {
+      "index": 29,
+      "text": "He was fifteen but he looked, in that moment, more like twenty.",
+      "start_ms": 86821,
+      "end_ms": 90671
+    },
+    {
+      "index": 30,
+      "text": "His face was tired but calm.",
+      "start_ms": 90671,
+      "end_ms": 92415
+    },
+    {
+      "index": 31,
+      "text": "His hands were still.",
+      "start_ms": 92415,
+      "end_ms": 93738
+    },
+    {
+      "index": 32,
+      "text": "She said, quietly, \"Kai.",
+      "start_ms": 93738,
+      "end_ms": 95242
+    },
+    {
+      "index": 33,
+      "text": "How did you know what to do.\" Kai looked at her.",
+      "start_ms": 95242,
+      "end_ms": 98189
+    },
+    {
+      "index": 34,
+      "text": "He said, \"Dad taught me.",
+      "start_ms": 98189,
+      "end_ms": 99693
+    },
+    {
+      "index": 35,
+      "text": "Dad has been teaching me for years.",
+      "start_ms": 99693,
+      "end_ms": 101858
+    },
+    {
+      "index": 36,
+      "text": "He taught me the whole storm procedure when I was thirteen.",
+      "start_ms": 101858,
+      "end_ms": 105467
+    },
+    {
+      "index": 37,
+      "text": "He taught me again last winter.",
+      "start_ms": 105467,
+      "end_ms": 107392
+    },
+    {
+      "index": 38,
+      "text": "He said — someday I would need to know it, when he was not there.",
+      "start_ms": 107392,
+      "end_ms": 111362
+    },
+    {
+      "index": 39,
+      "text": "I did not know that day would be today.",
+      "start_ms": 111362,
+      "end_ms": 113768
+    },
+    {
+      "index": 40,
+      "text": "But I knew it would come sometime.",
+      "start_ms": 113768,
+      "end_ms": 115873
+    },
+    {
+      "index": 41,
+      "text": "So I paid attention.\"",
+      "start_ms": 115873,
+      "end_ms": 117257
+    },
+    {
+      "index": 42,
+      "text": "Aiko was quiet for a moment.",
+      "start_ms": 117257,
+      "end_ms": 119001
+    },
+    {
+      "index": 43,
+      "text": "She said, \"Kai.",
+      "start_ms": 119001,
+      "end_ms": 119963
+    },
+    {
+      "index": 44,
+      "text": "Why do you always seem so — I don't know.",
+      "start_ms": 119963,
+      "end_ms": 122489
+    },
+    {
+      "index": 45,
+      "text": "Why do you seem like you don't care about things.\" Kai looked at her.",
+      "start_ms": 122489,
+      "end_ms": 126700
+    },
+    {
+      "index": 46,
+      "text": "He was not offended.",
+      "start_ms": 126700,
+      "end_ms": 127963
+    },
+    {
+      "index": 47,
+      "text": "He seemed to have expected the question.",
+      "start_ms": 127963,
+      "end_ms": 130429
+    },
+    {
+      "index": 48,
+      "text": "He said, \"I do care about things.",
+      "start_ms": 130429,
+      "end_ms": 132474
+    },
+    {
+      "index": 49,
+      "text": "I do a lot of things.",
+      "start_ms": 132474,
+      "end_ms": 133797
+    },
+    {
+      "index": 50,
+      "text": "You just don't see them because you are not the person I do them for.\" He was quiet.",
+      "start_ms": 133797,
+      "end_ms": 138910
+    },
+    {
+      "index": 51,
+      "text": "Then he said, \"I help Dad with a lot of things.",
+      "start_ms": 138910,
+      "end_ms": 141797
+    },
+    {
+      "index": 52,
+      "text": "He teaches me — how to fix things.",
+      "start_ms": 141797,
+      "end_ms": 143902
+    },
+    {
+      "index": 53,
+      "text": "How to read the sea.",
+      "start_ms": 143902,
+      "end_ms": 145165
+    },
+    {
+      "index": 54,
+      "text": "How to keep everyone safe.",
+      "start_ms": 145165,
+      "end_ms": 146789
+    },
+    {
+      "index": 55,
+      "text": "But he does it — quietly.",
+      "start_ms": 146789,
+      "end_ms": 148353
+    },
+    {
+      "index": 56,
+      "text": "Because he knows I don't want you and Mom to see me trying and failing.",
+      "start_ms": 148353,
+      "end_ms": 152684
+    },
+    {
+      "index": 57,
+      "text": "That would be embarrassing.",
+      "start_ms": 152684,
+      "end_ms": 154368
+    },
+    {
+      "index": 58,
+      "text": "So we do it when you are asleep or when you are reading or when you are somewhere else.\"",
+      "start_ms": 154368,
+      "end_ms": 159781
+    },
+    {
+      "index": 59,
+      "text": "\"So you have been learning this stuff for years,\" Aiko said.",
+      "start_ms": 159781,
+      "end_ms": 163451
+    },
+    {
+      "index": 60,
+      "text": "\"Yes,\" said Kai.",
+      "start_ms": 163451,
+      "end_ms": 164473
+    },
+    {
+      "index": 61,
+      "text": "\"I have.",
+      "start_ms": 164473,
+      "end_ms": 165014
+    },
+    {
+      "index": 62,
+      "text": "Also — you know, Aiko.",
+      "start_ms": 165014,
+      "end_ms": 166398
+    },
+    {
+      "index": 63,
+      "text": "You think I don't help much.",
+      "start_ms": 166398,
+      "end_ms": 168142
+    },
+    {
+      "index": 64,
+      "text": "But that is because I am a teenager and I am supposed to look like I don't help much.",
+      "start_ms": 168142,
+      "end_ms": 173315
+    },
+    {
+      "index": 65,
+      "text": "That is one of my jobs.",
+      "start_ms": 173315,
+      "end_ms": 174758
+    },
+    {
+      "index": 66,
+      "text": "If I helped visibly and cheerfully, that would be weird.",
+      "start_ms": 174758,
+      "end_ms": 178187
+    },
+    {
+      "index": 67,
+      "text": "So I look grumpy and I go to my room a lot.",
+      "start_ms": 178187,
+      "end_ms": 180833
+    },
+    {
+      "index": 68,
+      "text": "But actually I am learning things all the time.",
+      "start_ms": 180833,
+      "end_ms": 183721
+    },
+    {
+      "index": 69,
+      "text": "And when there is a storm and Dad is not here, I am not confused about what to do.",
+      "start_ms": 183721,
+      "end_ms": 188713
+    },
+    {
+      "index": 70,
+      "text": "I know what to do.",
+      "start_ms": 188713,
+      "end_ms": 189856
+    },
+    {
+      "index": 71,
+      "text": "Because I have paid attention.",
+      "start_ms": 189856,
+      "end_ms": 191720
+    },
+    {
+      "index": 72,
+      "text": "That is the whole point.\"",
+      "start_ms": 191720,
+      "end_ms": 193224
+    },
+    {
+      "index": 73,
+      "text": "Aiko sat there.",
+      "start_ms": 193224,
+      "end_ms": 194122
+    },
+    {
+      "index": 74,
+      "text": "She was quiet for a long time.",
+      "start_ms": 194122,
+      "end_ms": 195862
+    },
+    {
+      "index": 75,
+      "text": "She was thinking about all the things she had thought about Kai over the years.",
+      "start_ms": 195862,
+      "end_ms": 200353
+    },
+    {
+      "index": 76,
+      "text": "She was thinking about how many of them had been wrong.",
+      "start_ms": 200353,
+      "end_ms": 203497
+    },
+    {
+      "index": 77,
+      "text": "She was thinking about how it was possible to live in the same house as someone for ten years and not really see them.",
+      "start_ms": 203497,
+      "end_ms": 210177
+    },
+    {
+      "index": 78,
+      "text": "She said, \"Kai.",
+      "start_ms": 210177,
+      "end_ms": 211075
+    },
+    {
+      "index": 79,
+      "text": "I'm sorry.\" Kai laughed.",
+      "start_ms": 211075,
+      "end_ms": 212479
+    },
+    {
+      "index": 80,
+      "text": "He did not laugh often.",
+      "start_ms": 212479,
+      "end_ms": 213826
+    },
+    {
+      "index": 81,
+      "text": "He said, \"Aiko.",
+      "start_ms": 213826,
+      "end_ms": 214724
+    },
+    {
+      "index": 82,
+      "text": "Do not be sorry.",
+      "start_ms": 214724,
+      "end_ms": 215678
+    },
+    {
+      "index": 83,
+      "text": "I acted like I didn't care.",
+      "start_ms": 215678,
+      "end_ms": 217250
+    },
+    {
+      "index": 84,
+      "text": "I gave you that impression.",
+      "start_ms": 217250,
+      "end_ms": 218822
+    },
+    {
+      "index": 85,
+      "text": "It was for a reason.",
+      "start_ms": 218822,
+      "end_ms": 220001
+    },
+    {
+      "index": 86,
+      "text": "It was not a good reason, but it was a reason.",
+      "start_ms": 220001,
+      "end_ms": 222639
+    },
+    {
+      "index": 87,
+      "text": "Now you know.",
+      "start_ms": 222639,
+      "end_ms": 223425
+    },
+    {
+      "index": 88,
+      "text": "That is fine.",
+      "start_ms": 223425,
+      "end_ms": 224211
+    },
+    {
+      "index": 89,
+      "text": "Now — I need you to help me with one more thing.",
+      "start_ms": 224211,
+      "end_ms": 226962
+    },
+    {
+      "index": 90,
+      "text": "The storm is going to be very loud.",
+      "start_ms": 226962,
+      "end_ms": 228983
+    },
+    {
+      "index": 91,
+      "text": "It is going to shake the cabin.",
+      "start_ms": 228983,
+      "end_ms": 230779
+    },
+    {
+      "index": 92,
+      "text": "It is going to sound like the walls are going to break.",
+      "start_ms": 230779,
+      "end_ms": 233923
+    },
+    {
+      "index": 93,
+      "text": "They are not going to break.",
+      "start_ms": 233923,
+      "end_ms": 235551
+    },
+    {
+      "index": 94,
+      "text": "But it will sound like it.",
+      "start_ms": 235551,
+      "end_ms": 237066
+    },
+    {
+      "index": 95,
+      "text": "I need you to know that.",
+      "start_ms": 237066,
+      "end_ms": 238470
+    },
+    {
+      "index": 96,
+      "text": "I need you to trust me when I tell you it is normal.\"",
+      "start_ms": 238470,
+      "end_ms": 241557
+    },
+    {
+      "index": 97,
+      "text": "\"Okay,\" said Aiko.",
+      "start_ms": 241557,
+      "end_ms": 242624
+    },
+    {
+      "index": 98,
+      "text": "Kai said, \"Also I have set up your bed for you here, next to the fire.",
+      "start_ms": 242624,
+      "end_ms": 246609
+    },
+    {
+      "index": 99,
+      "text": "I have set up my bed on the floor beside you.",
+      "start_ms": 246609,
+      "end_ms": 249192
+    },
+    {
+      "index": 100,
+      "text": "I am going to sleep on the floor next to you tonight.",
+      "start_ms": 249192,
+      "end_ms": 252223
+    },
+    {
+      "index": 101,
+      "text": "So you do not have to be alone.",
+      "start_ms": 252223,
+      "end_ms": 254019
+    },
+    {
+      "index": 102,
+      "text": "Is that okay?\" \"Yes,\" said Aiko.",
+      "start_ms": 254019,
+      "end_ms": 255872
+    },
+    {
+      "index": 103,
+      "text": "\"That is okay.\" Kai nodded.",
+      "start_ms": 255872,
+      "end_ms": 257444
+    },
+    {
+      "index": 104,
+      "text": "He lit the kerosene lantern.",
+      "start_ms": 257444,
+      "end_ms": 259072
+    },
+    {
+      "index": 105,
+      "text": "He set it in the middle of the table.",
+      "start_ms": 259072,
+      "end_ms": 261205
+    },
+    {
+      "index": 106,
+      "text": "He said, \"The storm will be here in maybe twenty minutes.",
+      "start_ms": 261205,
+      "end_ms": 264461
+    },
+    {
+      "index": 107,
+      "text": "Let us have supper first.\"",
+      "start_ms": 264461,
+      "end_ms": 266032
+    },
+    {
+      "index": 108,
+      "text": "Kai cooked supper.",
+      "start_ms": 266032,
+      "end_ms": 267099
+    },
+    {
+      "index": 109,
+      "text": "Simple food — pasta with butter and cheese.",
+      "start_ms": 267099,
+      "end_ms": 269569
+    },
+    {
+      "index": 110,
+      "text": "He did it well.",
+      "start_ms": 269569,
+      "end_ms": 270467
+    },
+    {
+      "index": 111,
+      "text": "He did not burn it.",
+      "start_ms": 270467,
+      "end_ms": 271590
+    },
+    {
+      "index": 112,
+      "text": "He did not spill anything.",
+      "start_ms": 271590,
+      "end_ms": 273106
+    },
+    {
+      "index": 113,
+      "text": "Aiko watched him.",
+      "start_ms": 273106,
+      "end_ms": 274116
+    },
+    {
+      "index": 114,
+      "text": "She was aware, all the time, that this was a Kai she had not known existed.",
+      "start_ms": 274116,
+      "end_ms": 278382
+    },
+    {
+      "index": 115,
+      "text": "He served her.",
+      "start_ms": 278382,
+      "end_ms": 279224
+    },
+    {
+      "index": 116,
+      "text": "He sat down.",
+      "start_ms": 279224,
+      "end_ms": 279954
+    },
+    {
+      "index": 117,
+      "text": "They ate.",
+      "start_ms": 279954,
+      "end_ms": 280516
+    },
+    {
+      "index": 118,
+      "text": "The wind outside was starting to get louder — a low howl that was slowly rising.",
+      "start_ms": 280516,
+      "end_ms": 285063
+    },
+    {
+      "index": 119,
+      "text": "Aiko could hear the trees moving.",
+      "start_ms": 285063,
+      "end_ms": 286971
+    },
+    {
+      "index": 120,
+      "text": "She could hear the small tin roof of the woodshed making small sounds it did not usually make.",
+      "start_ms": 286971,
+      "end_ms": 292248
+    },
+    {
+      "index": 121,
+      "text": "\"Aiko,\" Kai said, halfway through supper.",
+      "start_ms": 292248,
+      "end_ms": 294880
+    },
+    {
+      "index": 122,
+      "text": "\"There is one more thing I have to tell you.",
+      "start_ms": 294880,
+      "end_ms": 297701
+    },
+    {
+      "index": 123,
+      "text": "Dad's chest thing.",
+      "start_ms": 297701,
+      "end_ms": 298892
+    },
+    {
+      "index": 124,
+      "text": "Do you know what it is.\" Aiko shook her head.",
+      "start_ms": 298892,
+      "end_ms": 301775
+    },
+    {
+      "index": 125,
+      "text": "\"He has a heart problem.",
+      "start_ms": 301775,
+      "end_ms": 303342
+    },
+    {
+      "index": 126,
+      "text": "Something wrong with a valve.",
+      "start_ms": 303342,
+      "end_ms": 305222
+    },
+    {
+      "index": 127,
+      "text": "That is why he had to go to the mainland today.",
+      "start_ms": 305222,
+      "end_ms": 308231
+    },
+    {
+      "index": 128,
+      "text": "To see a specialist.",
+      "start_ms": 308231,
+      "end_ms": 309547
+    },
+    {
+      "index": 129,
+      "text": "If it is bad — if it is what they think it might be — he might need surgery.",
+      "start_ms": 309547,
+      "end_ms": 314373
+    },
+    {
+      "index": 130,
+      "text": "He might have to go to the mainland for weeks.",
+      "start_ms": 314373,
+      "end_ms": 317319
+    },
+    {
+      "index": 131,
+      "text": "Mom did not want to tell you until we knew.",
+      "start_ms": 317319,
+      "end_ms": 320077
+    },
+    {
+      "index": 132,
+      "text": "But — I want you to know now.",
+      "start_ms": 320077,
+      "end_ms": 321957
+    },
+    {
+      "index": 133,
+      "text": "In case it comes up.",
+      "start_ms": 321957,
+      "end_ms": 323273
+    },
+    {
+      "index": 134,
+      "text": "In case you overhear something.",
+      "start_ms": 323273,
+      "end_ms": 325279
+    },
+    {
+      "index": 135,
+      "text": "So you know.\" Aiko put down her fork.",
+      "start_ms": 325279,
+      "end_ms": 327661
+    },
+    {
+      "index": 136,
+      "text": "She had thought her father was okay.",
+      "start_ms": 327661,
+      "end_ms": 329980
+    },
+    {
+      "index": 137,
+      "text": "He had seemed the same.",
+      "start_ms": 329980,
+      "end_ms": 331484
+    },
+    {
+      "index": 138,
+      "text": "But she had noticed her mother being quiet.",
+      "start_ms": 331484,
+      "end_ms": 334242
+    },
+    {
+      "index": 139,
+      "text": "Now she understood.",
+      "start_ms": 334242,
+      "end_ms": 335495
+    },
+    {
+      "index": 140,
+      "text": "She said, \"Is he going to be okay.\" Kai said, \"I think so.",
+      "start_ms": 335495,
+      "end_ms": 339193
+    },
+    {
+      "index": 141,
+      "text": "I think it is fixable.",
+      "start_ms": 339193,
+      "end_ms": 340635
+    },
+    {
+      "index": 142,
+      "text": "The doctors think so too.",
+      "start_ms": 340635,
+      "end_ms": 342264
+    },
+    {
+      "index": 143,
+      "text": "But we have to wait and see.",
+      "start_ms": 342264,
+      "end_ms": 344082
+    },
+    {
+      "index": 144,
+      "text": "Okay?\" Aiko nodded.",
+      "start_ms": 344082,
+      "end_ms": 345336
+    },
+    {
+      "index": 145,
+      "text": "She started to cry a little.",
+      "start_ms": 345336,
+      "end_ms": 347153
+    },
+    {
+      "index": 146,
+      "text": "Not a lot.",
+      "start_ms": 347153,
+      "end_ms": 347843
+    },
+    {
+      "index": 147,
+      "text": "Just a little.",
+      "start_ms": 347843,
+      "end_ms": 348783
+    },
+    {
+      "index": 148,
+      "text": "Kai did not try to stop her.",
+      "start_ms": 348783,
+      "end_ms": 350600
+    },
+    {
+      "index": 149,
+      "text": "He reached across the table and put his hand on her hand and left it there while she cried.",
+      "start_ms": 350600,
+      "end_ms": 356304
+    }
+  ]
+}

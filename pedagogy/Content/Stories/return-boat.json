@@ -1,0 +1,166 @@
+{
+  "id": "return-boat",
+  "title": "The Return Boat",
+  "subtitle": "Down the Douro",
+  "author": null,
+  "summary": "Yara is eleven and lives with her mother in a small town on the Douro river in northern Portugal. An old family boat — a rabelo, the flat wooden boat that used to carry port wine down the river — has been sitting on their pier for years, unused. A boatman named Senhor Fonseca has been hired to sail it downriver to a museum in Porto. He needs a second pair of hands. Yara volunteers. Three days on the river with a man who barely speaks.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-return-boat-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Yara) with dark curly hair, wearing a light cotton shirt and shorts, standing at the low wooden bow of a traditional Portuguese rabelo — a long flat wooden river boat with a single square sail on a wooden mast. Behind her at the long steering oar: a middle-aged man (Senhor Fonseca, mid-forties, weathered, in a dark cotton shirt) with a serious quiet face. The boat is on the wide green-blue Douro river, terraced hillsides of vineyards rising on both sides. Warm afternoon light. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), sepia wood tones, deep ink outlines, green-blue river, small dusty rose (#FF5B8D) accent on her cheeks, warm ochre on the vineyard slopes. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2027-03-18",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Old Rabelo",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rb-ch1-p1-house",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small stone house on a hillside above the Douro river in northern Portugal. Terraced vineyards rising steeply on the hillsides. A small wooden pier extends into the green-blue river. Tied to the pier: an old wooden rabelo boat, long and flat, its single mast bare. A girl (Yara, 11) walks down the path from the house toward the boat. Warm afternoon light. Heavy black ink outlines, flat shadows, cream palette with muted greens.",
+          "paragraphs": [
+            "Yara lived with her mother in a small stone house that had been in her family for six generations, on a hillside above the Douro river in the north of Portugal. The hillside was covered in the terraced vineyards that were used to grow port wine grapes. Her family had grown grapes there for two hundred years. Yara's mother worked at the winery on the next hill over now. Her father had died when Yara was six, in a fall from a scaffold at work. Yara and her mother had lived alone since then. Their house was old and warm and full of the smell of dry grape leaves.",
+            "At the bottom of their property was a small wooden pier that stuck into the river. And tied to the pier was a boat. A very old one. A rabelo — one of the traditional flat wooden boats that had been used, for centuries, to carry barrels of port wine down the Douro from the high country to the warehouses in Porto. Since the roads and the trains had come, in the twentieth century, the boats had stopped being used. Most of them had been broken up or had rotted. A few were kept as museum pieces. Yara's family boat was one of the last that had never been sold. It had belonged to her great-great-grandfather. It had been sitting on their pier for maybe eighty years."
+          ]
+        },
+        {
+          "image": "rb-ch1-p2-mother",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the small kitchen. Yara's mother (early forties, dark hair, in a work apron) sits at the wooden table with an official-looking letter in her hand. Yara (11) sits across from her. Warm evening light through a small window. Heavy ink outlines, flat shadows, cream palette with warm tones.",
+          "paragraphs": [
+            "It was Yara's mother who told her about the museum. It was a warm evening in May. Yara's mother had brought a letter home from work. She sat at the kitchen table and read it to Yara. \"They want the boat. The port wine museum in Porto. They are collecting the last of the old rabelos. They will restore ours and put it on display. They will hire a boatman to sail it down. They will pay us a small amount. But the boat will not come back. It will live in the museum forever.\"",
+            "Yara said, \"But — Mãe. That is our boat. Great-Great-Grandpa's boat.\" Yara's mother said, \"I know, coração. I know. But — we have not used it in eighty years. Nobody in the family has known how to sail one for four generations. I do not know how. Your grandmother did not know how. If we do not send it to the museum, it will just sit there and eventually rot away. This way it will be preserved. And it will be seen. Thousands of people every year will see our boat. That is better than nobody seeing it. Isn't it?\" Yara thought. She thought about it for a long moment. She said, \"Yes. It is better. I just — I want to say goodbye to it properly.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"That is why I brought this letter,\" said her mother. \"They will send a boatman here in two weeks to sail it down to Porto. It takes three days. He works alone, but he says he needs a second pair of hands on a boat that has not been sailed in eighty years. In case something goes wrong. He asked if there was someone in the family who could go with him.\" She looked at Yara. \"I have to work. So I cannot. But — I asked if you could go. If you wanted to. He said yes, if you were sensible. And I said you were the most sensible eleven-year-old in Portugal.\" Yara sat up. She said, \"I can go?\" \"Yes,\" said her mother. \"Three days. On our boat. Sailing it to its new home. If you want to.\" Yara said, \"Yes. Yes yes yes.\""
+          ]
+        },
+        {
+          "image": "rb-ch1-p3-boatman",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the small pier. A middle-aged man (Senhor Fonseca, mid-forties, thin, weathered, dark hair, in a dark cotton shirt) stands looking at the old rabelo boat with critical attention. Yara (11) stands nearby watching him with interest. Warm morning light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "The boatman arrived two weeks later. His name was Senhor Fonseca. He was maybe forty-five. He was thin and had dark hair and a face that had been in the sun for years. He shook Yara's mother's hand and then Yara's hand. His hand was very hard and very rough. He did not smile. He did not say much. He walked down to the pier without waiting for anyone. He climbed onto the boat. He walked its whole length very slowly. He looked at every board. He climbed under the mast. He checked the sail — which was folded up on the deck — piece by piece. He was there for maybe two hours. Yara sat on the pier and watched. She did not want to interrupt him. He seemed to be — communicating with the boat, in some way.",
+            "Finally he came off. He nodded to Yara's mother. He said, \"The boat is good. The wood is sound. The sail needs some repair — I will fix it tomorrow. We can leave the day after tomorrow, in the morning. Wednesday. Do you have the girl ready.\" Yara's mother said, \"She will be ready.\" Senhor Fonseca looked at Yara. He said, \"How old.\" \"Eleven,\" said Yara. \"Have you been on a boat before.\" \"On small boats. On the river. Not for a long trip.\" \"Can you follow instructions.\" \"Yes.\" \"Can you be quiet.\" Yara paused. She said, \"Yes.\" Senhor Fonseca nodded. He said, \"Good. See you Wednesday morning at six.\""
+          ]
+        },
+        {
+          "image": "rb-ch1-p5-morning",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at dawn on the pier. Yara (11, small canvas backpack, cotton shirt, shorts) stands with her mother, both looking at the rabelo, which is now rigged with its single square sail hoisted. Senhor Fonseca (mid-forties) is on board checking a rope. Grey-pink early morning light. Heavy ink outlines, flat shadows, cream palette with warm early light.",
+          "paragraphs": [
+            "Wednesday morning at six, Yara was on the pier with a small canvas bag. Her mother had packed her clothes for three days, and some snacks, and a small first-aid kit. She had a big envelope from the museum with a letter of authorization in it, and money for hotels for two nights. Senhor Fonseca had rigged the boat. The single square sail was up on the wooden mast. It was smaller than Yara had expected — she had thought it would be big and impressive, but it was actually a modest square of heavy canvas, maybe three meters on each side. Senhor Fonseca said, \"The current does most of the work. The sail is for steering, not for speed. Come aboard.\"",
+            "Yara hugged her mother. Her mother whispered, \"Be brave. Be careful. Do exactly what he says. I will meet you at the museum in three days.\" Yara nodded. She got on the boat. Senhor Fonseca untied it from the pier. He took his position at the long wooden steering oar at the back. The current caught the boat almost immediately. They began to drift downstream. Yara stood at the front. She waved to her mother. Her mother waved back. Then the bend of the river came, and the pier was out of sight, and Yara turned around, and she was on the boat, on the river, going somewhere. Alone with a man who barely spoke."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Three Days",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rb-ch2-p1-river",
+          "imagePrompt": "Mike Mignola style for children: exterior wide view of the Douro river winding through steep terraced hillsides of vineyards. The rabelo is a small boat in the middle of the river with its sail up. Yara at the front, Fonseca at the steering oar. Warm morning light. Heavy ink outlines, flat shadows, cream palette with muted greens.",
+          "paragraphs": [
+            "The Douro river was one of the most beautiful things in Portugal. Yara had grown up looking at it from her hillside. She had walked along its banks. She had swum in it. But she had never seen it from a boat, moving down it, from a distance. It was different. The hills were bigger than she had realized. The vineyards were more countless than she had realized. The bends of the river were slower. From the boat, she could see how the whole valley was shaped — how the river had carved it over millions of years. The hills terraced with vineyards were on both sides. Sometimes a small stone village would appear on a distant slope. Sometimes she saw a train going along the far bank on the little railway that followed the river.",
+            "Senhor Fonseca said almost nothing for the first three hours. He worked. He adjusted the sail. He watched the wind. He watched the current. He steered around specific rocks that he seemed to know about. Yara sat at the front of the boat and just looked. She did not ask him questions. She had promised she would be quiet. She was keeping her promise."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Around eleven o'clock they came to the first of the big dams. There were five dams along the Douro — huge concrete walls with locks, put in during the twentieth century. Boats had to go through the locks. Yara had never been through a lock before. Senhor Fonseca radioed ahead. They approached the lock. The huge steel gates opened. They sailed the little boat into a big concrete chamber. The gates closed behind them. The water level began to drop — the Douro was actually five long lakes, and each lock lowered you from one lake down to the next.",
+            "Yara had to hold on. It felt strange to be in a small boat inside a huge concrete box. When the water was fully down, the gates in front opened, and they sailed out into the next section of river, twenty meters lower than where they had been. Yara laughed a little. It was funny. Senhor Fonseca smiled just a little for the first time. He said, \"Yes. First lock is always strange. You get used to it.\""
+          ]
+        },
+        {
+          "image": "rb-ch2-p3-first-stop",
+          "imagePrompt": "Mike Mignola style for children: exterior evening scene at a small stone village on the river bank. The rabelo is tied to a small pier. Senhor Fonseca (mid-forties) sits at a small outdoor café table with a bowl of stew. Yara (11) sits across from him also eating. Warm evening light. Heavy ink outlines, flat shadows, cream palette with warm tones.",
+          "paragraphs": [
+            "That first night they stopped at a small village called Pinhão. Senhor Fonseca tied the boat up at the town pier. He walked with Yara to a small pension where they had two rooms booked. He walked her to her door. He said, \"Your room. Lock it. I am the next room. If anything happens, knock hard on the wall. We eat supper in an hour, at that café down there. Rest.\" And he went to his room. Yara went into hers. She lay on the bed. She was tired. She had not realized she was tired. She almost fell asleep.",
+            "At supper she and Senhor Fonseca sat at a small outdoor table by the river. They ate a hot stew called cozido and drank water. Senhor Fonseca did not talk for most of the meal. Yara had been on the boat all day and she had been quiet all day and she wanted to talk now. She asked, \"Senhor Fonseca. How many boats like this have you sailed.\" He said, \"Eleven. This one is the twelfth. There are not many left.\" \"Do you always sail them alone.\" \"Yes. Except this time.\" He looked at her. \"You are doing well. I want you to know. You have been quiet all day and you have watched. That is what I need.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Senhor Fonseca,\" Yara said. \"May I ask you something else.\" He nodded. \"Why do you do this. You could have any job. But you sail old boats to museums. Alone. Why.\" Senhor Fonseca ate for a moment. He said, \"My grandfather sailed rabelos when they still worked. From the 1930s until the 1960s. When the trucks and the trains took over, he was one of the last. He was — bitter. He thought the world had lost something when the old boats stopped. He tried to teach me to sail one when I was your age, but there was no work in it, and I did not really care. Then when he died, I was nineteen. I found a lot of his notebooks. He had written down everything about sailing rabelos — the currents, the winds at each bend, the safe places to tie up. He had written it because he was afraid the knowledge would die with him. I read the notebooks. I decided he was right. Somebody should still know. And I have been doing this for twenty-five years now. Not for money. Small money. But someone still knows how to sail these boats, because my grandfather made me care.\"",
+            "Yara sat with this for a moment. She said, \"Are you the only one.\" Senhor Fonseca said, \"There are two other men in Portugal who can do it. Both are older than me. When I die, I hope one of them will still be alive, or I hope I will have taught someone. I have not found anyone yet. But — I keep looking.\""
+          ]
+        },
+        {
+          "image": "rb-ch2-p5-second-day",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on the boat on the second day. Yara (11) now stands at the mast holding a rope, following Fonseca's instructions. Fonseca is at the steering oar. Yara looks focused, taking her small task seriously. Warm midday light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "On the second day Senhor Fonseca started teaching her small things. She was allowed to hold a rope that adjusted the angle of the sail. He showed her how to look at the surface of the water to see which way the wind was moving. He showed her the specific spots along the river where the current would try to push the boat toward the rocks, and how to steer against it. He talked more that day than he had the day before. Not much more. But more.",
+            "\"Your family used to do this,\" he said, at one point. \"Your great-great-grandfather. He sailed this boat down this exact river, hundreds of times, in the 1880s and 1890s. He would have known this river the way I know it now. It is a strange thing that you and I are the ones bringing his boat down for the last time. It should have been him. His grandson. Someone in your family. But everything gets forgotten. So it is us.\" Yara thought about this. She thought — but I am from his family. I am doing it. That is not exactly forgetting. That is exactly the opposite. But she did not say this out loud."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Porto",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rb-ch3-p1-third-day",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at dawn on the third day. The Douro river now much wider, more populated shores. The rabelo has its sail up. Fonseca at the oar. Yara at the mast, focused and confident. Warm morning light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "The third day was the longest. They started before dawn. They had to make it into Porto before nightfall. Senhor Fonseca said the river got busier as you approached the city — big tour boats, motor barges — and it was harder to sail an old boat in traffic. Yara worked her rope. She watched the wind. She was tired. Her hands were sore. But she was — she noticed — she was actually helping. She was actually part of the sailing. Senhor Fonseca gave small instructions and she did them without needing to be told twice. It felt good.",
+            "At about eleven that morning, Senhor Fonseca called her over to the stern. He said, \"Yara. I want you to try the oar.\" She looked at him. She said, \"Really?\" He said, \"Really. For maybe five minutes. It is not hard here — the river is straight, the current is steady. I will stand next to you. But I want you to feel it. So you know what it is. So that when you are older, you can say — I steered a rabelo down the Douro. Come.\""
+          ]
+        },
+        {
+          "image": "rb-ch3-p2-steering",
+          "imagePrompt": "Mike Mignola style for children: exterior close view. Yara (11) stands with both hands on the long wooden steering oar at the back of the boat. Senhor Fonseca stands beside her, one hand hovering near hers but not touching, ready to help. Yara's face is intensely focused. Warm midday light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "So Yara stood at the back of the boat. She put both her hands on the long wooden oar. Senhor Fonseca stood beside her but did not touch the oar. He said, \"Feel the current on it. Do you feel the pull.\" \"Yes.\" \"Now — the boat wants to drift a little to the right. See where the bow is going. Push the oar left. Just a little. Just a small motion.\" Yara pushed. The boat responded. It began to correct. \"Good,\" said Senhor Fonseca. \"Now hold it there. Do not overcorrect. Small movements. Small.\" Yara held. The boat sailed straight.",
+            "She steered for maybe ten minutes. It was harder than it looked. The oar was heavy. The current was strong. You had to hold your body against it. But she did it. She kept the boat straight. Senhor Fonseca watched her the whole time. When he took the oar back, he said, quietly, \"You did well, Yara. A person who has never steered a boat before does not usually keep a boat that straight. You listened. That is what steering is. Listening.\""
+          ]
+        },
+        {
+          "image": "rb-ch3-p3-porto",
+          "imagePrompt": "Mike Mignola style for children: exterior late-afternoon view of the boat approaching Porto. The famous double-decker Dom Luís I bridge visible in the distance. The wine warehouses of Vila Nova de Gaia on the left bank. Colorful old buildings of Porto rising steeply on the right bank. The rabelo is a small boat among modern boats. Fonseca at the oar. Yara at the front looking ahead. Warm late-afternoon light. Heavy ink outlines, flat shadows, cream palette with warm rust and blues.",
+          "paragraphs": [
+            "In the late afternoon they came around a wide bend and there it was — Porto. The city rose steeply on the right bank, all colored buildings and red roofs. On the left, the old port wine warehouses of Vila Nova de Gaia. The huge double-decker Dom Luís I bridge stretched across the river. There were dozens of boats now — tour boats, small motor launches, a few larger cruise boats. Yara had never seen so many boats. Senhor Fonseca sailed the rabelo carefully, staying close to the left bank, out of the way of the bigger traffic.",
+            "The port wine museum had a small dock on the Vila Nova de Gaia side. As they approached, Yara could see her mother standing at the dock, waving. Yara waved back. Senhor Fonseca steered them slowly in. He tied the boat up. A group of museum people came to help — a woman with a clipboard, two workers who would take the boat away for restoration. They gave Senhor Fonseca some paperwork to sign. He signed it. Then he stepped off the boat. He turned back to Yara. He said, \"Time to say goodbye. Take a minute.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Yara stepped back onto the boat. She walked its whole length slowly. She touched the wooden mast. She touched the ropes. She stood at the front. Then she went to the back and she stood at the steering oar for a moment with one hand on it. She thought about her great-great-grandfather, whom she had never met and had never seen a picture of, who had stood in this exact spot with his hand on this same oar a hundred and thirty years ago. She thought about all the trips his boat had made. All the barrels of port it had carried. All the years it had sat on their pier, quiet, waiting.",
+            "She said, quietly, to the boat, \"Goodbye. Thank you. My great-great-grandfather sailed you. My mother's mother's mother's father. And now I have sailed you, on your very last trip. I am glad you get to be in a museum. I am glad you get to be seen. I promise I will come and visit you. I promise.\" Then she got off the boat."
+          ]
+        },
+        {
+          "image": "rb-ch3-p5-goodbye",
+          "imagePrompt": "Mike Mignola style for children: exterior evening scene on the dock. Senhor Fonseca (mid-forties) shakes Yara's hand formally. Yara's mother stands beside her. The old rabelo is behind them, tied to the dock, the museum workers approaching it. Warm evening light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Senhor Fonseca shook her hand — his real hand-shake, the adult kind. He said, \"Yara. You are one of the sensible eleven-year-olds in Portugal. I want you to remember something. If in ten years or twelve years you decide you want to learn to sail one of these boats properly — write to me. I am not too hard to find. There are only three of us. If you decide you want to learn — I will teach you. It would be — it would be a good thing for me. For me and for you both.\" He nodded. He turned. He walked away.",
+            "Yara stood on the dock with her mother. Her mother said, \"That is a very unusual offer, Yara.\" Yara said, \"I know.\" Yara's mother said, \"Are you going to write to him.\" Yara thought about it. She thought about the three days. About the current. About steering. About the small quiet man who had sailed eleven of these boats, and now twelve, and who was afraid the knowledge would die with him. She said, \"Yes. When I am older. I am going to write to him. I want to learn.\" Her mother put her arm around her. They stood on the dock for a while, watching. In the distance, the museum workers were beginning to move the boat toward its new home. The sun was setting over Porto. The river was going gold."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "portugal",
+    "river",
+    "craft",
+    "boat"
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "thousand-steps",
+  "title": "The Thousand Steps",
+  "subtitle": "Five Days in the Sacred Valley",
+  "author": null,
+  "summary": "Diego is eleven and lives in Lima. Every July he flies up to Cusco to spend three weeks with his grandfather Manuel, a retired architect who has lived in the same house on the edge of the old city for forty years. This July, Manuel takes Diego on a five-day trip through the Sacred Valley of the Incas — but not to Machu Picchu. Manuel wants to show his grandson two much quieter places most tourists never see: the concentric agricultural terraces of Moray, and the ancient salt pans of Maras. He wants Diego to understand that the Incas thought through landscapes, not on top of them. And on the last day, he brings something with him that Diego does not yet know is meant to be handed over.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-thousand-steps-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old Peruvian boy (Diego) with black hair and a curious serious face, wearing a red woven wool poncho over a plain grey shirt and jeans, seated cross-legged at the top edge of an enormous concentric circular terrace system — the ancient Inca agricultural site of Moray — that descends into the earth like a stone amphitheater in perfect green rings. Beside him sits his grandfather (Manuel, seventy-two, silver hair, weathered kind face, dark jacket, a small worn leather-bound sketchbook open on his knees, a pencil in his hand). Manuel is drawing. Diego watches. Beyond and below them, the terraces recede in perfect circles down into the earth; beyond that, the pale golden Andean altiplano stretches to distant blue mountains. Character positioned center-left, filling roughly 45% of frame height. Palette: warm cream (#FFF9F0), sepia earth and stone, deep ink outlines, small dusty rose (#FF5B8D) accent on Diego's poncho. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2027-07-15",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Book on the Table",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ts-ch1-p1-cusco",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small stone-and-adobe house on the steep edge of Cusco, with a view down over the terracotta rooftops of the old city and the surrounding Andean hills. Late afternoon golden light. Diego (11, black hair, red woven poncho, small backpack) walks up a stepped stone alley toward the house. Heavy black ink outlines, flat shadows, warm cream and sepia palette.",
+          "paragraphs": [
+            "Diego was eleven and lived in Lima, in a small apartment near the sea, in a neighborhood where the air was thick and grey most of the year. His mother was a lawyer. His father was a journalist. And every July, in the middle of the school holidays, Diego flew from Lima to Cusco — a one-hour flight up over the Andes — to spend three weeks with his father's father. His grandfather, whom Diego called Abuelo Manuel, lived in a small stone-and-adobe house on the steep edge of the old city, with a view down over the terracotta rooftops and the surrounding hills. Manuel was seventy-two. He had been a working architect for fifty years — he had designed schools and clinics and libraries in small towns all across the Peruvian sierra — and had retired six years ago. He now spent his days reading, walking, and, most consistently, sitting at a small table by the window with a leather-bound sketchbook open in front of him.",
+            "The sketchbook was the first thing Diego noticed on arriving each July. It was always on the table. It was small and dark and softened with age. It had a plain cover with no writing on it. Diego had asked once, when he was eight, if he could look at it. Manuel had said, in his very quiet way, \"When you are older, Diego. That book is my whole thinking life. It is not for children. Come. Let us eat.\" Diego had never asked again. But he had watched Manuel work in it many times — the way Manuel would sit still for a long moment, look at something, close his eyes, then open them and begin to draw with a fine pencil, in silence, for perhaps ten minutes. Then he would close the book. He never showed anyone the pages."
+          ]
+        },
+        {
+          "image": "ts-ch1-p2-plan",
+          "imagePrompt": "Mike Mignola style for children: interior view of the small warm kitchen. Manuel (seventy-two, silver hair, dark jacket) and Diego (11) sit at the wooden table over cups of coca tea. Between them lies a folded paper map of the Sacred Valley, with several small circles Manuel has drawn on it. Manuel is pointing at two of them. Warm evening lamp light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "On the first evening of his visit this year, over coca tea in the small warm kitchen, Manuel unfolded a paper map on the table. It showed the Sacred Valley of the Incas — the wide green river valley that ran northwest from Cusco toward Machu Picchu. Manuel had drawn small circles on it. Diego leaned over to see. There were maybe six circles, in different parts of the valley. Manuel tapped two of them. He said, \"This year, mi hijo, we are going on a small journey. Five days. Just us. We are not going to Machu Picchu — everyone goes to Machu Picchu, and it is a very beautiful thing, but this year I want to show you two other places. Places most people never see. Places that, in some ways, mean more.\" He tapped one circle. \"Moray. Circular agricultural terraces cut into the earth. About an hour from here.\" He tapped the other. \"Salineras de Maras. Salt pans on a hillside, three thousand of them, still worked by the local families the way they were worked five hundred years ago.\" He sat back. \"We take our time. Two days at Moray. Two days at Maras. One day walking home.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Diego asked, \"Why not Machu Picchu, Abuelo?\" Manuel thought for a moment. He said, \"Because Machu Picchu is an answer. It is beautiful and finished and full of tourists and it looks the way a postcard looks. The places I want to show you are questions. They do not look like postcards. They do not look, at first, like anything special. You have to sit with them. If you sit with them, they teach you how the Incas thought about the world. Which is more important than what they built. Anyone can build. Very few civilizations knew how to think through a landscape. The Incas did. Machu Picchu, in some ways, was the easy part. Moray and Maras — those show the work of a thousand years of watching.\"",
+            "Diego did not entirely understand this. But he understood that his grandfather meant it seriously. He also noticed that Manuel had packed his sketchbook into the small canvas bag by the door for the trip. Diego had never known the sketchbook to leave the house before. Diego did not comment on this. But he saw it. And he wondered, a little, what it meant."
+          ]
+        },
+        {
+          "image": "ts-ch1-p4-drive",
+          "imagePrompt": "Mike Mignola style for children: exterior view along a narrow paved road winding down through terraced green Andean hills toward the flat Sacred Valley below. The Urubamba river visible as a thin ribbon at the valley floor. Manuel's small dark blue car drives away from the camera, small in the enormous landscape. Distant snow-capped peaks. Bright morning light. Heavy ink outlines, flat shadows, warm sepia and pale green palette.",
+          "paragraphs": [
+            "They drove out the next morning. Manuel had an old dark blue car that he treated carefully — he had had it seventeen years. He drove them down the winding road from Cusco to the Sacred Valley, through small villages of stone houses and terraced fields, past women in bright pink and red pollera skirts walking with sheep and small children, past fields of purple potato flowers and green quinoa. Diego pressed his face to the window. He had made this drive many times, but never quite paying attention. This year, he was paying attention. Manuel had asked him to.",
+            "About an hour out of Cusco, Manuel turned off the main road and began climbing a smaller dirt road up onto the wide flat altiplano above the river valley. The land here was different — high, wide, wind-swept, pale gold. Occasional adobe farmhouses. Occasional standing stones. The road wound between them. Diego did not know where they were going. There were no signs. Manuel drove without speaking. Then, at a certain point, he stopped the car at the edge of the road, turned off the engine, and said, \"Come. From here we walk.\""
+          ]
+        },
+        {
+          "image": "ts-ch1-p5-first-view",
+          "imagePrompt": "Mike Mignola style for children: exterior wide view. Diego (11) and Manuel (seventy-two) have walked to the edge of a rise. Below them, cut into the earth like an amphitheater, are the concentric circular terraces of Moray — three great bowls of perfectly stepped rings descending into the ground, each ring a slightly different shade of green. Diego stands at the edge with one hand on his head, awestruck. Manuel stands beside him, hands in his jacket pockets, watching Diego's face. Bright altiplano sun. Heavy ink outlines, flat shadows, warm sepia and green palette.",
+          "paragraphs": [
+            "They walked perhaps two hundred meters across the flat altiplano. And then, without warning, the ground fell away in front of them. Diego stopped. He put one hand on his head. He said, out loud, \"What —\"",
+            "Below them, cut down into the earth, were three enormous circular bowls — perfect stepped rings descending into the ground like the inside of an amphitheater. Each ring was a narrow terrace of dark rich earth. The bowls were maybe a hundred meters across and forty meters deep. They had been dug and shaped by human hands about six hundred years ago. Diego had never seen anything like them. From above, they did not look like agriculture. They looked like some enormous instrument — a listening device pointed at the earth. He could not stop staring."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Circles and the Salt",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ts-ch2-p1-moray-explanation",
+          "imagePrompt": "Mike Mignola style for children: mid-shot at the rim of the Moray terraces. Manuel (seventy-two) sits on a small flat stone with his sketchbook open on his knees, a fine pencil in one hand, but he is not yet drawing — he is talking, one hand raised, gesturing down at the great circular terraces below. Diego (11) sits beside him, cross-legged, listening intently. Bright afternoon sun. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They spent the whole afternoon at the rim of the biggest bowl. Manuel had brought a folded picnic blanket and a small lunch of bread and cheese and hard-boiled eggs and oranges. They ate slowly. Manuel opened his sketchbook to a fresh page. But he did not draw yet. He talked.",
+            "\"What you are looking at, mi hijo,\" he said, \"is a laboratory. It is a six-hundred-year-old agricultural laboratory built by the Incas. Every terrace in that bowl is a different temperature. The bottom of the bowl is about fifteen degrees warmer than the top edge. That is more temperature difference than between here and the coast. The Incas built the bowl so that they could grow the same crop at many different temperatures and see how each variety did. They tested varieties of maize, of potato, of quinoa, of tomato, of coca, of a hundred other plants. They kept the ones that grew well at each level. Over generations, they bred varieties for the exact micro-climate of every valley in their empire. This bowl was not for feeding people. Not directly. It was for figuring out what to plant everywhere else.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Diego looked at the bowl differently, then. What had looked like an instrument became something more like a book — page after page of careful experiment, each ring a separate line of thinking. He said, \"How did they know?\" Manuel said, \"They watched. For a very long time. Hundreds of years, before this bowl was built, they were noticing how plants grew in different places. This bowl was a way of putting all that watching into one place. Instead of walking a whole day to see how maize grew at a slightly different altitude, they could walk down five steps.\"",
+            "Manuel picked up his pencil then, and began to draw — not the whole bowl, but one specific curve of one specific terrace, where a small stone drainage channel came out of the wall. He drew with quick sure lines. Diego watched. Manuel's hand did not seem to think about what it was doing. It just did it. After maybe ten minutes he stopped, looked at what he had drawn, added one small dot with the pencil, and then wrote in the margin, in his small careful handwriting: Moray, July, still the same drainage as fifty years ago. Small consolations.",
+            "Diego asked, \"Have you been here before?\" Manuel smiled. \"Twenty-eight times, in my life. First when I was twenty-one and a young architecture student. This sketchbook has drawings of Moray from every decade of my life. I always come back. It teaches me something new every time. Or I am ready to see something new. Either way.\""
+          ]
+        },
+        {
+          "image": "ts-ch2-p3-maras",
+          "imagePrompt": "Mike Mignola style for children: exterior wide view of the Salineras de Maras — thousands of small shallow rectangular salt pools cascading down a steep pale hillside like a mosaic of gold and white tiles catching the sun. A few figures of local farmers in traditional dress tending the pools. Diego (11) and Manuel (seventy-two) stand at the top of the path, looking down. Late morning bright sun. Heavy ink outlines, flat shadows, warm cream and pale gold palette.",
+          "paragraphs": [
+            "The next morning they drove to Maras. The salt pans were less than half an hour from Moray, cascading down a steep white and gold hillside above a small stream. There were, Manuel said, about six thousand small rectangular salt pools built into the hillside — each maybe three meters across, each shallow and terraced above and below its neighbors. The whole hillside looked, from above, like an enormous mosaic of pale gold and white tiles.",
+            "Manuel led Diego down the narrow paths that ran between the pools. In several of them, women in bright pollera skirts were working — raking crystallized salt out of the drying pools into small baskets. Manuel greeted a few by name. They knew him. He had been coming, he told Diego, since long before Diego was born."
+          ]
+        },
+        {
+          "image": "ts-ch2-p4-maras-explanation",
+          "imagePrompt": "Mike Mignola style for children: mid-shot. Diego (11) and Manuel (seventy-two) crouch beside one of the small salt pools. Manuel is cupping his hand in the shallow water, showing Diego something. Diego is peering closely. Sunlight glinting on the salt crystals. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They sat on a low stone wall above the pools with their lunch. Manuel opened his sketchbook. But before he drew, he said, \"This place, Diego, is even more interesting than Moray, in a way. The Incas did not build the salt spring. The spring was here already — a natural underground source of very salty warm water, coming out of the mountain. What the Incas did was design the whole system that turns that water into salt. Every pool feeds the pool below it. The water flows by gravity from the spring at the top, along channels the Incas cut, and enters each pool at exactly the right rate. When a pool has enough water, its owner closes a small stone gate at the entrance. The sun and wind evaporate the water, over about three weeks, until only the salt is left. The salt is scraped out. The pool is opened again. The next batch comes in. This has been done — the same way, by the same families — for five hundred years. Every pool belongs to a specific family in the villages down below. It is passed from parent to child.\"",
+            "Diego said, \"So it is not owned by one person.\" Manuel said, \"No. Every family has ten or fifteen pools somewhere in the mosaic. Together, the whole hillside is worked. If your neighbor's pool leaks, you help fix it, because if it leaks it might damage yours. Everyone works together to keep the channels running. Nobody is in charge. The system runs itself. It has run itself for centuries. That is what I want you to see. That the Incas did not just build things. They designed how people would live with each other around the thing they built. That is much harder than building.\""
+          ]
+        },
+        {
+          "image": "ts-ch2-p5-diego-drawing",
+          "imagePrompt": "Mike Mignola style for children: mid-shot on the low stone wall above the salt pools. Manuel (seventy-two) has his sketchbook closed on his knees and is watching Diego. Diego (11) has taken out a small plain notebook of his own and is carefully drawing one of the salt pools in it, tongue slightly between his teeth in concentration. Late afternoon light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "That afternoon, Diego did something he had not planned to do. He took out the small plain notebook he had brought with him for school — he had thought he might do homework in the evenings — and he opened it, and he tried to draw one of the salt pools. It was harder than he had thought. His lines were not sure. The pool did not look like a pool; it looked like a wobbly rectangle. He crossed it out. He tried again. He crossed that out too. Manuel, beside him, did not comment. He did not offer help. He worked in his own sketchbook.",
+            "After a few tries, Diego stopped crossing out. He let the wobbly rectangle stay. He added the small stone gate at the entrance. He added the water. He wrote in the margin, in his round eleven-year-old handwriting: Maras pool, July. Try again next year. When he looked up, Manuel was smiling slightly. Manuel said, \"That is exactly right. That is what the whole sketchbook is. Try again next year.\" And he did not say more."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "What Remains",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ts-ch3-p1-driving-back",
+          "imagePrompt": "Mike Mignola style for children: exterior view along a mountain road returning toward Cusco through the wide Sacred Valley. Manuel's small dark blue car has stopped at a scenic overlook. Manuel (seventy-two) and Diego (11) have gotten out and are standing at the low stone wall of the overlook, looking down across the whole valley. Late morning bright light. Distant snow-capped peaks. Heavy ink outlines, flat shadows, warm cream and pale green palette.",
+          "paragraphs": [
+            "On the fifth morning, the last morning of the trip, they drove slowly back toward Cusco. They did not take the main road. Manuel took a smaller road that climbed high along one side of the valley, giving long views down onto the river and the terraced fields and the small stone villages. About halfway back, at a place where the road curved around a bend, Manuel pulled the car over. He did not say why. He got out. Diego got out.",
+            "There was a small stone overlook wall — someone, decades ago, had built a low wall at the edge of the road for people to lean on. There was no sign, no marker. Just the wall and the view. Manuel walked to the wall and leaned on it and looked down. Diego joined him. Below them, the whole Sacred Valley spread out — the river winding between green fields, the small squares of terraced potato and quinoa, the stone walls, the villages, the distant white peaks. It was, Diego thought, more beautiful than anything he had seen in the five days."
+          ]
+        },
+        {
+          "image": "ts-ch3-p2-explanation",
+          "imagePrompt": "Mike Mignola style for children: mid-shot at the low stone overlook wall. Manuel (seventy-two) is holding his old leather-bound sketchbook in both hands, looking down at it thoughtfully. Diego (11) is looking up at him, curious, sensing that something is being decided. The valley spreads out behind them. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Manuel was quiet for a long time. Then he said, \"I stopped at this bend for the first time when I was twenty-two. I was on a bus back from Machu Picchu. It was my first trip alone as a young man. The bus stopped here to let a truck pass. I looked out. I thought, one day I want to understand a place well enough that I can look at it and see what it is thinking. That was the thought I had here, when I was twenty-two. I have stopped at this bend every time I have driven this road since. It is fifty years. I have stopped here maybe four hundred times. Every time, I think about that thought.\"",
+            "He was quiet again. He looked down at his sketchbook, which he was holding in both hands. He said, \"I want to give you something, Diego. I have been thinking about it since April. I wanted to wait until we came here. This is where the decision belongs.\""
+          ]
+        },
+        {
+          "image": "ts-ch3-p3-giving",
+          "imagePrompt": "Mike Mignola style for children: close view. Manuel (seventy-two) is holding out the small leather-bound sketchbook toward Diego (11) with both hands. Diego has not yet reached to take it. His face shows understanding of what is being offered — and quiet uncertainty about whether he should. Late morning golden light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Manuel held out the sketchbook. He said, \"This is yours now. From today.\" Diego did not move. He said, \"Abuelo. That is your book. That is fifty years.\" Manuel said, \"Fifty-two years. I started it when I was twenty. Yes. It is my book. And now it is yours. I have other sketchbooks. Six of them, at home. I will keep working. But this is the first one. I want it to go now, while I am here, so I can hand it to you myself. So I can watch you receive it. That matters to me. Please take it.\"",
+            "Diego took it, carefully, in both hands. It was smaller than it had looked on the table all those years. The leather was soft. The pages, when he did not yet open it, felt full of something. He did not open it. He said, \"Why me, Abuelo?\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Manuel thought for a moment. He said, \"Because you noticed the drainage channel at Moray without me pointing it out. Because you drew the salt pool at Maras when I did not ask you to. Because you have asked good questions on this trip. I do not know, yet, whether you will be an architect, or a farmer, or a poet, or someone who thinks in a completely different way. That does not matter. What matters is that you look at things and want to understand them. This book is not for you to imitate. It is for you to hold in your hands when you are older and know that a person can look at the same landscape for fifty years and still learn something new every time. That is what the book is for. Not the drawings. The example.\"",
+            "He was quiet. Then he said, \"Also — one more thing. When you are twenty, or thirty, or forty, and you find a landscape that you want to think about for the rest of your life, do not choose the famous one. Choose the one that is a question. Choose Moray, not Machu Picchu. Choose the salt pans, not the ruins. Choose the place that is still being figured out. That is where the interesting thinking is. That is what the Incas did. That is what your grandfather has been trying to do. I hope, someday, that is what you do too. Whatever the landscape.\""
+          ]
+        },
+        {
+          "image": "ts-ch3-p5-opening",
+          "imagePrompt": "Mike Mignola style for children: close view. Diego (11), now seated on the low stone overlook wall, has opened the leather-bound sketchbook to the very first page. On the page, in careful young handwriting from decades ago, are drawings of stone doorways and small notes. Diego's face is careful and moved. Manuel (seventy-two) sits beside him, giving him space to look. Late morning warm light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Diego sat down on the low stone wall. He opened the sketchbook to the first page. On the first page, in careful young handwriting from long before Diego was born, was a small pencil drawing of an Inca doorway — the trapezoidal stone doorway with the smaller top edge that Diego had seen a hundred times in Cusco. Beside it, his grandfather at twenty had written: The doorway leans in. Why? Something to do with earthquakes. Find out. There was a small date underneath — April, nineteen seventy-four.",
+            "Diego turned the page. Another drawing — a section of stone wall, with a note about how the stones fit without mortar. Another page. Another drawing. He did not read them all — he could not. There were hundreds of pages. He would read them slowly, over years. He closed the book gently. He looked at his grandfather. He said, \"Abuelo. I do not know what to say.\" Manuel said, \"You do not have to say anything. That is why I gave it to you here, at this bend, instead of at the house over supper. Here you can just look at the valley. Which is what the book is about anyway. Come. We should drive. Your abuela is expecting us for lunch.\""
+          ]
+        },
+        {
+          "image": "ts-ch3-p6-home",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the small stone-and-adobe house on the edge of Cusco in the late afternoon. Manuel's dark blue car is parked at the door. Diego (11) walks up the path toward the house with the small leather-bound sketchbook held carefully against his chest. Behind him, the red rooftops of Cusco cascade down toward the horizon. Golden light. Heavy ink outlines, flat shadows, warm cream and sepia palette.",
+          "paragraphs": [
+            "They drove the last hour back to Cusco slowly. Diego held the sketchbook on his lap the whole way. He did not open it again in the car. He would open it many, many times in the years to come. He would carry it, in fact, on almost every long trip he ever took, for the rest of his life — first as a boy, then as a student, then as a young man doing whatever it turned out he was going to do, then as an older man himself. He would write in the blank pages at the back, filling them in with his own careful drawings and questions, in his own handwriting, over decades.",
+            "But that afternoon, arriving back at the small stone house on the edge of Cusco, he did not think about any of that. He walked up the path with the book held against his chest, and his grandfather walked behind him, and the light was warm and gold on the rooftops of the old city below. Diego was thinking, in a small quiet way, about the salt pools at Maras and the circles at Moray and the bend in the road above the valley, and about how a person could look at a landscape for fifty-two years and still be, on the last day of a five-day trip in July, learning what to hand to whom, and when. That was what a life could be. He did not have the words for it yet. But he would."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": ["family", "grandfather", "peru", "andes", "landscape", "inheritance"]
+}

@@ -1,0 +1,529 @@
+{
+  "story_id": "library-of-lost-endings",
+  "chapter": 1,
+  "total_duration_ms": 346488,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Iona lived in the small Scottish town of Wigtown, in the southwest, in a region called Galloway.",
+      "start_ms": 2489,
+      "end_ms": 8525
+    },
+    {
+      "index": 1,
+      "text": "Wigtown was famous, in a small way, for one thing — it was Scotland's official book town.",
+      "start_ms": 8525,
+      "end_ms": 14126
+    },
+    {
+      "index": 2,
+      "text": "That meant that of the maybe eight hundred people who lived there, quite a lot of them ran secondhand bookshops.",
+      "start_ms": 14126,
+      "end_ms": 21158
+    },
+    {
+      "index": 3,
+      "text": "There were thirteen bookshops in the town square, or nearby, at any given time.",
+      "start_ms": 21158,
+      "end_ms": 26136
+    },
+    {
+      "index": 4,
+      "text": "It was, an old writer had once said, the sort of place where a book could go to be old, and nobody would think that was sad.",
+      "start_ms": 26136,
+      "end_ms": 33977
+    },
+    {
+      "index": 5,
+      "text": "Iona was ten.",
+      "start_ms": 33977,
+      "end_ms": 34848
+    },
+    {
+      "index": 6,
+      "text": "Her father worked at the primary school.",
+      "start_ms": 34848,
+      "end_ms": 37400
+    },
+    {
+      "index": 7,
+      "text": "Her mother worked at a farm shop on the edge of town.",
+      "start_ms": 37400,
+      "end_ms": 40760
+    },
+    {
+      "index": 8,
+      "text": "Iona had grown up in the bookshops.",
+      "start_ms": 40760,
+      "end_ms": 43000
+    },
+    {
+      "index": 9,
+      "text": "She could not remember a time when she had not spent afternoons and Saturdays and school holidays sitting in one shop or another, reading.",
+      "start_ms": 43000,
+      "end_ms": 51650
+    },
+    {
+      "index": 10,
+      "text": "She was allowed in all of them — the shopkeepers all knew her, and they let her have run of any book she could reach.",
+      "start_ms": 51650,
+      "end_ms": 58993
+    },
+    {
+      "index": 11,
+      "text": "She had probably read a thousand books by the time she was ten.",
+      "start_ms": 58993,
+      "end_ms": 62976
+    },
+    {
+      "index": 12,
+      "text": "She was also, unofficially, a volunteer at the oldest bookshop in the town, which was called ByreBooks and had been in the same stone building for a hundred and forty years.",
+      "start_ms": 62976,
+      "end_ms": 73866
+    },
+    {
+      "index": 13,
+      "text": "The bookshop was run, at that time, by a young woman named Rosa.",
+      "start_ms": 73866,
+      "end_ms": 77911
+    },
+    {
+      "index": 14,
+      "text": "Rosa had been at the shop for maybe three years.",
+      "start_ms": 77911,
+      "end_ms": 80960
+    },
+    {
+      "index": 15,
+      "text": "She was in her mid-twenties.",
+      "start_ms": 80960,
+      "end_ms": 82764
+    },
+    {
+      "index": 16,
+      "text": "She had short dark hair pulled back and small wire spectacles and a habit of wearing large soft cardigans in colors that reminded Iona of tea.",
+      "start_ms": 82764,
+      "end_ms": 91663
+    },
+    {
+      "index": 17,
+      "text": "She was quiet — she talked when she had something to say, and otherwise she was silent.",
+      "start_ms": 91663,
+      "end_ms": 97139
+    },
+    {
+      "index": 18,
+      "text": "She had learned the trade from the previous owner, an old man named Angus, who had died two years before Iona was born but whose photograph still hung on the wall above the till.",
+      "start_ms": 97139,
+      "end_ms": 108216
+    },
+    {
+      "index": 19,
+      "text": "In January, Iona went to ByreBooks almost every day after school.",
+      "start_ms": 108216,
+      "end_ms": 112661
+    },
+    {
+      "index": 20,
+      "text": "It was cold, and the shop had a small wood-burning stove in the back corner, and there was always tea, and there was always sorting to do — the shop received donations of books all winter, especially from the estates of people who had died over the winter.",
+      "start_ms": 112661,
+      "end_ms": 129968
+    },
+    {
+      "index": 21,
+      "text": "Rosa let Iona help sort them.",
+      "start_ms": 129968,
+      "end_ms": 131988
+    },
+    {
+      "index": 22,
+      "text": "It was Iona's favorite thing in the world.",
+      "start_ms": 131988,
+      "end_ms": 134951
+    },
+    {
+      "index": 23,
+      "text": "On a Wednesday afternoon in the second week of January, Rosa carried in a large heavy cardboard box from the back door.",
+      "start_ms": 134951,
+      "end_ms": 143033
+    },
+    {
+      "index": 24,
+      "text": "She set it down on the floor in front of Iona.",
+      "start_ms": 143033,
+      "end_ms": 146198
+    },
+    {
+      "index": 25,
+      "text": "She said, \"This one came in this morning.",
+      "start_ms": 146198,
+      "end_ms": 149026
+    },
+    {
+      "index": 26,
+      "text": "From the Balfour farmhouse.",
+      "start_ms": 149026,
+      "end_ms": 150912
+    },
+    {
+      "index": 27,
+      "text": "Old Mrs.",
+      "start_ms": 150912,
+      "end_ms": 151518
+    },
+    {
+      "index": 28,
+      "text": "Balfour died last month.",
+      "start_ms": 151518,
+      "end_ms": 153202
+    },
+    {
+      "index": 29,
+      "text": "Her daughter is clearing the house.",
+      "start_ms": 153202,
+      "end_ms": 155626
+    },
+    {
+      "index": 30,
+      "text": "Take a look.",
+      "start_ms": 155626,
+      "end_ms": 156502
+    },
+    {
+      "index": 31,
+      "text": "Have fun.\" And Rosa went back to the front of the shop.",
+      "start_ms": 156502,
+      "end_ms": 160340
+    },
+    {
+      "index": 32,
+      "text": "Iona opened the box.",
+      "start_ms": 160340,
+      "end_ms": 161754
+    },
+    {
+      "index": 33,
+      "text": "Old books.",
+      "start_ms": 161754,
+      "end_ms": 162495
+    },
+    {
+      "index": 34,
+      "text": "Real old ones — leatherbound, cloth-covered, their pages the color of tea.",
+      "start_ms": 162495,
+      "end_ms": 167546
+    },
+    {
+      "index": 35,
+      "text": "She loved these best.",
+      "start_ms": 167546,
+      "end_ms": 169027
+    },
+    {
+      "index": 36,
+      "text": "She took them out one by one.",
+      "start_ms": 169027,
+      "end_ms": 171048
+    },
+    {
+      "index": 37,
+      "text": "She checked each spine for the title.",
+      "start_ms": 171048,
+      "end_ms": 173607
+    },
+    {
+      "index": 38,
+      "text": "Some were novels she had heard of — an old edition of David Copperfield, a very old edition of Middlemarch.",
+      "start_ms": 173607,
+      "end_ms": 180880
+    },
+    {
+      "index": 39,
+      "text": "Some she had not — she took a small breath every time she found a book she did not know, because it might be something wonderful.",
+      "start_ms": 180880,
+      "end_ms": 189635
+    },
+    {
+      "index": 40,
+      "text": "She set them in small piles on the floor around her — sort by size, then by binding, then by whether they were fiction or not.",
+      "start_ms": 189635,
+      "end_ms": 198120
+    },
+    {
+      "index": 41,
+      "text": "She was halfway through the box when she noticed the first one.",
+      "start_ms": 198120,
+      "end_ms": 202782
+    },
+    {
+      "index": 42,
+      "text": "A leather-bound copy of a book she had never heard of — Cecil Wray, a novel from 1889, by an author she also did not know.",
+      "start_ms": 202782,
+      "end_ms": 211741
+    },
+    {
+      "index": 43,
+      "text": "She opened it to check the condition.",
+      "start_ms": 211741,
+      "end_ms": 214509
+    },
+    {
+      "index": 44,
+      "text": "The pages were good.",
+      "start_ms": 214509,
+      "end_ms": 216039
+    },
+    {
+      "index": 45,
+      "text": "The spine was tight.",
+      "start_ms": 216039,
+      "end_ms": 217569
+    },
+    {
+      "index": 46,
+      "text": "She thumbed through it toward the back to see how long it was.",
+      "start_ms": 217569,
+      "end_ms": 222158
+    },
+    {
+      "index": 47,
+      "text": "And then she noticed.",
+      "start_ms": 222158,
+      "end_ms": 223760
+    },
+    {
+      "index": 48,
+      "text": "The last chapter was gone.",
+      "start_ms": 223760,
+      "end_ms": 225727
+    },
+    {
+      "index": 49,
+      "text": "Not damaged.",
+      "start_ms": 225727,
+      "end_ms": 226674
+    },
+    {
+      "index": 50,
+      "text": "Not stained.",
+      "start_ms": 226674,
+      "end_ms": 227621
+    },
+    {
+      "index": 51,
+      "text": "Torn out cleanly.",
+      "start_ms": 227621,
+      "end_ms": 228932
+    },
+    {
+      "index": 52,
+      "text": "There were four ragged pages at the very back where a whole final chapter had been removed.",
+      "start_ms": 228932,
+      "end_ms": 235633
+    },
+    {
+      "index": 53,
+      "text": "The book ended, in mid-sentence, on the last surviving page: \"And so with a heavy heart she turned toward the door, and\" — and then nothing.",
+      "start_ms": 235633,
+      "end_ms": 245904
+    },
+    {
+      "index": 54,
+      "text": "The final chapter, whatever it had said, was missing.",
+      "start_ms": 245904,
+      "end_ms": 249910
+    },
+    {
+      "index": 55,
+      "text": "Iona thought this was strange.",
+      "start_ms": 249910,
+      "end_ms": 252168
+    },
+    {
+      "index": 56,
+      "text": "She set the book aside.",
+      "start_ms": 252168,
+      "end_ms": 253916
+    },
+    {
+      "index": 57,
+      "text": "She went on.",
+      "start_ms": 253916,
+      "end_ms": 254863
+    },
+    {
+      "index": 58,
+      "text": "Ten minutes later she found another one.",
+      "start_ms": 254863,
+      "end_ms": 257850
+    },
+    {
+      "index": 59,
+      "text": "A different novel — Under the Long Hills, 1902.",
+      "start_ms": 257850,
+      "end_ms": 261346
+    },
+    {
+      "index": 60,
+      "text": "Same thing.",
+      "start_ms": 261346,
+      "end_ms": 262220
+    },
+    {
+      "index": 61,
+      "text": "Last chapter torn out.",
+      "start_ms": 262220,
+      "end_ms": 263896
+    },
+    {
+      "index": 62,
+      "text": "She checked.",
+      "start_ms": 263896,
+      "end_ms": 264843
+    },
+    {
+      "index": 63,
+      "text": "Same ragged pattern.",
+      "start_ms": 264843,
+      "end_ms": 266372
+    },
+    {
+      "index": 64,
+      "text": "Someone had used their hands, not a knife.",
+      "start_ms": 266372,
+      "end_ms": 269504
+    },
+    {
+      "index": 65,
+      "text": "She set it aside with the first.",
+      "start_ms": 269504,
+      "end_ms": 271981
+    },
+    {
+      "index": 66,
+      "text": "She kept sorting.",
+      "start_ms": 271981,
+      "end_ms": 273292
+    },
+    {
+      "index": 67,
+      "text": "She kept finding them.",
+      "start_ms": 273292,
+      "end_ms": 274968
+    },
+    {
+      "index": 68,
+      "text": "By the time she had finished the box, she had a small careful row of seven books, all with their last chapters torn out.",
+      "start_ms": 274968,
+      "end_ms": 283781
+    },
+    {
+      "index": 69,
+      "text": "All from the same estate.",
+      "start_ms": 283781,
+      "end_ms": 285675
+    },
+    {
+      "index": 70,
+      "text": "All different novels, different authors, different years — the earliest was from 1878, the latest from 1934.",
+      "start_ms": 285675,
+      "end_ms": 293615
+    },
+    {
+      "index": 71,
+      "text": "Iona had, by then, called Rosa over.",
+      "start_ms": 293615,
+      "end_ms": 296310
+    },
+    {
+      "index": 72,
+      "text": "Rosa had come to look.",
+      "start_ms": 296310,
+      "end_ms": 297985
+    },
+    {
+      "index": 73,
+      "text": "Rosa had not been surprised.",
+      "start_ms": 297985,
+      "end_ms": 300098
+    },
+    {
+      "index": 74,
+      "text": "Rosa had said, softly, \"I have been waiting for these.\"",
+      "start_ms": 300098,
+      "end_ms": 304104
+    },
+    {
+      "index": 75,
+      "text": "\"What do you mean,\" Iona said.",
+      "start_ms": 304104,
+      "end_ms": 306265
+    },
+    {
+      "index": 76,
+      "text": "Rosa knelt down beside her.",
+      "start_ms": 306265,
+      "end_ms": 308217
+    },
+    {
+      "index": 77,
+      "text": "She looked at the seven books.",
+      "start_ms": 308217,
+      "end_ms": 310378
+    },
+    {
+      "index": 78,
+      "text": "She said, \"When I started here three years ago, Angus's old ledger had a note in it about the Balfour books.",
+      "start_ms": 310378,
+      "end_ms": 317976
+    },
+    {
+      "index": 79,
+      "text": "He had bought books from the same farm — from Mrs.",
+      "start_ms": 317976,
+      "end_ms": 321532
+    },
+    {
+      "index": 80,
+      "text": "Balfour's father, who had died in the 1960s.",
+      "start_ms": 321532,
+      "end_ms": 324669
+    },
+    {
+      "index": 81,
+      "text": "Some of the books he had bought then had this exact — this exact torn-endings thing.",
+      "start_ms": 324669,
+      "end_ms": 330594
+    },
+    {
+      "index": 82,
+      "text": "Angus had noticed.",
+      "start_ms": 330594,
+      "end_ms": 331918
+    },
+    {
+      "index": 83,
+      "text": "He had written in his ledger: 'Balfour endings — same person, same tearing pattern, decades apart.",
+      "start_ms": 331918,
+      "end_ms": 338820
+    },
+    {
+      "index": 84,
+      "text": "Wait for the next batch.",
+      "start_ms": 338820,
+      "end_ms": 340563
+    },
+    {
+      "index": 85,
+      "text": "There will be more.' He was writing to whoever came after him.",
+      "start_ms": 340563,
+      "end_ms": 344954
+    },
+    {
+      "index": 86,
+      "text": "He was writing to me.\"",
+      "start_ms": 344954,
+      "end_ms": 346488
+    }
+  ]
+}

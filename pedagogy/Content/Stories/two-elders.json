@@ -1,0 +1,167 @@
+{
+  "id": "two-elders",
+  "title": "Two Elders",
+  "subtitle": "A Small Village in Puglia",
+  "author": null,
+  "summary": "Simone is eleven and spending August with his aunt in a very small village in the heel of Italy, in Puglia. Two old men live in the houses on either side of his aunt's — they are brothers, aged eighty-one and seventy-eight, and they have not spoken to each other in forty-three years. One day, one of them asks Simone to carry a small note next door. It is the beginning of a very slow thaw.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-two-elders-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old boy (Simone) with dark curly hair, wearing a simple white t-shirt and shorts, standing on the narrow whitewashed alleyway between two nearly-identical small white stone houses in a Puglia village. Each house has an old wooden door and a single small window. Simone stands exactly between the two doors, holding a small folded paper note in one hand, looking at one door with a thoughtful expression. Behind him: the sun-baked white buildings of the village stretch away, a bell tower in the distance. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0) whitewash, sepia stone, deep ink outlines, small dusty rose (#FF5B8D) accent on his cheeks, warm gold on the distant tower. Small margin at top and bottom for card padding.",
+  "category": "mystery",
+  "isPremium": true,
+  "publishedAt": "2027-03-04",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Two Doors",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "te-ch1-p1-village",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a very small hilltop village in Puglia, southern Italy. Whitewashed stone houses tightly packed. Narrow alleyways. A small church with a low bell tower. Dry olive trees on the surrounding hills. Warm afternoon light, dry summer sky. A boy (Simone, 11, white t-shirt, shorts, small backpack) walks up a narrow lane. Heavy black ink outlines, flat shadows, cream and sepia palette with warm ochre.",
+          "paragraphs": [
+            "Simone's aunt Rosa lived in a village called Ceglie in the far south of Italy, in the heel of the boot, in the region called Puglia. It was a small hilltop village of whitewashed stone houses packed close together, surrounded by dry olive groves and rocky pastures. Nothing much happened there. In summer the sun was very strong. The people were mostly very old. Most of the young ones had moved away to the cities. Aunt Rosa was fifty-three and she was not old, but she had chosen to stay. She had a small yard where she grew tomatoes and basil, and she made her own cheese from her two goats, and she was, Simone thought, the happiest person he knew.",
+            "Simone was eleven and lived the rest of the year in Milan, which was as far from Puglia as you could get in Italy without leaving the country. He had come to spend all of August with Aunt Rosa. His parents had gone on a trip. He was here alone. He had been here for many summers before. He knew everyone in Ceglie. Everyone knew him. Whenever he walked through the little square, the old men playing cards outside the café would call his name and wave."
+          ]
+        },
+        {
+          "image": "te-ch1-p2-doors",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a narrow whitewashed alleyway with three adjacent small stone houses. Aunt Rosa's is in the middle. On one side, an old man (Signor Bruno, eighties, thin, wire spectacles, in a white shirt) sits on his front step reading. On the other side, another old man (Signor Marco, seventies, slightly heavier, in a linen jacket) sits on his front step drinking coffee. Neither looks at the other. The alley between them is completely empty. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Aunt Rosa's house was in the middle of a row of three small houses, all identical, all whitewashed, all with old wooden doors and one small window each. On one side of Aunt Rosa lived Signor Bruno, who was eighty-one, and on the other side lived Signor Marco, who was seventy-eight. They were brothers. They looked alike, though Bruno was thinner. They were both widowers. They both lived alone. They both had lived in their houses for their entire lives — their parents had lived in the same houses before them, and their grandparents before that. They saw each other every day. They lived less than five meters apart.",
+            "And they had not spoken to each other in forty-three years."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Simone knew this because everyone in Ceglie knew this. It was a small village and this was the biggest strange thing in it. Signor Bruno went to the café at three in the afternoon and drank his coffee at the table on the left. Signor Marco went to the café at three in the afternoon and drank his coffee at the table on the right. They never looked at each other. They never spoke. They shopped at the same grocery on different days. They went to the same church on different Sundays. It had been like this since 1982, when they had had — nobody in the village was sure what — some kind of terrible fight. Nobody remembered what the fight had been about. Bruno and Marco remembered. But neither of them had told anyone. Neither of them had explained. They had simply stopped speaking, and they had never started again.",
+            "Simone had noticed this for years. He had asked his aunt about it many times. Aunt Rosa always said the same thing: \"It is very sad. But it is between them. It is not for us to fix.\" And Simone had accepted this. He had said hello to Signor Bruno when he came out to sit on his step. He had said hello to Signor Marco when he came out to sit on his step. He had not tried to do anything about the situation, because he had understood, from Aunt Rosa, that it was not his place. And he had been small. And what could a small boy have done anyway."
+          ]
+        },
+        {
+          "image": "te-ch1-p3-first-note",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Signor Bruno (eighties, thin, spectacles) leans forward from his front step and hands a small folded paper to Simone (11) who is passing by in the alley. Bruno's face is careful, a little embarrassed. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On the second day of Simone's visit, in the afternoon, Signor Bruno called out to him as he was walking past. \"Simone. Come here for a moment.\" Simone went over. Signor Bruno was sitting on his front step with a small folded piece of paper in his hand. He looked embarrassed. He said, quietly, \"Simone. Can you do a favor for me. A very small favor. Nobody has to know. Just — take this piece of paper. Knock on Marco's door. Give it to him. Say nothing. Do you understand?\"",
+            "Simone looked at the paper. He looked at Signor Bruno. He was ten different kinds of surprised. He said, \"Signor Bruno — I — yes. Yes, of course.\" Signor Bruno handed him the paper. His hand shook a little. Simone took it. He walked past his aunt's door, and he stopped at Signor Marco's door, and he knocked. His heart was beating in his ears."
+          ]
+        },
+        {
+          "image": "te-ch1-p4-marco",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the door of Signor Marco's house. Signor Marco (seventies, slightly heavier, in a linen jacket) has opened his door and is looking down in surprise at the small folded paper Simone (11) is holding out. Marco has not taken it yet. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Signor Marco opened the door. He was surprised to see Simone. He said, \"Simone. What is it. Is your aunt okay.\" Simone said, \"Yes. She is fine.\" He held out the paper. \"Signor Bruno asked me to give you this.\" Signor Marco went very still. He looked at the paper. He looked at Simone. He looked at the paper again. He did not take it. He was quiet for a long moment. Then he said, in a very careful voice, \"Bruno asked you.\" \"Yes,\" said Simone. \"He said to give it to you and not to say anything else.\" Signor Marco slowly reached out. He took the paper. He looked at it in his hand. He did not open it. He said, \"Thank you, Simone. That is all.\" And he closed the door.",
+            "Simone stood in the alley for a moment. Then he walked back past his aunt's door. Signor Bruno was still sitting on his front step. He looked up. Simone said, \"He took it. He did not open it. Not while I was there.\" Signor Bruno nodded. He said, \"Thank you, Simone. Do not tell your aunt.\" Simone said, \"Okay.\" And he went inside."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Back and Forth",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "te-ch2-p1-reply",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Signor Marco (seventies) stands at his door and hands a small folded paper to Simone (11). Marco's expression is careful, focused. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The next afternoon Signor Marco came out of his door as Simone was passing. He handed Simone a small folded paper. He said, quietly, \"Simone. Please give this to Bruno.\" Simone took the paper. He walked past his aunt's door. He knocked on Bruno's. Bruno opened. Simone gave him the paper. Bruno looked at it for a long moment. He took it. He said, \"Thank you.\" He closed the door.",
+            "This happened again the next day. And the next. And the day after that. Simone became a small quiet courier. Every day one of them, sometimes both, would come out and hand him a folded paper. He would carry it the five meters between the two doors. He would knock. He would hand it over. He would not say anything. He never read the notes. Aunt Rosa never asked him about it. He did not know if she had noticed. He did not think she had, but he was not sure."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "By the end of the first week, Simone was carrying two or three notes a day. The two old men did not look at each other still. They did not talk. They did not sit closer to each other in the café. From the outside, nothing had changed. But something had changed. He knew this because — and this was strange — because both of them seemed to be sleeping better. Signor Bruno had had a habit, on hot summer nights, of coming out onto his front step at three in the morning and sitting in his undershirt because he could not sleep. Simone had noticed this many summers before, when he had gotten up for water. This summer he had noticed it in the first week. But after the notes started, Signor Bruno stopped coming out at three in the morning. Simone could not confirm this — he was asleep most of the time — but he had gotten up twice at three, on purpose, to look, and the alley had been empty.",
+            "Signor Marco had also seemed less — heavy — in the days after the notes started. He walked a little straighter. He smiled at the neighbors more. He talked more at the café. Both of them did. Simone noticed. He did not tell his aunt. He did not tell anyone."
+          ]
+        },
+        {
+          "image": "te-ch2-p3-café",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at the village café. Small outdoor tables on the cobbled square. Signor Bruno at his usual table on the left drinking coffee. Signor Marco at his usual table on the right drinking coffee. They are not looking at each other. But something in their posture is different — slightly more open. Simone (11) walks past, noticing. Warm late afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the second week, something new happened. Simone was passing Signor Bruno's door when Bruno called him over. Bruno gave him the usual folded paper. Then, as Simone was turning to go, Bruno said, \"Simone. Wait.\" Simone stopped. Bruno said, \"When you give it to him — this time only — tell him something. Say — Bruno says he is sorry. That is all. Nothing else.\" Simone stared at Bruno. Bruno was looking at his own hands. He would not look at Simone.",
+            "Simone said, \"Yes, Signor Bruno.\" He walked to Marco's door. He knocked. Marco opened. Simone handed him the paper. He said, quietly, \"Signor Marco. Signor Bruno says he is sorry. That is all.\" Marco held the paper in one hand. He looked at Simone. His face did not change much, but Simone saw his shoulders drop. He said, in a voice so quiet Simone almost did not hear it, \"Tell him — tell him — I know. Thank you.\" Simone nodded. He walked back past his aunt's door. He knocked on Bruno's. Bruno opened. Simone said, \"Signor Marco says he knows. And thank you.\" Bruno stood at the door for a long moment. He was breathing carefully. Then he said, \"Thank you, Simone. Come in for a moment.\""
+          ]
+        },
+        {
+          "image": "te-ch2-p4-inside-bruno",
+          "imagePrompt": "Mike Mignola style for children: interior of Signor Bruno's small house. A single main room with old furniture, dark and cool inside. A framed old photograph on a shelf shows two young men in their thirties standing together, smiling, with their arms around each other. A boy (Simone, 11) stands looking at the photograph. Signor Bruno (eighties) stands beside him. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Simone had never been inside Signor Bruno's house before. It was dark and cool. There was one main room with old furniture and a small kitchen at the back. Bruno had Simone sit on a chair. Bruno went to a shelf. He took down a framed photograph. He handed it to Simone. It was old — sepia — and it showed two young men in their thirties, standing together, smiling, arms around each other. \"That is me,\" said Bruno. \"And that is Marco. In 1978. Before.\"",
+            "\"What happened,\" said Simone. He asked before he had thought about whether it was okay to ask. Bruno was quiet for a long time. Then he said, \"It was very stupid. It was about our father's will. Our father died in 1982. He left our parents' house — this house — to me. He left the family olive grove to Marco. Marco thought he should have got the house, because he was newly married. I thought I should have got the house, because I was the older son. There was a lot of shouting. I said some terrible things. He said some terrible things too. I said things about his wife that I should not have said. I have never forgotten those things. He has not either.\" Bruno paused. \"That is how forty-three years passes. In the beginning you are angry and every day you get more angry. Then you are angry as a habit. Then you do not remember why you started. But you have said no for so long that saying yes seems impossible. It is easier to keep saying no. But every day is a small no. And a small no accumulates.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Why did you start writing to him now,\" Simone said. Bruno smiled a small tired smile. \"Because I am eighty-one, Simone. And Marco is seventy-eight. One of us is going to die soon. I do not want the last thing between us to be a stupid fight from 1982. I want to at least — at least — say hello to my brother before one of us is gone. So I wrote a small note. I could not have brought it myself. My legs are old, my heart is old, my pride is old. But you were walking by. So I asked you. It is a small — a small — a small — coward's way to do it. But it is the only way I could do it.\"",
+            "\"It is not coward's,\" said Simone. \"It is — it is starting. That is the important thing.\" Bruno looked at him. He said, in a slightly surprised voice, \"You are a very serious eleven-year-old, Simone.\" Simone shrugged. He did not know what to say. Bruno said, \"Come. It is time for you to go home. Your aunt will worry. Do not tell her yet. Not yet. Later, maybe.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Two Chairs",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "te-ch3-p1-continues",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Simone (11) walks between the two doors in the whitewashed alley carrying a folded paper. He looks calm and used to this now. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The notes continued for two more weeks. Simone was the courier. Sometimes he carried three or four in a day. Sometimes only one. Both old men began to give him small treats — sometimes a piece of candy, sometimes a fig from the tree in their back yards. He accepted them. It felt like the fair thing.",
+            "In the third week, one of the messages was different. Signor Marco handed Simone a folded paper and said, out loud, \"Tell him — please — I would like to have coffee together on the day of the Assumption of Mary. In the small square, by the church. Not at the café. Somewhere quiet. If he wants.\" Simone nodded. He carried the paper. He also carried the message. Bruno received both. Bruno closed his eyes for a long moment. Then he said to Simone, \"Tell him yes. Tell him — I have been waiting for him to ask. Tell him — I will be there.\" And Simone carried that back to Marco. Marco stood at his door for a moment. Then he said, in a voice that had a small crack in it, \"Thank you, Simone.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The Assumption of Mary was on the fifteenth of August. It was a warm evening. The whole village was in the streets. There were candles. There was music. There was a procession. Aunt Rosa went with Simone. They walked through the crowds. They watched the procession. Aunt Rosa knew everyone and stopped to talk to everyone. Simone was distracted. He kept looking around.",
+            "He saw them at eight-thirty. Signor Bruno was sitting on a small stone bench at the edge of the small square by the church. Signor Marco was sitting beside him. They were not looking at each other. They were both looking at the church. But they were sitting together. On the same bench. For the first time in forty-three years."
+          ]
+        },
+        {
+          "image": "te-ch3-p3-bench",
+          "imagePrompt": "Mike Mignola style for children: exterior evening scene in a small quiet stone square beside a church. Two very old men (Signor Bruno on the left, Signor Marco on the right) sit side by side on a small stone bench. They are not touching, they are not looking at each other, but they are together. They are both looking straight ahead at the church. Warm candlelight from the festival glows softly around them. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold.",
+          "paragraphs": [
+            "Simone stopped. He did not want to bother them. He watched from far off. Aunt Rosa noticed. She followed his eyes. She saw the two brothers on the bench. She stopped talking mid-sentence to whoever she was talking to. She said, softly, \"Simone. Look at that.\" Simone said, \"Yes. I see.\" Aunt Rosa turned to him. She said, \"Simone. Did you have something to do with this.\" And Simone said, \"A little. I carried some notes.\" And Aunt Rosa did not say anything for a long moment. Then she said, \"Well. Then you have done a very good thing this summer.\"",
+            "Simone and Aunt Rosa watched them from the far side of the square. Bruno and Marco sat on the bench for maybe an hour. They did not say much. Simone could see, sometimes, that one of them was talking, and the other was listening. Then the other was talking, and the first was listening. They did not touch. But they were sitting together, and they were talking, and that was more than forty-three years' worth."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The notes continued for the rest of Simone's visit. But now the two brothers also went for walks together sometimes, in the evening, when it was cool. They did not talk to each other in public in the daytime yet — that was too big a step, Simone understood — but they walked in the evenings. And sometimes, in the very early morning, Simone would see Marco cross the alley to Bruno's house, and Bruno would open the door before Marco could knock. They would go inside together for a while.",
+            "When Simone left in early September, both of them came out to say goodbye. They stood side by side in the alley, though not touching. Bruno said, \"Thank you, Simone. You did what neither of us could do. We will not forget it.\" Marco said, \"Come back next summer. Come every summer. You will always have a place with us.\" Simone hugged both of them, one after the other. Aunt Rosa was crying a little. They drove down the road out of the village. Simone looked back once. Bruno and Marco were still standing together in the alley. They were watching the car go. Bruno raised his hand in a wave. Marco raised his."
+          ]
+        },
+        {
+          "image": "te-ch3-p5-years",
+          "imagePrompt": "Mike Mignola style for children: exterior scene, years later. The same alley. Simone (now maybe 25, a young man in casual traveling clothes) walks up. Signor Marco (now in his late eighties) is sitting on his front step alone. The door of Signor Bruno's house is closed and quiet. Marco looks up at Simone with recognition and sadness. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Simone came back the next summer. Bruno and Marco were sitting together at the café at three in the afternoon, at one table instead of two. Nobody in the village had said anything about it. Everyone had just noticed. Everyone had just adjusted. That was how these things happened in a small village. Simone had helped his aunt with the tomatoes. He had visited Bruno and Marco every evening. He had felt that this was — that this was how things should be.",
+            "Bruno died in the winter that Simone was fifteen. He died in his sleep, peacefully. Marco lived another six years after that. Simone came for the funeral. When he arrived at the village, Marco was already at the church. Marco was very small and very old now. When he saw Simone, he came over and hugged him for a long time. He said, into Simone's shoulder — Simone was now taller than Marco was — \"Thank you, Simone. You gave me those years with him. You gave both of us those years. I have thanked God for you every single day. I will keep thanking God for you until I go too.\" And Simone did not know what to say. He said, \"I only carried the notes, Signor Marco.\" And Marco said, \"Simone. I am eighty-four years old. Some of the most important things people do in their lives are only carrying notes. Remember that.\""
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "italy",
+    "forgiveness",
+    "brothers",
+    "kindness"
+  ]
+}

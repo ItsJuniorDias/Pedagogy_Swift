@@ -1,0 +1,511 @@
+{
+  "story_id": "hour-between",
+  "chapter": 1,
+  "total_duration_ms": 293856,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The drive up to the observatory took four hours.",
+      "start_ms": 1447,
+      "end_ms": 4174
+    },
+    {
+      "index": 1,
+      "text": "Diego's father drove the whole way with both hands on the wheel and his elbows locked, because the road was gravel and it turned back on itself often and there was nothing on either side of it but the same empty pale mountains going on forever.",
+      "start_ms": 4174,
+      "end_ms": 17809
+    },
+    {
+      "index": 2,
+      "text": "Diego watched out the window.",
+      "start_ms": 17809,
+      "end_ms": 19479
+    },
+    {
+      "index": 3,
+      "text": "He had been to the mountain three times before, when he was younger, but he had forgotten how the land looked.",
+      "start_ms": 19479,
+      "end_ms": 25657
+    },
+    {
+      "index": 4,
+      "text": "Nothing grew here.",
+      "start_ms": 25657,
+      "end_ms": 26714
+    },
+    {
+      "index": 5,
+      "text": "Nothing at all.",
+      "start_ms": 26714,
+      "end_ms": 27605
+    },
+    {
+      "index": 6,
+      "text": "The Atacama Desert was the driest place on earth, his father had told him once, and some parts of it had not seen rain in four hundred years.",
+      "start_ms": 27605,
+      "end_ms": 35563
+    },
+    {
+      "index": 7,
+      "text": "\"It gets colder as we go up,\" said his father.",
+      "start_ms": 35563,
+      "end_ms": 38179
+    },
+    {
+      "index": 8,
+      "text": "\"Are you cold now?\" \"A little,\" said Diego.",
+      "start_ms": 38179,
+      "end_ms": 40628
+    },
+    {
+      "index": 9,
+      "text": "His father reached across and turned the heat up.",
+      "start_ms": 40628,
+      "end_ms": 43411
+    },
+    {
+      "index": 10,
+      "text": "Diego was twelve.",
+      "start_ms": 43411,
+      "end_ms": 44412
+    },
+    {
+      "index": 11,
+      "text": "He was old enough to fly by himself now, from Santiago to Antofagasta, and he had done it that morning, and he was very proud of that, but he had also been afraid the whole flight, and he was still tired from being afraid.",
+      "start_ms": 44412,
+      "end_ms": 56823
+    },
+    {
+      "index": 12,
+      "text": "His father knew this.",
+      "start_ms": 56823,
+      "end_ms": 58048
+    },
+    {
+      "index": 13,
+      "text": "His father did not say anything about it.",
+      "start_ms": 58048,
+      "end_ms": 60441
+    },
+    {
+      "index": 14,
+      "text": "His father worked at the Cerro Antares observatory, and his cabin was one of six small stone houses that had been built for the astronomers along the ridge, a hundred meters below the main telescope.",
+      "start_ms": 60441,
+      "end_ms": 71572
+    },
+    {
+      "index": 15,
+      "text": "The cabin had two rooms and a small kitchen and a stove that burned wood, because at 2,600 meters up in the desert the nights got very cold, even in summer.",
+      "start_ms": 71572,
+      "end_ms": 80309
+    },
+    {
+      "index": 16,
+      "text": "There was electricity, but only for the fridge and the light bulbs, and only from a generator that his father said made too much noise, so they only ran it for a few hours a day.",
+      "start_ms": 80309,
+      "end_ms": 90216
+    },
+    {
+      "index": 17,
+      "text": "When they got there, in the late afternoon, Diego stood outside the cabin for a while and just looked at the land.",
+      "start_ms": 90216,
+      "end_ms": 96867
+    },
+    {
+      "index": 18,
+      "text": "It stretched away and away, pale and empty, all the way to another ridge of dry mountains far off.",
+      "start_ms": 96867,
+      "end_ms": 102592
+    },
+    {
+      "index": 19,
+      "text": "There was no sound at all.",
+      "start_ms": 102592,
+      "end_ms": 104154
+    },
+    {
+      "index": 20,
+      "text": "Not even wind.",
+      "start_ms": 104154,
+      "end_ms": 105021
+    },
+    {
+      "index": 21,
+      "text": "His ears felt strange, as if the silence was pressing against them.",
+      "start_ms": 105021,
+      "end_ms": 108954
+    },
+    {
+      "index": 22,
+      "text": "\"Yeah,\" said his father, coming up behind him.",
+      "start_ms": 108954,
+      "end_ms": 111672
+    },
+    {
+      "index": 23,
+      "text": "\"It does that to me too.",
+      "start_ms": 111672,
+      "end_ms": 113118
+    },
+    {
+      "index": 24,
+      "text": "Every time.\"",
+      "start_ms": 113118,
+      "end_ms": 113927
+    },
+    {
+      "index": 25,
+      "text": "Inside the cabin, his father lit the stove.",
+      "start_ms": 113927,
+      "end_ms": 116472
+    },
+    {
+      "index": 26,
+      "text": "It was already getting cold.",
+      "start_ms": 116472,
+      "end_ms": 118149
+    },
+    {
+      "index": 27,
+      "text": "Diego set his bag down on the small bed in the second room, which would be his for the two weeks.",
+      "start_ms": 118149,
+      "end_ms": 123817
+    },
+    {
+      "index": 28,
+      "text": "He noticed things he had not noticed on his last visit, when he had been eight.",
+      "start_ms": 123817,
+      "end_ms": 128443
+    },
+    {
+      "index": 29,
+      "text": "On the wall of the main room there was a hand-drawn star chart, pinned up with tacks.",
+      "start_ms": 128443,
+      "end_ms": 133417
+    },
+    {
+      "index": 30,
+      "text": "It was old, and the paper had gone yellow at the edges.",
+      "start_ms": 133417,
+      "end_ms": 136656
+    },
+    {
+      "index": 31,
+      "text": "On another wall there was a shelf with photographs — his grandfather, whom Diego had never met.",
+      "start_ms": 136656,
+      "end_ms": 142207
+    },
+    {
+      "index": 32,
+      "text": "His great-grandmother.",
+      "start_ms": 142207,
+      "end_ms": 143538
+    },
+    {
+      "index": 33,
+      "text": "A picture of Diego and his father together, when Diego was a baby.",
+      "start_ms": 143538,
+      "end_ms": 147412
+    },
+    {
+      "index": 34,
+      "text": "His mother was not there.",
+      "start_ms": 147412,
+      "end_ms": 148916
+    },
+    {
+      "index": 35,
+      "text": "His parents had been separated since Diego was three.",
+      "start_ms": 148916,
+      "end_ms": 152097
+    },
+    {
+      "index": 36,
+      "text": "\"Papá,\" said Diego.",
+      "start_ms": 152097,
+      "end_ms": 153253
+    },
+    {
+      "index": 37,
+      "text": "He had been meaning to ask this on the drive up, but he had not found the right moment.",
+      "start_ms": 153253,
+      "end_ms": 158343
+    },
+    {
+      "index": 38,
+      "text": "\"When are you moving to Santiago.\" His father was hanging up his coat.",
+      "start_ms": 158343,
+      "end_ms": 162449
+    },
+    {
+      "index": 39,
+      "text": "He did not turn around.",
+      "start_ms": 162449,
+      "end_ms": 163837
+    },
+    {
+      "index": 40,
+      "text": "\"October,\" he said.",
+      "start_ms": 163837,
+      "end_ms": 164993
+    },
+    {
+      "index": 41,
+      "text": "\"So this is our last summer up here.\" \"Yes,\" said his father.",
+      "start_ms": 164993,
+      "end_ms": 168579
+    },
+    {
+      "index": 42,
+      "text": "\"This is our last summer here.\"",
+      "start_ms": 168579,
+      "end_ms": 170488
+    },
+    {
+      "index": 43,
+      "text": "Diego sat down on the edge of the bed.",
+      "start_ms": 170488,
+      "end_ms": 172743
+    },
+    {
+      "index": 44,
+      "text": "He was not sad exactly, because his father moving to Santiago was a good thing — Santiago was where Diego lived, with his mother, and it meant he would see his father much more often, not just twice a year.",
+      "start_ms": 172743,
+      "end_ms": 184714
+    },
+    {
+      "index": 45,
+      "text": "But he had been thinking about the mountain for a long time.",
+      "start_ms": 184714,
+      "end_ms": 188242
+    },
+    {
+      "index": 46,
+      "text": "He had made a plan for this trip.",
+      "start_ms": 188242,
+      "end_ms": 190208
+    },
+    {
+      "index": 47,
+      "text": "He had made lists of things he wanted to see with his father before it was too late.",
+      "start_ms": 190208,
+      "end_ms": 195124
+    },
+    {
+      "index": 48,
+      "text": "And now he was here, and there were only two weeks, and he did not know how to start.",
+      "start_ms": 195124,
+      "end_ms": 200040
+    },
+    {
+      "index": 49,
+      "text": "His father came in and sat down next to him.",
+      "start_ms": 200040,
+      "end_ms": 202827
+    },
+    {
+      "index": 50,
+      "text": "He was still wearing his boots.",
+      "start_ms": 202827,
+      "end_ms": 204808
+    },
+    {
+      "index": 51,
+      "text": "\"Diego,\" he said.",
+      "start_ms": 204808,
+      "end_ms": 205923
+    },
+    {
+      "index": 52,
+      "text": "\"Listen.",
+      "start_ms": 205923,
+      "end_ms": 206480
+    },
+    {
+      "index": 53,
+      "text": "I know this is a strange trip.",
+      "start_ms": 206480,
+      "end_ms": 208400
+    },
+    {
+      "index": 54,
+      "text": "Everything up here you and I will do this time will be the last time we do it.",
+      "start_ms": 208400,
+      "end_ms": 213292
+    },
+    {
+      "index": 55,
+      "text": "That is a lot to carry.",
+      "start_ms": 213292,
+      "end_ms": 214778
+    },
+    {
+      "index": 56,
+      "text": "But I want to do something specific with you this summer, if you're willing.",
+      "start_ms": 214778,
+      "end_ms": 219546
+    },
+    {
+      "index": 57,
+      "text": "Something I should have done with you already, and I kept waiting because you were young.",
+      "start_ms": 219546,
+      "end_ms": 225120
+    },
+    {
+      "index": 58,
+      "text": "I'm going to teach you our stars.\"",
+      "start_ms": 225120,
+      "end_ms": 227349
+    },
+    {
+      "index": 59,
+      "text": "His father stood up and went to the chart on the wall.",
+      "start_ms": 227349,
+      "end_ms": 230755
+    },
+    {
+      "index": 60,
+      "text": "He took it down and brought it to the small kitchen table, and Diego sat across from him.",
+      "start_ms": 230755,
+      "end_ms": 236328
+    },
+    {
+      "index": 61,
+      "text": "His father spread the chart flat.",
+      "start_ms": 236328,
+      "end_ms": 238433
+    },
+    {
+      "index": 62,
+      "text": "In the middle of it, drawn in careful pencil around a specific pattern of stars, there was a circle.",
+      "start_ms": 238433,
+      "end_ms": 244688
+    },
+    {
+      "index": 63,
+      "text": "\"This,\" his father said.",
+      "start_ms": 244688,
+      "end_ms": 246236
+    },
+    {
+      "index": 64,
+      "text": "\"This is what we watch.",
+      "start_ms": 246236,
+      "end_ms": 247722
+    },
+    {
+      "index": 65,
+      "text": "My father showed me.",
+      "start_ms": 247722,
+      "end_ms": 249022
+    },
+    {
+      "index": 66,
+      "text": "His mother showed him.",
+      "start_ms": 249022,
+      "end_ms": 250447
+    },
+    {
+      "index": 67,
+      "text": "Her father showed her.",
+      "start_ms": 250447,
+      "end_ms": 251871
+    },
+    {
+      "index": 68,
+      "text": "Four generations.",
+      "start_ms": 251871,
+      "end_ms": 252986
+    },
+    {
+      "index": 69,
+      "text": "Nobody outside our family has seen this chart.",
+      "start_ms": 252986,
+      "end_ms": 255896
+    },
+    {
+      "index": 70,
+      "text": "It is not a real constellation.",
+      "start_ms": 255896,
+      "end_ms": 257878
+    },
+    {
+      "index": 71,
+      "text": "The astronomers do not call it anything.",
+      "start_ms": 257878,
+      "end_ms": 260417
+    },
+    {
+      "index": 72,
+      "text": "But we do.\"",
+      "start_ms": 260417,
+      "end_ms": 261222
+    },
+    {
+      "index": 73,
+      "text": "Diego leaned in.",
+      "start_ms": 261222,
+      "end_ms": 262274
+    },
+    {
+      "index": 74,
+      "text": "The circle contained the four stars of the Southern Cross, and also five or six other stars nearby, in a shape he could not quite make out.",
+      "start_ms": 262274,
+      "end_ms": 270944
+    },
+    {
+      "index": 75,
+      "text": "\"What is it called,\" he asked.",
+      "start_ms": 270944,
+      "end_ms": 272864
+    },
+    {
+      "index": 76,
+      "text": "His father smiled.",
+      "start_ms": 272864,
+      "end_ms": 274040
+    },
+    {
+      "index": 77,
+      "text": "\"It does not have a name.",
+      "start_ms": 274040,
+      "end_ms": 275650
+    },
+    {
+      "index": 78,
+      "text": "Every person in the family has to make up their own name for it.",
+      "start_ms": 275650,
+      "end_ms": 279675
+    },
+    {
+      "index": 79,
+      "text": "That is one of the rules.\" \"There are rules?\" \"Yes,\" said his father.",
+      "start_ms": 279675,
+      "end_ms": 284010
+    },
+    {
+      "index": 80,
+      "text": "\"There are three.",
+      "start_ms": 284010,
+      "end_ms": 285125
+    },
+    {
+      "index": 81,
+      "text": "And every generation adds a story.",
+      "start_ms": 285125,
+      "end_ms": 287292
+    },
+    {
+      "index": 82,
+      "text": "I will tell you the four stories tonight.",
+      "start_ms": 287292,
+      "end_ms": 289893
+    },
+    {
+      "index": 83,
+      "text": "And you have until we leave in two weeks to think of the fifth.\"",
+      "start_ms": 289893,
+      "end_ms": 293856
+    }
+  ]
+}

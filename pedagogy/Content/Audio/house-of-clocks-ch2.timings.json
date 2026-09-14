@@ -1,0 +1,349 @@
+{
+  "story_id": "house-of-clocks",
+  "chapter": 2,
+  "total_duration_ms": 127560,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Wren did not move.",
+      "start_ms": 2160,
+      "end_ms": 3394
+    },
+    {
+      "index": 1,
+      "text": "She was standing in the hallway.",
+      "start_ms": 3394,
+      "end_ms": 5431
+    },
+    {
+      "index": 2,
+      "text": "She did not remember getting out of bed.",
+      "start_ms": 5431,
+      "end_ms": 7961
+    },
+    {
+      "index": 3,
+      "text": "She did not remember walking down the stairs.",
+      "start_ms": 7961,
+      "end_ms": 10800
+    },
+    {
+      "index": 4,
+      "text": "But she was there now, in the dark, in her nightgown, facing the wall at the end of the corridor.",
+      "start_ms": 10800,
+      "end_ms": 16910
+    },
+    {
+      "index": 5,
+      "text": "The backwards clock was just above her head.",
+      "start_ms": 16910,
+      "end_ms": 19749
+    },
+    {
+      "index": 6,
+      "text": "Behind her, she could feel something.",
+      "start_ms": 19749,
+      "end_ms": 22094
+    },
+    {
+      "index": 7,
+      "text": "Not a hand.",
+      "start_ms": 22094,
+      "end_ms": 22834
+    },
+    {
+      "index": 8,
+      "text": "Not a breath.",
+      "start_ms": 22834,
+      "end_ms": 23698
+    },
+    {
+      "index": 9,
+      "text": "Just the sense that the hallway, which should have been empty, was not.",
+      "start_ms": 23698,
+      "end_ms": 28203
+    },
+    {
+      "index": 10,
+      "text": "\"Please.\"",
+      "start_ms": 28203,
+      "end_ms": 28882
+    },
+    {
+      "index": 11,
+      "text": "The voice was so soft that Wren was not sure she had heard it.",
+      "start_ms": 28882,
+      "end_ms": 32770
+    },
+    {
+      "index": 12,
+      "text": "It was a child's voice.",
+      "start_ms": 32770,
+      "end_ms": 34251
+    },
+    {
+      "index": 13,
+      "text": "A boy, she thought.",
+      "start_ms": 34251,
+      "end_ms": 35486
+    },
+    {
+      "index": 14,
+      "text": "Younger than her, maybe eight or nine.",
+      "start_ms": 35486,
+      "end_ms": 37954
+    },
+    {
+      "index": 15,
+      "text": "\"Please.",
+      "start_ms": 37954,
+      "end_ms": 38510
+    },
+    {
+      "index": 16,
+      "text": "I need help.\"",
+      "start_ms": 38510,
+      "end_ms": 39435
+    },
+    {
+      "index": 17,
+      "text": "Wren swallowed.",
+      "start_ms": 39435,
+      "end_ms": 40423
+    },
+    {
+      "index": 18,
+      "text": "Every part of her wanted to turn around.",
+      "start_ms": 40423,
+      "end_ms": 42953
+    },
+    {
+      "index": 19,
+      "text": "Every part of her remembered what Great-Aunt Marlow had said.",
+      "start_ms": 42953,
+      "end_ms": 46779
+    },
+    {
+      "index": 20,
+      "text": "She kept her eyes on the backwards clock and did not move.",
+      "start_ms": 46779,
+      "end_ms": 50482
+    },
+    {
+      "index": 21,
+      "text": "\"Who are you?\" she whispered.",
+      "start_ms": 50482,
+      "end_ms": 52395
+    },
+    {
+      "index": 22,
+      "text": "\"I don't know,\" said the boy.",
+      "start_ms": 52395,
+      "end_ms": 54247
+    },
+    {
+      "index": 23,
+      "text": "\"I don't remember.",
+      "start_ms": 54247,
+      "end_ms": 55419
+    },
+    {
+      "index": 24,
+      "text": "I've been in the clock so long that I forgot.\"",
+      "start_ms": 55419,
+      "end_ms": 58382
+    },
+    {
+      "index": 25,
+      "text": "\"The clock?\"",
+      "start_ms": 58382,
+      "end_ms": 59246
+    },
+    {
+      "index": 26,
+      "text": "\"The backwards one.",
+      "start_ms": 59246,
+      "end_ms": 60480
+    },
+    {
+      "index": 27,
+      "text": "My great-grandfather made it, and then something went wrong, and I got — stuck.",
+      "start_ms": 60480,
+      "end_ms": 65417
+    },
+    {
+      "index": 28,
+      "text": "I only come out when it strikes thirteen.",
+      "start_ms": 65417,
+      "end_ms": 68009
+    },
+    {
+      "index": 29,
+      "text": "I only have a minute.",
+      "start_ms": 68009,
+      "end_ms": 69367
+    },
+    {
+      "index": 30,
+      "text": "Please.\"",
+      "start_ms": 69367,
+      "end_ms": 69984
+    },
+    {
+      "index": 31,
+      "text": "Wren realized she was holding her breath.",
+      "start_ms": 69984,
+      "end_ms": 72576
+    },
+    {
+      "index": 32,
+      "text": "She let it out, very slowly.",
+      "start_ms": 72576,
+      "end_ms": 74427
+    },
+    {
+      "index": 33,
+      "text": "\"How do I help you?\" she asked.",
+      "start_ms": 74427,
+      "end_ms": 76464
+    },
+    {
+      "index": 34,
+      "text": "\"There is a key,\" the boy said, and his voice was getting quieter.",
+      "start_ms": 76464,
+      "end_ms": 80599
+    },
+    {
+      "index": 35,
+      "text": "\"The key that winds the backwards clock.",
+      "start_ms": 80599,
+      "end_ms": 83129
+    },
+    {
+      "index": 36,
+      "text": "If you can find it, and turn it the right way, the clock will run forward again.",
+      "start_ms": 83129,
+      "end_ms": 88128
+    },
+    {
+      "index": 37,
+      "text": "And I will be free.\"",
+      "start_ms": 88128,
+      "end_ms": 89486
+    },
+    {
+      "index": 38,
+      "text": "\"Where is the key?\"",
+      "start_ms": 89486,
+      "end_ms": 90782
+    },
+    {
+      "index": 39,
+      "text": "There was a long silence.",
+      "start_ms": 90782,
+      "end_ms": 92386
+    },
+    {
+      "index": 40,
+      "text": "Wren thought he might have gone.",
+      "start_ms": 92386,
+      "end_ms": 94423
+    },
+    {
+      "index": 41,
+      "text": "Then, right at her ear, so quiet it was almost a thought:",
+      "start_ms": 94423,
+      "end_ms": 98064
+    },
+    {
+      "index": 42,
+      "text": "\"It's in Great-Aunt Marlow's bedroom.",
+      "start_ms": 98064,
+      "end_ms": 100409
+    },
+    {
+      "index": 43,
+      "text": "In the music box on her dresser.\"",
+      "start_ms": 100409,
+      "end_ms": 102569
+    },
+    {
+      "index": 44,
+      "text": "Wren's heart sank.",
+      "start_ms": 102569,
+      "end_ms": 103803
+    },
+    {
+      "index": 45,
+      "text": "\"But she can never know,\" the boy whispered.",
+      "start_ms": 103803,
+      "end_ms": 106581
+    },
+    {
+      "index": 46,
+      "text": "\"She would stop you.",
+      "start_ms": 106581,
+      "end_ms": 107877
+    },
+    {
+      "index": 47,
+      "text": "Please.",
+      "start_ms": 107877,
+      "end_ms": 108370
+    },
+    {
+      "index": 48,
+      "text": "Promise me.\"",
+      "start_ms": 108370,
+      "end_ms": 109234
+    },
+    {
+      "index": 49,
+      "text": "\"Why would she stop me?\"",
+      "start_ms": 109234,
+      "end_ms": 110839
+    },
+    {
+      "index": 50,
+      "text": "But the boy did not answer.",
+      "start_ms": 110839,
+      "end_ms": 112567
+    },
+    {
+      "index": 51,
+      "text": "The pressure behind her — the not-quite-breath, the not-quite-hand — was gone.",
+      "start_ms": 112567,
+      "end_ms": 117504
+    },
+    {
+      "index": 52,
+      "text": "Slowly, slowly, Wren turned around.",
+      "start_ms": 117504,
+      "end_ms": 119664
+    },
+    {
+      "index": 53,
+      "text": "The hallway was empty.",
+      "start_ms": 119664,
+      "end_ms": 121271
+    },
+    {
+      "index": 54,
+      "text": "The clocks ticked their soft rain.",
+      "start_ms": 121271,
+      "end_ms": 123717
+    },
+    {
+      "index": 55,
+      "text": "The moonlight lay quietly on the floor.",
+      "start_ms": 123717,
+      "end_ms": 126582
+    },
+    {
+      "index": 56,
+      "text": "She was alone.",
+      "start_ms": 126582,
+      "end_ms": 127560
+    }
+  ]
+}

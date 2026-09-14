@@ -1,0 +1,691 @@
+{
+  "story_id": "hut-on-the-strait",
+  "chapter": 3,
+  "total_duration_ms": 386304,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "He lifted the wooden latch, slowly, so it would not click.",
+      "start_ms": 1915,
+      "end_ms": 5682
+    },
+    {
+      "index": 1,
+      "text": "He opened the door a hand's-width.",
+      "start_ms": 5682,
+      "end_ms": 7917
+    },
+    {
+      "index": 2,
+      "text": "Cold moonlight came in.",
+      "start_ms": 7917,
+      "end_ms": 9449
+    },
+    {
+      "index": 3,
+      "text": "The rain was almost done.",
+      "start_ms": 9449,
+      "end_ms": 11109
+    },
+    {
+      "index": 4,
+      "text": "He looked out.",
+      "start_ms": 11109,
+      "end_ms": 12131
+    },
+    {
+      "index": 5,
+      "text": "There was no one there.",
+      "start_ms": 12131,
+      "end_ms": 13663
+    },
+    {
+      "index": 6,
+      "text": "The narrow strip of grass between the hut and the birches was empty.",
+      "start_ms": 13663,
+      "end_ms": 18068
+    },
+    {
+      "index": 7,
+      "text": "He pushed the door open a bit more and looked to both sides.",
+      "start_ms": 18068,
+      "end_ms": 21963
+    },
+    {
+      "index": 8,
+      "text": "Nobody.",
+      "start_ms": 21963,
+      "end_ms": 22474
+    },
+    {
+      "index": 9,
+      "text": "But the bell rang again, softly, behind him.",
+      "start_ms": 22474,
+      "end_ms": 25347
+    },
+    {
+      "index": 10,
+      "text": "Whoever was pulling was not a person standing at the door.",
+      "start_ms": 25347,
+      "end_ms": 29177
+    },
+    {
+      "index": 11,
+      "text": "Kaarel stepped outside.",
+      "start_ms": 29177,
+      "end_ms": 30710
+    },
+    {
+      "index": 12,
+      "text": "He felt his way around the side of the hut.",
+      "start_ms": 30710,
+      "end_ms": 33519
+    },
+    {
+      "index": 13,
+      "text": "The moon was mostly clear now, low but enough to see.",
+      "start_ms": 33519,
+      "end_ms": 36966
+    },
+    {
+      "index": 14,
+      "text": "He looked up at the wall of the hut where the little hole was drilled — where the rope from the bell disappeared.",
+      "start_ms": 36966,
+      "end_ms": 44245
+    },
+    {
+      "index": 15,
+      "text": "The rope came out of the hole and ran down the outside wall of the hut, held with two rusty staples.",
+      "start_ms": 44245,
+      "end_ms": 50693
+    },
+    {
+      "index": 16,
+      "text": "Then it ran along the ground, disappearing into the wet grass, going away from the hut.",
+      "start_ms": 50693,
+      "end_ms": 56375
+    },
+    {
+      "index": 17,
+      "text": "Kaarel followed it.",
+      "start_ms": 56375,
+      "end_ms": 57652
+    },
+    {
+      "index": 18,
+      "text": "Ten steps.",
+      "start_ms": 57652,
+      "end_ms": 58355
+    },
+    {
+      "index": 19,
+      "text": "Twenty.",
+      "start_ms": 58355,
+      "end_ms": 58865
+    },
+    {
+      "index": 20,
+      "text": "He came out from behind the birches.",
+      "start_ms": 58865,
+      "end_ms": 61228
+    },
+    {
+      "index": 21,
+      "text": "And then he stopped.",
+      "start_ms": 61228,
+      "end_ms": 62568
+    },
+    {
+      "index": 22,
+      "text": "The sea, which had been fifty meters away from the hut when they arrived, was now maybe fifteen meters away.",
+      "start_ms": 62568,
+      "end_ms": 69527
+    },
+    {
+      "index": 23,
+      "text": "The tide had come up much higher than his father had thought it would.",
+      "start_ms": 69527,
+      "end_ms": 74061
+    },
+    {
+      "index": 24,
+      "text": "And there, at the very edge of the water, tied to the end of the rope, a small dark round buoy — the kind fishermen used to mark nets — was bobbing in the rising water.",
+      "start_ms": 74061,
+      "end_ms": 84850
+    },
+    {
+      "index": 25,
+      "text": "When the sea lifted the buoy, the rope pulled, and the bell inside the hut rang.",
+      "start_ms": 84850,
+      "end_ms": 90022
+    },
+    {
+      "index": 26,
+      "text": "When the sea dropped it, the rope went slack.",
+      "start_ms": 90022,
+      "end_ms": 92959
+    },
+    {
+      "index": 27,
+      "text": "It was ringing because the water was still coming up.",
+      "start_ms": 92959,
+      "end_ms": 96470
+    },
+    {
+      "index": 28,
+      "text": "Kaarel ran back to the hut.",
+      "start_ms": 96470,
+      "end_ms": 98258
+    },
+    {
+      "index": 29,
+      "text": "He shook his father awake.",
+      "start_ms": 98258,
+      "end_ms": 99982
+    },
+    {
+      "index": 30,
+      "text": "He said, \"The bell.",
+      "start_ms": 99982,
+      "end_ms": 101259
+    },
+    {
+      "index": 31,
+      "text": "Someone rigged it to the sea.",
+      "start_ms": 101259,
+      "end_ms": 103174
+    },
+    {
+      "index": 32,
+      "text": "To the tide.",
+      "start_ms": 103174,
+      "end_ms": 104004
+    },
+    {
+      "index": 33,
+      "text": "The water is coming up.",
+      "start_ms": 104004,
+      "end_ms": 105536
+    },
+    {
+      "index": 34,
+      "text": "Come and look.\" Priit was on his feet in seconds.",
+      "start_ms": 105536,
+      "end_ms": 108728
+    },
+    {
+      "index": 35,
+      "text": "He pulled on his jacket, still half asleep, and followed Kaarel outside.",
+      "start_ms": 108728,
+      "end_ms": 113389
+    },
+    {
+      "index": 36,
+      "text": "He saw the rope.",
+      "start_ms": 113389,
+      "end_ms": 114475
+    },
+    {
+      "index": 37,
+      "text": "He saw the buoy.",
+      "start_ms": 114475,
+      "end_ms": 115560
+    },
+    {
+      "index": 38,
+      "text": "He saw the sea.",
+      "start_ms": 115560,
+      "end_ms": 116581
+    },
+    {
+      "index": 39,
+      "text": "He was quiet for a moment.",
+      "start_ms": 116581,
+      "end_ms": 118305
+    },
+    {
+      "index": 40,
+      "text": "Then he said, softly, \"Ah.",
+      "start_ms": 118305,
+      "end_ms": 120029
+    },
+    {
+      "index": 41,
+      "text": "So that is what the bell is for.\"",
+      "start_ms": 120029,
+      "end_ms": 122136
+    },
+    {
+      "index": 42,
+      "text": "They stood looking at it together.",
+      "start_ms": 122136,
+      "end_ms": 124435
+    },
+    {
+      "index": 43,
+      "text": "Priit said, \"Someone rigged this.",
+      "start_ms": 124435,
+      "end_ms": 126668
+    },
+    {
+      "index": 44,
+      "text": "Someone who knew that on nights like this the water comes up above the beach and can reach the hut.",
+      "start_ms": 126668,
+      "end_ms": 133237
+    },
+    {
+      "index": 45,
+      "text": "Someone who knew that a person sleeping in the hut would not know.",
+      "start_ms": 133237,
+      "end_ms": 137638
+    },
+    {
+      "index": 46,
+      "text": "They rigged the bell so that when the water came up past the buoy, the bell would ring and wake them up.",
+      "start_ms": 137638,
+      "end_ms": 144535
+    },
+    {
+      "index": 47,
+      "text": "It is a warning.",
+      "start_ms": 144535,
+      "end_ms": 145652
+    },
+    {
+      "index": 48,
+      "text": "It is not loud enough to wake you from outside — you would not hear it if you were in the boat.",
+      "start_ms": 145652,
+      "end_ms": 151957
+    },
+    {
+      "index": 49,
+      "text": "But if you are inside the hut, you hear it.",
+      "start_ms": 151957,
+      "end_ms": 154848
+    },
+    {
+      "index": 50,
+      "text": "And you wake up.\"",
+      "start_ms": 154848,
+      "end_ms": 156096
+    },
+    {
+      "index": 51,
+      "text": "They did not sleep in the hut again that night.",
+      "start_ms": 156096,
+      "end_ms": 159249
+    },
+    {
+      "index": 52,
+      "text": "Priit made Kaarel help him carry everything — the blankets, the emergency bag, the tea kettle — up a small path behind the hut to a small higher clearing among the birches.",
+      "start_ms": 159249,
+      "end_ms": 170612
+    },
+    {
+      "index": 53,
+      "text": "There was another very old stone circle up there, low, with a wooden roof over it — clearly meant for exactly this kind of night.",
+      "start_ms": 170612,
+      "end_ms": 179151
+    },
+    {
+      "index": 54,
+      "text": "Old cracked benches sat around a stone hearth.",
+      "start_ms": 179151,
+      "end_ms": 182239
+    },
+    {
+      "index": 55,
+      "text": "Priit built another small fire.",
+      "start_ms": 182239,
+      "end_ms": 184341
+    },
+    {
+      "index": 56,
+      "text": "They wrapped in the blankets and sat close to it and did not sleep, exactly, but they rested.",
+      "start_ms": 184341,
+      "end_ms": 190515
+    },
+    {
+      "index": 57,
+      "text": "Priit talked, quietly, about his great-uncle Toivo.",
+      "start_ms": 190515,
+      "end_ms": 193931
+    },
+    {
+      "index": 58,
+      "text": "He said, \"Maybe this is why he never came back.",
+      "start_ms": 193931,
+      "end_ms": 197084
+    },
+    {
+      "index": 59,
+      "text": "Maybe he had a night like this once and it did not go so well.",
+      "start_ms": 197084,
+      "end_ms": 201222
+    },
+    {
+      "index": 60,
+      "text": "Maybe the bell did not ring in time for him.",
+      "start_ms": 201222,
+      "end_ms": 204178
+    },
+    {
+      "index": 61,
+      "text": "I do not know.",
+      "start_ms": 204178,
+      "end_ms": 205163
+    },
+    {
+      "index": 62,
+      "text": "I will never know.",
+      "start_ms": 205163,
+      "end_ms": 206411
+    },
+    {
+      "index": 63,
+      "text": "But somebody, after him, made sure it would ring.\"",
+      "start_ms": 206411,
+      "end_ms": 209827
+    },
+    {
+      "index": 64,
+      "text": "They watched the tide.",
+      "start_ms": 209827,
+      "end_ms": 211337
+    },
+    {
+      "index": 65,
+      "text": "It came up another meter.",
+      "start_ms": 211337,
+      "end_ms": 213045
+    },
+    {
+      "index": 66,
+      "text": "It did not reach the hut.",
+      "start_ms": 213045,
+      "end_ms": 214753
+    },
+    {
+      "index": 67,
+      "text": "Around three in the morning, the water began to go back down.",
+      "start_ms": 214753,
+      "end_ms": 218760
+    },
+    {
+      "index": 68,
+      "text": "Morning was cold and clear.",
+      "start_ms": 218760,
+      "end_ms": 220696
+    },
+    {
+      "index": 69,
+      "text": "The Väinameri was flat again, pale grey, empty.",
+      "start_ms": 220696,
+      "end_ms": 224014
+    },
+    {
+      "index": 70,
+      "text": "The storm had passed.",
+      "start_ms": 224014,
+      "end_ms": 225535
+    },
+    {
+      "index": 71,
+      "text": "Priit went and looked at the motor.",
+      "start_ms": 225535,
+      "end_ms": 228024
+    },
+    {
+      "index": 72,
+      "text": "He took the cover off, dried a wet contact with the corner of his shirt, tightened one connection, and pulled the cord.",
+      "start_ms": 228024,
+      "end_ms": 236320
+    },
+    {
+      "index": 73,
+      "text": "It caught on the third pull.",
+      "start_ms": 236320,
+      "end_ms": 238325
+    },
+    {
+      "index": 74,
+      "text": "Kaarel refilled the kindling by the stove from the small dry shed behind the hut.",
+      "start_ms": 238325,
+      "end_ms": 243994
+    },
+    {
+      "index": 75,
+      "text": "He put the last two matches back in the tin on top of the stove.",
+      "start_ms": 243994,
+      "end_ms": 248488
+    },
+    {
+      "index": 76,
+      "text": "He hesitated.",
+      "start_ms": 248488,
+      "end_ms": 249456
+    },
+    {
+      "index": 77,
+      "text": "Then he took out one of his own — his father kept a spare packet in the emergency bag — and added it to the tin.",
+      "start_ms": 249456,
+      "end_ms": 257268
+    },
+    {
+      "index": 78,
+      "text": "Now there were three again.",
+      "start_ms": 257268,
+      "end_ms": 259204
+    },
+    {
+      "index": 79,
+      "text": "He shut the door behind him and dropped the latch.",
+      "start_ms": 259204,
+      "end_ms": 262799
+    },
+    {
+      "index": 80,
+      "text": "They rowed the boat back into the water, started the motor, and turned home.",
+      "start_ms": 262799,
+      "end_ms": 268122
+    },
+    {
+      "index": 81,
+      "text": "On the way, Kaarel asked, \"Who set up the bell?\" Priit said, \"I don't know.",
+      "start_ms": 268122,
+      "end_ms": 273377
+    },
+    {
+      "index": 82,
+      "text": "Somebody who came after Toivo.",
+      "start_ms": 273377,
+      "end_ms": 275520
+    },
+    {
+      "index": 83,
+      "text": "Maybe more than one somebody.",
+      "start_ms": 275520,
+      "end_ms": 277594
+    },
+    {
+      "index": 84,
+      "text": "Maybe it was repaired ten times over the years — nobody in particular kept doing it.",
+      "start_ms": 277594,
+      "end_ms": 283470
+    },
+    {
+      "index": 85,
+      "text": "That's how these things go.",
+      "start_ms": 283470,
+      "end_ms": 285406
+    },
+    {
+      "index": 86,
+      "text": "Ask around when we get back.",
+      "start_ms": 285406,
+      "end_ms": 287411
+    },
+    {
+      "index": 87,
+      "text": "Somebody in the village will know.\"",
+      "start_ms": 287411,
+      "end_ms": 289969
+    },
+    {
+      "index": 88,
+      "text": "They did ask.",
+      "start_ms": 289969,
+      "end_ms": 290937
+    },
+    {
+      "index": 89,
+      "text": "Two days later Priit stopped at the small store in the village on the mainland and asked an old man named Andres, who had lived on the Väinameri his entire life, about the bell in the Kesselaid hut.",
+      "start_ms": 290937,
+      "end_ms": 304695
+    },
+    {
+      "index": 90,
+      "text": "Andres nodded slowly.",
+      "start_ms": 304695,
+      "end_ms": 306216
+    },
+    {
+      "index": 91,
+      "text": "He said, \"Ah, yes.",
+      "start_ms": 306216,
+      "end_ms": 307529
+    },
+    {
+      "index": 92,
+      "text": "That bell.",
+      "start_ms": 307529,
+      "end_ms": 308290
+    },
+    {
+      "index": 93,
+      "text": "My uncle Enn set that up.",
+      "start_ms": 308290,
+      "end_ms": 310087
+    },
+    {
+      "index": 94,
+      "text": "About sixty years ago.",
+      "start_ms": 310087,
+      "end_ms": 311678
+    },
+    {
+      "index": 95,
+      "text": "He got caught in the hut once — bad summer storm, water rose two meters above ordinary tide — he barely got out.",
+      "start_ms": 311678,
+      "end_ms": 319490
+    },
+    {
+      "index": 96,
+      "text": "Rowed home in the dark half-drowned.",
+      "start_ms": 319490,
+      "end_ms": 322048
+    },
+    {
+      "index": 97,
+      "text": "A week later he went back with the bell and the rope and the buoy, and set it up.",
+      "start_ms": 322048,
+      "end_ms": 327717
+    },
+    {
+      "index": 98,
+      "text": "He wanted anyone who came after him to have a warning.",
+      "start_ms": 327717,
+      "end_ms": 331519
+    },
+    {
+      "index": 99,
+      "text": "He was one who kept it repaired every few years until he died.",
+      "start_ms": 331519,
+      "end_ms": 335875
+    },
+    {
+      "index": 100,
+      "text": "His grandson does it now.",
+      "start_ms": 335875,
+      "end_ms": 337672
+    },
+    {
+      "index": 101,
+      "text": "Once every three years, they go and check the rope.",
+      "start_ms": 337672,
+      "end_ms": 341267
+    },
+    {
+      "index": 102,
+      "text": "When the rope wears through, they replace it.",
+      "start_ms": 341267,
+      "end_ms": 344448
+    },
+    {
+      "index": 103,
+      "text": "When the buoy rots, they replace it.",
+      "start_ms": 344448,
+      "end_ms": 347006
+    },
+    {
+      "index": 104,
+      "text": "Nobody talks about it much.",
+      "start_ms": 347006,
+      "end_ms": 348941
+    },
+    {
+      "index": 105,
+      "text": "It is just what people do.\"",
+      "start_ms": 348941,
+      "end_ms": 350808
+    },
+    {
+      "index": 106,
+      "text": "Kaarel thought about that all the way home.",
+      "start_ms": 350808,
+      "end_ms": 353360
+    },
+    {
+      "index": 107,
+      "text": "He thought about it many times over that summer, and in the years after.",
+      "start_ms": 353360,
+      "end_ms": 357594
+    },
+    {
+      "index": 108,
+      "text": "That someone he had never met, sixty years ago, had thought about him.",
+      "start_ms": 357594,
+      "end_ms": 361712
+    },
+    {
+      "index": 109,
+      "text": "Not him exactly.",
+      "start_ms": 361712,
+      "end_ms": 362698
+    },
+    {
+      "index": 110,
+      "text": "But someone like him, who might one day be caught in a hut on a small islet with the water rising in the dark and no way to know.",
+      "start_ms": 362698,
+      "end_ms": 370238
+    },
+    {
+      "index": 111,
+      "text": "And that a chain of people, none of whom had ever met each other, had kept the bell working, just in case.",
+      "start_ms": 370238,
+      "end_ms": 376444
+    },
+    {
+      "index": 112,
+      "text": "He never forgot it.",
+      "start_ms": 376444,
+      "end_ms": 377604
+    },
+    {
+      "index": 113,
+      "text": "It was the first time in his life he understood that kindness could go forward through time, like a light left on for someone who had not yet arrived.",
+      "start_ms": 377604,
+      "end_ms": 386304
+    }
+  ]
+}

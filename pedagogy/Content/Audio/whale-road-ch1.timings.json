@@ -1,0 +1,625 @@
+{
+  "story_id": "whale-road",
+  "chapter": 1,
+  "total_duration_ms": 346224,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Vidar lived with his grandfather Bjarni on a small island in the northern Faroes.",
+      "start_ms": 1785,
+      "end_ms": 6508
+    },
+    {
+      "index": 1,
+      "text": "There were only three houses on the whole island, and one of them belonged to Vidar and his grandfather, and the other two belonged to families who came only in the summer.",
+      "start_ms": 6508,
+      "end_ms": 16472
+    },
+    {
+      "index": 2,
+      "text": "In the winter, when Vidar and Bjarni were often the only people on the island, the wind blew across the sea for a thousand kilometers from Iceland with nothing to break it, and the small red-roofed cottage shook, and the sheep in the pens made small unhappy sounds all night.",
+      "start_ms": 16472,
+      "end_ms": 32367
+    },
+    {
+      "index": 3,
+      "text": "Vidar loved it more than any place in the world.",
+      "start_ms": 32367,
+      "end_ms": 35247
+    },
+    {
+      "index": 4,
+      "text": "He was ten years old.",
+      "start_ms": 35247,
+      "end_ms": 36514
+    },
+    {
+      "index": 5,
+      "text": "His mother had died in a boating accident when he was three, and his father — who had never really been part of his life — lived far away in Denmark, and so Vidar had been raised by his grandfather.",
+      "start_ms": 36514,
+      "end_ms": 47975
+    },
+    {
+      "index": 6,
+      "text": "Bjarni was sixty-eight and small and wiry and had blue eyes so pale they looked almost silver, and he wore heavy fisherman's jumpers even in July, and he was, Vidar thought, the smartest man in the world.",
+      "start_ms": 47975,
+      "end_ms": 59839
+    },
+    {
+      "index": 7,
+      "text": "The story of the Petersen whale — that was what Bjarni called it, because Petersen was their family name — had been told to Vidar so many times that he knew it as well as he knew his own name.",
+      "start_ms": 59839,
+      "end_ms": 70955
+    },
+    {
+      "index": 8,
+      "text": "But he never got tired of hearing Bjarni tell it.",
+      "start_ms": 70955,
+      "end_ms": 73835
+    },
+    {
+      "index": 9,
+      "text": "Bjarni told stories very slowly, and he did not skip parts, and every time was the same as every other time.",
+      "start_ms": 73835,
+      "end_ms": 80112
+    },
+    {
+      "index": 10,
+      "text": "That was part of what made it a proper story.",
+      "start_ms": 80112,
+      "end_ms": 82704
+    },
+    {
+      "index": 11,
+      "text": "\"Once in every generation,\" Bjarni would say, sitting by the fire in the evening, \"a single killer whale — a big male, always — comes into our bay.",
+      "start_ms": 82704,
+      "end_ms": 93014
+    },
+    {
+      "index": 12,
+      "text": "Just one.",
+      "start_ms": 93014,
+      "end_ms": 93710
+    },
+    {
+      "index": 13,
+      "text": "He does not come with a pod.",
+      "start_ms": 93710,
+      "end_ms": 95731
+    },
+    {
+      "index": 14,
+      "text": "He is alone.",
+      "start_ms": 95731,
+      "end_ms": 96636
+    },
+    {
+      "index": 15,
+      "text": "He swims into the deep water right in front of the cottage.",
+      "start_ms": 96636,
+      "end_ms": 100816
+    },
+    {
+      "index": 16,
+      "text": "And he waits.",
+      "start_ms": 100816,
+      "end_ms": 101791
+    },
+    {
+      "index": 17,
+      "text": "He turns on his side.",
+      "start_ms": 101791,
+      "end_ms": 103324
+    },
+    {
+      "index": 18,
+      "text": "He lies at the surface with one eye out of the water.",
+      "start_ms": 103324,
+      "end_ms": 107085
+    },
+    {
+      "index": 19,
+      "text": "He looks at whoever is standing on the shore.",
+      "start_ms": 107085,
+      "end_ms": 110290
+    },
+    {
+      "index": 20,
+      "text": "And he listens.",
+      "start_ms": 110290,
+      "end_ms": 111404
+    },
+    {
+      "index": 21,
+      "text": "If the person on the shore knows the song — the song that our family has known for more than three hundred years, that my mother taught me, and her father taught her — if the person sings it, the whale stays.",
+      "start_ms": 111404,
+      "end_ms": 125963
+    },
+    {
+      "index": 22,
+      "text": "He listens to the whole song.",
+      "start_ms": 125963,
+      "end_ms": 128053
+    },
+    {
+      "index": 23,
+      "text": "Then he goes.",
+      "start_ms": 128053,
+      "end_ms": 129028
+    },
+    {
+      "index": 24,
+      "text": "And that is the last time he comes for that generation.",
+      "start_ms": 129028,
+      "end_ms": 132929
+    },
+    {
+      "index": 25,
+      "text": "It will be sixty or seventy years before another one comes.\"",
+      "start_ms": 132929,
+      "end_ms": 137248
+    },
+    {
+      "index": 26,
+      "text": "\"How do we know it will come,\" Vidar had asked, the first time he had heard the story properly, when he was six.",
+      "start_ms": 137248,
+      "end_ms": 145120
+    },
+    {
+      "index": 27,
+      "text": "\"You do not know exactly when,\" Bjarni had said.",
+      "start_ms": 145120,
+      "end_ms": 148533
+    },
+    {
+      "index": 28,
+      "text": "\"You know that it comes about once every sixty or seventy years.",
+      "start_ms": 148533,
+      "end_ms": 153061
+    },
+    {
+      "index": 29,
+      "text": "The last time was 1962.",
+      "start_ms": 153061,
+      "end_ms": 154733
+    },
+    {
+      "index": 30,
+      "text": "I was six years old.",
+      "start_ms": 154733,
+      "end_ms": 156196
+    },
+    {
+      "index": 31,
+      "text": "I was there with my mother.",
+      "start_ms": 156196,
+      "end_ms": 158146
+    },
+    {
+      "index": 32,
+      "text": "She sang for it.",
+      "start_ms": 158146,
+      "end_ms": 159331
+    },
+    {
+      "index": 33,
+      "text": "I stood beside her and I listened.",
+      "start_ms": 159331,
+      "end_ms": 161769
+    },
+    {
+      "index": 34,
+      "text": "I was afraid at first — a whale is very big — but she held my hand, and I stayed.",
+      "start_ms": 161769,
+      "end_ms": 167481
+    },
+    {
+      "index": 35,
+      "text": "She sang the whole song.",
+      "start_ms": 167481,
+      "end_ms": 169222
+    },
+    {
+      "index": 36,
+      "text": "He listened.",
+      "start_ms": 169222,
+      "end_ms": 170128
+    },
+    {
+      "index": 37,
+      "text": "Then he went.",
+      "start_ms": 170128,
+      "end_ms": 171103
+    },
+    {
+      "index": 38,
+      "text": "I have not seen another whale since.",
+      "start_ms": 171103,
+      "end_ms": 173681
+    },
+    {
+      "index": 39,
+      "text": "But it is time.",
+      "start_ms": 173681,
+      "end_ms": 174795
+    },
+    {
+      "index": 40,
+      "text": "It is sixty-two years now.",
+      "start_ms": 174795,
+      "end_ms": 176676
+    },
+    {
+      "index": 41,
+      "text": "Any summer now, he might come.",
+      "start_ms": 176676,
+      "end_ms": 178836
+    },
+    {
+      "index": 42,
+      "text": "And when he comes, you have to know the song.\"",
+      "start_ms": 178836,
+      "end_ms": 182040
+    },
+    {
+      "index": 43,
+      "text": "That was why Bjarni was teaching Vidar the song.",
+      "start_ms": 182040,
+      "end_ms": 185265
+    },
+    {
+      "index": 44,
+      "text": "He had been teaching him since Vidar was four.",
+      "start_ms": 185265,
+      "end_ms": 188358
+    },
+    {
+      "index": 45,
+      "text": "It was not a long song.",
+      "start_ms": 188358,
+      "end_ms": 189938
+    },
+    {
+      "index": 46,
+      "text": "Only two verses.",
+      "start_ms": 189938,
+      "end_ms": 191057
+    },
+    {
+      "index": 47,
+      "text": "But the tune was in the old Faroese style, which is very different from modern music — the notes went in patterns that were not the way songs were built anymore, and there was a specific way you had to hold each note, longer than felt natural.",
+      "start_ms": 191057,
+      "end_ms": 207116
+    },
+    {
+      "index": 48,
+      "text": "Bjarni was very patient.",
+      "start_ms": 207116,
+      "end_ms": 208761
+    },
+    {
+      "index": 49,
+      "text": "He taught it a small piece at a time.",
+      "start_ms": 208761,
+      "end_ms": 211262
+    },
+    {
+      "index": 50,
+      "text": "Every winter evening they practiced.",
+      "start_ms": 211262,
+      "end_ms": 213697
+    },
+    {
+      "index": 51,
+      "text": "Vidar had known the whole song, both verses, since he was seven.",
+      "start_ms": 213697,
+      "end_ms": 217975
+    },
+    {
+      "index": 52,
+      "text": "Now he was ten, and he could sing it in his sleep.",
+      "start_ms": 217975,
+      "end_ms": 221397
+    },
+    {
+      "index": 53,
+      "text": "\"Slower,\" Bjarni would say.",
+      "start_ms": 221397,
+      "end_ms": 223240
+    },
+    {
+      "index": 54,
+      "text": "Or, \"You are singing that note too round.",
+      "start_ms": 223240,
+      "end_ms": 226004
+    },
+    {
+      "index": 55,
+      "text": "It should be flat.",
+      "start_ms": 226004,
+      "end_ms": 227255
+    },
+    {
+      "index": 56,
+      "text": "Almost sad.",
+      "start_ms": 227255,
+      "end_ms": 228045
+    },
+    {
+      "index": 57,
+      "text": "Like this.\" And he would demonstrate.",
+      "start_ms": 228045,
+      "end_ms": 230546
+    },
+    {
+      "index": 58,
+      "text": "Vidar would try again.",
+      "start_ms": 230546,
+      "end_ms": 232059
+    },
+    {
+      "index": 59,
+      "text": "Sometimes he got it right.",
+      "start_ms": 232059,
+      "end_ms": 233836
+    },
+    {
+      "index": 60,
+      "text": "Sometimes he did not.",
+      "start_ms": 233836,
+      "end_ms": 235284
+    },
+    {
+      "index": 61,
+      "text": "Bjarni never seemed to be impatient.",
+      "start_ms": 235284,
+      "end_ms": 237720
+    },
+    {
+      "index": 62,
+      "text": "He said, \"You have your whole childhood to learn it.",
+      "start_ms": 237720,
+      "end_ms": 241208
+    },
+    {
+      "index": 63,
+      "text": "That is more than enough time.",
+      "start_ms": 241208,
+      "end_ms": 243248
+    },
+    {
+      "index": 64,
+      "text": "It is not a song for a hurry.\"",
+      "start_ms": 243248,
+      "end_ms": 245354
+    },
+    {
+      "index": 65,
+      "text": "\"Grandpa,\" Vidar asked, that year he was ten.",
+      "start_ms": 245354,
+      "end_ms": 248382
+    },
+    {
+      "index": 66,
+      "text": "\"What is the song about?",
+      "start_ms": 248382,
+      "end_ms": 250027
+    },
+    {
+      "index": 67,
+      "text": "What do the words mean?\" Bjarni looked at him for a long moment.",
+      "start_ms": 250027,
+      "end_ms": 254305
+    },
+    {
+      "index": 68,
+      "text": "Then he said, \"The words are in old Faroese.",
+      "start_ms": 254305,
+      "end_ms": 257267
+    },
+    {
+      "index": 69,
+      "text": "Very old.",
+      "start_ms": 257267,
+      "end_ms": 257925
+    },
+    {
+      "index": 70,
+      "text": "Even in my time, people did not fully understand them.",
+      "start_ms": 257925,
+      "end_ms": 261545
+    },
+    {
+      "index": 71,
+      "text": "But my mother told me.",
+      "start_ms": 261545,
+      "end_ms": 263058
+    },
+    {
+      "index": 72,
+      "text": "She said the song is a — a kind of message to the whale.",
+      "start_ms": 263058,
+      "end_ms": 266810
+    },
+    {
+      "index": 73,
+      "text": "It says: We remember you.",
+      "start_ms": 266810,
+      "end_ms": 268521
+    },
+    {
+      "index": 74,
+      "text": "We are still here.",
+      "start_ms": 268521,
+      "end_ms": 269772
+    },
+    {
+      "index": 75,
+      "text": "Come and see us.",
+      "start_ms": 269772,
+      "end_ms": 270890
+    },
+    {
+      "index": 76,
+      "text": "Do not forget us.",
+      "start_ms": 270890,
+      "end_ms": 272075
+    },
+    {
+      "index": 77,
+      "text": "Something like that.",
+      "start_ms": 272075,
+      "end_ms": 273457
+    },
+    {
+      "index": 78,
+      "text": "It is not exactly translatable.",
+      "start_ms": 273457,
+      "end_ms": 275563
+    },
+    {
+      "index": 79,
+      "text": "But that is what it means.",
+      "start_ms": 275563,
+      "end_ms": 277340
+    },
+    {
+      "index": 80,
+      "text": "It is a promise to the whale that our family will still be watching for him.\"",
+      "start_ms": 277340,
+      "end_ms": 282408
+    },
+    {
+      "index": 81,
+      "text": "\"Grandpa,\" said Vidar.",
+      "start_ms": 282408,
+      "end_ms": 283882
+    },
+    {
+      "index": 82,
+      "text": "\"Is it — is it a real thing?",
+      "start_ms": 283882,
+      "end_ms": 285740
+    },
+    {
+      "index": 83,
+      "text": "Do you think it will really happen?\" Bjarni was quiet for a long time.",
+      "start_ms": 285740,
+      "end_ms": 290289
+    },
+    {
+      "index": 84,
+      "text": "He was looking out the window at the darkening bay.",
+      "start_ms": 290289,
+      "end_ms": 293621
+    },
+    {
+      "index": 85,
+      "text": "He said, \"It happened when I was six.",
+      "start_ms": 293621,
+      "end_ms": 296055
+    },
+    {
+      "index": 86,
+      "text": "It happened to my mother when she was eleven.",
+      "start_ms": 296055,
+      "end_ms": 299003
+    },
+    {
+      "index": 87,
+      "text": "It happened to her father when he was thirty.",
+      "start_ms": 299003,
+      "end_ms": 301950
+    },
+    {
+      "index": 88,
+      "text": "It happened to his mother when she was fifty-one.",
+      "start_ms": 301950,
+      "end_ms": 305154
+    },
+    {
+      "index": 89,
+      "text": "I have written down every time it happened in the family book.",
+      "start_ms": 305154,
+      "end_ms": 309190
+    },
+    {
+      "index": 90,
+      "text": "It always happens.",
+      "start_ms": 309190,
+      "end_ms": 310408
+    },
+    {
+      "index": 91,
+      "text": "It has always happened.",
+      "start_ms": 310408,
+      "end_ms": 311945
+    },
+    {
+      "index": 92,
+      "text": "Every single generation for at least three hundred years.",
+      "start_ms": 311945,
+      "end_ms": 315662
+    },
+    {
+      "index": 93,
+      "text": "Sometimes twice.\" He turned to Vidar.",
+      "start_ms": 315662,
+      "end_ms": 318096
+    },
+    {
+      "index": 94,
+      "text": "\"I do not know why.",
+      "start_ms": 318096,
+      "end_ms": 319378
+    },
+    {
+      "index": 95,
+      "text": "I do not know how a killer whale can live in a family memory the way ours has.",
+      "start_ms": 319378,
+      "end_ms": 324439
+    },
+    {
+      "index": 96,
+      "text": "But I know it has happened every time we have watched for it.",
+      "start_ms": 324439,
+      "end_ms": 328412
+    },
+    {
+      "index": 97,
+      "text": "And if it does not happen this generation, if we are the first Petersens in three hundred years that it does not come to — then something in the world will have changed.",
+      "start_ms": 328412,
+      "end_ms": 339304
+    },
+    {
+      "index": 98,
+      "text": "But I do not think that is going to happen.",
+      "start_ms": 339304,
+      "end_ms": 342123
+    },
+    {
+      "index": 99,
+      "text": "I think it will come.",
+      "start_ms": 342123,
+      "end_ms": 343533
+    },
+    {
+      "index": 100,
+      "text": "Very soon.",
+      "start_ms": 343533,
+      "end_ms": 344238
+    },
+    {
+      "index": 101,
+      "text": "Maybe this summer.",
+      "start_ms": 344238,
+      "end_ms": 345455
+    },
+    {
+      "index": 102,
+      "text": "Maybe next.\"",
+      "start_ms": 345455,
+      "end_ms": 346224
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "story_id": "owl-in-the-oak",
+  "chapter": 2,
+  "total_duration_ms": 331272,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "\"Mira,\" Opa said, the next afternoon at the cabin.",
+      "start_ms": 1457,
+      "end_ms": 4686
+    },
+    {
+      "index": 1,
+      "text": "\"I want to teach you something this summer.",
+      "start_ms": 4686,
+      "end_ms": 7472
+    },
+    {
+      "index": 2,
+      "text": "I want to teach you the sounds of the owl.",
+      "start_ms": 7472,
+      "end_ms": 10196
+    },
+    {
+      "index": 3,
+      "text": "Not just so you can hear them.",
+      "start_ms": 10196,
+      "end_ms": 12159
+    },
+    {
+      "index": 4,
+      "text": "So you can make them.",
+      "start_ms": 12159,
+      "end_ms": 13552
+    },
+    {
+      "index": 5,
+      "text": "So that you and she can — talk to each other, in a small way.",
+      "start_ms": 13552,
+      "end_ms": 17478
+    },
+    {
+      "index": 6,
+      "text": "Would you like to learn?\" Mira nodded.",
+      "start_ms": 17478,
+      "end_ms": 19948
+    },
+    {
+      "index": 7,
+      "text": "Opa reached into a small drawer of the wooden table.",
+      "start_ms": 19948,
+      "end_ms": 23304
+    },
+    {
+      "index": 8,
+      "text": "He took out two small wooden objects — each was a short tube, maybe as long as her finger, with a small hole in one end.",
+      "start_ms": 23304,
+      "end_ms": 30967
+    },
+    {
+      "index": 9,
+      "text": "They looked like tiny whistles.",
+      "start_ms": 30967,
+      "end_ms": 32993
+    },
+    {
+      "index": 10,
+      "text": "He gave her one.",
+      "start_ms": 32993,
+      "end_ms": 34133
+    },
+    {
+      "index": 11,
+      "text": "\"This is an owl call,\" he said.",
+      "start_ms": 34133,
+      "end_ms": 36159
+    },
+    {
+      "index": 12,
+      "text": "\"My father made them.",
+      "start_ms": 36159,
+      "end_ms": 37552
+    },
+    {
+      "index": 13,
+      "text": "He carved them from beech wood.",
+      "start_ms": 37552,
+      "end_ms": 39579
+    },
+    {
+      "index": 14,
+      "text": "He gave me mine when I was eight.",
+      "start_ms": 39579,
+      "end_ms": 41732
+    },
+    {
+      "index": 15,
+      "text": "Now I am giving you yours.",
+      "start_ms": 41732,
+      "end_ms": 43442
+    },
+    {
+      "index": 16,
+      "text": "There are three different calls a tawny owl uses.",
+      "start_ms": 43442,
+      "end_ms": 46608
+    },
+    {
+      "index": 17,
+      "text": "The most famous is the loud territorial call — the one everyone imitates, that goes hoo, ho ho ho, hooooo.",
+      "start_ms": 46608,
+      "end_ms": 53384
+    },
+    {
+      "index": 18,
+      "text": "That is the male call.",
+      "start_ms": 53384,
+      "end_ms": 54840
+    },
+    {
+      "index": 19,
+      "text": "The female has a shorter kewick sound.",
+      "start_ms": 54840,
+      "end_ms": 57310
+    },
+    {
+      "index": 20,
+      "text": "And there is a third one, a low soft trilling, that they only use when they are near each other, calmly.",
+      "start_ms": 57310,
+      "end_ms": 63959
+    },
+    {
+      "index": 21,
+      "text": "It is not really a call.",
+      "start_ms": 63959,
+      "end_ms": 65543
+    },
+    {
+      "index": 22,
+      "text": "It is more like — humming.",
+      "start_ms": 65543,
+      "end_ms": 67252
+    },
+    {
+      "index": 23,
+      "text": "A comfort sound.",
+      "start_ms": 67252,
+      "end_ms": 68329
+    },
+    {
+      "index": 24,
+      "text": "That one is the one I am going to teach you first.\"",
+      "start_ms": 68329,
+      "end_ms": 71685
+    },
+    {
+      "index": 25,
+      "text": "Opa demonstrated.",
+      "start_ms": 71685,
+      "end_ms": 72825
+    },
+    {
+      "index": 26,
+      "text": "He put the small wooden tube to his lips.",
+      "start_ms": 72825,
+      "end_ms": 75485
+    },
+    {
+      "index": 27,
+      "text": "He blew very softly.",
+      "start_ms": 75485,
+      "end_ms": 76815
+    },
+    {
+      "index": 28,
+      "text": "A small low trilling sound came out — like a purr, but airy.",
+      "start_ms": 76815,
+      "end_ms": 80678
+    },
+    {
+      "index": 29,
+      "text": "Two notes together, one low and one slightly higher.",
+      "start_ms": 80678,
+      "end_ms": 84034
+    },
+    {
+      "index": 30,
+      "text": "He held it for maybe three seconds.",
+      "start_ms": 84034,
+      "end_ms": 86314
+    },
+    {
+      "index": 31,
+      "text": "Then he lowered the tube.",
+      "start_ms": 86314,
+      "end_ms": 87960
+    },
+    {
+      "index": 32,
+      "text": "He said, \"Try.\" Mira tried.",
+      "start_ms": 87960,
+      "end_ms": 89733
+    },
+    {
+      "index": 33,
+      "text": "Air came out with no note.",
+      "start_ms": 89733,
+      "end_ms": 91443
+    },
+    {
+      "index": 34,
+      "text": "She tried again.",
+      "start_ms": 91443,
+      "end_ms": 92520
+    },
+    {
+      "index": 35,
+      "text": "The note came out too loud, too sharp.",
+      "start_ms": 92520,
+      "end_ms": 94989
+    },
+    {
+      "index": 36,
+      "text": "Opa did not laugh.",
+      "start_ms": 94989,
+      "end_ms": 96192
+    },
+    {
+      "index": 37,
+      "text": "He said, \"Softer.",
+      "start_ms": 96192,
+      "end_ms": 97332
+    },
+    {
+      "index": 38,
+      "text": "It is a comfort sound.",
+      "start_ms": 97332,
+      "end_ms": 98789
+    },
+    {
+      "index": 39,
+      "text": "It is barely a sound at all.",
+      "start_ms": 98789,
+      "end_ms": 100625
+    },
+    {
+      "index": 40,
+      "text": "Almost like breathing.\"",
+      "start_ms": 100625,
+      "end_ms": 102208
+    },
+    {
+      "index": 41,
+      "text": "She tried again.",
+      "start_ms": 102208,
+      "end_ms": 103285
+    },
+    {
+      "index": 42,
+      "text": "This time it was better.",
+      "start_ms": 103285,
+      "end_ms": 104868
+    },
+    {
+      "index": 43,
+      "text": "Not right, but closer.",
+      "start_ms": 104868,
+      "end_ms": 106325
+    },
+    {
+      "index": 44,
+      "text": "She practiced for maybe half an hour.",
+      "start_ms": 106325,
+      "end_ms": 108731
+    },
+    {
+      "index": 45,
+      "text": "By the end her lips were tired.",
+      "start_ms": 108731,
+      "end_ms": 110758
+    },
+    {
+      "index": 46,
+      "text": "But she had made the sound.",
+      "start_ms": 110758,
+      "end_ms": 112531
+    },
+    {
+      "index": 47,
+      "text": "Opa nodded.",
+      "start_ms": 112531,
+      "end_ms": 113291
+    },
+    {
+      "index": 48,
+      "text": "He said, \"Good.",
+      "start_ms": 113291,
+      "end_ms": 114304
+    },
+    {
+      "index": 49,
+      "text": "In two days we go back to the oak.",
+      "start_ms": 114304,
+      "end_ms": 116520
+    },
+    {
+      "index": 50,
+      "text": "In the evening.",
+      "start_ms": 116520,
+      "end_ms": 117533
+    },
+    {
+      "index": 51,
+      "text": "We will try it with her.",
+      "start_ms": 117533,
+      "end_ms": 119117
+    },
+    {
+      "index": 52,
+      "text": "We do not know if she will answer.",
+      "start_ms": 119117,
+      "end_ms": 121333
+    },
+    {
+      "index": 53,
+      "text": "She might.",
+      "start_ms": 121333,
+      "end_ms": 122030
+    },
+    {
+      "index": 54,
+      "text": "She might not.",
+      "start_ms": 122030,
+      "end_ms": 122979
+    },
+    {
+      "index": 55,
+      "text": "But we will try.\"",
+      "start_ms": 122979,
+      "end_ms": 124056
+    },
+    {
+      "index": 56,
+      "text": "They went back to the oak two days later.",
+      "start_ms": 124056,
+      "end_ms": 126861
+    },
+    {
+      "index": 57,
+      "text": "They sat on the log at the edge of the clearing.",
+      "start_ms": 126861,
+      "end_ms": 130133
+    },
+    {
+      "index": 58,
+      "text": "It was not quite dusk yet — the owl was probably still in her hollow.",
+      "start_ms": 130133,
+      "end_ms": 134808
+    },
+    {
+      "index": 59,
+      "text": "Opa said, \"You do it.",
+      "start_ms": 134808,
+      "end_ms": 136277
+    },
+    {
+      "index": 60,
+      "text": "I will be quiet.",
+      "start_ms": 136277,
+      "end_ms": 137412
+    },
+    {
+      "index": 61,
+      "text": "If you get an answer, it is you she is answering, not me.",
+      "start_ms": 137412,
+      "end_ms": 141286
+    },
+    {
+      "index": 62,
+      "text": "Just try.",
+      "start_ms": 141286,
+      "end_ms": 141953
+    },
+    {
+      "index": 63,
+      "text": "Do not be nervous.",
+      "start_ms": 141953,
+      "end_ms": 143222
+    },
+    {
+      "index": 64,
+      "text": "If nothing happens, we come back tomorrow.\" So Mira sat still.",
+      "start_ms": 143222,
+      "end_ms": 147429
+    },
+    {
+      "index": 65,
+      "text": "She put the small wooden tube to her lips.",
+      "start_ms": 147429,
+      "end_ms": 150301
+    },
+    {
+      "index": 66,
+      "text": "She thought about how the call was supposed to sound.",
+      "start_ms": 150301,
+      "end_ms": 153907
+    },
+    {
+      "index": 67,
+      "text": "She thought about the owl sitting in the hollow, listening to the forest around her, listening to everything at once.",
+      "start_ms": 153907,
+      "end_ms": 161787
+    },
+    {
+      "index": 68,
+      "text": "Then Mira blew, softly, the low trilling comfort sound.",
+      "start_ms": 161787,
+      "end_ms": 165594
+    },
+    {
+      "index": 69,
+      "text": "The forest was quiet.",
+      "start_ms": 165594,
+      "end_ms": 167063
+    },
+    {
+      "index": 70,
+      "text": "There was no answer.",
+      "start_ms": 167063,
+      "end_ms": 168465
+    },
+    {
+      "index": 71,
+      "text": "Mira waited.",
+      "start_ms": 168465,
+      "end_ms": 169334
+    },
+    {
+      "index": 72,
+      "text": "She tried again.",
+      "start_ms": 169334,
+      "end_ms": 170469
+    },
+    {
+      "index": 73,
+      "text": "Nothing.",
+      "start_ms": 170469,
+      "end_ms": 171070
+    },
+    {
+      "index": 74,
+      "text": "She waited.",
+      "start_ms": 171070,
+      "end_ms": 171871
+    },
+    {
+      "index": 75,
+      "text": "She tried a third time.",
+      "start_ms": 171871,
+      "end_ms": 173474
+    },
+    {
+      "index": 76,
+      "text": "And then, from inside the hollow — she could barely hear it — there was a small answering sound.",
+      "start_ms": 173474,
+      "end_ms": 179952
+    },
+    {
+      "index": 77,
+      "text": "Low.",
+      "start_ms": 179952,
+      "end_ms": 180286
+    },
+    {
+      "index": 78,
+      "text": "Airy.",
+      "start_ms": 180286,
+      "end_ms": 180686
+    },
+    {
+      "index": 79,
+      "text": "Two notes.",
+      "start_ms": 180686,
+      "end_ms": 181421
+    },
+    {
+      "index": 80,
+      "text": "The same trilling.",
+      "start_ms": 181421,
+      "end_ms": 182690
+    },
+    {
+      "index": 81,
+      "text": "Mira held her breath.",
+      "start_ms": 182690,
+      "end_ms": 184159
+    },
+    {
+      "index": 82,
+      "text": "She looked at Opa.",
+      "start_ms": 184159,
+      "end_ms": 185428
+    },
+    {
+      "index": 83,
+      "text": "Opa nodded very slowly.",
+      "start_ms": 185428,
+      "end_ms": 187031
+    },
+    {
+      "index": 84,
+      "text": "He was smiling but he was also being careful not to make a big deal of it.",
+      "start_ms": 187031,
+      "end_ms": 192039
+    },
+    {
+      "index": 85,
+      "text": "He was letting Mira just feel it.",
+      "start_ms": 192039,
+      "end_ms": 194310
+    },
+    {
+      "index": 86,
+      "text": "Mira looked back at the hollow.",
+      "start_ms": 194310,
+      "end_ms": 196447
+    },
+    {
+      "index": 87,
+      "text": "She blew the small sound again.",
+      "start_ms": 196447,
+      "end_ms": 198584
+    },
+    {
+      "index": 88,
+      "text": "And again — soft — the owl answered from inside.",
+      "start_ms": 198584,
+      "end_ms": 201923
+    },
+    {
+      "index": 89,
+      "text": "They did this three times.",
+      "start_ms": 201923,
+      "end_ms": 203726
+    },
+    {
+      "index": 90,
+      "text": "Each time the owl answered.",
+      "start_ms": 203726,
+      "end_ms": 205596
+    },
+    {
+      "index": 91,
+      "text": "On the fourth try she did not answer.",
+      "start_ms": 205596,
+      "end_ms": 208134
+    },
+    {
+      "index": 92,
+      "text": "Opa said, quietly, \"That is enough for today.",
+      "start_ms": 208134,
+      "end_ms": 211205
+    },
+    {
+      "index": 93,
+      "text": "Do not overdo it.",
+      "start_ms": 211205,
+      "end_ms": 212408
+    },
+    {
+      "index": 94,
+      "text": "She has her own life.",
+      "start_ms": 212408,
+      "end_ms": 213877
+    },
+    {
+      "index": 95,
+      "text": "She has answered enough.",
+      "start_ms": 213877,
+      "end_ms": 215546
+    },
+    {
+      "index": 96,
+      "text": "She said hello.",
+      "start_ms": 215546,
+      "end_ms": 216615
+    },
+    {
+      "index": 97,
+      "text": "Now we let her go.\" Mira agreed.",
+      "start_ms": 216615,
+      "end_ms": 218819
+    },
+    {
+      "index": 98,
+      "text": "She lowered the tube.",
+      "start_ms": 218819,
+      "end_ms": 220288
+    },
+    {
+      "index": 99,
+      "text": "She sat still for a while.",
+      "start_ms": 220288,
+      "end_ms": 222024
+    },
+    {
+      "index": 100,
+      "text": "They walked back to the cabin.",
+      "start_ms": 222024,
+      "end_ms": 224191
+    },
+    {
+      "index": 101,
+      "text": "On the way, Mira asked, \"Opa.",
+      "start_ms": 224191,
+      "end_ms": 226288
+    },
+    {
+      "index": 102,
+      "text": "Do you think she knew it was me.",
+      "start_ms": 226288,
+      "end_ms": 228594
+    },
+    {
+      "index": 103,
+      "text": "Or she just thought I was another owl.\" Opa thought about this.",
+      "start_ms": 228594,
+      "end_ms": 233068
+    },
+    {
+      "index": 104,
+      "text": "He said, \"She probably thought you were an owl.",
+      "start_ms": 233068,
+      "end_ms": 236423
+    },
+    {
+      "index": 105,
+      "text": "Or she was not sure and she answered just in case.",
+      "start_ms": 236423,
+      "end_ms": 239987
+    },
+    {
+      "index": 106,
+      "text": "She does not know it is you.",
+      "start_ms": 239987,
+      "end_ms": 242014
+    },
+    {
+      "index": 107,
+      "text": "She is an owl.",
+      "start_ms": 242014,
+      "end_ms": 243063
+    },
+    {
+      "index": 108,
+      "text": "But — and this is the strange part — you are now a person she has talked to.",
+      "start_ms": 243063,
+      "end_ms": 248445
+    },
+    {
+      "index": 109,
+      "text": "In her whole life, that is a very small number of people.",
+      "start_ms": 248445,
+      "end_ms": 252499
+    },
+    {
+      "index": 110,
+      "text": "Probably only me, my father, and now you.",
+      "start_ms": 252499,
+      "end_ms": 255434
+    },
+    {
+      "index": 111,
+      "text": "If she is really an owl who lives for sixty-eight years, that is very few.",
+      "start_ms": 255434,
+      "end_ms": 260677
+    },
+    {
+      "index": 112,
+      "text": "If she is a young owl who has only been here five years, still very few.",
+      "start_ms": 260677,
+      "end_ms": 265779
+    },
+    {
+      "index": 113,
+      "text": "Either way — you are one of them now.\"",
+      "start_ms": 265779,
+      "end_ms": 268575
+    },
+    {
+      "index": 114,
+      "text": "For the rest of the summer, Mira practiced.",
+      "start_ms": 268575,
+      "end_ms": 271650
+    },
+    {
+      "index": 115,
+      "text": "Opa taught her the other calls too — the territorial call, the kewick, and a fourth soft one that Opa said was a mother-owl-to-owlet call, which was mostly used only in spring.",
+      "start_ms": 271650,
+      "end_ms": 284022
+    },
+    {
+      "index": 116,
+      "text": "Mira practiced them all.",
+      "start_ms": 284022,
+      "end_ms": 285769
+    },
+    {
+      "index": 117,
+      "text": "She was slow at first.",
+      "start_ms": 285769,
+      "end_ms": 287377
+    },
+    {
+      "index": 118,
+      "text": "By the end of August she could make all four passably.",
+      "start_ms": 287377,
+      "end_ms": 291221
+    },
+    {
+      "index": 119,
+      "text": "Not perfectly.",
+      "start_ms": 291221,
+      "end_ms": 292270
+    },
+    {
+      "index": 120,
+      "text": "But recognizably.",
+      "start_ms": 292270,
+      "end_ms": 293598
+    },
+    {
+      "index": 121,
+      "text": "They went back to the oak six more times.",
+      "start_ms": 293598,
+      "end_ms": 296534
+    },
+    {
+      "index": 122,
+      "text": "Every time Mira tried the calls.",
+      "start_ms": 296534,
+      "end_ms": 298840
+    },
+    {
+      "index": 123,
+      "text": "Every time the owl answered at least one.",
+      "start_ms": 298840,
+      "end_ms": 301776
+    },
+    {
+      "index": 124,
+      "text": "Sometimes she answered a lot.",
+      "start_ms": 301776,
+      "end_ms": 303873
+    },
+    {
+      "index": 125,
+      "text": "Once, in the last week of August, the owl came all the way to the edge of the hollow and sat there looking at them for maybe twenty minutes, exchanging occasional small comfort sounds with Mira.",
+      "start_ms": 303873,
+      "end_ms": 317502
+    },
+    {
+      "index": 126,
+      "text": "Mira had never sat still that long in her life.",
+      "start_ms": 317502,
+      "end_ms": 320857
+    },
+    {
+      "index": 127,
+      "text": "When the owl finally flew off to hunt, Mira could barely move.",
+      "start_ms": 320857,
+      "end_ms": 325261
+    },
+    {
+      "index": 128,
+      "text": "Opa laughed a small laugh and said, \"Yes.",
+      "start_ms": 325261,
+      "end_ms": 328197
+    },
+    {
+      "index": 129,
+      "text": "That is exactly how it feels.",
+      "start_ms": 328197,
+      "end_ms": 330293
+    },
+    {
+      "index": 130,
+      "text": "Now you know.\"",
+      "start_ms": 330293,
+      "end_ms": 331272
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "clockmaker-of-praha",
+  "title": "The Clockmaker of Praha",
+  "subtitle": "A Very Small Shop in Malá Strana",
+  "author": null,
+  "summary": "Klara is spending a week with her great-uncle Tomáš, a clockmaker with a tiny shop in the old part of Prague. He fixes watches and clocks for anyone who brings them — but he only really opens the shop for a certain kind of customer. Klara does not understand who that kind of customer is, until she watches him work with a woman who has brought in a stopped pocket watch, and the woman starts to cry.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-clockmaker-of-praha-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Klara) with a short bob of dark hair, sitting on a small wooden stool in a tiny clockmaker's workshop crowded with dozens of different clocks on shelves and walls. In front of her: a wooden workbench where an older man (Uncle Tomáš) in a leather apron and small round spectacles bends over an open pocket watch, tiny tools laid out in a row. Warm amber lamp light from a green-shaded desk lamp. A single narrow window behind them shows a glimpse of a cobbled street in old Prague. Character positioned center-left, filling roughly 35% of frame height. Palette: warm cream (#FFF9F0), sepia wood tones, deep ink outlines, small dusty rose (#FF5B8D) accent on her cheeks, warm brass and gold on the clocks. Small margin at top and bottom for card padding.",
+  "category": "mystery",
+  "isPremium": true,
+  "publishedAt": "2026-11-26",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Shop That Was Not Open",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cp-ch1-p1-street",
+          "imagePrompt": "Mike Mignola style for children: a narrow cobbled street in the Malá Strana quarter of Prague at dusk, tall old buildings on both sides, a single warm-lit shop window with an old clock painted on the sign above the door. An 11-year-old girl (Klara, short dark bob, small overnight bag) walks toward it from the left. Heavy black ink outlines, flat shadows, cream and sepia palette with warm gold from windows.",
+          "paragraphs": [
+            "Klara's great-uncle Tomáš had a shop in the old part of Prague — in a neighborhood called Malá Strana, on a narrow cobbled street that had been narrow and cobbled for six hundred years. The shop was between a bakery and a bookseller and it had a single wooden door with a small painted sign above it that showed the face of an old clock. There was no other sign. The clock face was the sign. If you were the kind of person who knew, you knew. If you were not, you walked by.",
+            "Klara was eleven, and she had been sent to stay with Uncle Tomáš for a week because her parents were moving apartments and did not want her in the middle of it. She had visited him twice before when she was younger, but always with her mother. This was the first time she had come alone. She had taken the tram from her cousin's house on the other side of the city, and she had walked the last two streets by herself with the map her mother had drawn."
+          ]
+        },
+        {
+          "image": "cp-ch1-p2-inside",
+          "imagePrompt": "Mike Mignola style for children: interior of a very small crowded clockmaker's shop. Walls covered floor to ceiling with clocks of every kind — pocket watches in glass cases, wall clocks, tall pendulum clocks, cuckoo clocks, an astronomical clock face on one wall. A small wooden workbench in the center. A green-shaded lamp casts warm light. Uncle Tomáš (seventies, thin, small round spectacles, leather apron) looks up from his work at the door. A girl (Klara, 11) stands in the doorway. Heavy ink outlines, flat shadows, cream and sepia palette with warm brass on clocks.",
+          "paragraphs": [
+            "She pushed open the door. A little bell rang. The shop was very small — maybe three meters by four — and it was completely full of clocks. Every wall was covered from floor to ceiling. Glass cases held dozens of pocket watches. Tall pendulum clocks stood in the corners. A cuckoo clock hung above the door. There was an astronomical clock face mounted on the back wall that Klara thought might be older than her country. And in the middle of the shop, at a small wooden workbench with a green-shaded lamp, sat Uncle Tomáš. He was thin and had small round spectacles and a leather apron with many small pockets. He looked up.",
+            "\"Klárka,\" he said. He had a very deep quiet voice. \"You made it. Good. Come in. Close the door behind you. It is drafty.\" Klara closed the door. The bell rang again. Uncle Tomáš stood up slowly. He took off his spectacles. He looked at her for a long moment. Then he smiled. It was a small smile but it went all the way to his eyes. \"You have grown,\" he said. \"You look like your grandmother when she was your age.\""
+          ]
+        },
+        {
+          "image": "cp-ch1-p3-clocks-quiet",
+          "imagePrompt": "Mike Mignola style for children: close view of the shop's back wall covered with many small clocks, all showing slightly different times. Some ticking, some silent. A little brass one is stopped at 4:47. Warm ambient shop lamp light. No people visible. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Uncle Tomáš had a small apartment above the shop, and that was where Klara would sleep for the week. But she spent most of the first afternoon downstairs, wandering around the shop, looking at things. Uncle Tomáš worked at the bench, tuning a small brass mantel clock. Klara noticed, after a while, that not all the clocks were running. Some of them were silent. Their hands were stopped at different times.",
+            "She asked Uncle Tomáš about it. \"Are those broken?\" He looked up. He looked at the clocks she was pointing at. \"No,\" he said. \"They are not broken. They are waiting.\" \"Waiting for what?\" Uncle Tomáš thought for a moment. \"Waiting for their owner to come get them. Some clocks come to me and the owner does not come back right away. Sometimes they come back in a year. Sometimes ten years. Sometimes not at all. Until then, the clocks wait. They are still theirs. Not mine.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"But — why do you not just start them running,\" Klara asked. \"To keep them nice.\" Uncle Tomáš shook his head. \"The clocks are stopped for a reason. They stopped at a specific moment. That is part of what makes them what they are. If I start them, I change something. So I let them wait. When the owner comes, they can choose. Some ask me to start them. Some do not.\" He looked at her. \"You are a very serious girl, Klárka. You ask good questions.\" Klara said, \"Nobody has ever said that to me before.\" Uncle Tomáš said, \"Then you must be spending time with people who are not paying attention. Get me the small brass tweezers, please. On the shelf behind you.\"",
+            "That was how the week started. On the first evening, when they closed the shop and went upstairs, Uncle Tomáš cooked her a very simple meal of dumplings and cabbage, and they ate at a small table beside a window that looked out at rooftops. He asked her about her school and her parents and her friends. He listened carefully. He did not talk about himself. Klara noticed this and did not press. She thought maybe he would tell her things later, in his own time."
+          ]
+        },
+        {
+          "image": "cp-ch1-p5-first-customer",
+          "imagePrompt": "Mike Mignola style for children: interior of the shop, next morning. An older man in a wool coat and hat stands at the counter, holding out a small worn brown-leather-cased pocket watch to Uncle Tomáš, who has just taken it in his hands. Klara (11) sits on a small stool nearby, watching intently. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The next morning the first customer came at about ten o'clock. He was an old man in a wool coat. He walked in slowly and set a small worn leather case on the counter. \"For my daughter's birthday,\" he said, in Czech. \"It was my father's. I want it working before I give it to her.\" Uncle Tomáš took the case. He opened it. Inside was a small pocket watch. He looked at it. He wound it very carefully. He held it to his ear. He set it down.",
+            "\"Yes,\" he said. \"I can fix this. Two days. Please come Thursday.\" The old man nodded, thanked him, paid a small deposit, and left. Uncle Tomáš took the watch to the workbench and set it under his green lamp. Klara came over and looked at it. It was old and small and ordinary. \"That was easy,\" she said. \"Yes,\" said Uncle Tomáš. \"That one was easy. He is a normal customer. Not everyone is.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Other Customers",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cp-ch2-p1-explanation",
+          "imagePrompt": "Mike Mignola style for children: Uncle Tomáš at his workbench, holding up a pocket watch to a small green-shaded lamp and explaining something to Klara, who sits on the stool with her chin in both hands, listening. Warm shop lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"There are two kinds of customers,\" Uncle Tomáš said, later that afternoon. \"Normal customers. Their clock is broken. They want it fixed. Simple work. I do it, they pay, they go.\" He paused. \"And there are the other customers.\" \"What are they,\" said Klara. \"They are people,\" said Uncle Tomáš, \"who have a stopped clock. But their clock is not really the problem. Their clock stopped because something else stopped. Something in their life. And they think, if they can just fix the clock, maybe the other thing will fix too.\"",
+            "\"Does that work,\" Klara asked. Uncle Tomáš thought about it. He said, \"Sometimes. Not exactly the way they hope. But sometimes.\" He was quiet for a moment. Then he said, \"That is the harder work. I have to do the clock. But I also have to talk to the customer. Because if I only fix the clock and I do not talk to the customer, then the clock is fixed and the customer is not, and the customer will bring the clock back in three months saying it has stopped again. And it will not really have stopped. They will only think it has.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"How do you know which one is which,\" Klara asked. \"How they walk in,\" said Uncle Tomáš. \"How they hold the clock. How they set it down. Whether they look at it or at me. It is not hard to tell. You will see. If someone like that comes in this week, you can watch. But you have to be quiet. Do not ask questions during the visit. After they go, we can talk about it. Yes?\" Klara nodded. She thought she understood.",
+            "For two days after that, nobody came in who was a special customer. There were a few normal ones — a woman who dropped off a wall clock that had stopped chiming, a young man who wanted a battery for his cheap watch. Klara helped a little. Uncle Tomáš taught her how to open the back of a pocket watch with the small brass tool, and how to name some of the parts — the mainspring, the balance wheel, the escapement. It was slow careful work, and Klara was surprised to find that she liked it."
+          ]
+        },
+        {
+          "image": "cp-ch2-p3-woman",
+          "imagePrompt": "Mike Mignola style for children: interior of the shop. A middle-aged woman in a grey coat and a red scarf enters, standing at the door, holding a small wooden box against her chest with both hands. She has not moved past the doorway. Uncle Tomáš rises slowly from the bench to meet her. Klara (11) watches from the stool. Heavy ink outlines, flat shadows, cream and sepia palette with a small accent of red scarf.",
+          "paragraphs": [
+            "The woman came on Wednesday afternoon. Klara noticed her right away. She was maybe fifty years old and she wore a grey coat and a red scarf and she was holding something against her chest with both hands. She came in and stopped at the door and did not walk any further. She looked at Uncle Tomáš. She did not say anything.",
+            "Uncle Tomáš rose slowly from the bench. He did not say anything either. He walked over to her. He did not reach for what she was holding. He said, in a very gentle voice, \"Come and sit down.\" He led her to a small chair beside the workbench. He looked at Klara. He said, softly, in Czech-accented English so the woman would not understand, \"Watch. Quiet.\" And Klara nodded. She had understood already. This was one of the other customers."
+          ]
+        },
+        {
+          "image": "cp-ch2-p4-watch",
+          "imagePrompt": "Mike Mignola style for children: close view of a small silver pocket watch, its face stopped at 3:47, resting in the open palms of an older woman's hands. She is holding it out. Uncle Tomáš, seated across from her, is looking at it but has not taken it. Klara on the stool in background. Warm shop lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The woman opened the small wooden box she had been carrying. Inside was a silver pocket watch. She took it out. She held it in the palms of both her hands. She held it out to Uncle Tomáš, but he did not take it right away. He said, \"When did it stop?\" The woman said, in Czech, \"Three years and four months ago. On the ninth of July. At 3:47 in the morning.\" She looked down at the watch. \"That is when my husband died. He was wearing it that night. It stopped at that moment. It has not run since.\"",
+            "Uncle Tomáš nodded. He did not say anything. He waited. The woman held the watch out for another moment. Then she said, \"My daughter is getting married next month. She asked if she could carry it. In her flowers. Something of her father with her. I said yes. But it has to be running. It has to be a watch again. Not a — not a stopped thing.\" She stopped. She was trying not to cry."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Uncle Tomáš finally reached forward and took the watch, very carefully. He held it in his palm. He did not open it yet. He looked at her. He said, \"May I ask you something. Are you sure you want it running.\" The woman looked up. \"I am not sure,\" she said. \"That is what I have been thinking about for three years. That is why I did not bring it before.\" Uncle Tomáš nodded slowly. \"That is the right thing to think about,\" he said. \"When it starts running, you do not get this exact watch back. You get a similar one. It is a watch that runs. That is a different thing than a watch that stopped at 3:47 on the ninth of July.\"",
+            "The woman was crying now, quietly, without wiping her eyes. She said, \"I know. I have thought about that. I want to have both. Somehow. But I know I cannot.\" Uncle Tomáš said, \"You can have both. In a way. Come back on Saturday morning. I will show you what I mean.\" The woman nodded. She stood up. She thanked him. She left. Klara did not move from her stool until the door closed and the little bell stopped ringing."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Both Watches",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "cp-ch3-p1-question",
+          "imagePrompt": "Mike Mignola style for children: interior of the shop after the customer has left. Uncle Tomáš at the workbench with the small silver pocket watch open in front of him under the lamp. Klara (11) has moved to stand beside him, looking down at the watch, her face full of question. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "When the door closed, Klara said, \"Uncle Tomáš. What did you mean, she can have both.\" Uncle Tomáš had opened the watch and was looking at its insides. He did not answer right away. He was working carefully with a small brass tool, cleaning old oil from the mechanism. \"Come here,\" he said. \"Watch me.\" Klara moved closer. She leaned against the bench beside him.",
+            "\"I am going to fix this watch,\" he said. \"That is easy. The mechanism is fine. It only needs cleaning. But before I start it running, I am going to do something else.\" He set down the tool and reached into a drawer. He took out a very small brass ring — smaller than her fingernail — and a very small pin. \"I am going to open the front of the watch. And I am going to fix a tiny thing to the back of the face. Where the second hand goes. Right at the 4:47 position. A small pin. Almost invisible.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Why,\" said Klara. Uncle Tomáš said, \"Because the watch will run again. But every time the second hand passes over that spot, it will make a very small clicking sound. Very small. You have to know to listen for it. Nobody else will hear it. But she will. Every time the second hand goes past 4:47, the watch will click, once. And she will hear it. And she will remember.\"",
+            "\"So the watch runs but it also does not forget,\" Klara said slowly. \"Yes,\" said Uncle Tomáš. \"That is what I meant. That is what she wanted. The watch that runs for her daughter. And, inside that watch, still there, still real, the moment that mattered. Not gone. Just — quiet. Present.\" Klara stood there for a while, watching him work. He set the small pin in with tweezers so tiny she could not see them properly. He closed the back of the watch. He turned it right side up. He wound it. He listened to it. It ticked, smoothly, evenly. And every so often, if you listened carefully, you could hear a very small click."
+          ]
+        },
+        {
+          "image": "cp-ch3-p3-saturday",
+          "imagePrompt": "Mike Mignola style for children: interior scene. The woman in the grey coat and red scarf sits again at the workbench, the small silver pocket watch open in her palm, listening. Her face is very still. Uncle Tomáš sits across from her patiently. Klara (11) watches from the stool with a small tender expression. Warm shop lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The woman came back on Saturday morning. Uncle Tomáš put the watch on the counter for her. She picked it up. She held it in her palm. She looked at him. She waited. He said, \"Listen.\" She held it up close to her ear. She listened. For a moment she did not hear anything. Then, at exactly 4:47 seconds, there was a small click. Just one. Very small.",
+            "Her breath caught. She looked at Uncle Tomáš. He nodded, once. She listened again. Sixty seconds later — click. Again. Every minute. Every time the second hand crossed the same spot on the face. She started to cry, but not sad crying. She was smiling. She wiped her eyes. She said, quietly, \"He is still in it.\" Uncle Tomáš said, \"He is still in it. But you can give it to your daughter now. You have both.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The woman paid him very carefully. She did not ask the price. She just handed him a folded set of bills, which Klara later saw was more than Uncle Tomáš would ever have asked for, and he did not refuse it. He only nodded, and folded it into his apron pocket. The woman thanked him again. She hugged him — awkwardly, at the counter, with the watch in her hand. He hugged her back briefly. And then she was gone.",
+            "Klara sat quietly on her stool for a long time after that. Uncle Tomáš went back to his bench. He did not talk right away. He was doing something with the small pin drawer. After a while he said, without looking up, \"Klárka.\" \"Yes.\" \"That is what I do. Not the fixing part. Any clockmaker can do the fixing part. That other part. That is why my shop is small and quiet and hard to find. Because you do not want too many customers of that kind. You want the ones who need you. Nobody else.\""
+          ]
+        },
+        {
+          "image": "cp-ch3-p5-last-day",
+          "imagePrompt": "Mike Mignola style for children: interior of the shop at end of day. Uncle Tomáš is showing Klara (11) how to use a small brass tool on a stopped pocket watch. She holds the tool carefully. The green-shaded lamp warms both their faces. In the background, the wall of quiet waiting clocks. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Klara spent the rest of the week with Uncle Tomáš. He showed her more things. How to hear if a clock had a bent tooth just by listening. How to tell if a watch had been dropped by looking at the crystal. How to talk to a customer whose eyes were doing something specific. Klara was not going to become a clockmaker — she knew that, and Uncle Tomáš knew it too — but he was still teaching her. She thought about that a lot. She thought maybe some things you should learn even if you were not going to use them, because someone should know them, and they should not disappear when the person who knows them stops.",
+            "On her last morning, Uncle Tomáš gave her something. It was a very small watch on a chain. Silver, plain, ordinary. Old. \"This was your great-grandmother's,\" he said. \"My mother's. It runs. It has always run. But it needs winding once a week. Every Sunday. Do not forget. If it stops — bring it to me. Do not fix it yourself. Bring it to me. Or, someday, if I am not here anymore — bring it to a clockmaker who has a very small shop that is hard to find. Do you understand.\" Klara said yes. She took the watch. She put it in her pocket. She hugged him hard. And she went home to her new apartment, and she wound the watch every Sunday for many years, and it did not stop, though sometimes she wished it would, just so she would have to bring it back."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "prague",
+    "grief",
+    "craft",
+    "grandfather"
+  ]
+}

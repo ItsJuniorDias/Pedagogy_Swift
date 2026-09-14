@@ -1,0 +1,487 @@
+{
+  "story_id": "dust-of-yaks",
+  "chapter": 3,
+  "total_duration_ms": 264816,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The storm passed in the middle of the night.",
+      "start_ms": 1594,
+      "end_ms": 4354
+    },
+    {
+      "index": 1,
+      "text": "Bata woke once, in the very small hours, and heard silence — the rain had stopped, and the wind had dropped, and outside the hut there was only the small sound of the horses shifting under the overhang.",
+      "start_ms": 4354,
+      "end_ms": 16802
+    },
+    {
+      "index": 2,
+      "text": "He fell asleep again quickly.",
+      "start_ms": 16802,
+      "end_ms": 18641
+    },
+    {
+      "index": 3,
+      "text": "When he woke properly it was dawn, and the world outside the hut had been washed clean.",
+      "start_ms": 18641,
+      "end_ms": 24099
+    },
+    {
+      "index": 4,
+      "text": "They stepped outside into cold clear morning air.",
+      "start_ms": 24099,
+      "end_ms": 27165
+    },
+    {
+      "index": 5,
+      "text": "The grass had been beaten flat by the rain but was already beginning to lift.",
+      "start_ms": 27165,
+      "end_ms": 31948
+    },
+    {
+      "index": 6,
+      "text": "The sky was pale and empty.",
+      "start_ms": 31948,
+      "end_ms": 33665
+    },
+    {
+      "index": 7,
+      "text": "The horses were fine — wet, but calm.",
+      "start_ms": 33665,
+      "end_ms": 35995
+    },
+    {
+      "index": 8,
+      "text": "Chuluun looked at Bata with mild reproach, as if to say, next time, less of that.",
+      "start_ms": 35995,
+      "end_ms": 41023
+    },
+    {
+      "index": 9,
+      "text": "Odval laughed when she saw the horse's face.",
+      "start_ms": 41023,
+      "end_ms": 43783
+    },
+    {
+      "index": 10,
+      "text": "It was the first time she had laughed since the storm.",
+      "start_ms": 43783,
+      "end_ms": 47217
+    },
+    {
+      "index": 11,
+      "text": "Before they left, Odval led Bata up to the ovoo.",
+      "start_ms": 47217,
+      "end_ms": 50222
+    },
+    {
+      "index": 12,
+      "text": "She said, \"When you pass an ovoo, you walk around it three times, in the direction the sun goes, and you add a stone.\" She handed him a small round stone she had picked up.",
+      "start_ms": 50222,
+      "end_ms": 60830
+    },
+    {
+      "index": 13,
+      "text": "She had another for herself.",
+      "start_ms": 60830,
+      "end_ms": 62608
+    },
+    {
+      "index": 14,
+      "text": "\"You can say anything you want as you walk.",
+      "start_ms": 62608,
+      "end_ms": 65306
+    },
+    {
+      "index": 15,
+      "text": "Or you can say nothing.",
+      "start_ms": 65306,
+      "end_ms": 66778
+    },
+    {
+      "index": 16,
+      "text": "It is between you and the mountain.\"",
+      "start_ms": 66778,
+      "end_ms": 69108
+    },
+    {
+      "index": 17,
+      "text": "They walked around the ovoo three times, slowly, in the cold morning light.",
+      "start_ms": 69108,
+      "end_ms": 73769
+    },
+    {
+      "index": 18,
+      "text": "Bata did not know what to say.",
+      "start_ms": 73769,
+      "end_ms": 75670
+    },
+    {
+      "index": 19,
+      "text": "He thought about his great-great-grandfather, who had ridden the small saddle into a much worse storm than his.",
+      "start_ms": 75670,
+      "end_ms": 82537
+    },
+    {
+      "index": 20,
+      "text": "He thought about the young horse that had come home wrapped in a man's coat.",
+      "start_ms": 82537,
+      "end_ms": 87259
+    },
+    {
+      "index": 21,
+      "text": "He thought about Odval, who had known this place would be here, and had known which direction to ride when the sky went dark.",
+      "start_ms": 87259,
+      "end_ms": 94986
+    },
+    {
+      "index": 22,
+      "text": "He thought, thank you.",
+      "start_ms": 94986,
+      "end_ms": 96396
+    },
+    {
+      "index": 23,
+      "text": "He was not sure who he was thanking.",
+      "start_ms": 96396,
+      "end_ms": 98665
+    },
+    {
+      "index": 24,
+      "text": "He put his stone on the pile anyway.",
+      "start_ms": 98665,
+      "end_ms": 100934
+    },
+    {
+      "index": 25,
+      "text": "Odval put hers beside his.",
+      "start_ms": 100934,
+      "end_ms": 102528
+    },
+    {
+      "index": 26,
+      "text": "They saddled the horses and untied the herd and started for home.",
+      "start_ms": 102528,
+      "end_ms": 106631
+    },
+    {
+      "index": 27,
+      "text": "The nine horses moved eagerly this morning — they wanted their own pasture.",
+      "start_ms": 106631,
+      "end_ms": 111355
+    },
+    {
+      "index": 28,
+      "text": "The land, freshly rained on, smelled of earth and grass and something Bata did not have a name for.",
+      "start_ms": 111355,
+      "end_ms": 117571
+    },
+    {
+      "index": 29,
+      "text": "He rode at the rear again, on Chuluun, in the small old saddle, and listened to it creak beneath him.",
+      "start_ms": 117571,
+      "end_ms": 123974
+    },
+    {
+      "index": 30,
+      "text": "About halfway home, Odval slowed her mare until she was riding beside him.",
+      "start_ms": 123974,
+      "end_ms": 128636
+    },
+    {
+      "index": 31,
+      "text": "She said, \"You did well last night.",
+      "start_ms": 128636,
+      "end_ms": 130874
+    },
+    {
+      "index": 32,
+      "text": "You did not cry.",
+      "start_ms": 130874,
+      "end_ms": 131931
+    },
+    {
+      "index": 33,
+      "text": "You did not panic.",
+      "start_ms": 131931,
+      "end_ms": 133112
+    },
+    {
+      "index": 34,
+      "text": "You listened.\" Bata said, \"You did the work.",
+      "start_ms": 133112,
+      "end_ms": 135909
+    },
+    {
+      "index": 35,
+      "text": "I only followed.\" Odval said, \"That is exactly right.",
+      "start_ms": 135909,
+      "end_ms": 139266
+    },
+    {
+      "index": 36,
+      "text": "Following well is a skill.",
+      "start_ms": 139266,
+      "end_ms": 140944
+    },
+    {
+      "index": 37,
+      "text": "The first time out, you follow.",
+      "start_ms": 140944,
+      "end_ms": 142934
+    },
+    {
+      "index": 38,
+      "text": "The second time, you follow with your eyes open.",
+      "start_ms": 142934,
+      "end_ms": 145980
+    },
+    {
+      "index": 39,
+      "text": "The third time, you begin to know why.",
+      "start_ms": 145980,
+      "end_ms": 148404
+    },
+    {
+      "index": 40,
+      "text": "That is how it goes.\"",
+      "start_ms": 148404,
+      "end_ms": 149834
+    },
+    {
+      "index": 41,
+      "text": "They came over the last rise a little before noon.",
+      "start_ms": 149834,
+      "end_ms": 153004
+    },
+    {
+      "index": 42,
+      "text": "Bata saw the ger below — small and white against the huge green — and he saw his father walking out to meet them, one hand raised in greeting.",
+      "start_ms": 153004,
+      "end_ms": 161893
+    },
+    {
+      "index": 43,
+      "text": "Batbayar had been worried.",
+      "start_ms": 161893,
+      "end_ms": 163572
+    },
+    {
+      "index": 44,
+      "text": "Bata could see it in the way he walked.",
+      "start_ms": 163572,
+      "end_ms": 166058
+    },
+    {
+      "index": 45,
+      "text": "But when he saw the horses were all there, and Odval was riding easily, and Bata was upright in the small saddle, he stopped worrying.",
+      "start_ms": 166058,
+      "end_ms": 174450
+    },
+    {
+      "index": 46,
+      "text": "He waved instead.",
+      "start_ms": 174450,
+      "end_ms": 175569
+    },
+    {
+      "index": 47,
+      "text": "He was smiling.",
+      "start_ms": 175569,
+      "end_ms": 176626
+    },
+    {
+      "index": 48,
+      "text": "They drove the horses into the corral.",
+      "start_ms": 176626,
+      "end_ms": 179050
+    },
+    {
+      "index": 49,
+      "text": "Batbayar took Chuluun's reins as Bata dismounted.",
+      "start_ms": 179050,
+      "end_ms": 182158
+    },
+    {
+      "index": 50,
+      "text": "He looked at his son, then at the small saddle, then at his mother.",
+      "start_ms": 182158,
+      "end_ms": 186385
+    },
+    {
+      "index": 51,
+      "text": "He did not say anything for a moment.",
+      "start_ms": 186385,
+      "end_ms": 188748
+    },
+    {
+      "index": 52,
+      "text": "Then he said, quietly, in Odval's direction, \"So he has it now.\" Odval said, \"He has it now.\"",
+      "start_ms": 188748,
+      "end_ms": 194653
+    },
+    {
+      "index": 53,
+      "text": "That evening, after supper, Odval told Bata to hang the small saddle back on its peg on the north wall of the ger.",
+      "start_ms": 194653,
+      "end_ms": 201802
+    },
+    {
+      "index": 54,
+      "text": "He climbed onto a stool and lifted it up.",
+      "start_ms": 201802,
+      "end_ms": 204412
+    },
+    {
+      "index": 55,
+      "text": "It fit into the same worn hollow in the wood that it had rested in for a hundred and twenty years.",
+      "start_ms": 204412,
+      "end_ms": 210567
+    },
+    {
+      "index": 56,
+      "text": "He climbed back down.",
+      "start_ms": 210567,
+      "end_ms": 211872
+    },
+    {
+      "index": 57,
+      "text": "Odval was watching him.",
+      "start_ms": 211872,
+      "end_ms": 213278
+    },
+    {
+      "index": 58,
+      "text": "She said, \"It stays there now until you ride again.",
+      "start_ms": 213278,
+      "end_ms": 216323
+    },
+    {
+      "index": 59,
+      "text": "When you do, you take it down.",
+      "start_ms": 216323,
+      "end_ms": 218139
+    },
+    {
+      "index": 60,
+      "text": "When you come back, you put it up.",
+      "start_ms": 218139,
+      "end_ms": 220188
+    },
+    {
+      "index": 61,
+      "text": "That is how it has always worked.",
+      "start_ms": 220188,
+      "end_ms": 222180
+    },
+    {
+      "index": 62,
+      "text": "Your father did this.",
+      "start_ms": 222180,
+      "end_ms": 223468
+    },
+    {
+      "index": 63,
+      "text": "His father did this.",
+      "start_ms": 223468,
+      "end_ms": 224698
+    },
+    {
+      "index": 64,
+      "text": "His father did this.",
+      "start_ms": 224698,
+      "end_ms": 225928
+    },
+    {
+      "index": 65,
+      "text": "His father did this.",
+      "start_ms": 225928,
+      "end_ms": 227158
+    },
+    {
+      "index": 66,
+      "text": "Now you.\"",
+      "start_ms": 227158,
+      "end_ms": 227802
+    },
+    {
+      "index": 67,
+      "text": "Bata looked at the saddle.",
+      "start_ms": 227802,
+      "end_ms": 229383
+    },
+    {
+      "index": 68,
+      "text": "It was small and dark and old, and the small triangle brand on the underside faced the wall now, and could not be seen.",
+      "start_ms": 229383,
+      "end_ms": 236411
+    },
+    {
+      "index": 69,
+      "text": "He did not need to see it.",
+      "start_ms": 236411,
+      "end_ms": 237993
+    },
+    {
+      "index": 70,
+      "text": "He knew it was there.",
+      "start_ms": 237993,
+      "end_ms": 239340
+    },
+    {
+      "index": 71,
+      "text": "Outside the ger, the summer evening was long and pale.",
+      "start_ms": 239340,
+      "end_ms": 242561
+    },
+    {
+      "index": 72,
+      "text": "Somewhere in the middle distance, a horse whinnied — one of the racing yearlings, restless, wanting to run.",
+      "start_ms": 242561,
+      "end_ms": 248886
+    },
+    {
+      "index": 73,
+      "text": "In three weeks it would run at Naadam.",
+      "start_ms": 248886,
+      "end_ms": 251170
+    },
+    {
+      "index": 74,
+      "text": "Bata would be there, riding beside his father.",
+      "start_ms": 251170,
+      "end_ms": 253923
+    },
+    {
+      "index": 75,
+      "text": "But that was in three weeks.",
+      "start_ms": 253923,
+      "end_ms": 255621
+    },
+    {
+      "index": 76,
+      "text": "Tonight, he was home.",
+      "start_ms": 255621,
+      "end_ms": 256910
+    },
+    {
+      "index": 77,
+      "text": "The saddle was on its peg.",
+      "start_ms": 256910,
+      "end_ms": 258491
+    },
+    {
+      "index": 78,
+      "text": "The wind had dropped.",
+      "start_ms": 258491,
+      "end_ms": 259779
+    },
+    {
+      "index": 79,
+      "text": "And his grandmother, in the warm circle of firelight, was pouring another bowl of tea.",
+      "start_ms": 259779,
+      "end_ms": 264816
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "filename": "story-paper-makers-house-cover.png",
+      "idiom": "universal",
+      "scale": "3x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}

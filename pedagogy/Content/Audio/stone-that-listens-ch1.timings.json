@@ -1,0 +1,427 @@
+{
+  "story_id": "stone-that-listens",
+  "chapter": 1,
+  "total_duration_ms": 330336,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Aisling was ten, and the summer she was ten was the first summer she was allowed to travel by herself.",
+      "start_ms": 2394,
+      "end_ms": 8716
+    },
+    {
+      "index": 1,
+      "text": "Only by herself for the last leg, really — her mother put her on the train from Dublin to Galway with a paper bag of sandwiches, and her mother's cousin met her at the Galway station and drove her to Rossaveal, and put her on the ferry to Inishmore.",
+      "start_ms": 8716,
+      "end_ms": 24062
+    },
+    {
+      "index": 2,
+      "text": "There she was met at the pier by her great-aunt Bríd, who was seventy-eight and lived in a small white stone cottage on the island, and who was, though Aisling did not yet quite understand this, the person Aisling's mother had wanted her to know.",
+      "start_ms": 24062,
+      "end_ms": 39285
+    },
+    {
+      "index": 3,
+      "text": "The ferry from Rossaveal took forty minutes.",
+      "start_ms": 39285,
+      "end_ms": 42047
+    },
+    {
+      "index": 4,
+      "text": "Aisling sat on the top deck and watched the three Aran Islands come into view — Inisheer first, then Inishmaan in the middle, then Inishmore, the largest, where Bríd lived.",
+      "start_ms": 42047,
+      "end_ms": 52666
+    },
+    {
+      "index": 5,
+      "text": "From the sea, the islands looked like grey stone lifted up out of the Atlantic.",
+      "start_ms": 52666,
+      "end_ms": 57577
+    },
+    {
+      "index": 6,
+      "text": "As she got closer, Aisling could see the walls — hundreds and hundreds of low grey dry-stone walls dividing every scrap of green land into small careful fields.",
+      "start_ms": 57577,
+      "end_ms": 67459
+    },
+    {
+      "index": 7,
+      "text": "There were more walls than fields, it looked like.",
+      "start_ms": 67459,
+      "end_ms": 70651
+    },
+    {
+      "index": 8,
+      "text": "Bríd was waiting at the pier.",
+      "start_ms": 70651,
+      "end_ms": 72493
+    },
+    {
+      "index": 9,
+      "text": "Aisling had met her twice before at family gatherings on the mainland, but not since Aisling was very small.",
+      "start_ms": 72493,
+      "end_ms": 79184
+    },
+    {
+      "index": 10,
+      "text": "Now Aisling saw her properly — a small woman, straight-backed, with white hair pulled back and a face weathered from a lifetime of Atlantic wind.",
+      "start_ms": 79184,
+      "end_ms": 88145
+    },
+    {
+      "index": 11,
+      "text": "She leaned on a wooden walking stick that she did not really need but liked to carry anyway.",
+      "start_ms": 88145,
+      "end_ms": 93854
+    },
+    {
+      "index": 12,
+      "text": "When she saw Aisling coming down the ramp, she raised a hand, once, and did not wave, and did not smile very much, and Aisling knew immediately that this was not because Bríd was unfriendly but because Bríd was one of those old people who did not waste warmth on the greeting when the whole afternoon lay ahead.",
+      "start_ms": 93854,
+      "end_ms": 112944
+    },
+    {
+      "index": 13,
+      "text": "\"You're smaller than I remembered,\" Bríd said.",
+      "start_ms": 112944,
+      "end_ms": 116132
+    },
+    {
+      "index": 14,
+      "text": "\"Your mother said you were tall now.\" Aisling said, \"She always says that.\" Bríd said, \"Yes.",
+      "start_ms": 116132,
+      "end_ms": 122440
+    },
+    {
+      "index": 15,
+      "text": "She has been saying it since she was eight.\" And that was the beginning.",
+      "start_ms": 122440,
+      "end_ms": 127460
+    },
+    {
+      "index": 16,
+      "text": "The cottage was small — two rooms, thick white walls, a fireplace, a kitchen that opened onto a small back garden of stone-bordered vegetable beds.",
+      "start_ms": 127460,
+      "end_ms": 137499
+    },
+    {
+      "index": 17,
+      "text": "Bríd had lived there her entire adult life.",
+      "start_ms": 137499,
+      "end_ms": 140483
+    },
+    {
+      "index": 18,
+      "text": "She had never lived on the mainland.",
+      "start_ms": 140483,
+      "end_ms": 142993
+    },
+    {
+      "index": 19,
+      "text": "She had gone to school on the island, married a fisherman on the island, buried him twenty years ago, and stayed.",
+      "start_ms": 142993,
+      "end_ms": 150726
+    },
+    {
+      "index": 20,
+      "text": "She kept chickens.",
+      "start_ms": 150726,
+      "end_ms": 152015
+    },
+    {
+      "index": 21,
+      "text": "She knew everyone.",
+      "start_ms": 152015,
+      "end_ms": 153304
+    },
+    {
+      "index": 22,
+      "text": "She spoke English to Aisling because Aisling's Irish was schoolroom Irish and not up to conversation.",
+      "start_ms": 153304,
+      "end_ms": 160222
+    },
+    {
+      "index": 23,
+      "text": "But Aisling could hear her speak Irish to the neighbors, and it was not the Irish they taught in school.",
+      "start_ms": 160222,
+      "end_ms": 167345
+    },
+    {
+      "index": 24,
+      "text": "It was faster and softer and had a different shape.",
+      "start_ms": 167345,
+      "end_ms": 170940
+    },
+    {
+      "index": 25,
+      "text": "\"That is the old Aran dialect,\" Bríd told her, that first evening, over the potato soup.",
+      "start_ms": 170940,
+      "end_ms": 176977
+    },
+    {
+      "index": 26,
+      "text": "\"There are maybe seven of us left on this island who really have it.",
+      "start_ms": 176977,
+      "end_ms": 181657
+    },
+    {
+      "index": 27,
+      "text": "I mean the version my grandmother spoke.",
+      "start_ms": 181657,
+      "end_ms": 184438
+    },
+    {
+      "index": 28,
+      "text": "The one that has not been softened by the radio and the school.",
+      "start_ms": 184438,
+      "end_ms": 188779
+    },
+    {
+      "index": 29,
+      "text": "Six of us are over seventy now.",
+      "start_ms": 188779,
+      "end_ms": 190950
+    },
+    {
+      "index": 30,
+      "text": "When we are gone, that particular way of speaking will be gone with us.\" She said it plainly, without sadness.",
+      "start_ms": 190950,
+      "end_ms": 198479
+    },
+    {
+      "index": 31,
+      "text": "It was a fact of the world.",
+      "start_ms": 198479,
+      "end_ms": 200446
+    },
+    {
+      "index": 32,
+      "text": "On the third day, Bríd asked Aisling to come walking with her along the boreen behind the cottage.",
+      "start_ms": 200446,
+      "end_ms": 207161
+    },
+    {
+      "index": 33,
+      "text": "A boreen was what they called the small grass-covered paths that ran between the stone walls all across the island.",
+      "start_ms": 207161,
+      "end_ms": 215030
+    },
+    {
+      "index": 34,
+      "text": "This one led out toward the north shore, curving through a dozen small fields.",
+      "start_ms": 215030,
+      "end_ms": 220388
+    },
+    {
+      "index": 35,
+      "text": "Bríd walked slowly, using her stick, and Aisling walked slowly beside her.",
+      "start_ms": 220388,
+      "end_ms": 225408
+    },
+    {
+      "index": 36,
+      "text": "\"Look at the walls,\" Bríd said.",
+      "start_ms": 225408,
+      "end_ms": 227396
+    },
+    {
+      "index": 37,
+      "text": "Aisling looked.",
+      "start_ms": 227396,
+      "end_ms": 228390
+    },
+    {
+      "index": 38,
+      "text": "The walls were maybe waist-high, built of grey stones stacked without mortar.",
+      "start_ms": 228390,
+      "end_ms": 233236
+    },
+    {
+      "index": 39,
+      "text": "The stones came in every shape — round, flat, wedge, splinter.",
+      "start_ms": 233236,
+      "end_ms": 237149
+    },
+    {
+      "index": 40,
+      "text": "Some walls were newer and stood straight.",
+      "start_ms": 237149,
+      "end_ms": 239759
+    },
+    {
+      "index": 41,
+      "text": "Some were old and had begun to bow.",
+      "start_ms": 239759,
+      "end_ms": 241995
+    },
+    {
+      "index": 42,
+      "text": "Some had gaps where stones had fallen out.",
+      "start_ms": 241995,
+      "end_ms": 244667
+    },
+    {
+      "index": 43,
+      "text": "\"How many walls do you think are on this island?\" Bríd asked.",
+      "start_ms": 244667,
+      "end_ms": 248518
+    },
+    {
+      "index": 44,
+      "text": "Aisling thought.",
+      "start_ms": 248518,
+      "end_ms": 249574
+    },
+    {
+      "index": 45,
+      "text": "\"A thousand?\" Bríd shook her head.",
+      "start_ms": 249574,
+      "end_ms": 251749
+    },
+    {
+      "index": 46,
+      "text": "\"About fifteen hundred kilometers of them.",
+      "start_ms": 251749,
+      "end_ms": 254420
+    },
+    {
+      "index": 47,
+      "text": "On an island nine kilometers long.",
+      "start_ms": 254420,
+      "end_ms": 256594
+    },
+    {
+      "index": 48,
+      "text": "Every one of them built by hand.",
+      "start_ms": 256594,
+      "end_ms": 258645
+    },
+    {
+      "index": 49,
+      "text": "Every stone lifted by somebody.",
+      "start_ms": 258645,
+      "end_ms": 260632
+    },
+    {
+      "index": 50,
+      "text": "That is what people did here for two thousand years.\"",
+      "start_ms": 260632,
+      "end_ms": 264049
+    },
+    {
+      "index": 51,
+      "text": "About halfway along the boreen, Bríd stopped.",
+      "start_ms": 264049,
+      "end_ms": 266907
+    },
+    {
+      "index": 52,
+      "text": "She bent slightly at the waist and pointed with one finger at a specific stone in the wall.",
+      "start_ms": 266907,
+      "end_ms": 272622
+    },
+    {
+      "index": 53,
+      "text": "It was a small grey stone, about the size of a fist, wedged near the top of the wall.",
+      "start_ms": 272622,
+      "end_ms": 277965
+    },
+    {
+      "index": 54,
+      "text": "Aisling crouched down to see.",
+      "start_ms": 277965,
+      "end_ms": 279829
+    },
+    {
+      "index": 55,
+      "text": "There was a tiny mark on the stone — three thin scratches, like a hatch, so small she would never have noticed on her own.",
+      "start_ms": 279829,
+      "end_ms": 287470
+    },
+    {
+      "index": 56,
+      "text": "\"Put your ear against it,\" Bríd said.",
+      "start_ms": 287470,
+      "end_ms": 289831
+    },
+    {
+      "index": 57,
+      "text": "Aisling did.",
+      "start_ms": 289831,
+      "end_ms": 290639
+    },
+    {
+      "index": 58,
+      "text": "She listened.",
+      "start_ms": 290639,
+      "end_ms": 291508
+    },
+    {
+      "index": 59,
+      "text": "She heard the wind and the sea and, faintly, a single sheep on some other hill.",
+      "start_ms": 291508,
+      "end_ms": 296478
+    },
+    {
+      "index": 60,
+      "text": "She heard nothing from the stone.",
+      "start_ms": 296478,
+      "end_ms": 298653
+    },
+    {
+      "index": 61,
+      "text": "She sat back on her heels and looked up.",
+      "start_ms": 298653,
+      "end_ms": 301200
+    },
+    {
+      "index": 62,
+      "text": "\"I don't hear anything.\" Bríd said, \"No.",
+      "start_ms": 301200,
+      "end_ms": 303747
+    },
+    {
+      "index": 63,
+      "text": "You wouldn't.",
+      "start_ms": 303747,
+      "end_ms": 304617
+    },
+    {
+      "index": 64,
+      "text": "But it is one of them.",
+      "start_ms": 304617,
+      "end_ms": 306045
+    },
+    {
+      "index": 65,
+      "text": "That is what I wanted to show you.\" Aisling said, \"One of what?\" And Bríd, straightening up slowly with the help of her stick, looked out over the walls and the fields and said, \"There is a custom on this island.",
+      "start_ms": 306045,
+      "end_ms": 319278
+    },
+    {
+      "index": 66,
+      "text": "My grandmother taught it to me.",
+      "start_ms": 319278,
+      "end_ms": 321266
+    },
+    {
+      "index": 67,
+      "text": "It has not been done in fifty years, and almost nobody remembers it now.",
+      "start_ms": 321266,
+      "end_ms": 325801
+    },
+    {
+      "index": 68,
+      "text": "I have never told anyone under seventy about it.",
+      "start_ms": 325801,
+      "end_ms": 328845
+    },
+    {
+      "index": 69,
+      "text": "But I want to tell you.\"",
+      "start_ms": 328845,
+      "end_ms": 330336
+    }
+  ]
+}

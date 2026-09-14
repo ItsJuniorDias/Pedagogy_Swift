@@ -1,0 +1,553 @@
+{
+  "story_id": "house-of-clocks",
+  "chapter": 3,
+  "total_duration_ms": 231960,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Wren waited for morning, and then all through breakfast, and then all through the long strange day that followed.",
+      "start_ms": 1247,
+      "end_ms": 8016
+    },
+    {
+      "index": 1,
+      "text": "Great-Aunt Marlow showed her the garden, and taught her the names of six kinds of bees, and made a lunch of buttered toast with jam and honey on the same slice, which turned out to be much better than it sounded.",
+      "start_ms": 8016,
+      "end_ms": 20723
+    },
+    {
+      "index": 2,
+      "text": "But Wren was only half listening.",
+      "start_ms": 20723,
+      "end_ms": 22742
+    },
+    {
+      "index": 3,
+      "text": "She was thinking about the music box.",
+      "start_ms": 22742,
+      "end_ms": 25057
+    },
+    {
+      "index": 4,
+      "text": "That night, when the house was quiet and the clocks had settled into their steady soft rain, Wren crept out of her room and along the hallway to Great-Aunt Marlow's bedroom door.",
+      "start_ms": 25057,
+      "end_ms": 35745
+    },
+    {
+      "index": 5,
+      "text": "The door was open a crack.",
+      "start_ms": 35745,
+      "end_ms": 37408
+    },
+    {
+      "index": 6,
+      "text": "Great-Aunt Marlow was asleep in a huge four-poster bed, snoring in a way that was somehow very dignified.",
+      "start_ms": 37408,
+      "end_ms": 43702
+    },
+    {
+      "index": 7,
+      "text": "Moonlight came in through the tall windows and lay in silver stripes across the floor.",
+      "start_ms": 43702,
+      "end_ms": 48927
+    },
+    {
+      "index": 8,
+      "text": "The music box was on the dresser.",
+      "start_ms": 48927,
+      "end_ms": 50946
+    },
+    {
+      "index": 9,
+      "text": "It was made of walnut wood, small and neat, with a tiny brass keyhole.",
+      "start_ms": 50946,
+      "end_ms": 55221
+    },
+    {
+      "index": 10,
+      "text": "Wren tiptoed in.",
+      "start_ms": 55221,
+      "end_ms": 56231
+    },
+    {
+      "index": 11,
+      "text": "She lifted the lid.",
+      "start_ms": 56231,
+      "end_ms": 57478
+    },
+    {
+      "index": 12,
+      "text": "Inside, on a little velvet cushion, was a single small brass key.",
+      "start_ms": 57478,
+      "end_ms": 61456
+    },
+    {
+      "index": 13,
+      "text": "She took the key.",
+      "start_ms": 61456,
+      "end_ms": 62525
+    },
+    {
+      "index": 14,
+      "text": "She lowered the lid.",
+      "start_ms": 62525,
+      "end_ms": 63772
+    },
+    {
+      "index": 15,
+      "text": "She turned to go.",
+      "start_ms": 63772,
+      "end_ms": 64900
+    },
+    {
+      "index": 16,
+      "text": "The floorboard creaked.",
+      "start_ms": 64900,
+      "end_ms": 66384
+    },
+    {
+      "index": 17,
+      "text": "Wren froze.",
+      "start_ms": 66384,
+      "end_ms": 67097
+    },
+    {
+      "index": 18,
+      "text": "Great-Aunt Marlow shifted in her sleep, murmured something Wren could not catch, and did not wake up.",
+      "start_ms": 67097,
+      "end_ms": 73213
+    },
+    {
+      "index": 19,
+      "text": "Wren slipped out of the room and back down the hall, holding the key so tightly that its little brass teeth pressed into her palm.",
+      "start_ms": 73213,
+      "end_ms": 80991
+    },
+    {
+      "index": 20,
+      "text": "She stopped in front of the backwards clock, and waited.",
+      "start_ms": 80991,
+      "end_ms": 84435
+    },
+    {
+      "index": 21,
+      "text": "It felt like hours.",
+      "start_ms": 84435,
+      "end_ms": 85623
+    },
+    {
+      "index": 22,
+      "text": "It was probably only minutes.",
+      "start_ms": 85623,
+      "end_ms": 87463
+    },
+    {
+      "index": 23,
+      "text": "The other clocks began to strike midnight.",
+      "start_ms": 87463,
+      "end_ms": 90076
+    },
+    {
+      "index": 24,
+      "text": "One.",
+      "start_ms": 90076,
+      "end_ms": 90373
+    },
+    {
+      "index": 25,
+      "text": "Two.",
+      "start_ms": 90373,
+      "end_ms": 90670
+    },
+    {
+      "index": 26,
+      "text": "Three.",
+      "start_ms": 90670,
+      "end_ms": 91145
+    },
+    {
+      "index": 27,
+      "text": "Wren's hands were shaking.",
+      "start_ms": 91145,
+      "end_ms": 92807
+    },
+    {
+      "index": 28,
+      "text": "Four.",
+      "start_ms": 92807,
+      "end_ms": 93164
+    },
+    {
+      "index": 29,
+      "text": "Five.",
+      "start_ms": 93164,
+      "end_ms": 93520
+    },
+    {
+      "index": 30,
+      "text": "Six.",
+      "start_ms": 93520,
+      "end_ms": 93876
+    },
+    {
+      "index": 31,
+      "text": "She fitted the key into the small hole in the front of the backwards clock.",
+      "start_ms": 93876,
+      "end_ms": 98389
+    },
+    {
+      "index": 32,
+      "text": "It slid in perfectly.",
+      "start_ms": 98389,
+      "end_ms": 99755
+    },
+    {
+      "index": 33,
+      "text": "Seven.",
+      "start_ms": 99755,
+      "end_ms": 100170
+    },
+    {
+      "index": 34,
+      "text": "Eight.",
+      "start_ms": 100170,
+      "end_ms": 100586
+    },
+    {
+      "index": 35,
+      "text": "Nine.",
+      "start_ms": 100586,
+      "end_ms": 101002
+    },
+    {
+      "index": 36,
+      "text": "She could feel it now — the presence behind her, arriving.",
+      "start_ms": 101002,
+      "end_ms": 104505
+    },
+    {
+      "index": 37,
+      "text": "But she did not turn.",
+      "start_ms": 104505,
+      "end_ms": 105871
+    },
+    {
+      "index": 38,
+      "text": "Ten.",
+      "start_ms": 105871,
+      "end_ms": 106167
+    },
+    {
+      "index": 39,
+      "text": "Eleven.",
+      "start_ms": 106167,
+      "end_ms": 106642
+    },
+    {
+      "index": 40,
+      "text": "Twelve.",
+      "start_ms": 106642,
+      "end_ms": 107177
+    },
+    {
+      "index": 41,
+      "text": "The pause.",
+      "start_ms": 107177,
+      "end_ms": 107889
+    },
+    {
+      "index": 42,
+      "text": "The backwards clock struck.",
+      "start_ms": 107889,
+      "end_ms": 109552
+    },
+    {
+      "index": 43,
+      "text": "Once.",
+      "start_ms": 109552,
+      "end_ms": 109908
+    },
+    {
+      "index": 44,
+      "text": "Softly.",
+      "start_ms": 109908,
+      "end_ms": 110383
+    },
+    {
+      "index": 45,
+      "text": "Thirteen.",
+      "start_ms": 110383,
+      "end_ms": 111036
+    },
+    {
+      "index": 46,
+      "text": "Wren turned the key.",
+      "start_ms": 111036,
+      "end_ms": 112224
+    },
+    {
+      "index": 47,
+      "text": "For a moment, nothing happened.",
+      "start_ms": 112224,
+      "end_ms": 114158
+    },
+    {
+      "index": 48,
+      "text": "Then, very slowly, the second hand of the backwards clock began to move the other way.",
+      "start_ms": 114158,
+      "end_ms": 119417
+    },
+    {
+      "index": 49,
+      "text": "Forward.",
+      "start_ms": 119417,
+      "end_ms": 120021
+    },
+    {
+      "index": 50,
+      "text": "The air in the hallway went warm.",
+      "start_ms": 120021,
+      "end_ms": 122137
+    },
+    {
+      "index": 51,
+      "text": "Wren turned around.",
+      "start_ms": 122137,
+      "end_ms": 123406
+    },
+    {
+      "index": 52,
+      "text": "There was a boy standing behind her.",
+      "start_ms": 123406,
+      "end_ms": 125642
+    },
+    {
+      "index": 53,
+      "text": "He was about eight, with untidy hair and a serious face.",
+      "start_ms": 125642,
+      "end_ms": 129087
+    },
+    {
+      "index": 54,
+      "text": "He was almost solid, but not quite — she could see the wallpaper faintly through his shoulder.",
+      "start_ms": 129087,
+      "end_ms": 134829
+    },
+    {
+      "index": 55,
+      "text": "He was staring at his hands as if he had never seen them before.",
+      "start_ms": 134829,
+      "end_ms": 138819
+    },
+    {
+      "index": 56,
+      "text": "\"I remember,\" he said.",
+      "start_ms": 138819,
+      "end_ms": 140209
+    },
+    {
+      "index": 57,
+      "text": "His voice was still quiet, but no longer far away.",
+      "start_ms": 140209,
+      "end_ms": 143291
+    },
+    {
+      "index": 58,
+      "text": "\"My name is Thomas.\"",
+      "start_ms": 143291,
+      "end_ms": 144621
+    },
+    {
+      "index": 59,
+      "text": "\"Hello, Thomas,\" said Wren.",
+      "start_ms": 144621,
+      "end_ms": 146313
+    },
+    {
+      "index": 60,
+      "text": "\"I'm Wren.\"",
+      "start_ms": 146313,
+      "end_ms": 147099
+    },
+    {
+      "index": 61,
+      "text": "Thomas smiled, and then his smile faded a little.",
+      "start_ms": 147099,
+      "end_ms": 150182
+    },
+    {
+      "index": 62,
+      "text": "\"I can't go back to my time,\" he said.",
+      "start_ms": 150182,
+      "end_ms": 152539
+    },
+    {
+      "index": 63,
+      "text": "\"And I can't go forward, either.",
+      "start_ms": 152539,
+      "end_ms": 154534
+    },
+    {
+      "index": 64,
+      "text": "I'm free of the clock, but I have nowhere to be.\"",
+      "start_ms": 154534,
+      "end_ms": 157616
+    },
+    {
+      "index": 65,
+      "text": "Wren thought about this.",
+      "start_ms": 157616,
+      "end_ms": 159188
+    },
+    {
+      "index": 66,
+      "text": "\"You could be here,\" she said.",
+      "start_ms": 159188,
+      "end_ms": 161061
+    },
+    {
+      "index": 67,
+      "text": "\"With us.",
+      "start_ms": 161061,
+      "end_ms": 161666
+    },
+    {
+      "index": 68,
+      "text": "I mean — with me.",
+      "start_ms": 161666,
+      "end_ms": 162754
+    },
+    {
+      "index": 69,
+      "text": "When I come back next summer, and the summer after that.\"",
+      "start_ms": 162754,
+      "end_ms": 166320
+    },
+    {
+      "index": 70,
+      "text": "Thomas looked up at her.",
+      "start_ms": 166320,
+      "end_ms": 167891
+    },
+    {
+      "index": 71,
+      "text": "\"Would you really?\"",
+      "start_ms": 167891,
+      "end_ms": 169161
+    },
+    {
+      "index": 72,
+      "text": "\"Every summer,\" said Wren.",
+      "start_ms": 169161,
+      "end_ms": 170792
+    },
+    {
+      "index": 73,
+      "text": "\"I promise.\"",
+      "start_ms": 170792,
+      "end_ms": 171639
+    },
+    {
+      "index": 74,
+      "text": "Somewhere in the house, a clock struck a small polite chime, as if it had been listening and approved.",
+      "start_ms": 171639,
+      "end_ms": 177925
+    },
+    {
+      "index": 75,
+      "text": "In the morning, Wren came downstairs to find Great-Aunt Marlow already at the kitchen table, drinking tea and looking at the hallway with a small pleased expression on her face.",
+      "start_ms": 177925,
+      "end_ms": 188744
+    },
+    {
+      "index": 76,
+      "text": "\"The backwards clock isn't backwards anymore,\" said Wren, cautiously.",
+      "start_ms": 188744,
+      "end_ms": 193035
+    },
+    {
+      "index": 77,
+      "text": "\"No,\" said Great-Aunt Marlow.",
+      "start_ms": 193035,
+      "end_ms": 194848
+    },
+    {
+      "index": 78,
+      "text": "\"It isn't.\"",
+      "start_ms": 194848,
+      "end_ms": 195634
+    },
+    {
+      "index": 79,
+      "text": "There was a long, comfortable silence.",
+      "start_ms": 195634,
+      "end_ms": 198052
+    },
+    {
+      "index": 80,
+      "text": "\"You knew,\" said Wren.",
+      "start_ms": 198052,
+      "end_ms": 199503
+    },
+    {
+      "index": 81,
+      "text": "Great-Aunt Marlow set down her cup.",
+      "start_ms": 199503,
+      "end_ms": 201739
+    },
+    {
+      "index": 82,
+      "text": "\"When I was your age,\" she said, \"I stayed in this house for a summer, too.",
+      "start_ms": 201739,
+      "end_ms": 206333
+    },
+    {
+      "index": 83,
+      "text": "And a boy who lived in a clock became my very good friend.",
+      "start_ms": 206333,
+      "end_ms": 209899
+    },
+    {
+      "index": 84,
+      "text": "But then I grew up, and I got busy, and I forgot to come back.",
+      "start_ms": 209899,
+      "end_ms": 213706
+    },
+    {
+      "index": 85,
+      "text": "And a person who is forgotten goes back into the clock, my dear.",
+      "start_ms": 213706,
+      "end_ms": 217635
+    },
+    {
+      "index": 86,
+      "text": "That is how it works.\"",
+      "start_ms": 217635,
+      "end_ms": 219086
+    },
+    {
+      "index": 87,
+      "text": "She looked at Wren over the top of her glasses.",
+      "start_ms": 219086,
+      "end_ms": 222047
+    },
+    {
+      "index": 88,
+      "text": "\"Do not forget him.\"",
+      "start_ms": 222047,
+      "end_ms": 223377
+    },
+    {
+      "index": 89,
+      "text": "\"I won't,\" said Wren.",
+      "start_ms": 223377,
+      "end_ms": 224767
+    },
+    {
+      "index": 90,
+      "text": "And somewhere down the hall, a small clock ticked forward, softly, into a future it had waited a very long time to see.",
+      "start_ms": 224767,
+      "end_ms": 231960
+    }
+  ]
+}

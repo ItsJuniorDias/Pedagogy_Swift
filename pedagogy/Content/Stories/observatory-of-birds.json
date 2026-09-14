@@ -1,0 +1,167 @@
+{
+  "id": "observatory-of-birds",
+  "title": "The Observatory of Birds",
+  "subtitle": "A Migration Through the Negev",
+  "author": null,
+  "summary": "Tamar is eleven, and her father is a scientist at a small bird ringing station in the Negev desert of Israel. Every autumn, millions of birds pass through on their way south from Europe to Africa. The station catches and rings a tiny handful of them, then lets them go. One warbler has come back three years in a row, wearing the same small band. This year, Tamar is finally old enough to help.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-observatory-of-birds-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Tamar) with dark curly hair, wearing a khaki field shirt and a wide-brimmed sun hat, standing in the Negev desert at dawn holding a small tan-and-cream warbler in her cupped hands. The tiny bird's head is visible between her fingers. Around one of its legs is a small silver band. In the background: low grey-brown desert hills, a shrubby valley, distant mist-net poles, a small stone-and-tin field station. Character positioned center-left, filling roughly 40% of frame height. Palette: pale cream sky (#FFF9F0), bone-white desert earth, deep ink outlines, small dusty rose (#FF5B8D) accent on her hat band and cheeks, soft ochre on the bird. Small margin at top and bottom for card padding.",
+  "category": "wonder",
+  "isPremium": true,
+  "publishedAt": "2026-12-10",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Ringing Station",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ob-ch1-p1-station",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small stone-and-tin field station in the Negev desert of Israel at dawn. Low pale grey hills stretch out around it. A dusty jeep parked outside. Warm amber light coming through the one window. A tall thin mist net can be seen strung between two poles nearby. Heavy black ink outlines, flat shadows, cream and sepia palette with pale ochre tones.",
+          "paragraphs": [
+            "The ringing station where Tamar's father worked was in a shallow valley in the Negev desert, three hours south of Tel Aviv, on a small dirt road that ended at the door. It was really just one long building — a stone base with a corrugated tin roof, with a kitchen at one end and a lab at the other and a couple of small bunks in between. Around it, in every direction, was pale bone-colored desert with low grey hills at the edges of the sky. There was almost nothing there. That was the point. It was almost nothing there that made the birds visible.",
+            "Every autumn, when the northern hemisphere started to cool, hundreds of millions of small birds — warblers and flycatchers and shrikes and every kind of songbird — flew from Europe and western Asia south into Africa for the winter. The route took most of them across Israel. The Negev was one of the last stopping places they had before the Sinai desert and then the long crossing of the Red Sea. So they stopped, and rested, and ate, in the wadi behind the station. And Tamar's father and his small team put up mist nets — very fine soft nets, hard to see even up close — and gently caught a tiny handful of the birds each day, and put a small silver band on one leg, and let them go."
+          ]
+        },
+        {
+          "image": "ob-ch1-p2-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A father (early forties, field clothes, tanned, glasses) and his eleven-year-old daughter (Tamar, dark curly hair, khaki shirt, sun hat, small backpack) walk together from a dusty jeep toward the small field station. Warm morning light. Heavy ink outlines, flat shadows, cream and sepia palette with pale ochre.",
+          "paragraphs": [
+            "Tamar had visited the station many times, from the time she was small. But this year was different. This year she was eleven, and her father had said she could stay for the last two weeks of the autumn ringing season and actually help. Not just watch — actually help. Empty the nets. Hold the birds. Learn to identify them. She had wanted this for as long as she could remember. She had gone out into the field with the assistants the previous summer, but only to carry things. This year she got to work.",
+            "Her father was a serious quiet man. Around her mother, he sometimes joked. In the field, he did not joke. His whole face and voice changed when he was working. He was not less kind, but he was — Tamar had noticed — completely focused, in a way that felt almost like a different person. On the first morning at the station, over coffee at dawn, before they went out, he said, \"You will be careful. You will do exactly what I show you. If I say stop, you stop. A wild bird in your hand is a very fragile thing. You cannot practice on them. You have to be right the first time. Are you ready.\" Tamar nodded. She was ready."
+          ]
+        },
+        {
+          "image": "ob-ch1-p3-nets",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at dawn in the desert wadi behind the field station. Tall thin mist net poles stretch in a line through low shrubby vegetation. Between them, the mist nets are barely visible — very fine, silvery. A father and daughter walk slowly along the line, checking. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "They walked out to the nets. It was still nearly dark. There were five nets, each strung between two tall poles about four meters apart. The nets were made of very fine soft mesh, and in the pale dawn light they were almost invisible. Her father walked slowly along the line, looking. Tamar walked beside him.",
+            "\"Bird,\" he said quietly, at the second net. Tamar looked. A tiny warm brown shape was caught in the middle of the mesh, hanging quietly, its little feet gripping a strand. Her father reached in with very careful hands. He worked the bird out of the net. It was so small — the size of a plum. He held it in his cupped hands. He turned to Tamar. \"Willow warbler,\" he said. \"See the pale legs? See the little eyebrow stripe? Come on. Back to the lab.\""
+          ]
+        },
+        {
+          "image": "ob-ch1-p4-lab",
+          "imagePrompt": "Mike Mignola style for children: interior of the small field lab. A wooden bench with tiny brass instruments — a bird scale, calipers, a small book of leg-rings. A father sits at the bench holding a small warbler gently in a technique called the ringer's grip, its head between his fingers. A daughter (Tamar, 11) stands beside him watching. Warm morning light through a small window. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the lab, her father showed her how to hold the bird — with the head between the index and middle fingers of one hand, with the body cradled softly in the palm. He weighed it. He measured its wing. He noted its fat and its molt. Then he took a very small ring from a numbered strip and, using a special pair of pliers, he closed it gently around one thin leg. \"Every ring has a unique number,\" he said. \"If this bird is ever caught again — anywhere, by anyone — the number tells us who it is. Where it came from. Where it went.\"",
+            "Then he handed the bird to Tamar. Very carefully. He showed her the grip. She held it. The warbler was so light that she could barely feel it. It was warm. Its heart was beating very fast against her fingers. It looked at her — one tiny black eye. \"Now,\" her father said. \"Go outside. Hold it up over your head. Open your fingers, don't throw it. Just let it go.\" So Tamar went outside. She held the little bird up. She opened her hand. And the bird did not fly at first — it sat on her palm for one long second, deciding, and then it burst up into the pale desert sky and was gone. Tamar watched it go. She stood there for a long moment. She had done this. She had let a wild bird fly."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "For the first four days she and her father worked the nets. Every morning they got up at four. Every morning they walked the line. They caught, on some days, five or six birds. On other days, only one or two. They ringed each one. They released each one. Tamar learned to tell a Sardinian warbler from a Cyprus warbler, and a common redstart from a black redstart, and a lesser whitethroat from every other whitethroat. By the fourth day her father let her check a net alone.",
+            "And on the fifth morning, at the first net, she found the bird her father had been waiting for."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Bird That Came Back",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ob-ch2-p1-recognition",
+          "imagePrompt": "Mike Mignola style for children: outdoor scene in the wadi. A girl (Tamar, 11) has just gently removed a small warm-brown warbler from a mist net. She is holding it up close to look at its leg. Her face shows surprised recognition. Morning dawn light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She saw the ring first. She had removed the bird — a small brown warbler, a European reed warbler — from the net, holding it the way her father had taught her. She had brought it up close to her face to check the identification, and there, on its right leg, was a small silver ring. Already there. Not new. It had been ringed by someone else, somewhere else. The number was tiny, but Tamar could read it: A-471-338.",
+            "\"Aba,\" she called. Her father came over. She showed him. He looked at the ring number and his whole face changed. He was quiet for a moment. Then he said, softly, \"Oh. Oh, Tamar. Do you know what this is.\" She said, \"No.\" He said, \"Bring her to the lab. Come. Come.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "In the lab, her father sat down at the log book. He was flipping pages fast. He kept saying, \"A-471-338. A-471-338.\" He found it. He went very still. He looked at Tamar. \"This bird has been caught here three times before. First in autumn 2023, when we ringed her. She was a first-year female then, born that summer somewhere in Europe. Then again in autumn 2024. Then again in autumn 2025. Now this year, autumn 2026. Four autumns in a row. Same bird. She is coming through the same wadi, every year, on her way to Africa.\"",
+            "Tamar was looking at the warbler in her hand. She was small and calm. Her tiny eye was watching Tamar. Tamar said, \"Every year? On purpose?\" \"Not on purpose,\" her father said. \"She is not thinking about it. But she has a route. It is coded in her. She was born knowing the way. And every autumn she flies from wherever she nested in Europe — maybe Poland, maybe Germany, we don't know — down to sub-Saharan Africa for the winter. Then in the spring she flies back. Twice a year, every year. And her route brings her right past our nets. She is now — let me think — she is four and a half years old. That is old for a reed warbler. Most do not live past five.\""
+          ]
+        },
+        {
+          "image": "ob-ch2-p3-holding",
+          "imagePrompt": "Mike Mignola style for children: close view. A girl (Tamar, 11) holds the small warbler cupped in her hands, looking down at it with a soft focused expression. In her other hand, an open logbook. Her father stands nearby watching. Warm lab light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Tamar looked at the bird. Four and a half years old. About the same age Tamar had been when her family first started coming to the station. Every autumn this small reed warbler had made the whole flight — from somewhere in Europe, all the way down here — passing this same spot, coming to rest in this same wadi, in some cases probably even choosing the same little bush. It was a person of habit. In a bird's way.",
+            "\"How far does she fly,\" Tamar asked. Her father did some math in his head. \"From central Europe to somewhere in sub-Saharan Africa. Maybe four thousand kilometers, each way. She does it in two or three weeks. She does not fly all night — she stops. She flies for four or five hours, then she rests. She eats every day. She has been doing this for four autumns. That means she has flown maybe thirty thousand kilometers on her own in her life so far.\" He shook his head slowly. \"For a bird that weighs eleven grams. It is one of the things I think about, when I cannot sleep at night. It is very hard to believe it is real.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Her father did all the measurements as gently as he could. He noted her weight — she was a little heavier than last year. Good sign. He noted her wing length. He noted her fat. He looked at her feathers. \"She has bred at least once,\" he said. \"Probably twice. She has raised chicks somewhere in the north.\" Tamar was very quiet, listening to all of it. She was thinking about all the things this small bird had done that Tamar had not known about. All the invisible parts of her life that had happened in trees Tamar would never see.",
+            "When it was time to release her, her father let Tamar do it. \"Take her outside. Same as before. Just open your hand. She knows what to do.\" Tamar went outside. She held her hand up. She said, quietly, to the bird, \"Have a good flight. See you next year.\" And she opened her fingers. And the bird sat for a moment, deciding. Then it flew — south, into the pale desert sky, in the direction of Africa. Tamar watched her until she could not see her anymore."
+          ]
+        },
+        {
+          "image": "ob-ch2-p5-evening",
+          "imagePrompt": "Mike Mignola style for children: dusk exterior view of the field station. A father and daughter sit outside on a small stone bench with mugs of tea, both looking toward the western sky, which is beginning to go pale orange. Heavy ink outlines, flat shadows, cream and sepia palette with warm dusk gold.",
+          "paragraphs": [
+            "That evening, after the last net check, Tamar and her father sat outside the station with mugs of tea and watched the sun go down. The sky over the Negev was very big. There were no other lights anywhere. It was the emptiest place Tamar had ever been. She was quiet for a long time. Then she said, \"Aba. Does she come every year for a reason? Or is she just — going through.\" Her father thought about this. He said, \"She is just going through. She is not coming here for us. She has her own life. She does not know we exist.\"",
+            "Tamar said, \"So we are just — noticing her.\" \"Yes,\" said her father. \"That is exactly what we are doing. We are noticing her. That is all. But it is a big deal that we are noticing her. Because if we did not, nobody in the whole world would know she had made this trip. Four times. And now — because you were the one who caught her this year — you know. And I know. And in a few years, when she is not caught anymore, we will not know if she died or if she just took a different route. We will not know. But we will remember that she came four times. And that is a thing that exists now, because we noticed it. That is the whole point of what I do.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Fifth Autumn",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ob-ch3-p1-year-later",
+          "imagePrompt": "Mike Mignola style for children: exterior desert scene. A girl now slightly older (Tamar, 12, dark curly hair, khaki field shirt) walks along the mist net line by herself in early dawn, checking. She looks capable and comfortable, holding a small canvas bag. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The next year, Tamar was twelve. She came back to the ringing station in October. She had thought about the reed warbler all year, off and on. Sometimes at school she would suddenly think of her — probably eating an insect in a tree in central Africa right now — and she would smile a little, and her teacher would ask what she was thinking about, and she would say, nothing. But she was thinking about a small bird whose ring number she had memorized. A-471-338.",
+            "She spent the first two weeks of that autumn helping her father, and every net check she made, she looked at each bird's legs before she looked at anything else. Every day she hoped. On the seventeenth day, she caught her."
+          ]
+        },
+        {
+          "image": "ob-ch3-p2-recognition-again",
+          "imagePrompt": "Mike Mignola style for children: outdoor scene, dawn. A girl (Tamar, 12) has removed a small brown warbler from a net. She holds it up close and is checking its leg. Her whole face is lit up with recognition and delight. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She recognized the ring number before she even fully read it. She knew the shape of the numbers. She had drawn them in the margins of her school notebooks a hundred times. It was the same bird. She said, \"Aba. Aba. She came back.\" Her father came over. He looked. He put his hand on Tamar's shoulder. He said, softly, \"So she did. Fifth autumn. That is very old for a reed warbler now. She has beaten the odds.\"",
+            "In the lab that morning, they measured her again. She was thinner than last year. She had lost a little weight. Her feathers were more worn. She was starting to be an old bird. Her father was quiet as he weighed her. Then he said, \"This might be her last one, Tamar. I don't want to make you sad. But you should know. If we don't catch her again next year, it does not necessarily mean she died. But it probably does.\" Tamar nodded. She had thought about this. She was ready to hear it, though hearing it still hurt a little."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "When she released the reed warbler that day, she held her for a moment longer than she had needed to. She looked at her. She said, in a whisper only the bird could hear, \"I don't know if I will see you next autumn. But I hope so. And if not, I hope you had a good year. I hope you built a good nest. I hope you had chicks. I hope you got warm sometimes. Have a safe flight south.\" And she opened her hand, and the bird flew, and Tamar watched her go, small and brown and heading south, and she waved. She waved. She could not help it.",
+            "Her father was watching. He did not say anything about the waving. But that evening, when they were making supper together, he said, \"Tamar. I want to tell you something. What you did today — waving at her, saying goodbye — that is not scientific. That is not what we are supposed to do. But I did it too, in my head. I said goodbye to her too. Sometimes we do that. The birds do not know. But we know. I want you to keep doing it. Even when you are grown up and you are a scientist yourself. Do not stop doing it. It is important.\" Tamar nodded. She said, quietly, \"I won't stop.\""
+          ]
+        },
+        {
+          "image": "ob-ch3-p4-next-year",
+          "imagePrompt": "Mike Mignola style for children: outdoor scene, some time later. Tamar (now 13, taller) walks the net line by herself at dawn. Empty nets. She checks each one carefully. No small bird visible. Her face is calm, patient. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The autumn Tamar was thirteen, the reed warbler did not come. Tamar checked every net every day for three weeks. She caught other birds. She caught two reed warblers from other nesting populations, both freshly ringed by her. But A-471-338 did not come. Her father was gentle about it. He did not press. Tamar was quiet on the last day, when they packed up. In the jeep going home she looked out the window at the desert and she thought about her bird. Six autumns of life. Six migrations. Fifty thousand kilometers of flying. And then, somewhere, this year, she had stopped.",
+            "Tamar said, \"Aba. Do you think she made it. Or do you think she died on the way.\" Her father thought carefully. He said, \"I do not know. Nobody knows. That is the honest answer. She had a good long life for her kind. She probably raised many chicks. She flew here and back many times. She saw things we cannot even imagine. What happened to her at the end — I don't know. But she had a real life.\" Tamar nodded. She kept looking out the window."
+          ]
+        },
+        {
+          "image": "ob-ch3-p5-writing",
+          "imagePrompt": "Mike Mignola style for children: interior close view. A girl (Tamar, 13) sits at her desk at home, writing carefully in a small hardcover notebook. Beside her: a small dried feather taped inside the front cover. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "When she got home that autumn, Tamar started a small notebook. On the first page she taped a tiny brown feather — one her father had let her keep, years before, from a bird that had died naturally in the mist net one hot afternoon. Beside the feather, she wrote in her most careful handwriting: A-471-338. European reed warbler. Female. Ringed 2023 in the Negev. Recaptured 2024, 2025, 2026, 2027. Not seen 2028. Approximate distance flown in life: 50,000 kilometers. Approximate weight: 11 grams.",
+            "Underneath, she wrote: I noticed her. She was here. I want to be someone who keeps noticing. She looked at the page for a long moment. She closed the notebook. She would open it many times over the years. She would fill it with other birds. She would keep the record. That was what she had learned in the Negev. That the world was full of small persistent things that would go by unnoticed unless someone chose to notice them. And she was choosing."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "father",
+    "birds",
+    "science",
+    "israel"
+  ]
+}

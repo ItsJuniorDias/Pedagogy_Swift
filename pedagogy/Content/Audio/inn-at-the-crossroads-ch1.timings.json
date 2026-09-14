@@ -1,0 +1,685 @@
+{
+  "story_id": "inn-at-the-crossroads",
+  "chapter": 1,
+  "total_duration_ms": 343536,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Kostas's grandmother lived at a crossroads.",
+      "start_ms": 1577,
+      "end_ms": 4245
+    },
+    {
+      "index": 1,
+      "text": "There was no village anywhere close — the closest one was fourteen kilometers south, over a small pass.",
+      "start_ms": 4245,
+      "end_ms": 10551
+    },
+    {
+      "index": 2,
+      "text": "The crossroads itself was where two very old dirt roads met, in a dry rocky valley in the Peloponnese, and at that meeting place there was a small whitewashed stone inn — a khani, in Greek — that had been there for at least four hundred years.",
+      "start_ms": 10551,
+      "end_ms": 25348
+    },
+    {
+      "index": 3,
+      "text": "Yiayia's family had run it for the last hundred and forty of those years.",
+      "start_ms": 25348,
+      "end_ms": 29835
+    },
+    {
+      "index": 4,
+      "text": "Yiayia was the one running it now.",
+      "start_ms": 29835,
+      "end_ms": 31957
+    },
+    {
+      "index": 5,
+      "text": "She was seventy-three and she was small and quick, and she had white hair pulled back in a knot, and she wore a dark dress every day.",
+      "start_ms": 31957,
+      "end_ms": 40144
+    },
+    {
+      "index": 6,
+      "text": "Almost nobody stopped at the khani anymore.",
+      "start_ms": 40144,
+      "end_ms": 42812
+    },
+    {
+      "index": 7,
+      "text": "Kostas's mother had explained this to him on the drive down from Athens.",
+      "start_ms": 42812,
+      "end_ms": 47239
+    },
+    {
+      "index": 8,
+      "text": "The old road used to be the main road from one part of the Peloponnese to another.",
+      "start_ms": 47239,
+      "end_ms": 52272
+    },
+    {
+      "index": 9,
+      "text": "But sixty years ago they had built a proper paved road thirty kilometers to the north, and now the traffic all went that way.",
+      "start_ms": 52272,
+      "end_ms": 59913
+    },
+    {
+      "index": 10,
+      "text": "The old road was still there, but people mostly did not use it.",
+      "start_ms": 59913,
+      "end_ms": 63794
+    },
+    {
+      "index": 11,
+      "text": "The khani had almost no customers.",
+      "start_ms": 63794,
+      "end_ms": 65916
+    },
+    {
+      "index": 12,
+      "text": "Yiayia lived on a small pension and grew her own vegetables and kept a couple of goats.",
+      "start_ms": 65916,
+      "end_ms": 71252
+    },
+    {
+      "index": 13,
+      "text": "She stayed because she had never wanted to be anywhere else, and because — she said — someone had to be at the crossroads.",
+      "start_ms": 71252,
+      "end_ms": 78772
+    },
+    {
+      "index": 14,
+      "text": "The inside of the khani was much larger than Kostas had expected.",
+      "start_ms": 78772,
+      "end_ms": 82774
+    },
+    {
+      "index": 15,
+      "text": "There was one main room with a huge stone fireplace and three heavy old wooden tables, and a small kitchen behind it, and four bedrooms upstairs for guests.",
+      "start_ms": 82774,
+      "end_ms": 92295
+    },
+    {
+      "index": 16,
+      "text": "Yiayia lived in a fifth room off the kitchen.",
+      "start_ms": 92295,
+      "end_ms": 95084
+    },
+    {
+      "index": 17,
+      "text": "Kostas would be in one of the guest rooms for the summer.",
+      "start_ms": 95084,
+      "end_ms": 98601
+    },
+    {
+      "index": 18,
+      "text": "It was small and had a narrow bed and a wooden shutter that opened onto the front of the building.",
+      "start_ms": 98601,
+      "end_ms": 104544
+    },
+    {
+      "index": 19,
+      "text": "That first afternoon, while his mother was still there and they were having coffee at the kitchen table before she drove back, Kostas noticed the shelf on the main room wall.",
+      "start_ms": 104544,
+      "end_ms": 116638
+    },
+    {
+      "index": 20,
+      "text": "It had maybe ten small objects on it.",
+      "start_ms": 116638,
+      "end_ms": 119264
+    },
+    {
+      "index": 21,
+      "text": "A striped stone.",
+      "start_ms": 119264,
+      "end_ms": 120439
+    },
+    {
+      "index": 22,
+      "text": "A small brass compass.",
+      "start_ms": 120439,
+      "end_ms": 122029
+    },
+    {
+      "index": 23,
+      "text": "A worn leather notebook.",
+      "start_ms": 122029,
+      "end_ms": 123756
+    },
+    {
+      "index": 24,
+      "text": "A folded embroidered handkerchief.",
+      "start_ms": 123756,
+      "end_ms": 126175
+    },
+    {
+      "index": 25,
+      "text": "A small wooden bird.",
+      "start_ms": 126175,
+      "end_ms": 127626
+    },
+    {
+      "index": 26,
+      "text": "A silver ring.",
+      "start_ms": 127626,
+      "end_ms": 128663
+    },
+    {
+      "index": 27,
+      "text": "A dried flower pressed under glass.",
+      "start_ms": 128663,
+      "end_ms": 131151
+    },
+    {
+      "index": 28,
+      "text": "A candle stub.",
+      "start_ms": 131151,
+      "end_ms": 132188
+    },
+    {
+      "index": 29,
+      "text": "A pair of round wire-framed spectacles with no lenses in them.",
+      "start_ms": 132188,
+      "end_ms": 136542
+    },
+    {
+      "index": 30,
+      "text": "A single old key.",
+      "start_ms": 136542,
+      "end_ms": 137786
+    },
+    {
+      "index": 31,
+      "text": "He walked over and looked at them.",
+      "start_ms": 137786,
+      "end_ms": 140204
+    },
+    {
+      "index": 32,
+      "text": "They were arranged carefully but they did not seem to be connected to each other in any way.",
+      "start_ms": 140204,
+      "end_ms": 146701
+    },
+    {
+      "index": 33,
+      "text": "\"Yiayia,\" he said.",
+      "start_ms": 146701,
+      "end_ms": 148014
+    },
+    {
+      "index": 34,
+      "text": "\"What are these.\" Yiayia looked over.",
+      "start_ms": 148014,
+      "end_ms": 150640
+    },
+    {
+      "index": 35,
+      "text": "She smiled slightly.",
+      "start_ms": 150640,
+      "end_ms": 152091
+    },
+    {
+      "index": 36,
+      "text": "\"Ah,\" she said.",
+      "start_ms": 152091,
+      "end_ms": 153197
+    },
+    {
+      "index": 37,
+      "text": "\"Those are things guests have left.",
+      "start_ms": 153197,
+      "end_ms": 155685
+    },
+    {
+      "index": 38,
+      "text": "Every guest who has stayed here in my time — and some in my mother's time before me — has left one small thing.",
+      "start_ms": 155685,
+      "end_ms": 163425
+    },
+    {
+      "index": 39,
+      "text": "Sometimes on purpose.",
+      "start_ms": 163425,
+      "end_ms": 164945
+    },
+    {
+      "index": 40,
+      "text": "Sometimes by accident.",
+      "start_ms": 164945,
+      "end_ms": 166535
+    },
+    {
+      "index": 41,
+      "text": "It is a tradition.",
+      "start_ms": 166535,
+      "end_ms": 167848
+    },
+    {
+      "index": 42,
+      "text": "Not a rule.",
+      "start_ms": 167848,
+      "end_ms": 168677
+    },
+    {
+      "index": 43,
+      "text": "Nobody makes them.",
+      "start_ms": 168677,
+      "end_ms": 169990
+    },
+    {
+      "index": 44,
+      "text": "But they do it.",
+      "start_ms": 169990,
+      "end_ms": 171096
+    },
+    {
+      "index": 45,
+      "text": "And I keep them.\"",
+      "start_ms": 171096,
+      "end_ms": 172409
+    },
+    {
+      "index": 46,
+      "text": "\"How many are there,\" Kostas asked.",
+      "start_ms": 172409,
+      "end_ms": 174897
+    },
+    {
+      "index": 47,
+      "text": "Yiayia thought.",
+      "start_ms": 174897,
+      "end_ms": 176003
+    },
+    {
+      "index": 48,
+      "text": "\"That shelf is only what I have kept in the front room.",
+      "start_ms": 176003,
+      "end_ms": 179873
+    },
+    {
+      "index": 49,
+      "text": "There are more on shelves in the bedrooms upstairs.",
+      "start_ms": 179873,
+      "end_ms": 183467
+    },
+    {
+      "index": 50,
+      "text": "Maybe a hundred, all together.",
+      "start_ms": 183467,
+      "end_ms": 185609
+    },
+    {
+      "index": 51,
+      "text": "Some of them are older than me.",
+      "start_ms": 185609,
+      "end_ms": 187821
+    },
+    {
+      "index": 52,
+      "text": "My mother started collecting them here when she was a young woman.",
+      "start_ms": 187821,
+      "end_ms": 192451
+    },
+    {
+      "index": 53,
+      "text": "She kept a book — a notebook — where she wrote down the story of each thing.",
+      "start_ms": 192451,
+      "end_ms": 197772
+    },
+    {
+      "index": 54,
+      "text": "I have kept it up.",
+      "start_ms": 197772,
+      "end_ms": 199085
+    },
+    {
+      "index": 55,
+      "text": "When you are here, I will show you.\"",
+      "start_ms": 199085,
+      "end_ms": 201712
+    },
+    {
+      "index": 56,
+      "text": "After supper that evening, when his mother had left, Yiayia brought out the book.",
+      "start_ms": 201712,
+      "end_ms": 207379
+    },
+    {
+      "index": 57,
+      "text": "It was a large leather-bound ledger.",
+      "start_ms": 207379,
+      "end_ms": 209936
+    },
+    {
+      "index": 58,
+      "text": "She set it on the kitchen table.",
+      "start_ms": 209936,
+      "end_ms": 212216
+    },
+    {
+      "index": 59,
+      "text": "She opened it.",
+      "start_ms": 212216,
+      "end_ms": 213253
+    },
+    {
+      "index": 60,
+      "text": "The first page had a date in careful old handwriting — 1907.",
+      "start_ms": 213253,
+      "end_ms": 217468
+    },
+    {
+      "index": 61,
+      "text": "The name of a guest.",
+      "start_ms": 217468,
+      "end_ms": 218920
+    },
+    {
+      "index": 62,
+      "text": "The night they had stayed.",
+      "start_ms": 218920,
+      "end_ms": 220786
+    },
+    {
+      "index": 63,
+      "text": "And one line describing what they had left.",
+      "start_ms": 220786,
+      "end_ms": 223826
+    },
+    {
+      "index": 64,
+      "text": "A dried flower from the road, pressed.",
+      "start_ms": 223826,
+      "end_ms": 226522
+    },
+    {
+      "index": 65,
+      "text": "She went with her husband to see her sister in Kalamata.",
+      "start_ms": 226522,
+      "end_ms": 230461
+    },
+    {
+      "index": 66,
+      "text": "Told me she had a bad feeling about the visit.",
+      "start_ms": 230461,
+      "end_ms": 233640
+    },
+    {
+      "index": 67,
+      "text": "Kostas turned pages.",
+      "start_ms": 233640,
+      "end_ms": 234973
+    },
+    {
+      "index": 68,
+      "text": "There were hundreds of entries.",
+      "start_ms": 234973,
+      "end_ms": 237005
+    },
+    {
+      "index": 69,
+      "text": "Some had names, some did not.",
+      "start_ms": 237005,
+      "end_ms": 238909
+    },
+    {
+      "index": 70,
+      "text": "Some were long — a paragraph of description.",
+      "start_ms": 238909,
+      "end_ms": 241766
+    },
+    {
+      "index": 71,
+      "text": "Some were only a sentence.",
+      "start_ms": 241766,
+      "end_ms": 243480
+    },
+    {
+      "index": 72,
+      "text": "A silver button.",
+      "start_ms": 243480,
+      "end_ms": 244560
+    },
+    {
+      "index": 73,
+      "text": "A widowed doctor from Sparta on his way north.",
+      "start_ms": 244560,
+      "end_ms": 247544
+    },
+    {
+      "index": 74,
+      "text": "He kissed the button before he left it here.",
+      "start_ms": 247544,
+      "end_ms": 250401
+    },
+    {
+      "index": 75,
+      "text": "A folded child's drawing.",
+      "start_ms": 250401,
+      "end_ms": 252051
+    },
+    {
+      "index": 76,
+      "text": "A young family in a car.",
+      "start_ms": 252051,
+      "end_ms": 253638
+    },
+    {
+      "index": 77,
+      "text": "Their oldest boy left it under the mattress; I think it was on purpose.",
+      "start_ms": 253638,
+      "end_ms": 258209
+    },
+    {
+      "index": 78,
+      "text": "A worn coin.",
+      "start_ms": 258209,
+      "end_ms": 259035
+    },
+    {
+      "index": 79,
+      "text": "A very silent man who did not tell me where he was going.",
+      "start_ms": 259035,
+      "end_ms": 262717
+    },
+    {
+      "index": 80,
+      "text": "He put it on the table without saying anything and walked out.",
+      "start_ms": 262717,
+      "end_ms": 266780
+    },
+    {
+      "index": 81,
+      "text": "\"But — why do they do it,\" Kostas asked.",
+      "start_ms": 266780,
+      "end_ms": 269383
+    },
+    {
+      "index": 82,
+      "text": "Yiayia thought.",
+      "start_ms": 269383,
+      "end_ms": 270399
+    },
+    {
+      "index": 83,
+      "text": "\"I think,\" she said, \"because this is a crossroads.",
+      "start_ms": 270399,
+      "end_ms": 273700
+    },
+    {
+      "index": 84,
+      "text": "People who are at a crossroads are — different.",
+      "start_ms": 273700,
+      "end_ms": 276748
+    },
+    {
+      "index": 85,
+      "text": "They are between two things.",
+      "start_ms": 276748,
+      "end_ms": 278589
+    },
+    {
+      "index": 86,
+      "text": "They are traveling from one part of their life to another part.",
+      "start_ms": 278589,
+      "end_ms": 282652
+    },
+    {
+      "index": 87,
+      "text": "They come here, they sleep one night, and then they go on.",
+      "start_ms": 282652,
+      "end_ms": 286398
+    },
+    {
+      "index": 88,
+      "text": "But some part of them wants to leave a small piece behind.",
+      "start_ms": 286398,
+      "end_ms": 290143
+    },
+    {
+      "index": 89,
+      "text": "To mark that they were here.",
+      "start_ms": 290143,
+      "end_ms": 291985
+    },
+    {
+      "index": 90,
+      "text": "To make sure the moment was real.",
+      "start_ms": 291985,
+      "end_ms": 294143
+    },
+    {
+      "index": 91,
+      "text": "My mother believed that all the objects together were — a kind of — a kind of memorial to all the small decisions of many people's lives.",
+      "start_ms": 294143,
+      "end_ms": 302904
+    },
+    {
+      "index": 92,
+      "text": "Not the big decisions.",
+      "start_ms": 302904,
+      "end_ms": 304365
+    },
+    {
+      "index": 93,
+      "text": "The small ones.",
+      "start_ms": 304365,
+      "end_ms": 305380
+    },
+    {
+      "index": 94,
+      "text": "The ones that no one else would ever have known about.\"",
+      "start_ms": 305380,
+      "end_ms": 308999
+    },
+    {
+      "index": 95,
+      "text": "Kostas turned to a page in the middle of the book.",
+      "start_ms": 308999,
+      "end_ms": 312237
+    },
+    {
+      "index": 96,
+      "text": "He read: 1954.",
+      "start_ms": 312237,
+      "end_ms": 313189
+    },
+    {
+      "index": 97,
+      "text": "A grey coat button.",
+      "start_ms": 313189,
+      "end_ms": 314459
+    },
+    {
+      "index": 98,
+      "text": "A young woman on foot.",
+      "start_ms": 314459,
+      "end_ms": 315919
+    },
+    {
+      "index": 99,
+      "text": "She had walked all day from the north.",
+      "start_ms": 315919,
+      "end_ms": 318395
+    },
+    {
+      "index": 100,
+      "text": "She looked as if she had been crying.",
+      "start_ms": 318395,
+      "end_ms": 320808
+    },
+    {
+      "index": 101,
+      "text": "She would not say where she was going or where she was from.",
+      "start_ms": 320808,
+      "end_ms": 324680
+    },
+    {
+      "index": 102,
+      "text": "She left the button on the kitchen table.",
+      "start_ms": 324680,
+      "end_ms": 327347
+    },
+    {
+      "index": 103,
+      "text": "She was gone by dawn.",
+      "start_ms": 327347,
+      "end_ms": 328744
+    },
+    {
+      "index": 104,
+      "text": "Kostas closed the book.",
+      "start_ms": 328744,
+      "end_ms": 330267
+    },
+    {
+      "index": 105,
+      "text": "He was quiet for a while.",
+      "start_ms": 330267,
+      "end_ms": 331918
+    },
+    {
+      "index": 106,
+      "text": "He said, \"I want to see it.",
+      "start_ms": 331918,
+      "end_ms": 333696
+    },
+    {
+      "index": 107,
+      "text": "If someone comes this summer.\" Yiayia smiled.",
+      "start_ms": 333696,
+      "end_ms": 336616
+    },
+    {
+      "index": 108,
+      "text": "\"They will come,\" she said.",
+      "start_ms": 336616,
+      "end_ms": 338394
+    },
+    {
+      "index": 109,
+      "text": "\"They always do.",
+      "start_ms": 338394,
+      "end_ms": 339473
+    },
+    {
+      "index": 110,
+      "text": "Some summer only one.",
+      "start_ms": 339473,
+      "end_ms": 340870
+    },
+    {
+      "index": 111,
+      "text": "Some summers three or four.",
+      "start_ms": 340870,
+      "end_ms": 342647
+    },
+    {
+      "index": 112,
+      "text": "You will see.\"",
+      "start_ms": 342647,
+      "end_ms": 343536
+    }
+  ]
+}

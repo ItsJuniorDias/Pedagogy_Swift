@@ -1,0 +1,829 @@
+{
+  "story_id": "keeper-of-glass",
+  "chapter": 3,
+  "total_duration_ms": 365520,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "That night Elena lay awake for a long time.",
+      "start_ms": 1420,
+      "end_ms": 4259
+    },
+    {
+      "index": 1,
+      "text": "She thought about the fish.",
+      "start_ms": 4259,
+      "end_ms": 6065
+    },
+    {
+      "index": 2,
+      "text": "She thought about her mother.",
+      "start_ms": 6065,
+      "end_ms": 8001
+    },
+    {
+      "index": 3,
+      "text": "She thought about her father.",
+      "start_ms": 8001,
+      "end_ms": 9937
+    },
+    {
+      "index": 4,
+      "text": "They had both, at different times in the last few months, said something similar to her — something like, \"I know this is hard, sweetheart.",
+      "start_ms": 9937,
+      "end_ms": 18970
+    },
+    {
+      "index": 5,
+      "text": "I love you.",
+      "start_ms": 18970,
+      "end_ms": 19745
+    },
+    {
+      "index": 6,
+      "text": "Do you have anything you want to say to me.\" And she had never really had anything to say.",
+      "start_ms": 19745,
+      "end_ms": 25617
+    },
+    {
+      "index": 7,
+      "text": "She had been too full of feeling to find any words.",
+      "start_ms": 25617,
+      "end_ms": 28972
+    },
+    {
+      "index": 8,
+      "text": "She had wished she could — she thought about this now, lying in bed — give them something.",
+      "start_ms": 28972,
+      "end_ms": 34844
+    },
+    {
+      "index": 9,
+      "text": "Not words.",
+      "start_ms": 34844,
+      "end_ms": 35553
+    },
+    {
+      "index": 10,
+      "text": "A thing.",
+      "start_ms": 35553,
+      "end_ms": 36134
+    },
+    {
+      "index": 11,
+      "text": "A small thing that meant — I still love you.",
+      "start_ms": 36134,
+      "end_ms": 39038
+    },
+    {
+      "index": 12,
+      "text": "I know this is hard for you too.",
+      "start_ms": 39038,
+      "end_ms": 41167
+    },
+    {
+      "index": 13,
+      "text": "I am okay.",
+      "start_ms": 41167,
+      "end_ms": 41941
+    },
+    {
+      "index": 14,
+      "text": "She thought — a small fish.",
+      "start_ms": 41941,
+      "end_ms": 43748
+    },
+    {
+      "index": 15,
+      "text": "A small glass fish.",
+      "start_ms": 43748,
+      "end_ms": 45039
+    },
+    {
+      "index": 16,
+      "text": "Small enough to hold in one hand.",
+      "start_ms": 45039,
+      "end_ms": 47232
+    },
+    {
+      "index": 17,
+      "text": "One for her mother.",
+      "start_ms": 47232,
+      "end_ms": 48523
+    },
+    {
+      "index": 18,
+      "text": "One for her father.",
+      "start_ms": 48523,
+      "end_ms": 49813
+    },
+    {
+      "index": 19,
+      "text": "They would each have one.",
+      "start_ms": 49813,
+      "end_ms": 51491
+    },
+    {
+      "index": 20,
+      "text": "And she would have one too, at Chiara's, that would stay here.",
+      "start_ms": 51491,
+      "end_ms": 55556
+    },
+    {
+      "index": 21,
+      "text": "Three fish.",
+      "start_ms": 55556,
+      "end_ms": 56331
+    },
+    {
+      "index": 22,
+      "text": "She would know they were all part of the same summer.",
+      "start_ms": 56331,
+      "end_ms": 59815
+    },
+    {
+      "index": 23,
+      "text": "Even if her parents lived in different apartments and never saw each other again, they would each have their fish, and she would have hers, and the three fish would be, in some invisible way, still a family.",
+      "start_ms": 59815,
+      "end_ms": 73301
+    },
+    {
+      "index": 24,
+      "text": "In the morning at breakfast Elena said, \"Chiara.",
+      "start_ms": 73301,
+      "end_ms": 76462
+    },
+    {
+      "index": 25,
+      "text": "Can I make two more fish.",
+      "start_ms": 76462,
+      "end_ms": 78140
+    },
+    {
+      "index": 26,
+      "text": "So I have three.",
+      "start_ms": 78140,
+      "end_ms": 79237
+    },
+    {
+      "index": 27,
+      "text": "One for my mother.",
+      "start_ms": 79237,
+      "end_ms": 80463
+    },
+    {
+      "index": 28,
+      "text": "One for my father.",
+      "start_ms": 80463,
+      "end_ms": 81689
+    },
+    {
+      "index": 29,
+      "text": "One for me.\" Chiara set down her coffee.",
+      "start_ms": 81689,
+      "end_ms": 84334
+    },
+    {
+      "index": 30,
+      "text": "She looked at Elena for a long moment.",
+      "start_ms": 84334,
+      "end_ms": 86851
+    },
+    {
+      "index": 31,
+      "text": "Her face did not change much but her eyes did.",
+      "start_ms": 86851,
+      "end_ms": 89884
+    },
+    {
+      "index": 32,
+      "text": "She said, in her quiet voice, \"Yes, Elena.",
+      "start_ms": 89884,
+      "end_ms": 92658
+    },
+    {
+      "index": 33,
+      "text": "Of course.",
+      "start_ms": 92658,
+      "end_ms": 93368
+    },
+    {
+      "index": 34,
+      "text": "That is a very good use for glass fish.\" She was silent for a moment.",
+      "start_ms": 93368,
+      "end_ms": 97885
+    },
+    {
+      "index": 35,
+      "text": "Then she said, \"Do you want them all to be the same color?",
+      "start_ms": 97885,
+      "end_ms": 101692
+    },
+    {
+      "index": 36,
+      "text": "Or different.\" Elena thought.",
+      "start_ms": 101692,
+      "end_ms": 103627
+    },
+    {
+      "index": 37,
+      "text": "She said, \"Different.",
+      "start_ms": 103627,
+      "end_ms": 105047
+    },
+    {
+      "index": 38,
+      "text": "My mother — she likes red.",
+      "start_ms": 105047,
+      "end_ms": 106789
+    },
+    {
+      "index": 39,
+      "text": "Deep red.",
+      "start_ms": 106789,
+      "end_ms": 107434
+    },
+    {
+      "index": 40,
+      "text": "My father likes blue.",
+      "start_ms": 107434,
+      "end_ms": 108854
+    },
+    {
+      "index": 41,
+      "text": "Deep dark blue.",
+      "start_ms": 108854,
+      "end_ms": 109886
+    },
+    {
+      "index": 42,
+      "text": "Mine — I will keep the green one.",
+      "start_ms": 109886,
+      "end_ms": 112080
+    },
+    {
+      "index": 43,
+      "text": "That is my color now, because it is the first fish I made.\"",
+      "start_ms": 112080,
+      "end_ms": 116016
+    },
+    {
+      "index": 44,
+      "text": "Chiara nodded.",
+      "start_ms": 116016,
+      "end_ms": 116984
+    },
+    {
+      "index": 45,
+      "text": "She said, \"Then today we make a dark red fish and a dark blue fish.",
+      "start_ms": 116984,
+      "end_ms": 121372
+    },
+    {
+      "index": 46,
+      "text": "Come.",
+      "start_ms": 121372,
+      "end_ms": 121759
+    },
+    {
+      "index": 47,
+      "text": "To the workshop.\"",
+      "start_ms": 121759,
+      "end_ms": 122856
+    },
+    {
+      "index": 48,
+      "text": "It took her all day to make both.",
+      "start_ms": 122856,
+      "end_ms": 124759
+    },
+    {
+      "index": 49,
+      "text": "The red one first.",
+      "start_ms": 124759,
+      "end_ms": 125822
+    },
+    {
+      "index": 50,
+      "text": "Chiara had a specific mineral — she called it a color rod — that she added to the molten glass to make the deep red.",
+      "start_ms": 125822,
+      "end_ms": 132371
+    },
+    {
+      "index": 51,
+      "text": "Elena worked slowly.",
+      "start_ms": 132371,
+      "end_ms": 133546
+    },
+    {
+      "index": 52,
+      "text": "She did the breathing.",
+      "start_ms": 133546,
+      "end_ms": 134833
+    },
+    {
+      "index": 53,
+      "text": "She did the shaping.",
+      "start_ms": 134833,
+      "end_ms": 136009
+    },
+    {
+      "index": 54,
+      "text": "She made a small mistake and Chiara had to help her recover it — she pinched the tail too hard and it started to sag, and Chiara reheated it in the furnace and Elena tried again.",
+      "start_ms": 136009,
+      "end_ms": 146027
+    },
+    {
+      "index": 55,
+      "text": "The finished red fish was slightly larger than the green one.",
+      "start_ms": 146027,
+      "end_ms": 149497
+    },
+    {
+      "index": 56,
+      "text": "It had a slightly rounder body.",
+      "start_ms": 149497,
+      "end_ms": 151288
+    },
+    {
+      "index": 57,
+      "text": "It stayed together.",
+      "start_ms": 151288,
+      "end_ms": 152408
+    },
+    {
+      "index": 58,
+      "text": "It was a good fish.",
+      "start_ms": 152408,
+      "end_ms": 153583
+    },
+    {
+      "index": 59,
+      "text": "The blue one was harder.",
+      "start_ms": 153583,
+      "end_ms": 154982
+    },
+    {
+      "index": 60,
+      "text": "The blue color rod was more delicate — it could go grey if the glass was too hot.",
+      "start_ms": 154982,
+      "end_ms": 159572
+    },
+    {
+      "index": 61,
+      "text": "Chiara had to help her more.",
+      "start_ms": 159572,
+      "end_ms": 161195
+    },
+    {
+      "index": 62,
+      "text": "But by the end of the afternoon Elena had a small deep blue fish, about the same size as the red one, with a similarly shaped body.",
+      "start_ms": 161195,
+      "end_ms": 168583
+    },
+    {
+      "index": 63,
+      "text": "She lined them up on the workbench — green, red, blue.",
+      "start_ms": 168583,
+      "end_ms": 171661
+    },
+    {
+      "index": 64,
+      "text": "Three small fish.",
+      "start_ms": 171661,
+      "end_ms": 172668
+    },
+    {
+      "index": 65,
+      "text": "Three small solidified breaths.",
+      "start_ms": 172668,
+      "end_ms": 174459
+    },
+    {
+      "index": 66,
+      "text": "Chiara stood behind her and looked at them.",
+      "start_ms": 174459,
+      "end_ms": 176922
+    },
+    {
+      "index": 67,
+      "text": "She said, \"They will hold their color for hundreds of years, Elena.",
+      "start_ms": 176922,
+      "end_ms": 180728
+    },
+    {
+      "index": 68,
+      "text": "If your mother keeps hers, and your father keeps his, and you keep yours — in a hundred years, someone will find them somewhere.",
+      "start_ms": 180728,
+      "end_ms": 187948
+    },
+    {
+      "index": 69,
+      "text": "They will not know what they are.",
+      "start_ms": 187948,
+      "end_ms": 189851
+    },
+    {
+      "index": 70,
+      "text": "They will only know that someone made three small fish, once, on Murano.\"",
+      "start_ms": 189851,
+      "end_ms": 194048
+    },
+    {
+      "index": 71,
+      "text": "Elena stayed for one more week after that.",
+      "start_ms": 194048,
+      "end_ms": 196455
+    },
+    {
+      "index": 72,
+      "text": "In the last week she did not blow any more glass.",
+      "start_ms": 196455,
+      "end_ms": 199253
+    },
+    {
+      "index": 73,
+      "text": "She just — was there.",
+      "start_ms": 199253,
+      "end_ms": 200485
+    },
+    {
+      "index": 74,
+      "text": "Sometimes she sat in the workshop and watched Chiara work.",
+      "start_ms": 200485,
+      "end_ms": 203787
+    },
+    {
+      "index": 75,
+      "text": "Sometimes she went for walks along the canals.",
+      "start_ms": 203787,
+      "end_ms": 206417
+    },
+    {
+      "index": 76,
+      "text": "Sometimes she read on the small stone bench outside Chiara's house.",
+      "start_ms": 206417,
+      "end_ms": 210223
+    },
+    {
+      "index": 77,
+      "text": "She had — she noticed — stopped feeling like she was drowning.",
+      "start_ms": 210223,
+      "end_ms": 213749
+    },
+    {
+      "index": 78,
+      "text": "She was still sad.",
+      "start_ms": 213749,
+      "end_ms": 214813
+    },
+    {
+      "index": 79,
+      "text": "The sadness had not gone.",
+      "start_ms": 214813,
+      "end_ms": 216268
+    },
+    {
+      "index": 80,
+      "text": "But she could carry it now.",
+      "start_ms": 216268,
+      "end_ms": 217835
+    },
+    {
+      "index": 81,
+      "text": "Something about the fish.",
+      "start_ms": 217835,
+      "end_ms": 219290
+    },
+    {
+      "index": 82,
+      "text": "Something about the way Chiara had let her make them without asking why.",
+      "start_ms": 219290,
+      "end_ms": 223320
+    },
+    {
+      "index": 83,
+      "text": "On the last evening Chiara said something.",
+      "start_ms": 223320,
+      "end_ms": 225910
+    },
+    {
+      "index": 84,
+      "text": "They were at the kitchen table again.",
+      "start_ms": 225910,
+      "end_ms": 228200
+    },
+    {
+      "index": 85,
+      "text": "Chiara said, quietly, \"Elena.",
+      "start_ms": 228200,
+      "end_ms": 230007
+    },
+    {
+      "index": 86,
+      "text": "I want to tell you something.",
+      "start_ms": 230007,
+      "end_ms": 231814
+    },
+    {
+      "index": 87,
+      "text": "My parents divorced when I was fourteen.",
+      "start_ms": 231814,
+      "end_ms": 234284
+    },
+    {
+      "index": 88,
+      "text": "That was — a long time ago now.",
+      "start_ms": 234284,
+      "end_ms": 236212
+    },
+    {
+      "index": 89,
+      "text": "It was very hard.",
+      "start_ms": 236212,
+      "end_ms": 237296
+    },
+    {
+      "index": 90,
+      "text": "Nobody talked about it in the way we talk about it now.",
+      "start_ms": 237296,
+      "end_ms": 240670
+    },
+    {
+      "index": 91,
+      "text": "There was more shame around it then.",
+      "start_ms": 240670,
+      "end_ms": 242899
+    },
+    {
+      "index": 92,
+      "text": "I was very lonely.",
+      "start_ms": 242899,
+      "end_ms": 244043
+    },
+    {
+      "index": 93,
+      "text": "I stopped talking to almost everyone.",
+      "start_ms": 244043,
+      "end_ms": 246332
+    },
+    {
+      "index": 94,
+      "text": "But I had a teacher — the same teacher who taught me glass — who did not ask me questions.",
+      "start_ms": 246332,
+      "end_ms": 251814
+    },
+    {
+      "index": 95,
+      "text": "She only let me be at her workshop.",
+      "start_ms": 251814,
+      "end_ms": 253983
+    },
+    {
+      "index": 96,
+      "text": "She only let me sit and watch and, eventually, try to blow glass.",
+      "start_ms": 253983,
+      "end_ms": 257959
+    },
+    {
+      "index": 97,
+      "text": "She never asked about my family.",
+      "start_ms": 257959,
+      "end_ms": 259947
+    },
+    {
+      "index": 98,
+      "text": "But she gave me a place to be a person while all of that was happening.",
+      "start_ms": 259947,
+      "end_ms": 264285
+    },
+    {
+      "index": 99,
+      "text": "That is what I have tried to do for you.",
+      "start_ms": 264285,
+      "end_ms": 266755
+    },
+    {
+      "index": 100,
+      "text": "That is why your mother sent you to me.",
+      "start_ms": 266755,
+      "end_ms": 269164
+    },
+    {
+      "index": 101,
+      "text": "I think she remembered that I understood this.\"",
+      "start_ms": 269164,
+      "end_ms": 272116
+    },
+    {
+      "index": 102,
+      "text": "Elena went home the next morning.",
+      "start_ms": 272116,
+      "end_ms": 274164
+    },
+    {
+      "index": 103,
+      "text": "Her parents met her at the train station in Padua together — the first time she had seen them in the same place in three weeks.",
+      "start_ms": 274164,
+      "end_ms": 281875
+    },
+    {
+      "index": 104,
+      "text": "They were awkward.",
+      "start_ms": 281875,
+      "end_ms": 283020
+    },
+    {
+      "index": 105,
+      "text": "They were both trying.",
+      "start_ms": 283020,
+      "end_ms": 284405
+    },
+    {
+      "index": 106,
+      "text": "Elena hugged her mother, then her father.",
+      "start_ms": 284405,
+      "end_ms": 286936
+    },
+    {
+      "index": 107,
+      "text": "That evening — because they wanted to have a small welcome-home dinner together, even though they were getting divorced — the three of them sat at the kitchen table.",
+      "start_ms": 286936,
+      "end_ms": 296936
+    },
+    {
+      "index": 108,
+      "text": "Elena took a small box out of her bag.",
+      "start_ms": 296936,
+      "end_ms": 299285
+    },
+    {
+      "index": 109,
+      "text": "She opened it.",
+      "start_ms": 299285,
+      "end_ms": 300189
+    },
+    {
+      "index": 110,
+      "text": "Inside, wrapped in soft cloth, were the two fish.",
+      "start_ms": 300189,
+      "end_ms": 303201
+    },
+    {
+      "index": 111,
+      "text": "She put one in front of her mother.",
+      "start_ms": 303201,
+      "end_ms": 305370
+    },
+    {
+      "index": 112,
+      "text": "She put one in front of her father.",
+      "start_ms": 305370,
+      "end_ms": 307538
+    },
+    {
+      "index": 113,
+      "text": "She said, \"I made these.",
+      "start_ms": 307538,
+      "end_ms": 309044
+    },
+    {
+      "index": 114,
+      "text": "They are for you.\"",
+      "start_ms": 309044,
+      "end_ms": 310249
+    },
+    {
+      "index": 115,
+      "text": "Her mother picked up the red fish.",
+      "start_ms": 310249,
+      "end_ms": 312358
+    },
+    {
+      "index": 116,
+      "text": "She held it very carefully.",
+      "start_ms": 312358,
+      "end_ms": 314045
+    },
+    {
+      "index": 117,
+      "text": "She looked at it for a long time.",
+      "start_ms": 314045,
+      "end_ms": 316093
+    },
+    {
+      "index": 118,
+      "text": "Her eyes filled with tears.",
+      "start_ms": 316093,
+      "end_ms": 317780
+    },
+    {
+      "index": 119,
+      "text": "Her father picked up the blue fish.",
+      "start_ms": 317780,
+      "end_ms": 319948
+    },
+    {
+      "index": 120,
+      "text": "He did the same.",
+      "start_ms": 319948,
+      "end_ms": 320972
+    },
+    {
+      "index": 121,
+      "text": "Elena said, \"I have a green one too.",
+      "start_ms": 320972,
+      "end_ms": 323201
+    },
+    {
+      "index": 122,
+      "text": "That is mine.",
+      "start_ms": 323201,
+      "end_ms": 324045
+    },
+    {
+      "index": 123,
+      "text": "I made three.",
+      "start_ms": 324045,
+      "end_ms": 324888
+    },
+    {
+      "index": 124,
+      "text": "So that — whatever happens with you two — the three of us have three fish.",
+      "start_ms": 324888,
+      "end_ms": 329406
+    },
+    {
+      "index": 125,
+      "text": "From the same day.",
+      "start_ms": 329406,
+      "end_ms": 330551
+    },
+    {
+      "index": 126,
+      "text": "From the same furnace.",
+      "start_ms": 330551,
+      "end_ms": 331936
+    },
+    {
+      "index": 127,
+      "text": "Made by the same person.",
+      "start_ms": 331936,
+      "end_ms": 333442
+    },
+    {
+      "index": 128,
+      "text": "And I want you to keep them.",
+      "start_ms": 333442,
+      "end_ms": 335189
+    },
+    {
+      "index": 129,
+      "text": "Wherever you live.",
+      "start_ms": 335189,
+      "end_ms": 336334
+    },
+    {
+      "index": 130,
+      "text": "Please.\"",
+      "start_ms": 336334,
+      "end_ms": 336816
+    },
+    {
+      "index": 131,
+      "text": "Her parents did not speak for a moment.",
+      "start_ms": 336816,
+      "end_ms": 339203
+    },
+    {
+      "index": 132,
+      "text": "Then her mother put her arm around Elena, and her father put his hand on Elena's other shoulder, and neither of them said anything.",
+      "start_ms": 339203,
+      "end_ms": 347080
+    },
+    {
+      "index": 133,
+      "text": "Elena understood that they had heard her.",
+      "start_ms": 347080,
+      "end_ms": 349587
+    },
+    {
+      "index": 134,
+      "text": "She understood that they would keep the fish.",
+      "start_ms": 349587,
+      "end_ms": 352332
+    },
+    {
+      "index": 135,
+      "text": "She understood that this was not going to fix everything — this was not the point of the fish — but that it was going to make one small thing better.",
+      "start_ms": 352332,
+      "end_ms": 361283
+    },
+    {
+      "index": 136,
+      "text": "And she thought — Chiara was right about what a small thing can be for.",
+      "start_ms": 361283,
+      "end_ms": 365520
+    }
+  ]
+}

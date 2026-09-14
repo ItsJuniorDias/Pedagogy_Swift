@@ -1,0 +1,319 @@
+{
+  "story_id": "butterfly-garden",
+  "chapter": 1,
+  "total_duration_ms": 206592,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Iris's grandmother lived in a small stone house at the edge of a village in Devon, and behind the stone house was a greenhouse, and inside the greenhouse were three hundred and forty-seven butterflies.",
+      "start_ms": 2491,
+      "end_ms": 15795
+    },
+    {
+      "index": 1,
+      "text": "Grandmother Rose knew each of them.",
+      "start_ms": 15795,
+      "end_ms": 18220
+    },
+    {
+      "index": 2,
+      "text": "\"That one is Ada,\" she said, pointing at a small blue butterfly.",
+      "start_ms": 18220,
+      "end_ms": 22480
+    },
+    {
+      "index": 3,
+      "text": "\"She was born on Tuesday.",
+      "start_ms": 22480,
+      "end_ms": 24184
+    },
+    {
+      "index": 4,
+      "text": "That one is Percival — he only comes out for pears.",
+      "start_ms": 24184,
+      "end_ms": 27592
+    },
+    {
+      "index": 5,
+      "text": "And that one there is Lily, but she thinks she's called Emma.",
+      "start_ms": 27592,
+      "end_ms": 31656
+    },
+    {
+      "index": 6,
+      "text": "It's a long story.\"",
+      "start_ms": 31656,
+      "end_ms": 33032
+    },
+    {
+      "index": 7,
+      "text": "Iris was ten and she had never met her grandmother before this summer.",
+      "start_ms": 33032,
+      "end_ms": 37686
+    },
+    {
+      "index": 8,
+      "text": "Her mother had said Grandmother Rose was \"eccentric,\" which Iris had learned was what grown-ups said when they meant something they did not want to explain.",
+      "start_ms": 37686,
+      "end_ms": 48041
+    },
+    {
+      "index": 9,
+      "text": "So far, Iris did not think eccentric was so bad.",
+      "start_ms": 48041,
+      "end_ms": 51253
+    },
+    {
+      "index": 10,
+      "text": "Grandmother Rose let her eat toast in the greenhouse and did not mind if she stayed up until the fireflies came out.",
+      "start_ms": 51253,
+      "end_ms": 58986
+    },
+    {
+      "index": 11,
+      "text": "The first strange thing happened on the second night.",
+      "start_ms": 58986,
+      "end_ms": 62591
+    },
+    {
+      "index": 12,
+      "text": "Iris was sitting on the little wooden bench in the middle of the greenhouse, drawing butterflies in a notebook, when a butterfly landed on the page.",
+      "start_ms": 62591,
+      "end_ms": 72422
+    },
+    {
+      "index": 13,
+      "text": "It was not one she had seen before.",
+      "start_ms": 72422,
+      "end_ms": 74847
+    },
+    {
+      "index": 14,
+      "text": "It was pale, almost silver, and its wings had rings on them.",
+      "start_ms": 74847,
+      "end_ms": 78845
+    },
+    {
+      "index": 15,
+      "text": "Circles inside circles inside circles, like a target, or like the ripples a stone makes when it falls into a pond.",
+      "start_ms": 78845,
+      "end_ms": 86448
+    },
+    {
+      "index": 16,
+      "text": "Iris held very still.",
+      "start_ms": 86448,
+      "end_ms": 87955
+    },
+    {
+      "index": 17,
+      "text": "The butterfly stayed on her page for a long time.",
+      "start_ms": 87955,
+      "end_ms": 91232
+    },
+    {
+      "index": 18,
+      "text": "Then it lifted, flew in a slow spiral, and landed on a leaf.",
+      "start_ms": 91232,
+      "end_ms": 95296
+    },
+    {
+      "index": 19,
+      "text": "\"Grandmother?\" Iris called.",
+      "start_ms": 95296,
+      "end_ms": 97131
+    },
+    {
+      "index": 20,
+      "text": "\"There's a butterfly here I don't think you know.\"",
+      "start_ms": 97131,
+      "end_ms": 100539
+    },
+    {
+      "index": 21,
+      "text": "Grandmother Rose came in and looked.",
+      "start_ms": 100539,
+      "end_ms": 102964
+    },
+    {
+      "index": 22,
+      "text": "Her face went still.",
+      "start_ms": 102964,
+      "end_ms": 104340
+    },
+    {
+      "index": 23,
+      "text": "She was quiet for so long that Iris began to think something was wrong.",
+      "start_ms": 104340,
+      "end_ms": 109125
+    },
+    {
+      "index": 24,
+      "text": "\"I have been keeping butterflies since I was twelve years old,\" said Grandmother Rose finally.",
+      "start_ms": 109125,
+      "end_ms": 115351
+    },
+    {
+      "index": 25,
+      "text": "\"That is sixty-two years.",
+      "start_ms": 115351,
+      "end_ms": 117055
+    },
+    {
+      "index": 26,
+      "text": "I have never seen wings like that in my life.\"",
+      "start_ms": 117055,
+      "end_ms": 120201
+    },
+    {
+      "index": 27,
+      "text": "The third night, there were two of them.",
+      "start_ms": 120201,
+      "end_ms": 122888
+    },
+    {
+      "index": 28,
+      "text": "The silver one, and a smaller one with lines like arrows.",
+      "start_ms": 122888,
+      "end_ms": 126624
+    },
+    {
+      "index": 29,
+      "text": "The fourth night, there were five.",
+      "start_ms": 126624,
+      "end_ms": 128879
+    },
+    {
+      "index": 30,
+      "text": "The silver one, the arrow one, and three new ones.",
+      "start_ms": 128879,
+      "end_ms": 132166
+    },
+    {
+      "index": 31,
+      "text": "One had spots that made the shape of a mountain.",
+      "start_ms": 132166,
+      "end_ms": 135323
+    },
+    {
+      "index": 32,
+      "text": "One had wings that looked like a spiral.",
+      "start_ms": 135323,
+      "end_ms": 137965
+    },
+    {
+      "index": 33,
+      "text": "One had wings that looked, if you squinted, like the number four.",
+      "start_ms": 137965,
+      "end_ms": 142283
+    },
+    {
+      "index": 34,
+      "text": "\"They keep coming,\" Iris told her grandmother.",
+      "start_ms": 142283,
+      "end_ms": 145311
+    },
+    {
+      "index": 35,
+      "text": "\"And they keep drawing shapes in the air.",
+      "start_ms": 145311,
+      "end_ms": 148018
+    },
+    {
+      "index": 36,
+      "text": "Look —\"",
+      "start_ms": 148018,
+      "end_ms": 148597
+    },
+    {
+      "index": 37,
+      "text": "She showed her grandmother the notebook.",
+      "start_ms": 148597,
+      "end_ms": 151239
+    },
+    {
+      "index": 38,
+      "text": "On every page, Iris had traced the paths the butterflies flew.",
+      "start_ms": 151239,
+      "end_ms": 155299
+    },
+    {
+      "index": 39,
+      "text": "Loops.",
+      "start_ms": 155299,
+      "end_ms": 155750
+    },
+    {
+      "index": 40,
+      "text": "Angles.",
+      "start_ms": 155750,
+      "end_ms": 156266
+    },
+    {
+      "index": 41,
+      "text": "Lines.",
+      "start_ms": 156266,
+      "end_ms": 156781
+    },
+    {
+      "index": 42,
+      "text": "Grandmother Rose spread the pages out on the bench.",
+      "start_ms": 156781,
+      "end_ms": 160196
+    },
+    {
+      "index": 43,
+      "text": "She looked at them for a long time.",
+      "start_ms": 160196,
+      "end_ms": 162581
+    },
+    {
+      "index": 44,
+      "text": "\"Iris,\" she said finally, \"do you think this could be a map?\"",
+      "start_ms": 162581,
+      "end_ms": 166640
+    },
+    {
+      "index": 45,
+      "text": "Iris looked.",
+      "start_ms": 166640,
+      "end_ms": 167478
+    },
+    {
+      "index": 46,
+      "text": "She looked at the loops the silver butterfly had made.",
+      "start_ms": 167478,
+      "end_ms": 171022
+    },
+    {
+      "index": 47,
+      "text": "She looked at the arrows the second butterfly had drawn.",
+      "start_ms": 171022,
+      "end_ms": 174695
+    },
+    {
+      "index": 48,
+      "text": "She looked at the mountain, and the spiral, and the shape like a number four.",
+      "start_ms": 174695,
+      "end_ms": 179786
+    },
+    {
+      "index": 49,
+      "text": "And she saw, all at once, that it was a map.",
+      "start_ms": 179786,
+      "end_ms": 182685
+    },
+    {
+      "index": 50,
+      "text": "It was a map of the garden behind the greenhouse, and the loops were the flowerbeds, and the arrows were the paths, and the mountain was the old apple tree, and the spiral was the little fountain, and the shape like a four was the oldest rose bush, the one Grandmother Rose said her own grandmother had planted a hundred years ago.",
+      "start_ms": 182685,
+      "end_ms": 204143
+    },
+    {
+      "index": 51,
+      "text": "And in the middle of the map was an X.",
+      "start_ms": 204143,
+      "end_ms": 206592
+    }
+  ]
+}

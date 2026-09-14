@@ -1,0 +1,167 @@
+{
+  "id": "three-days-on-the-atoll",
+  "title": "Three Days on the Atoll",
+  "subtitle": "A Small Boat, a Small Island",
+  "author": null,
+  "summary": "Mala is eleven and lives with her father in Tarawa, the small capital of the Pacific island nation of Kiribati. He fishes for a living, and sometimes takes her out on weekends. On a Saturday in June, their small motor fails ten kilometers from home, near a tiny uninhabited coral atoll. The wind is not their friend. They will have to wait for someone to notice they are gone. Three days on the atoll with her father. Just water, sand, and each other.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-three-days-on-the-atoll-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Mala) with straight black hair to her shoulders, wearing a light blue cotton tank top and light blue shorts, standing barefoot on a small crescent of white coral sand facing a shallow turquoise lagoon. Beside her stands her father (Tavita, mid-thirties, tan, thin, in a khaki fishing shirt and shorts) also barefoot, holding a small metal water bottle. Their small wooden fishing boat is pulled up on the sand behind them. Coconut palms rise on the far side of the tiny island. Deep blue Pacific beyond. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0) sand, turquoise lagoon, deep ink outlines, small dusty rose (#FF5B8D) accent on her cheeks. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2027-05-06",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Motor",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ta-ch1-p1-tarawa",
+          "imagePrompt": "Mike Mignola style for children: exterior morning view of the harbor at Tarawa, Kiribati. Small wooden fishing boats bobbing at anchor. Palm trees along the shore. Simple concrete and thatch houses along the beachfront. Bright early morning tropical light. A girl (Mala, 11, in a light blue tank top and shorts) walks with her father (Tavita, mid-thirties, thin, khaki shirt) down a wooden pier toward a small boat. Heavy black ink outlines, flat shadows, cream palette with warm gold and turquoise.",
+          "paragraphs": [
+            "Mala lived in Tarawa, the capital of the small island nation of Kiribati, in the middle of the Pacific Ocean. Tarawa was an atoll — a long thin curve of coral islands strung around a large shallow lagoon. If you looked at it from a plane, it looked like a green necklace floating on the biggest blue in the world. Maybe sixty thousand people lived along the atoll. Mala's family was one of them. Her father, Tavita, was a fisherman. Her mother had died of a fever when Mala was three. Since then Mala had been raised by her father and by her father's older sister, whom she called Aunt Teuea, who lived next door.",
+            "Mala was eleven. She loved being on the boat with her father. It was not always allowed — school got in the way most of the time — but on Saturdays, if the weather was good, her father sometimes took her out with him for the morning. They would leave at dawn. They would go out to a small reef about eight kilometers from the harbor. They would drop nets. They would wait. They would come back in by noon. Sometimes with a lot of fish, sometimes with a few. Either way, Mala loved every minute of it."
+          ]
+        },
+        {
+          "image": "ta-ch1-p2-open-water",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on the small wooden fishing boat. Mala (11) and her father Tavita (mid-thirties) are out on open turquoise-blue Pacific water. The atoll of Tarawa is a thin green line on the horizon behind them. The small motor at the back of the boat is humming. Warm morning light. Heavy ink outlines, flat shadows, cream palette with strong turquoise and warm gold.",
+          "paragraphs": [
+            "On that particular Saturday in June it was calm and sunny. They had gone out at five in the morning and had fished at the usual reef for maybe three hours. They had a decent catch — enough for a good week. Around eight they had started the motor and had begun the trip back. That was when the motor made a strange sound. A small cough. Then a bigger cough. Then it stopped.",
+            "Tavita spent maybe fifteen minutes trying to restart it. He tried everything he knew. He was calm — he had had a motor die before — but he was serious. The motor was not going to restart. He turned to Mala. He said, \"Mala. Look. The motor is done. Something in it has broken. It is not something I can fix with what I have here. That means we cannot go back the fast way. We have to wait.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Mala said, \"Can we sail back.\" Their boat did have a small emergency sail — a simple square canvas that could be rigged if there was wind. Tavita looked around. He said, \"We could try. But the wind is going the wrong way. It is coming from the west, and Tarawa is to the west. We would be sailing straight into it. That is very slow. It would take us — many hours. Maybe a whole day. And the wind is picking up. I do not want to be out on open water in a small boat if the wind gets stronger. It is going to get stronger.\"",
+            "He looked around again. He pointed at something. Mala turned. Maybe two kilometers away, sticking up out of the ocean, was a tiny green speck. It was a small uninhabited atoll — one of the many small coral spits in the region. Mala had seen it from the boat many times. It had no name that she knew of. Nobody lived on it. It was just a small ring of coral with a few coconut palms and some low bushes and a small lagoon in the middle. Tavita said, \"That is where we go. That is our island. We sail there. We land. We wait. Someone will notice we did not come back. Aunt Teuea will notice by lunchtime today. She will call the harbor. The harbor will send someone to look. It will take them a day or two, maybe. But they will come.\""
+          ]
+        },
+        {
+          "image": "ta-ch1-p4-sailing",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. The small fishing boat now has its small emergency sail rigged and is moving slowly across the sea toward the small uninhabited atoll in the middle distance. Tavita (mid-thirties) works the tiller. Mala (11) sits at the bow watching. Warm midday light. Heavy ink outlines, flat shadows, cream palette with turquoise.",
+          "paragraphs": [
+            "It took them two hours to sail the two kilometers to the atoll. Tavita rigged the small sail. It caught the wind poorly — the wind was almost exactly wrong for reaching the atoll — but by tacking back and forth, and by paddling occasionally, they made progress. The atoll got closer. Mala could see it more clearly now. It was tiny. Maybe two hundred meters across at its widest. A ring of white coral sand around a small shallow lagoon. Maybe fifteen coconut palms. Some low green bushes.",
+            "They landed on the western shore, on the side facing home. Tavita pulled the boat up onto the sand. They tied it to a coconut palm. They stood on the beach. Tavita looked at his watch. He said, \"It is ten in the morning. Aunt Teuea will start to worry by two. She will call at three. The harbor patrol might come today, if we are lucky. If not — tomorrow morning. Maybe the day after. We have food for one day. We have water for one day. We have the whole island. We will be fine. But we have to be smart. Do you understand.\" Mala said, \"Yes.\""
+          ]
+        },
+        {
+          "image": "ta-ch1-p5-first-day",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on the small atoll. Mala (11) is helping her father gather driftwood from around the beach into a small pile. The sun is high. The lagoon is calm and turquoise in the background. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Tavita went to work. He was calm and efficient. He walked around the whole small island in about twenty minutes to see what it had. He came back and told Mala the plan. First — coconuts, for water. There were plenty on the palms. Second — driftwood, for a fire. There was a good amount on the beaches. Third — a small camp above the high-water mark, in the shade of the palms. Fourth — a signal fire ready to light when they saw a boat.",
+            "Mala worked with him. They gathered driftwood into a pile. They knocked down four coconuts with a long stick — Tavita was patient about this, and Mala got the last one down herself, after twenty minutes of trying. They opened them with a small hatchet Tavita had in the boat, and they drank the coconut water — sweet, cool, exactly what they needed. They ate the small amount of food they had — two small pieces of dried fish and a small handful of rice they cooked in a tin can over a small fire. That was lunch. Tavita said, \"For supper — we fish. There is a reef right on the outside of the atoll. We will catch something. Do not worry about food. Kiribati people have lived on islands like this for a thousand years. Small islands are enough.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Second Day",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ta-ch2-p1-first-night",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene on the atoll. A small fire burns on the beach. Mala (11) and her father Tavita (mid-thirties) sit on the sand together, both looking up. Above them, a spectacular tropical night sky full of stars, the Milky Way arching over the small island. Heavy ink outlines, flat shadows, cream palette with warm gold from the fire and deep blue-black sky with tiny gold stars.",
+          "paragraphs": [
+            "On the first night, they sat by their small fire on the beach. They had eaten two small fish that Tavita had caught in the reef with a hand-line he had had in the boat. The fish had been grilled directly on the coals. It had been a very simple meal — no salt, no rice, no vegetables — but Mala had been very hungry, and it had been one of the best meals she had ever had. She said so. Her father laughed. He said, \"Hunger is the best chef. That is what my mother used to say.\"",
+            "The sky, when the sun went down, was — enormous. Mala had never seen a sky like this. In Tarawa there were streetlights and houses and cooking fires everywhere. Here there was nothing. The Milky Way arched across the sky. There were more stars than she could believe. Her father lay back on the sand and looked up. She lay back beside him. They did not talk for a long time."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "After a while her father said, \"Mala. I want to talk to you about something.\" \"Yes?\" \"When I was your age — eleven — my father died. Suddenly. On his boat. His heart. Nobody had known it was going to happen. He went out one morning, alone, and he did not come back. My uncle found the boat that afternoon, empty. They never found his body. That was how it was.\" Mala had heard some of this before but not all of it. She said, \"That is very sad, Papa.\" \"Yes,\" said her father. \"It was very sad. But — I want to tell you about it because it made me think, when I was your age, about my own dying. I was scared for years. That the same thing would happen to me. That I would be on a boat with you someday and something would happen. That you would be — I do not know. Alone.\"",
+            "\"I have thought about this every time I have taken you out on the boat,\" he said. \"I know you love the boat. I know I take you out anyway. But I want you to know — I have always known there was a small chance that something would happen. And I want you to know some things, if that ever does happen. Some things that would help.\""
+          ]
+        },
+        {
+          "image": "ta-ch2-p3-teaching",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene. Tavita (mid-thirties) sits up on the sand and gestures with one hand, teaching. Mala (11) sits cross-legged listening carefully. The fire between them. The stars above. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "Her father sat up. He said, \"First. If we are ever separated on the water and I cannot help you — go to the nearest land. Do not try to sail all the way home. Go to whatever land you can see. Any land. Coconut palms will give you water. That is the main thing on any of these small islands. You will not die of thirst if there are coconut palms. That is the main thing to know.\"",
+            "\"Second. Fire is the second most important thing. If you have matches — start a fire. If not, you can use the little glass from the compass we keep in the boat as a magnifying glass — you can start a fire with sun and glass. I have shown you before. Third. Do not panic. Panic is what kills people in situations like this. Not thirst. Not hunger. Not sharks. Panic. If you stay calm, you can survive for a very long time on very little.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Papa,\" Mala said. \"Are you going to die on the boat like your father did.\" Tavita was quiet for a long moment. Then he said, \"I do not know, Mala. I hope not. I have taken care of my health. I go to the doctor once a year. My heart is fine, as far as I know. I am forty-two. Forty-two is not old. I hope to be with you for many many years. But — no one knows. I am telling you these things because — I want you to know them. Not because I think it is going to happen. Because I think — I owe you the knowledge. Just in case.\"",
+            "Mala nodded. She was not scared, exactly. She was — grateful, in a way she was not used to feeling. Her father was talking to her like she was — an adult. Not entirely, but close. He was telling her real things. Not softening them. She said, \"Papa. Can you also tell me — if you did die — what should I do. Not just for surviving on a boat. What should I do — for real. In my life.\""
+          ]
+        },
+        {
+          "image": "ta-ch2-p5-answer",
+          "imagePrompt": "Mike Mignola style for children: exterior night close view. Mala (11) sits looking up at her father Tavita (mid-thirties), who is turned toward her, his expression very still and considering. Fire flickering. Heavy ink outlines, flat shadows, cream palette with warm gold on their faces.",
+          "paragraphs": [
+            "Her father was quiet for a very long time. Then he said, in a slow careful voice, \"Mala. If I die when you are still young, this is what I want you to do. Live with Aunt Teuea. She loves you like her own child. She will take care of you. She will get you to finish school. She will make sure you have what you need. And — go to secondary school. Then, if you want, university. There is a scholarship program for Kiribati students to study in Fiji, or Australia, or New Zealand. I have been putting money aside for it. Aunt Teuea knows where the money is. Go and study. Come back to Tarawa afterward, if you want to. Or stay in the bigger world. Whatever you want. But — do not stop learning. That is what I want most for you. Do not stop learning.\"",
+            "\"Also — and this is different — I want you to know that a life in Tarawa is a good life. If you decide you want to stay here and be a fisherman like me, or teach school like your Aunt Teuea, or do anything else that keeps you close to home — that is also a full life. Do not think that leaving is the only good thing. Some people leave. Some people stay. Both are honest. Whichever one you pick — pick it because it is the one that feels right, not because it is the one that seems bigger.\" He paused. \"Do not worry about me watching. If I am watching, I am proud of you either way. And if I am not watching — well. Then it does not matter. But live for you. Yes?\" Mala said, \"Yes, Papa.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Boat",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ta-ch3-p1-second-morning",
+          "imagePrompt": "Mike Mignola style for children: exterior morning scene on the atoll. Mala (11) and her father Tavita (mid-thirties) sit on the sand eating small pieces of white coconut flesh with their fingers. The sun is coming up over the lagoon behind them, gold and pink. Their boat is pulled up on the sand. Heavy ink outlines, flat shadows, cream palette with warm sunrise gold.",
+          "paragraphs": [
+            "On the second morning they woke early. They ate coconut. They walked around the island. They did some maintenance on the fire — banking it, making sure the driftwood pile stayed dry. They fished for lunch. Mala caught her first fish — a small silver reef fish, about the size of her hand. She was very proud. Her father cooked it. They ate it. The day was slow. The sun was hot at midday. They rested in the shade of the palms.",
+            "In the afternoon her father worked on the motor. He had not brought many tools but he was trying to at least understand what had failed. He took it apart, piece by piece, laying every part carefully on a piece of cloth. He said, \"There is a small part inside the fuel line that has broken. I cannot fix it here. But when we get back I know what to buy. Fine. So we know.\""
+          ]
+        },
+        {
+          "image": "ta-ch3-p2-waiting",
+          "imagePrompt": "Mike Mignola style for children: exterior scene late afternoon on the atoll. Mala (11) and her father Tavita (mid-thirties) sit on the beach looking out at the vast empty ocean, waiting. The sky is starting to turn orange with the coming sunset. Heavy ink outlines, flat shadows, cream palette with warm orange sky.",
+          "paragraphs": [
+            "That evening they watched the sea. No boat came. Her father said, \"They will come. Do not worry. Tomorrow probably. Aunt Teuea will be very worried. The harbor patrol is thorough. They know where I fish. They will send someone to check the reef and the small atolls in this area. It is a straightforward search. Tomorrow. Maybe the day after. We are fine.\"",
+            "That second night Mala was quieter. She had been thinking about what her father had told her. It had — settled in her, in a way. She lay on the sand beside him and looked up at the stars. She said, \"Papa. I have thought about what you said. About what to do if you died. I want to tell you what I decided.\" Her father said, \"Okay. Tell me.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"I think I want to go to secondary school. And I think I want to try for the scholarship. I have been thinking about it for a while, actually. I did not know how to ask you. I did not want you to think I wanted to leave. But — I think I want to try. I want to be a — I do not know yet — but maybe a doctor. There are not enough doctors in Tarawa. We had to fly to Fiji when Grandmother needed her operation. That should not have to happen. I want to be able to help people in Kiribati without them having to leave. That is what I want.\"",
+            "Her father was silent for a moment. Then he said, in a voice that was slightly rough, \"Mala. I did not know you had thought that far. I am so proud of you. That is a beautiful plan. I will support you every step of the way. And I will help you save for it. Whatever it takes.\" Mala said, \"Papa. Please do not die before I finish. Please. I want you to see me become a doctor.\" Her father laughed — a wet laugh — and said, \"I will do my best, Mala. I will do my very best.\""
+          ]
+        },
+        {
+          "image": "ta-ch3-p4-boat-arrives",
+          "imagePrompt": "Mike Mignola style for children: exterior morning scene. A larger motor patrol boat is approaching the atoll across the water. Two figures are visible on it, one waving. Mala (11) and Tavita (mid-thirties) stand at the beach waving back. The signal fire smokes behind them. Warm morning light. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "The harbor patrol boat came the next morning at about ten. Mala saw it first. She had been watching the horizon. She saw a small dark shape approaching from the direction of Tarawa. She shouted, \"Papa. Papa. There.\" Her father saw it. He ran to the signal fire. He lit it — the fire produced a lot of thick white smoke, because he had been keeping green palm fronds ready to throw on it. The smoke rose high. The boat changed course. It came straight for them.",
+            "It was Uncle Beteru — Aunt Teuea's husband — and one of the men from the harbor patrol. They pulled up to the beach. They were relieved. Uncle Beteru got out and hugged both Mala and her father hard, and then hugged them again. He said, \"Teuea is having a heart attack from worry. We have been looking for you since yesterday morning. We have been to five other atolls first. This was the last one we were going to check today.\" Her father said, \"Motor. Broken. We are fine. Very fine.\""
+          ]
+        },
+        {
+          "image": "ta-ch3-p5-returning",
+          "imagePrompt": "Mike Mignola style for children: exterior scene approaching the harbor at Tarawa. Mala (11) stands at the bow of the towed boat looking back at the small atoll shrinking in the distance. Her father Tavita (mid-thirties) stands beside her, one hand on her shoulder. Warm afternoon light. Heavy ink outlines, flat shadows, cream palette with warm gold and turquoise.",
+          "paragraphs": [
+            "They towed the fishing boat back to Tarawa. It took most of the afternoon. Mala stood at the bow of her father's boat with him. She watched the small atoll get smaller and smaller until it was just a tiny green speck on the horizon and then nothing. She said, \"Papa. I want to remember this. This was one of the best three days of my life.\" Her father laughed and said, \"Even the second night when there was no boat.\" \"Yes,\" said Mala. \"Even the second night. That was the best one, actually. Because you told me things.\"",
+            "They got home before dark. Aunt Teuea was crying at the pier when they arrived. She hugged Mala until Mala could not breathe. Mala's father told everyone the story of what had happened. Everyone was fine. Everyone was safe. Mala's father spent the next two weeks fixing the motor. Mala went back to school on Monday. She told nobody at school what had happened. She kept it as her own. But that year she started studying harder than she ever had. When she was seventeen, she got the scholarship. She went to Auckland to study medicine. Her father was still alive. He was very proud. He drove her — or, well, he came with her on the plane — to Auckland. He hugged her at the airport. He said, \"Remember the atoll, Mala. Remember what you decided.\" She said, \"I remember, Papa.\" And she went off to school. She became a doctor. She came back to Tarawa. Her father lived until she was thirty-four. He got to see her set up a small clinic in Bikenibeu. He died in his sleep. Mala took his ashes back to the small nameless atoll and spread them on the beach where they had watched the stars together. That was the whole thing. That was enough."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "father",
+    "kiribati",
+    "pacific",
+    "survival"
+  ]
+}

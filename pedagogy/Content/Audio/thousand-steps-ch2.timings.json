@@ -1,0 +1,595 @@
+{
+  "story_id": "thousand-steps",
+  "chapter": 2,
+  "total_duration_ms": 390936,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "They spent the whole afternoon at the rim of the biggest bowl.",
+      "start_ms": 2278,
+      "end_ms": 6055
+    },
+    {
+      "index": 1,
+      "text": "Manuel had brought a folded picnic blanket and a small lunch of bread and cheese and hard-boiled eggs and oranges.",
+      "start_ms": 6055,
+      "end_ms": 12949
+    },
+    {
+      "index": 2,
+      "text": "They ate slowly.",
+      "start_ms": 12949,
+      "end_ms": 13968
+    },
+    {
+      "index": 3,
+      "text": "Manuel opened his sketchbook to a fresh page.",
+      "start_ms": 13968,
+      "end_ms": 16726
+    },
+    {
+      "index": 4,
+      "text": "But he did not draw yet.",
+      "start_ms": 16726,
+      "end_ms": 18225
+    },
+    {
+      "index": 5,
+      "text": "He talked.",
+      "start_ms": 18225,
+      "end_ms": 18944
+    },
+    {
+      "index": 6,
+      "text": "\"What you are looking at, mi hijo,\" he said, \"is a laboratory.",
+      "start_ms": 18944,
+      "end_ms": 22721
+    },
+    {
+      "index": 7,
+      "text": "It is a six-hundred-year-old agricultural laboratory built by the Incas.",
+      "start_ms": 22721,
+      "end_ms": 27098
+    },
+    {
+      "index": 8,
+      "text": "Every terrace in that bowl is a different temperature.",
+      "start_ms": 27098,
+      "end_ms": 30395
+    },
+    {
+      "index": 9,
+      "text": "The bottom of the bowl is about fifteen degrees warmer than the top edge.",
+      "start_ms": 30395,
+      "end_ms": 34831
+    },
+    {
+      "index": 10,
+      "text": "That is more temperature difference than between here and the coast.",
+      "start_ms": 34831,
+      "end_ms": 38968
+    },
+    {
+      "index": 11,
+      "text": "The Incas built the bowl so that they could grow the same crop at many different temperatures and see how each variety did.",
+      "start_ms": 38968,
+      "end_ms": 46402
+    },
+    {
+      "index": 12,
+      "text": "They tested varieties of maize, of potato, of quinoa, of tomato, of coca, of a hundred other plants.",
+      "start_ms": 46402,
+      "end_ms": 52457
+    },
+    {
+      "index": 13,
+      "text": "They kept the ones that grew well at each level.",
+      "start_ms": 52457,
+      "end_ms": 55394
+    },
+    {
+      "index": 14,
+      "text": "Over generations, they bred varieties for the exact micro-climate of every valley in their empire.",
+      "start_ms": 55394,
+      "end_ms": 61329
+    },
+    {
+      "index": 15,
+      "text": "This bowl was not for feeding people.",
+      "start_ms": 61329,
+      "end_ms": 63607
+    },
+    {
+      "index": 16,
+      "text": "Not directly.",
+      "start_ms": 63607,
+      "end_ms": 64447
+    },
+    {
+      "index": 17,
+      "text": "It was for figuring out what to plant everywhere else.\"",
+      "start_ms": 64447,
+      "end_ms": 67864
+    },
+    {
+      "index": 18,
+      "text": "Diego looked at the bowl differently, then.",
+      "start_ms": 67864,
+      "end_ms": 70502
+    },
+    {
+      "index": 19,
+      "text": "What had looked like an instrument became something more like a book — page after page of careful experiment, each ring a separate line of thinking.",
+      "start_ms": 70502,
+      "end_ms": 79434
+    },
+    {
+      "index": 20,
+      "text": "He said, \"How did they know?\" Manuel said, \"They watched.",
+      "start_ms": 79434,
+      "end_ms": 82911
+    },
+    {
+      "index": 21,
+      "text": "For a very long time.",
+      "start_ms": 82911,
+      "end_ms": 84230
+    },
+    {
+      "index": 22,
+      "text": "Hundreds of years, before this bowl was built, they were noticing how plants grew in different places.",
+      "start_ms": 84230,
+      "end_ms": 90405
+    },
+    {
+      "index": 23,
+      "text": "This bowl was a way of putting all that watching into one place.",
+      "start_ms": 90405,
+      "end_ms": 94302
+    },
+    {
+      "index": 24,
+      "text": "Instead of walking a whole day to see how maize grew at a slightly different altitude, they could walk down five steps.\"",
+      "start_ms": 94302,
+      "end_ms": 101496
+    },
+    {
+      "index": 25,
+      "text": "Manuel picked up his pencil then, and began to draw — not the whole bowl, but one specific curve of one specific terrace, where a small stone drainage channel came out of the wall.",
+      "start_ms": 101496,
+      "end_ms": 113867
+    },
+    {
+      "index": 26,
+      "text": "He drew with quick sure lines.",
+      "start_ms": 113867,
+      "end_ms": 115986
+    },
+    {
+      "index": 27,
+      "text": "Diego watched.",
+      "start_ms": 115986,
+      "end_ms": 117011
+    },
+    {
+      "index": 28,
+      "text": "Manuel's hand did not seem to think about what it was doing.",
+      "start_ms": 117011,
+      "end_ms": 121180
+    },
+    {
+      "index": 29,
+      "text": "It just did it.",
+      "start_ms": 121180,
+      "end_ms": 122274
+    },
+    {
+      "index": 30,
+      "text": "After maybe ten minutes he stopped, looked at what he had drawn, added one small dot with the pencil, and then wrote in the margin, in his small careful handwriting: Moray, July, still the same drainage as fifty years ago.",
+      "start_ms": 122274,
+      "end_ms": 137515
+    },
+    {
+      "index": 31,
+      "text": "Small consolations.",
+      "start_ms": 137515,
+      "end_ms": 138950
+    },
+    {
+      "index": 32,
+      "text": "Diego asked, \"Have you been here before?\" Manuel smiled.",
+      "start_ms": 138950,
+      "end_ms": 142846
+    },
+    {
+      "index": 33,
+      "text": "\"Twenty-eight times, in my life.",
+      "start_ms": 142846,
+      "end_ms": 145102
+    },
+    {
+      "index": 34,
+      "text": "First when I was twenty-one and a young architecture student.",
+      "start_ms": 145102,
+      "end_ms": 149339
+    },
+    {
+      "index": 35,
+      "text": "This sketchbook has drawings of Moray from every decade of my life.",
+      "start_ms": 149339,
+      "end_ms": 153987
+    },
+    {
+      "index": 36,
+      "text": "I always come back.",
+      "start_ms": 153987,
+      "end_ms": 155354
+    },
+    {
+      "index": 37,
+      "text": "It teaches me something new every time.",
+      "start_ms": 155354,
+      "end_ms": 158087
+    },
+    {
+      "index": 38,
+      "text": "Or I am ready to see something new.",
+      "start_ms": 158087,
+      "end_ms": 160548
+    },
+    {
+      "index": 39,
+      "text": "Either way.\"",
+      "start_ms": 160548,
+      "end_ms": 161505
+    },
+    {
+      "index": 40,
+      "text": "The next morning they drove to Maras.",
+      "start_ms": 161505,
+      "end_ms": 164102
+    },
+    {
+      "index": 41,
+      "text": "The salt pans were less than half an hour from Moray, cascading down a steep white and gold hillside above a small stream.",
+      "start_ms": 164102,
+      "end_ms": 172509
+    },
+    {
+      "index": 42,
+      "text": "There were, Manuel said, about six thousand small rectangular salt pools built into the hillside — each maybe three meters across, each shallow and terraced above and below its neighbors.",
+      "start_ms": 172509,
+      "end_ms": 185358
+    },
+    {
+      "index": 43,
+      "text": "The whole hillside looked, from above, like an enormous mosaic of pale gold and white tiles.",
+      "start_ms": 185358,
+      "end_ms": 191783
+    },
+    {
+      "index": 44,
+      "text": "Manuel led Diego down the narrow paths that ran between the pools.",
+      "start_ms": 191783,
+      "end_ms": 196362
+    },
+    {
+      "index": 45,
+      "text": "In several of them, women in bright pollera skirts were working — raking crystallized salt out of the drying pools into small baskets.",
+      "start_ms": 196362,
+      "end_ms": 205589
+    },
+    {
+      "index": 46,
+      "text": "Manuel greeted a few by name.",
+      "start_ms": 205589,
+      "end_ms": 207639
+    },
+    {
+      "index": 47,
+      "text": "They knew him.",
+      "start_ms": 207639,
+      "end_ms": 208664
+    },
+    {
+      "index": 48,
+      "text": "He had been coming, he told Diego, since long before Diego was born.",
+      "start_ms": 208664,
+      "end_ms": 213312
+    },
+    {
+      "index": 49,
+      "text": "They sat on a low stone wall above the pools with their lunch.",
+      "start_ms": 213312,
+      "end_ms": 217565
+    },
+    {
+      "index": 50,
+      "text": "Manuel opened his sketchbook.",
+      "start_ms": 217565,
+      "end_ms": 219591
+    },
+    {
+      "index": 51,
+      "text": "But before he drew, he said, \"This place, Diego, is even more interesting than Moray, in a way.",
+      "start_ms": 219591,
+      "end_ms": 226072
+    },
+    {
+      "index": 52,
+      "text": "The Incas did not build the salt spring.",
+      "start_ms": 226072,
+      "end_ms": 228841
+    },
+    {
+      "index": 53,
+      "text": "The spring was here already — a natural underground source of very salty warm water, coming out of the mountain.",
+      "start_ms": 228841,
+      "end_ms": 236470
+    },
+    {
+      "index": 54,
+      "text": "What the Incas did was design the whole system that turns that water into salt.",
+      "start_ms": 236470,
+      "end_ms": 241871
+    },
+    {
+      "index": 55,
+      "text": "Every pool feeds the pool below it.",
+      "start_ms": 241871,
+      "end_ms": 244302
+    },
+    {
+      "index": 56,
+      "text": "The water flows by gravity from the spring at the top, along channels the Incas cut, and enters each pool at exactly the right rate.",
+      "start_ms": 244302,
+      "end_ms": 253281
+    },
+    {
+      "index": 57,
+      "text": "When a pool has enough water, its owner closes a small stone gate at the entrance.",
+      "start_ms": 253281,
+      "end_ms": 258885
+    },
+    {
+      "index": 58,
+      "text": "The sun and wind evaporate the water, over about three weeks, until only the salt is left.",
+      "start_ms": 258885,
+      "end_ms": 265029
+    },
+    {
+      "index": 59,
+      "text": "The salt is scraped out.",
+      "start_ms": 265029,
+      "end_ms": 266717
+    },
+    {
+      "index": 60,
+      "text": "The pool is opened again.",
+      "start_ms": 266717,
+      "end_ms": 268472
+    },
+    {
+      "index": 61,
+      "text": "The next batch comes in.",
+      "start_ms": 268472,
+      "end_ms": 270160
+    },
+    {
+      "index": 62,
+      "text": "This has been done — the same way, by the same families — for five hundred years.",
+      "start_ms": 270160,
+      "end_ms": 275697
+    },
+    {
+      "index": 63,
+      "text": "Every pool belongs to a specific family in the villages down below.",
+      "start_ms": 275697,
+      "end_ms": 280288
+    },
+    {
+      "index": 64,
+      "text": "It is passed from parent to child.\"",
+      "start_ms": 280288,
+      "end_ms": 282786
+    },
+    {
+      "index": 65,
+      "text": "Diego said, \"So it is not owned by one person.\" Manuel said, \"No.",
+      "start_ms": 282786,
+      "end_ms": 287242
+    },
+    {
+      "index": 66,
+      "text": "Every family has ten or fifteen pools somewhere in the mosaic.",
+      "start_ms": 287242,
+      "end_ms": 291495
+    },
+    {
+      "index": 67,
+      "text": "Together, the whole hillside is worked.",
+      "start_ms": 291495,
+      "end_ms": 294196
+    },
+    {
+      "index": 68,
+      "text": "If your neighbor's pool leaks, you help fix it, because if it leaks it might damage yours.",
+      "start_ms": 294196,
+      "end_ms": 300340
+    },
+    {
+      "index": 69,
+      "text": "Everyone works together to keep the channels running.",
+      "start_ms": 300340,
+      "end_ms": 303986
+    },
+    {
+      "index": 70,
+      "text": "Nobody is in charge.",
+      "start_ms": 303986,
+      "end_ms": 305404
+    },
+    {
+      "index": 71,
+      "text": "The system runs itself.",
+      "start_ms": 305404,
+      "end_ms": 307024
+    },
+    {
+      "index": 72,
+      "text": "It has run itself for centuries.",
+      "start_ms": 307024,
+      "end_ms": 309252
+    },
+    {
+      "index": 73,
+      "text": "That is what I want you to see.",
+      "start_ms": 309252,
+      "end_ms": 311412
+    },
+    {
+      "index": 74,
+      "text": "That the Incas did not just build things.",
+      "start_ms": 311412,
+      "end_ms": 314248
+    },
+    {
+      "index": 75,
+      "text": "They designed how people would live with each other around the thing they built.",
+      "start_ms": 314248,
+      "end_ms": 319717
+    },
+    {
+      "index": 76,
+      "text": "That is much harder than building.\"",
+      "start_ms": 319717,
+      "end_ms": 322080
+    },
+    {
+      "index": 77,
+      "text": "That afternoon, Diego did something he had not planned to do.",
+      "start_ms": 322080,
+      "end_ms": 326536
+    },
+    {
+      "index": 78,
+      "text": "He took out the small plain notebook he had brought with him for school — he had thought he might do homework in the evenings — and he opened it, and he tried to draw one of the salt pools.",
+      "start_ms": 326536,
+      "end_ms": 340192
+    },
+    {
+      "index": 79,
+      "text": "It was harder than he had thought.",
+      "start_ms": 340192,
+      "end_ms": 342708
+    },
+    {
+      "index": 80,
+      "text": "His lines were not sure.",
+      "start_ms": 342708,
+      "end_ms": 344505
+    },
+    {
+      "index": 81,
+      "text": "The pool did not look like a pool; it looked like a wobbly rectangle.",
+      "start_ms": 344505,
+      "end_ms": 349536
+    },
+    {
+      "index": 82,
+      "text": "He crossed it out.",
+      "start_ms": 349536,
+      "end_ms": 350902
+    },
+    {
+      "index": 83,
+      "text": "He tried again.",
+      "start_ms": 350902,
+      "end_ms": 352052
+    },
+    {
+      "index": 84,
+      "text": "He crossed that out too.",
+      "start_ms": 352052,
+      "end_ms": 353849
+    },
+    {
+      "index": 85,
+      "text": "Manuel, beside him, did not comment.",
+      "start_ms": 353849,
+      "end_ms": 356508
+    },
+    {
+      "index": 86,
+      "text": "He did not offer help.",
+      "start_ms": 356508,
+      "end_ms": 358161
+    },
+    {
+      "index": 87,
+      "text": "He worked in his own sketchbook.",
+      "start_ms": 358161,
+      "end_ms": 360605
+    },
+    {
+      "index": 88,
+      "text": "After a few tries, Diego stopped crossing out.",
+      "start_ms": 360605,
+      "end_ms": 363983
+    },
+    {
+      "index": 89,
+      "text": "He let the wobbly rectangle stay.",
+      "start_ms": 363983,
+      "end_ms": 366427
+    },
+    {
+      "index": 90,
+      "text": "He added the small stone gate at the entrance.",
+      "start_ms": 366427,
+      "end_ms": 369805
+    },
+    {
+      "index": 91,
+      "text": "He added the water.",
+      "start_ms": 369805,
+      "end_ms": 371242
+    },
+    {
+      "index": 92,
+      "text": "He wrote in the margin, in his round eleven-year-old handwriting: Maras pool, July.",
+      "start_ms": 371242,
+      "end_ms": 377280
+    },
+    {
+      "index": 93,
+      "text": "Try again next year.",
+      "start_ms": 377280,
+      "end_ms": 378789
+    },
+    {
+      "index": 94,
+      "text": "When he looked up, Manuel was smiling slightly.",
+      "start_ms": 378789,
+      "end_ms": 382239
+    },
+    {
+      "index": 95,
+      "text": "Manuel said, \"That is exactly right.",
+      "start_ms": 382239,
+      "end_ms": 384899
+    },
+    {
+      "index": 96,
+      "text": "That is what the whole sketchbook is.",
+      "start_ms": 384899,
+      "end_ms": 387630
+    },
+    {
+      "index": 97,
+      "text": "Try again next year.\" And he did not say more.",
+      "start_ms": 387630,
+      "end_ms": 390936
+    }
+  ]
+}

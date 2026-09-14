@@ -1,0 +1,751 @@
+{
+  "story_id": "inn-at-the-crossroads",
+  "chapter": 2,
+  "total_duration_ms": 334152,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The first guest came in the third week of Kostas's stay.",
+      "start_ms": 1804,
+      "end_ms": 5758
+    },
+    {
+      "index": 1,
+      "text": "Kostas was reading in the main room in the late afternoon when he heard footsteps on the stones outside.",
+      "start_ms": 5758,
+      "end_ms": 13043
+    },
+    {
+      "index": 2,
+      "text": "He looked up.",
+      "start_ms": 13043,
+      "end_ms": 14014
+    },
+    {
+      "index": 3,
+      "text": "A man was walking up to the door.",
+      "start_ms": 14014,
+      "end_ms": 16373
+    },
+    {
+      "index": 4,
+      "text": "He was maybe seventy, tanned very dark from the sun, in old field clothes and a wide straw hat.",
+      "start_ms": 16373,
+      "end_ms": 23034
+    },
+    {
+      "index": 5,
+      "text": "He carried a small canvas bag.",
+      "start_ms": 23034,
+      "end_ms": 25184
+    },
+    {
+      "index": 6,
+      "text": "He did not have a car.",
+      "start_ms": 25184,
+      "end_ms": 26780
+    },
+    {
+      "index": 7,
+      "text": "Kostas got up.",
+      "start_ms": 26780,
+      "end_ms": 27821
+    },
+    {
+      "index": 8,
+      "text": "He went to the door.",
+      "start_ms": 27821,
+      "end_ms": 29278
+    },
+    {
+      "index": 9,
+      "text": "He said, \"Kalispera.\" Good evening.",
+      "start_ms": 29278,
+      "end_ms": 31775
+    },
+    {
+      "index": 10,
+      "text": "The man nodded.",
+      "start_ms": 31775,
+      "end_ms": 32885
+    },
+    {
+      "index": 11,
+      "text": "He said, \"Do you have a room.\" Kostas said, \"Yes.",
+      "start_ms": 32885,
+      "end_ms": 36354
+    },
+    {
+      "index": 12,
+      "text": "Come in.",
+      "start_ms": 36354,
+      "end_ms": 36979
+    },
+    {
+      "index": 13,
+      "text": "I will get my grandmother.\"",
+      "start_ms": 36979,
+      "end_ms": 38991
+    },
+    {
+      "index": 14,
+      "text": "Yiayia came out from the kitchen.",
+      "start_ms": 38991,
+      "end_ms": 41350
+    },
+    {
+      "index": 15,
+      "text": "She looked at the man for a moment.",
+      "start_ms": 41350,
+      "end_ms": 43847
+    },
+    {
+      "index": 16,
+      "text": "She smiled a small smile.",
+      "start_ms": 43847,
+      "end_ms": 45651
+    },
+    {
+      "index": 17,
+      "text": "\"Come in,\" she said.",
+      "start_ms": 45651,
+      "end_ms": 47108
+    },
+    {
+      "index": 18,
+      "text": "\"Sit.",
+      "start_ms": 47108,
+      "end_ms": 47524
+    },
+    {
+      "index": 19,
+      "text": "I will bring you something.",
+      "start_ms": 47524,
+      "end_ms": 49467
+    },
+    {
+      "index": 20,
+      "text": "Where are you coming from.\" The man sat down at one of the heavy tables.",
+      "start_ms": 49467,
+      "end_ms": 54531
+    },
+    {
+      "index": 21,
+      "text": "He took off his hat.",
+      "start_ms": 54531,
+      "end_ms": 55988
+    },
+    {
+      "index": 22,
+      "text": "\"From Karyes,\" he said.",
+      "start_ms": 55988,
+      "end_ms": 57653
+    },
+    {
+      "index": 23,
+      "text": "Karyes was a village very far to the south.",
+      "start_ms": 57653,
+      "end_ms": 60706
+    },
+    {
+      "index": 24,
+      "text": "Yiayia raised an eyebrow.",
+      "start_ms": 60706,
+      "end_ms": 62510
+    },
+    {
+      "index": 25,
+      "text": "\"You walked from Karyes?\" \"Yes,\" said the man.",
+      "start_ms": 62510,
+      "end_ms": 65771
+    },
+    {
+      "index": 26,
+      "text": "\"It took me nine days.",
+      "start_ms": 65771,
+      "end_ms": 67366
+    },
+    {
+      "index": 27,
+      "text": "I am going to my brother's funeral in Tripoli.",
+      "start_ms": 67366,
+      "end_ms": 70627
+    },
+    {
+      "index": 28,
+      "text": "It seemed like something I should do on foot.\"",
+      "start_ms": 70627,
+      "end_ms": 73957
+    },
+    {
+      "index": 29,
+      "text": "Yiayia gave him a bowl of the lamb stew she had made for supper, and bread, and a small glass of wine.",
+      "start_ms": 73957,
+      "end_ms": 81103
+    },
+    {
+      "index": 30,
+      "text": "Kostas sat quietly at the next table and pretended to read.",
+      "start_ms": 81103,
+      "end_ms": 85266
+    },
+    {
+      "index": 31,
+      "text": "He listened.",
+      "start_ms": 85266,
+      "end_ms": 86168
+    },
+    {
+      "index": 32,
+      "text": "The man ate slowly.",
+      "start_ms": 86168,
+      "end_ms": 87556
+    },
+    {
+      "index": 33,
+      "text": "He was very quiet.",
+      "start_ms": 87556,
+      "end_ms": 88874
+    },
+    {
+      "index": 34,
+      "text": "When he was finished, he thanked Yiayia.",
+      "start_ms": 88874,
+      "end_ms": 91718
+    },
+    {
+      "index": 35,
+      "text": "He said he wanted to go to bed.",
+      "start_ms": 91718,
+      "end_ms": 93938
+    },
+    {
+      "index": 36,
+      "text": "He was very tired.",
+      "start_ms": 93938,
+      "end_ms": 95257
+    },
+    {
+      "index": 37,
+      "text": "Yiayia showed him to the second room upstairs.",
+      "start_ms": 95257,
+      "end_ms": 98448
+    },
+    {
+      "index": 38,
+      "text": "In the morning, he was gone before dawn.",
+      "start_ms": 98448,
+      "end_ms": 101062
+    },
+    {
+      "index": 39,
+      "text": "Kostas came down to breakfast and found Yiayia in the main room.",
+      "start_ms": 101062,
+      "end_ms": 105207
+    },
+    {
+      "index": 40,
+      "text": "She was holding a small object in her hand.",
+      "start_ms": 105207,
+      "end_ms": 108012
+    },
+    {
+      "index": 41,
+      "text": "She held it out.",
+      "start_ms": 108012,
+      "end_ms": 109096
+    },
+    {
+      "index": 42,
+      "text": "It was a piece of dry gray wood, about as long as a finger, smooth from being handled.",
+      "start_ms": 109096,
+      "end_ms": 114644
+    },
+    {
+      "index": 43,
+      "text": "It had been carved into the shape of a fish.",
+      "start_ms": 114644,
+      "end_ms": 117513
+    },
+    {
+      "index": 44,
+      "text": "Yiayia said, \"This was on the pillow.",
+      "start_ms": 117513,
+      "end_ms": 119936
+    },
+    {
+      "index": 45,
+      "text": "He whittled it, I think, while he was walking.",
+      "start_ms": 119936,
+      "end_ms": 122933
+    },
+    {
+      "index": 46,
+      "text": "Nine days.",
+      "start_ms": 122933,
+      "end_ms": 123634
+    },
+    {
+      "index": 47,
+      "text": "That is a lot of walking.",
+      "start_ms": 123634,
+      "end_ms": 125292
+    },
+    {
+      "index": 48,
+      "text": "That is a lot of time to whittle a small wooden fish.\" She turned the little fish over in her palm.",
+      "start_ms": 125292,
+      "end_ms": 131668
+    },
+    {
+      "index": 49,
+      "text": "\"His brother must have loved fish.",
+      "start_ms": 131668,
+      "end_ms": 133900
+    },
+    {
+      "index": 50,
+      "text": "Or fishing.",
+      "start_ms": 133900,
+      "end_ms": 134665
+    },
+    {
+      "index": 51,
+      "text": "It was for him, this fish.",
+      "start_ms": 134665,
+      "end_ms": 136387
+    },
+    {
+      "index": 52,
+      "text": "But he left it here.\" She looked at Kostas.",
+      "start_ms": 136387,
+      "end_ms": 139192
+    },
+    {
+      "index": 53,
+      "text": "\"That is the first one for this summer.",
+      "start_ms": 139192,
+      "end_ms": 141743
+    },
+    {
+      "index": 54,
+      "text": "Write it down for me.",
+      "start_ms": 141743,
+      "end_ms": 143146
+    },
+    {
+      "index": 55,
+      "text": "In the book.",
+      "start_ms": 143146,
+      "end_ms": 143975
+    },
+    {
+      "index": 56,
+      "text": "Small carved wooden fish.",
+      "start_ms": 143975,
+      "end_ms": 145633
+    },
+    {
+      "index": 57,
+      "text": "An old man walking to his brother's funeral.",
+      "start_ms": 145633,
+      "end_ms": 148502
+    },
+    {
+      "index": 58,
+      "text": "He did not say his own name.",
+      "start_ms": 148502,
+      "end_ms": 150351
+    },
+    {
+      "index": 59,
+      "text": "But he left the fish.\"",
+      "start_ms": 150351,
+      "end_ms": 151881
+    },
+    {
+      "index": 60,
+      "text": "The second guest came two weeks later.",
+      "start_ms": 151881,
+      "end_ms": 154368
+    },
+    {
+      "index": 61,
+      "text": "She was a young woman, maybe twenty-five, in hiking clothes with a heavy backpack.",
+      "start_ms": 154368,
+      "end_ms": 159660
+    },
+    {
+      "index": 62,
+      "text": "She had come off the mountain path from the west and it was almost dark.",
+      "start_ms": 159660,
+      "end_ms": 164315
+    },
+    {
+      "index": 63,
+      "text": "When Kostas opened the door she looked surprised — like she had not expected to find anything there at all.",
+      "start_ms": 164315,
+      "end_ms": 171201
+    },
+    {
+      "index": 64,
+      "text": "She said, in Greek with a foreign accent, \"I am so sorry.",
+      "start_ms": 171201,
+      "end_ms": 174900
+    },
+    {
+      "index": 65,
+      "text": "Do you have a room.",
+      "start_ms": 174900,
+      "end_ms": 176175
+    },
+    {
+      "index": 66,
+      "text": "I did not know there was still an inn here.",
+      "start_ms": 176175,
+      "end_ms": 178981
+    },
+    {
+      "index": 67,
+      "text": "My map is old.\" Kostas said, \"Yes.",
+      "start_ms": 178981,
+      "end_ms": 181212
+    },
+    {
+      "index": 68,
+      "text": "Come in.\"",
+      "start_ms": 181212,
+      "end_ms": 181914
+    },
+    {
+      "index": 69,
+      "text": "Her name was Ines.",
+      "start_ms": 181914,
+      "end_ms": 183125
+    },
+    {
+      "index": 70,
+      "text": "She was from Portugal.",
+      "start_ms": 183125,
+      "end_ms": 184592
+    },
+    {
+      "index": 71,
+      "text": "She was walking a very long trail across the Peloponnese — a trail Kostas had never heard of, that went from ancient shrine to ancient shrine.",
+      "start_ms": 184592,
+      "end_ms": 193710
+    },
+    {
+      "index": 72,
+      "text": "She had been walking for three weeks.",
+      "start_ms": 193710,
+      "end_ms": 196133
+    },
+    {
+      "index": 73,
+      "text": "She was quiet at supper but she smiled a lot.",
+      "start_ms": 196133,
+      "end_ms": 199066
+    },
+    {
+      "index": 74,
+      "text": "She told Yiayia and Kostas that she was walking because her mother had walked this same trail forty years ago, when she was Ines's age, and had always said Ines should walk it too.",
+      "start_ms": 199066,
+      "end_ms": 210607
+    },
+    {
+      "index": 75,
+      "text": "Her mother was still alive.",
+      "start_ms": 210607,
+      "end_ms": 212392
+    },
+    {
+      "index": 76,
+      "text": "But she was old now, and she would never walk it again.",
+      "start_ms": 212392,
+      "end_ms": 215963
+    },
+    {
+      "index": 77,
+      "text": "\"So I walk it for her,\" said Ines.",
+      "start_ms": 215963,
+      "end_ms": 218195
+    },
+    {
+      "index": 78,
+      "text": "\"When I get home I will tell her everything.\"",
+      "start_ms": 218195,
+      "end_ms": 221064
+    },
+    {
+      "index": 79,
+      "text": "In the morning Ines left before Kostas was awake.",
+      "start_ms": 221064,
+      "end_ms": 224712
+    },
+    {
+      "index": 80,
+      "text": "Yiayia was in the main room with something small in her hand.",
+      "start_ms": 224712,
+      "end_ms": 229236
+    },
+    {
+      "index": 81,
+      "text": "It was a small pebble.",
+      "start_ms": 229236,
+      "end_ms": 230914
+    },
+    {
+      "index": 82,
+      "text": "Round.",
+      "start_ms": 230914,
+      "end_ms": 231424
+    },
+    {
+      "index": 83,
+      "text": "Perfectly smooth.",
+      "start_ms": 231424,
+      "end_ms": 232738
+    },
+    {
+      "index": 84,
+      "text": "Water-worn.",
+      "start_ms": 232738,
+      "end_ms": 233613
+    },
+    {
+      "index": 85,
+      "text": "\"From a river,\" Yiayia said.",
+      "start_ms": 233613,
+      "end_ms": 235729
+    },
+    {
+      "index": 86,
+      "text": "\"She left it on the kitchen table with a note.",
+      "start_ms": 235729,
+      "end_ms": 239158
+    },
+    {
+      "index": 87,
+      "text": "The note said: My mother told me to pick up one stone at every good place.",
+      "start_ms": 239158,
+      "end_ms": 244630
+    },
+    {
+      "index": 88,
+      "text": "This is a stone from the river three days ago, when I remembered my mother most clearly.",
+      "start_ms": 244630,
+      "end_ms": 251124
+    },
+    {
+      "index": 89,
+      "text": "Please keep it.",
+      "start_ms": 251124,
+      "end_ms": 252291
+    },
+    {
+      "index": 90,
+      "text": "Thank you for the room.",
+      "start_ms": 252291,
+      "end_ms": 254042
+    },
+    {
+      "index": 91,
+      "text": "Kostas wrote it in the book.",
+      "start_ms": 254042,
+      "end_ms": 256158
+    },
+    {
+      "index": 92,
+      "text": "A small round river pebble.",
+      "start_ms": 256158,
+      "end_ms": 258201
+    },
+    {
+      "index": 93,
+      "text": "A young Portuguese woman walking her mother's old trail.",
+      "start_ms": 258201,
+      "end_ms": 262359
+    },
+    {
+      "index": 94,
+      "text": "She was carrying pieces of every place, and she left one of them here.",
+      "start_ms": 262359,
+      "end_ms": 267612
+    },
+    {
+      "index": 95,
+      "text": "\"How many things does she have,\" Kostas asked.",
+      "start_ms": 267612,
+      "end_ms": 271042
+    },
+    {
+      "index": 96,
+      "text": "\"In her bag,\" said Yiayia.",
+      "start_ms": 271042,
+      "end_ms": 273012
+    },
+    {
+      "index": 97,
+      "text": "\"Many.",
+      "start_ms": 273012,
+      "end_ms": 273522
+    },
+    {
+      "index": 98,
+      "text": "But she left one of them here.",
+      "start_ms": 273522,
+      "end_ms": 275784
+    },
+    {
+      "index": 99,
+      "text": "That is what matters.\"",
+      "start_ms": 275784,
+      "end_ms": 277535
+    },
+    {
+      "index": 100,
+      "text": "The third guest was different.",
+      "start_ms": 277535,
+      "end_ms": 279797
+    },
+    {
+      "index": 101,
+      "text": "He came at night, on a motorcycle.",
+      "start_ms": 279797,
+      "end_ms": 282350
+    },
+    {
+      "index": 102,
+      "text": "It was maybe eleven o'clock.",
+      "start_ms": 282350,
+      "end_ms": 284466
+    },
+    {
+      "index": 103,
+      "text": "Kostas was already in bed but he was still awake — he had been reading by lamplight.",
+      "start_ms": 284466,
+      "end_ms": 290668
+    },
+    {
+      "index": 104,
+      "text": "He heard the engine come up the road, then stop.",
+      "start_ms": 290668,
+      "end_ms": 294243
+    },
+    {
+      "index": 105,
+      "text": "He heard the engine turn off.",
+      "start_ms": 294243,
+      "end_ms": 296432
+    },
+    {
+      "index": 106,
+      "text": "Then silence.",
+      "start_ms": 296432,
+      "end_ms": 297453
+    },
+    {
+      "index": 107,
+      "text": "He heard nothing for a long time.",
+      "start_ms": 297453,
+      "end_ms": 299934
+    },
+    {
+      "index": 108,
+      "text": "He was afraid, a little.",
+      "start_ms": 299934,
+      "end_ms": 301758
+    },
+    {
+      "index": 109,
+      "text": "He went to Yiayia's room.",
+      "start_ms": 301758,
+      "end_ms": 303728
+    },
+    {
+      "index": 110,
+      "text": "Yiayia was awake too.",
+      "start_ms": 303728,
+      "end_ms": 305333
+    },
+    {
+      "index": 111,
+      "text": "She had heard him.",
+      "start_ms": 305333,
+      "end_ms": 306719
+    },
+    {
+      "index": 112,
+      "text": "She was already in her dressing gown.",
+      "start_ms": 306719,
+      "end_ms": 309492
+    },
+    {
+      "index": 113,
+      "text": "She said, \"Come with me.",
+      "start_ms": 309492,
+      "end_ms": 311316
+    },
+    {
+      "index": 114,
+      "text": "Do not be afraid.\" They went to the front door.",
+      "start_ms": 311316,
+      "end_ms": 314818
+    },
+    {
+      "index": 115,
+      "text": "A man was standing in the road, looking at the inn.",
+      "start_ms": 314818,
+      "end_ms": 318612
+    },
+    {
+      "index": 116,
+      "text": "He was maybe forty.",
+      "start_ms": 318612,
+      "end_ms": 320071
+    },
+    {
+      "index": 117,
+      "text": "He was dressed in dark clothes.",
+      "start_ms": 320071,
+      "end_ms": 322405
+    },
+    {
+      "index": 118,
+      "text": "He looked lost.",
+      "start_ms": 322405,
+      "end_ms": 323573
+    },
+    {
+      "index": 119,
+      "text": "Yiayia opened the door.",
+      "start_ms": 323573,
+      "end_ms": 325324
+    },
+    {
+      "index": 120,
+      "text": "She said, \"Come in.",
+      "start_ms": 325324,
+      "end_ms": 326783
+    },
+    {
+      "index": 121,
+      "text": "Do you want a room?\" The man looked up.",
+      "start_ms": 326783,
+      "end_ms": 329701
+    },
+    {
+      "index": 122,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 329701,
+      "end_ms": 330869
+    },
+    {
+      "index": 123,
+      "text": "\"If it is not too late.\" His voice was rough.",
+      "start_ms": 330869,
+      "end_ms": 334152
+    }
+  ]
+}

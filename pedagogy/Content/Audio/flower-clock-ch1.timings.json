@@ -1,0 +1,517 @@
+{
+  "story_id": "flower-clock",
+  "chapter": 1,
+  "total_duration_ms": 307296,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Fern's grandfather lived at a small botanical garden in the middle of the Scottish Highlands.",
+      "start_ms": 1669,
+      "end_ms": 7271
+    },
+    {
+      "index": 1,
+      "text": "It was not really a public garden anymore — it had been, once, when Grandpa was a young man, but the village had grown smaller over the years, and now the garden was mostly just Grandpa's, and a few local people who came by on Saturdays.",
+      "start_ms": 7271,
+      "end_ms": 21457
+    },
+    {
+      "index": 2,
+      "text": "He lived in a stone cottage on the property and he had a very old dog named Rowan and he grew about forty different kinds of flowers in careful raised beds.",
+      "start_ms": 21457,
+      "end_ms": 30874
+    },
+    {
+      "index": 3,
+      "text": "Fern came to stay for six weeks every summer.",
+      "start_ms": 30874,
+      "end_ms": 33615
+    },
+    {
+      "index": 4,
+      "text": "She was ten now, and she had been coming since she was small enough to sit in a wheelbarrow.",
+      "start_ms": 33615,
+      "end_ms": 39158
+    },
+    {
+      "index": 5,
+      "text": "She knew almost every path in the garden, and she knew the names of most of the flowers, and she knew the names of the birds that lived in the hawthorn hedges around the perimeter.",
+      "start_ms": 39158,
+      "end_ms": 49946
+    },
+    {
+      "index": 6,
+      "text": "It was, apart from her own house in Edinburgh, her favorite place in the world.",
+      "start_ms": 49946,
+      "end_ms": 54774
+    },
+    {
+      "index": 7,
+      "text": "The most special thing in Grandpa's garden was the flower clock.",
+      "start_ms": 54774,
+      "end_ms": 58648
+    },
+    {
+      "index": 8,
+      "text": "It was a huge round bed at the very center of the garden, maybe fifteen meters across, divided into twelve wedge-shaped sections like the slices of a pie.",
+      "start_ms": 58648,
+      "end_ms": 67886
+    },
+    {
+      "index": 9,
+      "text": "Each section — Grandpa had planned it out over many years — was planted with a specific flower that opened at a specific hour of the day.",
+      "start_ms": 67886,
+      "end_ms": 76111
+    },
+    {
+      "index": 10,
+      "text": "Then closed again a few hours later.",
+      "start_ms": 76111,
+      "end_ms": 78317
+    },
+    {
+      "index": 11,
+      "text": "So if you knew the clock, and you looked at which flowers were open, you could tell approximately what time it was.",
+      "start_ms": 78317,
+      "end_ms": 85290
+    },
+    {
+      "index": 12,
+      "text": "Fern had grown up hearing about the flower clock.",
+      "start_ms": 85290,
+      "end_ms": 88270
+    },
+    {
+      "index": 13,
+      "text": "She had watched Grandpa plant it.",
+      "start_ms": 88270,
+      "end_ms": 90297
+    },
+    {
+      "index": 14,
+      "text": "She had watched him try one flower and give up on it because it did not open reliably, and try a different one, and give up on that one too.",
+      "start_ms": 90297,
+      "end_ms": 98700
+    },
+    {
+      "index": 15,
+      "text": "She had watched him find the right flower for the six o'clock section three summers ago, and be so happy about it that he made a special dinner.",
+      "start_ms": 98700,
+      "end_ms": 107343
+    },
+    {
+      "index": 16,
+      "text": "The flower clock had been Grandpa's project for maybe twenty years.",
+      "start_ms": 107343,
+      "end_ms": 111336
+    },
+    {
+      "index": 17,
+      "text": "The clock was almost finished.",
+      "start_ms": 111336,
+      "end_ms": 113312
+    },
+    {
+      "index": 18,
+      "text": "When Fern arrived at the beginning of July, there were eleven sections planted and blooming — one for each hour from five in the morning to four in the afternoon.",
+      "start_ms": 113312,
+      "end_ms": 123700
+    },
+    {
+      "index": 19,
+      "text": "Grandpa did not include the night hours; he had decided that was silly, since nobody would be looking at the clock at three in the morning.",
+      "start_ms": 123700,
+      "end_ms": 132622
+    },
+    {
+      "index": 20,
+      "text": "So the clock only covered the daylight hours.",
+      "start_ms": 132622,
+      "end_ms": 135553
+    },
+    {
+      "index": 21,
+      "text": "And one section was still empty.",
+      "start_ms": 135553,
+      "end_ms": 137656
+    },
+    {
+      "index": 22,
+      "text": "Bare earth, waiting.",
+      "start_ms": 137656,
+      "end_ms": 138995
+    },
+    {
+      "index": 23,
+      "text": "The five o'clock in the afternoon section.",
+      "start_ms": 138995,
+      "end_ms": 141735
+    },
+    {
+      "index": 24,
+      "text": "The last one.",
+      "start_ms": 141735,
+      "end_ms": 142691
+    },
+    {
+      "index": 25,
+      "text": "\"I have been looking for a flower for that spot for years,\" Grandpa said, on the first day.",
+      "start_ms": 142691,
+      "end_ms": 148554
+    },
+    {
+      "index": 26,
+      "text": "They were walking around the clock together with mugs of tea.",
+      "start_ms": 148554,
+      "end_ms": 152505
+    },
+    {
+      "index": 27,
+      "text": "\"I have tried three different plants in there.",
+      "start_ms": 152505,
+      "end_ms": 155501
+    },
+    {
+      "index": 28,
+      "text": "None of them opened reliably at five.",
+      "start_ms": 155501,
+      "end_ms": 157922
+    },
+    {
+      "index": 29,
+      "text": "One opened at four, another at six, the third one hardly opened at all.",
+      "start_ms": 157922,
+      "end_ms": 162511
+    },
+    {
+      "index": 30,
+      "text": "This year I want to try again.",
+      "start_ms": 162511,
+      "end_ms": 164487
+    },
+    {
+      "index": 31,
+      "text": "But I want you to help me pick.\" Fern looked up at him.",
+      "start_ms": 164487,
+      "end_ms": 168055
+    },
+    {
+      "index": 32,
+      "text": "\"Me?\" \"You,\" said Grandpa.",
+      "start_ms": 168055,
+      "end_ms": 169776
+    },
+    {
+      "index": 33,
+      "text": "\"You know the garden.",
+      "start_ms": 169776,
+      "end_ms": 171178
+    },
+    {
+      "index": 34,
+      "text": "You will be the one who inherits it, someday, if you want it.",
+      "start_ms": 171178,
+      "end_ms": 175129
+    },
+    {
+      "index": 35,
+      "text": "It should have a piece of you in it.",
+      "start_ms": 175129,
+      "end_ms": 177487
+    },
+    {
+      "index": 36,
+      "text": "So — think about it.",
+      "start_ms": 177487,
+      "end_ms": 178826
+    },
+    {
+      "index": 37,
+      "text": "All summer if you need to.",
+      "start_ms": 178826,
+      "end_ms": 180546
+    },
+    {
+      "index": 38,
+      "text": "Look through the seed catalogs.",
+      "start_ms": 180546,
+      "end_ms": 182586
+    },
+    {
+      "index": 39,
+      "text": "Look in the greenhouse.",
+      "start_ms": 182586,
+      "end_ms": 184115
+    },
+    {
+      "index": 40,
+      "text": "Look at what is already growing.",
+      "start_ms": 184115,
+      "end_ms": 186218
+    },
+    {
+      "index": 41,
+      "text": "Find me a five o'clock flower.\"",
+      "start_ms": 186218,
+      "end_ms": 188321
+    },
+    {
+      "index": 42,
+      "text": "That first morning Grandpa took her around the clock and reminded her of every flower.",
+      "start_ms": 188321,
+      "end_ms": 193866
+    },
+    {
+      "index": 43,
+      "text": "Five o'clock a.m.",
+      "start_ms": 193866,
+      "end_ms": 195013
+    },
+    {
+      "index": 44,
+      "text": "was goat's-beard — small yellow flowers that opened before sunrise and closed by noon.",
+      "start_ms": 195013,
+      "end_ms": 200558
+    },
+    {
+      "index": 45,
+      "text": "Six a.m.",
+      "start_ms": 200558,
+      "end_ms": 201131
+    },
+    {
+      "index": 46,
+      "text": "was blue chicory.",
+      "start_ms": 201131,
+      "end_ms": 202278
+    },
+    {
+      "index": 47,
+      "text": "Seven was hawksbeard.",
+      "start_ms": 202278,
+      "end_ms": 203680
+    },
+    {
+      "index": 48,
+      "text": "Eight was the little pink evening primrose that Grandpa had bred especially.",
+      "start_ms": 203680,
+      "end_ms": 208587
+    },
+    {
+      "index": 49,
+      "text": "Nine was field marigold.",
+      "start_ms": 208587,
+      "end_ms": 210181
+    },
+    {
+      "index": 50,
+      "text": "Ten was Iceland poppy.",
+      "start_ms": 210181,
+      "end_ms": 211646
+    },
+    {
+      "index": 51,
+      "text": "Eleven was blue flax.",
+      "start_ms": 211646,
+      "end_ms": 213049
+    },
+    {
+      "index": 52,
+      "text": "Noon was pot marigold.",
+      "start_ms": 213049,
+      "end_ms": 214514
+    },
+    {
+      "index": 53,
+      "text": "One o'clock was pink pimpernel.",
+      "start_ms": 214514,
+      "end_ms": 216554
+    },
+    {
+      "index": 54,
+      "text": "Two was hawkweed.",
+      "start_ms": 216554,
+      "end_ms": 217701
+    },
+    {
+      "index": 55,
+      "text": "Three was the small white flower called night-flowering catchfly, which opened in the afternoon despite its name.",
+      "start_ms": 217701,
+      "end_ms": 224966
+    },
+    {
+      "index": 56,
+      "text": "Four o'clock was — a wide-open pale orange flower called four o'clock flower, which was actually named for the hour it opened.",
+      "start_ms": 224966,
+      "end_ms": 233060
+    },
+    {
+      "index": 57,
+      "text": "Grandpa said that had been his easiest one.",
+      "start_ms": 233060,
+      "end_ms": 235800
+    },
+    {
+      "index": 58,
+      "text": "\"And now,\" he said, standing at the empty section.",
+      "start_ms": 235800,
+      "end_ms": 239061
+    },
+    {
+      "index": 59,
+      "text": "\"Five o'clock.",
+      "start_ms": 239061,
+      "end_ms": 240021
+    },
+    {
+      "index": 60,
+      "text": "The last one.",
+      "start_ms": 240021,
+      "end_ms": 240916
+    },
+    {
+      "index": 61,
+      "text": "There are choices, Fern.",
+      "start_ms": 240916,
+      "end_ms": 242515
+    },
+    {
+      "index": 62,
+      "text": "There is not just one flower that opens at five.",
+      "start_ms": 242515,
+      "end_ms": 245648
+    },
+    {
+      "index": 63,
+      "text": "There is evening primrose — real evening primrose, not my little pink one.",
+      "start_ms": 245648,
+      "end_ms": 250445
+    },
+    {
+      "index": 64,
+      "text": "There is a night phlox.",
+      "start_ms": 250445,
+      "end_ms": 251979
+    },
+    {
+      "index": 65,
+      "text": "There is a moonflower — though those really open later, at dusk.",
+      "start_ms": 251979,
+      "end_ms": 256136
+    },
+    {
+      "index": 66,
+      "text": "There is honeysuckle.",
+      "start_ms": 256136,
+      "end_ms": 257543
+    },
+    {
+      "index": 67,
+      "text": "There is a Japanese one called yūgao.",
+      "start_ms": 257543,
+      "end_ms": 259973
+    },
+    {
+      "index": 68,
+      "text": "There are others.",
+      "start_ms": 259973,
+      "end_ms": 261124
+    },
+    {
+      "index": 69,
+      "text": "Each one is different.",
+      "start_ms": 261124,
+      "end_ms": 262595
+    },
+    {
+      "index": 70,
+      "text": "Each one would give the clock a different personality at the end of the day.",
+      "start_ms": 262595,
+      "end_ms": 267519
+    },
+    {
+      "index": 71,
+      "text": "You choose.\"",
+      "start_ms": 267519,
+      "end_ms": 268414
+    },
+    {
+      "index": 72,
+      "text": "That evening after supper, Fern sat at the kitchen table with three of Grandpa's seed catalogs and one of his plant reference books, and she began to look.",
+      "start_ms": 268414,
+      "end_ms": 278391
+    },
+    {
+      "index": 73,
+      "text": "She was slow about it.",
+      "start_ms": 278391,
+      "end_ms": 279861
+    },
+    {
+      "index": 74,
+      "text": "She wrote down every five o'clock flower she found.",
+      "start_ms": 279861,
+      "end_ms": 283187
+    },
+    {
+      "index": 75,
+      "text": "She noted their heights, their colors, their smells.",
+      "start_ms": 283187,
+      "end_ms": 286576
+    },
+    {
+      "index": 76,
+      "text": "She wrote small notes about each one.",
+      "start_ms": 286576,
+      "end_ms": 289006
+    },
+    {
+      "index": 77,
+      "text": "What kind of soil they liked.",
+      "start_ms": 289006,
+      "end_ms": 290925
+    },
+    {
+      "index": 78,
+      "text": "Whether they were fussy.",
+      "start_ms": 290925,
+      "end_ms": 292524
+    },
+    {
+      "index": 79,
+      "text": "Whether the deer would eat them.",
+      "start_ms": 292524,
+      "end_ms": 294634
+    },
+    {
+      "index": 80,
+      "text": "Grandpa let her work.",
+      "start_ms": 294634,
+      "end_ms": 296105
+    },
+    {
+      "index": 81,
+      "text": "By the end of the first evening, she had a list of seven possibilities.",
+      "start_ms": 296105,
+      "end_ms": 300709
+    },
+    {
+      "index": 82,
+      "text": "She thought this was too many.",
+      "start_ms": 300709,
+      "end_ms": 302692
+    },
+    {
+      "index": 83,
+      "text": "But she also thought — the whole summer, Grandpa had said.",
+      "start_ms": 302692,
+      "end_ms": 306465
+    },
+    {
+      "index": 84,
+      "text": "She had time.",
+      "start_ms": 306465,
+      "end_ms": 307296
+    }
+  ]
+}

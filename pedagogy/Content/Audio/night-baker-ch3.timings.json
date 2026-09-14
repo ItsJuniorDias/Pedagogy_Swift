@@ -1,0 +1,679 @@
+{
+  "story_id": "night-baker",
+  "chapter": 3,
+  "total_duration_ms": 376128,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On Sunday morning, when her mother finally had a day off, Ana told her.",
+      "start_ms": 1758,
+      "end_ms": 5712
+    },
+    {
+      "index": 1,
+      "text": "She had been rehearsing it for two days.",
+      "start_ms": 5712,
+      "end_ms": 7964
+    },
+    {
+      "index": 2,
+      "text": "She was worried her mother would be angry that she had been going out at night.",
+      "start_ms": 7964,
+      "end_ms": 12358
+    },
+    {
+      "index": 3,
+      "text": "She sat down at the kitchen table with her mother's coffee already made — she had made it herself, which was something she almost never did — and she said, \"Mãe.",
+      "start_ms": 12358,
+      "end_ms": 21256
+    },
+    {
+      "index": 4,
+      "text": "I have to tell you something.",
+      "start_ms": 21256,
+      "end_ms": 22904
+    },
+    {
+      "index": 5,
+      "text": "But before you get angry, I want you to know that I am safe.",
+      "start_ms": 22904,
+      "end_ms": 26255
+    },
+    {
+      "index": 6,
+      "text": "I am not doing anything bad.",
+      "start_ms": 26255,
+      "end_ms": 27848
+    },
+    {
+      "index": 7,
+      "text": "I am just — I have been going down to the bakery at three in the morning.",
+      "start_ms": 27848,
+      "end_ms": 31912
+    },
+    {
+      "index": 8,
+      "text": "To help Senhor Mendes make the bread.",
+      "start_ms": 31912,
+      "end_ms": 33999
+    },
+    {
+      "index": 9,
+      "text": "For six nights.\"",
+      "start_ms": 33999,
+      "end_ms": 34988
+    },
+    {
+      "index": 10,
+      "text": "Her mother did not say anything right away.",
+      "start_ms": 34988,
+      "end_ms": 37405
+    },
+    {
+      "index": 11,
+      "text": "Ana braced herself.",
+      "start_ms": 37405,
+      "end_ms": 38503
+    },
+    {
+      "index": 12,
+      "text": "Her mother looked at her for a long time.",
+      "start_ms": 38503,
+      "end_ms": 40810
+    },
+    {
+      "index": 13,
+      "text": "Then her mother said, slowly, \"Ana.",
+      "start_ms": 40810,
+      "end_ms": 42787
+    },
+    {
+      "index": 14,
+      "text": "That is the strangest thing you have ever told me.",
+      "start_ms": 42787,
+      "end_ms": 45589
+    },
+    {
+      "index": 15,
+      "text": "Tell me the whole thing.\" So Ana told her.",
+      "start_ms": 45589,
+      "end_ms": 47951
+    },
+    {
+      "index": 16,
+      "text": "She told her about seeing the light.",
+      "start_ms": 47951,
+      "end_ms": 49983
+    },
+    {
+      "index": 17,
+      "text": "About meeting Senhor Mendes.",
+      "start_ms": 49983,
+      "end_ms": 51576
+    },
+    {
+      "index": 18,
+      "text": "About the dough.",
+      "start_ms": 51576,
+      "end_ms": 52509
+    },
+    {
+      "index": 19,
+      "text": "About the oven.",
+      "start_ms": 52509,
+      "end_ms": 53388
+    },
+    {
+      "index": 20,
+      "text": "About the forty other bakeries in Lisbon that were also lit up at three in the morning.",
+      "start_ms": 53388,
+      "end_ms": 58222
+    },
+    {
+      "index": 21,
+      "text": "About how she had been sleeping better because now the middle of the night had a purpose.",
+      "start_ms": 58222,
+      "end_ms": 63165
+    },
+    {
+      "index": 22,
+      "text": "About Senhor Mendes saying she should be at the bakery whenever she woke up and could not go back to sleep, and that he would always be there.",
+      "start_ms": 63165,
+      "end_ms": 71020
+    },
+    {
+      "index": 23,
+      "text": "About feeling like she had discovered something.",
+      "start_ms": 71020,
+      "end_ms": 73656
+    },
+    {
+      "index": 24,
+      "text": "Her mother listened all the way through.",
+      "start_ms": 73656,
+      "end_ms": 76424
+    },
+    {
+      "index": 25,
+      "text": "When Ana was done, her mother sat for a moment.",
+      "start_ms": 76424,
+      "end_ms": 79665
+    },
+    {
+      "index": 26,
+      "text": "Then her mother said, \"Ana.",
+      "start_ms": 79665,
+      "end_ms": 81556
+    },
+    {
+      "index": 27,
+      "text": "I have known Senhor Mendes for eighteen years.",
+      "start_ms": 81556,
+      "end_ms": 84729
+    },
+    {
+      "index": 28,
+      "text": "He is a good man.",
+      "start_ms": 84729,
+      "end_ms": 85945
+    },
+    {
+      "index": 29,
+      "text": "If any adult in Alfama, I would trust him with you.",
+      "start_ms": 85945,
+      "end_ms": 89456
+    },
+    {
+      "index": 30,
+      "text": "So I am not angry about that.",
+      "start_ms": 89456,
+      "end_ms": 91482
+    },
+    {
+      "index": 31,
+      "text": "And I understand about the sleep.",
+      "start_ms": 91482,
+      "end_ms": 93777
+    },
+    {
+      "index": 32,
+      "text": "I have not been sleeping well either.",
+      "start_ms": 93777,
+      "end_ms": 96343
+    },
+    {
+      "index": 33,
+      "text": "So I understand.\" She was quiet again.",
+      "start_ms": 96343,
+      "end_ms": 98976
+    },
+    {
+      "index": 34,
+      "text": "Then she said, \"But you should have told me.",
+      "start_ms": 98976,
+      "end_ms": 102015
+    },
+    {
+      "index": 35,
+      "text": "Not asked permission.",
+      "start_ms": 102015,
+      "end_ms": 103500
+    },
+    {
+      "index": 36,
+      "text": "Just told me.",
+      "start_ms": 103500,
+      "end_ms": 104446
+    },
+    {
+      "index": 37,
+      "text": "I need to know where you are, even at three in the morning.",
+      "start_ms": 104446,
+      "end_ms": 108497
+    },
+    {
+      "index": 38,
+      "text": "Especially at three in the morning.\" \"I am sorry,\" said Ana.",
+      "start_ms": 108497,
+      "end_ms": 112616
+    },
+    {
+      "index": 39,
+      "text": "\"Yes,\" said her mother.",
+      "start_ms": 112616,
+      "end_ms": 114236
+    },
+    {
+      "index": 40,
+      "text": "\"I know.",
+      "start_ms": 114236,
+      "end_ms": 114844
+    },
+    {
+      "index": 41,
+      "text": "Do not do it again.",
+      "start_ms": 114844,
+      "end_ms": 116194
+    },
+    {
+      "index": 42,
+      "text": "Tell me.",
+      "start_ms": 116194,
+      "end_ms": 116802
+    },
+    {
+      "index": 43,
+      "text": "From now on.",
+      "start_ms": 116802,
+      "end_ms": 117680
+    },
+    {
+      "index": 44,
+      "text": "Even if it is a text.\"",
+      "start_ms": 117680,
+      "end_ms": 119300
+    },
+    {
+      "index": 45,
+      "text": "Ana nodded.",
+      "start_ms": 119300,
+      "end_ms": 120111
+    },
+    {
+      "index": 46,
+      "text": "Her mother sipped her coffee.",
+      "start_ms": 120111,
+      "end_ms": 122136
+    },
+    {
+      "index": 47,
+      "text": "She was thinking.",
+      "start_ms": 122136,
+      "end_ms": 123352
+    },
+    {
+      "index": 48,
+      "text": "Then she said, \"I want to meet him.",
+      "start_ms": 123352,
+      "end_ms": 125782
+    },
+    {
+      "index": 49,
+      "text": "Not because I do not trust you.",
+      "start_ms": 125782,
+      "end_ms": 127943
+    },
+    {
+      "index": 50,
+      "text": "But because I want to thank him.",
+      "start_ms": 127943,
+      "end_ms": 130171
+    },
+    {
+      "index": 51,
+      "text": "And I want to see this.",
+      "start_ms": 130171,
+      "end_ms": 131792
+    },
+    {
+      "index": 52,
+      "text": "I want to see what happens at three in the morning under our building.",
+      "start_ms": 131792,
+      "end_ms": 136586
+    },
+    {
+      "index": 53,
+      "text": "It has been under my life for eighteen years and I have never seen it.",
+      "start_ms": 136586,
+      "end_ms": 141380
+    },
+    {
+      "index": 54,
+      "text": "That is embarrassing.",
+      "start_ms": 141380,
+      "end_ms": 142865
+    },
+    {
+      "index": 55,
+      "text": "Will you show me tonight?\"",
+      "start_ms": 142865,
+      "end_ms": 144756
+    },
+    {
+      "index": 56,
+      "text": "That night at three, Ana took her mother down to the bakery.",
+      "start_ms": 144756,
+      "end_ms": 148875
+    },
+    {
+      "index": 57,
+      "text": "Senhor Mendes was very pleased.",
+      "start_ms": 148875,
+      "end_ms": 151035
+    },
+    {
+      "index": 58,
+      "text": "He gave Ana's mother a small cup of coffee and a warm papo-seco fresh from the oven.",
+      "start_ms": 151035,
+      "end_ms": 156775
+    },
+    {
+      "index": 59,
+      "text": "Ana's mother ate it standing at the counter.",
+      "start_ms": 156775,
+      "end_ms": 159813
+    },
+    {
+      "index": 60,
+      "text": "She was quiet for a while.",
+      "start_ms": 159813,
+      "end_ms": 161636
+    },
+    {
+      "index": 61,
+      "text": "Then she said, in her serious way, \"Senhor Mendes.",
+      "start_ms": 161636,
+      "end_ms": 165080
+    },
+    {
+      "index": 62,
+      "text": "Thank you for looking after my daughter.",
+      "start_ms": 165080,
+      "end_ms": 167848
+    },
+    {
+      "index": 63,
+      "text": "She sleeps better now.",
+      "start_ms": 167848,
+      "end_ms": 169401
+    },
+    {
+      "index": 64,
+      "text": "I did not know what to do about it.",
+      "start_ms": 169401,
+      "end_ms": 171832
+    },
+    {
+      "index": 65,
+      "text": "I was going to take her to a doctor.",
+      "start_ms": 171832,
+      "end_ms": 174330
+    },
+    {
+      "index": 66,
+      "text": "But this is better than any doctor.\" Senhor Mendes shook his head.",
+      "start_ms": 174330,
+      "end_ms": 178854
+    },
+    {
+      "index": 67,
+      "text": "\"She looks after me, more than the other way,\" he said.",
+      "start_ms": 178854,
+      "end_ms": 182635
+    },
+    {
+      "index": 68,
+      "text": "\"I am old, senhora.",
+      "start_ms": 182635,
+      "end_ms": 183986
+    },
+    {
+      "index": 69,
+      "text": "My back hurts.",
+      "start_ms": 183986,
+      "end_ms": 184998
+    },
+    {
+      "index": 70,
+      "text": "Ana pulls the trays out for me.",
+      "start_ms": 184998,
+      "end_ms": 187159
+    },
+    {
+      "index": 71,
+      "text": "She has good hands.",
+      "start_ms": 187159,
+      "end_ms": 188510
+    },
+    {
+      "index": 72,
+      "text": "She is going to be an excellent baker if she wants.",
+      "start_ms": 188510,
+      "end_ms": 192021
+    },
+    {
+      "index": 73,
+      "text": "Or she is going to be an excellent something else, and she will remember when she was a girl and knew how to make bread.",
+      "start_ms": 192021,
+      "end_ms": 200191
+    },
+    {
+      "index": 74,
+      "text": "Either way, we are helping each other.\"",
+      "start_ms": 200191,
+      "end_ms": 202824
+    },
+    {
+      "index": 75,
+      "text": "Ana's mother stayed for maybe half an hour.",
+      "start_ms": 202824,
+      "end_ms": 205512
+    },
+    {
+      "index": 76,
+      "text": "She watched Senhor Mendes work.",
+      "start_ms": 205512,
+      "end_ms": 207467
+    },
+    {
+      "index": 77,
+      "text": "She watched Ana work.",
+      "start_ms": 207467,
+      "end_ms": 208811
+    },
+    {
+      "index": 78,
+      "text": "She did not say much.",
+      "start_ms": 208811,
+      "end_ms": 210155
+    },
+    {
+      "index": 79,
+      "text": "When she left to go back upstairs — she had to sleep, she had a shift at seven — she hugged Ana in the middle of the bakery, in her flour-dusted apron, and she said, \"You are teaching me something too, Ana.",
+      "start_ms": 210155,
+      "end_ms": 222801
+    },
+    {
+      "index": 80,
+      "text": "That the world is bigger than my hospital and my apartment.",
+      "start_ms": 222801,
+      "end_ms": 226466
+    },
+    {
+      "index": 81,
+      "text": "That people have whole lives that happen while I am doing my own thing.",
+      "start_ms": 226466,
+      "end_ms": 230865
+    },
+    {
+      "index": 82,
+      "text": "Thank you for making me come down here.\"",
+      "start_ms": 230865,
+      "end_ms": 233431
+    },
+    {
+      "index": 83,
+      "text": "Ana went down to the bakery on and off for years after that.",
+      "start_ms": 233431,
+      "end_ms": 237157
+    },
+    {
+      "index": 84,
+      "text": "Not every night — she began to sleep better as the years went on — but whenever she woke up in the middle of the night, and whenever she could not sleep, she went.",
+      "start_ms": 237157,
+      "end_ms": 247176
+    },
+    {
+      "index": 85,
+      "text": "Senhor Mendes was always there.",
+      "start_ms": 247176,
+      "end_ms": 249131
+    },
+    {
+      "index": 86,
+      "text": "She helped him make bread until she was twelve, and then thirteen, and then fifteen.",
+      "start_ms": 249131,
+      "end_ms": 254324
+    },
+    {
+      "index": 87,
+      "text": "Sometimes there were other children who came.",
+      "start_ms": 254324,
+      "end_ms": 257134
+    },
+    {
+      "index": 88,
+      "text": "Once, another old man from the neighborhood came at four in the morning because he could not sleep after his wife died, and Senhor Mendes gave him something to do too, and the old man was still coming, five nights a week, three years later.",
+      "start_ms": 257134,
+      "end_ms": 271918
+    },
+    {
+      "index": 89,
+      "text": "When Ana was seventeen, Senhor Mendes retired.",
+      "start_ms": 271918,
+      "end_ms": 274789
+    },
+    {
+      "index": 90,
+      "text": "His son took over the bakery.",
+      "start_ms": 274789,
+      "end_ms": 276622
+    },
+    {
+      "index": 91,
+      "text": "His son did not work at night — the son used a big modern oven with a timer and made the dough during the day.",
+      "start_ms": 276622,
+      "end_ms": 283403
+    },
+    {
+      "index": 92,
+      "text": "The bakery kept selling bread but it was a different bakery.",
+      "start_ms": 283403,
+      "end_ms": 287129
+    },
+    {
+      "index": 93,
+      "text": "Ana understood.",
+      "start_ms": 287129,
+      "end_ms": 288107
+    },
+    {
+      "index": 94,
+      "text": "She was sad about it but she understood.",
+      "start_ms": 288107,
+      "end_ms": 290612
+    },
+    {
+      "index": 95,
+      "text": "On the last night, the last night when Senhor Mendes made bread the old way, Ana stayed with him all night.",
+      "start_ms": 290612,
+      "end_ms": 297209
+    },
+    {
+      "index": 96,
+      "text": "She was seventeen and it was her last year of school.",
+      "start_ms": 297209,
+      "end_ms": 300508
+    },
+    {
+      "index": 97,
+      "text": "They talked more that night than they had ever talked.",
+      "start_ms": 300508,
+      "end_ms": 303868
+    },
+    {
+      "index": 98,
+      "text": "When they finished, at six in the morning, Senhor Mendes handed her the very last loaf of bread he ever made.",
+      "start_ms": 303868,
+      "end_ms": 310588
+    },
+    {
+      "index": 99,
+      "text": "It was small and round and warm.",
+      "start_ms": 310588,
+      "end_ms": 312604
+    },
+    {
+      "index": 100,
+      "text": "She took it upstairs.",
+      "start_ms": 312604,
+      "end_ms": 313948
+    },
+    {
+      "index": 101,
+      "text": "She and her mother ate it for breakfast.",
+      "start_ms": 313948,
+      "end_ms": 316392
+    },
+    {
+      "index": 102,
+      "text": "Ana became a doctor.",
+      "start_ms": 316392,
+      "end_ms": 317561
+    },
+    {
+      "index": 103,
+      "text": "She was not sure, exactly, why she had wanted to.",
+      "start_ms": 317561,
+      "end_ms": 320345
+    },
+    {
+      "index": 104,
+      "text": "But she thought it had something to do with her mother, and with Senhor Mendes, and with all the other people who worked at hours other people did not think about.",
+      "start_ms": 320345,
+      "end_ms": 329475
+    },
+    {
+      "index": 105,
+      "text": "She wanted to be one of the ones who was up at three in the morning.",
+      "start_ms": 329475,
+      "end_ms": 333316
+    },
+    {
+      "index": 106,
+      "text": "She wanted to know the calm that Senhor Mendes had told her about, on that first night.",
+      "start_ms": 333316,
+      "end_ms": 338271
+    },
+    {
+      "index": 107,
+      "text": "Whenever she was on a night shift, and she had a quiet moment at three in the morning, she would go and look out the window of the hospital, and she would look toward Alfama across the river, and she would remember.",
+      "start_ms": 338271,
+      "end_ms": 350296
+    },
+    {
+      "index": 108,
+      "text": "She would think about the warm gold light in the bottom of her building, and about the way a piece of dough felt when it was ready — like an earlobe — and about how Lisbon had been feeding her, and everyone she knew, every morning of their lives, because a few dozen people had never gone to bed.",
+      "start_ms": 350296,
+      "end_ms": 366831
+    },
+    {
+      "index": 109,
+      "text": "And she thought, always, that she was not really doing anything special.",
+      "start_ms": 366831,
+      "end_ms": 370895
+    },
+    {
+      "index": 110,
+      "text": "She was only doing what Senhor Mendes had done.",
+      "start_ms": 370895,
+      "end_ms": 373567
+    },
+    {
+      "index": 111,
+      "text": "She was staying up so someone else could rest.",
+      "start_ms": 373567,
+      "end_ms": 376128
+    }
+  ]
+}

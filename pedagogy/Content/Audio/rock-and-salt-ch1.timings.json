@@ -1,0 +1,361 @@
+{
+  "story_id": "rock-and-salt",
+  "chapter": 1,
+  "total_duration_ms": 240888,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The road to Lindisfarne was under water twice a day, and if you got the timing wrong, you had to sit at the mainland end and wait six hours for the tide to go back out.",
+      "start_ms": 1430,
+      "end_ms": 10727
+    },
+    {
+      "index": 1,
+      "text": "Ada and Wren's father had checked the tide tables three times before he put them in the car, and he told them twice on the drive north that they would need to remember to check the tide tables themselves every single day for the whole three weeks they were on the island, or they would not be able to leave.",
+      "start_ms": 10727,
+      "end_ms": 27671
+    },
+    {
+      "index": 2,
+      "text": "He said it like it was a warning, but Ada thought it sounded like a promise.",
+      "start_ms": 27671,
+      "end_ms": 31962
+    },
+    {
+      "index": 3,
+      "text": "Ada and Wren were twins.",
+      "start_ms": 31962,
+      "end_ms": 33338
+    },
+    {
+      "index": 4,
+      "text": "Everyone at their school in Newcastle mixed them up unless they were standing right next to each other.",
+      "start_ms": 33338,
+      "end_ms": 39059
+    },
+    {
+      "index": 5,
+      "text": "Then it was obvious — Ada kept her hair short and Wren kept hers long and messy — but from behind, or in photographs, or at a distance, they were the same person.",
+      "start_ms": 39059,
+      "end_ms": 48026
+    },
+    {
+      "index": 6,
+      "text": "They liked this most of the time.",
+      "start_ms": 48026,
+      "end_ms": 49897
+    },
+    {
+      "index": 7,
+      "text": "They had learned to answer to both names.",
+      "start_ms": 49897,
+      "end_ms": 52262
+    },
+    {
+      "index": 8,
+      "text": "Their Aunt Meg lived in a small stone cottage right at the edge of the village on the western side of the island.",
+      "start_ms": 52262,
+      "end_ms": 58534
+    },
+    {
+      "index": 9,
+      "text": "She was their father's older sister, and she had lived on Lindisfarne alone for as long as either of the twins could remember.",
+      "start_ms": 58534,
+      "end_ms": 65520
+    },
+    {
+      "index": 10,
+      "text": "When their father dropped them off he did not stay long — the tide was coming in soon — and he hugged them both at once, one under each arm, and told them to be good and to help their aunt with everything.",
+      "start_ms": 65520,
+      "end_ms": 76908
+    },
+    {
+      "index": 11,
+      "text": "Then he drove back over the causeway just before the water came up, and the twins and Aunt Meg stood in her doorway and watched the sea slowly close the road behind him.",
+      "start_ms": 76908,
+      "end_ms": 86260
+    },
+    {
+      "index": 12,
+      "text": "\"That's it,\" said Aunt Meg cheerfully.",
+      "start_ms": 86260,
+      "end_ms": 88405
+    },
+    {
+      "index": 13,
+      "text": "\"You're stuck now.",
+      "start_ms": 88405,
+      "end_ms": 89451
+    },
+    {
+      "index": 14,
+      "text": "Come inside.",
+      "start_ms": 89451,
+      "end_ms": 90166
+    },
+    {
+      "index": 15,
+      "text": "There's cake.\"",
+      "start_ms": 90166,
+      "end_ms": 90936
+    },
+    {
+      "index": 16,
+      "text": "Aunt Meg was different from what Ada had expected.",
+      "start_ms": 90936,
+      "end_ms": 93909
+    },
+    {
+      "index": 17,
+      "text": "She had thought she would be quiet, because their father always said Aunt Meg was quiet, but in her own house Aunt Meg was not quiet at all.",
+      "start_ms": 93909,
+      "end_ms": 102129
+    },
+    {
+      "index": 18,
+      "text": "She talked constantly, cheerfully, about small things — the weather, the seagull that lived on her roof, a woman in the village named Mrs.",
+      "start_ms": 102129,
+      "end_ms": 110232
+    },
+    {
+      "index": 19,
+      "text": "Fothergill who kept trying to sell her a very ugly painting.",
+      "start_ms": 110232,
+      "end_ms": 113789
+    },
+    {
+      "index": 20,
+      "text": "She fed them cake and she pointed at the tide table on the wall and she made them promise to check it every morning.",
+      "start_ms": 113789,
+      "end_ms": 120668
+    },
+    {
+      "index": 21,
+      "text": "\"Now listen,\" she said, more seriously, when they were finishing their cake.",
+      "start_ms": 120668,
+      "end_ms": 125157
+    },
+    {
+      "index": 22,
+      "text": "\"There are only a few real rules on this island.",
+      "start_ms": 125157,
+      "end_ms": 128013
+    },
+    {
+      "index": 23,
+      "text": "You do not go out onto the tidal flats when the tide is coming in.",
+      "start_ms": 128013,
+      "end_ms": 131919
+    },
+    {
+      "index": 24,
+      "text": "Ever.",
+      "start_ms": 131919,
+      "end_ms": 132269
+    },
+    {
+      "index": 25,
+      "text": "You do not walk on the causeway when the water is above the marker posts.",
+      "start_ms": 132269,
+      "end_ms": 136583
+    },
+    {
+      "index": 26,
+      "text": "Ever.",
+      "start_ms": 136583,
+      "end_ms": 136933
+    },
+    {
+      "index": 27,
+      "text": "And if anyone knocks on the door at night — anyone at all — you come and get me first before you open it.",
+      "start_ms": 136933,
+      "end_ms": 143112
+    },
+    {
+      "index": 28,
+      "text": "Yes?\" She looked at both of them very steadily.",
+      "start_ms": 143112,
+      "end_ms": 145911
+    },
+    {
+      "index": 29,
+      "text": "Ada and Wren nodded.",
+      "start_ms": 145911,
+      "end_ms": 147135
+    },
+    {
+      "index": 30,
+      "text": "Aunt Meg nodded back.",
+      "start_ms": 147135,
+      "end_ms": 148417
+    },
+    {
+      "index": 31,
+      "text": "\"Good.",
+      "start_ms": 148417,
+      "end_ms": 148825
+    },
+    {
+      "index": 32,
+      "text": "Now off you go and explore.\"",
+      "start_ms": 148825,
+      "end_ms": 150574
+    },
+    {
+      "index": 33,
+      "text": "For the first two days they did nothing but walk around the island.",
+      "start_ms": 150574,
+      "end_ms": 154539
+    },
+    {
+      "index": 34,
+      "text": "It was smaller than they had expected — you could walk all the way around it in a few hours, if you stayed close to the shore.",
+      "start_ms": 154539,
+      "end_ms": 161942
+    },
+    {
+      "index": 35,
+      "text": "They went to the ruined priory, which was a huge stone skeleton of a church that had been built more than a thousand years ago and destroyed and rebuilt and destroyed again.",
+      "start_ms": 161942,
+      "end_ms": 172086
+    },
+    {
+      "index": 36,
+      "text": "They went to the castle on the rocky hill at the far end.",
+      "start_ms": 172086,
+      "end_ms": 175467
+    },
+    {
+      "index": 37,
+      "text": "They watched seals in the water.",
+      "start_ms": 175467,
+      "end_ms": 177449
+    },
+    {
+      "index": 38,
+      "text": "On the third night, the wind came up.",
+      "start_ms": 177449,
+      "end_ms": 179665
+    },
+    {
+      "index": 39,
+      "text": "It came from the north, and it was cold, and the sea was loud.",
+      "start_ms": 179665,
+      "end_ms": 183338
+    },
+    {
+      "index": 40,
+      "text": "Ada and Wren were in bed in the small back room they were sharing.",
+      "start_ms": 183338,
+      "end_ms": 187243
+    },
+    {
+      "index": 41,
+      "text": "It was after midnight.",
+      "start_ms": 187243,
+      "end_ms": 188584
+    },
+    {
+      "index": 42,
+      "text": "They were both half-asleep.",
+      "start_ms": 188584,
+      "end_ms": 190217
+    },
+    {
+      "index": 43,
+      "text": "And that was when the knock came at the door.",
+      "start_ms": 190217,
+      "end_ms": 192840
+    },
+    {
+      "index": 44,
+      "text": "Ada was out of bed first.",
+      "start_ms": 192840,
+      "end_ms": 194322
+    },
+    {
+      "index": 45,
+      "text": "Wren was right behind her.",
+      "start_ms": 194322,
+      "end_ms": 195861
+    },
+    {
+      "index": 46,
+      "text": "They got to the top of the stairs just as Aunt Meg opened the door of her own bedroom, and she gave them one hard look and then she went downstairs without saying anything.",
+      "start_ms": 195861,
+      "end_ms": 205721
+    },
+    {
+      "index": 47,
+      "text": "The twins crept halfway down and sat on the step.",
+      "start_ms": 205721,
+      "end_ms": 208571
+    },
+    {
+      "index": 48,
+      "text": "From there they could see the front hall, and the door, and the person in the doorway.",
+      "start_ms": 208571,
+      "end_ms": 213587
+    },
+    {
+      "index": 49,
+      "text": "The person was a man.",
+      "start_ms": 213587,
+      "end_ms": 214841
+    },
+    {
+      "index": 50,
+      "text": "He was maybe forty, maybe fifty — it was hard to tell, because he was very wet.",
+      "start_ms": 214841,
+      "end_ms": 219400
+    },
+    {
+      "index": 51,
+      "text": "His clothes were dark and old-fashioned.",
+      "start_ms": 219400,
+      "end_ms": 221737
+    },
+    {
+      "index": 52,
+      "text": "His hair was plastered down.",
+      "start_ms": 221737,
+      "end_ms": 223390
+    },
+    {
+      "index": 53,
+      "text": "He was not shivering.",
+      "start_ms": 223390,
+      "end_ms": 224644
+    },
+    {
+      "index": 54,
+      "text": "He was standing very still.",
+      "start_ms": 224644,
+      "end_ms": 226240
+    },
+    {
+      "index": 55,
+      "text": "He said, in a soft voice with a strong local accent, \"I'm sorry to disturb you at this hour.",
+      "start_ms": 226240,
+      "end_ms": 231541
+    },
+    {
+      "index": 56,
+      "text": "I'm looking for something I lost in the flats.",
+      "start_ms": 231541,
+      "end_ms": 234219
+    },
+    {
+      "index": 57,
+      "text": "I was told the Braithwaite house might help me.\" Aunt Meg did not answer for a long moment.",
+      "start_ms": 234219,
+      "end_ms": 239463
+    },
+    {
+      "index": 58,
+      "text": "Then she said, \"Come in.\"",
+      "start_ms": 239463,
+      "end_ms": 240888
+    }
+  ]
+}

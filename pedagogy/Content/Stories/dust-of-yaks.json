@@ -1,0 +1,171 @@
+{
+  "id": "dust-of-yaks",
+  "title": "The Dust of Yaks",
+  "subtitle": "A Summer in Övörkhangai",
+  "author": null,
+  "summary": "Bata is eleven and lives with his family in a ger on the summer pastures of central Mongolia. In the week before the Naadam festival, his grandmother Odval hands him a small old saddle — one his great-great-grandfather made — and tells him he is old enough now to help her ride out and gather the herd. But halfway to the animals, a summer storm builds fast on the horizon, and grandmother and grandson are still a long way from home.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-dust-of-yaks-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old Mongolian boy (Bata) with short black hair, wearing a traditional dark blue del tunic tied at the waist with an orange sash, standing on the vast open steppe. He holds a small worn leather saddle in both hands, cradled against his chest. Beside him stands his grandmother (Odval, in her mid-sixties, weathered kind face, silver hair under a soft cloth cap, wearing a dark red del). Behind them, low green-gold summer grass stretches to the horizon, and in the far distance a small white ger and a scatter of horses. Big open sky above with a few slow clouds. Character positioned center-left, filling roughly 45% of frame height. Palette: warm cream (#FFF9F0), sepia grass and earth, deep ink outlines, small dusty rose (#FF5B8D) accent on the boy's sunburned cheeks and on the orange sash. Small margin at top and bottom for card padding.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2027-05-20",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Small Saddle",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "dy-ch1-p1-ger",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a single white ger (round Mongolian felt tent) on a wide green steppe under an enormous sky. Two horses tied nearby, a few yaks grazing in the middle distance. Early summer morning light, long low shadows. Heavy black ink outlines, flat shadows, warm cream and sepia palette with soft blue sky.",
+          "paragraphs": [
+            "Bata was eleven, and he lived, for most of the year, in a ger on the summer pastures of Övörkhangai, in the middle of Mongolia. Ger meant the round white felt tent his family lived in — a single warm room with a stove in the center and beds along the walls. His father, Batbayar, herded horses and yaks. His mother taught at the small school in the sum center, a two-hour drive away. His grandmother, Odval, lived with them. She was in her mid-sixties, and she was, everyone said, the person in the family who really knew the land.",
+            "It was late June. In three weeks, the whole country would be watching Naadam — the summer festival of the three manly games, which were wrestling, archery, and horse racing. Bata's family raised racing horses. Every summer they took three or four of the fastest yearlings and two-year-olds to the smaller regional races that led up to Naadam. This year, for the first time, Bata was allowed to help."
+          ]
+        },
+        {
+          "image": "dy-ch1-p2-saddle",
+          "imagePrompt": "Mike Mignola style for children: interior of the ger. Warm firelight from the central stove. Odval (mid-sixties, silver hair under a cloth cap, dark red del) has just taken a small worn leather saddle down from a hook on the ger frame and is holding it out to Bata (11) who stands facing her, one hand reaching to receive it. The saddle is small, old, dark leather with silver ornaments dulled by age. Heavy black ink outlines, flat shadows, warm cream and gold palette.",
+          "paragraphs": [
+            "On the second Monday of the month, in the early morning, Odval called Bata over to the north side of the ger. She reached up to a wooden peg by the frame and lifted down something that had been hanging there, wrapped in a soft old cloth, for as long as Bata could remember. He had known it was a saddle. He had not known it was for him.",
+            "She unwrapped it and set it on the low table. It was very small — child-sized — and made of dark leather that had been used and oiled and used and oiled for a very long time. The silver ornaments on the pommel were dulled. There were places where the leather had been mended, carefully, with darker thread. Odval said, \"This was your great-great-grandfather's first saddle. He rode it when he was your age. Then his son used it. Then his son. Then your father. Now you.\" She looked at Bata. \"You are old enough now. This week we ride out to bring the horses in. You will use this.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Bata picked up the saddle. It was heavier than he expected. The leather smelled of woodsmoke and old sweat and something else, faint and sweet, like dry hay that had been kept somewhere warm. He turned it over. On the underside, near where the stirrup leather attached, he could see a small mark — a rough triangle with a dot in the middle — burned into the leather with a hot iron a very long time ago. He asked what it was. Odval said, \"That is your great-great-grandfather's mark. He put it on everything he made himself. He was a saddler as well as a herder. Some things he made for the family. Some things he made to trade. This one he made for himself, when he was ten. He rode it for six years. He made bigger ones after that.\"",
+            "\"I never met him,\" Bata said. Odval said, \"No. He died before I was born. My grandmother told me about him. She said he was a quiet man, and a good horseman, and he made things that lasted.\" She tapped the saddle. \"This is a hundred and twenty years old. It has taken five boys through their first gathering. You will be the sixth.\""
+          ]
+        },
+        {
+          "image": "dy-ch1-p4-riding-out",
+          "imagePrompt": "Mike Mignola style for children: exterior wide shot of the steppe. Two riders, small in the frame — Odval on a dun horse, Bata on a smaller brown horse — riding away from the camera toward distant low green hills. A single white ger visible far behind them. Big cream and gold sky. Long shadows behind the horses. Heavy black ink outlines, flat shadows.",
+          "paragraphs": [
+            "They rode out at midmorning. Odval on her old dun mare, Bata on a small brown gelding called Chuluun, which meant Stone. Chuluun was patient and knew the way. The saddle fit Bata almost exactly — his great-great-grandfather must have been about his size at eleven. The stirrups needed only one hole of adjustment.",
+            "They rode east, into the long green rolling country. The horses they were going to gather were about three hours out, at a place called the White Spring, where Batbayar had left them a week ago to graze. Odval rode ahead and Bata followed, the way he had ridden his whole life following adults through this land. But today felt different. The small saddle under him made a sound he had never heard before — a soft creak of old leather, slightly different from the newer saddle he usually used. He listened to it as they rode."
+          ]
+        },
+        {
+          "image": "dy-ch1-p5-clouds",
+          "imagePrompt": "Mike Mignola style for children: mid-distance view of the two riders (Odval and Bata) paused on a low rise. Both are looking back over their shoulders to the west, where the sky has turned dark — a wall of heavy grey-purple storm cloud is building on the horizon and coming toward them fast. The land in the foreground is still bright and gold, but the shadow is coming. Heavy black ink outlines, flat shadows, dramatic contrast between the warm cream foreground and the dark cloud.",
+          "paragraphs": [
+            "They found the horses at the White Spring a little past midday. There were nine — three racing yearlings, two two-year-olds, and four broodmares — and they were all together, calm, drinking. Bata and Odval let them finish and then began the slow turning-work of steering the whole small herd back to the west. Bata rode at the rear, whistling and clicking the way his father had taught him. The horses moved willingly. The sun was warm on his back. He was, for a whole hour, happier than he had ever been.",
+            "It was Odval who noticed first. She reined in her mare and turned in the saddle and looked behind them, back to the west, back toward home. Bata turned too. The sky where they were going had changed. A wall of dark grey-purple cloud, low and heavy, was building on the horizon. It had not been there half an hour ago. It was already big. Odval watched it for maybe ten seconds. Then she said, very calmly, \"Bata. We will not make it home before that hits us. We need to think.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Ovoo",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "dy-ch2-p1-decision",
+          "imagePrompt": "Mike Mignola style for children: Odval and Bata on horseback, close together, both facing the same direction. Odval is pointing toward the north, where a rocky outcrop with a stone ovoo (ritual pile of stones with prayer flags fluttering) is visible on a small hill. The dark storm is closing in from behind them. The nine horses stand in a loose group nearby, ears alert. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Odval was quiet for a moment, thinking. Bata sat very still on Chuluun and did not interrupt. He had never seen his grandmother worried before. Then she said, \"The ovoo on Bogd Hill. It is forty minutes northeast. There is a shepherd's shelter behind it — a small stone hut for storms. Your father and I used it two years ago. We will drive the horses that way. If we go now, we may make it before the rain.\"",
+            "She turned Chuluun's head with the flat of her hand and started him moving. Bata followed. The horses, sensing the change of wind, moved more quickly on their own — they knew a storm was coming, better than any human. The wind began to rise. Bata could smell the rain now — the cold clean smell of the storm coming across empty land."
+          ]
+        },
+        {
+          "image": "dy-ch2-p2-arrival",
+          "imagePrompt": "Mike Mignola style for children: the ovoo at the top of a small rocky hill — a large mounded pile of grey stones with tall wooden poles rising from its center, wrapped in weathered blue prayer scarves (khadag) that flutter horizontally in the strong wind. Behind the ovoo, built into the side of the hill, a small low stone hut with a wooden door. Odval and Bata are dismounting; the horses stand tied to a long rope stretched between two posts. The sky is now half-dark. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They made it. Just. The first heavy drops began to fall as they crested Bogd Hill and Bata saw the ovoo for the first time — the great pile of grey stones his grandmother had spoken of, with tall wooden poles rising from the middle, and the long blue prayer scarves — khadag — snapping horizontally in the wind. Behind it, dug into the hillside, was the shelter she had promised — a small low hut of piled stone with a wooden door and a shallow overhang for the horses.",
+            "Odval showed him how to tie the horses to the long rope that ran between two posts under the overhang, so the wind would not spook them off. Then she opened the wooden door of the hut, and they went inside just as the sky broke."
+          ]
+        },
+        {
+          "image": "dy-ch2-p3-inside",
+          "imagePrompt": "Mike Mignola style for children: interior of the small stone hut. Very small — just enough for two people to sit. A packed earth floor. A small stone hearth with old ashes and a stack of dry dung fuel beside it. A single low bench. Two small windows without glass, shuttered against the storm. Odval and Bata sit on the floor near the hearth, wrapped in their dels. Odval is arranging a small fire from the dung and a few dry twigs. Warm firelight beginning to build. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Inside the hut it was dry and dim and smelled of old smoke. It was very small — just a stone floor, a low stone hearth, a rough bench, two shuttered windows. Whoever had left it last had left dry argal — dried yak dung fuel — stacked neatly by the hearth, and a small bundle of tinder. Odval started a small fire while Bata unpacked the tea and the dried meat and the flat bread they had brought in their saddlebags. Outside, the rain became a proper storm — heavy, sideways, loud on the stone roof.",
+            "\"How long will it last?\" Bata asked. Odval looked out through a crack in the shutter. She said, \"Maybe two hours. Maybe till morning. We will not know until it stops. We are safe here. The horses are under cover. We have tea. This is fine.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They ate. Odval boiled water for tea, and made it the way she always made it — with milk and a pinch of salt. They drank it slowly. Bata's small saddle sat on the earth floor beside him. In the firelight, the old leather looked almost red. The small triangle brand on the underside caught the light. He touched it with his fingertip.",
+            "Odval saw him do it. She said, \"You should know what happened to him. Your great-great-grandfather. Since you are riding his saddle.\" She sat back against the stone wall and pulled her del closer around her. \"He died in a storm. A winter storm — a zud — when he was fifty-eight. He rode out to bring in a young horse that had wandered. He found the horse. He was bringing it back. But the storm came in faster than he had planned. He was two hours from home when it hit. He did not make it back.\"",
+            "Bata was quiet. He looked at the saddle."
+          ]
+        },
+        {
+          "image": "dy-ch2-p5-listening",
+          "imagePrompt": "Mike Mignola style for children: interior of the stone hut. Very close intimate view of Odval and Bata sitting side by side, wrapped in their dels, listening. The fire glows warm between them. Both are looking not at each other but toward the shuttered window, listening to the storm outside. The small saddle rests on the floor beside Bata. Very warm firelight, deep shadows on the stone walls. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Odval said, \"I tell you this because you should know. Storms are not always survived. He knew this. He rode anyway, because the horse would have died alone. That is the choice a herder sometimes has to make. You will have to make it too, someday. I am not telling you the story to frighten you. I am telling you because this saddle came home without him. His son — my grandfather — rode back out three days later, when the storm passed, and found him and the young horse. The horse was alive. My great-grandfather had wrapped his own del around it before he died. The saddle came home tied to that horse.\"",
+            "She looked at Bata. \"Every rider in this family since then has ridden this saddle at least once. It is our way of remembering that he did not come back alone. He came back with the horse he went to save. This is what the saddle is for.\"",
+            "Bata did not know what to say. Outside the hut, the storm cracked. The horses under the overhang whinnied once, close and afraid. Odval put out her hand and rested it on Bata's shoulder. She said, \"Do not be afraid tonight. He rode out into a much worse storm than this. You are riding out into a summer rain. We will wait. It will pass.\" And in the small warm hut, they waited."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Way Home",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "dy-ch3-p1-morning",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the stone hut in early morning. The storm has passed. The ground is dark and wet, the grass beaten flat and beginning to rise. The ovoo above the hut is clean and bright, its prayer flags still. Odval and Bata stand outside, checking the horses tied under the overhang. Long low golden dawn light casts long shadows. Heavy ink outlines, flat shadows, warm cream and gold palette.",
+          "paragraphs": [
+            "The storm passed in the middle of the night. Bata woke once, in the very small hours, and heard silence — the rain had stopped, and the wind had dropped, and outside the hut there was only the small sound of the horses shifting under the overhang. He fell asleep again quickly. When he woke properly it was dawn, and the world outside the hut had been washed clean.",
+            "They stepped outside into cold clear morning air. The grass had been beaten flat by the rain but was already beginning to lift. The sky was pale and empty. The horses were fine — wet, but calm. Chuluun looked at Bata with mild reproach, as if to say, next time, less of that. Odval laughed when she saw the horse's face. It was the first time she had laughed since the storm."
+          ]
+        },
+        {
+          "image": "dy-ch3-p2-ovoo-circle",
+          "imagePrompt": "Mike Mignola style for children: Bata and Odval walking clockwise around the stone ovoo at the top of the hill. Bata has a small stone in his hand, ready to add to the pile. Odval walks slightly ahead of him, her hands folded. The morning light is soft gold. The wide steppe stretches out in every direction below them. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Before they left, Odval led Bata up to the ovoo. She said, \"When you pass an ovoo, you walk around it three times, in the direction the sun goes, and you add a stone.\" She handed him a small round stone she had picked up. She had another for herself. \"You can say anything you want as you walk. Or you can say nothing. It is between you and the mountain.\"",
+            "They walked around the ovoo three times, slowly, in the cold morning light. Bata did not know what to say. He thought about his great-great-grandfather, who had ridden the small saddle into a much worse storm than his. He thought about the young horse that had come home wrapped in a man's coat. He thought about Odval, who had known this place would be here, and had known which direction to ride when the sky went dark. He thought, thank you. He was not sure who he was thanking. He put his stone on the pile anyway. Odval put hers beside his."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They saddled the horses and untied the herd and started for home. The nine horses moved eagerly this morning — they wanted their own pasture. The land, freshly rained on, smelled of earth and grass and something Bata did not have a name for. He rode at the rear again, on Chuluun, in the small old saddle, and listened to it creak beneath him.",
+            "About halfway home, Odval slowed her mare until she was riding beside him. She said, \"You did well last night. You did not cry. You did not panic. You listened.\" Bata said, \"You did the work. I only followed.\" Odval said, \"That is exactly right. Following well is a skill. The first time out, you follow. The second time, you follow with your eyes open. The third time, you begin to know why. That is how it goes.\""
+          ]
+        },
+        {
+          "image": "dy-ch3-p4-return",
+          "imagePrompt": "Mike Mignola style for children: distant view of the family ger from a low rise. The nine horses being driven down toward it. Batbayar (Bata's father, thirties, dark del) is walking out to meet them, waving. Late morning sunlight, long shadows, the steppe wet and green. Heavy ink outlines, flat shadows, warm cream and gold palette.",
+          "paragraphs": [
+            "They came over the last rise a little before noon. Bata saw the ger below — small and white against the huge green — and he saw his father walking out to meet them, one hand raised in greeting. Batbayar had been worried. Bata could see it in the way he walked. But when he saw the horses were all there, and Odval was riding easily, and Bata was upright in the small saddle, he stopped worrying. He waved instead. He was smiling.",
+            "They drove the horses into the corral. Batbayar took Chuluun's reins as Bata dismounted. He looked at his son, then at the small saddle, then at his mother. He did not say anything for a moment. Then he said, quietly, in Odval's direction, \"So he has it now.\" Odval said, \"He has it now.\""
+          ]
+        },
+        {
+          "image": "dy-ch3-p5-hook",
+          "imagePrompt": "Mike Mignola style for children: interior of the ger, evening. Bata stands on a small stool, reaching up to hang the small leather saddle on the empty wooden peg on the north wall of the ger, where it had hung for years. Odval stands beside him, hands folded, watching. Firelight from the central stove. Heavy ink outlines, flat shadows, warm cream and gold palette.",
+          "paragraphs": [
+            "That evening, after supper, Odval told Bata to hang the small saddle back on its peg on the north wall of the ger. He climbed onto a stool and lifted it up. It fit into the same worn hollow in the wood that it had rested in for a hundred and twenty years. He climbed back down.",
+            "Odval was watching him. She said, \"It stays there now until you ride again. When you do, you take it down. When you come back, you put it up. That is how it has always worked. Your father did this. His father did this. His father did this. His father did this. Now you.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Bata looked at the saddle. It was small and dark and old, and the small triangle brand on the underside faced the wall now, and could not be seen. He did not need to see it. He knew it was there.",
+            "Outside the ger, the summer evening was long and pale. Somewhere in the middle distance, a horse whinnied — one of the racing yearlings, restless, wanting to run. In three weeks it would run at Naadam. Bata would be there, riding beside his father. But that was in three weeks. Tonight, he was home. The saddle was on its peg. The wind had dropped. And his grandmother, in the warm circle of firelight, was pouring another bowl of tea."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": ["family", "grandmother", "mongolia", "horses", "storm", "tradition"]
+}

@@ -1,0 +1,493 @@
+{
+  "story_id": "salt-sisters",
+  "chapter": 1,
+  "total_duration_ms": 335688,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Isla and Camila lived in a small palafito — a wooden house on stilts — at the edge of a green wet island in southern Chile.",
+      "start_ms": 1999,
+      "end_ms": 9996
+    },
+    {
+      "index": 1,
+      "text": "The island was called Quinchao, and it was one of the small islands in the Chiloé archipelago, and it rained there almost every day.",
+      "start_ms": 9996,
+      "end_ms": 18573
+    },
+    {
+      "index": 2,
+      "text": "When Isla, who was eleven, tried to describe the rain to anyone who did not live there, she said: it is not exactly rain.",
+      "start_ms": 18573,
+      "end_ms": 26441
+    },
+    {
+      "index": 3,
+      "text": "It is more like the air deciding, every day, to become water.",
+      "start_ms": 26441,
+      "end_ms": 30439
+    },
+    {
+      "index": 4,
+      "text": "That was what it was like.",
+      "start_ms": 30439,
+      "end_ms": 32245
+    },
+    {
+      "index": 5,
+      "text": "Their mother worked in Puerto Montt on the mainland and came home when she could.",
+      "start_ms": 32245,
+      "end_ms": 37533
+    },
+    {
+      "index": 6,
+      "text": "Their grandfather, whom they called Abuelo, was the man of the house.",
+      "start_ms": 37533,
+      "end_ms": 42047
+    },
+    {
+      "index": 7,
+      "text": "He was quiet, and slow, and very tall, and he made the best sopa marinera — seafood soup — that anyone on Quinchao had ever tasted.",
+      "start_ms": 42047,
+      "end_ms": 50560
+    },
+    {
+      "index": 8,
+      "text": "He had been alone since spring, when their grandmother, Abuela Rosa, had died.",
+      "start_ms": 50560,
+      "end_ms": 55719
+    },
+    {
+      "index": 9,
+      "text": "Abuela Rosa had been the healer of Quinchao — the meica, as the old people said.",
+      "start_ms": 55719,
+      "end_ms": 60943
+    },
+    {
+      "index": 10,
+      "text": "She had known every plant on the island.",
+      "start_ms": 60943,
+      "end_ms": 63587
+    },
+    {
+      "index": 11,
+      "text": "She had known which one was for a stomachache and which one was for a bad dream and which one was for a fever that would not break.",
+      "start_ms": 63587,
+      "end_ms": 72099
+    },
+    {
+      "index": 12,
+      "text": "She had known the songs that went with each one, because — she had said — a plant that was picked without the right song was only a leaf.",
+      "start_ms": 72099,
+      "end_ms": 80999
+    },
+    {
+      "index": 13,
+      "text": "She had taken Isla and Camila with her whenever she went out to gather.",
+      "start_ms": 80999,
+      "end_ms": 85642
+    },
+    {
+      "index": 14,
+      "text": "She had shown them the plants and had sung them the songs, and Isla had liked it, and Camila had loved it.",
+      "start_ms": 85642,
+      "end_ms": 92607
+    },
+    {
+      "index": 15,
+      "text": "But Abuela Rosa had died before Isla was old enough to really learn.",
+      "start_ms": 92607,
+      "end_ms": 97057
+    },
+    {
+      "index": 16,
+      "text": "She had died in three days, in the spring, of a fever that had come from nowhere.",
+      "start_ms": 97057,
+      "end_ms": 102345
+    },
+    {
+      "index": 17,
+      "text": "Isla had learned some plants — maybe twenty.",
+      "start_ms": 102345,
+      "end_ms": 105247
+    },
+    {
+      "index": 18,
+      "text": "Camila had learned a few of the songs, because Camila had a good memory for tunes.",
+      "start_ms": 105247,
+      "end_ms": 110600
+    },
+    {
+      "index": 19,
+      "text": "But most of it, most of what Abuela Rosa knew, had gone with her.",
+      "start_ms": 110600,
+      "end_ms": 114856
+    },
+    {
+      "index": 20,
+      "text": "Everyone on the island knew this.",
+      "start_ms": 114856,
+      "end_ms": 117049
+    },
+    {
+      "index": 21,
+      "text": "There was no one else who did what she had done.",
+      "start_ms": 117049,
+      "end_ms": 120144
+    },
+    {
+      "index": 22,
+      "text": "In the autumn — the sixth month after Abuela had died — Abuelo got a fever.",
+      "start_ms": 120144,
+      "end_ms": 124950
+    },
+    {
+      "index": 23,
+      "text": "It came on a Thursday afternoon.",
+      "start_ms": 124950,
+      "end_ms": 127037
+    },
+    {
+      "index": 24,
+      "text": "He had been out fishing all morning, and had come back looking tired, and had said he wanted to lie down.",
+      "start_ms": 127037,
+      "end_ms": 133740
+    },
+    {
+      "index": 25,
+      "text": "By evening he was hot to the touch and shivering.",
+      "start_ms": 133740,
+      "end_ms": 136902
+    },
+    {
+      "index": 26,
+      "text": "Isla knew what a bad fever looked like.",
+      "start_ms": 136902,
+      "end_ms": 139431
+    },
+    {
+      "index": 27,
+      "text": "She had seen Abuela Rosa go through it, and she recognized the same look on Abuelo's face.",
+      "start_ms": 139431,
+      "end_ms": 145186
+    },
+    {
+      "index": 28,
+      "text": "She knew the look meant serious.",
+      "start_ms": 145186,
+      "end_ms": 147336
+    },
+    {
+      "index": 29,
+      "text": "The village doctor came from the town of Achao, and the ferry from Achao to Quinchao ran twice a day when the water was calm, but a big storm was coming in — the radio said so — and the ferry had already stopped running for the day.",
+      "start_ms": 147336,
+      "end_ms": 162071
+    },
+    {
+      "index": 30,
+      "text": "It would not run again for at least twenty-four hours.",
+      "start_ms": 162071,
+      "end_ms": 165549
+    },
+    {
+      "index": 31,
+      "text": "Isla knew this because she had gone down to the pier at four p.m., after Abuelo had fallen asleep, and the small wooden ferry office had been closed and the sign said: SIGUIENTE FERRY: MAÑANA 7:00.",
+      "start_ms": 165549,
+      "end_ms": 178070
+    },
+    {
+      "index": 32,
+      "text": "The next ferry would come in the morning.",
+      "start_ms": 178070,
+      "end_ms": 180726
+    },
+    {
+      "index": 33,
+      "text": "Maybe.",
+      "start_ms": 180726,
+      "end_ms": 181168
+    },
+    {
+      "index": 34,
+      "text": "If the storm did not delay it.",
+      "start_ms": 181168,
+      "end_ms": 183192
+    },
+    {
+      "index": 35,
+      "text": "Isla walked back up to the palafito.",
+      "start_ms": 183192,
+      "end_ms": 185532
+    },
+    {
+      "index": 36,
+      "text": "Camila was sitting on the front steps waiting for her, arms wrapped around her knees.",
+      "start_ms": 185532,
+      "end_ms": 190970
+    },
+    {
+      "index": 37,
+      "text": "\"He is sick like Abuela was,\" Camila said, looking up.",
+      "start_ms": 190970,
+      "end_ms": 194448
+    },
+    {
+      "index": 38,
+      "text": "Isla sat down beside her.",
+      "start_ms": 194448,
+      "end_ms": 196092
+    },
+    {
+      "index": 39,
+      "text": "\"Yes,\" she said.",
+      "start_ms": 196092,
+      "end_ms": 197167
+    },
+    {
+      "index": 40,
+      "text": "\"I know.\" Camila said, \"He is going to die.\" Isla put her arm around Camila.",
+      "start_ms": 197167,
+      "end_ms": 202037
+    },
+    {
+      "index": 41,
+      "text": "\"He is not going to die,\" she said.",
+      "start_ms": 202037,
+      "end_ms": 204313
+    },
+    {
+      "index": 42,
+      "text": "\"He is not going to die because Abuela taught us things.",
+      "start_ms": 204313,
+      "end_ms": 207918
+    },
+    {
+      "index": 43,
+      "text": "And we are going to help him.\" Camila did not say anything for a moment.",
+      "start_ms": 207918,
+      "end_ms": 212534
+    },
+    {
+      "index": 44,
+      "text": "Then she said, \"We don't know enough.\" Isla said, \"Maybe we do.",
+      "start_ms": 212534,
+      "end_ms": 216581
+    },
+    {
+      "index": 45,
+      "text": "There is Abuela's notebook.\"",
+      "start_ms": 216581,
+      "end_ms": 218352
+    },
+    {
+      "index": 46,
+      "text": "The notebook.",
+      "start_ms": 218352,
+      "end_ms": 219300
+    },
+    {
+      "index": 47,
+      "text": "Isla had thought about it many times but had not looked at it since Abuela died.",
+      "start_ms": 219300,
+      "end_ms": 224784
+    },
+    {
+      "index": 48,
+      "text": "It was on the top shelf of the pantry, where Abuela had always kept it.",
+      "start_ms": 224784,
+      "end_ms": 229659
+    },
+    {
+      "index": 49,
+      "text": "It was a small leather-bound thing, with soft yellow pages, and Abuela had written and drawn in it for maybe fifty years.",
+      "start_ms": 229659,
+      "end_ms": 237919
+    },
+    {
+      "index": 50,
+      "text": "Every plant, every song, every dose.",
+      "start_ms": 237919,
+      "end_ms": 240424
+    },
+    {
+      "index": 51,
+      "text": "Isla had seen it many times.",
+      "start_ms": 240424,
+      "end_ms": 242388
+    },
+    {
+      "index": 52,
+      "text": "She had never really read it.",
+      "start_ms": 242388,
+      "end_ms": 244419
+    },
+    {
+      "index": 53,
+      "text": "Abuela had said it was mostly to help her own memory, and that the real learning happened outside, in the forest.",
+      "start_ms": 244419,
+      "end_ms": 252138
+    },
+    {
+      "index": 54,
+      "text": "But it was still there, on the shelf, waiting.",
+      "start_ms": 252138,
+      "end_ms": 255388
+    },
+    {
+      "index": 55,
+      "text": "Isla got up on the stool and reached the notebook down.",
+      "start_ms": 255388,
+      "end_ms": 259179
+    },
+    {
+      "index": 56,
+      "text": "She brought it to the kitchen table.",
+      "start_ms": 259179,
+      "end_ms": 261684
+    },
+    {
+      "index": 57,
+      "text": "Camila sat beside her, watching.",
+      "start_ms": 261684,
+      "end_ms": 263919
+    },
+    {
+      "index": 58,
+      "text": "Isla opened it slowly.",
+      "start_ms": 263919,
+      "end_ms": 265476
+    },
+    {
+      "index": 59,
+      "text": "The first page had a drawing of the island and a small song in the margin.",
+      "start_ms": 265476,
+      "end_ms": 270554
+    },
+    {
+      "index": 60,
+      "text": "The pages that followed had, one after another, drawings of plants — leaves, flowers, roots — each with a name in Spanish, and sometimes another name in the old language of the island, which Isla did not know.",
+      "start_ms": 270554,
+      "end_ms": 284772
+    },
+    {
+      "index": 61,
+      "text": "Beneath each drawing was a note about what the plant was for, and sometimes lines of a song written in small careful musical notation.",
+      "start_ms": 284772,
+      "end_ms": 293981
+    },
+    {
+      "index": 62,
+      "text": "Isla read for maybe five minutes, turning pages carefully.",
+      "start_ms": 293981,
+      "end_ms": 297975
+    },
+    {
+      "index": 63,
+      "text": "Then she found what she was looking for.",
+      "start_ms": 297975,
+      "end_ms": 300751
+    },
+    {
+      "index": 64,
+      "text": "A page marked with a small pressed leaf.",
+      "start_ms": 300751,
+      "end_ms": 303527
+    },
+    {
+      "index": 65,
+      "text": "At the top: FIEBRE ALTA — SAN JUAN.",
+      "start_ms": 303527,
+      "end_ms": 305965
+    },
+    {
+      "index": 66,
+      "text": "She read the page.",
+      "start_ms": 305965,
+      "end_ms": 307251
+    },
+    {
+      "index": 67,
+      "text": "She read it again.",
+      "start_ms": 307251,
+      "end_ms": 308538
+    },
+    {
+      "index": 68,
+      "text": "She looked at Camila.",
+      "start_ms": 308538,
+      "end_ms": 310027
+    },
+    {
+      "index": 69,
+      "text": "\"There is a plant,\" she said.",
+      "start_ms": 310027,
+      "end_ms": 312058
+    },
+    {
+      "index": 70,
+      "text": "\"There is a plant Abuela used.",
+      "start_ms": 312058,
+      "end_ms": 314157
+    },
+    {
+      "index": 71,
+      "text": "For high fever.",
+      "start_ms": 314157,
+      "end_ms": 315241
+    },
+    {
+      "index": 72,
+      "text": "It is called yerba de San Juan.",
+      "start_ms": 315241,
+      "end_ms": 317407
+    },
+    {
+      "index": 73,
+      "text": "There is a picture of it here.",
+      "start_ms": 317407,
+      "end_ms": 319506
+    },
+    {
+      "index": 74,
+      "text": "And a song.\" Camila leaned in.",
+      "start_ms": 319506,
+      "end_ms": 321605
+    },
+    {
+      "index": 75,
+      "text": "\"Where does it grow.\" Isla pointed at Abuela's note.",
+      "start_ms": 321605,
+      "end_ms": 325193
+    },
+    {
+      "index": 76,
+      "text": "\"At the edge of the forest.",
+      "start_ms": 325193,
+      "end_ms": 327089
+    },
+    {
+      "index": 77,
+      "text": "Near the water.",
+      "start_ms": 327089,
+      "end_ms": 328173
+    },
+    {
+      "index": 78,
+      "text": "There is a place she wrote — el bosque del rincón norte.",
+      "start_ms": 328173,
+      "end_ms": 332032
+    },
+    {
+      "index": 79,
+      "text": "The forest at the north corner.",
+      "start_ms": 332032,
+      "end_ms": 334198
+    },
+    {
+      "index": 80,
+      "text": "That is by the point.\"",
+      "start_ms": 334198,
+      "end_ms": 335688
+    }
+  ]
+}

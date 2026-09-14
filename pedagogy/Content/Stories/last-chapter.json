@@ -1,0 +1,245 @@
+{
+  "id": "last-chapter",
+  "title": "The Last Chapter",
+  "subtitle": "A Story About a Story",
+  "author": null,
+  "summary": "Toby is helping his mother close his grandmother's tiny bookstore in Chicago. In a box marked 'don't sell' he finds a manuscript she never published — and the boy in the story is Toby, living his exact life. The last chapter is missing.",
+  "readingTimeMinutes": 16,
+  "coverImage": "story-last-chapter-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat warm shadows. Composition: 11-year-old boy (Toby, curly dark hair) sitting cross-legged on the wooden floor of a small independent bookstore, surrounded by half-packed cardboard boxes of books. He's holding an old typed manuscript with yellowed pages, reading with quiet astonishment. Warm afternoon light through a shop window with backwards gilded lettering. Character positioned center, filling roughly 45% of frame height. Keep 100px safety padding on all sides. Pink and warm brown accent palette. Bittersweet, contemplative mood. DO NOT include text or title.",
+  "category": "journey",
+  "isPremium": true,
+  "publishedAt": "2026-08-27",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Manuscript",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "Toby's grandmother's bookstore was called Ada's Chapter, and it had been on the corner of Wells and North Avenue for as long as anybody in the family could remember.",
+            "It was very small. Two rooms, if you counted the storage cupboard. It smelled like old paper and coffee and the peppermints Grandma Ada used to keep in a bowl by the register. There was a fat orange cat named Chapter Seven who lived on the windowsill.",
+            "Chapter Seven had gone to live with a neighbor. The store was closing on Sunday."
+          ],
+          "image": "lc-ch1-p1-bookstore-interior",
+          "imagePrompt": "Mike Mignola style for children: interior of a small, warm independent bookstore in Chicago. Half-empty shelves, cardboard packing boxes on the floor, a wooden counter with an old cash register. Late afternoon sun through the shop window. Empty windowsill where a cat used to sit. An 11-year-old boy in the background, taping up a box. Heavy black inks, warm honey and burgundy palette. Wistful mood."
+        },
+        {
+          "paragraphs": [
+            "Grandma Ada had moved to a place called Riverside Manor two months ago. It was a good place, Toby's mother said. She had a room with a window that faced east. There were nurses. She played chess on Wednesdays.",
+            "But she could not run a bookstore anymore. Her memory came and went, the way weather does. Some days she knew everybody. Some days she asked Toby who he was.",
+            "So today Toby and his mother were packing up. The books were being sold to another used bookstore in Ravenswood. The shelves were being donated to a school. And Toby had been given the biggest job: sorting through the tiny office in the back."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "It was in the third box he opened. A cardboard box, the kind that used to hold reams of typing paper. It was on the top shelf of the office closet, so far back that Toby had to stand on the desk to reach it.",
+            "On the side, in his grandmother's spidery handwriting, was a single word: DON'T SELL.",
+            "Toby sat down on the floor and opened it."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Inside was a manuscript.",
+            "It was typed on an old typewriter, on yellowed paper. There were two hundred and thirty pages, held together with a large rubber band. The rubber band had gone brittle. It broke when Toby touched it.",
+            "The title page said: THE BOY WHO NEVER TOLD. A novel by A. Bell.",
+            "A. Bell was Grandma Ada. Bell was her maiden name."
+          ],
+          "image": "lc-ch1-p4-finding-manuscript",
+          "imagePrompt": "Mike Mignola style for children: close-up of an 11-year-old boy's hands opening a cardboard box on a wooden floor. Inside, a thick yellowed typed manuscript, held together by a rubber band mid-snap. The title page reads faintly. Warm afternoon light from a nearby window. Heavy black inks, warm sepia and cream tones."
+        },
+        {
+          "paragraphs": [
+            "Toby had never known his grandmother wrote books. He knew she sold them. He knew she read them. He had never heard her say a word about writing one.",
+            "He opened to the first page.",
+            "Toby was eleven years old, and he lived in a red-brick apartment on Wolcott Avenue, three blocks from his grandmother's bookstore.",
+            "Toby stopped reading.",
+            "Toby did live in a red-brick apartment on Wolcott Avenue, three blocks from his grandmother's bookstore."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "He kept reading, slowly.",
+            "Toby's mother worked at the university library. His father drove a train on the Blue Line. Toby had a dog named Waffle, a beagle who was afraid of the vacuum cleaner and who slept curled up in a laundry basket in the hallway.",
+            "Toby stared at the page.",
+            "His mother worked at the university library. His father drove a train on the Blue Line. Waffle was in the hallway right now, asleep, in a laundry basket.",
+            "He turned to the back of the manuscript. He looked at the date on the last page.",
+            "1998.",
+            "Twelve years before Toby was born."
+          ],
+          "image": "lc-ch1-p6-cliffhanger-date",
+          "imagePrompt": "Mike Mignola style for children: extreme close-up of the last page of a typed manuscript. The date '1998' visible in an old typewriter font in the corner. A boy's hand at the edge of the frame, thumb pressed against the page. Heavy black inks, sepia and cream tones. Sense of impossibility and unease, but not fear."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Boy in the Book",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "Toby did not tell his mother about the manuscript.",
+            "He did not know why he did not tell her. Maybe because she was sad about closing the store and he did not want to make it worse. Maybe because he wanted to read it first, alone, before anyone else did.",
+            "He hid the manuscript in his school backpack. He took it home. He read it in his room, under his desk lamp, after his parents had gone to bed."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The book was about a boy named Toby. It was about a boy who was starting sixth grade at a school on the north side of Chicago. It was about a boy who had a best friend named Marcus and a dog named Waffle and a favorite hot chocolate from the coffee shop across from his apartment.",
+            "It was about a boy who was being pushed around at school by another boy named Ryan Callahan.",
+            "Real Toby, sitting under his desk lamp, felt something cold slide down his back.",
+            "Real Toby went to school with a real boy named Ryan Callahan. And Ryan Callahan had, twice a week for the last month, taken things out of Toby's locker and hidden them, and shoved Toby in the hall, and called Toby names.",
+            "Real Toby had not told anybody about it."
+          ],
+          "image": "lc-ch2-p2-reading-late",
+          "imagePrompt": "Mike Mignola style for children: 11-year-old boy alone in his bedroom at night, sitting up in bed with an old typed manuscript in his lap, illuminated by a single desk lamp. A small beagle sleeping at the foot of the bed. The boy's face shows quiet shock. Heavy black inks, warm lamp light against deep blue nighttime shadows."
+        },
+        {
+          "paragraphs": [
+            "The book kept going. It described what real Toby had eaten for breakfast this morning. It described a conversation real Toby had with his mother last week about whether he was okay, and how real Toby had said \"I'm fine\" even though he wasn't.",
+            "How did his grandmother know?",
+            "She could not have known. She had written this in 1998. She had been forty-six years old. She had not even met Toby's mother yet. Toby's father was a stranger to her. There was no Waffle in 1998.",
+            "But there she was, on page 87, describing Waffle. Down to the small brown spot on Waffle's left ear."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "By Chapter 11, Toby in the book had had enough.",
+            "He was sitting at the kitchen table with his father, and he was about to say something.",
+            "Real Toby held his breath.",
+            "\"Dad,\" said Toby in the book. \"I need to talk to you about something. There's a kid at school —\"",
+            "The chapter ended there.",
+            "Real Toby turned the page."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The next page said, at the top: CHAPTER 12.",
+            "The rest of the page was blank.",
+            "So was the next page. And the next.",
+            "The manuscript ended. The story stopped.",
+            "There was a post-it note on the blank page. Grandma Ada's handwriting, faded but clear.",
+            "It said: FINISH THIS WHEN YOU KNOW HOW."
+          ],
+          "image": "lc-ch2-p5-blank-page",
+          "imagePrompt": "Mike Mignola style for children: close-up of a typed manuscript, the top of a page reading 'CHAPTER 12' followed by a large blank white space. A faded yellow sticky note stuck to the page with old handwriting visible. A boy's hand at the edge, still. Heavy black inks, warm cream and pale amber tones. Contemplative, weight-of-decision mood."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Chapter Twelve",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "Toby went to see his grandmother on Sunday.",
+            "Riverside Manor was quieter than he had expected. There were paintings on the walls and armchairs in the hallway and someone was playing a piano, badly, in another room.",
+            "Grandma Ada was in her room, in a chair by the window. She was watching a squirrel on the grass outside. When Toby came in she looked up and, for a small terrible second, Toby was not sure she recognized him.",
+            "Then her face lit up.",
+            "\"Toby,\" she said. \"Oh, my Toby. Come sit.\""
+          ],
+          "image": "lc-ch3-p1-grandmother-window",
+          "imagePrompt": "Mike Mignola style for children: a quiet room in a senior living home. An elderly woman with white hair (Grandma Ada) in a soft cardigan sits in a chair by a large window, morning light on her face. She's turning to look at her grandson who has just come in. A small vase of pink flowers on the windowsill. Heavy black inks, gentle warm tones. Loving, wistful mood."
+        },
+        {
+          "paragraphs": [
+            "Toby sat on the little bench beside her chair.",
+            "He had brought the manuscript. He put it on his lap.",
+            "\"Grandma,\" he said, \"did you write this?\"",
+            "Grandma Ada looked at the manuscript. She reached out and touched the yellowed cover with two fingers. She smiled — not a big smile, but a slow one, like remembering an old friend.",
+            "\"Yes,\" she said. \"I wrote it a long time ago.\"",
+            "\"Grandma, it's about me. It's about my life. The boy in the book is me.\"",
+            "\"Yes,\" she said. \"I thought it might be.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Toby waited. He was not sure what to ask next.",
+            "Grandma Ada looked out the window. The squirrel had gone.",
+            "\"I never had a plot for it,\" she said. \"I started writing about a boy. I did not know who he was. He came into my head one afternoon in 1998 and he would not leave. He had a dog and a father who drove trains and a problem he was not telling anyone about. I wrote him down.\"",
+            "She looked at Toby.",
+            "\"And then years later,\" she said, \"you were born. And it was you. Isn't that funny.\"",
+            "\"Grandma, that isn't possible.\"",
+            "\"No,\" she agreed. \"It isn't. But it happened.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Toby did not know what to do with that. He turned the manuscript over in his lap.",
+            "\"Grandma. The last chapter. Chapter Twelve. It's blank.\"",
+            "\"I know.\"",
+            "\"There's a note. It says FINISH THIS WHEN YOU KNOW HOW.\"",
+            "Grandma Ada nodded slowly. She patted Toby's hand.",
+            "\"That chapter,\" she said, \"was never mine to write. That's your chapter, Toby. It always was.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Toby went home. He took the manuscript to his room. He turned to the blank page marked CHAPTER 12.",
+            "He got a pencil.",
+            "He thought about the boy in the book, at the kitchen table with his father, halfway through a sentence.",
+            "Then he wrote:",
+            "Toby looked at his father across the table. His father was reading the newspaper. It was Tuesday night. Waffle was under the table with her chin on Toby's shoe.",
+            "\"Dad,\" said Toby. \"I need to talk to you about something.\"",
+            "His father put down the paper. \"Okay,\" he said. \"I'm listening.\""
+          ],
+          "image": "lc-ch3-p5-writing",
+          "imagePrompt": "Mike Mignola style for children: overhead view of an 11-year-old boy at a small wooden desk in his bedroom, writing carefully with a pencil on the blank page of an old typed manuscript. A small lamp illuminates the page. His beagle Waffle asleep on the floor beside the desk. Heavy black inks, warm amber lamplight against cool evening shadows. Quiet act of courage."
+        },
+        {
+          "paragraphs": [
+            "Toby wrote for a long time.",
+            "He wrote about Ryan Callahan. He wrote about how it felt to walk into school on Mondays. He wrote about the things he had never told anyone, and how the boy in the book — the boy that was him — was going to say them out loud.",
+            "It took twelve pages. Toby's hand hurt when he was done.",
+            "That night at dinner, he did not eat much.",
+            "He looked at his father, who was passing him the mashed potatoes.",
+            "\"Dad,\" said Toby. \"Can I talk to you about something after dinner?\"",
+            "His father looked at him. Not surprised. Just paying attention.",
+            "\"Sure, buddy. Of course.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Toby brought the finished manuscript to Grandma Ada the next Sunday. He had made a copy, on the copier at his mother's library, and had the copy bound with a spiral binding.",
+            "Grandma Ada opened it to Chapter 12. She read slowly. When she finished, she closed the manuscript and held it against her chest.",
+            "\"It's a very good chapter,\" she said. \"You did it right.\"",
+            "\"Grandma. How did you know? How did you know all of it, from 1998?\"",
+            "Grandma Ada thought about this for a long moment. She looked out the window.",
+            "\"I don't know how,\" she said finally. \"But I think stories are older than the people who write them. Sometimes a story finds its person and it waits. It waits until the person is ready to finish it.\"",
+            "She smiled at Toby.",
+            "\"You were the person for this one. I was just the one who kept it warm until you got here.\""
+          ],
+          "image": "lc-ch3-p7-ending",
+          "imagePrompt": "Mike Mignola style for children: two figures sitting side by side by a sunlit window — an elderly woman with white hair and an 11-year-old boy. Between them, on her lap, a bound manuscript with a spiral binding. She is smiling and holding the book against her chest. Golden Sunday morning light. Heavy black inks, warm honey and rose tones. Peaceful, love-filled ending."
+        }
+      ]
+    }
+  ]
+}

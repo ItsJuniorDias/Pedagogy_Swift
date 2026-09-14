@@ -1,0 +1,167 @@
+{
+  "id": "night-baker",
+  "title": "The Night Baker",
+  "subtitle": "Three in the Morning in Alfama",
+  "author": null,
+  "summary": "Ana is ten and lives in a small apartment in the Alfama district of Lisbon. Her mother works long hours and Ana often does not sleep well. One night at three in the morning she goes out for water and sees a warm light in the ground-floor bakery, which she had always thought was closed. Inside, an old man is making bread. He asks her, without any surprise, if she wants to help. She spends the next six nights learning what a city needs before it wakes up.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-night-baker-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old girl (Ana) with straight dark hair, wearing a pale nightgown under an oversized dark cardigan, standing at the counter of a small stone-walled Portuguese bakery in the middle of the night. In front of her, an old man (Senhor Mendes) with white hair and a flour-dusted apron shapes dough on a wooden work surface. Warm orange light from a single overhead bulb. Behind them: a large old brick oven with iron doors, tall wooden shelves of round breads. Through a small window: the very early pale-blue dawn of Alfama beginning outside. Character positioned center-left, filling roughly 35% of frame height. Palette: warm cream (#FFF9F0), sepia flour dust, deep ink outlines, small dusty rose (#FF5B8D) accent on her cheeks, warm gold from the bulb. Small margin at top and bottom for card padding.",
+  "category": "wonder",
+  "isPremium": true,
+  "publishedAt": "2027-01-28",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Light Downstairs",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "nb-ch1-p1-alfama",
+          "imagePrompt": "Mike Mignola style for children: exterior night view of a narrow cobblestone alley in the Alfama neighborhood of Lisbon. Tall pastel apartment buildings with iron balconies rise on both sides. One ground-floor window is lit warm gold — the bakery. Otherwise the alley is dark. Distant view of the Tagus river far below. Heavy black ink outlines, flat shadows, cream and sepia palette with warm gold accent.",
+          "paragraphs": [
+            "Ana lived with her mother in a small apartment on the second floor of an old yellow-painted building in Alfama, the oldest neighborhood in Lisbon. The alley in front of their building was so narrow that if Ana stood at the window and reached out, she could almost touch the building across the way. The apartment had two rooms and a small balcony where her mother grew basil in a plastic pot. It was Ana's whole world. She was ten. She had lived there her whole life.",
+            "Her mother worked as a nurse at a hospital across the river. Her mother's shifts were long and often at strange hours, and sometimes she came home very late, and sometimes she was already asleep when Ana woke up. Ana knew how to make her own breakfast and her own supper, and she was not afraid of being alone. But she had not been sleeping well that autumn. She would fall asleep, and then wake up at one or two in the morning, and lie there for a long time in the dark, and finally get up and get a glass of water from the kitchen. That was what happened on the Tuesday night in October when this story starts."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "That night Ana got up at 2:47 in the morning. She checked her phone. Her mother was still at the hospital. She would not be home until seven. Ana drank her water and stood at the kitchen window, which faced down at the alley, and looked out for a while. It was almost completely dark. There was one dim streetlamp at the far end of the alley. Everything was quiet. Alfama was mostly quiet at three in the morning, which was one of the strange things about a city that everyone thought never slept.",
+            "But directly below her window, in the ground floor of her own building, there was a warm gold light coming out of the small window of the bakery. Ana knew the bakery. It had been there her whole life. It was called Padaria Mendes. It sold small round breads and custard tarts and coffee, and it opened at seven in the morning and closed at three in the afternoon. Ana had walked past it a thousand times. She had never seen it open at any other hour. Never once. But now, at three in the morning, the light was on. She could see, through the window, the shape of a person moving inside."
+          ]
+        },
+        {
+          "image": "nb-ch1-p3-window",
+          "imagePrompt": "Mike Mignola style for children: exterior night view of a small bakery's front window. Warm gold light spills out onto the wet cobblestones. Through the glass, the shape of an old man in a white apron can be seen kneading dough at a work surface. A girl (Ana, 10, in nightgown and cardigan) stands on the cobbles across from the window, looking in with wide curious eyes. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold accent.",
+          "paragraphs": [
+            "Ana thought about it for maybe ten minutes. She was not supposed to leave the apartment alone at night. Her mother had told her this many times. But the bakery was right underneath her — one flight of stairs, five meters of cobblestone, and she would be at the door. She could see it from her own window. It was not really going out. Not exactly.",
+            "She put on her cardigan and her slippers. She went down the stairs very quietly. The building was completely silent. She unlocked the front door of the building and stepped out into the cool alley. She walked the five steps to the bakery window. She pressed her face against the glass. Inside, an old man with white hair and a flour-dusted apron was kneading a large round of dough on a wooden work surface. He did not see her at first. She stood there for a while. Then he looked up, and he saw her, and he smiled a small tired smile, and he beckoned her in. She was surprised at how not-surprised he seemed."
+          ]
+        },
+        {
+          "image": "nb-ch1-p4-inside",
+          "imagePrompt": "Mike Mignola style for children: interior of the small bakery at night. An old man (Senhor Mendes, seventies, white hair, glasses, flour-dusted apron) stands at a large wooden work surface with dough. Behind him, a huge old brick oven with iron doors. Tall wooden shelves. Warm ambient light from a single bulb overhead. A girl (Ana, 10, nightgown and cardigan) has just stepped inside and stands at the threshold. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold.",
+          "paragraphs": [
+            "The bakery inside smelled like the best thing Ana had ever smelled. Warm flour and yeast and something like burnt sugar. The old man kept working. He said, in a gentle voice, \"Come in, come in. Close the door. It gets cold. Are you the girl from upstairs.\" Ana nodded. She said, \"I am Ana. I live on the second floor.\" \"Ana,\" said the old man. \"I am Senhor Mendes. I know your mother. She has bought bread from me for many years. You have bought bread from me too, when you were smaller. I remember when you could barely see over this counter.\"",
+            "Ana did remember Senhor Mendes now. He was the man who sold her the pão when she came in after school. But she had never really looked at him. He had just been the bakery man. Now she looked at him. He was older than she had realized. His hands were very big and very red at the knuckles, and there was flour up to his elbows. His eyes were kind but they were also tired. Very tired."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Why are you awake,\" said Senhor Mendes. Ana said, \"I do not sleep very well. I saw your light. I did not know the bakery was open at night.\" Senhor Mendes smiled. \"It is not open,\" he said. \"Not to customers. But every day at midnight, I come in and I start. I have been doing this for fifty-one years. The bread we sell in the morning starts at midnight. All night I work. All night. Then at six in the morning the first customers come and I open the door, and by three in the afternoon I am done, and I go home and sleep. Then at midnight I come back. That has been my life.\"",
+            "\"That is a strange life,\" Ana said. She said it without thinking. She was worried immediately that she had been rude. But Senhor Mendes laughed. \"Yes,\" he said. \"It is a strange life. Very strange. I do not know many people who work at night. But someone has to make the bread. It cannot happen while everyone else is awake. There is not time. So — I do it. You get used to being awake at night. There is a certain calm to it. You should feel this calm, since you are also awake at three in the morning. This is when we know things that people asleep do not know.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Six Nights",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "nb-ch2-p1-helping",
+          "imagePrompt": "Mike Mignola style for children: interior night bakery scene. Ana (10) stands at the wooden work surface with a small apron tied around her waist. She is pressing her hands into a small ball of dough, following Senhor Mendes' instructions. Senhor Mendes (seventies) stands beside her, watching, patient. Warm bulb light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That first night Senhor Mendes gave Ana a very small piece of dough. He put a small apron on her and had her stand at the work surface. He said, \"You cannot help me if you do not know the feel of it. So we start with feeling. Press your hands in. Just push. Push. That is right. Now fold, like this.\" He showed her. She copied. She was slow. He was patient. Her small piece of dough went from a lumpy ball to something smoother.",
+            "\"That is enough for tonight,\" he said, after maybe twenty minutes. \"Now go home. Sleep if you can. If you want to come back tomorrow night, come at three again. I will be here. I am always here. But — do not tell your mother yet. Not because it is a secret. But because she is a nurse and she is tired, and if she thinks you are awake at three in the morning she will worry more, and she has enough to worry about. When she has a day off, we tell her together. Then it is not a secret. It is just a thing we are doing.\" Ana nodded. She agreed."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "She went back the next night. She went back the night after that. She went every night for six nights straight. She did not sleep less. She actually slept better — she found that she went to bed earlier and slept from ten to two-thirty, and then she got up, and she went down to the bakery, and she worked with Senhor Mendes for two or three hours, and then she went back up and slept from six to nine. The middle-of-the-night hours had always been the ones that made her feel worst. Now they had a purpose. Now they were the good part of the day.",
+            "Senhor Mendes taught her all kinds of things. He taught her how a dough should feel when it was ready — like an earlobe, he said, which sounded strange but was true. He taught her the names of the different flours he used. He taught her the shapes — the small round pão, the long thin cacete, the pointy papo-seco. He taught her how to slash the tops with a razor before they went into the oven, so they would open up nicely. He taught her when a bread was done by knocking on the bottom — a hollow sound meant it was done, a dull sound meant more time. Ana learned quickly. Her hands began to know things they had not known a week before."
+          ]
+        },
+        {
+          "image": "nb-ch2-p3-oven",
+          "imagePrompt": "Mike Mignola style for children: close view of the big brick oven with its iron door open. Warm orange light and heat coming out. Senhor Mendes (seventies) uses a long wooden peel to slide a batch of small round bread loaves into the oven. Ana (10) stands beside him watching. Heavy ink outlines, flat shadows, cream palette with strong warm orange from the oven.",
+          "paragraphs": [
+            "The oven was the thing Ana came to love most. It was very old, made of brick, and it was heated by wood. Senhor Mendes started the fire at midnight, and by the time Ana arrived at three, it was the right temperature — hot enough that you could not stand close to it for long. Senhor Mendes used a long wooden peel to slide the shaped breads in and out. He did this hundreds of times a night. It was hard work. Ana was not allowed to touch the peel yet, because it was heavy and hot, but she was allowed to open the door for him when both his hands were full.",
+            "\"How do you know when to put them in,\" she asked, on the third night. Senhor Mendes was slashing the tops of a batch of round breads. \"I do not know exactly,\" he said. \"I know from feel. From how puffed they are. From how they smell. From how the light in the room looks — which sounds crazy, but is true. At three-thirty in the morning the light is different than at four-thirty. Everything about it is different. And after fifty years, my hands and my nose and my eyes have all learned. I could do it in my sleep. Sometimes I think I am doing it in my sleep.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "On the fourth night, Ana asked him something she had been thinking about. \"Senhor Mendes. Are you the only one. In all of Lisbon. Who does this at night.\" Senhor Mendes laughed. \"Oh no,\" he said. \"There are many of us. Not as many as there used to be — most bakeries now make their bread with machines during the day, or they get their bread from a big factory somewhere. But the old bakeries — the ones like mine — there are maybe forty of us in Lisbon still. All working at night. All making bread by hand. If you go up to a rooftop and look out at Lisbon at three in the morning, you can see the little lights of maybe twenty bakeries in the dark. All of us working. All of us making tomorrow's bread. Nobody knows. The city is asleep. But we are awake, and we are feeding them.\"",
+            "Ana thought about this. She thought about it for a long time. She thought about how she had lived her whole life above a bakery and had not known that at three in the morning her whole building had a warm bright light in the bottom of it and a man working. She thought about how many other things were happening at three in the morning that she did not know about. She thought about her mother, at the hospital, at three in the morning. Doing something for someone she did not know."
+          ]
+        },
+        {
+          "image": "nb-ch2-p5-dawn",
+          "imagePrompt": "Mike Mignola style for children: interior bakery scene at very early dawn. Weak pale blue light beginning through the small front window. Ana (10) and Senhor Mendes stand together at the counter, arranging fresh round breads on a shelf. Both look tired but content. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold interior and cool blue window.",
+          "paragraphs": [
+            "On the sixth night, Ana stayed until the very end. She had usually left around five o'clock to go back upstairs before her mother came home, but this time — because her mother was working a double shift and would not be home until noon — she stayed until six. She helped Senhor Mendes arrange all the finished bread on the shelves. There were maybe two hundred loaves. Small round pão. Long thin cacete. Papo-seco with points. She had helped make maybe forty of them herself. She could tell which ones because they were a little wonkier than the ones Senhor Mendes had done alone.",
+            "At six o'clock exactly, Senhor Mendes went to the door and unlocked it. The first customer came in almost immediately — a man in a work shirt, who nodded at Senhor Mendes and said, \"Bom dia. Two pão and one cafe, please.\" Senhor Mendes served him. Ana stood back and watched. The man did not know. He did not know that a ten-year-old girl who lived upstairs had helped shape one of the breads he was buying. He did not know that Senhor Mendes had been awake for six hours already. He was just buying bread on his way to work. He would go, and he would eat one of the breads on his break, and he would never think about it, and he would live his whole life this way, and other people would live their whole lives this way, and Ana understood that this was not sad. This was — how a city worked. Some people made things and other people did not know who had made them, and the city functioned because both were true."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Telling Her Mother",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "nb-ch3-p1-mother",
+          "imagePrompt": "Mike Mignola style for children: interior scene in the small apartment kitchen. Ana (10) sits at the small table across from her mother (early forties, tired-looking, dark hair, in nurse's uniform). Between them, coffee. Ana is talking, gesturing carefully with her hands. Her mother listens with a slightly worried, slightly amused expression. Warm morning light through the window. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On Sunday morning, when her mother finally had a day off, Ana told her. She had been rehearsing it for two days. She was worried her mother would be angry that she had been going out at night. She sat down at the kitchen table with her mother's coffee already made — she had made it herself, which was something she almost never did — and she said, \"Mãe. I have to tell you something. But before you get angry, I want you to know that I am safe. I am not doing anything bad. I am just — I have been going down to the bakery at three in the morning. To help Senhor Mendes make the bread. For six nights.\"",
+            "Her mother did not say anything right away. Ana braced herself. Her mother looked at her for a long time. Then her mother said, slowly, \"Ana. That is the strangest thing you have ever told me. Tell me the whole thing.\" So Ana told her. She told her about seeing the light. About meeting Senhor Mendes. About the dough. About the oven. About the forty other bakeries in Lisbon that were also lit up at three in the morning. About how she had been sleeping better because now the middle of the night had a purpose. About Senhor Mendes saying she should be at the bakery whenever she woke up and could not go back to sleep, and that he would always be there. About feeling like she had discovered something."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Her mother listened all the way through. When Ana was done, her mother sat for a moment. Then her mother said, \"Ana. I have known Senhor Mendes for eighteen years. He is a good man. If any adult in Alfama, I would trust him with you. So I am not angry about that. And I understand about the sleep. I have not been sleeping well either. So I understand.\" She was quiet again. Then she said, \"But you should have told me. Not asked permission. Just told me. I need to know where you are, even at three in the morning. Especially at three in the morning.\" \"I am sorry,\" said Ana. \"Yes,\" said her mother. \"I know. Do not do it again. Tell me. From now on. Even if it is a text.\"",
+            "Ana nodded. Her mother sipped her coffee. She was thinking. Then she said, \"I want to meet him. Not because I do not trust you. But because I want to thank him. And I want to see this. I want to see what happens at three in the morning under our building. It has been under my life for eighteen years and I have never seen it. That is embarrassing. Will you show me tonight?\""
+          ]
+        },
+        {
+          "image": "nb-ch3-p3-visit",
+          "imagePrompt": "Mike Mignola style for children: interior night bakery scene. Ana (10), her mother (early forties, in a warm coat), and Senhor Mendes (seventies, apron) stand together at the counter. Ana's mother is looking around the bakery with a soft surprised expression. Warm bulb light. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold.",
+          "paragraphs": [
+            "That night at three, Ana took her mother down to the bakery. Senhor Mendes was very pleased. He gave Ana's mother a small cup of coffee and a warm papo-seco fresh from the oven. Ana's mother ate it standing at the counter. She was quiet for a while. Then she said, in her serious way, \"Senhor Mendes. Thank you for looking after my daughter. She sleeps better now. I did not know what to do about it. I was going to take her to a doctor. But this is better than any doctor.\" Senhor Mendes shook his head. \"She looks after me, more than the other way,\" he said. \"I am old, senhora. My back hurts. Ana pulls the trays out for me. She has good hands. She is going to be an excellent baker if she wants. Or she is going to be an excellent something else, and she will remember when she was a girl and knew how to make bread. Either way, we are helping each other.\"",
+            "Ana's mother stayed for maybe half an hour. She watched Senhor Mendes work. She watched Ana work. She did not say much. When she left to go back upstairs — she had to sleep, she had a shift at seven — she hugged Ana in the middle of the bakery, in her flour-dusted apron, and she said, \"You are teaching me something too, Ana. That the world is bigger than my hospital and my apartment. That people have whole lives that happen while I am doing my own thing. Thank you for making me come down here.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Ana went down to the bakery on and off for years after that. Not every night — she began to sleep better as the years went on — but whenever she woke up in the middle of the night, and whenever she could not sleep, she went. Senhor Mendes was always there. She helped him make bread until she was twelve, and then thirteen, and then fifteen. Sometimes there were other children who came. Once, another old man from the neighborhood came at four in the morning because he could not sleep after his wife died, and Senhor Mendes gave him something to do too, and the old man was still coming, five nights a week, three years later.",
+            "When Ana was seventeen, Senhor Mendes retired. His son took over the bakery. His son did not work at night — the son used a big modern oven with a timer and made the dough during the day. The bakery kept selling bread but it was a different bakery. Ana understood. She was sad about it but she understood. On the last night, the last night when Senhor Mendes made bread the old way, Ana stayed with him all night. She was seventeen and it was her last year of school. They talked more that night than they had ever talked. When they finished, at six in the morning, Senhor Mendes handed her the very last loaf of bread he ever made. It was small and round and warm. She took it upstairs. She and her mother ate it for breakfast."
+          ]
+        },
+        {
+          "image": "nb-ch3-p5-lisbon",
+          "imagePrompt": "Mike Mignola style for children: exterior aerial-side view of the Alfama district at very early dawn, warm gold windows scattered through the dark neighborhood — bakeries and cafes preparing for the morning. The Tagus river below in the distance beginning to reflect the first light. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold accents.",
+          "paragraphs": [
+            "Ana became a doctor. She was not sure, exactly, why she had wanted to. But she thought it had something to do with her mother, and with Senhor Mendes, and with all the other people who worked at hours other people did not think about. She wanted to be one of the ones who was up at three in the morning. She wanted to know the calm that Senhor Mendes had told her about, on that first night.",
+            "Whenever she was on a night shift, and she had a quiet moment at three in the morning, she would go and look out the window of the hospital, and she would look toward Alfama across the river, and she would remember. She would think about the warm gold light in the bottom of her building, and about the way a piece of dough felt when it was ready — like an earlobe — and about how Lisbon had been feeding her, and everyone she knew, every morning of their lives, because a few dozen people had never gone to bed. And she thought, always, that she was not really doing anything special. She was only doing what Senhor Mendes had done. She was staying up so someone else could rest."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "city",
+    "lisbon",
+    "kindness",
+    "craft",
+    "night"
+  ]
+}

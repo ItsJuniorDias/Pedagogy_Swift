@@ -1,0 +1,565 @@
+{
+  "story_id": "fox-north-wind",
+  "chapter": 3,
+  "total_duration_ms": 287136,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The wind blew all through the third day.",
+      "start_ms": 1585,
+      "end_ms": 4612
+    },
+    {
+      "index": 1,
+      "text": "Farmor watched the light fade in the afternoon.",
+      "start_ms": 4612,
+      "end_ms": 8071
+    },
+    {
+      "index": 2,
+      "text": "She was quiet.",
+      "start_ms": 8071,
+      "end_ms": 9152
+    },
+    {
+      "index": 3,
+      "text": "She did not ask Nell what she had planned to offer.",
+      "start_ms": 9152,
+      "end_ms": 12899
+    },
+    {
+      "index": 4,
+      "text": "Perhaps she did not want to interfere.",
+      "start_ms": 12899,
+      "end_ms": 15710
+    },
+    {
+      "index": 5,
+      "text": "Perhaps she was afraid Nell had made the wrong choice, the way she had.",
+      "start_ms": 15710,
+      "end_ms": 20971
+    },
+    {
+      "index": 6,
+      "text": "At eleven o'clock at night, Nell put on her boots and her coat and her hat.",
+      "start_ms": 20971,
+      "end_ms": 26520
+    },
+    {
+      "index": 7,
+      "text": "\"Farmor,\" she said.",
+      "start_ms": 26520,
+      "end_ms": 27961
+    },
+    {
+      "index": 8,
+      "text": "\"I need to do this on my own.\"",
+      "start_ms": 27961,
+      "end_ms": 30267
+    },
+    {
+      "index": 9,
+      "text": "Farmor did not argue.",
+      "start_ms": 30267,
+      "end_ms": 31852
+    },
+    {
+      "index": 10,
+      "text": "She only nodded, once, and put the small wooden offering box in Nell's hands.",
+      "start_ms": 31852,
+      "end_ms": 37545
+    },
+    {
+      "index": 11,
+      "text": "\"Then take this,\" she said.",
+      "start_ms": 37545,
+      "end_ms": 39563
+    },
+    {
+      "index": 12,
+      "text": "\"Whatever you give — put it inside.",
+      "start_ms": 39563,
+      "end_ms": 42157
+    },
+    {
+      "index": 13,
+      "text": "That's the way it's done.\"",
+      "start_ms": 42157,
+      "end_ms": 44175
+    },
+    {
+      "index": 14,
+      "text": "Nell opened the front door.",
+      "start_ms": 44175,
+      "end_ms": 46265
+    },
+    {
+      "index": 15,
+      "text": "The cold came in like a slap.",
+      "start_ms": 46265,
+      "end_ms": 48427
+    },
+    {
+      "index": 16,
+      "text": "The wind was very loud.",
+      "start_ms": 48427,
+      "end_ms": 50156
+    },
+    {
+      "index": 17,
+      "text": "The snow in the yard was so bright with moonlight that it hurt to look at.",
+      "start_ms": 50156,
+      "end_ms": 55633
+    },
+    {
+      "index": 18,
+      "text": "She stepped out onto the doorstep.",
+      "start_ms": 55633,
+      "end_ms": 58156
+    },
+    {
+      "index": 19,
+      "text": "She closed the door softly behind her.",
+      "start_ms": 58156,
+      "end_ms": 61038
+    },
+    {
+      "index": 20,
+      "text": "The tracks from the last two nights were still there, filling in with fresh snow.",
+      "start_ms": 61038,
+      "end_ms": 66947
+    },
+    {
+      "index": 21,
+      "text": "New tracks led up to the doorstep from the trees.",
+      "start_ms": 66947,
+      "end_ms": 70623
+    },
+    {
+      "index": 22,
+      "text": "Nell looked up.",
+      "start_ms": 70623,
+      "end_ms": 71848
+    },
+    {
+      "index": 23,
+      "text": "The fox was there.",
+      "start_ms": 71848,
+      "end_ms": 73289
+    },
+    {
+      "index": 24,
+      "text": "It was smaller than she had expected.",
+      "start_ms": 73289,
+      "end_ms": 76027
+    },
+    {
+      "index": 25,
+      "text": "A pure white arctic fox, with the softest-looking fur she had ever seen.",
+      "start_ms": 76027,
+      "end_ms": 81288
+    },
+    {
+      "index": 26,
+      "text": "Its eyes were the color of amber — a warm, dark gold.",
+      "start_ms": 81288,
+      "end_ms": 85180
+    },
+    {
+      "index": 27,
+      "text": "It sat very still in the snow, three feet from her, and it looked at her.",
+      "start_ms": 85180,
+      "end_ms": 90584
+    },
+    {
+      "index": 28,
+      "text": "Nell's heart was beating very hard.",
+      "start_ms": 90584,
+      "end_ms": 93179
+    },
+    {
+      "index": 29,
+      "text": "She did not know if the fox understood people.",
+      "start_ms": 93179,
+      "end_ms": 96566
+    },
+    {
+      "index": 30,
+      "text": "She did not know if it understood English.",
+      "start_ms": 96566,
+      "end_ms": 99664
+    },
+    {
+      "index": 31,
+      "text": "She did not know if it understood anything.",
+      "start_ms": 99664,
+      "end_ms": 102907
+    },
+    {
+      "index": 32,
+      "text": "She only knew what she was going to try.",
+      "start_ms": 102907,
+      "end_ms": 105934
+    },
+    {
+      "index": 33,
+      "text": "She put the small wooden offering box down on the doorstep.",
+      "start_ms": 105934,
+      "end_ms": 110330
+    },
+    {
+      "index": 34,
+      "text": "Then she took a deep, shaky breath, and she began to sing.",
+      "start_ms": 110330,
+      "end_ms": 114654
+    },
+    {
+      "index": 35,
+      "text": "The song was a lullaby.",
+      "start_ms": 114654,
+      "end_ms": 116383
+    },
+    {
+      "index": 36,
+      "text": "It was the one her mother had sung to her when she was very small, before Nell could remember words.",
+      "start_ms": 116383,
+      "end_ms": 123662
+    },
+    {
+      "index": 37,
+      "text": "It was a Swedish lullaby, one her mother had learned from Farmor.",
+      "start_ms": 123662,
+      "end_ms": 128418
+    },
+    {
+      "index": 38,
+      "text": "Nell did not remember all the words.",
+      "start_ms": 128418,
+      "end_ms": 131084
+    },
+    {
+      "index": 39,
+      "text": "She sang the ones she knew and hummed the ones she didn't.",
+      "start_ms": 131084,
+      "end_ms": 135264
+    },
+    {
+      "index": 40,
+      "text": "\"Vem kan segla förutan vind,\" she sang, quietly.",
+      "start_ms": 135264,
+      "end_ms": 138611
+    },
+    {
+      "index": 41,
+      "text": "\"Vem kan ro utan åror.",
+      "start_ms": 138611,
+      "end_ms": 140182
+    },
+    {
+      "index": 42,
+      "text": "Vem kan skiljas från vännen sin, utan att fälla tårar.\"",
+      "start_ms": 140182,
+      "end_ms": 144076
+    },
+    {
+      "index": 43,
+      "text": "Her voice shook.",
+      "start_ms": 144076,
+      "end_ms": 145237
+    },
+    {
+      "index": 44,
+      "text": "She kept going.",
+      "start_ms": 145237,
+      "end_ms": 146398
+    },
+    {
+      "index": 45,
+      "text": "The fox listened.",
+      "start_ms": 146398,
+      "end_ms": 147696
+    },
+    {
+      "index": 46,
+      "text": "It did not move.",
+      "start_ms": 147696,
+      "end_ms": 148858
+    },
+    {
+      "index": 47,
+      "text": "Its amber eyes stayed on Nell's face.",
+      "start_ms": 148858,
+      "end_ms": 151453
+    },
+    {
+      "index": 48,
+      "text": "The wind, which had been so loud, seemed to grow softer, as if the trees themselves were listening.",
+      "start_ms": 151453,
+      "end_ms": 158353
+    },
+    {
+      "index": 49,
+      "text": "Nell sang all four verses that she could remember.",
+      "start_ms": 158353,
+      "end_ms": 161836
+    },
+    {
+      "index": 50,
+      "text": "When she finished, she stood very still.",
+      "start_ms": 161836,
+      "end_ms": 164637
+    },
+    {
+      "index": 51,
+      "text": "The song hung in the cold air.",
+      "start_ms": 164637,
+      "end_ms": 166823
+    },
+    {
+      "index": 52,
+      "text": "The fox got to its feet.",
+      "start_ms": 166823,
+      "end_ms": 168599
+    },
+    {
+      "index": 53,
+      "text": "It walked to the offering box.",
+      "start_ms": 168599,
+      "end_ms": 170717
+    },
+    {
+      "index": 54,
+      "text": "It looked at it.",
+      "start_ms": 170717,
+      "end_ms": 171878
+    },
+    {
+      "index": 55,
+      "text": "Then it looked back at Nell.",
+      "start_ms": 171878,
+      "end_ms": 173927
+    },
+    {
+      "index": 56,
+      "text": "It bowed its head, once — slowly, deliberately, like someone accepting a gift with great respect.",
+      "start_ms": 173927,
+      "end_ms": 180690
+    },
+    {
+      "index": 57,
+      "text": "And then it turned and disappeared into the trees.",
+      "start_ms": 180690,
+      "end_ms": 184242
+    },
+    {
+      "index": 58,
+      "text": "Nell stood on the doorstep for a long time after the fox was gone.",
+      "start_ms": 184242,
+      "end_ms": 188887
+    },
+    {
+      "index": 59,
+      "text": "The wind was still blowing.",
+      "start_ms": 188887,
+      "end_ms": 190800
+    },
+    {
+      "index": 60,
+      "text": "The moon was still bright.",
+      "start_ms": 190800,
+      "end_ms": 192644
+    },
+    {
+      "index": 61,
+      "text": "But something had changed.",
+      "start_ms": 192644,
+      "end_ms": 194488
+    },
+    {
+      "index": 62,
+      "text": "She could feel it.",
+      "start_ms": 194488,
+      "end_ms": 195855
+    },
+    {
+      "index": 63,
+      "text": "She picked up the offering box.",
+      "start_ms": 195855,
+      "end_ms": 198041
+    },
+    {
+      "index": 64,
+      "text": "It was still empty — she had not put anything in it.",
+      "start_ms": 198041,
+      "end_ms": 201661
+    },
+    {
+      "index": 65,
+      "text": "She had thought that was what she was going to do.",
+      "start_ms": 201661,
+      "end_ms": 205145
+    },
+    {
+      "index": 66,
+      "text": "But when the moment came, she had not.",
+      "start_ms": 205145,
+      "end_ms": 207877
+    },
+    {
+      "index": 67,
+      "text": "The song had been the gift.",
+      "start_ms": 207877,
+      "end_ms": 209790
+    },
+    {
+      "index": 68,
+      "text": "The box had been the way to say: this counts as an offering.",
+      "start_ms": 209790,
+      "end_ms": 213957
+    },
+    {
+      "index": 69,
+      "text": "Please receive it.",
+      "start_ms": 213957,
+      "end_ms": 215323
+    },
+    {
+      "index": 70,
+      "text": "The fox had received it.",
+      "start_ms": 215323,
+      "end_ms": 217099
+    },
+    {
+      "index": 71,
+      "text": "Inside, Farmor was waiting by the fire.",
+      "start_ms": 217099,
+      "end_ms": 219831
+    },
+    {
+      "index": 72,
+      "text": "She looked up when Nell came in, and she looked at the empty box in Nell's hands, and her eyes filled with tears.",
+      "start_ms": 219831,
+      "end_ms": 227687
+    },
+    {
+      "index": 73,
+      "text": "\"You sang.\"",
+      "start_ms": 227687,
+      "end_ms": 228575
+    },
+    {
+      "index": 74,
+      "text": "\"I sang the lullaby that Mama used to sing me.\"",
+      "start_ms": 228575,
+      "end_ms": 231922
+    },
+    {
+      "index": 75,
+      "text": "Farmor put her hand over her mouth.",
+      "start_ms": 231922,
+      "end_ms": 234450
+    },
+    {
+      "index": 76,
+      "text": "\"That was my mother's song,\" she said.",
+      "start_ms": 234450,
+      "end_ms": 237114
+    },
+    {
+      "index": 77,
+      "text": "\"She sang it to your mother.",
+      "start_ms": 237114,
+      "end_ms": 239095
+    },
+    {
+      "index": 78,
+      "text": "Your mother sang it to you.",
+      "start_ms": 239095,
+      "end_ms": 241007
+    },
+    {
+      "index": 79,
+      "text": "I never — I never thought to sing it to the fox.\"",
+      "start_ms": 241007,
+      "end_ms": 244491
+    },
+    {
+      "index": 80,
+      "text": "Nell sat down beside her.",
+      "start_ms": 244491,
+      "end_ms": 246267
+    },
+    {
+      "index": 81,
+      "text": "Farmor put an arm around her shoulders.",
+      "start_ms": 246267,
+      "end_ms": 249068
+    },
+    {
+      "index": 82,
+      "text": "The next morning, Farmor got a fresh piece of paper.",
+      "start_ms": 249068,
+      "end_ms": 252688
+    },
+    {
+      "index": 83,
+      "text": "In her careful, spidery handwriting, she wrote down the four verses of the lullaby that Nell had sung.",
+      "start_ms": 252688,
+      "end_ms": 259724
+    },
+    {
+      "index": 84,
+      "text": "She folded the paper and put it inside the small wooden offering box.",
+      "start_ms": 259724,
+      "end_ms": 264574
+    },
+    {
+      "index": 85,
+      "text": "She closed the lid.",
+      "start_ms": 264574,
+      "end_ms": 265872
+    },
+    {
+      "index": 86,
+      "text": "\"For the next one,\" she said.",
+      "start_ms": 265872,
+      "end_ms": 267555
+    },
+    {
+      "index": 87,
+      "text": "\"In case there is a long time before the wind comes again.",
+      "start_ms": 267555,
+      "end_ms": 270865
+    },
+    {
+      "index": 88,
+      "text": "In case whoever comes next does not remember the words.\"",
+      "start_ms": 270865,
+      "end_ms": 274120
+    },
+    {
+      "index": 89,
+      "text": "She put the box back in the drawer.",
+      "start_ms": 274120,
+      "end_ms": 276195
+    },
+    {
+      "index": 90,
+      "text": "Outside, the wind had finally stopped.",
+      "start_ms": 276195,
+      "end_ms": 278384
+    },
+    {
+      "index": 91,
+      "text": "The trees stood still.",
+      "start_ms": 278384,
+      "end_ms": 279674
+    },
+    {
+      "index": 92,
+      "text": "Somewhere far off in the forest, a small white fox was making its way home, carrying something very quietly, that only it could hear.",
+      "start_ms": 279674,
+      "end_ms": 287136
+    }
+  ]
+}

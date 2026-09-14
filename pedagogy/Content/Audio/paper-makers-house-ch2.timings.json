@@ -1,0 +1,733 @@
+{
+  "story_id": "paper-makers-house",
+  "chapter": 2,
+  "total_duration_ms": 316320,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The box was heavier than she expected.",
+      "start_ms": 2635,
+      "end_ms": 5571
+    },
+    {
+      "index": 1,
+      "text": "She lifted the lid.",
+      "start_ms": 5571,
+      "end_ms": 7077
+    },
+    {
+      "index": 2,
+      "text": "Inside, in a neat stack, were sheets of hanji.",
+      "start_ms": 7077,
+      "end_ms": 10615
+    },
+    {
+      "index": 3,
+      "text": "Not one or two — hundreds.",
+      "start_ms": 10615,
+      "end_ms": 12648
+    },
+    {
+      "index": 4,
+      "text": "The stack was maybe as thick as a large book.",
+      "start_ms": 12648,
+      "end_ms": 16111
+    },
+    {
+      "index": 5,
+      "text": "The sheets were pale cream, all the same size, all the standard size Harabeoji made.",
+      "start_ms": 16111,
+      "end_ms": 22510
+    },
+    {
+      "index": 6,
+      "text": "Each looked perfect — no torn edges, no water stains, no folded corners.",
+      "start_ms": 22510,
+      "end_ms": 28006
+    },
+    {
+      "index": 7,
+      "text": "Ji-eun lifted the top sheet gently and looked at the bottom right corner where the number always went.",
+      "start_ms": 28006,
+      "end_ms": 35836
+    },
+    {
+      "index": 8,
+      "text": "Nothing.",
+      "start_ms": 35836,
+      "end_ms": 36513
+    },
+    {
+      "index": 9,
+      "text": "The corner was blank.",
+      "start_ms": 36513,
+      "end_ms": 38170
+    },
+    {
+      "index": 10,
+      "text": "She lifted the next sheet.",
+      "start_ms": 38170,
+      "end_ms": 40202
+    },
+    {
+      "index": 11,
+      "text": "Blank.",
+      "start_ms": 40202,
+      "end_ms": 40729
+    },
+    {
+      "index": 12,
+      "text": "The next — blank.",
+      "start_ms": 40729,
+      "end_ms": 42084
+    },
+    {
+      "index": 13,
+      "text": "She kept going, gently, five sheets, ten sheets, all the way down.",
+      "start_ms": 42084,
+      "end_ms": 47129
+    },
+    {
+      "index": 14,
+      "text": "Not one of them was numbered.",
+      "start_ms": 47129,
+      "end_ms": 49387
+    },
+    {
+      "index": 15,
+      "text": "Not a single one.",
+      "start_ms": 49387,
+      "end_ms": 50742
+    },
+    {
+      "index": 16,
+      "text": "She stared at the stack for a long time.",
+      "start_ms": 50742,
+      "end_ms": 53829
+    },
+    {
+      "index": 17,
+      "text": "Then she carried it, box and all, back across the rainy courtyard to the main house, and she waited for Harabeoji to come home.",
+      "start_ms": 53829,
+      "end_ms": 63541
+    },
+    {
+      "index": 18,
+      "text": "He came in about an hour later.",
+      "start_ms": 63541,
+      "end_ms": 65950
+    },
+    {
+      "index": 19,
+      "text": "He took off his wet hat and his wet shoes, one at a time, and only then looked into the room.",
+      "start_ms": 65950,
+      "end_ms": 73027
+    },
+    {
+      "index": 20,
+      "text": "He saw the box on the table.",
+      "start_ms": 73027,
+      "end_ms": 75210
+    },
+    {
+      "index": 21,
+      "text": "He saw Ji-eun holding up one of the sheets.",
+      "start_ms": 75210,
+      "end_ms": 78523
+    },
+    {
+      "index": 22,
+      "text": "He did not say anything for a moment.",
+      "start_ms": 78523,
+      "end_ms": 81383
+    },
+    {
+      "index": 23,
+      "text": "Then he crossed the room slowly and sat down on the cushion across from her.",
+      "start_ms": 81383,
+      "end_ms": 87256
+    },
+    {
+      "index": 24,
+      "text": "\"I did not know you would find those,\" he said.",
+      "start_ms": 87256,
+      "end_ms": 90869
+    },
+    {
+      "index": 25,
+      "text": "\"I had forgotten they were in the workshop.\" Ji-eun said, \"Harabeoji, they are not numbered.\" He nodded.",
+      "start_ms": 90869,
+      "end_ms": 98774
+    },
+    {
+      "index": 26,
+      "text": "He was looking at the sheet she held.",
+      "start_ms": 98774,
+      "end_ms": 101635
+    },
+    {
+      "index": 27,
+      "text": "He said, \"No.",
+      "start_ms": 101635,
+      "end_ms": 102689
+    },
+    {
+      "index": 28,
+      "text": "I did not number them.\"",
+      "start_ms": 102689,
+      "end_ms": 104571
+    },
+    {
+      "index": 29,
+      "text": "He was quiet for a while.",
+      "start_ms": 104571,
+      "end_ms": 106529
+    },
+    {
+      "index": 30,
+      "text": "Ji-eun did not push.",
+      "start_ms": 106529,
+      "end_ms": 108110
+    },
+    {
+      "index": 31,
+      "text": "She waited.",
+      "start_ms": 108110,
+      "end_ms": 109013
+    },
+    {
+      "index": 32,
+      "text": "He got up and made tea.",
+      "start_ms": 109013,
+      "end_ms": 110820
+    },
+    {
+      "index": 33,
+      "text": "When he had poured them both cups, he sat down again.",
+      "start_ms": 110820,
+      "end_ms": 114885
+    },
+    {
+      "index": 34,
+      "text": "Then he said, \"Halmoni — your grandmother — died eight years ago.",
+      "start_ms": 114885,
+      "end_ms": 119854
+    },
+    {
+      "index": 35,
+      "text": "You were three.",
+      "start_ms": 119854,
+      "end_ms": 121059
+    },
+    {
+      "index": 36,
+      "text": "You do not really remember her.",
+      "start_ms": 121059,
+      "end_ms": 123468
+    },
+    {
+      "index": 37,
+      "text": "She died in early June, that year.",
+      "start_ms": 123468,
+      "end_ms": 126103
+    },
+    {
+      "index": 38,
+      "text": "The persimmon had just flowered.",
+      "start_ms": 126103,
+      "end_ms": 128587
+    },
+    {
+      "index": 39,
+      "text": "I stopped making paper for four months.",
+      "start_ms": 128587,
+      "end_ms": 131599
+    },
+    {
+      "index": 40,
+      "text": "I could not work.",
+      "start_ms": 131599,
+      "end_ms": 132954
+    },
+    {
+      "index": 41,
+      "text": "I could not do anything, really.",
+      "start_ms": 132954,
+      "end_ms": 135438
+    },
+    {
+      "index": 42,
+      "text": "I sat in the house.\"",
+      "start_ms": 135438,
+      "end_ms": 136944
+    },
+    {
+      "index": 43,
+      "text": "He drank some tea.",
+      "start_ms": 136944,
+      "end_ms": 138133
+    },
+    {
+      "index": 44,
+      "text": "\"In October, I began again.",
+      "start_ms": 138133,
+      "end_ms": 139886
+    },
+    {
+      "index": 45,
+      "text": "I do not know why October and not September.",
+      "start_ms": 139886,
+      "end_ms": 142703
+    },
+    {
+      "index": 46,
+      "text": "It happens when it happens.",
+      "start_ms": 142703,
+      "end_ms": 144456
+    },
+    {
+      "index": 47,
+      "text": "I made a sheet.",
+      "start_ms": 144456,
+      "end_ms": 145458
+    },
+    {
+      "index": 48,
+      "text": "I dried it.",
+      "start_ms": 145458,
+      "end_ms": 146209
+    },
+    {
+      "index": 49,
+      "text": "I brought it in to number it.",
+      "start_ms": 146209,
+      "end_ms": 148087
+    },
+    {
+      "index": 50,
+      "text": "And I found I did not know what to write.",
+      "start_ms": 148087,
+      "end_ms": 150716
+    },
+    {
+      "index": 51,
+      "text": "I did not know what week it was.",
+      "start_ms": 150716,
+      "end_ms": 152782
+    },
+    {
+      "index": 52,
+      "text": "I did not know what season it was, in the sense the number keeps track of.",
+      "start_ms": 152782,
+      "end_ms": 157477
+    },
+    {
+      "index": 53,
+      "text": "Everything had shifted.",
+      "start_ms": 157477,
+      "end_ms": 158979
+    },
+    {
+      "index": 54,
+      "text": "I had been counting my life a certain way, and that way had ended, and I did not yet know how the counting worked now.",
+      "start_ms": 158979,
+      "end_ms": 166429
+    },
+    {
+      "index": 55,
+      "text": "So I put the sheet in a box, unnumbered.",
+      "start_ms": 166429,
+      "end_ms": 168995
+    },
+    {
+      "index": 56,
+      "text": "And the next week I made another.",
+      "start_ms": 168995,
+      "end_ms": 171124
+    },
+    {
+      "index": 57,
+      "text": "And I put it in the box, unnumbered.",
+      "start_ms": 171124,
+      "end_ms": 173440
+    },
+    {
+      "index": 58,
+      "text": "I made paper for a whole year like that.",
+      "start_ms": 173440,
+      "end_ms": 176007
+    },
+    {
+      "index": 59,
+      "text": "Then, the following autumn, one Tuesday, I sat down at the table and I picked up the brush and I wrote a number on a new sheet.",
+      "start_ms": 176007,
+      "end_ms": 184019
+    },
+    {
+      "index": 60,
+      "text": "Just — I was ready.",
+      "start_ms": 184019,
+      "end_ms": 185271
+    },
+    {
+      "index": 61,
+      "text": "I do not know why that Tuesday.",
+      "start_ms": 185271,
+      "end_ms": 187275
+    },
+    {
+      "index": 62,
+      "text": "I have been numbering ever since.",
+      "start_ms": 187275,
+      "end_ms": 189403
+    },
+    {
+      "index": 63,
+      "text": "But the year of unnumbered sheets I put away.",
+      "start_ms": 189403,
+      "end_ms": 192283
+    },
+    {
+      "index": 64,
+      "text": "I could not go back and number them.",
+      "start_ms": 192283,
+      "end_ms": 194599
+    },
+    {
+      "index": 65,
+      "text": "It was too late.",
+      "start_ms": 194599,
+      "end_ms": 195663
+    },
+    {
+      "index": 66,
+      "text": "It was the wrong kind of counting.\"",
+      "start_ms": 195663,
+      "end_ms": 197979
+    },
+    {
+      "index": 67,
+      "text": "Ji-eun listened.",
+      "start_ms": 197979,
+      "end_ms": 199043
+    },
+    {
+      "index": 68,
+      "text": "She thought about it for a long time.",
+      "start_ms": 199043,
+      "end_ms": 201422
+    },
+    {
+      "index": 69,
+      "text": "Then she said, \"Harabeoji.",
+      "start_ms": 201422,
+      "end_ms": 203112
+    },
+    {
+      "index": 70,
+      "text": "What if we numbered them now?",
+      "start_ms": 203112,
+      "end_ms": 204990
+    },
+    {
+      "index": 71,
+      "text": "Together.",
+      "start_ms": 204990,
+      "end_ms": 205616
+    },
+    {
+      "index": 72,
+      "text": "Not with the ordinary numbers.",
+      "start_ms": 205616,
+      "end_ms": 207557
+    },
+    {
+      "index": 73,
+      "text": "Something else.\" He looked at her.",
+      "start_ms": 207557,
+      "end_ms": 209811
+    },
+    {
+      "index": 74,
+      "text": "\"What if,\" Ji-eun said, \"instead of a number and a season, we wrote a small thing on each one?",
+      "start_ms": 209811,
+      "end_ms": 215758
+    },
+    {
+      "index": 75,
+      "text": "What was happening that week.",
+      "start_ms": 215758,
+      "end_ms": 217636
+    },
+    {
+      "index": 76,
+      "text": "Something small.",
+      "start_ms": 217636,
+      "end_ms": 218700
+    },
+    {
+      "index": 77,
+      "text": "The weather.",
+      "start_ms": 218700,
+      "end_ms": 219514
+    },
+    {
+      "index": 78,
+      "text": "What you ate.",
+      "start_ms": 219514,
+      "end_ms": 220390
+    },
+    {
+      "index": 79,
+      "text": "What the persimmon was doing.",
+      "start_ms": 220390,
+      "end_ms": 222268
+    },
+    {
+      "index": 80,
+      "text": "Whether you slept well.",
+      "start_ms": 222268,
+      "end_ms": 223771
+    },
+    {
+      "index": 81,
+      "text": "Something.",
+      "start_ms": 223771,
+      "end_ms": 224459
+    },
+    {
+      "index": 82,
+      "text": "So the sheet has a date but not a count.",
+      "start_ms": 224459,
+      "end_ms": 227026
+    },
+    {
+      "index": 83,
+      "text": "Because that year did not count like the other years, right?",
+      "start_ms": 227026,
+      "end_ms": 230844
+    },
+    {
+      "index": 84,
+      "text": "But it still was.",
+      "start_ms": 230844,
+      "end_ms": 231971
+    },
+    {
+      "index": 85,
+      "text": "It still happened.",
+      "start_ms": 231971,
+      "end_ms": 233161
+    },
+    {
+      "index": 86,
+      "text": "The paper is still there.",
+      "start_ms": 233161,
+      "end_ms": 234788
+    },
+    {
+      "index": 87,
+      "text": "So the paper can say — this week, it was raining.",
+      "start_ms": 234788,
+      "end_ms": 237918
+    },
+    {
+      "index": 88,
+      "text": "Or this week, my daughter called.",
+      "start_ms": 237918,
+      "end_ms": 240047
+    },
+    {
+      "index": 89,
+      "text": "Or this week, I finally finished the book Halmoni had been reading.",
+      "start_ms": 240047,
+      "end_ms": 244303
+    },
+    {
+      "index": 90,
+      "text": "Something.\"",
+      "start_ms": 244303,
+      "end_ms": 244992
+    },
+    {
+      "index": 91,
+      "text": "Harabeoji was still.",
+      "start_ms": 244992,
+      "end_ms": 246302
+    },
+    {
+      "index": 92,
+      "text": "He did not interrupt her.",
+      "start_ms": 246302,
+      "end_ms": 247925
+    },
+    {
+      "index": 93,
+      "text": "When she stopped, he looked at the box.",
+      "start_ms": 247925,
+      "end_ms": 250421
+    },
+    {
+      "index": 94,
+      "text": "He looked at the small pot of ink on the table.",
+      "start_ms": 250421,
+      "end_ms": 253417
+    },
+    {
+      "index": 95,
+      "text": "Then he looked at Ji-eun.",
+      "start_ms": 253417,
+      "end_ms": 255039
+    },
+    {
+      "index": 96,
+      "text": "He said, quietly, \"You are eleven years old and that is a wise idea.",
+      "start_ms": 255039,
+      "end_ms": 259345
+    },
+    {
+      "index": 97,
+      "text": "I would never have thought of it.",
+      "start_ms": 259345,
+      "end_ms": 261467
+    },
+    {
+      "index": 98,
+      "text": "Yes.",
+      "start_ms": 261467,
+      "end_ms": 261779
+    },
+    {
+      "index": 99,
+      "text": "Let us do that.\"",
+      "start_ms": 261779,
+      "end_ms": 262902
+    },
+    {
+      "index": 100,
+      "text": "They started that same evening.",
+      "start_ms": 262902,
+      "end_ms": 264899
+    },
+    {
+      "index": 101,
+      "text": "Harabeoji got the small pot of ink and the small brush.",
+      "start_ms": 264899,
+      "end_ms": 268394
+    },
+    {
+      "index": 102,
+      "text": "He took the top sheet from the box and set it on the low table.",
+      "start_ms": 268394,
+      "end_ms": 272387
+    },
+    {
+      "index": 103,
+      "text": "He looked at Ji-eun.",
+      "start_ms": 272387,
+      "end_ms": 273698
+    },
+    {
+      "index": 104,
+      "text": "He said, \"You do not remember your grandmother.",
+      "start_ms": 273698,
+      "end_ms": 276693
+    },
+    {
+      "index": 105,
+      "text": "So I will tell you about her, one week at a time, one sheet at a time.",
+      "start_ms": 276693,
+      "end_ms": 281124
+    },
+    {
+      "index": 106,
+      "text": "It will take us many nights.",
+      "start_ms": 281124,
+      "end_ms": 282934
+    },
+    {
+      "index": 107,
+      "text": "Perhaps all your two weeks here.",
+      "start_ms": 282934,
+      "end_ms": 284993
+    },
+    {
+      "index": 108,
+      "text": "Perhaps not all — there are more than fifty sheets.",
+      "start_ms": 284993,
+      "end_ms": 288238
+    },
+    {
+      "index": 109,
+      "text": "But we will do what we can.",
+      "start_ms": 288238,
+      "end_ms": 289985
+    },
+    {
+      "index": 110,
+      "text": "When you go home, you will know something about her that you did not know when you came.\"",
+      "start_ms": 289985,
+      "end_ms": 295664
+    },
+    {
+      "index": 111,
+      "text": "He picked up the brush.",
+      "start_ms": 295664,
+      "end_ms": 297162
+    },
+    {
+      "index": 112,
+      "text": "He thought for a moment.",
+      "start_ms": 297162,
+      "end_ms": 298722
+    },
+    {
+      "index": 113,
+      "text": "Then he wrote, in his careful small hand, at the bottom of the sheet: October, first week.",
+      "start_ms": 298722,
+      "end_ms": 304401
+    },
+    {
+      "index": 114,
+      "text": "It rained every day.",
+      "start_ms": 304401,
+      "end_ms": 305711
+    },
+    {
+      "index": 115,
+      "text": "She had liked October rain.",
+      "start_ms": 305711,
+      "end_ms": 307459
+    },
+    {
+      "index": 116,
+      "text": "He set the brush down.",
+      "start_ms": 307459,
+      "end_ms": 308894
+    },
+    {
+      "index": 117,
+      "text": "He was quiet for a moment.",
+      "start_ms": 308894,
+      "end_ms": 310579
+    },
+    {
+      "index": 118,
+      "text": "Then he passed the sheet to Ji-eun.",
+      "start_ms": 310579,
+      "end_ms": 312825
+    },
+    {
+      "index": 119,
+      "text": "He said, \"You put it aside to dry.",
+      "start_ms": 312825,
+      "end_ms": 315010
+    },
+    {
+      "index": 120,
+      "text": "Then we do the next.\"",
+      "start_ms": 315010,
+      "end_ms": 316320
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "story_id": "archivist-of-tallinn",
+  "chapter": 1,
+  "total_duration_ms": 361656,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Kristjan was ten and lived in Tartu, which was the second city of Estonia — a small university town on the Emajõgi river in the south of the country.",
+      "start_ms": 1706,
+      "end_ms": 10532
+    },
+    {
+      "index": 1,
+      "text": "His mother was a mathematician at the university.",
+      "start_ms": 10532,
+      "end_ms": 13474
+    },
+    {
+      "index": 2,
+      "text": "His father worked at a hospital.",
+      "start_ms": 13474,
+      "end_ms": 15415
+    },
+    {
+      "index": 3,
+      "text": "Every July, for two weeks, Kristjan took the bus north to Tallinn, the capital, to stay with his great-aunt Silvia.",
+      "start_ms": 15415,
+      "end_ms": 22241
+    },
+    {
+      "index": 4,
+      "text": "Silvia was his mother's aunt — the elder sister of his mother's mother, who had died when Kristjan's mother was small.",
+      "start_ms": 22241,
+      "end_ms": 29242
+    },
+    {
+      "index": 5,
+      "text": "Silvia was seventy-six and lived alone in a small apartment on the third floor of an old building on a cobblestoned street in the Vanalinn — the medieval Old Town of Tallinn, near the ruined church of Niguliste.",
+      "start_ms": 29242,
+      "end_ms": 41775
+    },
+    {
+      "index": 6,
+      "text": "Silvia had been an archivist.",
+      "start_ms": 41775,
+      "end_ms": 43540
+    },
+    {
+      "index": 7,
+      "text": "She had worked for forty years at the Estonian National Library, which sat on a hill just outside the Old Town.",
+      "start_ms": 43540,
+      "end_ms": 50130
+    },
+    {
+      "index": 8,
+      "text": "She had retired eight years ago.",
+      "start_ms": 50130,
+      "end_ms": 52071
+    },
+    {
+      "index": 9,
+      "text": "She was, most days now, a small careful old woman who took slow walks in the Old Town, drank strong black coffee, read three newspapers, and spent her afternoons at a large window with a view of the sea.",
+      "start_ms": 52071,
+      "end_ms": 64074
+    },
+    {
+      "index": 10,
+      "text": "But two mornings a week she still walked up the hill to the library, unlocked a small back door with a key she had never given back, and spent three or four hours in the basement archive on projects nobody had asked her to do.",
+      "start_ms": 64074,
+      "end_ms": 77430
+    },
+    {
+      "index": 11,
+      "text": "This was known to the current head of the archive, who liked Silvia, and who let her be.",
+      "start_ms": 77430,
+      "end_ms": 82608
+    },
+    {
+      "index": 12,
+      "text": "On the first morning of his visit, Silvia gave Kristjan a small cup of strong coffee with hot milk — he was allowed only very weak coffee at home, so this was a treat — and a thick slice of dark rye bread with butter and honey.",
+      "start_ms": 82608,
+      "end_ms": 96161
+    },
+    {
+      "index": 13,
+      "text": "She sat across from him and drank her own coffee black.",
+      "start_ms": 96161,
+      "end_ms": 99490
+    },
+    {
+      "index": 14,
+      "text": "She said, \"Kristjan.",
+      "start_ms": 99490,
+      "end_ms": 100738
+    },
+    {
+      "index": 15,
+      "text": "This week I am going to take you into the library.",
+      "start_ms": 100738,
+      "end_ms": 103770
+    },
+    {
+      "index": 16,
+      "text": "You are old enough now.\" Kristjan sat up straighter.",
+      "start_ms": 103770,
+      "end_ms": 106920
+    },
+    {
+      "index": 17,
+      "text": "He had heard about Silvia's library work his whole life and had never been allowed to see it.",
+      "start_ms": 106920,
+      "end_ms": 112508
+    },
+    {
+      "index": 18,
+      "text": "\"I will show you the reading rooms,\" she said, \"and then I will show you a small room in the basement that almost nobody sees.",
+      "start_ms": 112508,
+      "end_ms": 120057
+    },
+    {
+      "index": 19,
+      "text": "And I will show you a project I have been keeping to myself for almost fifty years.",
+      "start_ms": 120057,
+      "end_ms": 125050
+    },
+    {
+      "index": 20,
+      "text": "I have not talked about it to anyone in the family.",
+      "start_ms": 125050,
+      "end_ms": 128141
+    },
+    {
+      "index": 21,
+      "text": "Now — well.",
+      "start_ms": 128141,
+      "end_ms": 128854
+    },
+    {
+      "index": 22,
+      "text": "It is a good time.\" She drank her coffee.",
+      "start_ms": 128854,
+      "end_ms": 131351
+    },
+    {
+      "index": 23,
+      "text": "She did not explain further.",
+      "start_ms": 131351,
+      "end_ms": 133134
+    },
+    {
+      "index": 24,
+      "text": "They walked up the hill after breakfast.",
+      "start_ms": 133134,
+      "end_ms": 135571
+    },
+    {
+      "index": 25,
+      "text": "The library was much bigger than Kristjan had imagined — a large pale stone building with many floors and many long windows.",
+      "start_ms": 135571,
+      "end_ms": 143002
+    },
+    {
+      "index": 26,
+      "text": "Silvia took him in through a small side door, using a key from a ring she kept in her handbag.",
+      "start_ms": 143002,
+      "end_ms": 148649
+    },
+    {
+      "index": 27,
+      "text": "She waved to a security guard, who nodded at her by name.",
+      "start_ms": 148649,
+      "end_ms": 152096
+    },
+    {
+      "index": 28,
+      "text": "She led Kristjan through empty back corridors that smelled of paper and floor wax, past reading rooms where a few adults sat reading at long tables, and to a lift that opened only when Silvia used her key.",
+      "start_ms": 152096,
+      "end_ms": 164342
+    },
+    {
+      "index": 29,
+      "text": "They rode it down.",
+      "start_ms": 164342,
+      "end_ms": 165530
+    },
+    {
+      "index": 30,
+      "text": "In the basement, the corridor was warm and dim and quiet.",
+      "start_ms": 165530,
+      "end_ms": 168978
+    },
+    {
+      "index": 31,
+      "text": "Silvia said, \"The main archive is that way\" — she pointed left — \"and it is very big and very organized and cataloged by many people over many years.",
+      "start_ms": 168978,
+      "end_ms": 177894
+    },
+    {
+      "index": 32,
+      "text": "Where we are going is a small room off to the side.",
+      "start_ms": 177894,
+      "end_ms": 180986
+    },
+    {
+      "index": 33,
+      "text": "It is not cataloged.",
+      "start_ms": 180986,
+      "end_ms": 182234
+    },
+    {
+      "index": 34,
+      "text": "It is what people used to call, before I was born, the 'strays cabinet.' Come.\" And she took him to a low green door at the end of the corridor and unlocked it with a small brass key from her ring.",
+      "start_ms": 182234,
+      "end_ms": 193944
+    },
+    {
+      "index": 35,
+      "text": "The room was small and quiet.",
+      "start_ms": 193944,
+      "end_ms": 195927
+    },
+    {
+      "index": 36,
+      "text": "Three walls of wooden shelves held perhaps fifty shallow wooden boxes and many leather-bound folders.",
+      "start_ms": 195927,
+      "end_ms": 202668
+    },
+    {
+      "index": 37,
+      "text": "A single table with two chairs sat in the middle.",
+      "start_ms": 202668,
+      "end_ms": 205973
+    },
+    {
+      "index": 38,
+      "text": "Silvia turned on the small brass reading lamp on the table.",
+      "start_ms": 205973,
+      "end_ms": 209939
+    },
+    {
+      "index": 39,
+      "text": "She closed the door behind them.",
+      "start_ms": 209939,
+      "end_ms": 212186
+    },
+    {
+      "index": 40,
+      "text": "\"For a hundred and fifty years,\" she said, \"the post office of Tallinn — and then the post offices across Estonia, when Tallinn was central — sent us here, to the library, the letters that could not be delivered.",
+      "start_ms": 212186,
+      "end_ms": 226264
+    },
+    {
+      "index": 41,
+      "text": "Letters with unreadable addresses.",
+      "start_ms": 226264,
+      "end_ms": 228577
+    },
+    {
+      "index": 42,
+      "text": "Letters with names of people who could not be found.",
+      "start_ms": 228577,
+      "end_ms": 232080
+    },
+    {
+      "index": 43,
+      "text": "Letters posted after the person who wrote them had died.",
+      "start_ms": 232080,
+      "end_ms": 235848
+    },
+    {
+      "index": 44,
+      "text": "Letters returned so many times the postmarks were unreadable.",
+      "start_ms": 235848,
+      "end_ms": 239946
+    },
+    {
+      "index": 45,
+      "text": "The post office threw most such letters away.",
+      "start_ms": 239946,
+      "end_ms": 242986
+    },
+    {
+      "index": 46,
+      "text": "But some — the older ones especially, the ones from before the wars, the ones that seemed to have some historical value — some, they sent to the library.",
+      "start_ms": 242986,
+      "end_ms": 253165
+    },
+    {
+      "index": 47,
+      "text": "Because sometimes, a hundred years later, a letter about a bakery in 1885 becomes useful to a historian.",
+      "start_ms": 253165,
+      "end_ms": 260105
+    },
+    {
+      "index": 48,
+      "text": "So we kept them.",
+      "start_ms": 260105,
+      "end_ms": 261228
+    },
+    {
+      "index": 49,
+      "text": "In this room.",
+      "start_ms": 261228,
+      "end_ms": 262153
+    },
+    {
+      "index": 50,
+      "text": "Nobody catalogs them.",
+      "start_ms": 262153,
+      "end_ms": 263608
+    },
+    {
+      "index": 51,
+      "text": "There are perhaps eight thousand.\"",
+      "start_ms": 263608,
+      "end_ms": 265987
+    },
+    {
+      "index": 52,
+      "text": "Silvia went to a shelf and took down one of the shallow wooden boxes.",
+      "start_ms": 265987,
+      "end_ms": 270614
+    },
+    {
+      "index": 53,
+      "text": "She set it on the table between them.",
+      "start_ms": 270614,
+      "end_ms": 273125
+    },
+    {
+      "index": 54,
+      "text": "She lifted the lid.",
+      "start_ms": 273125,
+      "end_ms": 274447
+    },
+    {
+      "index": 55,
+      "text": "Inside, in a soft-edged neat stack, were perhaps a hundred and fifty envelopes.",
+      "start_ms": 274447,
+      "end_ms": 279735
+    },
+    {
+      "index": 56,
+      "text": "They were pale brown with age.",
+      "start_ms": 279735,
+      "end_ms": 281784
+    },
+    {
+      "index": 57,
+      "text": "The ink on them was faded to soft grey and rusty red.",
+      "start_ms": 281784,
+      "end_ms": 285353
+    },
+    {
+      "index": 58,
+      "text": "She said, \"This is one of the older boxes.",
+      "start_ms": 285353,
+      "end_ms": 288195
+    },
+    {
+      "index": 59,
+      "text": "Everything in here is from before nineteen hundred.",
+      "start_ms": 288195,
+      "end_ms": 291632
+    },
+    {
+      "index": 60,
+      "text": "Some from the eighteen-seventies.",
+      "start_ms": 291632,
+      "end_ms": 293879
+    },
+    {
+      "index": 61,
+      "text": "Some later.",
+      "start_ms": 293879,
+      "end_ms": 294672
+    },
+    {
+      "index": 62,
+      "text": "But nothing after eighteen ninety-nine.",
+      "start_ms": 294672,
+      "end_ms": 297316
+    },
+    {
+      "index": 63,
+      "text": "I chose this box for you because it is old enough to be safely from a peaceful time.\" She said this last part with a small sideways look at Kristjan, and he understood that she meant, before the wars — before the terrible things happened in this country in the twentieth century.",
+      "start_ms": 297316,
+      "end_ms": 315822
+    },
+    {
+      "index": 64,
+      "text": "He understood that Silvia was being kind by choosing this box.",
+      "start_ms": 315822,
+      "end_ms": 319920
+    },
+    {
+      "index": 65,
+      "text": "\"For fifty years,\" Silvia said, \"since I was your mother's age and I first came to work at this library as a young woman, I have believed that some of these letters could still find their people.",
+      "start_ms": 319920,
+      "end_ms": 331234
+    },
+    {
+      "index": 66,
+      "text": "That the descendants of the people they were meant for are still here, in Estonia, or elsewhere in the world.",
+      "start_ms": 331234,
+      "end_ms": 337584
+    },
+    {
+      "index": 67,
+      "text": "That if you took the time to trace, you could find them.",
+      "start_ms": 337584,
+      "end_ms": 340875
+    },
+    {
+      "index": 68,
+      "text": "I have believed this.",
+      "start_ms": 340875,
+      "end_ms": 342145
+    },
+    {
+      "index": 69,
+      "text": "I have never actually tried.",
+      "start_ms": 342145,
+      "end_ms": 343819
+    },
+    {
+      "index": 70,
+      "text": "Fifty years and I have never delivered a single letter.",
+      "start_ms": 343819,
+      "end_ms": 347051
+    },
+    {
+      "index": 71,
+      "text": "Not one.\" She looked at him.",
+      "start_ms": 347051,
+      "end_ms": 348725
+    },
+    {
+      "index": 72,
+      "text": "\"I don't quite know why.",
+      "start_ms": 348725,
+      "end_ms": 350168
+    },
+    {
+      "index": 73,
+      "text": "But I think we might try one this week.",
+      "start_ms": 350168,
+      "end_ms": 352478
+    },
+    {
+      "index": 74,
+      "text": "If you are willing.\" And Kristjan, who was ten and slightly afraid of what he had just been handed, nodded, because he could not think of any reason to say no.",
+      "start_ms": 352478,
+      "end_ms": 361656
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "story_id": "keeper-of-glass",
+  "chapter": 1,
+  "total_duration_ms": 351360,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Elena's parents were getting divorced.",
+      "start_ms": 1579,
+      "end_ms": 4041
+    },
+    {
+      "index": 1,
+      "text": "She was eleven.",
+      "start_ms": 4041,
+      "end_ms": 5052
+    },
+    {
+      "index": 2,
+      "text": "They had told her three weeks before at the kitchen table, both of them together, in the practiced calm voice adults used when they had rehearsed the words.",
+      "start_ms": 5052,
+      "end_ms": 14966
+    },
+    {
+      "index": 3,
+      "text": "It was not her fault.",
+      "start_ms": 14966,
+      "end_ms": 16355
+    },
+    {
+      "index": 4,
+      "text": "They still both loved her.",
+      "start_ms": 16355,
+      "end_ms": 18060
+    },
+    {
+      "index": 5,
+      "text": "They would work it out.",
+      "start_ms": 18060,
+      "end_ms": 19575
+    },
+    {
+      "index": 6,
+      "text": "That was what they had said.",
+      "start_ms": 19575,
+      "end_ms": 21406
+    },
+    {
+      "index": 7,
+      "text": "Then, in the next three weeks, they had done nothing but disagree — quietly, in the next room, when they thought she could not hear — and Elena had stopped sleeping through the night, and her mother had said, one Sunday, \"I think you should go stay with Aunt Chiara on Murano for a few weeks.",
+      "start_ms": 21406,
+      "end_ms": 39908
+    },
+    {
+      "index": 8,
+      "text": "Just to be somewhere.",
+      "start_ms": 39908,
+      "end_ms": 41297
+    },
+    {
+      "index": 9,
+      "text": "Just to be away from this.\" And Elena had said yes.",
+      "start_ms": 41297,
+      "end_ms": 44644
+    },
+    {
+      "index": 10,
+      "text": "Aunt Chiara was not really her aunt.",
+      "start_ms": 44644,
+      "end_ms": 46980
+    },
+    {
+      "index": 11,
+      "text": "She was a very old friend of Elena's mother — they had been at school together in Padua when they were girls.",
+      "start_ms": 46980,
+      "end_ms": 53926
+    },
+    {
+      "index": 12,
+      "text": "Chiara lived alone on Murano and had for forty years.",
+      "start_ms": 53926,
+      "end_ms": 57336
+    },
+    {
+      "index": 13,
+      "text": "She was a glassblower — a maestra vetraia — which meant she was one of the master glassblowers of Murano, an old title, a serious one.",
+      "start_ms": 57336,
+      "end_ms": 65861
+    },
+    {
+      "index": 14,
+      "text": "She had never had children of her own.",
+      "start_ms": 65861,
+      "end_ms": 68324
+    },
+    {
+      "index": 15,
+      "text": "She was sixty-two years old.",
+      "start_ms": 68324,
+      "end_ms": 70155
+    },
+    {
+      "index": 16,
+      "text": "Elena had met her only twice before in her life, at family occasions, and both times she had been friendly but quiet, with white hair pulled back very neatly and hands that were dark and rough from her work.",
+      "start_ms": 70155,
+      "end_ms": 83352
+    },
+    {
+      "index": 17,
+      "text": "Elena took the train and then the vaporetto and then a smaller boat to Murano, and she found Chiara's house exactly where her mother had said — on a small canal, a pale-pink stucco building, three floors, with iron shutters.",
+      "start_ms": 83352,
+      "end_ms": 97560
+    },
+    {
+      "index": 18,
+      "text": "Chiara opened the door.",
+      "start_ms": 97560,
+      "end_ms": 99075
+    },
+    {
+      "index": 19,
+      "text": "She looked at Elena for a moment.",
+      "start_ms": 99075,
+      "end_ms": 101222
+    },
+    {
+      "index": 20,
+      "text": "She said, quietly, \"Come in.",
+      "start_ms": 101222,
+      "end_ms": 103054
+    },
+    {
+      "index": 21,
+      "text": "Your mother said you were coming.",
+      "start_ms": 103054,
+      "end_ms": 105201
+    },
+    {
+      "index": 22,
+      "text": "I have made you a small lunch.",
+      "start_ms": 105201,
+      "end_ms": 107158
+    },
+    {
+      "index": 23,
+      "text": "Bring your bag.\" She did not hug Elena.",
+      "start_ms": 107158,
+      "end_ms": 109684
+    },
+    {
+      "index": 24,
+      "text": "She did not ask how the trip had been.",
+      "start_ms": 109684,
+      "end_ms": 112147
+    },
+    {
+      "index": 25,
+      "text": "She just brought her inside.",
+      "start_ms": 112147,
+      "end_ms": 113978
+    },
+    {
+      "index": 26,
+      "text": "Elena was oddly grateful for this.",
+      "start_ms": 113978,
+      "end_ms": 116188
+    },
+    {
+      "index": 27,
+      "text": "She had been afraid Chiara would want to talk about the divorce.",
+      "start_ms": 116188,
+      "end_ms": 120292
+    },
+    {
+      "index": 28,
+      "text": "Chiara did not seem to want to talk about it at all.",
+      "start_ms": 120292,
+      "end_ms": 123576
+    },
+    {
+      "index": 29,
+      "text": "The house was small and completely full of glass.",
+      "start_ms": 123576,
+      "end_ms": 126931
+    },
+    {
+      "index": 30,
+      "text": "Every shelf, every table, every windowsill had glass objects on it.",
+      "start_ms": 126931,
+      "end_ms": 131494
+    },
+    {
+      "index": 31,
+      "text": "Small bowls in colors Elena had not known existed.",
+      "start_ms": 131494,
+      "end_ms": 134916
+    },
+    {
+      "index": 32,
+      "text": "Long thin vases that looked like frozen water.",
+      "start_ms": 134916,
+      "end_ms": 138069
+    },
+    {
+      "index": 33,
+      "text": "A whole collection of small glass animals — a cat, a bird, a horse, a fish.",
+      "start_ms": 138069,
+      "end_ms": 143169
+    },
+    {
+      "index": 34,
+      "text": "Even the light fixtures were glass.",
+      "start_ms": 143169,
+      "end_ms": 145585
+    },
+    {
+      "index": 35,
+      "text": "Elena had not known so much glass could exist in one place.",
+      "start_ms": 145585,
+      "end_ms": 149611
+    },
+    {
+      "index": 36,
+      "text": "Chiara noticed her looking.",
+      "start_ms": 149611,
+      "end_ms": 151489
+    },
+    {
+      "index": 37,
+      "text": "She said, \"Most of it I made.",
+      "start_ms": 151489,
+      "end_ms": 153502
+    },
+    {
+      "index": 38,
+      "text": "Some of it my teacher made.",
+      "start_ms": 153502,
+      "end_ms": 155381
+    },
+    {
+      "index": 39,
+      "text": "A few pieces are from friends.",
+      "start_ms": 155381,
+      "end_ms": 157461
+    },
+    {
+      "index": 40,
+      "text": "I have been doing this for forty years.",
+      "start_ms": 157461,
+      "end_ms": 160145
+    },
+    {
+      "index": 41,
+      "text": "Every year some pieces stay.",
+      "start_ms": 160145,
+      "end_ms": 162091
+    },
+    {
+      "index": 42,
+      "text": "They accumulate.",
+      "start_ms": 162091,
+      "end_ms": 163232
+    },
+    {
+      "index": 43,
+      "text": "Come.",
+      "start_ms": 163232,
+      "end_ms": 163634
+    },
+    {
+      "index": 44,
+      "text": "Lunch.\"",
+      "start_ms": 163634,
+      "end_ms": 164238
+    },
+    {
+      "index": 45,
+      "text": "They ate a small simple meal at the kitchen table.",
+      "start_ms": 164238,
+      "end_ms": 167660
+    },
+    {
+      "index": 46,
+      "text": "Boiled eggs.",
+      "start_ms": 167660,
+      "end_ms": 168533
+    },
+    {
+      "index": 47,
+      "text": "Bread.",
+      "start_ms": 168533,
+      "end_ms": 169002
+    },
+    {
+      "index": 48,
+      "text": "Olive oil.",
+      "start_ms": 169002,
+      "end_ms": 169740
+    },
+    {
+      "index": 49,
+      "text": "Tomatoes.",
+      "start_ms": 169740,
+      "end_ms": 170411
+    },
+    {
+      "index": 50,
+      "text": "Chiara ate slowly.",
+      "start_ms": 170411,
+      "end_ms": 171686
+    },
+    {
+      "index": 51,
+      "text": "She did not ask Elena much.",
+      "start_ms": 171686,
+      "end_ms": 173565
+    },
+    {
+      "index": 52,
+      "text": "She said, \"You will sleep in the small room at the top.",
+      "start_ms": 173565,
+      "end_ms": 177323
+    },
+    {
+      "index": 53,
+      "text": "It is quiet.",
+      "start_ms": 177323,
+      "end_ms": 178195
+    },
+    {
+      "index": 54,
+      "text": "The window looks at the canal.",
+      "start_ms": 178195,
+      "end_ms": 180275
+    },
+    {
+      "index": 55,
+      "text": "If you need anything, ask me.",
+      "start_ms": 180275,
+      "end_ms": 182288
+    },
+    {
+      "index": 56,
+      "text": "If you do not want to ask, there is bread and butter always.",
+      "start_ms": 182288,
+      "end_ms": 186381
+    },
+    {
+      "index": 57,
+      "text": "Eat when you are hungry.",
+      "start_ms": 186381,
+      "end_ms": 188059
+    },
+    {
+      "index": 58,
+      "text": "If you need to cry, cry.",
+      "start_ms": 188059,
+      "end_ms": 189736
+    },
+    {
+      "index": 59,
+      "text": "If you need to be quiet, be quiet.",
+      "start_ms": 189736,
+      "end_ms": 192085
+    },
+    {
+      "index": 60,
+      "text": "I am the same.",
+      "start_ms": 192085,
+      "end_ms": 193091
+    },
+    {
+      "index": 61,
+      "text": "I will not bother you.\"",
+      "start_ms": 193091,
+      "end_ms": 194769
+    },
+    {
+      "index": 62,
+      "text": "Elena nodded.",
+      "start_ms": 194769,
+      "end_ms": 195708
+    },
+    {
+      "index": 63,
+      "text": "She did not know what to say.",
+      "start_ms": 195708,
+      "end_ms": 197721
+    },
+    {
+      "index": 64,
+      "text": "Chiara said, \"Tomorrow morning I go to the workshop at six.",
+      "start_ms": 197721,
+      "end_ms": 201747
+    },
+    {
+      "index": 65,
+      "text": "If you want to come, come.",
+      "start_ms": 201747,
+      "end_ms": 203559
+    },
+    {
+      "index": 66,
+      "text": "If you want to sleep, sleep.",
+      "start_ms": 203559,
+      "end_ms": 205504
+    },
+    {
+      "index": 67,
+      "text": "It is up to you.",
+      "start_ms": 205504,
+      "end_ms": 206645
+    },
+    {
+      "index": 68,
+      "text": "There is no rule about what a guest does here.",
+      "start_ms": 206645,
+      "end_ms": 209799
+    },
+    {
+      "index": 69,
+      "text": "My only rule is that you eat.\" Elena said, \"I would like to come to the workshop.\" Chiara nodded.",
+      "start_ms": 209799,
+      "end_ms": 216375
+    },
+    {
+      "index": 70,
+      "text": "She said, \"Then I will wake you at five-thirty.",
+      "start_ms": 216375,
+      "end_ms": 219595
+    },
+    {
+      "index": 71,
+      "text": "Do you drink coffee.\" Elena said, \"No.",
+      "start_ms": 219595,
+      "end_ms": 222212
+    },
+    {
+      "index": 72,
+      "text": "I am eleven.\" Chiara said, \"Ah.",
+      "start_ms": 222212,
+      "end_ms": 224359
+    },
+    {
+      "index": 73,
+      "text": "Then I will make you tea.\"",
+      "start_ms": 224359,
+      "end_ms": 226104
+    },
+    {
+      "index": 74,
+      "text": "The workshop was in a separate building down the canal.",
+      "start_ms": 226104,
+      "end_ms": 229865
+    },
+    {
+      "index": 75,
+      "text": "It was one large stone-walled room with a great stone furnace in the center.",
+      "start_ms": 229865,
+      "end_ms": 235036
+    },
+    {
+      "index": 76,
+      "text": "When Elena walked in, at just after six in the morning, the heat from the furnace hit her like a wall.",
+      "start_ms": 235036,
+      "end_ms": 241954
+    },
+    {
+      "index": 77,
+      "text": "The mouth of the furnace glowed orange.",
+      "start_ms": 241954,
+      "end_ms": 244641
+    },
+    {
+      "index": 78,
+      "text": "Around the room were long metal pipes hanging on racks, wooden and metal tools laid out on a workbench, wooden benches shaped like slides where a glassblower sat to work, and a small bucket of water for cooling.",
+      "start_ms": 244641,
+      "end_ms": 258946
+    },
+    {
+      "index": 79,
+      "text": "\"The furnace burns at 1200 degrees,\" Chiara said.",
+      "start_ms": 258946,
+      "end_ms": 262304
+    },
+    {
+      "index": 80,
+      "text": "She was already at the wall pulling on a leather apron.",
+      "start_ms": 262304,
+      "end_ms": 266065
+    },
+    {
+      "index": 81,
+      "text": "\"It burns like this twenty-four hours a day.",
+      "start_ms": 266065,
+      "end_ms": 269087
+    },
+    {
+      "index": 82,
+      "text": "If we let it cool down, it would take three days to heat back up.",
+      "start_ms": 269087,
+      "end_ms": 273520
+    },
+    {
+      "index": 83,
+      "text": "So we do not let it cool down, ever.",
+      "start_ms": 273520,
+      "end_ms": 276005
+    },
+    {
+      "index": 84,
+      "text": "It has been burning without stopping for eleven months.",
+      "start_ms": 276005,
+      "end_ms": 279766
+    },
+    {
+      "index": 85,
+      "text": "When the winter comes, we shut down for a month, we rebuild the inside, and then we relight it.",
+      "start_ms": 279766,
+      "end_ms": 286213
+    },
+    {
+      "index": 86,
+      "text": "That is the rhythm.\"",
+      "start_ms": 286213,
+      "end_ms": 287691
+    },
+    {
+      "index": 87,
+      "text": "Chiara showed her what she was going to do that morning.",
+      "start_ms": 287691,
+      "end_ms": 291519
+    },
+    {
+      "index": 88,
+      "text": "She was making a small blue bowl for a customer in Milan.",
+      "start_ms": 291519,
+      "end_ms": 295415
+    },
+    {
+      "index": 89,
+      "text": "\"Watch,\" she said.",
+      "start_ms": 295415,
+      "end_ms": 296691
+    },
+    {
+      "index": 90,
+      "text": "She took a long steel pipe and pushed one end into a pot of molten glass inside the furnace.",
+      "start_ms": 296691,
+      "end_ms": 302937
+    },
+    {
+      "index": 91,
+      "text": "She turned the pipe slowly.",
+      "start_ms": 302937,
+      "end_ms": 304817
+    },
+    {
+      "index": 92,
+      "text": "When she brought it out, there was a small glowing orange lump of glass on the end of the pipe.",
+      "start_ms": 304817,
+      "end_ms": 311265
+    },
+    {
+      "index": 93,
+      "text": "She sat at one of the wooden benches.",
+      "start_ms": 311265,
+      "end_ms": 313817
+    },
+    {
+      "index": 94,
+      "text": "She rolled the pipe on the bench arms with both hands.",
+      "start_ms": 313817,
+      "end_ms": 317511
+    },
+    {
+      "index": 95,
+      "text": "The glass began to take shape.",
+      "start_ms": 317511,
+      "end_ms": 319593
+    },
+    {
+      "index": 96,
+      "text": "She blew — one long slow breath — into her end of the pipe.",
+      "start_ms": 319593,
+      "end_ms": 323622
+    },
+    {
+      "index": 97,
+      "text": "The glass on the far end bubbled outward slowly.",
+      "start_ms": 323622,
+      "end_ms": 326913
+    },
+    {
+      "index": 98,
+      "text": "She turned it.",
+      "start_ms": 326913,
+      "end_ms": 327921
+    },
+    {
+      "index": 99,
+      "text": "She blew again.",
+      "start_ms": 327921,
+      "end_ms": 328995
+    },
+    {
+      "index": 100,
+      "text": "The glass was becoming a small hollow ball.",
+      "start_ms": 328995,
+      "end_ms": 332018
+    },
+    {
+      "index": 101,
+      "text": "Elena had never seen this before.",
+      "start_ms": 332018,
+      "end_ms": 334301
+    },
+    {
+      "index": 102,
+      "text": "She had seen glass — everyone had seen glass — but she had not really understood what it was made of, or how.",
+      "start_ms": 334301,
+      "end_ms": 341689
+    },
+    {
+      "index": 103,
+      "text": "It was like watching a person blow a soap bubble that was slowly turning into an object.",
+      "start_ms": 341689,
+      "end_ms": 347666
+    },
+    {
+      "index": 104,
+      "text": "It was slow.",
+      "start_ms": 347666,
+      "end_ms": 348539
+    },
+    {
+      "index": 105,
+      "text": "It was beautiful.",
+      "start_ms": 348539,
+      "end_ms": 349748
+    },
+    {
+      "index": 106,
+      "text": "It was completely alive.",
+      "start_ms": 349748,
+      "end_ms": 351360
+    }
+  ]
+}

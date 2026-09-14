@@ -1,0 +1,199 @@
+{
+  "id": "lantern-keeper",
+  "title": "The Lantern Keeper",
+  "subtitle": "A Craighold Point Adventure",
+  "author": null,
+  "summary": "When a storm knocks out the lighthouse and a ferry is heading for the rocks, Milo has to climb the tower alone. What he finds up there is a note from his great-grandmother, written in another storm sixty years ago.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-lantern-keeper-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat warm shadows. Composition: an 11-year-old boy named Milo standing at the base of a tall stone lighthouse on a small rocky island in Scotland, storm clouds gathering behind, waves crashing against the rocks. The lighthouse lamp at the top is dark. Warm amber light spills from the small keeper's cottage attached to the base. Yellow-gold accent color throughout the sky. Character positioned lower-center, filling roughly 35% of frame height. Keep 100px safety padding on all sides. Mood: brave and quiet, not frightening. DO NOT include text or title.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2026-08-13",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Storm",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "The wind came in from the west, the way it always did, but this time it did not stop.",
+            "Milo had lived on Craighold Point his whole life, and he knew the difference between a bad wind and a bad storm. A bad wind rattled the shutters. A bad storm made the whole lighthouse hum, low and deep, like a bell that would not stop ringing.",
+            "This one had been humming for an hour."
+          ],
+          "image": "ln-ch1-p1-storm-arrives",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small Scottish lighthouse at dusk, dark clouds spiraling in from the sea, first heavy raindrops hitting the rocks. The lighthouse windows glow warm gold against the deepening storm. A silhouette of a boy visible in a lower window looking out. Heavy black inks, warm amber and slate blue palette."
+        },
+        {
+          "paragraphs": [
+            "His father was up in the lamp room, checking the mechanism for the tenth time that day. His mother sat by the radio, one hand on the dial, listening.",
+            "\"Ferry from Oban is running late,\" she said quietly, when Milo came in from the yard. \"Should be passing us in about three hours. Twelve people aboard.\"",
+            "Milo nodded. He knew the ferry. It came past Craighold Point twice a week, and in weather like this, the lighthouse was the only thing that told the captain where the rocks began and the safe water ended."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "There was a shout from above, and then a heavier sound — a thump, followed by a slower, sliding noise, like someone easing themselves down a set of stairs while trying not to fall.",
+            "Milo's mother was on her feet before Milo understood what he was hearing.",
+            "His father came down slowly. His left arm was held very close to his chest, at a wrong angle. His face was the color of old paper.",
+            "\"The lamp,\" he said. \"The bulb has gone. And when I tried to reach the spare — I slipped.\""
+          ],
+          "image": "ln-ch1-p3-father-hurt",
+          "imagePrompt": "Mike Mignola style for children: interior of a lighthouse keeper's cottage. A tall man (Milo's father) at the bottom of a spiral staircase, cradling his left arm awkwardly against his chest, face pale. Milo's mother reaching to help him. Milo (11) standing behind, watching with wide eyes. Warm lamp light from a table lamp, wind rattling a window in the corner. Heavy black inks, warm interior tones."
+        },
+        {
+          "paragraphs": [
+            "Milo's mother helped his father to a chair. She examined the arm. Not broken, she thought. But he could not lift it, and he certainly could not climb the tower.",
+            "\"I can go up,\" said Milo.",
+            "His parents looked at him. His father opened his mouth to say no, then closed it again. Outside, the wind pushed against the walls of the cottage as if it wanted to come in."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "\"There should be a spare bulb in the box on the top landing,\" his father said. \"If there isn't — if the spares are gone —\" He stopped.",
+            "Milo already knew. If the spares were gone, the ferry would come around the point in the dark, and the captain would not know where the rocks were, and there were twelve people on that ferry.",
+            "The radio crackled softly. His mother tried the dial. It hissed and went dead.",
+            "\"The antenna is down,\" she said. \"We can't warn them either way.\"",
+            "Milo put on his father's yellow oilskin coat. It was too big. It came down almost to his ankles. He took the storm lantern from the hook by the door.",
+            "The staircase went up and up and up, and the wind was already inside it."
+          ],
+          "image": "ln-ch1-p5-climbing",
+          "imagePrompt": "Mike Mignola style for children: view up a long spiral iron staircase inside a lighthouse tower, seen from below. A small figure in an oversized yellow oilskin coat climbing, holding a storm lantern. Wind visible through gaps in the tower windows, rain streaking the glass. Heavy black inks, cold blue and warm gold accents. Sense of great height, but the small figure looks determined, not scared."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Great-Grandmother's Note",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "The lamp room at the top of the tower was cold and glass-walled and impossibly loud.",
+            "Milo pushed open the metal box marked SPARE PARTS. He counted the bulbs inside. There were none. There were only three empty cardboard sleeves and a note in his father's handwriting: ORDER MORE.",
+            "The order had not come yet.",
+            "Milo sat down on the metal floor for one full minute, because his legs would not hold him up. Then he stood up again, because sitting was not going to help the twelve people on the ferry."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "He thought about the old oil lantern in the cellar.",
+            "His father had shown it to him once, years ago, when Milo had been small enough to hide inside the coil of rope in the corner of the storeroom. \"That's the emergency lantern,\" his father had said. \"From the old days. Before we had electric lamps up top. Nobody's used it since — well, since your great-grandmother's time.\"",
+            "Milo went back down the stairs. He was faster on the way down. Fear made you slow going up and quick going back."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The cellar was cold and smelled of salt and old wood. The oil lantern was there, on a shelf, exactly where his father had said. Milo took it down.",
+            "Underneath it, tucked between the lantern and the wall, was a small wooden box. Milo had never noticed it before.",
+            "He opened it.",
+            "Inside were three things: a small brass tin of lamp oil, still sealed. A folded piece of paper. And, wrapped in cloth, a folded silver rectangle about the size of his hand."
+          ],
+          "image": "ln-ch2-p3-finding-box",
+          "imagePrompt": "Mike Mignola style for children: close-up of hands (a boy's hands) opening an old wooden box in a dim cellar. Inside: a small brass oil tin, a folded yellowed letter, and something wrapped in dark cloth. A warm handheld lantern lights the scene from above-left. Heavy black inks, sepia and brass tones."
+        },
+        {
+          "paragraphs": [
+            "He unfolded the paper. The handwriting was old-fashioned, but clear.",
+            "It said:",
+            "March 1962. The lamp went out in the great storm, and the electric wires were down. I climbed with the oil lantern but it was too weak to be seen from the sea. I remembered my father's trick with the silver plates. If you find this in another storm someday, I hope it helps you as it helped the boat that night. Set the plates behind the lantern in a curve, and every bit of light you have will be doubled and thrown outward. — Isla Bell, keeper's daughter."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Milo unwrapped the silver rectangle. It was one plate — a hammered silver mirror, small enough to hold in one hand.",
+            "One plate.",
+            "The note said plates. Plural.",
+            "Milo looked around the cellar. The other silver plates were not here. His great-grandmother had used them and put them somewhere, and then years had passed and years and years, and now Milo was standing in the same cellar in another storm and he did not know where the plates were.",
+            "Outside, the wind rose to a new pitch, and Milo heard it now for what it was — the sound the wind makes right before a ship is about to come into view."
+          ],
+          "image": null,
+          "imagePrompt": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Silver Signal",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "Milo ran back upstairs, oil lantern in one hand, single silver plate in the other. He put both on the table by the door and looked at his father.",
+            "\"Silver plates,\" he said. \"Great-grandmother Isla used silver plates behind an oil lantern. There's only one plate in the cellar. Where are the others?\"",
+            "His father's eyes went wide. Then narrowed, the way they did when he was remembering something from a long way back.",
+            "\"The old parlor,\" he said. \"On the wall. She hung them like decorations, so nobody would move them. I never — I never thought to look.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The old parlor was a small room at the back of the cottage that nobody used anymore. There were three framed pictures on the wall. Milo had walked past them a thousand times without ever seeing them properly.",
+            "They were not pictures at all. They were silver plates, hammered and polished, mounted in wooden frames.",
+            "Milo took them down. Three of them. Together with the one from the cellar, that was four.",
+            "He carried them up the tower with the lantern balanced on top like a stack of dinner things, and every time the wind hit the tower he thought the whole stack was going to fall."
+          ],
+          "image": "ln-ch3-p2-carrying-mirrors",
+          "imagePrompt": "Mike Mignola style for children: a boy in an oversized yellow oilskin climbing a spiral staircase carefully, carrying four framed silver mirror plates stacked like plates with an oil lantern balanced on top. Wind whistling through the tower. Heavy black inks, warm golden lantern light against cold stone."
+        },
+        {
+          "paragraphs": [
+            "In the lamp room, Milo set the plates on the floor and lit the oil lantern with a match. The flame was small. It looked hopeless.",
+            "He arranged the plates in a curve behind the lantern, the way Isla's note had said. Silver caught the flame. Silver doubled it, and doubled it again, and threw it back and forward and out through the glass wall of the lamp room. Not as bright as the electric lamp had been. Not close.",
+            "But visible.",
+            "Milo pressed his face against the glass and looked out across the black sea."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "There. A dark shape, low and long, coming out of the rain about a mile off. The ferry from Oban. It was tracking straight for the north face of Craighold Point — straight for the rocks.",
+            "Milo watched. He held his breath.",
+            "The dark shape kept coming.",
+            "Then, slowly, it began to turn."
+          ],
+          "image": "ln-ch3-p4-ferry-turning",
+          "imagePrompt": "Mike Mignola style for children: view from inside the top of a lighthouse, out through a rain-streaked glass wall. The silver mirrors and oil lantern glow warm in the foreground. Beyond, on a black stormy sea, a distant ferry can be seen beginning to turn away from a jagged rock formation, guided by the faint light. Heavy black inks, warm gold in the foreground, cold blue in the background. Hopeful mood."
+        },
+        {
+          "paragraphs": [
+            "The captain of the ferry, later, said he had seen a strange light. Not the usual lighthouse beam, but something softer. Something that shimmered.",
+            "\"It flickered like a candle,\" he told Milo's father, standing in the cottage the next morning with rain still on his coat. \"I have been sailing these waters for thirty years, and I have never seen a light like that. But it was enough. It was enough to know where I was.\"",
+            "Milo, sitting at the kitchen table with a mug of hot tea, did not say anything.",
+            "His mother had put Isla's note in a new frame. It hung on the wall above the radio, where the pictures used to be."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "That afternoon Milo's father, still bandaged, went into the cellar and got the small wooden box down from the shelf.",
+            "He took a fresh piece of paper. He wrote on it for a long time in his careful, slow handwriting. Then he folded it, put it in the box, and set the box back on the shelf, next to the oil lantern.",
+            "Milo watched him. \"What did you write?\"",
+            "His father smiled. It was tired and it was proud.",
+            "\"I wrote the same kind of note Isla wrote,\" he said. \"For whoever comes next.\""
+          ],
+          "image": "ln-ch3-p6-passing-it-on",
+          "imagePrompt": "Mike Mignola style for children: warm kitchen scene the morning after the storm. Milo's father (arm in a sling) placing a small wooden box on a cellar shelf next to an old oil lantern. Milo watching from the doorway. Soft morning light coming through a small window. Heavy black inks, warm honey and sepia tones. Peaceful, generational feeling."
+        }
+      ]
+    }
+  ]
+}

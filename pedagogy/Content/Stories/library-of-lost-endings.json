@@ -1,0 +1,175 @@
+{
+  "id": "library-of-lost-endings",
+  "title": "The Library of Lost Endings",
+  "subtitle": "A Book Town Winter",
+  "author": null,
+  "summary": "Iona is ten and lives in Wigtown, the small book town in southwest Scotland. Every winter she volunteers at the town's oldest secondhand bookshop, sorting through the boxes of donated books. One January, in a box of very old novels from a farmhouse estate, she finds seven books that have all had their last chapter torn out. The young librarian in the shop is not surprised. She has been watching for these books for years.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-library-of-lost-endings-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old girl (Iona) with red-brown hair in two braids, wearing a heavy dark wool jumper, kneeling on the wooden floor of a very crowded old bookshop surrounded by tall dark wood bookshelves. In front of her is an open cardboard box of very old leatherbound books. She holds one open book in her hands, its final pages clearly torn out — you can see the ragged edge. A young woman (Rosa, mid-twenties, dark hair pulled back, cardigan) crouches beside her, looking at the torn book with quiet recognition. A window behind them shows a grey Galloway winter sky. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), sepia old books and wood, deep ink outlines, small dusty rose (#FF5B8D) accent on Iona's cheeks. Small margin at top and bottom for card padding.",
+  "category": "mystery",
+  "isPremium": true,
+  "publishedAt": "2027-04-22",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Box from the Farmhouse",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ll-ch1-p1-wigtown",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the small town of Wigtown in southwest Scotland. A modest main square with old stone buildings, several of them clearly bookshops with painted signs. Grey overcast winter sky. A girl (Iona, 10, red-brown braids, wool jumper, small satchel) walks up the main street. Heavy black ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Iona lived in the small Scottish town of Wigtown, in the southwest, in a region called Galloway. Wigtown was famous, in a small way, for one thing — it was Scotland's official book town. That meant that of the maybe eight hundred people who lived there, quite a lot of them ran secondhand bookshops. There were thirteen bookshops in the town square, or nearby, at any given time. It was, an old writer had once said, the sort of place where a book could go to be old, and nobody would think that was sad.",
+            "Iona was ten. Her father worked at the primary school. Her mother worked at a farm shop on the edge of town. Iona had grown up in the bookshops. She could not remember a time when she had not spent afternoons and Saturdays and school holidays sitting in one shop or another, reading. She was allowed in all of them — the shopkeepers all knew her, and they let her have run of any book she could reach. She had probably read a thousand books by the time she was ten. She was also, unofficially, a volunteer at the oldest bookshop in the town, which was called ByreBooks and had been in the same stone building for a hundred and forty years."
+          ]
+        },
+        {
+          "image": "ll-ch1-p2-shop",
+          "imagePrompt": "Mike Mignola style for children: interior view of the bookshop. Warm dark wood shelves floor to ceiling. Piles of books on every surface. A small wood-burning stove in one corner. A young woman (Rosa, mid-twenties, dark hair pulled back, glasses, cardigan) stands on a small stepladder shelving books. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold.",
+          "paragraphs": [
+            "The bookshop was run, at that time, by a young woman named Rosa. Rosa had been at the shop for maybe three years. She was in her mid-twenties. She had short dark hair pulled back and small wire spectacles and a habit of wearing large soft cardigans in colors that reminded Iona of tea. She was quiet — she talked when she had something to say, and otherwise she was silent. She had learned the trade from the previous owner, an old man named Angus, who had died two years before Iona was born but whose photograph still hung on the wall above the till.",
+            "In January, Iona went to ByreBooks almost every day after school. It was cold, and the shop had a small wood-burning stove in the back corner, and there was always tea, and there was always sorting to do — the shop received donations of books all winter, especially from the estates of people who had died over the winter. Rosa let Iona help sort them. It was Iona's favorite thing in the world."
+          ]
+        },
+        {
+          "image": "ll-ch1-p3-box",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Rosa (mid-twenties) has just carried a large heavy cardboard box into the back of the shop and set it down on the floor. She turns to Iona (10) who is kneeling nearby. Rosa points at the box. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On a Wednesday afternoon in the second week of January, Rosa carried in a large heavy cardboard box from the back door. She set it down on the floor in front of Iona. She said, \"This one came in this morning. From the Balfour farmhouse. Old Mrs. Balfour died last month. Her daughter is clearing the house. Take a look. Have fun.\" And Rosa went back to the front of the shop.",
+            "Iona opened the box. Old books. Real old ones — leatherbound, cloth-covered, their pages the color of tea. She loved these best. She took them out one by one. She checked each spine for the title. Some were novels she had heard of — an old edition of David Copperfield, a very old edition of Middlemarch. Some she had not — she took a small breath every time she found a book she did not know, because it might be something wonderful. She set them in small piles on the floor around her — sort by size, then by binding, then by whether they were fiction or not."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "She was halfway through the box when she noticed the first one. A leather-bound copy of a book she had never heard of — Cecil Wray, a novel from 1889, by an author she also did not know. She opened it to check the condition. The pages were good. The spine was tight. She thumbed through it toward the back to see how long it was. And then she noticed. The last chapter was gone. Not damaged. Not stained. Torn out cleanly. There were four ragged pages at the very back where a whole final chapter had been removed. The book ended, in mid-sentence, on the last surviving page: \"And so with a heavy heart she turned toward the door, and\" — and then nothing. The final chapter, whatever it had said, was missing.",
+            "Iona thought this was strange. She set the book aside. She went on. Ten minutes later she found another one. A different novel — Under the Long Hills, 1902. Same thing. Last chapter torn out. She checked. Same ragged pattern. Someone had used their hands, not a knife. She set it aside with the first."
+          ]
+        },
+        {
+          "image": "ll-ch1-p5-seven",
+          "imagePrompt": "Mike Mignola style for children: interior close view of the wooden floor. Seven old novels laid out in a small careful row. Each has its back cover open, showing ragged torn pages where a final chapter has been removed. Iona's hands (a girl's hands, 10) hover above them. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "She kept sorting. She kept finding them. By the time she had finished the box, she had a small careful row of seven books, all with their last chapters torn out. All from the same estate. All different novels, different authors, different years — the earliest was from 1878, the latest from 1934. Iona had, by then, called Rosa over. Rosa had come to look. Rosa had not been surprised. Rosa had said, softly, \"I have been waiting for these.\"",
+            "\"What do you mean,\" Iona said. Rosa knelt down beside her. She looked at the seven books. She said, \"When I started here three years ago, Angus's old ledger had a note in it about the Balfour books. He had bought books from the same farm — from Mrs. Balfour's father, who had died in the 1960s. Some of the books he had bought then had this exact — this exact torn-endings thing. Angus had noticed. He had written in his ledger: 'Balfour endings — same person, same tearing pattern, decades apart. Wait for the next batch. There will be more.' He was writing to whoever came after him. He was writing to me.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Old Ledger",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ll-ch2-p1-ledger",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Rosa has taken down a very large old leather-bound ledger from a high shelf and placed it on the wooden counter. She opens it to a specific page. Iona (10) leans in beside her to look. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Rosa went to the top shelf behind the counter. She took down a very large old leather-bound ledger. It was Angus's — the shop had had many owners, but the ledger had been passed down through all of them. Rosa carried it to the counter. Iona followed. Rosa opened it to a page near the back. She showed Iona a small handwritten note in old careful cursive.",
+            "It read: 12 May 1968. Bought lot of eleven books from estate of Sir Walter Balfour of Balfour Farm. Small collection. Four of the eleven have last chapter torn out — same rough tearing pattern in all four. Titles: Cecil Wray (1889), The Silence of Ellen Grey (1901), Meadowbank (1912), Northshore (1928). Cannot say when tearing was done. Books catalogued under 'incomplete' — will not sell without warning purchaser. Waited two months to see if buyer would come for them. Nobody did. Storing them in the back cupboard for now. If more arrive from the same farm someday, will note here."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Iona was quiet. She said, \"And they never sold?\" Rosa nodded. \"They are still here. I found them in the back cupboard my first month at the shop. All four of them. Exactly where he had put them fifty-nine years ago.\" She got up. She went to a small cupboard at the back of the counter area. She unlocked it with a small key. She reached in. She took out four old books, wrapped together in soft cloth. She brought them to Iona.",
+            "Iona unwrapped them. There they were — Cecil Wray, Silence of Ellen Grey, Meadowbank, Northshore. Same tearing pattern. Same clean removal of the last chapter. Iona held one in her hand. She said, quietly, \"So somebody at that farm was tearing the last chapter out of novels. For — for how long?\" Rosa said, \"Well. The four Angus bought were from a 1960s estate. So those books were being torn — sometime before 1968. The seven we just got are from Mrs. Balfour's estate. She died last month. She was ninety-three. So — since her father's time, at the earliest. Ninety years ago? Maybe. And still happening as of not long ago. That is — that is a lot of years of one person tearing endings out of novels.\""
+          ]
+        },
+        {
+          "image": "ll-ch2-p3-thinking",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Iona (10) sits cross-legged on the wooden floor beside all eleven books in a small stack. She is looking down at them with a very focused, thinking expression. Rosa (mid-twenties) stands nearby with her arms folded, also thinking. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"But why,\" Iona said. \"Why would anyone do that.\" Rosa said, \"I have thought about this a lot. I have three ideas. First — it could be someone who did not like endings. Some people don't. Some people like to imagine what happens. Some people find endings disappointing. So they tore them out. That is a possibility.\" \"Second?\" said Iona. Rosa said, \"Second — it could be someone who thought the endings were wrong. Not just disappointing — actually wrong. As if the book had let itself down. That is a specific kind of reader. A person who takes the story so seriously that a bad ending feels like a betrayal.\"",
+            "\"Third?\" \"Third,\" said Rosa, \"and this is the one I actually think — it could be someone who thought that endings were — private. That every reader should be allowed to make their own ending. That the printed ending was — an intrusion. An answer to a question that should not have been answered by the author. Only by the reader. That is a strange idea. But some people have it.\" She paused. \"If it was the third one — if it was someone who thought that — they were making a small quiet argument, book by book, across a lifetime. That is why they kept doing it. It was a principle.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Who was it,\" Iona said. \"Who was doing it. Someone in the Balfour family for ninety years. Was it always the same person, or was it many people.\" Rosa said, \"That is what I am wondering too. That is what I have been wondering for three years. Now with these seven new books — maybe we can find out. Mrs. Balfour's daughter, the one who is clearing the farmhouse — I know her. Her name is Ann. She lives in Newton Stewart, twenty minutes away. I could call her. I could ask her.\"",
+            "\"Please,\" said Iona. \"Please call her. I want to know.\" Rosa smiled a small smile. She said, \"I will call her tomorrow. Come back after school. We will talk to her together. If she is willing.\""
+          ]
+        },
+        {
+          "image": "ll-ch2-p5-going-home",
+          "imagePrompt": "Mike Mignola style for children: exterior evening scene. Iona (10) walks up the main street of Wigtown toward home. She carries her small satchel and looks lost in thought, eyes on the cobbles ahead. Warm gold lights in shop windows contrast with the cold blue winter dusk. Heavy ink outlines, flat shadows, cream palette with warm gold and cool blue accents.",
+          "paragraphs": [
+            "That evening Iona walked home. She was quiet at supper. Her parents noticed. Her father asked what she was thinking about. Iona said, \"A book mystery. A ninety-year-old book mystery.\" Her father laughed. He said, \"Well. That is a good sort of mystery. Better than most.\" And he did not press. He knew about the bookshop. He knew Iona would tell him when she was ready.",
+            "Iona lay in bed for a long time that night. She thought about the seven books. She thought about the person tearing endings out. She thought about — the third possibility Rosa had mentioned. That someone might have thought endings were private. That a book's real ending was the one you made in your head, not the one the author had put on the page. She was not sure she agreed. But she was — for a strange reason she could not name — moved by the idea. She thought about all the endings of all the books she had ever read. Some she had loved. Some she had hated. She had never thought that any of them belonged to her."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Miss Balfour",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "ll-ch3-p1-ann",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the bookshop. A middle-aged woman (Ann Balfour, fifties, in a warm coat) sits at the counter across from Rosa (mid-twenties) and Iona (10). All three have tea. Ann is talking, gesturing carefully. Warm afternoon lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Ann Balfour came to the bookshop the next afternoon. She was maybe fifty-five. She had a warm coat and slightly worried eyes. Rosa had laid the eleven books out on the counter. Ann looked at them for a while without speaking. Then she said, \"Ah. I did not know — I did not know these were in the house. I did not go through the library carefully. I just packed the books up and brought them here.\" She looked up. \"You want to know who did this. Am I right.\" Rosa said, \"Yes. If you know.\"",
+            "Ann sighed. She said, \"I know. It was my mother. And her mother before her. And her mother's mother before that. Four generations of Balfour women — great-grandmother, grandmother, mother, and — very briefly — me. Well, I stopped. I could not do it. But the three before me — yes. They tore the endings out.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Iona and Rosa waited. Ann settled herself. She said, \"It started with my great-grandmother, Elspeth Balfour. She was born in 1856. She was — from what my mother told me — a very serious woman. She loved reading. She read a great deal. And one day, when she was maybe your age — she read a novel that had an ending she felt was — wrong. She felt the author had — cheated. Had put a false ending on a real story. She was so angry that she tore the last chapter out. She kept the book on her shelf without its ending. It was a small — protest.\"",
+            "\"And then — well. She started thinking. She realized she could do it whenever she wanted. Whenever an ending felt wrong to her, she could just tear it out. Not tell anyone. And so — over her life — she tore the endings out of maybe thirty books. Only the ones whose endings she felt were wrong. Not all of them. Some novels she felt ended honestly. Those she left alone. But the ones where she felt the author had let her down — she tore.\""
+          ]
+        },
+        {
+          "image": "ll-ch3-p3-tradition",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Ann (fifties) continues speaking with a soft still expression. She holds one of the old books in her hands, turning it gently. Iona and Rosa listen. Warm lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"When she was old,\" Ann went on, \"she told her daughter, Mairi — my grandmother — what she had been doing. Mairi took it up. She continued. And when Mairi was old she told her own daughter, Isla — my mother. And my mother continued. Sixty, seventy years, on and off. All three of them tearing endings out of novels they thought had cheated them. Only when they had been really disappointed. Not out of spite. Out of — a kind of principle. As if they were correcting the historical record. As if they were saying — this book will not be complete on my shelf, because it did not deserve completion.\"",
+            "\"When my mother was old,\" said Ann, \"she wanted to teach me. I did try. She gave me a novel one Christmas — I do not remember what it was — that she thought was going to make me want to tear the last chapter out. She said — read it, and see how you feel. I read it. I did not want to tear the ending out. I thought the ending was fine. I told her. She looked at me for a long time. Then she said, — Ann, you are not one of us. That is all right. Not everyone is one of us. Do not force it. And she never asked me again.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Rosa said, \"So it stopped with your mother.\" Ann said, \"It stopped with my mother. She was the last. She was ninety-three when she died. She had been tearing endings out on and off for eighty years. If you count everything the three of them did, they must have — corrected — maybe eighty or ninety books, across the four generations. I do not know where all of them are now. Some my great-grandmother sold. Some my grandmother gave away. Angus bought some in the sixties. Now you have the last of them.\" Ann looked at Iona. \"That is the whole story. That is why the last chapters are gone from these books. Because three women in my family thought the books had let them down. That is all.\"",
+            "Iona said, quietly, \"Miss Balfour. What were the endings that they took away. Do you know any of them. What actually happened in the missing chapters.\" Ann smiled a small smile. She said, \"That is the interesting question. I know some. My mother knew some. She had read the endings before she tore them out — that was the whole point, she had to read them to know if she wanted to tear them out. She told me a few. If you are interested, I could — I could write down what I remember. I could send it to Rosa. Would that be useful.\""
+          ]
+        },
+        {
+          "image": "ll-ch3-p5-new-shelf",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the bookshop. A small new dedicated shelf near the counter. On it: the eleven old books, each standing upright, and a small handwritten card in front of them that reads THE BALFOUR SHELF — BOOKS THAT WERE CORRECTED. Rosa (mid-twenties) and Iona (10) stand in front of it looking. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"Yes,\" said Rosa. \"That would be extraordinarily useful. I want to make a small shelf. Just for these books. All eleven. I want a small card explaining what happened to them. Not so I can sell them — I won't sell them. Just so people who visit the shop can see them, and can read the note, and can think about what it means. If you would be willing to write down what you know about the missing endings — I would put your notes with the books.\" Ann nodded slowly. She said, \"I would like that. I would like the tradition to be — remembered, at least. Even if no one in my family is going to keep doing it.\"",
+            "That evening Rosa and Iona built the small shelf. It was in the front corner of the shop, near the counter. Rosa lettered a small card by hand: THE BALFOUR SHELF — BOOKS THAT WERE CORRECTED. She wrote a longer note that explained the family history. She put it on a small stand beside the shelf. She put the eleven books on the shelf. She did not put them for sale. She put them for looking at."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The shelf stayed there for years. Ann Balfour came back a few weeks later with a small notebook. In it, she had written down what she remembered of the missing endings — five of the eleven books, she said, her mother had told her about, and she wrote down what her mother had said. Some of the endings she remembered had been — unearned, her mother had said. A character had been saved from a fate they had, in the story, clearly earned. Others had been — falsely happy, tied up too neatly. One had been — a marriage that made no sense given everything that had come before it. Iona read all five accounts carefully. She could see, in each case, why a very serious reader might have felt cheated. She could not tell if the readers had been right or the authors had been right. She thought — maybe both. Maybe neither. Maybe there was no answer.",
+            "For many years after that, Iona kept coming to the shop. Rosa stayed until Iona was seventeen, and then Rosa moved to Edinburgh to run a bigger bookshop, and a new owner took over ByreBooks. The Balfour Shelf stayed. Every new owner kept it. People visiting the town would sometimes discover it, and they would stand there for a long time, reading Ann's notes. Some of them, Iona knew — because she had watched them — went home and started tearing the last chapters out of novels they thought had cheated them. The tradition, in this small strange way, had not really died. It had only moved. That was what a small book town could do."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "scotland",
+    "books",
+    "mystery",
+    "tradition",
+    "reading"
+  ]
+}

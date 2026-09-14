@@ -1,0 +1,216 @@
+{
+  "id": "butterfly-garden",
+  "title": "The Butterfly Garden",
+  "subtitle": "A Devon Wonder",
+  "author": null,
+  "summary": "Iris is spending the summer with her grandmother, a retired biologist who keeps a butterfly greenhouse in the English countryside. On the first night, a butterfly appears with markings no one has ever seen — and it seems to want Iris to follow it.",
+  "readingTimeMinutes": 14,
+  "coverImage": "story-butterfly-garden-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat warm shadows. Composition: 10-year-old girl (Iris) inside an old glass greenhouse full of green plants and flowers, dozens of butterflies floating around her. One large butterfly with unusual concentric-ring markings on its wings hovers near her outstretched finger. Golden late-afternoon light through the greenhouse glass. Character positioned center, filling roughly 40% of frame height. Keep 100px safety padding on all sides. Green and gold accent palette. Wonder-filled, quiet mood. DO NOT include text or title.",
+  "category": "wonder",
+  "isPremium": true,
+  "publishedAt": "2026-08-20",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Impossible Butterfly",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "Iris's grandmother lived in a small stone house at the edge of a village in Devon, and behind the stone house was a greenhouse, and inside the greenhouse were three hundred and forty-seven butterflies.",
+            "Grandmother Rose knew each of them.",
+            "\"That one is Ada,\" she said, pointing at a small blue butterfly. \"She was born on Tuesday. That one is Percival — he only comes out for pears. And that one there is Lily, but she thinks she's called Emma. It's a long story.\""
+          ],
+          "image": "bg-ch1-p1-greenhouse",
+          "imagePrompt": "Mike Mignola style for children: interior of a Victorian glass greenhouse with wrought-iron frame, filled with lush green plants and dozens of butterflies in flight. An elderly woman (Grandmother Rose) in a soft green cardigan stands with a 10-year-old girl (Iris), pointing out butterflies. Warm afternoon light streaming through glass panels. Heavy black inks, warm green and gold tones."
+        },
+        {
+          "paragraphs": [
+            "Iris was ten and she had never met her grandmother before this summer. Her mother had said Grandmother Rose was \"eccentric,\" which Iris had learned was what grown-ups said when they meant something they did not want to explain.",
+            "So far, Iris did not think eccentric was so bad. Grandmother Rose let her eat toast in the greenhouse and did not mind if she stayed up until the fireflies came out.",
+            "The first strange thing happened on the second night.",
+            "Iris was sitting on the little wooden bench in the middle of the greenhouse, drawing butterflies in a notebook, when a butterfly landed on the page.",
+            "It was not one she had seen before."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "It was pale, almost silver, and its wings had rings on them. Circles inside circles inside circles, like a target, or like the ripples a stone makes when it falls into a pond.",
+            "Iris held very still.",
+            "The butterfly stayed on her page for a long time. Then it lifted, flew in a slow spiral, and landed on a leaf.",
+            "\"Grandmother?\" Iris called. \"There's a butterfly here I don't think you know.\"",
+            "Grandmother Rose came in and looked. Her face went still. She was quiet for so long that Iris began to think something was wrong.",
+            "\"I have been keeping butterflies since I was twelve years old,\" said Grandmother Rose finally. \"That is sixty-two years. I have never seen wings like that in my life.\""
+          ],
+          "image": "bg-ch1-p3-first-butterfly",
+          "imagePrompt": "Mike Mignola style for children: close-up of a pale silver butterfly with striking concentric-ring markings on its wings, perched on the edge of an open notebook page. A child's hand visible at the edge of the frame, holding a pencil, frozen mid-drawing. Heavy black inks, silver-white and warm cream palette. Sense of quiet wonder."
+        },
+        {
+          "paragraphs": [
+            "The third night, there were two of them. The silver one, and a smaller one with lines like arrows.",
+            "The fourth night, there were five. The silver one, the arrow one, and three new ones. One had spots that made the shape of a mountain. One had wings that looked like a spiral. One had wings that looked, if you squinted, like the number four.",
+            "\"They keep coming,\" Iris told her grandmother. \"And they keep drawing shapes in the air. Look —\"",
+            "She showed her grandmother the notebook. On every page, Iris had traced the paths the butterflies flew. Loops. Angles. Lines."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Grandmother Rose spread the pages out on the bench.",
+            "She looked at them for a long time.",
+            "\"Iris,\" she said finally, \"do you think this could be a map?\"",
+            "Iris looked. She looked at the loops the silver butterfly had made. She looked at the arrows the second butterfly had drawn. She looked at the mountain, and the spiral, and the shape like a number four.",
+            "And she saw, all at once, that it was a map. It was a map of the garden behind the greenhouse, and the loops were the flowerbeds, and the arrows were the paths, and the mountain was the old apple tree, and the spiral was the little fountain, and the shape like a four was the oldest rose bush, the one Grandmother Rose said her own grandmother had planted a hundred years ago.",
+            "And in the middle of the map was an X."
+          ],
+          "image": "bg-ch1-p5-map-realization",
+          "imagePrompt": "Mike Mignola style for children: overhead view of a notebook spread open on a bench, pages covered with elegant hand-drawn tracings of butterfly flight paths — loops, arrows, spirals. In the center, the drawings clearly resemble a garden map with an X marking a spot. A child's hand and an older woman's hand both pointing at the X. Warm greenhouse light. Heavy black inks, sepia and green tones."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Compass",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "The X was under the old rose bush.",
+            "Iris waited until Grandmother Rose was asleep. She was not sure why she waited — Grandmother Rose would probably have come with her — but she felt that this was something she needed to do quietly, on her own, at night, when the butterflies could see her doing it."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "She took the small trowel from the greenhouse. She went out into the garden. The moon was bright.",
+            "The old rose bush was enormous, and the ground under it was hard from years of roots. Iris dug for a long time.",
+            "Her trowel hit something metal.",
+            "It was a small tin box, rust-red with age. Iris pulled it up, brushed off the earth, and pried open the lid.",
+            "Inside was a compass."
+          ],
+          "image": "bg-ch2-p2-digging",
+          "imagePrompt": "Mike Mignola style for children: nighttime garden scene, moonlit. A 10-year-old girl in a nightgown kneeling beside a huge old rose bush, holding a small trowel, having just unearthed a rusty tin box. Deep blue night palette with cool moonlight silver. Heavy black inks, silver highlights. Sense of secret discovery, not fear."
+        },
+        {
+          "paragraphs": [
+            "It was a very old compass — brass, dented, with a needle that pointed in a wobbly, uncertain way.",
+            "Iris held it flat and watched the needle. It swung. It did not settle on north. It kept moving.",
+            "She rotated it. She held it still. She held her breath.",
+            "The needle turned, and turned, and finally stopped. It was not pointing north or south or east or west.",
+            "It was pointing straight up."
+          ],
+          "image": "bg-ch2-p3-compass-up",
+          "imagePrompt": "Mike Mignola style for children: close-up of an old brass compass being held flat in a child's palm, moonlight catching the metal. The needle is standing straight up, pointing directly at the viewer (upward). Rose bush thorns visible around the edges of the frame. Heavy black inks, silver-blue moonlight, warm brass tones. Mysterious, exciting mood."
+        },
+        {
+          "paragraphs": [
+            "Iris frowned. She tilted the compass. She tapped it. The needle wobbled a little, but it kept pointing up.",
+            "\"Compasses don't point up,\" she whispered.",
+            "The garden did not answer.",
+            "She looked at the sky. There were more stars than usual, because the village had no streetlights. Iris held the compass toward the sky and turned very slowly in a circle."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The needle stayed pointing up, but as she turned, it seemed to be pointing at one particular part of the sky. A star. A star Iris did not know the name of, a small red one, low in the east.",
+            "She stared at it. It stared back.",
+            "Behind her, in the greenhouse, the silver butterfly had opened its wings and closed them again, three times, very slowly, as if it were saying: yes. That's the one."
+          ],
+          "image": null,
+          "imagePrompt": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Aldebaran",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "paragraphs": [
+            "Iris did not sleep well that night. She kept the compass on her pillow, and every time she woke up, the needle was still pointing at the ceiling.",
+            "At breakfast, she showed her grandmother.",
+            "Grandmother Rose put down her toast. She picked up the compass. She held it flat. She held it upside down. She held it out the window, and up to the sky, and turned in a slow circle in the kitchen.",
+            "Then she put the compass on the table and sat down very hard."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "\"Iris,\" she said, \"where did you find this?\"",
+            "Iris told her. About the butterflies. About the map. About the digging under the rose bush.",
+            "Her grandmother listened without interrupting. When Iris had finished, Grandmother Rose was quiet for a long time.",
+            "\"Come with me,\" she said. \"There's something in the study I need to show you.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The study was small and dark and full of old books and old papers and jars of dried leaves. Grandmother Rose opened the bottom drawer of a wooden desk and pulled out a large leather-bound notebook.",
+            "The notebook was old. The pages were yellow. On the first page, in careful, spidery handwriting, was a name: ELEANOR HARWOOD, 1912.",
+            "\"My grandmother,\" said Grandmother Rose. \"Your great-great-grandmother. She kept butterflies too. She kept them in a greenhouse in this same garden, and she noticed things nobody else noticed.\"",
+            "She turned the pages. Sketches of butterflies. Notes about wing patterns. And, in the middle of the notebook, a drawing of a compass that looked exactly like the one on the kitchen table."
+          ],
+          "image": "bg-ch3-p3-old-notebook",
+          "imagePrompt": "Mike Mignola style for children: a dim study with warm lamplight, an elderly woman and a 10-year-old girl leaning over a large leather-bound notebook open on a desk. The visible page shows hand-drawn butterfly diagrams and a detailed sketch of a compass. Heavy black inks, warm amber and sepia tones. Sense of unearthing family history."
+        },
+        {
+          "paragraphs": [
+            "Iris read the note under the compass drawing.",
+            "It said: The butterflies do not fly to the North Star. They fly to a red star, low in the east. I have written to Professor Grant in London. He does not believe me. He says butterflies cannot navigate by any single star, and certainly not by a star as faint as that. But I have watched them for four seasons and I am sure. The star has no name that I know. I will keep watching, and I will keep this compass safe for whoever comes after me.",
+            "The signature was ELEANOR HARWOOD, and the date was July, 1919."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "\"The star,\" said Grandmother Rose slowly, \"is called Aldebaran. It has a name now. Scientists have known about it for a long time. But last year — just last year, Iris — a research team in Norway announced that they had discovered something odd. Aldebaran has a very unusual magnetic field. They think some migratory insects might use it to navigate. There was a paper about it in a journal I read.\"",
+            "She looked up at Iris.",
+            "\"They are going to publish more research next year. It will be a big discovery. Nobody has ever proved it before.\"",
+            "She looked down at the notebook.",
+            "\"My grandmother knew this,\" she said quietly. \"A hundred and six years before the scientists.\"",
+            "\"And nobody believed her.\"",
+            "\"Nobody believed her.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Iris looked at the compass. She looked at the notebook. She looked at her grandmother, who was smiling in a way that was mostly happy but a little bit sad.",
+            "\"What do we do?\" she asked.",
+            "Grandmother Rose thought for a moment.",
+            "\"We write a letter,\" she said. \"To the research team in Norway. We tell them what my grandmother wrote. We send them a copy of the notebook. Her name goes into the paper next to theirs. A hundred years late, but it goes in.\"",
+            "Iris nodded.",
+            "\"And Iris,\" said Grandmother Rose. \"Your name goes in too. Because you're the one who found her.\""
+          ],
+          "image": "bg-ch3-p6-writing-letter",
+          "imagePrompt": "Mike Mignola style for children: warm kitchen scene. Grandmother Rose and Iris sitting side by side at a wooden table, both writing at the same time on the same large sheet of paper, the old notebook open between them. Morning sunlight through a window with plants on the sill. A single silver butterfly rests on the edge of the notebook. Heavy black inks, warm honey and green tones. Peaceful, hopeful ending."
+        },
+        {
+          "paragraphs": [
+            "That summer, Iris helped her grandmother write the letter. It took them three weeks to get every sentence right.",
+            "The response came in the autumn. It was signed by a Norwegian professor whose name Iris could not pronounce, and it said, in careful English:",
+            "Thank you. We will publish. Your great-great-grandmother was right, and we should have listened sooner. Some knowledge waits a very long time for the right ears."
+          ],
+          "image": null,
+          "imagePrompt": null
+        }
+      ]
+    }
+  ]
+}

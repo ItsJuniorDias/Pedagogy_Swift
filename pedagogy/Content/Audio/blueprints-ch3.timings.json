@@ -1,0 +1,445 @@
+{
+  "story_id": "blueprints",
+  "chapter": 3,
+  "total_duration_ms": 259368,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The last page of the sketchbook was a room she could not figure out how to build.",
+      "start_ms": 2275,
+      "end_ms": 6940
+    },
+    {
+      "index": 1,
+      "text": "The drawing showed a small square room, and each of the four walls had, drawn inside it, the thick outline of a window.",
+      "start_ms": 6940,
+      "end_ms": 13766
+    },
+    {
+      "index": 2,
+      "text": "But the windows were not open — they were part of the walls.",
+      "start_ms": 13766,
+      "end_ms": 17236
+    },
+    {
+      "index": 3,
+      "text": "They were the same material as the walls.",
+      "start_ms": 17236,
+      "end_ms": 19625
+    },
+    {
+      "index": 4,
+      "text": "Bea did not understand what she was supposed to make.",
+      "start_ms": 19625,
+      "end_ms": 22754
+    },
+    {
+      "index": 5,
+      "text": "The note in the margin said this: A room where the walls become windows at night.",
+      "start_ms": 22754,
+      "end_ms": 27419
+    },
+    {
+      "index": 6,
+      "text": "Not for looking out.",
+      "start_ms": 27419,
+      "end_ms": 28613
+    },
+    {
+      "index": 7,
+      "text": "For looking through — at everything at once.",
+      "start_ms": 28613,
+      "end_ms": 31173
+    },
+    {
+      "index": 8,
+      "text": "This is a room for someone who is going to grow up in the middle of everything, and who will need, sometimes, to see all of it.",
+      "start_ms": 31173,
+      "end_ms": 38454
+    },
+    {
+      "index": 9,
+      "text": "This is a room for our second child.",
+      "start_ms": 38454,
+      "end_ms": 40559
+    },
+    {
+      "index": 10,
+      "text": "When she comes.",
+      "start_ms": 40559,
+      "end_ms": 41469
+    },
+    {
+      "index": 11,
+      "text": "If she comes.",
+      "start_ms": 41469,
+      "end_ms": 42266
+    },
+    {
+      "index": 12,
+      "text": "— R.",
+      "start_ms": 42266,
+      "end_ms": 42607
+    },
+    {
+      "index": 13,
+      "text": "Bea sat at her desk for a long time.",
+      "start_ms": 42607,
+      "end_ms": 44712
+    },
+    {
+      "index": 14,
+      "text": "She read the note four times.",
+      "start_ms": 44712,
+      "end_ms": 46418
+    },
+    {
+      "index": 15,
+      "text": "Then five.",
+      "start_ms": 46418,
+      "end_ms": 47044
+    },
+    {
+      "index": 16,
+      "text": "She was the second child.",
+      "start_ms": 47044,
+      "end_ms": 48523
+    },
+    {
+      "index": 17,
+      "text": "She had a brother named Nico who was in college now, seven years older than her.",
+      "start_ms": 48523,
+      "end_ms": 53131
+    },
+    {
+      "index": 18,
+      "text": "Her mother had drawn this room, and written this note, before Bea was born.",
+      "start_ms": 53131,
+      "end_ms": 57454
+    },
+    {
+      "index": 19,
+      "text": "It was Bea's room.",
+      "start_ms": 57454,
+      "end_ms": 58535
+    },
+    {
+      "index": 20,
+      "text": "It had always been Bea's room, waiting on the last page of the book for her to find it.",
+      "start_ms": 58535,
+      "end_ms": 63597
+    },
+    {
+      "index": 21,
+      "text": "She did not build the room that night.",
+      "start_ms": 63597,
+      "end_ms": 65816
+    },
+    {
+      "index": 22,
+      "text": "She closed the sketchbook and got into bed and lay on her back and looked at the ceiling of her actual bedroom, which was plain white plaster with a small crack near the light fixture.",
+      "start_ms": 65816,
+      "end_ms": 76340
+    },
+    {
+      "index": 23,
+      "text": "She tried to think about what walls that became windows at night might mean.",
+      "start_ms": 76340,
+      "end_ms": 80720
+    },
+    {
+      "index": 24,
+      "text": "She tried to think about it the way her mother would have.",
+      "start_ms": 80720,
+      "end_ms": 84076
+    },
+    {
+      "index": 25,
+      "text": "She could not.",
+      "start_ms": 84076,
+      "end_ms": 84986
+    },
+    {
+      "index": 26,
+      "text": "In the morning she showed the page to her father.",
+      "start_ms": 84986,
+      "end_ms": 87831
+    },
+    {
+      "index": 27,
+      "text": "She had not shown him anything else she had built.",
+      "start_ms": 87831,
+      "end_ms": 90732
+    },
+    {
+      "index": 28,
+      "text": "All the model rooms were still on her shelf and she had let him see them but not asked him about them.",
+      "start_ms": 90732,
+      "end_ms": 96591
+    },
+    {
+      "index": 29,
+      "text": "But this drawing she brought to him at the breakfast table, and she put it in front of his cereal bowl, and she said, \"I don't know how to build this one.\"",
+      "start_ms": 96591,
+      "end_ms": 105408
+    },
+    {
+      "index": 30,
+      "text": "Her father looked at it for a long time.",
+      "start_ms": 105408,
+      "end_ms": 107800
+    },
+    {
+      "index": 31,
+      "text": "He read the margin note.",
+      "start_ms": 107800,
+      "end_ms": 109258
+    },
+    {
+      "index": 32,
+      "text": "He put down his spoon.",
+      "start_ms": 109258,
+      "end_ms": 110600
+    },
+    {
+      "index": 33,
+      "text": "\"Oh, Bea,\" he said, very quietly.",
+      "start_ms": 110600,
+      "end_ms": 112583
+    },
+    {
+      "index": 34,
+      "text": "And then, after another long moment, he said, \"I think I know what she meant.",
+      "start_ms": 112583,
+      "end_ms": 117133
+    },
+    {
+      "index": 35,
+      "text": "Get your pencils.\"",
+      "start_ms": 117133,
+      "end_ms": 118300
+    },
+    {
+      "index": 36,
+      "text": "They sat on her bedroom floor and they built it together.",
+      "start_ms": 118300,
+      "end_ms": 121683
+    },
+    {
+      "index": 37,
+      "text": "It took them all afternoon.",
+      "start_ms": 121683,
+      "end_ms": 123316
+    },
+    {
+      "index": 38,
+      "text": "Her father cut four square walls out of foam board.",
+      "start_ms": 123316,
+      "end_ms": 126350
+    },
+    {
+      "index": 39,
+      "text": "Then, on the inside of each wall, he showed her how to glue a thin sheet of dark paper.",
+      "start_ms": 126350,
+      "end_ms": 131483
+    },
+    {
+      "index": 40,
+      "text": "And then he took a needle and, very carefully, he pricked hundreds of tiny holes through the paper, in the shapes of leaves, and trees, and city streets, and a river, and a cloud, and a bird.",
+      "start_ms": 131483,
+      "end_ms": 142683
+    },
+    {
+      "index": 41,
+      "text": "\"When the room is dark,\" he said, \"and there is a candle in the middle, the light will come through the holes.",
+      "start_ms": 142683,
+      "end_ms": 149158
+    },
+    {
+      "index": 42,
+      "text": "And the walls will look like windows.\"",
+      "start_ms": 149158,
+      "end_ms": 151492
+    },
+    {
+      "index": 43,
+      "text": "\"How did you know?\" Bea asked.",
+      "start_ms": 151492,
+      "end_ms": 153300
+    },
+    {
+      "index": 44,
+      "text": "Her father did not answer right away.",
+      "start_ms": 153300,
+      "end_ms": 155517
+    },
+    {
+      "index": 45,
+      "text": "He kept pricking holes.",
+      "start_ms": 155517,
+      "end_ms": 156917
+    },
+    {
+      "index": 46,
+      "text": "He was doing the shape of a boat now, small and careful, in the middle of one wall.",
+      "start_ms": 156917,
+      "end_ms": 161817
+    },
+    {
+      "index": 47,
+      "text": "\"She told me once,\" he said.",
+      "start_ms": 161817,
+      "end_ms": 163508
+    },
+    {
+      "index": 48,
+      "text": "\"When she was pregnant with you.",
+      "start_ms": 163508,
+      "end_ms": 165433
+    },
+    {
+      "index": 49,
+      "text": "She said she was going to design a room for you where you could see everything without leaving.",
+      "start_ms": 165433,
+      "end_ms": 171033
+    },
+    {
+      "index": 50,
+      "text": "She said she wanted you to know that being inside and being outside were not opposites.\" He looked up.",
+      "start_ms": 171033,
+      "end_ms": 177042
+    },
+    {
+      "index": 51,
+      "text": "\"I forgot until you showed me the drawing.",
+      "start_ms": 177042,
+      "end_ms": 179550
+    },
+    {
+      "index": 52,
+      "text": "I'm sorry I forgot.\"",
+      "start_ms": 179550,
+      "end_ms": 180834
+    },
+    {
+      "index": 53,
+      "text": "They finished at dusk.",
+      "start_ms": 180834,
+      "end_ms": 182175
+    },
+    {
+      "index": 54,
+      "text": "Her father put a small birthday-cake candle in the middle of the tiny room and lit it, and Bea turned off her bedroom light.",
+      "start_ms": 182175,
+      "end_ms": 189467
+    },
+    {
+      "index": 55,
+      "text": "And the walls of the little room lit up.",
+      "start_ms": 189467,
+      "end_ms": 191859
+    },
+    {
+      "index": 56,
+      "text": "Tiny pinprick birds flew across her ceiling.",
+      "start_ms": 191859,
+      "end_ms": 194484
+    },
+    {
+      "index": 57,
+      "text": "Tiny pinprick trees swayed on her wall.",
+      "start_ms": 194484,
+      "end_ms": 196817
+    },
+    {
+      "index": 58,
+      "text": "A tiny river ran along the floor.",
+      "start_ms": 196817,
+      "end_ms": 198800
+    },
+    {
+      "index": 59,
+      "text": "She could see, from inside her one small square, all of it at once — a whole world made only of light and shadow.",
+      "start_ms": 198800,
+      "end_ms": 205392
+    },
+    {
+      "index": 60,
+      "text": "\"It works,\" said her father.",
+      "start_ms": 205392,
+      "end_ms": 206956
+    },
+    {
+      "index": 61,
+      "text": "His voice sounded strange.",
+      "start_ms": 206956,
+      "end_ms": 208412
+    },
+    {
+      "index": 62,
+      "text": "Bea did not turn to look at him.",
+      "start_ms": 208412,
+      "end_ms": 210191
+    },
+    {
+      "index": 63,
+      "text": "She thought he might be crying, and she did not want to embarrass him.",
+      "start_ms": 210191,
+      "end_ms": 214020
+    },
+    {
+      "index": 64,
+      "text": "She sat on the floor of her real room and looked at the small room she had built with her mother's drawings and her father's hands, and she watched the tiny lights move on her walls, and she thought about all the years her mother had spent designing a place that Bea would grow up in.",
+      "start_ms": 214020,
+      "end_ms": 229387
+    },
+    {
+      "index": 65,
+      "text": "Not the room itself.",
+      "start_ms": 229387,
+      "end_ms": 230520
+    },
+    {
+      "index": 66,
+      "text": "The idea of the room.",
+      "start_ms": 230520,
+      "end_ms": 231706
+    },
+    {
+      "index": 67,
+      "text": "The idea that she would need it.",
+      "start_ms": 231706,
+      "end_ms": 233539
+    },
+    {
+      "index": 68,
+      "text": "She thought about that for a long time.",
+      "start_ms": 233539,
+      "end_ms": 235696
+    },
+    {
+      "index": 69,
+      "text": "Then she blew out the candle.",
+      "start_ms": 235696,
+      "end_ms": 237314
+    },
+    {
+      "index": 70,
+      "text": "She kept the little room on her desk, and she never took it down, not even when she got older and moved into another apartment and then another one after that.",
+      "start_ms": 237314,
+      "end_ms": 245941
+    },
+    {
+      "index": 71,
+      "text": "It went with her.",
+      "start_ms": 245941,
+      "end_ms": 246912
+    },
+    {
+      "index": 72,
+      "text": "In the years to come, when she needed to remember that being inside and being outside were not opposites, she would put a candle in it, and she would sit with her back against the wall, and she would watch her mother's world go by.",
+      "start_ms": 246912,
+      "end_ms": 259368
+    }
+  ]
+}

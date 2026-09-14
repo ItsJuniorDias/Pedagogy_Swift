@@ -1,0 +1,433 @@
+{
+  "story_id": "house-of-clocks",
+  "chapter": 1,
+  "total_duration_ms": 199944,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The train pulled away from the tiny station, and Wren was alone on the platform.",
+      "start_ms": 1933,
+      "end_ms": 6736
+    },
+    {
+      "index": 1,
+      "text": "Fellwick was smaller than she had expected.",
+      "start_ms": 6736,
+      "end_ms": 9313
+    },
+    {
+      "index": 2,
+      "text": "Two streets, a bakery, a post office that had a cat sleeping in the window, and a hill.",
+      "start_ms": 9313,
+      "end_ms": 14468
+    },
+    {
+      "index": 3,
+      "text": "At the top of the hill was the house she had come to stay in for the summer.",
+      "start_ms": 14468,
+      "end_ms": 19037
+    },
+    {
+      "index": 4,
+      "text": "She had never met her Great-Aunt Marlow.",
+      "start_ms": 19037,
+      "end_ms": 21438
+    },
+    {
+      "index": 5,
+      "text": "Her mother had said only that Aunt Marlow was 'a bit unusual, but perfectly kind,' which Wren had noticed was the sort of thing grown-ups said when they meant something else entirely.",
+      "start_ms": 21438,
+      "end_ms": 32275
+    },
+    {
+      "index": 6,
+      "text": "The door opened before Wren could knock.",
+      "start_ms": 32275,
+      "end_ms": 34735
+    },
+    {
+      "index": 7,
+      "text": "Great-Aunt Marlow was tall and thin, with white hair pinned up in a knot and glasses on a chain around her neck.",
+      "start_ms": 34735,
+      "end_ms": 41354
+    },
+    {
+      "index": 8,
+      "text": "She smelled of lavender and old paper.",
+      "start_ms": 41354,
+      "end_ms": 43697
+    },
+    {
+      "index": 9,
+      "text": "\"You must be Wren,\" she said, looking down at her.",
+      "start_ms": 43697,
+      "end_ms": 46684
+    },
+    {
+      "index": 10,
+      "text": "\"You look exactly like your mother did at your age.",
+      "start_ms": 46684,
+      "end_ms": 49730
+    },
+    {
+      "index": 11,
+      "text": "Come in, come in.",
+      "start_ms": 49730,
+      "end_ms": 50784
+    },
+    {
+      "index": 12,
+      "text": "Mind the umbrella stand.\"",
+      "start_ms": 50784,
+      "end_ms": 52366
+    },
+    {
+      "index": 13,
+      "text": "Wren stepped inside, and stopped.",
+      "start_ms": 52366,
+      "end_ms": 54416
+    },
+    {
+      "index": 14,
+      "text": "Every wall was covered in clocks.",
+      "start_ms": 54416,
+      "end_ms": 56466
+    },
+    {
+      "index": 15,
+      "text": "Grandfather clocks stood in the corners.",
+      "start_ms": 56466,
+      "end_ms": 58867
+    },
+    {
+      "index": 16,
+      "text": "Cuckoo clocks hung by the windows.",
+      "start_ms": 58867,
+      "end_ms": 60917
+    },
+    {
+      "index": 17,
+      "text": "Small brass clocks sat on the mantel, next to porcelain clocks shaped like cats.",
+      "start_ms": 60917,
+      "end_ms": 65662
+    },
+    {
+      "index": 18,
+      "text": "There were clocks with painted faces, clocks with glass fronts, clocks with no numbers at all — only tiny stars where the numbers should have been.",
+      "start_ms": 65662,
+      "end_ms": 74390
+    },
+    {
+      "index": 19,
+      "text": "And every single one of them was ticking.",
+      "start_ms": 74390,
+      "end_ms": 76908
+    },
+    {
+      "index": 20,
+      "text": "\"They were my father's,\" said Great-Aunt Marlow, hanging Wren's coat on a hook shaped like a hand.",
+      "start_ms": 76908,
+      "end_ms": 82707
+    },
+    {
+      "index": 21,
+      "text": "\"And his father's before him.",
+      "start_ms": 82707,
+      "end_ms": 84464
+    },
+    {
+      "index": 22,
+      "text": "Every clock in this house has a story.",
+      "start_ms": 84464,
+      "end_ms": 86749
+    },
+    {
+      "index": 23,
+      "text": "Some of the stories are quite good.\"",
+      "start_ms": 86749,
+      "end_ms": 88975
+    },
+    {
+      "index": 24,
+      "text": "She turned and looked at Wren over the top of her glasses.",
+      "start_ms": 88975,
+      "end_ms": 92489
+    },
+    {
+      "index": 25,
+      "text": "\"You can wander wherever you like, my dear.",
+      "start_ms": 92489,
+      "end_ms": 95066
+    },
+    {
+      "index": 26,
+      "text": "Open any door.",
+      "start_ms": 95066,
+      "end_ms": 95945
+    },
+    {
+      "index": 27,
+      "text": "Read any book.",
+      "start_ms": 95945,
+      "end_ms": 96824
+    },
+    {
+      "index": 28,
+      "text": "There is only one rule.\"",
+      "start_ms": 96824,
+      "end_ms": 98346
+    },
+    {
+      "index": 29,
+      "text": "Wren waited.",
+      "start_ms": 98346,
+      "end_ms": 99167
+    },
+    {
+      "index": 30,
+      "text": "\"If any of the clocks strikes thirteen,\" said Great-Aunt Marlow, \"do not look behind you.\"",
+      "start_ms": 99167,
+      "end_ms": 104555
+    },
+    {
+      "index": 31,
+      "text": "It was the sort of rule you smile at politely and then forget.",
+      "start_ms": 104555,
+      "end_ms": 108304
+    },
+    {
+      "index": 32,
+      "text": "Wren smiled politely.",
+      "start_ms": 108304,
+      "end_ms": 109593
+    },
+    {
+      "index": 33,
+      "text": "Great-Aunt Marlow went off to the kitchen to put the kettle on, and Wren wandered down the hall by herself, counting clocks.",
+      "start_ms": 109593,
+      "end_ms": 116856
+    },
+    {
+      "index": 34,
+      "text": "She was up to twenty-eight when she stopped.",
+      "start_ms": 116856,
+      "end_ms": 119796
+    },
+    {
+      "index": 35,
+      "text": "There was one clock she had missed.",
+      "start_ms": 119796,
+      "end_ms": 122097
+    },
+    {
+      "index": 36,
+      "text": "It was small and made of dark wood, hanging just above a doorway at the end of the hall.",
+      "start_ms": 122097,
+      "end_ms": 127785
+    },
+    {
+      "index": 37,
+      "text": "It looked ordinary in every way except one.",
+      "start_ms": 127785,
+      "end_ms": 130661
+    },
+    {
+      "index": 38,
+      "text": "Its hands were moving backwards.",
+      "start_ms": 130661,
+      "end_ms": 132834
+    },
+    {
+      "index": 39,
+      "text": "Wren watched it for a long minute.",
+      "start_ms": 132834,
+      "end_ms": 135071
+    },
+    {
+      "index": 40,
+      "text": "The second hand crawled from the seven to the six, from the six to the five, from the five to the four.",
+      "start_ms": 135071,
+      "end_ms": 141718
+    },
+    {
+      "index": 41,
+      "text": "Not fast.",
+      "start_ms": 141718,
+      "end_ms": 142358
+    },
+    {
+      "index": 42,
+      "text": "Not slow.",
+      "start_ms": 142358,
+      "end_ms": 142997
+    },
+    {
+      "index": 43,
+      "text": "Just backwards, as if it had somewhere to be in yesterday.",
+      "start_ms": 142997,
+      "end_ms": 146832
+    },
+    {
+      "index": 44,
+      "text": "\"That one belonged to my great-grandfather,\" said Great-Aunt Marlow, appearing suddenly at Wren's elbow with a cup of tea.",
+      "start_ms": 146832,
+      "end_ms": 154693
+    },
+    {
+      "index": 45,
+      "text": "\"He was a clockmaker, and a fool.",
+      "start_ms": 154693,
+      "end_ms": 156866
+    },
+    {
+      "index": 46,
+      "text": "Come along.",
+      "start_ms": 156866,
+      "end_ms": 157633
+    },
+    {
+      "index": 47,
+      "text": "Your room is up the stairs, first on the left.",
+      "start_ms": 157633,
+      "end_ms": 160637
+    },
+    {
+      "index": 48,
+      "text": "There is a book about beetles on the pillow if you would like something to read.\"",
+      "start_ms": 160637,
+      "end_ms": 165942
+    },
+    {
+      "index": 49,
+      "text": "That night, Wren lay in bed and listened.",
+      "start_ms": 165942,
+      "end_ms": 168690
+    },
+    {
+      "index": 50,
+      "text": "The clocks did not tick in unison.",
+      "start_ms": 168690,
+      "end_ms": 170927
+    },
+    {
+      "index": 51,
+      "text": "They ticked in a kind of soft rain — some fast, some slow, some deep and heavy like footsteps, some light as fingertips on a table.",
+      "start_ms": 170927,
+      "end_ms": 179364
+    },
+    {
+      "index": 52,
+      "text": "Wren found it strangely restful, and she was almost asleep when the first clock began to strike midnight.",
+      "start_ms": 179364,
+      "end_ms": 186203
+    },
+    {
+      "index": 53,
+      "text": "She counted along in her head.",
+      "start_ms": 186203,
+      "end_ms": 188184
+    },
+    {
+      "index": 54,
+      "text": "One.",
+      "start_ms": 188184,
+      "end_ms": 188503
+    },
+    {
+      "index": 55,
+      "text": "Two.",
+      "start_ms": 188503,
+      "end_ms": 188823
+    },
+    {
+      "index": 56,
+      "text": "Three.",
+      "start_ms": 188823,
+      "end_ms": 189270
+    },
+    {
+      "index": 57,
+      "text": "Four.",
+      "start_ms": 189270,
+      "end_ms": 189654
+    },
+    {
+      "index": 58,
+      "text": "Five.",
+      "start_ms": 189654,
+      "end_ms": 190037
+    },
+    {
+      "index": 59,
+      "text": "Six.",
+      "start_ms": 190037,
+      "end_ms": 190357
+    },
+    {
+      "index": 60,
+      "text": "Seven.",
+      "start_ms": 190357,
+      "end_ms": 190804
+    },
+    {
+      "index": 61,
+      "text": "Eight.",
+      "start_ms": 190804,
+      "end_ms": 191252
+    },
+    {
+      "index": 62,
+      "text": "Nine.",
+      "start_ms": 191252,
+      "end_ms": 191635
+    },
+    {
+      "index": 63,
+      "text": "Ten.",
+      "start_ms": 191635,
+      "end_ms": 191955
+    },
+    {
+      "index": 64,
+      "text": "Eleven.",
+      "start_ms": 191955,
+      "end_ms": 192466
+    },
+    {
+      "index": 65,
+      "text": "Twelve.",
+      "start_ms": 192466,
+      "end_ms": 193041
+    },
+    {
+      "index": 66,
+      "text": "There was a pause.",
+      "start_ms": 193041,
+      "end_ms": 194320
+    },
+    {
+      "index": 67,
+      "text": "Then, from somewhere down the hall, one more clock struck.",
+      "start_ms": 194320,
+      "end_ms": 198090
+    },
+    {
+      "index": 68,
+      "text": "Just once.",
+      "start_ms": 198090,
+      "end_ms": 198794
+    },
+    {
+      "index": 69,
+      "text": "Softly.",
+      "start_ms": 198794,
+      "end_ms": 199369
+    },
+    {
+      "index": 70,
+      "text": "Thirteen.",
+      "start_ms": 199369,
+      "end_ms": 199944
+    }
+  ]
+}

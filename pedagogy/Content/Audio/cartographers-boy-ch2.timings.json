@@ -1,0 +1,769 @@
+{
+  "story_id": "cartographers-boy",
+  "chapter": 2,
+  "total_duration_ms": 347016,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On the first morning Ben woke up at five-thirty.",
+      "start_ms": 1919,
+      "end_ms": 5054
+    },
+    {
+      "index": 1,
+      "text": "He did not know why.",
+      "start_ms": 5054,
+      "end_ms": 6398
+    },
+    {
+      "index": 2,
+      "text": "It was very early.",
+      "start_ms": 6398,
+      "end_ms": 7613
+    },
+    {
+      "index": 3,
+      "text": "He got up quietly so as not to wake Fraser, but when he came out of the bothy he saw Fraser was already outside, crouched at the stream filling a water bottle.",
+      "start_ms": 7613,
+      "end_ms": 17850
+    },
+    {
+      "index": 4,
+      "text": "The sea was glass-still.",
+      "start_ms": 17850,
+      "end_ms": 19449
+    },
+    {
+      "index": 5,
+      "text": "There was no wind.",
+      "start_ms": 19449,
+      "end_ms": 20665
+    },
+    {
+      "index": 6,
+      "text": "The air was very cold and very quiet.",
+      "start_ms": 20665,
+      "end_ms": 23096
+    },
+    {
+      "index": 7,
+      "text": "Fraser looked up.",
+      "start_ms": 23096,
+      "end_ms": 24248
+    },
+    {
+      "index": 8,
+      "text": "He said, \"Ah.",
+      "start_ms": 24248,
+      "end_ms": 25144
+    },
+    {
+      "index": 9,
+      "text": "You are awake.",
+      "start_ms": 25144,
+      "end_ms": 26103
+    },
+    {
+      "index": 10,
+      "text": "Good.",
+      "start_ms": 26103,
+      "end_ms": 26487
+    },
+    {
+      "index": 11,
+      "text": "Come.",
+      "start_ms": 26487,
+      "end_ms": 26871
+    },
+    {
+      "index": 12,
+      "text": "I want to try something.\"",
+      "start_ms": 26871,
+      "end_ms": 28598
+    },
+    {
+      "index": 13,
+      "text": "Ben went over.",
+      "start_ms": 28598,
+      "end_ms": 29558
+    },
+    {
+      "index": 14,
+      "text": "Fraser stood up.",
+      "start_ms": 29558,
+      "end_ms": 30646
+    },
+    {
+      "index": 15,
+      "text": "He handed Ben the small notebook and a pencil.",
+      "start_ms": 30646,
+      "end_ms": 33653
+    },
+    {
+      "index": 16,
+      "text": "He said, \"I want you to walk the path we came on yesterday.",
+      "start_ms": 33653,
+      "end_ms": 37491
+    },
+    {
+      "index": 17,
+      "text": "From here back to that big rock we passed — about a kilometer.",
+      "start_ms": 37491,
+      "end_ms": 41522
+    },
+    {
+      "index": 18,
+      "text": "Then come back.",
+      "start_ms": 41522,
+      "end_ms": 42546
+    },
+    {
+      "index": 19,
+      "text": "On the way, I want you to write down every important thing you see.",
+      "start_ms": 42546,
+      "end_ms": 46896
+    },
+    {
+      "index": 20,
+      "text": "Every stream.",
+      "start_ms": 46896,
+      "end_ms": 47792
+    },
+    {
+      "index": 21,
+      "text": "Every big rock.",
+      "start_ms": 47792,
+      "end_ms": 48816
+    },
+    {
+      "index": 22,
+      "text": "Every place where the path splits.",
+      "start_ms": 48816,
+      "end_ms": 51055
+    },
+    {
+      "index": 23,
+      "text": "Every hill you have to climb over.",
+      "start_ms": 51055,
+      "end_ms": 53294
+    },
+    {
+      "index": 24,
+      "text": "Every place where the ground is boggy.",
+      "start_ms": 53294,
+      "end_ms": 55789
+    },
+    {
+      "index": 25,
+      "text": "Every place where a walker might get confused.",
+      "start_ms": 55789,
+      "end_ms": 58796
+    },
+    {
+      "index": 26,
+      "text": "Take as long as you need.",
+      "start_ms": 58796,
+      "end_ms": 60460
+    },
+    {
+      "index": 27,
+      "text": "I will start breakfast when you get back.\"",
+      "start_ms": 60460,
+      "end_ms": 63275
+    },
+    {
+      "index": 28,
+      "text": "Ben was not sure exactly what he was supposed to do.",
+      "start_ms": 63275,
+      "end_ms": 66666
+    },
+    {
+      "index": 29,
+      "text": "But he said okay.",
+      "start_ms": 66666,
+      "end_ms": 67817
+    },
+    {
+      "index": 30,
+      "text": "He set out.",
+      "start_ms": 67817,
+      "end_ms": 68585
+    },
+    {
+      "index": 31,
+      "text": "He walked slowly.",
+      "start_ms": 68585,
+      "end_ms": 69737
+    },
+    {
+      "index": 32,
+      "text": "He tried to look at everything.",
+      "start_ms": 69737,
+      "end_ms": 71784
+    },
+    {
+      "index": 33,
+      "text": "He noted a small stream that crossed the path — he wrote, \"Small stream, stepping stones\" — and a rock that stuck up in the middle of the path — he wrote, \"Boulder, path goes around left\" — and a fork in the path where you could go left toward the sea or right up a small hill.",
+      "start_ms": 71784,
+      "end_ms": 89570
+    },
+    {
+      "index": 34,
+      "text": "He walked to the big rock.",
+      "start_ms": 89570,
+      "end_ms": 91297
+    },
+    {
+      "index": 35,
+      "text": "He turned around.",
+      "start_ms": 91297,
+      "end_ms": 92449
+    },
+    {
+      "index": 36,
+      "text": "He came back.",
+      "start_ms": 92449,
+      "end_ms": 93345
+    },
+    {
+      "index": 37,
+      "text": "He gave the notebook to Fraser.",
+      "start_ms": 93345,
+      "end_ms": 95328
+    },
+    {
+      "index": 38,
+      "text": "Fraser read it carefully.",
+      "start_ms": 95328,
+      "end_ms": 97036
+    },
+    {
+      "index": 39,
+      "text": "He said, \"Good.",
+      "start_ms": 97036,
+      "end_ms": 98088
+    },
+    {
+      "index": 40,
+      "text": "You noticed the fork.",
+      "start_ms": 98088,
+      "end_ms": 99533
+    },
+    {
+      "index": 41,
+      "text": "You noticed the boulder.",
+      "start_ms": 99533,
+      "end_ms": 101176
+    },
+    {
+      "index": 42,
+      "text": "But — did you notice how many times the path was under water on the beach section?\" Ben thought.",
+      "start_ms": 101176,
+      "end_ms": 107549
+    },
+    {
+      "index": 43,
+      "text": "\"No.",
+      "start_ms": 107549,
+      "end_ms": 107878
+    },
+    {
+      "index": 44,
+      "text": "Not really.\" \"How about which side of the path you have to walk on to avoid the boggy bit?\" \"No.\" \"How about whether the small stream was easy to cross today, or if you would need to be careful in rain?\" \"No.\" Fraser nodded, not unkindly.",
+      "start_ms": 107878,
+      "end_ms": 123581
+    },
+    {
+      "index": 45,
+      "text": "\"That is what I mean.",
+      "start_ms": 123581,
+      "end_ms": 125027
+    },
+    {
+      "index": 46,
+      "text": "You saw all the big obvious things.",
+      "start_ms": 125027,
+      "end_ms": 127392
+    },
+    {
+      "index": 47,
+      "text": "But there is a smaller layer of information.",
+      "start_ms": 127392,
+      "end_ms": 130349
+    },
+    {
+      "index": 48,
+      "text": "That is the layer I am trying to write down.",
+      "start_ms": 130349,
+      "end_ms": 133305
+    },
+    {
+      "index": 49,
+      "text": "That is what a walker's path is.",
+      "start_ms": 133305,
+      "end_ms": 135474
+    },
+    {
+      "index": 50,
+      "text": "Come.",
+      "start_ms": 135474,
+      "end_ms": 135868
+    },
+    {
+      "index": 51,
+      "text": "We will walk the whole thing together today.",
+      "start_ms": 135868,
+      "end_ms": 138825
+    },
+    {
+      "index": 52,
+      "text": "I will show you.\"",
+      "start_ms": 138825,
+      "end_ms": 140073
+    },
+    {
+      "index": 53,
+      "text": "For the next four days they walked.",
+      "start_ms": 140073,
+      "end_ms": 142438
+    },
+    {
+      "index": 54,
+      "text": "Fraser taught Ben how to see the walker's path.",
+      "start_ms": 142438,
+      "end_ms": 145592
+    },
+    {
+      "index": 55,
+      "text": "It was completely different from how Ben had been seeing the world before.",
+      "start_ms": 145592,
+      "end_ms": 150520
+    },
+    {
+      "index": 56,
+      "text": "Fraser noticed things that Ben would never have thought to notice.",
+      "start_ms": 150520,
+      "end_ms": 154922
+    },
+    {
+      "index": 57,
+      "text": "Where the ground was slightly soft under a certain patch of grass.",
+      "start_ms": 154922,
+      "end_ms": 159324
+    },
+    {
+      "index": 58,
+      "text": "Where a particular kind of moss grew that meant water was near the surface.",
+      "start_ms": 159324,
+      "end_ms": 164318
+    },
+    {
+      "index": 59,
+      "text": "Where the wind would hit you differently at a certain corner because of how the hill was shaped.",
+      "start_ms": 164318,
+      "end_ms": 170691
+    },
+    {
+      "index": 60,
+      "text": "Where in fifty years — if the coastline eroded at its current rate — the path would have to move.",
+      "start_ms": 170691,
+      "end_ms": 177196
+    },
+    {
+      "index": 61,
+      "text": "\"A path is not just a line,\" Fraser said, on the second day, sitting on a rock during a break.",
+      "start_ms": 177196,
+      "end_ms": 183438
+    },
+    {
+      "index": 62,
+      "text": "\"A path is a — a — a body of knowledge.",
+      "start_ms": 183438,
+      "end_ms": 186066
+    },
+    {
+      "index": 63,
+      "text": "Every person who has walked it has left a small bit of knowledge in it.",
+      "start_ms": 186066,
+      "end_ms": 190797
+    },
+    {
+      "index": 64,
+      "text": "Where to step.",
+      "start_ms": 190797,
+      "end_ms": 191783
+    },
+    {
+      "index": 65,
+      "text": "Where not to step.",
+      "start_ms": 191783,
+      "end_ms": 193031
+    },
+    {
+      "index": 66,
+      "text": "Where you can rest.",
+      "start_ms": 193031,
+      "end_ms": 194345
+    },
+    {
+      "index": 67,
+      "text": "That knowledge is not on any map.",
+      "start_ms": 194345,
+      "end_ms": 196579
+    },
+    {
+      "index": 68,
+      "text": "Ordnance Survey does not care about that.",
+      "start_ms": 196579,
+      "end_ms": 199339
+    },
+    {
+      "index": 69,
+      "text": "They care about big things.",
+      "start_ms": 199339,
+      "end_ms": 201178
+    },
+    {
+      "index": 70,
+      "text": "Bothies.",
+      "start_ms": 201178,
+      "end_ms": 201770
+    },
+    {
+      "index": 71,
+      "text": "Hills.",
+      "start_ms": 201770,
+      "end_ms": 202230
+    },
+    {
+      "index": 72,
+      "text": "Rivers.",
+      "start_ms": 202230,
+      "end_ms": 202755
+    },
+    {
+      "index": 73,
+      "text": "Roads.",
+      "start_ms": 202755,
+      "end_ms": 203215
+    },
+    {
+      "index": 74,
+      "text": "But the walker's knowledge is the small stuff.",
+      "start_ms": 203215,
+      "end_ms": 206303
+    },
+    {
+      "index": 75,
+      "text": "And when I map a path — a real one, the way I do it — I try to catch that.",
+      "start_ms": 206303,
+      "end_ms": 211231
+    },
+    {
+      "index": 76,
+      "text": "So a person who has never walked here can walk here safely.",
+      "start_ms": 211231,
+      "end_ms": 215173
+    },
+    {
+      "index": 77,
+      "text": "That is the whole point.\"",
+      "start_ms": 215173,
+      "end_ms": 216816
+    },
+    {
+      "index": 78,
+      "text": "Ben started to see the world differently.",
+      "start_ms": 216816,
+      "end_ms": 219249
+    },
+    {
+      "index": 79,
+      "text": "He walked slower.",
+      "start_ms": 219249,
+      "end_ms": 220292
+    },
+    {
+      "index": 80,
+      "text": "He noticed things.",
+      "start_ms": 220292,
+      "end_ms": 221392
+    },
+    {
+      "index": 81,
+      "text": "On the third day he pointed at a small rock outcrop in front of them and he said, without thinking, \"Fraser — that section is going to be slippery in rain.",
+      "start_ms": 221392,
+      "end_ms": 230429
+    },
+    {
+      "index": 82,
+      "text": "There is not much to hold on to.",
+      "start_ms": 230429,
+      "end_ms": 232341
+    },
+    {
+      "index": 83,
+      "text": "Someone should know before they get there.\" Fraser stopped.",
+      "start_ms": 232341,
+      "end_ms": 235816
+    },
+    {
+      "index": 84,
+      "text": "He looked at Ben.",
+      "start_ms": 235816,
+      "end_ms": 236859
+    },
+    {
+      "index": 85,
+      "text": "Then he smiled — for the first time, a real smile — and he said, \"Yes.",
+      "start_ms": 236859,
+      "end_ms": 240972
+    },
+    {
+      "index": 86,
+      "text": "That is exactly right.",
+      "start_ms": 240972,
+      "end_ms": 242304
+    },
+    {
+      "index": 87,
+      "text": "Write it down.\" Ben wrote it in the notebook.",
+      "start_ms": 242304,
+      "end_ms": 244969
+    },
+    {
+      "index": 88,
+      "text": "Fraser read it later.",
+      "start_ms": 244969,
+      "end_ms": 246243
+    },
+    {
+      "index": 89,
+      "text": "That evening at the bothy, Fraser transferred the note into his own bigger notebook, in his own careful handwriting.",
+      "start_ms": 246243,
+      "end_ms": 253021
+    },
+    {
+      "index": 90,
+      "text": "He said, \"That is your entry now.",
+      "start_ms": 253021,
+      "end_ms": 254990
+    },
+    {
+      "index": 91,
+      "text": "If anyone ever reads my mapping book, they will read your entry.",
+      "start_ms": 254990,
+      "end_ms": 258756
+    },
+    {
+      "index": 92,
+      "text": "You mapped a bit of this path.\"",
+      "start_ms": 258756,
+      "end_ms": 260667
+    },
+    {
+      "index": 93,
+      "text": "Ben looked at his own handwriting in Fraser's book.",
+      "start_ms": 260667,
+      "end_ms": 263680
+    },
+    {
+      "index": 94,
+      "text": "He was surprised by how much it meant to him.",
+      "start_ms": 263680,
+      "end_ms": 266344
+    },
+    {
+      "index": 95,
+      "text": "He had never made a thing that would be in a book that people would read.",
+      "start_ms": 266344,
+      "end_ms": 270631
+    },
+    {
+      "index": 96,
+      "text": "Even a small thing.",
+      "start_ms": 270631,
+      "end_ms": 271789
+    },
+    {
+      "index": 97,
+      "text": "Even one line.",
+      "start_ms": 271789,
+      "end_ms": 272658
+    },
+    {
+      "index": 98,
+      "text": "He kept looking at it for a while.",
+      "start_ms": 272658,
+      "end_ms": 274744
+    },
+    {
+      "index": 99,
+      "text": "On the fourth evening, at a different bothy, Ben finally asked Fraser something he had been wondering about the whole trip.",
+      "start_ms": 274744,
+      "end_ms": 281927
+    },
+    {
+      "index": 100,
+      "text": "\"Fraser.",
+      "start_ms": 281927,
+      "end_ms": 282448
+    },
+    {
+      "index": 101,
+      "text": "Do you always work alone.",
+      "start_ms": 282448,
+      "end_ms": 283954
+    },
+    {
+      "index": 102,
+      "text": "All year?\" Fraser was quiet for a while.",
+      "start_ms": 283954,
+      "end_ms": 286329
+    },
+    {
+      "index": 103,
+      "text": "Then he said, \"Yes.",
+      "start_ms": 286329,
+      "end_ms": 287488
+    },
+    {
+      "index": 104,
+      "text": "Mostly.",
+      "start_ms": 287488,
+      "end_ms": 287951
+    },
+    {
+      "index": 105,
+      "text": "I go on trips like this all summer.",
+      "start_ms": 287951,
+      "end_ms": 290037
+    },
+    {
+      "index": 106,
+      "text": "In the winter I am at home in Inverness and I turn the notes into finished maps.",
+      "start_ms": 290037,
+      "end_ms": 294729
+    },
+    {
+      "index": 107,
+      "text": "I sell them.",
+      "start_ms": 294729,
+      "end_ms": 295482
+    },
+    {
+      "index": 108,
+      "text": "There are people who buy them.",
+      "start_ms": 295482,
+      "end_ms": 297278
+    },
+    {
+      "index": 109,
+      "text": "Serious walkers.",
+      "start_ms": 297278,
+      "end_ms": 298262
+    },
+    {
+      "index": 110,
+      "text": "People planning long routes.",
+      "start_ms": 298262,
+      "end_ms": 299942
+    },
+    {
+      "index": 111,
+      "text": "It is not a big audience.",
+      "start_ms": 299942,
+      "end_ms": 301448
+    },
+    {
+      "index": 112,
+      "text": "But it is enough for me to live.\"",
+      "start_ms": 301448,
+      "end_ms": 303360
+    },
+    {
+      "index": 113,
+      "text": "\"Why do you like it,\" said Ben.",
+      "start_ms": 303360,
+      "end_ms": 305233
+    },
+    {
+      "index": 114,
+      "text": "Fraser thought for a long time.",
+      "start_ms": 305233,
+      "end_ms": 307105
+    },
+    {
+      "index": 115,
+      "text": "Then he said, \"I like the walking.",
+      "start_ms": 307105,
+      "end_ms": 309153
+    },
+    {
+      "index": 116,
+      "text": "I like the quiet.",
+      "start_ms": 309153,
+      "end_ms": 310207
+    },
+    {
+      "index": 117,
+      "text": "I like the — the small work.",
+      "start_ms": 310207,
+      "end_ms": 311904
+    },
+    {
+      "index": 118,
+      "text": "Nobody notices the small stuff, but the small stuff is what actually matters.",
+      "start_ms": 311904,
+      "end_ms": 316469
+    },
+    {
+      "index": 119,
+      "text": "In the mountains, the small stuff can save your life.",
+      "start_ms": 316469,
+      "end_ms": 319629
+    },
+    {
+      "index": 120,
+      "text": "Not knowing there is a boggy patch, that is what makes people twist their ankle.",
+      "start_ms": 319629,
+      "end_ms": 324369
+    },
+    {
+      "index": 121,
+      "text": "Not knowing there is a slippery rock in the rain, that is what makes people fall.",
+      "start_ms": 324369,
+      "end_ms": 329167
+    },
+    {
+      "index": 122,
+      "text": "So if I write down where those things are, and someone reads it, and they walk safely — I have done something small but real for that person.",
+      "start_ms": 329167,
+      "end_ms": 337477
+    },
+    {
+      "index": 123,
+      "text": "I will never meet them.",
+      "start_ms": 337477,
+      "end_ms": 338882
+    },
+    {
+      "index": 124,
+      "text": "But I have helped them.\" He paused.",
+      "start_ms": 338882,
+      "end_ms": 340988
+    },
+    {
+      "index": 125,
+      "text": "\"I like that better than a job where I have to be around a lot of people.",
+      "start_ms": 340988,
+      "end_ms": 345319
+    },
+    {
+      "index": 126,
+      "text": "I have always been that way.\"",
+      "start_ms": 345319,
+      "end_ms": 347016
+    }
+  ]
+}

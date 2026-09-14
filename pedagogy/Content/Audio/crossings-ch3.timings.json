@@ -1,0 +1,667 @@
+{
+  "story_id": "crossings",
+  "chapter": 3,
+  "total_duration_ms": 377016,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The funeral was in the small stone church.",
+      "start_ms": 1700,
+      "end_ms": 4406
+    },
+    {
+      "index": 1,
+      "text": "Tayta Silverio's coffin was made of unfinished wood and was covered in mountain flowers.",
+      "start_ms": 4406,
+      "end_ms": 10008
+    },
+    {
+      "index": 2,
+      "text": "The whole village was there — maybe eighty people.",
+      "start_ms": 10008,
+      "end_ms": 13219
+    },
+    {
+      "index": 3,
+      "text": "The priest spoke in Quechua and Spanish.",
+      "start_ms": 13219,
+      "end_ms": 15799
+    },
+    {
+      "index": 4,
+      "text": "There was singing.",
+      "start_ms": 15799,
+      "end_ms": 16995
+    },
+    {
+      "index": 5,
+      "text": "Amaru did not understand most of the words but he understood the singing.",
+      "start_ms": 16995,
+      "end_ms": 21653
+    },
+    {
+      "index": 6,
+      "text": "It was low and slow and heavy, like something being carefully carried.",
+      "start_ms": 21653,
+      "end_ms": 26122
+    },
+    {
+      "index": 7,
+      "text": "He held his father's hand.",
+      "start_ms": 26122,
+      "end_ms": 27822
+    },
+    {
+      "index": 8,
+      "text": "His father held it back.",
+      "start_ms": 27822,
+      "end_ms": 29396
+    },
+    {
+      "index": 9,
+      "text": "His father's eyes were wet but he did not cry openly.",
+      "start_ms": 29396,
+      "end_ms": 32858
+    },
+    {
+      "index": 10,
+      "text": "After the service they walked in a procession up the hillside behind the church, to a small terraced cemetery cut into the mountain.",
+      "start_ms": 32858,
+      "end_ms": 41229
+    },
+    {
+      "index": 11,
+      "text": "Amaru had never seen a cemetery like it.",
+      "start_ms": 41229,
+      "end_ms": 43810
+    },
+    {
+      "index": 12,
+      "text": "Each grave was marked with a small stone house, or a wooden cross, and the whole thing was arranged in tiers going up the slope.",
+      "start_ms": 43810,
+      "end_ms": 51930
+    },
+    {
+      "index": 13,
+      "text": "Tayta Silverio's grave was near the top, next to the grave of his wife, who had died fifteen years before.",
+      "start_ms": 51930,
+      "end_ms": 58665
+    },
+    {
+      "index": 14,
+      "text": "His father helped the other men lower the coffin.",
+      "start_ms": 58665,
+      "end_ms": 61812
+    },
+    {
+      "index": 15,
+      "text": "They put flowers on top of the fresh earth.",
+      "start_ms": 61812,
+      "end_ms": 64582
+    },
+    {
+      "index": 16,
+      "text": "They put a small candle.",
+      "start_ms": 64582,
+      "end_ms": 66156
+    },
+    {
+      "index": 17,
+      "text": "They sang one more song.",
+      "start_ms": 66156,
+      "end_ms": 67729
+    },
+    {
+      "index": 18,
+      "text": "And then, one by one, everyone came forward and placed a small stone on the grave.",
+      "start_ms": 67729,
+      "end_ms": 72954
+    },
+    {
+      "index": 19,
+      "text": "Amaru placed his.",
+      "start_ms": 72954,
+      "end_ms": 74087
+    },
+    {
+      "index": 20,
+      "text": "His father placed his.",
+      "start_ms": 74087,
+      "end_ms": 75535
+    },
+    {
+      "index": 21,
+      "text": "The last person to place a stone was the oldest man in the village, who was Silverio's cousin, and who was ninety-three.",
+      "start_ms": 75535,
+      "end_ms": 83088
+    },
+    {
+      "index": 22,
+      "text": "That afternoon there was a feast at Silverio's house — the house where Amaru's father had grown up.",
+      "start_ms": 83088,
+      "end_ms": 89755
+    },
+    {
+      "index": 23,
+      "text": "Amaru had never been inside it before.",
+      "start_ms": 89755,
+      "end_ms": 92356
+    },
+    {
+      "index": 24,
+      "text": "It was small and dark and smelled of woodsmoke, and there was a low fire burning in a stone hearth in one corner, and there were bright woven blankets on the beds and the walls.",
+      "start_ms": 92356,
+      "end_ms": 104224
+    },
+    {
+      "index": 25,
+      "text": "Everyone was crowded in.",
+      "start_ms": 104224,
+      "end_ms": 105890
+    },
+    {
+      "index": 26,
+      "text": "There was chicha, which was a fermented corn drink, and there was food — lots of food — and there was talking and laughing that Amaru could not follow.",
+      "start_ms": 105890,
+      "end_ms": 116025
+    },
+    {
+      "index": 27,
+      "text": "He sat in a corner with a plate of food and ate.",
+      "start_ms": 116025,
+      "end_ms": 119292
+    },
+    {
+      "index": 28,
+      "text": "He watched his father move through the room.",
+      "start_ms": 119292,
+      "end_ms": 122292
+    },
+    {
+      "index": 29,
+      "text": "His father seemed to know everyone, and everyone seemed to know his father, and Amaru saw, again and again, his father hug people and be hugged back.",
+      "start_ms": 122292,
+      "end_ms": 132360
+    },
+    {
+      "index": 30,
+      "text": "After a while an old man came over to Amaru.",
+      "start_ms": 132360,
+      "end_ms": 135360
+    },
+    {
+      "index": 31,
+      "text": "He sat down next to him.",
+      "start_ms": 135360,
+      "end_ms": 137027
+    },
+    {
+      "index": 32,
+      "text": "He had a small carved wooden box in his hand.",
+      "start_ms": 137027,
+      "end_ms": 140094
+    },
+    {
+      "index": 33,
+      "text": "\"You are Amaru,\" he said.",
+      "start_ms": 140094,
+      "end_ms": 141827
+    },
+    {
+      "index": 34,
+      "text": "\"You are Manuel's boy.",
+      "start_ms": 141827,
+      "end_ms": 143361
+    },
+    {
+      "index": 35,
+      "text": "I am your grandfather's brother.",
+      "start_ms": 143361,
+      "end_ms": 145561
+    },
+    {
+      "index": 36,
+      "text": "Do you know me.",
+      "start_ms": 145561,
+      "end_ms": 146628
+    },
+    {
+      "index": 37,
+      "text": "Have you heard of me.\" Amaru did not know him.",
+      "start_ms": 146628,
+      "end_ms": 149762
+    },
+    {
+      "index": 38,
+      "text": "But he nodded politely.",
+      "start_ms": 149762,
+      "end_ms": 151362
+    },
+    {
+      "index": 39,
+      "text": "The old man smiled.",
+      "start_ms": 151362,
+      "end_ms": 152695
+    },
+    {
+      "index": 40,
+      "text": "\"That is all right.",
+      "start_ms": 152695,
+      "end_ms": 154029
+    },
+    {
+      "index": 41,
+      "text": "You would not remember.",
+      "start_ms": 154029,
+      "end_ms": 155629
+    },
+    {
+      "index": 42,
+      "text": "I saw you when you were small.",
+      "start_ms": 155629,
+      "end_ms": 157696
+    },
+    {
+      "index": 43,
+      "text": "You had very small hands.",
+      "start_ms": 157696,
+      "end_ms": 159429
+    },
+    {
+      "index": 44,
+      "text": "Now they are big.\" He held out the wooden box.",
+      "start_ms": 159429,
+      "end_ms": 162563
+    },
+    {
+      "index": 45,
+      "text": "\"Silverio left this for you.",
+      "start_ms": 162563,
+      "end_ms": 164496
+    },
+    {
+      "index": 46,
+      "text": "He asked me to give it to you when you came.",
+      "start_ms": 164496,
+      "end_ms": 167497
+    },
+    {
+      "index": 47,
+      "text": "He knew you would come.\"",
+      "start_ms": 167497,
+      "end_ms": 169230
+    },
+    {
+      "index": 48,
+      "text": "Amaru took the box.",
+      "start_ms": 169230,
+      "end_ms": 170564
+    },
+    {
+      "index": 49,
+      "text": "He opened it.",
+      "start_ms": 170564,
+      "end_ms": 171497
+    },
+    {
+      "index": 50,
+      "text": "Inside there were two things: a small flat black stone with a carved pattern on one side — a kind of spiral — and a folded piece of paper.",
+      "start_ms": 171497,
+      "end_ms": 180765
+    },
+    {
+      "index": 51,
+      "text": "Amaru unfolded the paper.",
+      "start_ms": 180765,
+      "end_ms": 182498
+    },
+    {
+      "index": 52,
+      "text": "It was a short note, in careful Spanish.",
+      "start_ms": 182498,
+      "end_ms": 185232
+    },
+    {
+      "index": 53,
+      "text": "He read it slowly.",
+      "start_ms": 185232,
+      "end_ms": 186432
+    },
+    {
+      "index": 54,
+      "text": "Amaru, my great-grandson.",
+      "start_ms": 186432,
+      "end_ms": 188058
+    },
+    {
+      "index": 55,
+      "text": "This stone was my grandfather's, and his grandfather's before him.",
+      "start_ms": 188058,
+      "end_ms": 192248
+    },
+    {
+      "index": 56,
+      "text": "It is very old.",
+      "start_ms": 192248,
+      "end_ms": 193248
+    },
+    {
+      "index": 57,
+      "text": "Nobody now knows exactly what the pattern means.",
+      "start_ms": 193248,
+      "end_ms": 196312
+    },
+    {
+      "index": 58,
+      "text": "It is not important that we know.",
+      "start_ms": 196312,
+      "end_ms": 198438
+    },
+    {
+      "index": 59,
+      "text": "It is important that we keep it.",
+      "start_ms": 198438,
+      "end_ms": 200502
+    },
+    {
+      "index": 60,
+      "text": "Every child in this family, when they are ready, gets this stone for one week to hold and think about.",
+      "start_ms": 200502,
+      "end_ms": 206943
+    },
+    {
+      "index": 61,
+      "text": "Then they give it back and it is kept safe until the next child.",
+      "start_ms": 206943,
+      "end_ms": 211008
+    },
+    {
+      "index": 62,
+      "text": "When you go home to Lima, take it with you.",
+      "start_ms": 211008,
+      "end_ms": 213759
+    },
+    {
+      "index": 63,
+      "text": "Hold it for one week.",
+      "start_ms": 213759,
+      "end_ms": 215135
+    },
+    {
+      "index": 64,
+      "text": "Think about where it came from.",
+      "start_ms": 215135,
+      "end_ms": 217136
+    },
+    {
+      "index": 65,
+      "text": "Then send it back to my brother, who will keep it for the next one.",
+      "start_ms": 217136,
+      "end_ms": 221388
+    },
+    {
+      "index": 66,
+      "text": "— Tayta Silverio.",
+      "start_ms": 221388,
+      "end_ms": 222576
+    },
+    {
+      "index": 67,
+      "text": "Amaru sat for a while with the small stone in his palm.",
+      "start_ms": 222576,
+      "end_ms": 226078
+    },
+    {
+      "index": 68,
+      "text": "It was cool.",
+      "start_ms": 226078,
+      "end_ms": 226891
+    },
+    {
+      "index": 69,
+      "text": "It fit his palm exactly.",
+      "start_ms": 226891,
+      "end_ms": 228455
+    },
+    {
+      "index": 70,
+      "text": "He closed his fingers around it.",
+      "start_ms": 228455,
+      "end_ms": 230518
+    },
+    {
+      "index": 71,
+      "text": "The old man beside him watched patiently and did not talk.",
+      "start_ms": 230518,
+      "end_ms": 234208
+    },
+    {
+      "index": 72,
+      "text": "Amaru said, quietly, \"Did my papá get to hold this too, when he was young.\" \"Yes,\" said the old man.",
+      "start_ms": 234208,
+      "end_ms": 240524
+    },
+    {
+      "index": 73,
+      "text": "\"When he was your age.",
+      "start_ms": 240524,
+      "end_ms": 241962
+    },
+    {
+      "index": 74,
+      "text": "He held it for one week.",
+      "start_ms": 241962,
+      "end_ms": 243525
+    },
+    {
+      "index": 75,
+      "text": "Then he gave it back.",
+      "start_ms": 243525,
+      "end_ms": 244901
+    },
+    {
+      "index": 76,
+      "text": "Now it is your turn.",
+      "start_ms": 244901,
+      "end_ms": 246214
+    },
+    {
+      "index": 77,
+      "text": "When your children are old enough, they will hold it too.",
+      "start_ms": 246214,
+      "end_ms": 249841
+    },
+    {
+      "index": 78,
+      "text": "If you have children.",
+      "start_ms": 249841,
+      "end_ms": 251217
+    },
+    {
+      "index": 79,
+      "text": "Or you can pass it to your sister's children, if you like.",
+      "start_ms": 251217,
+      "end_ms": 254906
+    },
+    {
+      "index": 80,
+      "text": "Silverio did not care who.",
+      "start_ms": 254906,
+      "end_ms": 256595
+    },
+    {
+      "index": 81,
+      "text": "Only that it kept going.\"",
+      "start_ms": 256595,
+      "end_ms": 258283
+    },
+    {
+      "index": 82,
+      "text": "Amaru put the stone back in the box, gently, and put the note on top of it, and closed the box.",
+      "start_ms": 258283,
+      "end_ms": 264286
+    },
+    {
+      "index": 83,
+      "text": "He held the box in both hands.",
+      "start_ms": 264286,
+      "end_ms": 266225
+    },
+    {
+      "index": 84,
+      "text": "His father came over then, and sat down beside him, and looked at the box.",
+      "start_ms": 266225,
+      "end_ms": 270915
+    },
+    {
+      "index": 85,
+      "text": "Amaru said, \"He gave me this.\" His father nodded slowly.",
+      "start_ms": 270915,
+      "end_ms": 274479
+    },
+    {
+      "index": 86,
+      "text": "He said, \"I remember.",
+      "start_ms": 274479,
+      "end_ms": 275855
+    },
+    {
+      "index": 87,
+      "text": "I had it for one week when I was twelve.",
+      "start_ms": 275855,
+      "end_ms": 278419
+    },
+    {
+      "index": 88,
+      "text": "I sat on the roof of this house every evening that week and I held it in my hand and I thought about what he wanted me to think about.",
+      "start_ms": 278419,
+      "end_ms": 286861
+    },
+    {
+      "index": 89,
+      "text": "Which was — nothing specific.",
+      "start_ms": 286861,
+      "end_ms": 288737
+    },
+    {
+      "index": 90,
+      "text": "Just to sit with it.",
+      "start_ms": 288737,
+      "end_ms": 290050
+    },
+    {
+      "index": 91,
+      "text": "I did not know what it meant to sit with something then.",
+      "start_ms": 290050,
+      "end_ms": 293615
+    },
+    {
+      "index": 92,
+      "text": "Now I do.\"",
+      "start_ms": 293615,
+      "end_ms": 294240
+    },
+    {
+      "index": 93,
+      "text": "They stayed in Choquepata for two more days.",
+      "start_ms": 294240,
+      "end_ms": 297105
+    },
+    {
+      "index": 94,
+      "text": "On Monday morning they started back.",
+      "start_ms": 297105,
+      "end_ms": 299461
+    },
+    {
+      "index": 95,
+      "text": "Going back was somehow easier — Amaru's body was more used to it, and the pass did not feel as far.",
+      "start_ms": 299461,
+      "end_ms": 305829
+    },
+    {
+      "index": 96,
+      "text": "On the way up, on the second morning, when they passed the great apacheta at the top of the pass, his father added a stone.",
+      "start_ms": 305829,
+      "end_ms": 313724
+    },
+    {
+      "index": 97,
+      "text": "Amaru added a stone.",
+      "start_ms": 313724,
+      "end_ms": 315061
+    },
+    {
+      "index": 98,
+      "text": "His father said, \"For Tayta Silverio's safe passage.\" Amaru said, \"For safe passage.\" And they went on down the other side.",
+      "start_ms": 315061,
+      "end_ms": 323021
+    },
+    {
+      "index": 99,
+      "text": "In his pocket, in the small wooden box, was the stone.",
+      "start_ms": 323021,
+      "end_ms": 326523
+    },
+    {
+      "index": 100,
+      "text": "Amaru kept his hand on it, sometimes, as they walked.",
+      "start_ms": 326523,
+      "end_ms": 329961
+    },
+    {
+      "index": 101,
+      "text": "He thought about the fact that he was going back to Lima, which was a place his father had chosen, but that a small piece of Choquepata was coming with him, and that in a week he would send it back so it could keep waiting for the next child.",
+      "start_ms": 329961,
+      "end_ms": 345434
+    },
+    {
+      "index": 102,
+      "text": "He thought about his father's words at the top of the pass.",
+      "start_ms": 345434,
+      "end_ms": 349254
+    },
+    {
+      "index": 103,
+      "text": "You can be from more than one place.",
+      "start_ms": 349254,
+      "end_ms": 351610
+    },
+    {
+      "index": 104,
+      "text": "He had not fully understood then.",
+      "start_ms": 351610,
+      "end_ms": 353775
+    },
+    {
+      "index": 105,
+      "text": "He understood now.",
+      "start_ms": 353775,
+      "end_ms": 354985
+    },
+    {
+      "index": 106,
+      "text": "He was from Lima.",
+      "start_ms": 354985,
+      "end_ms": 356131
+    },
+    {
+      "index": 107,
+      "text": "He was also, now, from Choquepata.",
+      "start_ms": 356131,
+      "end_ms": 358360
+    },
+    {
+      "index": 108,
+      "text": "He always would be.",
+      "start_ms": 358360,
+      "end_ms": 359633
+    },
+    {
+      "index": 109,
+      "text": "And someday, when he was older and had his own children, he would take them back over the pass, if there was still no road, and he would show them the small stone house at the top of the terraced cemetery, and he would tell them who was buried there, and why they had come.",
+      "start_ms": 359633,
+      "end_ms": 377016
+    }
+  ]
+}

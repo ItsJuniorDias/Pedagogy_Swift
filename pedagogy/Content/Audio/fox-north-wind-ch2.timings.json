@@ -1,0 +1,469 @@
+{
+  "story_id": "fox-north-wind",
+  "chapter": 2,
+  "total_duration_ms": 190344,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "In the morning, Nell told Farmor about the tracks.",
+      "start_ms": 1749,
+      "end_ms": 5117
+    },
+    {
+      "index": 1,
+      "text": "Farmor did not seem surprised.",
+      "start_ms": 5117,
+      "end_ms": 7125
+    },
+    {
+      "index": 2,
+      "text": "She stood at the window with her cup of coffee and looked out at the snow.",
+      "start_ms": 7125,
+      "end_ms": 11983
+    },
+    {
+      "index": 3,
+      "text": "The wind was still blowing.",
+      "start_ms": 11983,
+      "end_ms": 13861
+    },
+    {
+      "index": 4,
+      "text": "\"Two nights,\" she said, quietly.",
+      "start_ms": 13861,
+      "end_ms": 15998
+    },
+    {
+      "index": 5,
+      "text": "\"If it goes another night, the fox will come.\"",
+      "start_ms": 15998,
+      "end_ms": 19107
+    },
+    {
+      "index": 6,
+      "text": "\"Farmor, do you really believe in it?",
+      "start_ms": 19107,
+      "end_ms": 21569
+    },
+    {
+      "index": 7,
+      "text": "The story?\"",
+      "start_ms": 21569,
+      "end_ms": 22411
+    },
+    {
+      "index": 8,
+      "text": "Her grandmother was quiet for a moment.",
+      "start_ms": 22411,
+      "end_ms": 25066
+    },
+    {
+      "index": 9,
+      "text": "\"I believe,\" she said, \"that some things are true even if they cannot be explained.",
+      "start_ms": 25066,
+      "end_ms": 30507
+    },
+    {
+      "index": 10,
+      "text": "And I believe that some things are true because we agree to keep them true.\"",
+      "start_ms": 30507,
+      "end_ms": 35559
+    },
+    {
+      "index": 11,
+      "text": "That afternoon, Farmor went to a drawer in the kitchen and took out a very small wooden box.",
+      "start_ms": 35559,
+      "end_ms": 41648
+    },
+    {
+      "index": 12,
+      "text": "It was old.",
+      "start_ms": 41648,
+      "end_ms": 42425
+    },
+    {
+      "index": 13,
+      "text": "The lid did not quite fit.",
+      "start_ms": 42425,
+      "end_ms": 44174
+    },
+    {
+      "index": 14,
+      "text": "Farmor blew on it and dust rose.",
+      "start_ms": 44174,
+      "end_ms": 46376
+    },
+    {
+      "index": 15,
+      "text": "\"This,\" she said, \"is the offering box.",
+      "start_ms": 46376,
+      "end_ms": 48967
+    },
+    {
+      "index": 16,
+      "text": "My father kept it here.",
+      "start_ms": 48967,
+      "end_ms": 50521
+    },
+    {
+      "index": 17,
+      "text": "When the wind blew three nights, we put the gift inside, and we put the box on the doorstep at midnight.\"",
+      "start_ms": 50521,
+      "end_ms": 57452
+    },
+    {
+      "index": 18,
+      "text": "She opened the box.",
+      "start_ms": 57452,
+      "end_ms": 58747
+    },
+    {
+      "index": 19,
+      "text": "It was empty.",
+      "start_ms": 58747,
+      "end_ms": 59719
+    },
+    {
+      "index": 20,
+      "text": "\"Farmor.",
+      "start_ms": 59719,
+      "end_ms": 60302
+    },
+    {
+      "index": 21,
+      "text": "Do you have a gift ready?\"",
+      "start_ms": 60302,
+      "end_ms": 62115
+    },
+    {
+      "index": 22,
+      "text": "Her grandmother sighed.",
+      "start_ms": 62115,
+      "end_ms": 63670
+    },
+    {
+      "index": 23,
+      "text": "She sat down at the kitchen table.",
+      "start_ms": 63670,
+      "end_ms": 66002
+    },
+    {
+      "index": 24,
+      "text": "\"That is the trouble,\" she said.",
+      "start_ms": 66002,
+      "end_ms": 68139
+    },
+    {
+      "index": 25,
+      "text": "\"My father was the last one who knew the craft.",
+      "start_ms": 68139,
+      "end_ms": 71248
+    },
+    {
+      "index": 26,
+      "text": "He knew what to give.",
+      "start_ms": 71248,
+      "end_ms": 72673
+    },
+    {
+      "index": 27,
+      "text": "Since then — the wind has come three nights only twice in my life.",
+      "start_ms": 72673,
+      "end_ms": 77013
+    },
+    {
+      "index": 28,
+      "text": "Once when I was young.",
+      "start_ms": 77013,
+      "end_ms": 78503
+    },
+    {
+      "index": 29,
+      "text": "Once when your mother was small.\"",
+      "start_ms": 78503,
+      "end_ms": 80770
+    },
+    {
+      "index": 30,
+      "text": "\"And what did you give?\"",
+      "start_ms": 80770,
+      "end_ms": 82454
+    },
+    {
+      "index": 31,
+      "text": "\"The first time, I panicked.",
+      "start_ms": 82454,
+      "end_ms": 84332
+    },
+    {
+      "index": 32,
+      "text": "I gave a gold necklace.",
+      "start_ms": 84332,
+      "end_ms": 85886
+    },
+    {
+      "index": 33,
+      "text": "It was expensive.",
+      "start_ms": 85886,
+      "end_ms": 87052
+    },
+    {
+      "index": 34,
+      "text": "It felt important.\"",
+      "start_ms": 87052,
+      "end_ms": 88413
+    },
+    {
+      "index": 35,
+      "text": "\"What happened?\"",
+      "start_ms": 88413,
+      "end_ms": 89578
+    },
+    {
+      "index": 36,
+      "text": "\"The fox came,\" said Farmor slowly.",
+      "start_ms": 89578,
+      "end_ms": 91910
+    },
+    {
+      "index": 37,
+      "text": "\"It stood on the doorstep.",
+      "start_ms": 91910,
+      "end_ms": 93659
+    },
+    {
+      "index": 38,
+      "text": "It looked at the necklace.",
+      "start_ms": 93659,
+      "end_ms": 95408
+    },
+    {
+      "index": 39,
+      "text": "It looked at me.",
+      "start_ms": 95408,
+      "end_ms": 96509
+    },
+    {
+      "index": 40,
+      "text": "And it left, without taking anything.\"",
+      "start_ms": 96509,
+      "end_ms": 99100
+    },
+    {
+      "index": 41,
+      "text": "She looked at Nell.",
+      "start_ms": 99100,
+      "end_ms": 100460
+    },
+    {
+      "index": 42,
+      "text": "\"I did not understand what I had done wrong.",
+      "start_ms": 100460,
+      "end_ms": 103375
+    },
+    {
+      "index": 43,
+      "text": "But I knew I had done something wrong.",
+      "start_ms": 103375,
+      "end_ms": 105901
+    },
+    {
+      "index": 44,
+      "text": "The next morning, my father's silver ring — the one he wore his whole life — was missing.",
+      "start_ms": 105901,
+      "end_ms": 111730
+    },
+    {
+      "index": 45,
+      "text": "We looked for it for weeks.",
+      "start_ms": 111730,
+      "end_ms": 113544
+    },
+    {
+      "index": 46,
+      "text": "We never found it.\"",
+      "start_ms": 113544,
+      "end_ms": 114904
+    },
+    {
+      "index": 47,
+      "text": "Nell felt the hairs on her arms stand up.",
+      "start_ms": 114904,
+      "end_ms": 117624
+    },
+    {
+      "index": 48,
+      "text": "\"So the story is real.\"",
+      "start_ms": 117624,
+      "end_ms": 119244
+    },
+    {
+      "index": 49,
+      "text": "\"The story is real,\" said Farmor.",
+      "start_ms": 119244,
+      "end_ms": 121446
+    },
+    {
+      "index": 50,
+      "text": "\"But I never learned how to give.\"",
+      "start_ms": 121446,
+      "end_ms": 123648
+    },
+    {
+      "index": 51,
+      "text": "Nell thought about this all afternoon while she helped Farmor bake.",
+      "start_ms": 123648,
+      "end_ms": 127687
+    },
+    {
+      "index": 52,
+      "text": "She thought about it while they ate soup for lunch.",
+      "start_ms": 127687,
+      "end_ms": 130775
+    },
+    {
+      "index": 53,
+      "text": "She thought about it while the wind kept blowing — hour after hour, without stopping.",
+      "start_ms": 130775,
+      "end_ms": 135942
+    },
+    {
+      "index": 54,
+      "text": "\"Farmor,\" she said eventually.",
+      "start_ms": 135942,
+      "end_ms": 137783
+    },
+    {
+      "index": 55,
+      "text": "\"What was different about your grandfather?",
+      "start_ms": 137783,
+      "end_ms": 140396
+    },
+    {
+      "index": 56,
+      "text": "The first time.",
+      "start_ms": 140396,
+      "end_ms": 141346
+    },
+    {
+      "index": 57,
+      "text": "What did he do that worked?\"",
+      "start_ms": 141346,
+      "end_ms": 143128
+    },
+    {
+      "index": 58,
+      "text": "Farmor stopped stirring the soup.",
+      "start_ms": 143128,
+      "end_ms": 145148
+    },
+    {
+      "index": 59,
+      "text": "She looked at Nell, and her eyes were bright.",
+      "start_ms": 145148,
+      "end_ms": 147939
+    },
+    {
+      "index": 60,
+      "text": "\"He was a sailor,\" she said.",
+      "start_ms": 147939,
+      "end_ms": 149661
+    },
+    {
+      "index": 61,
+      "text": "\"He was cold and afraid and alone in the trees.",
+      "start_ms": 149661,
+      "end_ms": 152512
+    },
+    {
+      "index": 62,
+      "text": "And on that first night — the night he was almost lost — he sang.",
+      "start_ms": 152512,
+      "end_ms": 156432
+    },
+    {
+      "index": 63,
+      "text": "He sang to himself, to keep from being afraid.",
+      "start_ms": 156432,
+      "end_ms": 159223
+    },
+    {
+      "index": 64,
+      "text": "He sang all the way through the forest.\"",
+      "start_ms": 159223,
+      "end_ms": 161718
+    },
+    {
+      "index": 65,
+      "text": "\"And the fox heard the song,\" said Nell slowly.",
+      "start_ms": 161718,
+      "end_ms": 164628
+    },
+    {
+      "index": 66,
+      "text": "\"The fox heard the song.",
+      "start_ms": 164628,
+      "end_ms": 166113
+    },
+    {
+      "index": 67,
+      "text": "And came.\"",
+      "start_ms": 166113,
+      "end_ms": 166825
+    },
+    {
+      "index": 68,
+      "text": "That night — the second night — the wind did not stop.",
+      "start_ms": 166825,
+      "end_ms": 170151
+    },
+    {
+      "index": 69,
+      "text": "Nell went to bed but she could not sleep.",
+      "start_ms": 170151,
+      "end_ms": 172646
+    },
+    {
+      "index": 70,
+      "text": "She listened to the wind.",
+      "start_ms": 172646,
+      "end_ms": 174190
+    },
+    {
+      "index": 71,
+      "text": "She thought about her Farmor as a young woman, panicking, choosing a gold necklace.",
+      "start_ms": 174190,
+      "end_ms": 179179
+    },
+    {
+      "index": 72,
+      "text": "She thought about the silver ring that was never found.",
+      "start_ms": 179179,
+      "end_ms": 182564
+    },
+    {
+      "index": 73,
+      "text": "And she thought about tomorrow.",
+      "start_ms": 182564,
+      "end_ms": 184464
+    },
+    {
+      "index": 74,
+      "text": "The third night.",
+      "start_ms": 184464,
+      "end_ms": 185474
+    },
+    {
+      "index": 75,
+      "text": "When the wind was still blowing.",
+      "start_ms": 185474,
+      "end_ms": 187493
+    },
+    {
+      "index": 76,
+      "text": "By morning, she had decided what she would give.",
+      "start_ms": 187493,
+      "end_ms": 190344
+    }
+  ]
+}

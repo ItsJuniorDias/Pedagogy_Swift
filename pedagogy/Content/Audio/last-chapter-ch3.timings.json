@@ -1,0 +1,637 @@
+{
+  "story_id": "last-chapter",
+  "chapter": 3,
+  "total_duration_ms": 237312,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Toby went to see his grandmother on Sunday.",
+      "start_ms": 1579,
+      "end_ms": 4117
+    },
+    {
+      "index": 1,
+      "text": "Riverside Manor was quieter than he had expected.",
+      "start_ms": 4117,
+      "end_ms": 6936
+    },
+    {
+      "index": 2,
+      "text": "There were paintings on the walls and armchairs in the hallway and someone was playing a piano, badly, in another room.",
+      "start_ms": 6936,
+      "end_ms": 13760
+    },
+    {
+      "index": 3,
+      "text": "Grandma Ada was in her room, in a chair by the window.",
+      "start_ms": 13760,
+      "end_ms": 16861
+    },
+    {
+      "index": 4,
+      "text": "She was watching a squirrel on the grass outside.",
+      "start_ms": 16861,
+      "end_ms": 19681
+    },
+    {
+      "index": 5,
+      "text": "When Toby came in she looked up and, for a small terrible second, Toby was not sure she recognized him.",
+      "start_ms": 19681,
+      "end_ms": 25602
+    },
+    {
+      "index": 6,
+      "text": "Then her face lit up.",
+      "start_ms": 25602,
+      "end_ms": 26899
+    },
+    {
+      "index": 7,
+      "text": "\"Toby,\" she said.",
+      "start_ms": 26899,
+      "end_ms": 27914
+    },
+    {
+      "index": 8,
+      "text": "\"Oh, my Toby.",
+      "start_ms": 27914,
+      "end_ms": 28704
+    },
+    {
+      "index": 9,
+      "text": "Come sit.\"",
+      "start_ms": 28704,
+      "end_ms": 29380
+    },
+    {
+      "index": 10,
+      "text": "Toby sat on the little bench beside her chair.",
+      "start_ms": 29380,
+      "end_ms": 32087
+    },
+    {
+      "index": 11,
+      "text": "He had brought the manuscript.",
+      "start_ms": 32087,
+      "end_ms": 33835
+    },
+    {
+      "index": 12,
+      "text": "He put it on his lap.",
+      "start_ms": 33835,
+      "end_ms": 35132
+    },
+    {
+      "index": 13,
+      "text": "\"Grandma,\" he said, \"did you write this?\"",
+      "start_ms": 35132,
+      "end_ms": 37557
+    },
+    {
+      "index": 14,
+      "text": "Grandma Ada looked at the manuscript.",
+      "start_ms": 37557,
+      "end_ms": 39700
+    },
+    {
+      "index": 15,
+      "text": "She reached out and touched the yellowed cover with two fingers.",
+      "start_ms": 39700,
+      "end_ms": 43365
+    },
+    {
+      "index": 16,
+      "text": "She smiled — not a big smile, but a slow one, like remembering an old friend.",
+      "start_ms": 43365,
+      "end_ms": 47820
+    },
+    {
+      "index": 17,
+      "text": "\"Yes,\" she said.",
+      "start_ms": 47820,
+      "end_ms": 48779
+    },
+    {
+      "index": 18,
+      "text": "\"I wrote it a long time ago.\"",
+      "start_ms": 48779,
+      "end_ms": 50527
+    },
+    {
+      "index": 19,
+      "text": "\"Grandma, it's about me.",
+      "start_ms": 50527,
+      "end_ms": 51937
+    },
+    {
+      "index": 20,
+      "text": "It's about my life.",
+      "start_ms": 51937,
+      "end_ms": 53065
+    },
+    {
+      "index": 21,
+      "text": "The boy in the book is me.\"",
+      "start_ms": 53065,
+      "end_ms": 54700
+    },
+    {
+      "index": 22,
+      "text": "\"Yes,\" she said.",
+      "start_ms": 54700,
+      "end_ms": 55659
+    },
+    {
+      "index": 23,
+      "text": "\"I thought it might be.\"",
+      "start_ms": 55659,
+      "end_ms": 57125
+    },
+    {
+      "index": 24,
+      "text": "Toby waited.",
+      "start_ms": 57125,
+      "end_ms": 57858
+    },
+    {
+      "index": 25,
+      "text": "He was not sure what to ask next.",
+      "start_ms": 57858,
+      "end_ms": 59832
+    },
+    {
+      "index": 26,
+      "text": "Grandma Ada looked out the window.",
+      "start_ms": 59832,
+      "end_ms": 61806
+    },
+    {
+      "index": 27,
+      "text": "The squirrel had gone.",
+      "start_ms": 61806,
+      "end_ms": 63159
+    },
+    {
+      "index": 28,
+      "text": "\"I never had a plot for it,\" she said.",
+      "start_ms": 63159,
+      "end_ms": 65358
+    },
+    {
+      "index": 29,
+      "text": "\"I started writing about a boy.",
+      "start_ms": 65358,
+      "end_ms": 67163
+    },
+    {
+      "index": 30,
+      "text": "I did not know who he was.",
+      "start_ms": 67163,
+      "end_ms": 68685
+    },
+    {
+      "index": 31,
+      "text": "He came into my head one afternoon in 1998 and he would not leave.",
+      "start_ms": 68685,
+      "end_ms": 72464
+    },
+    {
+      "index": 32,
+      "text": "He had a dog and a father who drove trains and a problem he was not telling anyone about.",
+      "start_ms": 72464,
+      "end_ms": 77539
+    },
+    {
+      "index": 33,
+      "text": "I wrote him down.\"",
+      "start_ms": 77539,
+      "end_ms": 78667
+    },
+    {
+      "index": 34,
+      "text": "She looked at Toby.",
+      "start_ms": 78667,
+      "end_ms": 79851
+    },
+    {
+      "index": 35,
+      "text": "\"And then years later,\" she said, \"you were born.",
+      "start_ms": 79851,
+      "end_ms": 82671
+    },
+    {
+      "index": 36,
+      "text": "And it was you.",
+      "start_ms": 82671,
+      "end_ms": 83573
+    },
+    {
+      "index": 37,
+      "text": "Isn't that funny.\"",
+      "start_ms": 83573,
+      "end_ms": 84701
+    },
+    {
+      "index": 38,
+      "text": "\"Grandma, that isn't possible.\"",
+      "start_ms": 84701,
+      "end_ms": 86562
+    },
+    {
+      "index": 39,
+      "text": "\"No,\" she agreed.",
+      "start_ms": 86562,
+      "end_ms": 87577
+    },
+    {
+      "index": 40,
+      "text": "\"It isn't.",
+      "start_ms": 87577,
+      "end_ms": 88197
+    },
+    {
+      "index": 41,
+      "text": "But it happened.\"",
+      "start_ms": 88197,
+      "end_ms": 89268
+    },
+    {
+      "index": 42,
+      "text": "Toby did not know what to do with that.",
+      "start_ms": 89268,
+      "end_ms": 91524
+    },
+    {
+      "index": 43,
+      "text": "He turned the manuscript over in his lap.",
+      "start_ms": 91524,
+      "end_ms": 93949
+    },
+    {
+      "index": 44,
+      "text": "\"Grandma.",
+      "start_ms": 93949,
+      "end_ms": 94513
+    },
+    {
+      "index": 45,
+      "text": "The last chapter.",
+      "start_ms": 94513,
+      "end_ms": 95528
+    },
+    {
+      "index": 46,
+      "text": "Chapter Twelve.",
+      "start_ms": 95528,
+      "end_ms": 96430
+    },
+    {
+      "index": 47,
+      "text": "It's blank.\"",
+      "start_ms": 96430,
+      "end_ms": 97220
+    },
+    {
+      "index": 48,
+      "text": "\"I know.\"",
+      "start_ms": 97220,
+      "end_ms": 97840
+    },
+    {
+      "index": 49,
+      "text": "\"There's a note.",
+      "start_ms": 97840,
+      "end_ms": 98799
+    },
+    {
+      "index": 50,
+      "text": "It says FINISH THIS WHEN YOU KNOW HOW.\"",
+      "start_ms": 98799,
+      "end_ms": 101111
+    },
+    {
+      "index": 51,
+      "text": "Grandma Ada nodded slowly.",
+      "start_ms": 101111,
+      "end_ms": 102633
+    },
+    {
+      "index": 52,
+      "text": "She patted Toby's hand.",
+      "start_ms": 102633,
+      "end_ms": 104043
+    },
+    {
+      "index": 53,
+      "text": "\"That chapter,\" she said, \"was never mine to write.",
+      "start_ms": 104043,
+      "end_ms": 106976
+    },
+    {
+      "index": 54,
+      "text": "That's your chapter, Toby.",
+      "start_ms": 106976,
+      "end_ms": 108498
+    },
+    {
+      "index": 55,
+      "text": "It always was.\"",
+      "start_ms": 108498,
+      "end_ms": 109344
+    },
+    {
+      "index": 56,
+      "text": "Toby went home.",
+      "start_ms": 109344,
+      "end_ms": 110400
+    },
+    {
+      "index": 57,
+      "text": "He took the manuscript to his room.",
+      "start_ms": 110400,
+      "end_ms": 112778
+    },
+    {
+      "index": 58,
+      "text": "He turned to the blank page marked CHAPTER 12.",
+      "start_ms": 112778,
+      "end_ms": 115947
+    },
+    {
+      "index": 59,
+      "text": "He got a pencil.",
+      "start_ms": 115947,
+      "end_ms": 117136
+    },
+    {
+      "index": 60,
+      "text": "He thought about the boy in the book, at the kitchen table with his father, halfway through a sentence.",
+      "start_ms": 117136,
+      "end_ms": 124069
+    },
+    {
+      "index": 61,
+      "text": "Then he wrote:",
+      "start_ms": 124069,
+      "end_ms": 125125
+    },
+    {
+      "index": 62,
+      "text": "Toby looked at his father across the table.",
+      "start_ms": 125125,
+      "end_ms": 128031
+    },
+    {
+      "index": 63,
+      "text": "His father was reading the newspaper.",
+      "start_ms": 128031,
+      "end_ms": 130540
+    },
+    {
+      "index": 64,
+      "text": "It was Tuesday night.",
+      "start_ms": 130540,
+      "end_ms": 131993
+    },
+    {
+      "index": 65,
+      "text": "Waffle was under the table with her chin on Toby's shoe.",
+      "start_ms": 131993,
+      "end_ms": 135822
+    },
+    {
+      "index": 66,
+      "text": "\"Dad,\" said Toby.",
+      "start_ms": 135822,
+      "end_ms": 137011
+    },
+    {
+      "index": 67,
+      "text": "\"I need to talk to you about something.\"",
+      "start_ms": 137011,
+      "end_ms": 139784
+    },
+    {
+      "index": 68,
+      "text": "His father put down the paper.",
+      "start_ms": 139784,
+      "end_ms": 141831
+    },
+    {
+      "index": 69,
+      "text": "\"Okay,\" he said.",
+      "start_ms": 141831,
+      "end_ms": 142954
+    },
+    {
+      "index": 70,
+      "text": "\"I'm listening.\"",
+      "start_ms": 142954,
+      "end_ms": 144142
+    },
+    {
+      "index": 71,
+      "text": "Toby wrote for a long time.",
+      "start_ms": 144142,
+      "end_ms": 146057
+    },
+    {
+      "index": 72,
+      "text": "He wrote about Ryan Callahan.",
+      "start_ms": 146057,
+      "end_ms": 148038
+    },
+    {
+      "index": 73,
+      "text": "He wrote about how it felt to walk into school on Mondays.",
+      "start_ms": 148038,
+      "end_ms": 151934
+    },
+    {
+      "index": 74,
+      "text": "He wrote about the things he had never told anyone, and how the boy in the book — the boy that was him — was going to say them out loud.",
+      "start_ms": 151934,
+      "end_ms": 161046
+    },
+    {
+      "index": 75,
+      "text": "It took twelve pages.",
+      "start_ms": 161046,
+      "end_ms": 162499
+    },
+    {
+      "index": 76,
+      "text": "Toby's hand hurt when he was done.",
+      "start_ms": 162499,
+      "end_ms": 164876
+    },
+    {
+      "index": 77,
+      "text": "That night at dinner, he did not eat much.",
+      "start_ms": 164876,
+      "end_ms": 167781
+    },
+    {
+      "index": 78,
+      "text": "He looked at his father, who was passing him the mashed potatoes.",
+      "start_ms": 167781,
+      "end_ms": 172205
+    },
+    {
+      "index": 79,
+      "text": "\"Dad,\" said Toby.",
+      "start_ms": 172205,
+      "end_ms": 173394
+    },
+    {
+      "index": 80,
+      "text": "\"Can I talk to you about something after dinner?\"",
+      "start_ms": 173394,
+      "end_ms": 176762
+    },
+    {
+      "index": 81,
+      "text": "His father looked at him.",
+      "start_ms": 176762,
+      "end_ms": 178478
+    },
+    {
+      "index": 82,
+      "text": "Not surprised.",
+      "start_ms": 178478,
+      "end_ms": 179469
+    },
+    {
+      "index": 83,
+      "text": "Just paying attention.",
+      "start_ms": 179469,
+      "end_ms": 181054
+    },
+    {
+      "index": 84,
+      "text": "\"Sure, buddy.",
+      "start_ms": 181054,
+      "end_ms": 181978
+    },
+    {
+      "index": 85,
+      "text": "Of course.\"",
+      "start_ms": 181978,
+      "end_ms": 182836
+    },
+    {
+      "index": 86,
+      "text": "Toby brought the finished manuscript to Grandma Ada the next Sunday.",
+      "start_ms": 182836,
+      "end_ms": 187393
+    },
+    {
+      "index": 87,
+      "text": "He had made a copy, on the copier at his mother's library, and had the copy bound with a spiral binding.",
+      "start_ms": 187393,
+      "end_ms": 194392
+    },
+    {
+      "index": 88,
+      "text": "Grandma Ada opened it to Chapter 12.",
+      "start_ms": 194392,
+      "end_ms": 196835
+    },
+    {
+      "index": 89,
+      "text": "She read slowly.",
+      "start_ms": 196835,
+      "end_ms": 197958
+    },
+    {
+      "index": 90,
+      "text": "When she finished, she closed the manuscript and held it against her chest.",
+      "start_ms": 197958,
+      "end_ms": 203042
+    },
+    {
+      "index": 91,
+      "text": "\"It's a very good chapter,\" she said.",
+      "start_ms": 203042,
+      "end_ms": 205551
+    },
+    {
+      "index": 92,
+      "text": "\"You did it right.\"",
+      "start_ms": 205551,
+      "end_ms": 206938
+    },
+    {
+      "index": 93,
+      "text": "\"Grandma.",
+      "start_ms": 206938,
+      "end_ms": 207598
+    },
+    {
+      "index": 94,
+      "text": "How did you know?",
+      "start_ms": 207598,
+      "end_ms": 208787
+    },
+    {
+      "index": 95,
+      "text": "How did you know all of it, from 1998?\"",
+      "start_ms": 208787,
+      "end_ms": 211494
+    },
+    {
+      "index": 96,
+      "text": "Grandma Ada thought about this for a long moment.",
+      "start_ms": 211494,
+      "end_ms": 214795
+    },
+    {
+      "index": 97,
+      "text": "She looked out the window.",
+      "start_ms": 214795,
+      "end_ms": 216644
+    },
+    {
+      "index": 98,
+      "text": "\"I don't know how,\" she said finally.",
+      "start_ms": 216644,
+      "end_ms": 219153
+    },
+    {
+      "index": 99,
+      "text": "\"But I think stories are older than the people who write them.",
+      "start_ms": 219153,
+      "end_ms": 223313
+    },
+    {
+      "index": 100,
+      "text": "Sometimes a story finds its person and it waits.",
+      "start_ms": 223313,
+      "end_ms": 226549
+    },
+    {
+      "index": 101,
+      "text": "It waits until the person is ready to finish it.\"",
+      "start_ms": 226549,
+      "end_ms": 229917
+    },
+    {
+      "index": 102,
+      "text": "She smiled at Toby.",
+      "start_ms": 229917,
+      "end_ms": 231303
+    },
+    {
+      "index": 103,
+      "text": "\"You were the person for this one.",
+      "start_ms": 231303,
+      "end_ms": 233614
+    },
+    {
+      "index": 104,
+      "text": "I was just the one who kept it warm until you got here.\"",
+      "start_ms": 233614,
+      "end_ms": 237312
+    }
+  ]
+}

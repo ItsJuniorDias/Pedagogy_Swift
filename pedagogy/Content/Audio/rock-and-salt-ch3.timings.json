@@ -1,0 +1,511 @@
+{
+  "story_id": "rock-and-salt",
+  "chapter": 3,
+  "total_duration_ms": 273048,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "It was there.",
+      "start_ms": 2032,
+      "end_ms": 2950
+    },
+    {
+      "index": 1,
+      "text": "It came up out of the mud like a small dark heart.",
+      "start_ms": 2950,
+      "end_ms": 6294
+    },
+    {
+      "index": 2,
+      "text": "It was a bell, fist-sized, tarnished green-black.",
+      "start_ms": 6294,
+      "end_ms": 9572
+    },
+    {
+      "index": 3,
+      "text": "The clapper was still inside it.",
+      "start_ms": 9572,
+      "end_ms": 11735
+    },
+    {
+      "index": 4,
+      "text": "When the stranger lifted it and shook it, very gently, it made a small clear sound that seemed too big for its size — a tiny, perfect note that hung in the wet air for a moment and then was gone.",
+      "start_ms": 11735,
+      "end_ms": 24651
+    },
+    {
+      "index": 5,
+      "text": "The stranger held the bell in both hands.",
+      "start_ms": 24651,
+      "end_ms": 27404
+    },
+    {
+      "index": 6,
+      "text": "He was crying.",
+      "start_ms": 27404,
+      "end_ms": 28388
+    },
+    {
+      "index": 7,
+      "text": "He was not making any noise, but Ada saw the water on his face reflecting the torchlight, and it was not seawater.",
+      "start_ms": 28388,
+      "end_ms": 35927
+    },
+    {
+      "index": 8,
+      "text": "Aunt Meg saw it too.",
+      "start_ms": 35927,
+      "end_ms": 37304
+    },
+    {
+      "index": 9,
+      "text": "She did not say anything.",
+      "start_ms": 37304,
+      "end_ms": 39009
+    },
+    {
+      "index": 10,
+      "text": "She only looked away, respectfully.",
+      "start_ms": 39009,
+      "end_ms": 41369
+    },
+    {
+      "index": 11,
+      "text": "Wren reached out and touched the back of the stranger's hand, very lightly, and he did not seem to notice.",
+      "start_ms": 41369,
+      "end_ms": 48450
+    },
+    {
+      "index": 12,
+      "text": "The tide was coming in.",
+      "start_ms": 48450,
+      "end_ms": 50023
+    },
+    {
+      "index": 13,
+      "text": "Aunt Meg said, \"We need to go back.\" The stranger nodded.",
+      "start_ms": 50023,
+      "end_ms": 53826
+    },
+    {
+      "index": 14,
+      "text": "He stood up.",
+      "start_ms": 53826,
+      "end_ms": 54678
+    },
+    {
+      "index": 15,
+      "text": "He put the bell inside his shirt, against his chest.",
+      "start_ms": 54678,
+      "end_ms": 58153
+    },
+    {
+      "index": 16,
+      "text": "He looked at the twins.",
+      "start_ms": 58153,
+      "end_ms": 59726
+    },
+    {
+      "index": 17,
+      "text": "\"Thank you,\" he said.",
+      "start_ms": 59726,
+      "end_ms": 61168
+    },
+    {
+      "index": 18,
+      "text": "\"Both of you.",
+      "start_ms": 61168,
+      "end_ms": 62086
+    },
+    {
+      "index": 19,
+      "text": "And you, Meg.",
+      "start_ms": 62086,
+      "end_ms": 63004
+    },
+    {
+      "index": 20,
+      "text": "This has been a long thing to carry.\" He looked at the eastern horizon, where a very pale grey was starting to appear.",
+      "start_ms": 63004,
+      "end_ms": 70806
+    },
+    {
+      "index": 21,
+      "text": "\"You should hurry back.",
+      "start_ms": 70806,
+      "end_ms": 72379
+    },
+    {
+      "index": 22,
+      "text": "The tide comes in fast on the west side.\"",
+      "start_ms": 72379,
+      "end_ms": 75198
+    },
+    {
+      "index": 23,
+      "text": "\"Are you coming with us?\" said Ada.",
+      "start_ms": 75198,
+      "end_ms": 77559
+    },
+    {
+      "index": 24,
+      "text": "She had not thought before she said it.",
+      "start_ms": 77559,
+      "end_ms": 80181
+    },
+    {
+      "index": 25,
+      "text": "The stranger smiled.",
+      "start_ms": 80181,
+      "end_ms": 81558
+    },
+    {
+      "index": 26,
+      "text": "\"No,\" he said.",
+      "start_ms": 81558,
+      "end_ms": 82541
+    },
+    {
+      "index": 27,
+      "text": "\"I came by water.",
+      "start_ms": 82541,
+      "end_ms": 83721
+    },
+    {
+      "index": 28,
+      "text": "I'll leave by water.",
+      "start_ms": 83721,
+      "end_ms": 85098
+    },
+    {
+      "index": 29,
+      "text": "You know how it works, don't you?",
+      "start_ms": 85098,
+      "end_ms": 87327
+    },
+    {
+      "index": 30,
+      "text": "I think you do.",
+      "start_ms": 87327,
+      "end_ms": 88376
+    },
+    {
+      "index": 31,
+      "text": "I think you always did.\"",
+      "start_ms": 88376,
+      "end_ms": 90081
+    },
+    {
+      "index": 32,
+      "text": "Ada did know how it worked.",
+      "start_ms": 90081,
+      "end_ms": 91916
+    },
+    {
+      "index": 33,
+      "text": "Not with her thinking-brain, but with the deeper part of her that knew things without being told them.",
+      "start_ms": 91916,
+      "end_ms": 98669
+    },
+    {
+      "index": 34,
+      "text": "She knew that the man was going to walk out into the sea, and that the water would come up to his knees, and to his waist, and to his shoulders, and that he would just keep walking.",
+      "start_ms": 98669,
+      "end_ms": 110601
+    },
+    {
+      "index": 35,
+      "text": "She knew he was not going to drown.",
+      "start_ms": 110601,
+      "end_ms": 112962
+    },
+    {
+      "index": 36,
+      "text": "She knew he was going where he belonged.",
+      "start_ms": 112962,
+      "end_ms": 115584
+    },
+    {
+      "index": 37,
+      "text": "She and Wren and Aunt Meg walked back toward the cottage across the flats as fast as they could.",
+      "start_ms": 115584,
+      "end_ms": 122083
+    },
+    {
+      "index": 38,
+      "text": "The water was already coming up in the low channels behind them, and they had to lift their boots high.",
+      "start_ms": 122083,
+      "end_ms": 129051
+    },
+    {
+      "index": 39,
+      "text": "Once, Ada looked back.",
+      "start_ms": 129051,
+      "end_ms": 130592
+    },
+    {
+      "index": 40,
+      "text": "The stranger was still standing where they had left him.",
+      "start_ms": 130592,
+      "end_ms": 134411
+    },
+    {
+      "index": 41,
+      "text": "Then she looked again, a minute later, and he was gone.",
+      "start_ms": 134411,
+      "end_ms": 138229
+    },
+    {
+      "index": 42,
+      "text": "They sat in the kitchen with mugs of tea.",
+      "start_ms": 138229,
+      "end_ms": 141043
+    },
+    {
+      "index": 43,
+      "text": "Their boots were by the door, and their trousers were muddy up to the knees, and it was not quite dawn yet.",
+      "start_ms": 141043,
+      "end_ms": 148279
+    },
+    {
+      "index": 44,
+      "text": "Nobody said anything for a while.",
+      "start_ms": 148279,
+      "end_ms": 150557
+    },
+    {
+      "index": 45,
+      "text": "Then Wren said, \"Aunt Meg.",
+      "start_ms": 150557,
+      "end_ms": 152366
+    },
+    {
+      "index": 46,
+      "text": "Who was that?\" Aunt Meg looked at both of them, one after the other.",
+      "start_ms": 152366,
+      "end_ms": 156989
+    },
+    {
+      "index": 47,
+      "text": "Then she said, \"I don't know exactly.",
+      "start_ms": 156989,
+      "end_ms": 159535
+    },
+    {
+      "index": 48,
+      "text": "I think he was one of the monks from the priory.",
+      "start_ms": 159535,
+      "end_ms": 162818
+    },
+    {
+      "index": 49,
+      "text": "When the raiders came in 1544, the monks tried to hide what they could.",
+      "start_ms": 162818,
+      "end_ms": 167642
+    },
+    {
+      "index": 50,
+      "text": "Some of them died.",
+      "start_ms": 167642,
+      "end_ms": 168915
+    },
+    {
+      "index": 51,
+      "text": "Their bells were the most important things they had.\"",
+      "start_ms": 168915,
+      "end_ms": 172600
+    },
+    {
+      "index": 52,
+      "text": "She sipped her tea.",
+      "start_ms": 172600,
+      "end_ms": 173940
+    },
+    {
+      "index": 53,
+      "text": "\"Our family has lived on Lindisfarne for a very long time.",
+      "start_ms": 173940,
+      "end_ms": 177893
+    },
+    {
+      "index": 54,
+      "text": "Since long before the priory was ruined.",
+      "start_ms": 177893,
+      "end_ms": 180640
+    },
+    {
+      "index": 55,
+      "text": "And every so often — once every fifty years, or every hundred years — someone comes to the door in the night.",
+      "start_ms": 180640,
+      "end_ms": 188009
+    },
+    {
+      "index": 56,
+      "text": "Wet.",
+      "start_ms": 188009,
+      "end_ms": 188344
+    },
+    {
+      "index": 57,
+      "text": "Very calm.",
+      "start_ms": 188344,
+      "end_ms": 189081
+    },
+    {
+      "index": 58,
+      "text": "Looking for something they lost.",
+      "start_ms": 189081,
+      "end_ms": 191292
+    },
+    {
+      "index": 59,
+      "text": "My mother met one, when she was young.",
+      "start_ms": 191292,
+      "end_ms": 193905
+    },
+    {
+      "index": 60,
+      "text": "My grandfather met one, when he was young.",
+      "start_ms": 193905,
+      "end_ms": 196786
+    },
+    {
+      "index": 61,
+      "text": "They come to the house because our family has always helped them find it.",
+      "start_ms": 196786,
+      "end_ms": 201744
+    },
+    {
+      "index": 62,
+      "text": "That's what we do.",
+      "start_ms": 201744,
+      "end_ms": 203017
+    },
+    {
+      "index": 63,
+      "text": "That's who we are.\"",
+      "start_ms": 203017,
+      "end_ms": 204424
+    },
+    {
+      "index": 64,
+      "text": "\"How did he know our names,\" said Ada.",
+      "start_ms": 204424,
+      "end_ms": 207037
+    },
+    {
+      "index": 65,
+      "text": "Aunt Meg smiled.",
+      "start_ms": 207037,
+      "end_ms": 208176
+    },
+    {
+      "index": 66,
+      "text": "\"Because our family has helped them for a long time.",
+      "start_ms": 208176,
+      "end_ms": 211727
+    },
+    {
+      "index": 67,
+      "text": "And they remember.",
+      "start_ms": 211727,
+      "end_ms": 213000
+    },
+    {
+      "index": 68,
+      "text": "They know who is here.",
+      "start_ms": 213000,
+      "end_ms": 214541
+    },
+    {
+      "index": 69,
+      "text": "They know we are still here.\" \"Will he come back,\" said Wren.",
+      "start_ms": 214541,
+      "end_ms": 218695
+    },
+    {
+      "index": 70,
+      "text": "Aunt Meg shook her head.",
+      "start_ms": 218695,
+      "end_ms": 220370
+    },
+    {
+      "index": 71,
+      "text": "\"No.",
+      "start_ms": 220370,
+      "end_ms": 220705
+    },
+    {
+      "index": 72,
+      "text": "He found what he was looking for.",
+      "start_ms": 220705,
+      "end_ms": 222983
+    },
+    {
+      "index": 73,
+      "text": "He won't need to.\"",
+      "start_ms": 222983,
+      "end_ms": 224323
+    },
+    {
+      "index": 74,
+      "text": "Ada and Wren walked out into the front garden together as the sun was coming up.",
+      "start_ms": 224323,
+      "end_ms": 229749
+    },
+    {
+      "index": 75,
+      "text": "The tide was fully in now.",
+      "start_ms": 229749,
+      "end_ms": 231558
+    },
+    {
+      "index": 76,
+      "text": "You could not see the flats at all.",
+      "start_ms": 231558,
+      "end_ms": 233970
+    },
+    {
+      "index": 77,
+      "text": "The causeway was under water.",
+      "start_ms": 233970,
+      "end_ms": 235980
+    },
+    {
+      "index": 78,
+      "text": "The sea was silver and grey and calm, and the priory was a small dark silhouette on the horizon, and there was no sign anywhere that any of it had happened.",
+      "start_ms": 235980,
+      "end_ms": 246432
+    },
+    {
+      "index": 79,
+      "text": "But Ada put her hand into her coat pocket — she had not remembered doing it, but she must have — and there, small and cold and green-tarnished, was the little iron nail that the stranger had picked up out of the mud.",
+      "start_ms": 246432,
+      "end_ms": 258721
+    },
+    {
+      "index": 80,
+      "text": "He must have put it in her pocket when they said goodbye.",
+      "start_ms": 258721,
+      "end_ms": 262005
+    },
+    {
+      "index": 81,
+      "text": "She showed it to Wren.",
+      "start_ms": 262005,
+      "end_ms": 263308
+    },
+    {
+      "index": 82,
+      "text": "Neither of them spoke.",
+      "start_ms": 263308,
+      "end_ms": 264610
+    },
+    {
+      "index": 83,
+      "text": "They stood in the garden and looked at the sea, and Ada put the nail back in her pocket, and she knew that when she was old, she would still have it.",
+      "start_ms": 264610,
+      "end_ms": 273048
+    }
+  ]
+}

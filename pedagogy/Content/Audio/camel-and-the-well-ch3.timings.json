@@ -1,0 +1,841 @@
+{
+  "story_id": "camel-and-the-well",
+  "chapter": 3,
+  "total_duration_ms": 384456,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Sidi stood up first.",
+      "start_ms": 2073,
+      "end_ms": 3575
+    },
+    {
+      "index": 1,
+      "text": "He was covered in sand.",
+      "start_ms": 3575,
+      "end_ms": 5290
+    },
+    {
+      "index": 2,
+      "text": "He shook himself.",
+      "start_ms": 5290,
+      "end_ms": 6577
+    },
+    {
+      "index": 3,
+      "text": "He helped Nadia up.",
+      "start_ms": 6577,
+      "end_ms": 8007
+    },
+    {
+      "index": 4,
+      "text": "She was also covered in sand.",
+      "start_ms": 8007,
+      "end_ms": 10152
+    },
+    {
+      "index": 5,
+      "text": "She shook herself.",
+      "start_ms": 10152,
+      "end_ms": 11510
+    },
+    {
+      "index": 6,
+      "text": "Farouk stood up.",
+      "start_ms": 11510,
+      "end_ms": 12725
+    },
+    {
+      "index": 7,
+      "text": "He gave himself a huge shake, and sand flew off him in a big cloud.",
+      "start_ms": 12725,
+      "end_ms": 17587
+    },
+    {
+      "index": 8,
+      "text": "The dunes around them looked completely different.",
+      "start_ms": 17587,
+      "end_ms": 21233
+    },
+    {
+      "index": 9,
+      "text": "Every crest had a new shape.",
+      "start_ms": 21233,
+      "end_ms": 23306
+    },
+    {
+      "index": 10,
+      "text": "Any footprints they had left were gone.",
+      "start_ms": 23306,
+      "end_ms": 26165
+    },
+    {
+      "index": 11,
+      "text": "There was no way to tell which way they had come.",
+      "start_ms": 26165,
+      "end_ms": 29740
+    },
+    {
+      "index": 12,
+      "text": "Nadia looked around.",
+      "start_ms": 29740,
+      "end_ms": 31241
+    },
+    {
+      "index": 13,
+      "text": "She had no idea which way home was.",
+      "start_ms": 31241,
+      "end_ms": 33815
+    },
+    {
+      "index": 14,
+      "text": "None.",
+      "start_ms": 33815,
+      "end_ms": 34244
+    },
+    {
+      "index": 15,
+      "text": "She turned to Sidi.",
+      "start_ms": 34244,
+      "end_ms": 35745
+    },
+    {
+      "index": 16,
+      "text": "Sidi was looking too.",
+      "start_ms": 35745,
+      "end_ms": 37318
+    },
+    {
+      "index": 17,
+      "text": "He was looking carefully.",
+      "start_ms": 37318,
+      "end_ms": 39177
+    },
+    {
+      "index": 18,
+      "text": "Then he said, quietly, \"Nadia.",
+      "start_ms": 39177,
+      "end_ms": 41393
+    },
+    {
+      "index": 19,
+      "text": "Listen.",
+      "start_ms": 41393,
+      "end_ms": 41965
+    },
+    {
+      "index": 20,
+      "text": "I do not know which way home is either.",
+      "start_ms": 41965,
+      "end_ms": 44824
+    },
+    {
+      "index": 21,
+      "text": "The storm changed everything.",
+      "start_ms": 44824,
+      "end_ms": 46969
+    },
+    {
+      "index": 22,
+      "text": "Also I am — I am not thinking as clearly as I usually do.",
+      "start_ms": 46969,
+      "end_ms": 51116
+    },
+    {
+      "index": 23,
+      "text": "Something in my chest is not right.",
+      "start_ms": 51116,
+      "end_ms": 53689
+    },
+    {
+      "index": 24,
+      "text": "I got a shock when the storm came.",
+      "start_ms": 53689,
+      "end_ms": 56191
+    },
+    {
+      "index": 25,
+      "text": "My heart is beating hard.",
+      "start_ms": 56191,
+      "end_ms": 58050
+    },
+    {
+      "index": 26,
+      "text": "I need to sit and rest for a while.\" He sat back down.",
+      "start_ms": 58050,
+      "end_ms": 61982
+    },
+    {
+      "index": 27,
+      "text": "He put a hand on his chest.",
+      "start_ms": 61982,
+      "end_ms": 63984
+    },
+    {
+      "index": 28,
+      "text": "He was breathing carefully.",
+      "start_ms": 63984,
+      "end_ms": 65986
+    },
+    {
+      "index": 29,
+      "text": "His face was slightly grey.",
+      "start_ms": 65986,
+      "end_ms": 67987
+    },
+    {
+      "index": 30,
+      "text": "Nadia was suddenly very frightened.",
+      "start_ms": 67987,
+      "end_ms": 70633
+    },
+    {
+      "index": 31,
+      "text": "\"Sidi,\" she said.",
+      "start_ms": 70633,
+      "end_ms": 71919
+    },
+    {
+      "index": 32,
+      "text": "\"What do we do.\" Sidi took a slow breath.",
+      "start_ms": 71919,
+      "end_ms": 74922
+    },
+    {
+      "index": 33,
+      "text": "He looked up at her.",
+      "start_ms": 74922,
+      "end_ms": 76423
+    },
+    {
+      "index": 34,
+      "text": "He said, \"Do you remember what I said.",
+      "start_ms": 76423,
+      "end_ms": 79211
+    },
+    {
+      "index": 35,
+      "text": "About the camel.\" \"Yes,\" said Nadia.",
+      "start_ms": 79211,
+      "end_ms": 81857
+    },
+    {
+      "index": 36,
+      "text": "\"Trust the camel.\" \"Yes,\" said Sidi.",
+      "start_ms": 81857,
+      "end_ms": 84502
+    },
+    {
+      "index": 37,
+      "text": "\"Trust the camel.",
+      "start_ms": 84502,
+      "end_ms": 85788
+    },
+    {
+      "index": 38,
+      "text": "Farouk knows the way home.",
+      "start_ms": 85788,
+      "end_ms": 87719
+    },
+    {
+      "index": 39,
+      "text": "He will walk there if we let him.",
+      "start_ms": 87719,
+      "end_ms": 90149
+    },
+    {
+      "index": 40,
+      "text": "He has done this walk a thousand times.",
+      "start_ms": 90149,
+      "end_ms": 93009
+    },
+    {
+      "index": 41,
+      "text": "He does not need me.",
+      "start_ms": 93009,
+      "end_ms": 94510
+    },
+    {
+      "index": 42,
+      "text": "Let him lead.",
+      "start_ms": 94510,
+      "end_ms": 95511
+    },
+    {
+      "index": 43,
+      "text": "Take the rope.",
+      "start_ms": 95511,
+      "end_ms": 96584
+    },
+    {
+      "index": 44,
+      "text": "Do not pull him.",
+      "start_ms": 96584,
+      "end_ms": 97799
+    },
+    {
+      "index": 45,
+      "text": "Do not try to steer him.",
+      "start_ms": 97799,
+      "end_ms": 99586
+    },
+    {
+      "index": 46,
+      "text": "Just — walk beside him.",
+      "start_ms": 99586,
+      "end_ms": 101302
+    },
+    {
+      "index": 47,
+      "text": "Whatever direction he goes, we go.\"",
+      "start_ms": 101302,
+      "end_ms": 103947
+    },
+    {
+      "index": 48,
+      "text": "Nadia was quiet for a moment.",
+      "start_ms": 103947,
+      "end_ms": 106092
+    },
+    {
+      "index": 49,
+      "text": "She said, \"Can you walk, Sidi.\" Sidi said, \"I can walk.",
+      "start_ms": 106092,
+      "end_ms": 110095
+    },
+    {
+      "index": 50,
+      "text": "Slowly.",
+      "start_ms": 110095,
+      "end_ms": 110667
+    },
+    {
+      "index": 51,
+      "text": "If you help me.",
+      "start_ms": 110667,
+      "end_ms": 111811
+    },
+    {
+      "index": 52,
+      "text": "You take the camel.",
+      "start_ms": 111811,
+      "end_ms": 113241
+    },
+    {
+      "index": 53,
+      "text": "I hold the camel with one hand and you with the other.",
+      "start_ms": 113241,
+      "end_ms": 117173
+    },
+    {
+      "index": 54,
+      "text": "Yes?\" Nadia said yes.",
+      "start_ms": 117173,
+      "end_ms": 118746
+    },
+    {
+      "index": 55,
+      "text": "She helped him stand.",
+      "start_ms": 118746,
+      "end_ms": 120318
+    },
+    {
+      "index": 56,
+      "text": "She took the lead rope.",
+      "start_ms": 120318,
+      "end_ms": 122034
+    },
+    {
+      "index": 57,
+      "text": "She put her other hand on Sidi's arm.",
+      "start_ms": 122034,
+      "end_ms": 124751
+    },
+    {
+      "index": 58,
+      "text": "Sidi held Farouk's saddle.",
+      "start_ms": 124751,
+      "end_ms": 126681
+    },
+    {
+      "index": 59,
+      "text": "And she said to Farouk, in a small voice, \"All right, Farouk.",
+      "start_ms": 126681,
+      "end_ms": 131113
+    },
+    {
+      "index": 60,
+      "text": "Take us home.",
+      "start_ms": 131113,
+      "end_ms": 132114
+    },
+    {
+      "index": 61,
+      "text": "Please.\" And Farouk — after a moment of standing still, considering — turned his big head slightly to the north and began to walk.",
+      "start_ms": 132114,
+      "end_ms": 141408
+    },
+    {
+      "index": 62,
+      "text": "They walked for a very long time.",
+      "start_ms": 141408,
+      "end_ms": 143754
+    },
+    {
+      "index": 63,
+      "text": "Farouk did not walk fast.",
+      "start_ms": 143754,
+      "end_ms": 145548
+    },
+    {
+      "index": 64,
+      "text": "He walked at the pace of Sidi, which was slow.",
+      "start_ms": 145548,
+      "end_ms": 148792
+    },
+    {
+      "index": 65,
+      "text": "He walked up dunes and down them.",
+      "start_ms": 148792,
+      "end_ms": 151138
+    },
+    {
+      "index": 66,
+      "text": "Sometimes he took a route Nadia would never have chosen — around a large dune when it would have been shorter to go over it, or up a steep face when it looked like the wrong direction.",
+      "start_ms": 151138,
+      "end_ms": 163904
+    },
+    {
+      "index": 67,
+      "text": "But Nadia did not pull on the rope.",
+      "start_ms": 163904,
+      "end_ms": 166388
+    },
+    {
+      "index": 68,
+      "text": "She did not try to change his mind.",
+      "start_ms": 166388,
+      "end_ms": 168872
+    },
+    {
+      "index": 69,
+      "text": "She just walked beside him.",
+      "start_ms": 168872,
+      "end_ms": 170804
+    },
+    {
+      "index": 70,
+      "text": "She kept one hand on his rope and one hand on Sidi's arm.",
+      "start_ms": 170804,
+      "end_ms": 174807
+    },
+    {
+      "index": 71,
+      "text": "She could feel Sidi getting tired.",
+      "start_ms": 174807,
+      "end_ms": 177291
+    },
+    {
+      "index": 72,
+      "text": "\"Sidi,\" she said, after maybe an hour.",
+      "start_ms": 177291,
+      "end_ms": 179982
+    },
+    {
+      "index": 73,
+      "text": "\"Do you need to rest.\" \"Yes,\" said Sidi.",
+      "start_ms": 179982,
+      "end_ms": 182811
+    },
+    {
+      "index": 74,
+      "text": "\"But we should keep going.",
+      "start_ms": 182811,
+      "end_ms": 184675
+    },
+    {
+      "index": 75,
+      "text": "If I sit now, I will not want to get up.\" So they kept going.",
+      "start_ms": 184675,
+      "end_ms": 188953
+    },
+    {
+      "index": 76,
+      "text": "Nadia talked to him a little as they walked, to keep him awake and talking.",
+      "start_ms": 188953,
+      "end_ms": 194197
+    },
+    {
+      "index": 77,
+      "text": "She told him about her school.",
+      "start_ms": 194197,
+      "end_ms": 196336
+    },
+    {
+      "index": 78,
+      "text": "She told him about her friends.",
+      "start_ms": 196336,
+      "end_ms": 198545
+    },
+    {
+      "index": 79,
+      "text": "She told him about the movie she had watched with her mother the week before.",
+      "start_ms": 198545,
+      "end_ms": 203927
+    },
+    {
+      "index": 80,
+      "text": "She was making it up as she went.",
+      "start_ms": 203927,
+      "end_ms": 206273
+    },
+    {
+      "index": 81,
+      "text": "She did not remember much of what she said.",
+      "start_ms": 206273,
+      "end_ms": 209310
+    },
+    {
+      "index": 82,
+      "text": "She just kept talking.",
+      "start_ms": 209310,
+      "end_ms": 210897
+    },
+    {
+      "index": 83,
+      "text": "Sidi answered sometimes.",
+      "start_ms": 210897,
+      "end_ms": 212622
+    },
+    {
+      "index": 84,
+      "text": "Sometimes he only nodded.",
+      "start_ms": 212622,
+      "end_ms": 214485
+    },
+    {
+      "index": 85,
+      "text": "It was almost sunset when they came up over a dune and Nadia saw, at the base of the next slope, the first buildings of Merzouga.",
+      "start_ms": 214485,
+      "end_ms": 223456
+    },
+    {
+      "index": 86,
+      "text": "She almost cried.",
+      "start_ms": 223456,
+      "end_ms": 224698
+    },
+    {
+      "index": 87,
+      "text": "She had been walking for two and a half hours next to a camel through empty dunes, and she had honestly not been sure they would get there.",
+      "start_ms": 224698,
+      "end_ms": 234359
+    },
+    {
+      "index": 88,
+      "text": "She stopped and put both her arms around Farouk's big neck.",
+      "start_ms": 234359,
+      "end_ms": 238499
+    },
+    {
+      "index": 89,
+      "text": "She pressed her face against his fur.",
+      "start_ms": 238499,
+      "end_ms": 241121
+    },
+    {
+      "index": 90,
+      "text": "He smelled of sand and warm hair and dust.",
+      "start_ms": 241121,
+      "end_ms": 244088
+    },
+    {
+      "index": 91,
+      "text": "She said, into his fur, \"Thank you, Farouk.",
+      "start_ms": 244088,
+      "end_ms": 247125
+    },
+    {
+      "index": 92,
+      "text": "Thank you.",
+      "start_ms": 247125,
+      "end_ms": 247884
+    },
+    {
+      "index": 93,
+      "text": "Thank you.\" Farouk did not move.",
+      "start_ms": 247884,
+      "end_ms": 250161
+    },
+    {
+      "index": 94,
+      "text": "He let her hug him.",
+      "start_ms": 250161,
+      "end_ms": 251472
+    },
+    {
+      "index": 95,
+      "text": "They came into the village in the last of the golden evening light.",
+      "start_ms": 251472,
+      "end_ms": 255618
+    },
+    {
+      "index": 96,
+      "text": "People saw them and came running.",
+      "start_ms": 255618,
+      "end_ms": 257691
+    },
+    {
+      "index": 97,
+      "text": "There was a lot of shouting.",
+      "start_ms": 257691,
+      "end_ms": 259459
+    },
+    {
+      "index": 98,
+      "text": "Sidi's neighbor, a strong young man named Youssef, took Sidi off the camel and helped him into the house.",
+      "start_ms": 259459,
+      "end_ms": 265922
+    },
+    {
+      "index": 99,
+      "text": "Someone ran to get the village nurse.",
+      "start_ms": 265922,
+      "end_ms": 268239
+    },
+    {
+      "index": 100,
+      "text": "Sidi was okay — he had had what the nurse said was a small heart episode, brought on by the shock of the storm, but he was going to recover.",
+      "start_ms": 268239,
+      "end_ms": 276836
+    },
+    {
+      "index": 101,
+      "text": "He needed rest.",
+      "start_ms": 276836,
+      "end_ms": 277811
+    },
+    {
+      "index": 102,
+      "text": "He would be fine in a few days.",
+      "start_ms": 277811,
+      "end_ms": 279823
+    },
+    {
+      "index": 103,
+      "text": "That evening Nadia sat by Sidi's bed with a cup of mint tea.",
+      "start_ms": 279823,
+      "end_ms": 283543
+    },
+    {
+      "index": 104,
+      "text": "He was very tired but he was awake.",
+      "start_ms": 283543,
+      "end_ms": 285738
+    },
+    {
+      "index": 105,
+      "text": "He looked at her for a while without speaking.",
+      "start_ms": 285738,
+      "end_ms": 288603
+    },
+    {
+      "index": 106,
+      "text": "Then he said, \"You did a very brave thing today, Nadia.",
+      "start_ms": 288603,
+      "end_ms": 292018
+    },
+    {
+      "index": 107,
+      "text": "You trusted the camel.",
+      "start_ms": 292018,
+      "end_ms": 293420
+    },
+    {
+      "index": 108,
+      "text": "Many people would not have.",
+      "start_ms": 293420,
+      "end_ms": 295127
+    },
+    {
+      "index": 109,
+      "text": "Many people would have panicked and tried to walk their own direction and would have gone the wrong way.",
+      "start_ms": 295127,
+      "end_ms": 301529
+    },
+    {
+      "index": 110,
+      "text": "And I would have died in the desert.",
+      "start_ms": 301529,
+      "end_ms": 303785
+    },
+    {
+      "index": 111,
+      "text": "And you would have died too.",
+      "start_ms": 303785,
+      "end_ms": 305553
+    },
+    {
+      "index": 112,
+      "text": "So you saved us both today.",
+      "start_ms": 305553,
+      "end_ms": 307260
+    },
+    {
+      "index": 113,
+      "text": "By listening to what I told you and by doing it.\"",
+      "start_ms": 307260,
+      "end_ms": 310248
+    },
+    {
+      "index": 114,
+      "text": "Nadia said, quietly, \"I was very afraid.\" \"Yes,\" said Sidi.",
+      "start_ms": 310248,
+      "end_ms": 314413
+    },
+    {
+      "index": 115,
+      "text": "\"So was I.",
+      "start_ms": 314413,
+      "end_ms": 315177
+    },
+    {
+      "index": 116,
+      "text": "That is what being brave is.",
+      "start_ms": 315177,
+      "end_ms": 317190
+    },
+    {
+      "index": 117,
+      "text": "Being afraid, and doing the right thing anyway.\" He was quiet for a moment.",
+      "start_ms": 317190,
+      "end_ms": 322466
+    },
+    {
+      "index": 118,
+      "text": "Then he said, \"Nadia.",
+      "start_ms": 322466,
+      "end_ms": 323993
+    },
+    {
+      "index": 119,
+      "text": "I want to give you something.\" He reached into his robe.",
+      "start_ms": 323993,
+      "end_ms": 327950
+    },
+    {
+      "index": 120,
+      "text": "He took out the small piece of paper he had had all day — the folded hand-drawn map with the eleven small crosses on it.",
+      "start_ms": 327950,
+      "end_ms": 336349
+    },
+    {
+      "index": 121,
+      "text": "He held it out.",
+      "start_ms": 336349,
+      "end_ms": 337460
+    },
+    {
+      "index": 122,
+      "text": "\"I want you to have this.\" Nadia said, \"But — Sidi.",
+      "start_ms": 337460,
+      "end_ms": 341070
+    },
+    {
+      "index": 123,
+      "text": "You said only four people know.",
+      "start_ms": 341070,
+      "end_ms": 343291
+    },
+    {
+      "index": 124,
+      "text": "That is not — I am not supposed to have this.\" Sidi smiled just a little.",
+      "start_ms": 343291,
+      "end_ms": 348428
+    },
+    {
+      "index": 125,
+      "text": "He said, \"You are the fifth now.",
+      "start_ms": 348428,
+      "end_ms": 350719
+    },
+    {
+      "index": 126,
+      "text": "It is a decision I am making.",
+      "start_ms": 350719,
+      "end_ms": 352801
+    },
+    {
+      "index": 127,
+      "text": "You proved today that you can be trusted with something important.",
+      "start_ms": 352801,
+      "end_ms": 357452
+    },
+    {
+      "index": 128,
+      "text": "And you are twelve.",
+      "start_ms": 357452,
+      "end_ms": 358841
+    },
+    {
+      "index": 129,
+      "text": "You will live a long time.",
+      "start_ms": 358841,
+      "end_ms": 360715
+    },
+    {
+      "index": 130,
+      "text": "Someday, someone in the village will need this map.",
+      "start_ms": 360715,
+      "end_ms": 364325
+    },
+    {
+      "index": 131,
+      "text": "Keep it safe.",
+      "start_ms": 364325,
+      "end_ms": 365297
+    },
+    {
+      "index": 132,
+      "text": "Do not lose it.",
+      "start_ms": 365297,
+      "end_ms": 366407
+    },
+    {
+      "index": 133,
+      "text": "When you are older, bring it back and show it to the two younger men.",
+      "start_ms": 366407,
+      "end_ms": 371267
+    },
+    {
+      "index": 134,
+      "text": "Tell them who taught you.",
+      "start_ms": 371267,
+      "end_ms": 373071
+    },
+    {
+      "index": 135,
+      "text": "Yes?\" And Nadia took the small folded map.",
+      "start_ms": 373071,
+      "end_ms": 376056
+    },
+    {
+      "index": 136,
+      "text": "She put it against her chest.",
+      "start_ms": 376056,
+      "end_ms": 378139
+    },
+    {
+      "index": 137,
+      "text": "She said, quietly, \"Yes, Sidi.",
+      "start_ms": 378139,
+      "end_ms": 380291
+    },
+    {
+      "index": 138,
+      "text": "I will keep it safe.\" And she did, for the rest of her life.",
+      "start_ms": 380291,
+      "end_ms": 384456
+    }
+  ]
+}

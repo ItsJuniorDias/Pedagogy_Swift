@@ -1,0 +1,170 @@
+{
+  "id": "hut-on-the-strait",
+  "title": "The Hut on the Strait",
+  "subtitle": "A Night on Kesselaid",
+  "author": null,
+  "summary": "Kaarel is eleven and spends every June with his father Priit at the family's old summer house on Saaremaa, the largest of the Estonian islands. In the second week, they take the small motorboat out into the Väinameri strait to check the nets. The morning is calm. Then the sky changes fast, the motor stalls, and they row hard for the nearest small islet, Kesselaid, and shelter in an old fisherman's hut nobody has lived in for eighty years. In the middle of the night, Kaarel wakes up because a bell inside the hut is ringing by itself.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-hut-on-the-strait-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old Estonian boy (Kaarel) with light blond hair and a serious curious face, wearing a heavy grey wool sweater over a striped shirt, standing at the low doorway of a very old weathered wooden fisherman's hut on a small stony beach. He is looking up at a single old bronze bell hanging inside the hut just above the door frame — a thin rope disappears from the bell out through a small window. Beside him stands his father (Priit, early forties, dark blond beard, waterproof jacket, dark work trousers), one hand on Kaarel's shoulder, also looking at the bell. Outside the hut, the Baltic strait is grey and rough. Cool north summer twilight. Character positioned center-left, filling roughly 45% of frame height. Palette: warm cream (#FFF9F0), grey-blue sea and weathered wood, deep ink outlines, small dusty rose (#FF5B8D) accent on Kaarel's cheeks and the bronze of the bell. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2027-06-10",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Out with the Nets",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hst-ch1-p1-cottage",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small wooden Estonian summer cottage on the low coast of Saaremaa. Grey weathered wood, red tile roof, small vegetable garden. Behind it, a low pier extending into the calm shallow Baltic. A small blue and white motorboat is tied at the pier. Early morning summer light — very cool, pale, north-Baltic quality. Heavy black ink outlines, flat shadows, warm cream and grey-blue palette.",
+          "paragraphs": [
+            "Kaarel was eleven and spent every June with his father on Saaremaa, which was the largest of the Estonian islands, a two-hour ferry ride west from the mainland. The house they stayed in had been his grandfather's — a small wooden cottage with a red tile roof on the north coast of the island, a hundred meters from the sea, at the end of a dirt road that saw maybe six cars in an entire summer. Kaarel's father, Priit, had grown up in that house. Now he worked as a marine biologist in Tallinn and only came back for June, before his summer research trips began. Kaarel came with him.",
+            "Priit was in his early forties and had a dark blond beard and was a quiet man who liked to fish, and in June each year he brought the small blue and white motorboat down from the shed and tied it to the pier and took Kaarel out on the strait every other day. They would put out three nets in the shallow water between Saaremaa and the smaller island of Muhu to the east, and they would come back the next day to pull them in and see what they had. Sometimes they got pike, sometimes flounder, sometimes nothing. Kaarel had been going with his father since he was nine. This year he was allowed to steer."
+          ]
+        },
+        {
+          "image": "hst-ch1-p2-out",
+          "imagePrompt": "Mike Mignola style for children: exterior view. The small motorboat with Priit and Kaarel aboard is moving smoothly across the calm shallow strait. The water is very still, pale grey-blue, and a low green line of the mainland is visible far in the distance. In the middle distance, a small tree-covered islet sits in the strait. Kaarel (11, blond hair, grey sweater) has his hand on the tiller. Priit (early forties, beard, waterproof jacket) is looking at the sky in the northwest. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "On the second Wednesday in June, they went out early. The Väinameri strait was calm — completely calm, a pale grey mirror with no wind. It was the sort of morning that in this part of the Baltic came without warning and left without warning too. Priit did not fully trust calm mornings on the Väinameri. He said so, on the way out. But the nets needed pulling and the fish were biting; they would be quick.",
+            "They ran the boat east across the strait for maybe twenty minutes. Kaarel steered. Priit sat in the bow and watched the water and the sky. They passed a small tree-covered islet on their left — Priit told Kaarel its name was Kesselaid, and that it had had one family living on it for four hundred years, until the last brother left in the nineteen thirties, and it had been empty ever since. There was an old fishing hut still on the west side, Priit said, that people used sometimes if a storm caught them. It had been his grandfather's storm hut, in fact — Kaarel's great-grandfather. Kaarel had never known that."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They reached the first net. They pulled it. Two decent pike and a small flounder — a good take. They set the net back down, weighted, and moved on to the second. That one had three pike. They were feeling lucky by the time they reached the third net. Priit was smiling in his quiet way, the way he did on good mornings, and he said to Kaarel, without looking away from the net, \"Good day. Days like this we tell your mother about.\"",
+            "It was while they were pulling the third net that Priit stopped smiling. He was looking past Kaarel to the northwest. Kaarel turned. There was a line on the horizon that had not been there before. It was low and dark grey — a smudge, no more. But Priit was already saying, \"Leave the net. Pull it back in the water. We are going home.\""
+          ]
+        },
+        {
+          "image": "hst-ch1-p4-motor",
+          "imagePrompt": "Mike Mignola style for children: close view in the boat. Priit (early forties) is crouched at the small outboard motor at the stern, trying to restart it. Kaarel (11) sits in the middle of the boat, watching, one hand on the gunwale. The sky in the background is visibly darker than before, a low grey wall building in the northwest. The water has begun to chop. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Kaarel dropped the net. He moved fast — Priit's voice had a note in it he had not heard before. Priit started the motor. It caught on the first pull, and they turned the boat around and started for home. The wind was already rising by the time they had gone two hundred meters. Small choppy waves — nothing serious yet — began slapping the bow. The grey line on the horizon was closer now, and no longer just a smudge. It was a wall. Kaarel could see the color of it — dark grey with a green underside, low and heavy.",
+            "Then the motor coughed. Then it coughed again. Then it stopped. Priit tried it — nothing. He tried it — nothing. He tried it a third time. He said, very calmly, \"Kaarel. Get the oars. Now.\""
+          ]
+        },
+        {
+          "image": "hst-ch1-p5-rowing",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the small boat, dwarfed by the sky. Priit rows hard with both oars, the boat pointed toward the small tree-covered islet of Kesselaid, now visibly closer. The dark storm wall fills the whole background. The water is choppy grey-white. Kaarel sits in the bow, low, holding on. Heavy ink outlines, flat shadows, dramatic contrast between the warm foreground and the dark sky.",
+          "paragraphs": [
+            "There was no chance of making it back to Saaremaa. Priit had already calculated. Kesselaid — the small islet with the old hut — was ten minutes of hard rowing to the south. Home was forty minutes even with a working motor. Priit took both oars and began to row. He was strong and he had rowed all his life. Kaarel sat low in the bow, out of the wind, and watched his father's face. Priit was not afraid, exactly. He was concentrating. That was how Kaarel knew this was serious.",
+            "They made Kesselaid just as the first hard rain came. Priit ran the bow of the boat up the small stony beach on the west side of the islet, and they both jumped out and dragged it up above the tide line and tied it to the base of a birch tree. Then Priit grabbed the small emergency bag from under the seat and said, \"The hut. Run.\" And they ran."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Whoever Lived Here Last",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hst-ch2-p1-hut-exterior",
+          "imagePrompt": "Mike Mignola style for children: exterior of a very old low wooden hut on a small stony rise above the beach, surrounded by wind-bent birches. The hut is weathered grey-black wood with a low steep roof of moss and old shingles. A single small window and a heavy wooden door. Rain is falling hard, wind bending the trees. Priit and Kaarel are just reaching the door. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "The hut was set back about fifty meters from the beach, on a small rise, surrounded by low wind-bent birches. It was very old — the wood was silver-grey, almost black in places, and the roof was moss and old wooden shingles. There was one door and one small window. Priit lifted the wooden latch, which was heavy and stiff, and pushed the door open. They fell inside, wet, both breathing hard, and Priit closed the door behind them and dropped the latch.",
+            "Inside, it was dim, dry, and smelled of old wood and dry pine sap and, faintly, of woodsmoke a long time gone. Kaarel wiped water out of his eyes and looked around. It was a small square room, maybe three meters by three. A rough wooden bench along one wall, wide enough to lie on. A small wood stove in the corner, cold. A wooden table under the window. A shelf on the back wall with a few empty tins and a very old iron kettle. And, hanging from a hook in the low ceiling right above the door, a small bronze bell about the size of a man's fist, with a thin dark rope tied to its clapper. The rope went up to the bell, and then went sideways, and disappeared through a tiny hole drilled in the wall just under the roofline. Kaarel stared at the bell."
+          ]
+        },
+        {
+          "image": "hst-ch2-p2-fire",
+          "imagePrompt": "Mike Mignola style for children: interior of the hut. Priit (early forties) is crouched at the small wood stove, feeding dry kindling into it. A small fire is beginning to catch. Warm gold light from the stove door. Kaarel (11) sits on the wooden bench, wrapped in an old blanket from the emergency bag. The rain is loud on the roof but the room is warm. The bronze bell is visible above the door, still. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Priit went to the stove. Beside it, in a small neat pile, was dry kindling and half a dozen split birch logs. There was a small tin on top of the stove. Priit opened it — three dry matches. He looked pleased. He built a small careful fire, lit the match, and after a moment the stove began to warm. He set the iron kettle on top and put water from his emergency bottle into it. He said, \"We will have tea in ten minutes. Then it will feel less bad.\"",
+            "Kaarel sat on the wooden bench, wrapped in the old blanket from the emergency bag, and watched. When Priit was done fussing with the fire, Kaarel asked, \"Who left the wood and the matches?\" Priit said, \"Whoever used the hut last. It is a rule. If you use a storm hut, you leave it better than you found it. Dry wood. Dry tinder. Matches if you can spare them. Someone might come after you who does not have time to gather.\" He looked at his son. \"When we leave, we will do the same. We will refill the kindling from the shed outside. That is how this works.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The rain drummed hard on the mossy roof. The wind rose and rose. Kaarel could hear the sea outside — a heavier sound than that morning, a deep booming somewhere off to the north where the waves were breaking on the exposed side of the islet. But inside the hut it was warm and dry and very quiet in the way small warm places are quiet in a storm. Kaarel drank the tea Priit made him — hot and strong and with too much sugar from a small paper packet in the emergency bag. He began to feel less afraid.",
+            "\"Whose hut was this?\" he asked. Priit said, \"The Nurmis. My grandfather's family — your great-grandfather's family. They were fishermen. They lived on this islet for four hundred years. There were maybe fifteen of them here at the peak. They left in the thirties. My great-uncle Toivo was the last brother out. He walked away from the door of this hut in nineteen thirty-eight and closed it and rowed to Saaremaa and never came back. I met him once when I was small. He died when I was eight.\"",
+            "Kaarel looked around the small dim room. He said, \"So who's been keeping the wood?\" Priit thought. He said, \"Other people. Fishermen. There is always someone. On the Väinameri, someone always keeps the storm huts stocked. Nobody organizes it. It just happens. It is like the bell, I suppose.\" And he looked up at the bronze bell hanging over the door."
+          ]
+        },
+        {
+          "image": "hst-ch2-p4-sleep",
+          "imagePrompt": "Mike Mignola style for children: interior. It is late. The fire in the stove has burned down to warm coals — dim red glow. Priit sleeps on the floor wrapped in the blanket. Kaarel is on the wooden bench, also wrapped, eyes just closing. Faint moonlight from the small window. The bronze bell is a dark shape overhead. Heavy ink outlines, deep quiet shadows, dark palette but with the warm red of the coals.",
+          "paragraphs": [
+            "The storm did not stop. If anything, in the evening, it got heavier. Priit checked the boat once, at dusk, and came back to say it was still tied and fine but the water had come up higher than he had expected. \"Not dangerous,\" he said, \"but higher than normal. We will sleep here. There will be nothing to do until the wind drops. If we are lucky, it drops by morning.\" He gave Kaarel more tea, and one of the two sandwiches from the emergency bag. They ate. They talked a little. Priit told Kaarel about his great-uncle Toivo, who had been a quiet strange man who had lived alone on the mainland for the rest of his life and who had never once, in fifty years, gone back to Kesselaid. Kaarel asked why. Priit said, \"I do not know. Something happened here. My father would not tell me.\"",
+            "The fire burned down slow. Priit rolled up his jacket for a pillow and lay down on the floor. He gave Kaarel the whole bench and the blanket. Within a few minutes he was asleep. He always slept easily. Kaarel lay on the bench and listened to the rain and looked at the shape of the bell hanging overhead in the dim red glow of the coals. Then, at some point, he slept too."
+          ]
+        },
+        {
+          "image": "hst-ch2-p5-bell",
+          "imagePrompt": "Mike Mignola style for children: interior of the hut, deep night. Kaarel (11) has sat up on the bench, blanket falling away, staring wide-eyed at the bronze bell above the door. The bell is caught mid-swing — clearly moving, clanging. The thin rope is taut and vibrating. Priit still sleeps on the floor, undisturbed. Dim red glow from the coals. Heavy ink outlines, deep shadows.",
+          "paragraphs": [
+            "He did not know what time it was when he woke up. It was still full dark. The rain had softened — no longer heavy — and the wind had dropped some. The fire was down to a warm red. And the bell above the door was ringing. Not loud. A slow, uneven, quiet ding-ding. Pause. Ding. Pause. Ding-ding. As if something outside was pulling the rope, once, and then once again, and then twice.",
+            "Kaarel sat up on the bench. His heart was beating fast. He looked at his father, who was still asleep and breathing evenly. Priit had not heard it. The bell rang again — slow, patient, almost polite. Kaarel got up very quietly, wrapped in the blanket, and crossed the small room to the door."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Rope Outside",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "hst-ch3-p1-opening",
+          "imagePrompt": "Mike Mignola style for children: interior close view. Kaarel (11), wrapped in the blanket, has quietly lifted the wooden latch and is opening the hut door a small careful gap. Cold pale moonlight slants in through the gap. His face is scared but curious. The bell continues to ring softly overhead. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "He lifted the wooden latch, slowly, so it would not click. He opened the door a hand's-width. Cold moonlight came in. The rain was almost done. He looked out.",
+            "There was no one there. The narrow strip of grass between the hut and the birches was empty. He pushed the door open a bit more and looked to both sides. Nobody. But the bell rang again, softly, behind him. Whoever was pulling was not a person standing at the door."
+          ]
+        },
+        {
+          "image": "hst-ch3-p2-rope",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the side of the hut in dim moonlight. Kaarel (11) stands close to the wall, following with his eyes a thin dark rope that emerges from a small hole under the roofline and runs down the outside wall of the hut, along the ground, out toward the water where the tide has come up much higher than expected — perhaps within ten meters of the hut. At the water's edge, tied to the end of the rope, a small dark round buoy bobs in the rising water. The moonlight glints on the wet grass. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Kaarel stepped outside. He felt his way around the side of the hut. The moon was mostly clear now, low but enough to see. He looked up at the wall of the hut where the little hole was drilled — where the rope from the bell disappeared. The rope came out of the hole and ran down the outside wall of the hut, held with two rusty staples. Then it ran along the ground, disappearing into the wet grass, going away from the hut.",
+            "Kaarel followed it. Ten steps. Twenty. He came out from behind the birches. And then he stopped. The sea, which had been fifty meters away from the hut when they arrived, was now maybe fifteen meters away. The tide had come up much higher than his father had thought it would. And there, at the very edge of the water, tied to the end of the rope, a small dark round buoy — the kind fishermen used to mark nets — was bobbing in the rising water. When the sea lifted the buoy, the rope pulled, and the bell inside the hut rang. When the sea dropped it, the rope went slack. It was ringing because the water was still coming up."
+          ]
+        },
+        {
+          "image": "hst-ch3-p3-priit",
+          "imagePrompt": "Mike Mignola style for children: exterior close view. Priit (early forties, hastily dressed, jacket half-on) has come out of the hut and is standing beside Kaarel. Both are looking at the rope and the buoy at the water's edge. Priit's face shows understanding. Cold pale moonlight, the sea very close now. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Kaarel ran back to the hut. He shook his father awake. He said, \"The bell. Someone rigged it to the sea. To the tide. The water is coming up. Come and look.\" Priit was on his feet in seconds. He pulled on his jacket, still half asleep, and followed Kaarel outside. He saw the rope. He saw the buoy. He saw the sea. He was quiet for a moment. Then he said, softly, \"Ah. So that is what the bell is for.\"",
+            "They stood looking at it together. Priit said, \"Someone rigged this. Someone who knew that on nights like this the water comes up above the beach and can reach the hut. Someone who knew that a person sleeping in the hut would not know. They rigged the bell so that when the water came up past the buoy, the bell would ring and wake them up. It is a warning. It is not loud enough to wake you from outside — you would not hear it if you were in the boat. But if you are inside the hut, you hear it. And you wake up.\""
+          ]
+        },
+        {
+          "image": "hst-ch3-p4-move",
+          "imagePrompt": "Mike Mignola style for children: exterior view. Priit and Kaarel together are carrying the emergency bag and blankets up a small path away from the hut, toward a slightly higher spot on the islet. Behind them the hut sits low, the water now very close. Cold pale moonlight, the sea calm now but high. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They did not sleep in the hut again that night. Priit made Kaarel help him carry everything — the blankets, the emergency bag, the tea kettle — up a small path behind the hut to a small higher clearing among the birches. There was another very old stone circle up there, low, with a wooden roof over it — clearly meant for exactly this kind of night. Old cracked benches sat around a stone hearth. Priit built another small fire. They wrapped in the blankets and sat close to it and did not sleep, exactly, but they rested. Priit talked, quietly, about his great-uncle Toivo. He said, \"Maybe this is why he never came back. Maybe he had a night like this once and it did not go so well. Maybe the bell did not ring in time for him. I do not know. I will never know. But somebody, after him, made sure it would ring.\"",
+            "They watched the tide. It came up another meter. It did not reach the hut. Around three in the morning, the water began to go back down."
+          ]
+        },
+        {
+          "image": "hst-ch3-p5-morning",
+          "imagePrompt": "Mike Mignola style for children: exterior view of Kesselaid in cold clear early morning. The storm is gone. The sea is glassy calm and pale. Priit stands at the small motorboat pulling on the outboard motor cord — the motor has just caught, a small burst of dark smoke. Kaarel (11) coils the tie-line. The islet is quiet. Heavy ink outlines, flat shadows, warm cream and pale grey palette.",
+          "paragraphs": [
+            "Morning was cold and clear. The Väinameri was flat again, pale grey, empty. The storm had passed. Priit went and looked at the motor. He took the cover off, dried a wet contact with the corner of his shirt, tightened one connection, and pulled the cord. It caught on the third pull. Kaarel refilled the kindling by the stove from the small dry shed behind the hut. He put the last two matches back in the tin on top of the stove. He hesitated. Then he took out one of his own — his father kept a spare packet in the emergency bag — and added it to the tin. Now there were three again. He shut the door behind him and dropped the latch.",
+            "They rowed the boat back into the water, started the motor, and turned home. On the way, Kaarel asked, \"Who set up the bell?\" Priit said, \"I don't know. Somebody who came after Toivo. Maybe more than one somebody. Maybe it was repaired ten times over the years — nobody in particular kept doing it. That's how these things go. Ask around when we get back. Somebody in the village will know.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They did ask. Two days later Priit stopped at the small store in the village on the mainland and asked an old man named Andres, who had lived on the Väinameri his entire life, about the bell in the Kesselaid hut. Andres nodded slowly. He said, \"Ah, yes. That bell. My uncle Enn set that up. About sixty years ago. He got caught in the hut once — bad summer storm, water rose two meters above ordinary tide — he barely got out. Rowed home in the dark half-drowned. A week later he went back with the bell and the rope and the buoy, and set it up. He wanted anyone who came after him to have a warning. He was one who kept it repaired every few years until he died. His grandson does it now. Once every three years, they go and check the rope. When the rope wears through, they replace it. When the buoy rots, they replace it. Nobody talks about it much. It is just what people do.\"",
+            "Kaarel thought about that all the way home. He thought about it many times over that summer, and in the years after. That someone he had never met, sixty years ago, had thought about him. Not him exactly. But someone like him, who might one day be caught in a hut on a small islet with the water rising in the dark and no way to know. And that a chain of people, none of whom had ever met each other, had kept the bell working, just in case. He never forgot it. It was the first time in his life he understood that kindness could go forward through time, like a light left on for someone who had not yet arrived."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": ["family", "father", "estonia", "sea", "storm", "kindness"]
+}

@@ -1,0 +1,475 @@
+{
+  "story_id": "red-earth-weaver",
+  "chapter": 2,
+  "total_duration_ms": 284640,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The second week, while Vola sat at the loom and slowly began her own lamba — a simple one, cream with a dark red border, which Bebe called good, sensible, honest — Bebe began teaching her the old patterns.",
+      "start_ms": 2341,
+      "end_ms": 14706
+    },
+    {
+      "index": 1,
+      "text": "Not to weave them, yet.",
+      "start_ms": 14706,
+      "end_ms": 16147
+    },
+    {
+      "index": 2,
+      "text": "Only to read them.",
+      "start_ms": 16147,
+      "end_ms": 17347
+    },
+    {
+      "index": 3,
+      "text": "\"Every family in the highlands used to have their own patterns,\" Bebe said.",
+      "start_ms": 17347,
+      "end_ms": 21909
+    },
+    {
+      "index": 4,
+      "text": "\"Not many people know this now.",
+      "start_ms": 21909,
+      "end_ms": 23830
+    },
+    {
+      "index": 5,
+      "text": "Most of what people weave today is decoration — pretty, meaningless, sold to tourists in Tana.",
+      "start_ms": 23830,
+      "end_ms": 29532
+    },
+    {
+      "index": 6,
+      "text": "But the old lamba were not decoration.",
+      "start_ms": 29532,
+      "end_ms": 31873
+    },
+    {
+      "index": 7,
+      "text": "They said things.",
+      "start_ms": 31873,
+      "end_ms": 32954
+    },
+    {
+      "index": 8,
+      "text": "My grandmother taught me some.",
+      "start_ms": 32954,
+      "end_ms": 34815
+    },
+    {
+      "index": 9,
+      "text": "I have taught almost no one.",
+      "start_ms": 34815,
+      "end_ms": 36555
+    },
+    {
+      "index": 10,
+      "text": "There are perhaps six people in this region who know what I know.",
+      "start_ms": 36555,
+      "end_ms": 40517
+    },
+    {
+      "index": 11,
+      "text": "When we are gone, it goes with us.",
+      "start_ms": 40517,
+      "end_ms": 42618
+    },
+    {
+      "index": 12,
+      "text": "Unless someone learns.\"",
+      "start_ms": 42618,
+      "end_ms": 44119
+    },
+    {
+      "index": 13,
+      "text": "She showed Vola.",
+      "start_ms": 44119,
+      "end_ms": 45139
+    },
+    {
+      "index": 14,
+      "text": "A row of small triangles pointing up meant hills, and each triangle was a specific known hill in the region — you had to already know which hills.",
+      "start_ms": 45139,
+      "end_ms": 53963
+    },
+    {
+      "index": 15,
+      "text": "A row of thin parallel lines meant a river, and the number of lines told you how many streams fed it.",
+      "start_ms": 53963,
+      "end_ms": 60085
+    },
+    {
+      "index": 16,
+      "text": "A diamond meant a house, and the position told you whose.",
+      "start_ms": 60085,
+      "end_ms": 63567
+    },
+    {
+      "index": 17,
+      "text": "A little cluster of dots was a herd of zebu — the cattle of the region — and the number of dots was, roughly, the number in the herd.",
+      "start_ms": 63567,
+      "end_ms": 71610
+    },
+    {
+      "index": 18,
+      "text": "A single dark line running across a piece meant a boundary, a fady — a taboo — a place you were not to go.",
+      "start_ms": 71610,
+      "end_ms": 78093
+    },
+    {
+      "index": 19,
+      "text": "\"They were maps,\" Vola said slowly.",
+      "start_ms": 78093,
+      "end_ms": 80254
+    },
+    {
+      "index": 20,
+      "text": "\"Some of them were maps.\" Bebe said, \"Yes.",
+      "start_ms": 80254,
+      "end_ms": 82835
+    },
+    {
+      "index": 21,
+      "text": "And calendars.",
+      "start_ms": 82835,
+      "end_ms": 83735
+    },
+    {
+      "index": 22,
+      "text": "And records of who married whom.",
+      "start_ms": 83735,
+      "end_ms": 85716
+    },
+    {
+      "index": 23,
+      "text": "And records of a good year, or a bad year.",
+      "start_ms": 85716,
+      "end_ms": 88297
+    },
+    {
+      "index": 24,
+      "text": "Some of them were promises.",
+      "start_ms": 88297,
+      "end_ms": 89978
+    },
+    {
+      "index": 25,
+      "text": "Some of them were warnings.",
+      "start_ms": 89978,
+      "end_ms": 91659
+    },
+    {
+      "index": 26,
+      "text": "A woman who wove a certain pattern into her daughter's wedding lamba was telling her daughter, do not forget the boundary.",
+      "start_ms": 91659,
+      "end_ms": 99042
+    },
+    {
+      "index": 27,
+      "text": "Do not cross into that valley.",
+      "start_ms": 99042,
+      "end_ms": 100903
+    },
+    {
+      "index": 28,
+      "text": "Or, remember the drought in the year I was born.",
+      "start_ms": 100903,
+      "end_ms": 103844
+    },
+    {
+      "index": 29,
+      "text": "Or, our herd was once bigger than this.",
+      "start_ms": 103844,
+      "end_ms": 106245
+    },
+    {
+      "index": 30,
+      "text": "The lamba were how people remembered, before there were many books, and before the ones who could write were more than a few.\"",
+      "start_ms": 106245,
+      "end_ms": 113808
+    },
+    {
+      "index": 31,
+      "text": "Vola began to see the old lamba around the house differently.",
+      "start_ms": 113808,
+      "end_ms": 117163
+    },
+    {
+      "index": 32,
+      "text": "There were seven or eight of them in the stack that were old — thirty, forty, fifty years old — and now, when Bebe pulled one out and unfolded it, Vola could see the small language in it.",
+      "start_ms": 117163,
+      "end_ms": 127337
+    },
+    {
+      "index": 33,
+      "text": "A trip her great-uncle had made, once, to the coast.",
+      "start_ms": 127337,
+      "end_ms": 130205
+    },
+    {
+      "index": 34,
+      "text": "A marriage that had gone well.",
+      "start_ms": 130205,
+      "end_ms": 131883
+    },
+    {
+      "index": 35,
+      "text": "A season the rains had come at the wrong time.",
+      "start_ms": 131883,
+      "end_ms": 134426
+    },
+    {
+      "index": 36,
+      "text": "Bebe would read the cloths for her, patiently, at night, and Vola would look at the small shapes and try to remember them.",
+      "start_ms": 134426,
+      "end_ms": 141137
+    },
+    {
+      "index": 37,
+      "text": "But Bebe kept coming back to the one at the bottom of the stack.",
+      "start_ms": 141137,
+      "end_ms": 144654
+    },
+    {
+      "index": 38,
+      "text": "Ravaka's lamba.",
+      "start_ms": 144654,
+      "end_ms": 145520
+    },
+    {
+      "index": 39,
+      "text": "The one she could not read.",
+      "start_ms": 145520,
+      "end_ms": 147035
+    },
+    {
+      "index": 40,
+      "text": "She would take it out every three or four days and look at it, and shake her head slowly, and put it back.",
+      "start_ms": 147035,
+      "end_ms": 152826
+    },
+    {
+      "index": 41,
+      "text": "\"There is nothing in here I recognize,\" she said one night.",
+      "start_ms": 152826,
+      "end_ms": 156073
+    },
+    {
+      "index": 42,
+      "text": "\"Some of the shapes I know.",
+      "start_ms": 156073,
+      "end_ms": 157588
+    },
+    {
+      "index": 43,
+      "text": "A triangle.",
+      "start_ms": 157588,
+      "end_ms": 158238
+    },
+    {
+      "index": 44,
+      "text": "A dot.",
+      "start_ms": 158238,
+      "end_ms": 158616
+    },
+    {
+      "index": 45,
+      "text": "But the arrangement makes no sense.",
+      "start_ms": 158616,
+      "end_ms": 160565
+    },
+    {
+      "index": 46,
+      "text": "It is not any place I know.",
+      "start_ms": 160565,
+      "end_ms": 162080
+    },
+    {
+      "index": 47,
+      "text": "It is not a calendar I know.",
+      "start_ms": 162080,
+      "end_ms": 163649
+    },
+    {
+      "index": 48,
+      "text": "My mother said, my grandmother said it carries something.",
+      "start_ms": 163649,
+      "end_ms": 166788
+    },
+    {
+      "index": 49,
+      "text": "But I have never seen what.\"",
+      "start_ms": 166788,
+      "end_ms": 168411
+    },
+    {
+      "index": 50,
+      "text": "On a Wednesday afternoon in the third week, Bebe was down at the village well and Vola was alone in the house.",
+      "start_ms": 168411,
+      "end_ms": 174418
+    },
+    {
+      "index": 51,
+      "text": "She had finished her weaving for the morning and had eaten.",
+      "start_ms": 174418,
+      "end_ms": 177665
+    },
+    {
+      "index": 52,
+      "text": "She went to the wall of lamba and pulled out the Ravaka one and unfolded it on the floor of the main room, all of it.",
+      "start_ms": 177665,
+      "end_ms": 184051
+    },
+    {
+      "index": 53,
+      "text": "It was much bigger opened out than she had realized — nearly two meters long.",
+      "start_ms": 184051,
+      "end_ms": 188272
+    },
+    {
+      "index": 54,
+      "text": "She stood at the edge and looked down at the whole thing from above.",
+      "start_ms": 188272,
+      "end_ms": 191952
+    },
+    {
+      "index": 55,
+      "text": "For a long time she just looked.",
+      "start_ms": 191952,
+      "end_ms": 193764
+    },
+    {
+      "index": 56,
+      "text": "She had been trying to read it up close — trying to find one shape, and then another shape, and see what they meant together.",
+      "start_ms": 193764,
+      "end_ms": 200683
+    },
+    {
+      "index": 57,
+      "text": "Up close it was small and dense and made no sense.",
+      "start_ms": 200683,
+      "end_ms": 203483
+    },
+    {
+      "index": 58,
+      "text": "But from above, standing back, the whole thing had a shape.",
+      "start_ms": 203483,
+      "end_ms": 206778
+    },
+    {
+      "index": 59,
+      "text": "The pattern, as a whole, made a picture.",
+      "start_ms": 206778,
+      "end_ms": 209029
+    },
+    {
+      "index": 60,
+      "text": "She saw it slowly, the way a picture emerges out of a puzzle.",
+      "start_ms": 209029,
+      "end_ms": 212433
+    },
+    {
+      "index": 61,
+      "text": "She saw a long shape running down the length of the cloth — winding, snake-shaped.",
+      "start_ms": 212433,
+      "end_ms": 216991
+    },
+    {
+      "index": 62,
+      "text": "She saw a cluster of small triangles bunched at the top, and a scatter at the bottom.",
+      "start_ms": 216991,
+      "end_ms": 221713
+    },
+    {
+      "index": 63,
+      "text": "She saw a single hard vertical line about a third of the way in from the left.",
+      "start_ms": 221713,
+      "end_ms": 226051
+    },
+    {
+      "index": 64,
+      "text": "She saw a small round mark, dark, near the center, that she had not really noticed before, off to the side, embedded in the pattern like a knot.",
+      "start_ms": 226051,
+      "end_ms": 234068
+    },
+    {
+      "index": 65,
+      "text": "She stood there for a long moment.",
+      "start_ms": 234068,
+      "end_ms": 235990
+    },
+    {
+      "index": 66,
+      "text": "Then she went to the doorway and looked out.",
+      "start_ms": 235990,
+      "end_ms": 238461
+    },
+    {
+      "index": 67,
+      "text": "She looked at the valley — the hills that surrounded Bebe's small house, the winding stream that came down the middle of it, the low bunch of hills to the north where Vola had helped water zebu the year before, the scatter of small houses to the south where the neighbors lived.",
+      "start_ms": 238461,
+      "end_ms": 253781
+    },
+    {
+      "index": 68,
+      "text": "She looked back at the cloth on the floor.",
+      "start_ms": 253781,
+      "end_ms": 256142
+    },
+    {
+      "index": 69,
+      "text": "Then she looked at the valley again.",
+      "start_ms": 256142,
+      "end_ms": 258228
+    },
+    {
+      "index": 70,
+      "text": "The pattern on the cloth was the valley.",
+      "start_ms": 258228,
+      "end_ms": 260480
+    },
+    {
+      "index": 71,
+      "text": "Seen from above.",
+      "start_ms": 260480,
+      "end_ms": 261413
+    },
+    {
+      "index": 72,
+      "text": "It was the shape of Bebe's own valley, woven into the lamba by Ravaka more than eighty years ago.",
+      "start_ms": 261413,
+      "end_ms": 266794
+    },
+    {
+      "index": 73,
+      "text": "The winding shape was the stream.",
+      "start_ms": 266794,
+      "end_ms": 268661
+    },
+    {
+      "index": 74,
+      "text": "The bunched triangles at the top were the north hills.",
+      "start_ms": 268661,
+      "end_ms": 271681
+    },
+    {
+      "index": 75,
+      "text": "The scatter at the bottom was the neighbor houses.",
+      "start_ms": 271681,
+      "end_ms": 274482
+    },
+    {
+      "index": 76,
+      "text": "The hard vertical line was the old boundary wall that still ran, tumbled, across the far edge of the valley.",
+      "start_ms": 274482,
+      "end_ms": 280467
+    },
+    {
+      "index": 77,
+      "text": "And the dark round knot in the center was — Vola thought — Bebe's own house.",
+      "start_ms": 280467,
+      "end_ms": 284640
+    }
+  ]
+}

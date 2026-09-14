@@ -1,0 +1,175 @@
+{
+  "id": "swan-house",
+  "title": "The Swan House",
+  "subtitle": "A Finnish Lake Summer",
+  "author": null,
+  "summary": "Elin is ten and spends every summer at her grandmother's small cabin on a lake in the middle of the Finnish forest. Every summer, the same family of swans returns to the lake. Elin's grandmother tells her, from the time Elin is very small, that the swans are actually people. People who have gone quiet for a while, and are resting, and will change back one day. Elin does not know if she believes her. And then, the summer she is ten, one of the swans does something a swan is not supposed to do.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-swan-house-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old girl (Elin) with straight blonde hair in two braids, wearing a red sundress, standing barefoot on a small wooden dock jutting into a still Finnish lake at midsummer. In the water in front of her: a family of four whooper swans — two adults and two cygnets — with one adult swan facing her, looking directly at her. Behind the lake: dark pine and birch forest with a small red-painted wooden cabin just visible through the trees. Pale midnight-sun sky. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), lake steel-grey, deep pine green, ink outlines, small dusty rose (#FF5B8D) accent on her red sundress. Small margin at top and bottom for card padding.",
+  "category": "legend",
+  "isPremium": true,
+  "publishedAt": "2026-12-17",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Same Family",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sw-ch1-p1-cabin",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small red-painted wooden Finnish cabin (mökki) at the edge of a large still forest lake, surrounded by pine and birch trees. A wooden dock extends out over the water. A girl (Elin, 10, blonde braids, red sundress) walks with a small suitcase down a path toward the cabin. Midsummer light, very long shadows, pale sky. Heavy black ink outlines, flat shadows, cream and sepia palette with muted greens and steel-blue lake.",
+          "paragraphs": [
+            "Elin's grandmother lived alone in a small red-painted wooden cabin on the shore of a lake in the middle of the Finnish forest, four hours from any city. There was no road that reached the cabin — a road came within about a kilometer, and then you walked the rest of the way through the trees. The cabin had one room and a sauna and a small wooden dock that stuck out into the still water. It was called a mökki. All Finnish grandmothers had one, more or less. Elin's mother had grown up spending summers here. Elin had done the same, from the time she was small.",
+            "The year Elin was ten, she went to Mummi's cabin for six weeks, the whole month of July and the first week of August. Her mother left her at the little parking lot at the end of the road, kissed her on the top of the head, and drove back to Helsinki for work. Elin walked the last kilometer alone through the forest with her small suitcase. She knew the way completely. She had walked it every summer since she was old enough to walk. When she came out of the trees she saw the cabin, and she saw Mummi standing on the wooden dock in the pale evening light, and she saw the lake stretched out flat and silver. And on the lake, exactly where they always were, there was a family of four white swans."
+          ]
+        },
+        {
+          "image": "sw-ch1-p2-mummi",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on a small wooden dock. An older woman (Mummi, seventies, silver-white hair in a bun, wearing a heavy blue linen dress) stands with her arm around a girl (Elin, 10, blonde braids). Both looking out at the still lake in the middle distance where four white swans (two adults, two cygnets) glide. Pale evening sky. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Mummi did not run to meet her. She never had. She only stood on the dock and waited. When Elin got to her, Mummi put her arm around her and pulled her close for a moment. She did not say anything. They stood together in the pale midsummer light and looked at the lake. \"The same family,\" Elin said. \"Yes,\" said Mummi. \"The same family. Two cygnets this year. Their third summer, I think. Or fourth.\"",
+            "The swans on the lake were whooper swans — big white birds with yellow-and-black beaks. There were four of them. Two adults and two young ones that had been born earlier that spring. Every summer since Elin could remember, a family of whooper swans had come to this lake. Sometimes with cygnets, sometimes not. Mummi believed — and had told Elin from the time Elin was very small — that it was the same family every year. \"They have been here longer than I have,\" she had said, when Elin was little. \"Longer than my mother, when this was her mökki. Since before the war. The same swans.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"But Mummi,\" Elin had said once, when she was maybe six. \"Swans do not live that long. Swans only live twenty years.\" Mummi had smiled. \"Ah,\" she had said. \"Well. Then maybe they are not swans. Maybe they are people. That happens sometimes. People who have gone quiet for a while. They live as swans until they are ready to be people again. It is a rest they take. That is what my grandmother told me. And I have never seen anything to prove it wrong.\"",
+            "Elin at six had not known what to do with this. At seven, she had thought it was a beautiful idea, and had watched the swans very carefully all summer looking for signs. At eight, she had decided her grandmother was making it up. At nine, she had not thought about it very much. And now, at ten, she thought about it in a different way — a kind of half-thought that she was not sure she believed but was not sure she disbelieved. The way you can think about a story you loved when you were younger."
+          ]
+        },
+        {
+          "image": "sw-ch1-p3-inside",
+          "imagePrompt": "Mike Mignola style for children: interior of the small red mökki cabin. A single room with a wood stove, a small kitchen counter, a table with two chairs, and a bed in the corner. Warm lamp light. An older woman (Mummi) at the counter cutting bread. A girl (Elin, 10) unpacking her suitcase on the bed. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That first evening they ate cold bread and small pickled fish and drank hot tea, and Mummi told Elin about the summer — what berries had come out, which mushrooms she had already found, which of the neighbor cabin's dogs had had puppies. Elin listened. She was tired from the trip. After supper Mummi lit a candle on the table because it was almost midnight and the light outside was still pale silver, and they played a card game called mustamaija for a while, and then Elin went to bed in her small corner and slept.",
+            "In the morning she woke early and went out on the dock in her nightgown to see if the swans were still there. They were. Same four. Same place. Sleeping in a small cluster near the far shore, floating still on the pale silver water."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "For the first week, everything was the same as every other summer. Elin swam. She helped Mummi in the small garden. She read old books that had been in the cabin for decades. She sat in the sauna on the dock in the evenings. Every day the swans were on the lake. Sometimes near the cabin. Sometimes at the far end. The cygnets were growing fast — they had been small and grey when Elin arrived, and by the end of the second week they were almost as big as their parents, though still with mottled grey feathers coming in among the white.",
+            "Everything was normal until the ninth day."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "One Swan Comes Closer",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sw-ch2-p1-close-swan",
+          "imagePrompt": "Mike Mignola style for children: exterior scene on the wooden dock. A girl (Elin, 10) sits at the edge of the dock with her bare feet just above the water, book on her lap, looking at a single large white adult swan that has come to swim right beside the dock, close enough to touch. The other three swans are visible in the middle distance. Warm afternoon light, glass-still lake. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On the ninth day, one of the adult swans came close. Elin was sitting on the dock reading in the afternoon. The swans had never come to the dock — never, not once in Elin's whole life — because Mummi had a rule that no one was to feed them or approach them. \"They are wild,\" she said. \"If we feed them they change. We do not want them to change.\"",
+            "But that afternoon, one of the adults — Elin thought it might be the female, though it was hard to tell — swam over to the dock. Slowly. Deliberately. She came within maybe two meters. She stopped. She sat on the water. She looked at Elin. Elin held her breath. She had never been this close to a swan before. The swan was much bigger up close than she had realized. Her yellow-and-black beak was as long as Elin's hand. Her eye was very black. Very steady."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Elin did not move. She said, very quietly, \"Hello.\" The swan tilted her head very slightly. She stayed. For maybe five minutes she stayed there — sitting on the water, looking at Elin, not eating, not swimming away. Then, slowly, she turned and swam back to her family. Elin sat on the dock for a long time after that. Then she went inside and she told Mummi.",
+            "Mummi was cutting mushrooms at the table. She looked up. She was quiet for a moment. Then she said, \"Well.\" She kept cutting mushrooms. \"That has never happened before, in all the years,\" she said. \"They have never come close.\" She looked up at Elin. Her face was hard to read. She said, \"What did you think, Elin. What did it feel like.\" Elin said, \"It felt like — she wanted to see me. Not because she wanted food. She was looking at me. Really looking.\" Mummi nodded slowly. \"Yes,\" she said. \"That is what it would look like.\""
+          ]
+        },
+        {
+          "image": "sw-ch2-p3-returns",
+          "imagePrompt": "Mike Mignola style for children: exterior scene from a slight distance. The same white adult swan swims once again close to the dock. Elin (10) stands at the edge of the dock this time, arms wrapped around herself, watching. The evening light is going golden. Heavy ink outlines, flat shadows, cream and sepia palette with warm gold accents.",
+          "paragraphs": [
+            "The swan came back the next day. And the day after. Both times in the afternoon. Both times she just sat and looked at Elin for a few minutes and then went back to her family. Elin started to look forward to it. She stopped reading during those afternoon hours — she just sat on the dock and waited. And the swan came. Always the same one. Always alone.",
+            "On the fourth day of this, Elin worked up the courage to speak more. She was quiet at first. She said, \"Hello. I don't know if you can understand me. But hello.\" The swan looked. \"My name is Elin. I am ten. I am here with Mummi.\" The swan looked. \"Are you — I don't know. Mummi says sometimes swans are people who have gone quiet. Is that true.\" The swan did not do anything special. She sat. She watched. Then she turned around and swam back to her family."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "That evening after supper, Elin asked Mummi more about the story. Really asked, not the way she had asked when she was little. \"Mummi. When you say people who have gone quiet — what does that mean. Do you mean the swans are actually people. Or do you mean something else.\" Mummi thought for a long time. She was drying dishes. Finally she said, \"I do not know exactly what my grandmother meant. She was a very serious woman. She did not lie. She did not tell stories to entertain children. She said what she believed. And she said, sometimes, when a person has had something so heavy they cannot carry it anymore, and they cannot say it, they go quiet in a way that goes very deep. Deeper than talking. And when they are that quiet, something in the world lets them rest. And they can be a bird, for a while. Or a fish, or a tree. And then when they are ready, they can come back. Some people never come back. Some do.\"",
+            "\"Mummi,\" said Elin. \"Do you believe it. Really.\" Mummi looked at her. She said, \"I believe there are things about the world that we cannot explain. I believe that. And I know that there has been a family of swans on this lake as long as anyone in my family can remember. I do not have a better explanation. So — yes. I believe it in my own way. That may not be the same as believing it. But it is close enough for me.\""
+          ]
+        },
+        {
+          "image": "sw-ch2-p5-storm",
+          "imagePrompt": "Mike Mignola style for children: exterior scene in a sudden summer storm. Dark clouds and heavy rain, whitecaps on the lake. A girl (Elin, 10) stands at the cabin door in a raincoat looking out at the lake worriedly. The swans are barely visible in the middle distance, huddled together. Heavy ink outlines, flat shadows, cool grey and blue palette with dark accents.",
+          "paragraphs": [
+            "In the fourth week of Elin's visit, a big storm came. It came suddenly, in the afternoon — the sky went from pale blue to almost black in about half an hour, and the wind picked up hard, and the rain came down heavy and cold. Elin and Mummi were inside. The lake, which had been glass-still all summer, was suddenly full of whitecaps. Elin looked out the window. She could just barely see the swans, huddled together at the far end of the lake, near a reed bed.",
+            "The storm lasted three hours. By dusk, when it was over, the lake was calming down. Elin went out on the dock immediately. She looked. She counted. One, two, three. Three white shapes near the reed bed. Only three. Two adults and one cygnet. Where the second cygnet had been, there was nothing. She looked and looked. She could not find it. She ran to get Mummi."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Under the Reeds",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "sw-ch3-p1-searching",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at dusk. An older woman (Mummi, seventies) and a girl (Elin, 10) sit together in a small wooden rowboat on the calmed lake, both peering carefully into the water and along the reed line at the far shore. Heavy ink outlines, flat shadows, cool cream and sepia palette with gold sunset tones.",
+          "paragraphs": [
+            "They took Mummi's small wooden rowboat out. Elin rowed. Mummi looked. They went slowly along the reed bed. It was almost dark. The lake was calmer now, but there were still small waves lapping at the reeds. They looked for a long time. Mummi did not say anything. She only looked.",
+            "It was Elin who saw it. In a shallow spot between two clumps of reeds, tangled in some floating branch debris that the storm had brought down, was a small grey shape. The cygnet. It was not moving. Elin thought — for one terrible second — that it was dead. Then she saw the small head lift. Just a little. It looked at her. It was alive. It was exhausted, and it was tangled, and it was alive. \"Mummi,\" said Elin. \"There.\""
+          ]
+        },
+        {
+          "image": "sw-ch3-p2-rescue",
+          "imagePrompt": "Mike Mignola style for children: close view. A girl (Elin, 10) leaning over the side of the rowboat, gently cradling a wet exhausted young grey cygnet in both hands, lifting it out of the tangled water debris. Mummi steadies the boat behind her. Dusk light, warm gold at the horizon. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Elin worked as carefully as she could. She reached down. The cygnet was small — maybe two-thirds the size of an adult. It was heavy and wet and cold. She held it against her chest for a moment and then eased it into the bottom of the boat, on a piece of tarp Mummi had put down. She untangled the branches from around its legs and neck. It did not fight her. It was too tired to fight her. Its beak opened once and closed again.",
+            "\"Row back,\" said Mummi. \"Slowly. Do not scare the others. But get us back to the dock.\" Elin rowed. When they got to the dock, she carried the cygnet up to the cabin. Mummi got out an old towel and they dried it as best they could. It sat quietly on the floor by the wood stove, panting, watching them. Mummi mixed a small bowl of water and put it in front of it. It drank a little."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Elin sat on the floor beside it and watched. She was afraid to leave it, in case it died. Mummi made supper quietly at the counter. After a while she said, \"Elin. Come and eat. You can watch it while you eat.\" So Elin ate at the table, watching the cygnet. It sat by the stove. It slept a little. It woke. It drank again. By nine o'clock it was much better. It was still tired but it was breathing normally, and its eyes were bright. Elin thought maybe it was going to live.",
+            "\"We have to put it back tonight,\" Mummi said. \"Its family is looking for it. If we wait until tomorrow, they may have moved on. And a swan cannot really live without its family. Especially not one this young.\" Elin nodded. She had known this. She had been hoping to keep the cygnet at the cabin for a night, to be sure, but Mummi was right."
+          ]
+        },
+        {
+          "image": "sw-ch3-p4-return",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene on the dock. A pale midsummer twilight. A girl (Elin, 10) crouches at the edge of the dock, gently lowering a young grey cygnet into the still lake water. In the middle distance, two adult swans (one whose head is very still and turned toward the dock) and one other cygnet approach. Heavy ink outlines, flat shadows, cream palette with cool blue evening tones.",
+          "paragraphs": [
+            "They took the cygnet down to the dock. Elin knelt at the edge. She held the cygnet in both hands. \"Go on,\" she whispered. \"Go find your family. Go on.\" She lowered it into the water. The cygnet floated. It looked confused for a second. Then it heard something — Elin could not hear it, but the cygnet's head turned quickly toward the middle of the lake. It gave one small tired call. Very far away, an adult swan called back. And then, from the direction of the reed bed, three white shapes were suddenly moving fast across the lake, straight toward the dock.",
+            "The three of them came right up close. The cygnet paddled forward, weakly, toward its parents. The mother — the same swan who had been coming to Elin — nudged the cygnet with her beak. Then she and the father surrounded the cygnet completely, one on each side, and pressed it between them, and the other cygnet came to swim in front. The whole family stayed like that for a moment. Very close together."
+          ]
+        },
+        {
+          "image": "sw-ch3-p5-look",
+          "imagePrompt": "Mike Mignola style for children: close view on the dock. The same adult swan (mother) has come very close to the dock, only a meter or so from Elin who kneels at the edge. The swan holds herself very still, facing Elin directly, holding her gaze. The lake behind is dark and calm. Heavy ink outlines, flat shadows, cream palette with cool tones.",
+          "paragraphs": [
+            "And then, when the cygnet was settled between them, the mother swan — Elin was sure it was her — separated from the group. She swam very slowly to the dock. She came closer than she had ever come. Almost right up to it. She looked at Elin. She held her look. She was still. Elin was still. They looked at each other for what felt like a long time.",
+            "Then the mother swan did something Elin had never seen a swan do. She dipped her head, very slowly, and she bowed. Not the way swans move their necks when they are eating or preening. A different way. A deliberate way. A slow small bow, held for maybe two seconds, and then lifted again. She looked at Elin for one more moment. Then she turned and she swam back to her family. And all four of them, moving together, went back toward the far end of the lake."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Elin stood on the dock for a long time. Mummi stood beside her. Neither of them said anything. Finally Mummi said, quietly, \"Well. You saw that. So it is not just me.\" Elin said, \"She bowed. She really bowed. She thanked me.\" \"Yes,\" said Mummi. \"She did. Do you believe it now, Elin. What I told you about the swans.\" Elin thought. She thought for a long time. She thought about a wild bird bowing to a person, and about how impossible that was. She thought about how, when Mummi's grandmother had first told the story, she had probably seen something like this too, in her own life, when she was a small girl on this same lake.",
+            "Elin said, finally, \"I believe it in my own way, Mummi. Like you said. That might not be the same as believing it. But it is close enough for me.\" Mummi laughed softly, and put her arm around Elin. And they stood on the dock together for a while longer, watching the four white shapes on the far side of the lake, until the light was almost gone and Mummi said it was time to go in and dry off and drink some tea. And they did."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "finland",
+    "grandmother",
+    "nature",
+    "legend"
+  ]
+}

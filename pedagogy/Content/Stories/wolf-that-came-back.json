@@ -1,0 +1,159 @@
+{
+  "id": "wolf-that-came-back",
+  "title": "The Wolf That Came Back",
+  "subtitle": "A Winter at the Sanctuary",
+  "author": null,
+  "summary": "Kaya lives with her grandfather on a wolf rescue sanctuary in the high country of Wyoming. Two winters ago they released a young wolf she had bottle-raised, a small grey female named Ash, back into the wild. She did not expect to see Ash again. But on a night in January, when the temperature is thirty below and the sanctuary is cut off by snow, something comes to the fence. And Kaya has to help her alone.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-wolf-that-came-back-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: an 11-year-old girl (Kaya) with a dark braid down her back, wearing a heavy shearling coat and a red wool hat, kneeling in deep snow just outside a tall wire fence, holding out one gloved hand slowly. On the other side of the fence, a small grey wolf (Ash) crouches, injured, watching her with pale yellow eyes. In the background: dark pine forest, mountains, a low log cabin with one warm lit window. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream snow (#FFF9F0), deep blue shadows, ink outlines, small dusty rose (#FF5B8D) accent on her red hat and cheeks, warm gold from the cabin window. Small margin at top and bottom for card padding.",
+  "category": "adventure",
+  "isPremium": true,
+  "publishedAt": "2026-11-12",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Ash",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "wl-ch1-p1-sanctuary",
+          "imagePrompt": "Mike Mignola style for children: aerial-side view of a wolf sanctuary in the Wyoming high country. Several large enclosures made of tall wire fencing built into a pine forest, each with wolves visible inside. A small log cabin at the center. Snow-covered mountains in the distance. Winter afternoon light, dry blue sky. Heavy black ink outlines, flat shadows, cream and sepia palette with cool blue snow tones.",
+          "paragraphs": [
+            "Kaya's grandfather ran a wolf sanctuary in the high country of Wyoming, seven miles up a dirt road that turned into snow every October and did not turn back into road until April. Twenty-two wolves lived there — all rescues, all animals who could not be released. Some had been raised by people who thought they could keep a wolf as a pet. Some had been injured in the wild and could not hunt anymore. Some were the offspring of the ones who could not be released, born in the sanctuary and never taught to be wild.",
+            "Kaya was eleven. She lived with her grandfather because her mother worked a long-distance job that took her overseas most of the year, and because Kaya had asked, when she was seven, to stay. She went to school in the town at the bottom of the mountain, when the road was open. When the road was closed, her grandfather taught her at the kitchen table."
+          ]
+        },
+        {
+          "image": "wl-ch1-p2-ash-cub",
+          "imagePrompt": "Mike Mignola style for children: interior of a warm log cabin kitchen scene, several years earlier. A younger Kaya (about 8 years old, dark braid) sits on the floor holding a tiny grey wolf cub in her lap, bottle-feeding it. Her grandfather (weathered, sixties, in a flannel shirt) sits nearby watching, calm. Warm firelight. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Two winters before this story starts — when Kaya was eight and a half — a woman had brought a very small grey wolf cub to the sanctuary. She had found it on the side of a highway, alone, and she did not know if the mother was alive. The cub was three weeks old and would not have survived alone. Kaya's grandfather had taken it, and Kaya had been the one who bottle-fed it, because her grandfather said young children were better than adults at raising wild things — they made less noise and moved more slowly and did not get impatient.",
+            "Kaya named the cub Ash, because she was pale grey and had a small dark stripe across her back like a smudge of soot. Kaya raised her for four months. She hand-fed her rabbits and small pieces of chicken as she got older. She taught her — as much as any human can teach a wolf anything — how to be quiet in the woods. And when Ash was seven months old, and had learned to hunt on her own, Kaya's grandfather said it was time."
+          ]
+        },
+        {
+          "image": "wl-ch1-p3-release",
+          "imagePrompt": "Mike Mignola style for children: an outdoor scene at dawn in a snowy Wyoming forest clearing. Kaya's grandfather stands beside a small opened wire crate. In front of the crate, a young grey wolf (Ash) has just stepped out and is looking back once toward Kaya, who stands a few meters away in a heavy coat. Cold breath visible in the air. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "\"She is old enough,\" he said. \"She can hunt. She has never really been tame, because we did it right. She belongs in the woods. If we keep her here, we make her one of ours forever. That is not fair to her.\" Kaya had cried about it for a whole week before they released her. But she had known her grandfather was right. And so, on a cold clear morning, they drove Ash forty miles up into the mountains, and they opened the crate at the edge of a wide alpine meadow with pines at every side, and Ash stepped out slowly, and she looked back once at Kaya, and then she was gone into the trees.",
+            "Kaya had cried for two more days after that. Her grandfather had let her. He had said, \"You loved her right, Kaya. This is what loving her right looks like.\" And after those two days Kaya had felt, though it was still hard, that this was true. And she had gone on with her life at the sanctuary. But she had thought about Ash almost every day. Every time she was in the woods, or when she saw a flash of grey out of the corner of her eye, she thought — Ash. And it was never Ash. She had made her peace with the idea that she would never see her again."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "That was two winters ago. Ash was almost three years old now — a real adult wolf, if she was still alive. Kaya had spent both winters wondering. Sometimes rangers reported wolf sightings in different parts of the state, and Kaya read all of them, but there was no way to know if any of them were Ash. Her grandfather had told her, gently, that many wolves who were released did not survive their first winter. And that this was normal. And that even if Ash had not made it, they had done right by her.",
+            "Kaya believed this in her head. In her heart, she still thought sometimes that Ash was out there. She could not help it."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Fence",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "wl-ch2-p1-storm",
+          "imagePrompt": "Mike Mignola style for children: interior of the log cabin kitchen at night, warm firelight, wind and snow visible through the window. Grandfather (sixties, weathered) sits at a small radio on the counter, listening intently. Kaya (11) stands nearby holding a mug. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "It was the second week of January. The road had been closed for six weeks. There was a storm coming in — a big one, the radio said, thirty below with high winds — and Kaya and her grandfather had been preparing all day. They had brought extra hay to the wolves' shelters. They had checked all the fences. They had chopped enough firewood to last three days without going outside. In the evening they had a quick supper of soup and dark bread, and then they listened to the radio for storm updates while the wind began to rise outside.",
+            "The storm hit around ten p.m. It hit hard. The cabin creaked and shook. Snow blew sideways past the windows. Kaya went to bed at eleven, but she could not sleep. She could hear the wolves howling out in the enclosures, over the wind — a low chorus of them, calling to each other and to nothing. She lay in the dark and listened. She had been at the sanctuary long enough to know their voices apart. She could pick out old Silver, and Rue, and the younger male they called Beckett."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "And then, sometime around one in the morning, she heard a howl that was not one of theirs. It was from outside the fences. From beyond the property. It was a single voice. It was thin. It sounded — she was not sure how she knew — hurt.",
+            "Kaya sat up. She listened. It came again. A single wolf, calling. The wolves in the enclosures went quiet, all at once, to listen. Then Silver answered — a low careful call. The outside wolf called back. Kaya was out of bed and pulling on her clothes before she had fully thought about it. Her grandfather was still asleep. She wrote a note on the kitchen counter and left it under a mug: There is a wolf outside the fence. I am going to look. K. She put on her heavy shearling coat and her red wool hat and her boots and her gloves. She took a flashlight. She went out into the storm."
+          ]
+        },
+        {
+          "image": "wl-ch2-p3-outside",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene in a heavy snowstorm. A girl (Kaya, 11, in shearling coat and red hat) trudges through deep snow along a tall wire fence, flashlight beam ahead of her. Wolves partly visible in the fenced enclosure to her right, watching her. Wind and snow whipping around. Heavy ink outlines, flat shadows, cool blue and dark palette with the warm gold of her flashlight beam.",
+          "paragraphs": [
+            "The wind was very cold and the snow was almost horizontal. Kaya kept her head down and walked along the outside of the fence line, following the calling. It was hard to tell where it was coming from — the wind moved sound around. She walked past the enclosures for the old females, and past Silver's pen, and Silver was standing at his fence watching her go by, calm, his eyes yellow in her flashlight beam. He knew where she was going. He was helping her, in his way.",
+            "At the far end of the property, at the north corner of the outermost fence, she found it. A small grey shape, crouched in the snow just outside the wire. It was breathing hard. There was a dark stain on the snow around one of its back legs. Kaya knelt down slowly, three meters away, keeping the flashlight low. She said, quietly, \"Hey. Hey. It's okay.\" The wolf lifted its head. It looked at her. Its eyes were pale yellow. Kaya knew those eyes."
+          ]
+        },
+        {
+          "image": "wl-ch2-p4-recognition",
+          "imagePrompt": "Mike Mignola style for children: close view outside the fence in the snow. A girl (Kaya, 11) has removed one glove and is holding her bare hand out slowly toward a small grey wolf (Ash) crouched in the snow. The wolf is looking at her with pale yellow eyes, one back leg dark with blood. Snow falling around them. Heavy ink outlines, flat shadows, cool cream palette with dark ink details.",
+          "paragraphs": [
+            "\"Ash,\" she said. The wolf did not react to the name — wolves did not remember names — but she reacted to Kaya's voice. Her ears moved. Her tail, which was tucked, moved just slightly. Kaya took off one glove. She held out her bare hand. She did not move any closer. She let the wolf come to her, if she wanted, or not, if she did not. The wolf looked at her for a very long moment. She was thinner than Kaya remembered. There was grey on her face now, around her mouth, that had not been there before. She had scars on her shoulder.",
+            "Kaya said, \"You came back. I don't understand. But you came back.\" The wolf slowly, painfully, stood up on three legs. She limped, one step and then another, toward Kaya's hand. She stopped just before her fingers. She put her nose against Kaya's palm. She held it there for maybe five seconds. Then she stepped back. She looked at her injured leg. She looked at Kaya. Kaya understood, then, why she had come. She had come because she needed help. She had remembered where the help was."
+          ]
+        },
+        {
+          "image": "wl-ch2-p5-decision",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene. A girl (Kaya, 11) crouched by the fence, one hand still extended, looking with intense focus at the wolf. Behind her, distant, the warm light of the cabin far off through the snow. Heavy ink outlines, flat shadows, cool cream palette with distant warm glow.",
+          "paragraphs": [
+            "Kaya thought. Her grandfather had a small isolation pen at the back of the property, meant for injured animals that needed to be quiet. It was two hundred meters away. If she could get Ash to follow her that far, they could put her in it and treat the leg. But she was hurt. She was slow. And it was thirty below and the storm was still going. If she stayed out here another few hours, she could freeze. Kaya could not carry her. Ash was too heavy — sixty pounds, maybe seventy. Kaya was not strong enough.",
+            "She had to bring her grandfather. But she did not want to leave Ash alone. She was afraid Ash would go back into the trees. She sat still for a moment, thinking. Then she stood up slowly. \"Ash,\" she said. \"I have to go get help. Please stay. Please. I am coming back.\" She kept her eyes on the wolf for as long as she could. Then she turned and she ran back through the snow, as fast as she could, toward the cabin."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Whistle-Bone",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "wl-ch3-p1-waking",
+          "imagePrompt": "Mike Mignola style for children: interior of the log cabin bedroom at night, warmly lit by a single lamp. Grandfather (sixties, weathered) is being shaken awake by Kaya (11, still in coat, hat off, hair wet with snow). His face has just come fully awake, alarmed but clear-eyed. Heavy ink outlines, flat shadows, warm cream and gold palette.",
+          "paragraphs": [
+            "She woke her grandfather in maybe forty seconds. She said, \"Grandpa. There is a wolf at the north fence and it is hurt and I think it is Ash.\" Her grandfather did not ask any questions. He put on his boots and his coat and his heavy snow trousers, and he took the emergency kit from the pantry, and he took a rifle, though he said quietly that it was just in case. And they went back out into the storm together.",
+            "Ash was still there. She had lain down again in the snow. She looked up when they came. She growled, softly, at Kaya's grandfather, but she did not move away. Kaya's grandfather knelt down slowly, ten meters away. He said, \"Yeah. Yeah, that is her. That is her, Kaya. Look at the mark on her back.\" He looked at Kaya. \"Good work. Good work. Now listen to me. We need to move very slowly. If she is scared, this all falls apart.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "It took them almost an hour. Kaya walked in front, holding out her hand, talking softly. Her grandfather walked behind with a rope and a jacket to throw over Ash's head if they had to. But Ash followed. She limped along on three legs, twenty steps and then a rest, twenty steps and then a rest. Kaya kept talking to her the whole way. She talked about small things — the storm, the shape of the trees, what she had eaten for supper. It did not matter what she said. The tone mattered. The being with her mattered.",
+            "They got Ash into the isolation pen just before three in the morning. Kaya's grandfather closed the gate. Ash lay down on the straw. She did not try to get up. Her breathing was shallow. Her grandfather said, \"Kaya. Get me the vet kit. Get me the light. Get me the heat lamp. Move.\" And they worked."
+          ]
+        },
+        {
+          "image": "wl-ch3-p3-treating",
+          "imagePrompt": "Mike Mignola style for children: interior of a small wooden isolation pen. Under a warm heat lamp, a small grey wolf (Ash) lies on straw. Kaya's grandfather works carefully on her hind leg with medical instruments. Kaya kneels at Ash's head, hand on her neck, keeping her calm. Focused, tense scene. Heavy ink outlines, flat shadows, warm gold palette from the lamp.",
+          "paragraphs": [
+            "Her grandfather worked on the leg for two hours. The injury was not new — maybe two weeks old — and it had gone very bad. It looked like a snare wound, or a bad break that had not set right. He cleaned it out. He gave her something to make her not fight him. He set the bone. He wrapped it. Kaya held Ash's head the whole time, and Ash let her. She let a stranger touch her injured leg because Kaya was there. Kaya understood that. She understood how much trust that was.",
+            "When it was done, her grandfather stepped back. He was very tired. He said, \"She might not make it, Kaya. I'll be honest with you. That leg is bad. She has been out here a long time. She's underweight. There is a real chance she does not survive the next few days. I want you to be ready for that.\" Kaya said, \"I am ready for that.\" Her grandfather looked at her for a moment. \"You know what,\" he said. \"You are.\""
+          ]
+        },
+        {
+          "image": "wl-ch3-p4-recovery",
+          "imagePrompt": "Mike Mignola style for children: interior of the isolation pen days later. Ash is standing now, still limping, drinking from a small metal water bowl. Kaya (11) sits on the floor a few feet away, one hand on her own knee, watching. Warm daylight through slits in the pen wall. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Ash did survive. It took a long time. She was in the isolation pen for eight weeks. Kaya spent almost every day with her — reading books beside her, feeding her, changing her water. Slowly the leg got better. It would not be a perfect leg again — she would limp for the rest of her life — but it would work. She could walk. She could probably hunt small things, though hunting big things might be hard. When the road opened in April, they had to decide what to do with her.",
+            "Kaya's grandfather sat with her at the kitchen table. He said, \"There are two choices. We can keep her here. She could live here safely for the rest of her life. We would take good care of her. Or we can release her again, in a place we choose, where she has a chance. She will not hunt as well as she used to. But she has proved she is a survivor. She made it two whole winters. She might make it many more. It is your choice, Kaya. She is your wolf.\""
+          ]
+        },
+        {
+          "image": "wl-ch3-p5-final-release",
+          "imagePrompt": "Mike Mignola style for children: an outdoor scene at spring dawn, high alpine meadow, pine trees at the edges. Kaya's grandfather stands beside an opened crate. A grey wolf (Ash) has just stepped out, limping slightly, and is looking back at Kaya, who stands a few meters away, her hand raised in a small still gesture. Heavy ink outlines, flat shadows, cream and sepia palette with muted greens.",
+          "paragraphs": [
+            "Kaya thought about it for three days. She talked to Ash. She sat in the pen with her. She watched her walk. Then she went to her grandfather and she said, \"Release her. She is a wolf. She came back because she needed help, and we helped her. Now she can go again.\" Her grandfather nodded. He did not smile, but she could tell he was proud.",
+            "So on a morning in late April they drove Ash back up into the mountains, though not as far this time — closer, so she was in country that Kaya knew Ash could get back to the sanctuary from if she ever needed to again. They opened the crate at the edge of a wide alpine meadow. Ash stepped out slowly. She looked back at Kaya. She held Kaya's eyes for a moment. Then she turned and she went, limping but real, into the trees. Kaya watched her go. She did not cry this time. She had cried the first time. This time she just watched, and she smiled a little, and she waved. Her grandfather said, from behind her, \"You did good, kid. You did really good.\" And they got in the truck, and they drove home."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grandfather",
+    "wolves",
+    "wyoming",
+    "responsibility"
+  ]
+}

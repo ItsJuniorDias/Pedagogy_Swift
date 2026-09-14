@@ -1,0 +1,427 @@
+{
+  "story_id": "north-star-express",
+  "chapter": 1,
+  "total_duration_ms": 289200,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The train left Yaroslavsky Station at 3:47 in the afternoon on a Wednesday in September.",
+      "start_ms": 2082,
+      "end_ms": 7697
+    },
+    {
+      "index": 1,
+      "text": "Elena's mother had come with her to the platform and had given her too many instructions and too many hugs, and then finally the conductor — a tall woman with grey hair pulled back very tight — had said, \"You are Elena Sokolova?",
+      "start_ms": 7697,
+      "end_ms": 22144
+    },
+    {
+      "index": 2,
+      "text": "Come.",
+      "start_ms": 22144,
+      "end_ms": 22522
+    },
+    {
+      "index": 3,
+      "text": "It is time.\" And Elena had hugged her mother one more time, and had climbed the metal steps up into carriage twelve, and had followed the conductor down the narrow corridor to her compartment.",
+      "start_ms": 22522,
+      "end_ms": 34761
+    },
+    {
+      "index": 4,
+      "text": "The compartment was small.",
+      "start_ms": 34761,
+      "end_ms": 36465
+    },
+    {
+      "index": 5,
+      "text": "Four bunks, two on each side, with a small table between them under the window.",
+      "start_ms": 36465,
+      "end_ms": 41512
+    },
+    {
+      "index": 6,
+      "text": "There were already two other people in it — an old woman with a headscarf, and a boy who looked a little younger than Elena, maybe nine or ten, both of them settled on the lower bunks.",
+      "start_ms": 41512,
+      "end_ms": 53183
+    },
+    {
+      "index": 7,
+      "text": "The old woman looked up and smiled a small friendly smile.",
+      "start_ms": 53183,
+      "end_ms": 56905
+    },
+    {
+      "index": 8,
+      "text": "The boy did not look up.",
+      "start_ms": 56905,
+      "end_ms": 58482
+    },
+    {
+      "index": 9,
+      "text": "Elena climbed into the fourth bunk, the upper one on the boy's side, and she sat with her legs dangling, and she waited to see if she was going to cry.",
+      "start_ms": 58482,
+      "end_ms": 68135
+    },
+    {
+      "index": 10,
+      "text": "She was going to cry.",
+      "start_ms": 68135,
+      "end_ms": 69523
+    },
+    {
+      "index": 11,
+      "text": "She could feel it coming.",
+      "start_ms": 69523,
+      "end_ms": 71163
+    },
+    {
+      "index": 12,
+      "text": "The train made a small jolt, and began to move very slowly.",
+      "start_ms": 71163,
+      "end_ms": 74948
+    },
+    {
+      "index": 13,
+      "text": "She pressed her face against the window.",
+      "start_ms": 74948,
+      "end_ms": 77535
+    },
+    {
+      "index": 14,
+      "text": "Her mother was standing on the platform.",
+      "start_ms": 77535,
+      "end_ms": 80122
+    },
+    {
+      "index": 15,
+      "text": "Her mother had one hand raised in a small still wave.",
+      "start_ms": 80122,
+      "end_ms": 83528
+    },
+    {
+      "index": 16,
+      "text": "Her mother was not smiling but she was not crying either.",
+      "start_ms": 83528,
+      "end_ms": 87187
+    },
+    {
+      "index": 17,
+      "text": "Elena tried to wave back but her hand did not want to move.",
+      "start_ms": 87187,
+      "end_ms": 90973
+    },
+    {
+      "index": 18,
+      "text": "Her mother saw her anyway.",
+      "start_ms": 90973,
+      "end_ms": 92676
+    },
+    {
+      "index": 19,
+      "text": "Her mother nodded at her, very slightly.",
+      "start_ms": 92676,
+      "end_ms": 95263
+    },
+    {
+      "index": 20,
+      "text": "And then the train was moving faster, and the platform was going past, and her mother was gone.",
+      "start_ms": 95263,
+      "end_ms": 101256
+    },
+    {
+      "index": 21,
+      "text": "Elena let herself cry for a little bit, quietly.",
+      "start_ms": 101256,
+      "end_ms": 104687
+    },
+    {
+      "index": 22,
+      "text": "She pressed her face into the sleeve of her sweater.",
+      "start_ms": 104687,
+      "end_ms": 108399
+    },
+    {
+      "index": 23,
+      "text": "The old woman below her must have heard, because after a moment she said something in Russian very softly to the boy, and the boy got up and moved into the corridor, and the old woman said, in slow careful English, \"You come sit down here for a while, dear.",
+      "start_ms": 108399,
+      "end_ms": 126467
+    },
+    {
+      "index": 24,
+      "text": "It is easier to cry when you are not high up.\"",
+      "start_ms": 126467,
+      "end_ms": 129828
+    },
+    {
+      "index": 25,
+      "text": "The old woman's name was Anna Petrovna.",
+      "start_ms": 129828,
+      "end_ms": 132629
+    },
+    {
+      "index": 26,
+      "text": "She was going to Perm, which was one day and one night away, to visit her sister.",
+      "start_ms": 132629,
+      "end_ms": 138371
+    },
+    {
+      "index": 27,
+      "text": "She spoke a little English because she had been a teacher of geography for many years.",
+      "start_ms": 138371,
+      "end_ms": 144464
+    },
+    {
+      "index": 28,
+      "text": "She poured Elena a small metal cup of tea from a thermos, and she cut her a slice of dark heavy bread and buttered it, and she did not ask Elena why she was traveling alone or where she was going.",
+      "start_ms": 144464,
+      "end_ms": 158260
+    },
+    {
+      "index": 29,
+      "text": "She only sat with her and made her drink the tea.",
+      "start_ms": 158260,
+      "end_ms": 161831
+    },
+    {
+      "index": 30,
+      "text": "\"Have you taken this train before,\" she asked eventually.",
+      "start_ms": 161831,
+      "end_ms": 165893
+    },
+    {
+      "index": 31,
+      "text": "\"No,\" said Elena.",
+      "start_ms": 165893,
+      "end_ms": 167153
+    },
+    {
+      "index": 32,
+      "text": "\"Ah,\" said Anna Petrovna.",
+      "start_ms": 167153,
+      "end_ms": 168974
+    },
+    {
+      "index": 33,
+      "text": "\"Then let me tell you the important things.",
+      "start_ms": 168974,
+      "end_ms": 172056
+    },
+    {
+      "index": 34,
+      "text": "First.",
+      "start_ms": 172056,
+      "end_ms": 172546
+    },
+    {
+      "index": 35,
+      "text": "You must not sleep with your head against the window.",
+      "start_ms": 172546,
+      "end_ms": 176327
+    },
+    {
+      "index": 36,
+      "text": "It gets very cold at night.",
+      "start_ms": 176327,
+      "end_ms": 178288
+    },
+    {
+      "index": 37,
+      "text": "Second.",
+      "start_ms": 178288,
+      "end_ms": 178848
+    },
+    {
+      "index": 38,
+      "text": "At every stop, if the stop is longer than ten minutes, you may get off the train and walk on the platform.",
+      "start_ms": 178848,
+      "end_ms": 186342
+    },
+    {
+      "index": 39,
+      "text": "If it is shorter, you do not risk it.",
+      "start_ms": 186342,
+      "end_ms": 189003
+    },
+    {
+      "index": 40,
+      "text": "The train does not wait.",
+      "start_ms": 189003,
+      "end_ms": 190753
+    },
+    {
+      "index": 41,
+      "text": "Third.",
+      "start_ms": 190753,
+      "end_ms": 191244
+    },
+    {
+      "index": 42,
+      "text": "There is a samovar at the end of the corridor — you know a samovar?",
+      "start_ms": 191244,
+      "end_ms": 196006
+    },
+    {
+      "index": 43,
+      "text": "A big hot water thing.",
+      "start_ms": 196006,
+      "end_ms": 197616
+    },
+    {
+      "index": 44,
+      "text": "It is always hot.",
+      "start_ms": 197616,
+      "end_ms": 198877
+    },
+    {
+      "index": 45,
+      "text": "You can go there any time you want.",
+      "start_ms": 198877,
+      "end_ms": 201398
+    },
+    {
+      "index": 46,
+      "text": "Fourth.\" She looked at Elena more seriously.",
+      "start_ms": 201398,
+      "end_ms": 204549
+    },
+    {
+      "index": 47,
+      "text": "\"You will see many people on this train.",
+      "start_ms": 204549,
+      "end_ms": 207420
+    },
+    {
+      "index": 48,
+      "text": "Some going long, some going short.",
+      "start_ms": 207420,
+      "end_ms": 209871
+    },
+    {
+      "index": 49,
+      "text": "All of them will be kind to you.",
+      "start_ms": 209871,
+      "end_ms": 212182
+    },
+    {
+      "index": 50,
+      "text": "This train is like that.",
+      "start_ms": 212182,
+      "end_ms": 213933
+    },
+    {
+      "index": 51,
+      "text": "Do not be afraid of anyone.\"",
+      "start_ms": 213933,
+      "end_ms": 216034
+    },
+    {
+      "index": 52,
+      "text": "Elena nodded.",
+      "start_ms": 216034,
+      "end_ms": 217014
+    },
+    {
+      "index": 53,
+      "text": "She drank her tea.",
+      "start_ms": 217014,
+      "end_ms": 218345
+    },
+    {
+      "index": 54,
+      "text": "She looked out the window.",
+      "start_ms": 218345,
+      "end_ms": 220236
+    },
+    {
+      "index": 55,
+      "text": "The train had left the city behind now and was rolling through a landscape of birch trees and pale grasses and small wooden houses very far apart.",
+      "start_ms": 220236,
+      "end_ms": 230530
+    },
+    {
+      "index": 56,
+      "text": "The light was going golden.",
+      "start_ms": 230530,
+      "end_ms": 232491
+    },
+    {
+      "index": 57,
+      "text": "She could not remember, later, exactly when she had stopped feeling like she was going to cry.",
+      "start_ms": 232491,
+      "end_ms": 239144
+    },
+    {
+      "index": 58,
+      "text": "But she stopped.",
+      "start_ms": 239144,
+      "end_ms": 240264
+    },
+    {
+      "index": 59,
+      "text": "The boy came back into the compartment eventually, and did not talk to her, and read a comic book on his lower bunk.",
+      "start_ms": 240264,
+      "end_ms": 247671
+    },
+    {
+      "index": 60,
+      "text": "Anna Petrovna did some knitting.",
+      "start_ms": 247671,
+      "end_ms": 249760
+    },
+    {
+      "index": 61,
+      "text": "Elena sat with her metal cup and watched the birches go by, and she thought about her father, whom she had not seen since Easter.",
+      "start_ms": 249760,
+      "end_ms": 257990
+    },
+    {
+      "index": 62,
+      "text": "He had come to Moscow then, for four days, and had taken her to the ballet and to a bookshop, and he had been the same as always — quiet, thin, kind, tired-looking.",
+      "start_ms": 257990,
+      "end_ms": 268435
+    },
+    {
+      "index": 63,
+      "text": "She had asked him then if he was happy at his weather station, in the middle of nowhere.",
+      "start_ms": 268435,
+      "end_ms": 274070
+    },
+    {
+      "index": 64,
+      "text": "And he had thought about it for a long time and then he had said, \"I am not unhappy.",
+      "start_ms": 274070,
+      "end_ms": 279451
+    },
+    {
+      "index": 65,
+      "text": "I have work I can do.",
+      "start_ms": 279451,
+      "end_ms": 280844
+    },
+    {
+      "index": 66,
+      "text": "I have my books.",
+      "start_ms": 280844,
+      "end_ms": 281920
+    },
+    {
+      "index": 67,
+      "text": "I miss you.\" And then he had said, \"Someday you might come and see it.",
+      "start_ms": 281920,
+      "end_ms": 286415
+    },
+    {
+      "index": 68,
+      "text": "It is a strange place.",
+      "start_ms": 286415,
+      "end_ms": 287871
+    },
+    {
+      "index": 69,
+      "text": "But it has good sky.\"",
+      "start_ms": 287871,
+      "end_ms": 289200
+    }
+  ]
+}

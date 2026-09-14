@@ -1,0 +1,166 @@
+{
+  "id": "whale-road",
+  "title": "The Whale Road",
+  "subtitle": "A Song for the Bay",
+  "author": null,
+  "summary": "Vidar is ten and lives with his grandfather on a small island in the Faroes, in the middle of the North Atlantic. There is a story his grandfather has told him for as long as he can remember: once in every generation, a single killer whale comes into the bay and stays for one afternoon, listening to a song that only the Petersen family knows. It has been sixty-two years since the last one came. Vidar's grandfather is teaching him the song.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-whale-road-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old boy (Vidar) with straight blond hair and pale skin, wearing a thick knitted wool sweater in a traditional Faroese pattern and a wool cap, standing on a black volcanic rock at the edge of a small deep-water bay in the Faroe Islands. In the water in front of him: the tall dark dorsal fin of a killer whale (orca) rising above the surface, close enough that its eye is visible looking at him. Behind: a steep green cliff face rising directly out of the sea, low grey clouds, a small red-roofed cottage set into the slope. Character positioned center-left, filling roughly 40% of frame height. Palette: cool cream (#FFF9F0), deep sea grey, wet black basalt, deep ink outlines, small dusty rose (#FF5B8D) accent on his cheeks, a small warm gold accent on the cottage window. Small margin at top and bottom for card padding.",
+  "category": "legend",
+  "isPremium": true,
+  "publishedAt": "2027-01-21",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Petersen Song",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "wr-ch1-p1-island",
+          "imagePrompt": "Mike Mignola style for children: exterior aerial-side view of a small Faroe Islands settlement. A single red-roofed cottage set into a steep green cliff slope, a small stone pier extending into a narrow deep-water bay. Around: black basalt cliffs, dramatic North Atlantic sky with low grey clouds and shafts of sun through them. A boy (Vidar, 10, wool sweater) walks up a stone path from the pier. Heavy black ink outlines, flat shadows, cream palette with deep greens and cool sea greys.",
+          "paragraphs": [
+            "Vidar lived with his grandfather Bjarni on a small island in the northern Faroes. There were only three houses on the whole island, and one of them belonged to Vidar and his grandfather, and the other two belonged to families who came only in the summer. In the winter, when Vidar and Bjarni were often the only people on the island, the wind blew across the sea for a thousand kilometers from Iceland with nothing to break it, and the small red-roofed cottage shook, and the sheep in the pens made small unhappy sounds all night. Vidar loved it more than any place in the world.",
+            "He was ten years old. His mother had died in a boating accident when he was three, and his father — who had never really been part of his life — lived far away in Denmark, and so Vidar had been raised by his grandfather. Bjarni was sixty-eight and small and wiry and had blue eyes so pale they looked almost silver, and he wore heavy fisherman's jumpers even in July, and he was, Vidar thought, the smartest man in the world."
+          ]
+        },
+        {
+          "image": "wr-ch1-p2-story",
+          "imagePrompt": "Mike Mignola style for children: interior scene, warm cottage kitchen. An older man (Bjarni, sixties, silver eyes, fisherman's jumper) sits by a small peat fire in a wooden chair, telling a story to a young boy (Vidar, 10) who sits on the floor at his feet, chin on hands, listening. Warm firelight. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "The story of the Petersen whale — that was what Bjarni called it, because Petersen was their family name — had been told to Vidar so many times that he knew it as well as he knew his own name. But he never got tired of hearing Bjarni tell it. Bjarni told stories very slowly, and he did not skip parts, and every time was the same as every other time. That was part of what made it a proper story.",
+            "\"Once in every generation,\" Bjarni would say, sitting by the fire in the evening, \"a single killer whale — a big male, always — comes into our bay. Just one. He does not come with a pod. He is alone. He swims into the deep water right in front of the cottage. And he waits. He turns on his side. He lies at the surface with one eye out of the water. He looks at whoever is standing on the shore. And he listens. If the person on the shore knows the song — the song that our family has known for more than three hundred years, that my mother taught me, and her father taught her — if the person sings it, the whale stays. He listens to the whole song. Then he goes. And that is the last time he comes for that generation. It will be sixty or seventy years before another one comes.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"How do we know it will come,\" Vidar had asked, the first time he had heard the story properly, when he was six. \"You do not know exactly when,\" Bjarni had said. \"You know that it comes about once every sixty or seventy years. The last time was 1962. I was six years old. I was there with my mother. She sang for it. I stood beside her and I listened. I was afraid at first — a whale is very big — but she held my hand, and I stayed. She sang the whole song. He listened. Then he went. I have not seen another whale since. But it is time. It is sixty-two years now. Any summer now, he might come. And when he comes, you have to know the song.\"",
+            "That was why Bjarni was teaching Vidar the song. He had been teaching him since Vidar was four. It was not a long song. Only two verses. But the tune was in the old Faroese style, which is very different from modern music — the notes went in patterns that were not the way songs were built anymore, and there was a specific way you had to hold each note, longer than felt natural. Bjarni was very patient. He taught it a small piece at a time. Every winter evening they practiced. Vidar had known the whole song, both verses, since he was seven. Now he was ten, and he could sing it in his sleep."
+          ]
+        },
+        {
+          "image": "wr-ch1-p3-practicing",
+          "imagePrompt": "Mike Mignola style for children: interior evening scene. Grandfather (Bjarni) and boy (Vidar, 10) sit side by side at a small wooden table by the window. Bjarni is showing a hand gesture — a slow rising motion — to show how a note should be held. Vidar mimics the gesture. Warm lamp light and firelight. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "\"Slower,\" Bjarni would say. Or, \"You are singing that note too round. It should be flat. Almost sad. Like this.\" And he would demonstrate. Vidar would try again. Sometimes he got it right. Sometimes he did not. Bjarni never seemed to be impatient. He said, \"You have your whole childhood to learn it. That is more than enough time. It is not a song for a hurry.\"",
+            "\"Grandpa,\" Vidar asked, that year he was ten. \"What is the song about? What do the words mean?\" Bjarni looked at him for a long moment. Then he said, \"The words are in old Faroese. Very old. Even in my time, people did not fully understand them. But my mother told me. She said the song is a — a kind of message to the whale. It says: We remember you. We are still here. Come and see us. Do not forget us. Something like that. It is not exactly translatable. But that is what it means. It is a promise to the whale that our family will still be watching for him.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Grandpa,\" said Vidar. \"Is it — is it a real thing? Do you think it will really happen?\" Bjarni was quiet for a long time. He was looking out the window at the darkening bay. He said, \"It happened when I was six. It happened to my mother when she was eleven. It happened to her father when he was thirty. It happened to his mother when she was fifty-one. I have written down every time it happened in the family book. It always happens. It has always happened. Every single generation for at least three hundred years. Sometimes twice.\" He turned to Vidar. \"I do not know why. I do not know how a killer whale can live in a family memory the way ours has. But I know it has happened every time we have watched for it. And if it does not happen this generation, if we are the first Petersens in three hundred years that it does not come to — then something in the world will have changed. But I do not think that is going to happen. I think it will come. Very soon. Maybe this summer. Maybe next.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Watching",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "wr-ch2-p1-watching",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A boy (Vidar, 10) sits on a black basalt rock at the edge of the small bay, wrapped in a wool blanket, a small pair of binoculars in his lap, looking out at the empty grey water. Sky low and grey. Heavy ink outlines, flat shadows, cool cream and grey palette.",
+          "paragraphs": [
+            "It was a habit Vidar had — he watched the bay. He had done it since he was old enough to sit still. Every day, at least once, he went down to the shore and sat on the big flat black basalt rock at the edge of the water, and he looked out. Bjarni had bought him a small pair of binoculars for his ninth birthday. Vidar took them everywhere. He watched for whales. He watched for the whale. He knew, in his head, that it might not come for years, or that if it came it might come tomorrow, and either way he could not know. But he watched anyway.",
+            "He saw many things over the years. He saw pods of pilot whales going through the outer strait. He saw dolphins. He saw a lone humpback once, very far away, blowing spray. He saw seals and puffins and gannets diving. He did not see a killer whale. Not for the first three summers he really watched. Not for the fourth. He was ten now, and he had been watching for almost three years, and he had begun to accept that maybe it would not come while he was still small. Maybe he would be a teenager. Maybe he would be a grown man. Maybe he would be as old as Bjarni. That was okay. He would keep watching."
+          ]
+        },
+        {
+          "image": "wr-ch2-p2-summer",
+          "imagePrompt": "Mike Mignola style for children: exterior scene mid-July in the Faroes. Everything green and lit up in rare sunshine, with a clear pale blue sky. The bay is glass-smooth and reflective. Vidar (10) sits on his rock, one hand shading his eyes as he looks out toward the mouth of the bay. Heavy ink outlines, flat shadows, cream palette with muted greens.",
+          "paragraphs": [
+            "It came in the middle of July. It was a rare warm sunny day — the kind that only happens in the Faroes maybe five days a year — and the sea in the bay was flat and glassy. Vidar had been watching for an hour. He was about to go up to the cottage for lunch. He was standing up on the rock. And then, at the mouth of the bay, he saw a tall dark shape rise slowly out of the water. A dorsal fin. Very tall. Male. Very close to the cottage side of the bay. It was moving. It was coming in.",
+            "For a moment Vidar could not move. He could not breathe. He watched the fin get closer. He watched it come in through the mouth. It did not surface again for a while — the whale must have dived under — and Vidar stood on the rock with his heart beating in his ears, hoping. Then, closer, only about thirty meters from his rock, the whale surfaced again. A huge black-and-white shape. It rolled slightly onto its side. And a single dark eye — enormous, close, very intelligent — came out of the water and looked at Vidar."
+          ]
+        },
+        {
+          "image": "wr-ch2-p3-first-look",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. A large killer whale rolled on its side at the surface, its huge dark eye visible above the water, looking at a boy (Vidar, 10) standing on the black basalt rock. The whale is very close — only meters away. Its tall dorsal fin catches the sunlight. Heavy ink outlines, flat shadows, cream palette with deep sea grey and dark black.",
+          "paragraphs": [
+            "Vidar could not move. The whale was as long as the cottage. His fin alone was taller than Vidar. His eye was the size of Vidar's fist. His eye was looking at Vidar. Really looking. Not the way an animal usually looks at a person. The way the swan had bowed to Elin, Vidar thought later — that kind of looking, with something behind it. He was here. He had come. He had come this summer. And he was looking at Vidar and he was waiting.",
+            "Vidar remembered the song. He knew it perfectly. But his throat had closed. He tried to sing and he could not. He was too afraid. He looked at the whale and the whale looked at him and Vidar tried again and his voice came out very small and shaky, cracking on the first note. He stopped. He tried again. His voice broke again. He was crying now, without wanting to. He was ten years old and he had been preparing for this his whole life and the whale was here and he could not sing."
+          ]
+        },
+        {
+          "image": "wr-ch2-p4-running",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Boy (Vidar, 10) running as fast as he can up the stone path toward the small red-roofed cottage. Behind him, the bay is visible and the killer whale is still there, waiting. Warm summer light. Heavy ink outlines, flat shadows, cream palette with muted greens.",
+          "paragraphs": [
+            "He turned and he ran. He ran up the stone path as fast as he could. He was crying. He was shouting for Bjarni. Bjarni came out of the cottage — he had been reading — with a very worried face. \"What is it. What is wrong.\" Vidar could not really talk. He was pointing at the bay. He said, \"Grandpa. It. Him. It. He is here. He came. He is waiting. I could not sing. I could not sing, Grandpa. My voice would not come.\" Bjarni's whole face changed. He said, \"Oh, boy.\" And he grabbed Vidar's hand and they ran together back down to the shore.",
+            "The whale was still there. He was still on his side. He was still watching the rock. He had not left. Bjarni saw him and he stopped for a moment on the path. He said, \"Oh. He is beautiful. Look at him. Look at how big he is.\" Then he looked at Vidar. Vidar was still crying. Bjarni knelt down. He held Vidar's shoulders. \"Vidar,\" he said. \"Listen. It is okay. He is still waiting. He will not leave until you sing. You have all the time in the world. Take a breath. Look at me. Take another breath. Now. We are going to sing it together. You and me. Are you ready?\" Vidar nodded. \"Are you ready?\" \"Yes, Grandpa. I am ready.\""
+          ]
+        },
+        {
+          "image": "wr-ch2-p5-singing",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. On the black basalt rock, an older man (Bjarni) stands beside a young boy (Vidar, 10). Both are singing, mouths open. The killer whale is still in the water in front of them, rolled on his side, his eye visible above the surface, listening. Warm sunny afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette with deep sea grey and dark black.",
+          "paragraphs": [
+            "They walked down to the rock together. Bjarni went first. He stood at the front of the rock. Vidar stood beside him. The whale was still there. Bjarni looked at the whale and the whale looked at Bjarni, and Bjarni nodded, once, respectfully, to the whale. Then Bjarni began to sing. Bjarni's voice was old and cracked but he knew the song better than anyone alive. He sang the first note, low and long. And Vidar — after a moment — joined him. His voice was still shaky. But it held. He sang along with Bjarni, small at first, then stronger. They sang the first verse together.",
+            "The whale did not move. He listened. He was completely still. Only his tail moved slightly under the water, keeping him in position. When they finished the first verse, Bjarni paused for the small silence that came between the verses. Then he began the second. Vidar sang along. And by the second verse Vidar's voice was clear and steady and he did not need Bjarni anymore, and Bjarni fell quiet, and Vidar sang the second verse alone. His voice was small but true. He sang it slowly, the way Bjarni had always taught him. He held the notes the right length. He did not rush. He looked at the whale the whole time."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "He Goes",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "wr-ch3-p1-last-note",
+          "imagePrompt": "Mike Mignola style for children: exterior close view. The final note of the song hanging in the air. Vidar (10) has just finished singing and stands still on the rock. The killer whale in the water in front of him has not moved. Bjarni stands beside Vidar, his eyes closed, listening. Warm sunny light. Heavy ink outlines, flat shadows, cream palette with sea grey.",
+          "paragraphs": [
+            "When Vidar sang the last note, he held it for a long time. As long as he could. Longer than he could — his breath ran out and he had to stop before he wanted to. And then there was silence in the bay. The whale did not move. Bjarni did not move. Vidar did not move. The only sound was the soft slap of water against the black rocks.",
+            "For a moment Vidar thought the whale would just leave, the way stories were supposed to end. But he did not, right away. He stayed for maybe another thirty seconds, watching Vidar. His eye did not blink. He seemed to be taking Vidar in — every part of him. And Vidar looked back, and he understood, in that thirty seconds, that the whale had recognized something. That the whale had heard the song from Bjarni's mother when Bjarni was six. That the whale had heard it from Bjarni's grandfather. That the whale had heard it, in a way, in every generation. That he had not forgotten. That he had come back for it. And now he had heard it again. He had come, he had heard, and it was enough."
+          ]
+        },
+        {
+          "image": "wr-ch3-p2-goes",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. The killer whale slowly rolls back onto his belly and begins to swim away from the rock, back toward the mouth of the bay. His tall dorsal fin cuts through the water. The bay is quiet. Vidar and Bjarni watch from the rock. Warm afternoon light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "The whale rolled slowly. He came upright. His huge back was above the water for a moment. He turned. Slowly and with dignity, he began to swim back toward the mouth of the bay. His tall fin moved through the water. Vidar watched him go. Bjarni watched with him. Neither of them said anything. The whale reached the mouth of the bay. He dove. He was gone.",
+            "Vidar sat down on the rock. His legs were shaking. He was tired. He had not known how tired he was until it was over. Bjarni sat down beside him. Neither of them said anything for a long time. After maybe ten minutes, Bjarni said, quietly, \"You did it, Vidar. You did the whole song. He heard the whole thing.\" \"I could not sing at first,\" Vidar said. \"I forgot how. I got scared.\" Bjarni said, \"But then you did. That is what matters. He waited for you. He did not leave. He knew you would come back. And you did.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They sat on the rock for another hour. The bay went back to normal. A puffin flew past. The wind picked up a little. The clouds moved across the sun. Nothing about the world looked any different than it had that morning. But everything was different. It had happened. It had happened in Vidar's generation, in Vidar's tenth year, and Vidar had been part of it, and it would be another sixty or seventy years now before it happened again. Vidar tried to picture himself at seventy, standing on this rock with a grandchild of his own, watching a whale come into the bay. It did not seem impossible. It seemed very possible. It seemed almost decided.",
+            "Bjarni said, \"When we go up to the cottage, I am going to write it in the family book. Nineteenth of July, 2027. The whale came. Vidar Petersen sang the song. That is what I will write. And then that page will be there, in the book, when your grandchild is learning the song. Someday they will look at it. Someday they will know that you were the one who sang. That is how this works.\""
+          ]
+        },
+        {
+          "image": "wr-ch3-p4-book",
+          "imagePrompt": "Mike Mignola style for children: interior scene, cottage table. An older man (Bjarni) writes in an old leather-bound family book. A boy (Vidar, 10) watches him from beside the table. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "That evening Bjarni brought out the family book. It was heavy and very old. Vidar had seen it many times but he had never really been allowed to read it — it had been for adults. Bjarni opened it now. He turned to the last-used page. It was Bjarni's own entry, from 1962. It said: 19 July 1962. The whale came. Ingrid Petersen sang the song. Her son Bjarni stood with her.",
+            "Bjarni turned the page to the next blank one. He took a black-inked pen. He wrote, in his careful old handwriting: 19 July 2027. The whale came. Vidar Petersen sang the song. His grandfather Bjarni stood with him. He blew on the ink. He closed the book. He handed it to Vidar. \"This is yours to keep, now. This book. Not to show anyone. Not to talk about. It is a Petersen thing. You keep it until it is time to give it to your child, or your grandchild — whoever is going to be the one to sing next time. You will know who they are. When they are the right person, you will know.\""
+          ]
+        },
+        {
+          "image": "wr-ch3-p5-watching-again",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. Boy (Vidar, 10) sits back on his black basalt rock at the edge of the bay in the evening light, holding a small pair of binoculars, looking out at the empty water. His face is peaceful. Warm gold sunset colors. Heavy ink outlines, flat shadows, cream palette with warm sunset.",
+          "paragraphs": [
+            "Vidar went back to the rock that evening, at sunset. He did not know why. He did not expect to see anything. He took his binoculars anyway. He sat on the rock and looked out at the empty bay. He watched for a long time. He knew he would probably not see the whale again in his life. Sixty, seventy years. The whale, if he was young, might come back one more time before the whale died — around the time Vidar was Bjarni's age. If the whale was old, this might have been his last. Vidar was not sure how to feel about that. He hoped the whale had had a good life. He hoped he had a family somewhere.",
+            "He sat for a long time. Then he stood up and he walked back to the cottage. Bjarni was making supper. The peat fire was warm. Everything was quiet. And Vidar thought, this is the story I will tell my grandson someday. This is the day I will remember more than any other day. And he thought, also, that being ten years old could be a very heavy thing, and a very good thing, and that both were true at once, and that you did not have to choose."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grandfather",
+    "faroe",
+    "sea",
+    "tradition"
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "story_id": "butterfly-garden",
+  "chapter": 3,
+  "total_duration_ms": 218736,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Iris did not sleep well that night.",
+      "start_ms": 1274,
+      "end_ms": 3268
+    },
+    {
+      "index": 1,
+      "text": "She kept the compass on her pillow, and every time she woke up, the needle was still pointing at the ceiling.",
+      "start_ms": 3268,
+      "end_ms": 9417
+    },
+    {
+      "index": 2,
+      "text": "At breakfast, she showed her grandmother.",
+      "start_ms": 9417,
+      "end_ms": 11799
+    },
+    {
+      "index": 3,
+      "text": "Grandmother Rose put down her toast.",
+      "start_ms": 11799,
+      "end_ms": 13849
+    },
+    {
+      "index": 4,
+      "text": "She picked up the compass.",
+      "start_ms": 13849,
+      "end_ms": 15344
+    },
+    {
+      "index": 5,
+      "text": "She held it flat.",
+      "start_ms": 15344,
+      "end_ms": 16341
+    },
+    {
+      "index": 6,
+      "text": "She held it upside down.",
+      "start_ms": 16341,
+      "end_ms": 17726
+    },
+    {
+      "index": 7,
+      "text": "She held it out the window, and up to the sky, and turned in a slow circle in the kitchen.",
+      "start_ms": 17726,
+      "end_ms": 22822
+    },
+    {
+      "index": 8,
+      "text": "Then she put the compass on the table and sat down very hard.",
+      "start_ms": 22822,
+      "end_ms": 26312
+    },
+    {
+      "index": 9,
+      "text": "\"Iris,\" she said, \"where did you find this?\"",
+      "start_ms": 26312,
+      "end_ms": 28860
+    },
+    {
+      "index": 10,
+      "text": "Iris told her.",
+      "start_ms": 28860,
+      "end_ms": 29691
+    },
+    {
+      "index": 11,
+      "text": "About the butterflies.",
+      "start_ms": 29691,
+      "end_ms": 30965
+    },
+    {
+      "index": 12,
+      "text": "About the map.",
+      "start_ms": 30965,
+      "end_ms": 31796
+    },
+    {
+      "index": 13,
+      "text": "About the digging under the rose bush.",
+      "start_ms": 31796,
+      "end_ms": 34012
+    },
+    {
+      "index": 14,
+      "text": "Her grandmother listened without interrupting.",
+      "start_ms": 34012,
+      "end_ms": 36615
+    },
+    {
+      "index": 15,
+      "text": "When Iris had finished, Grandmother Rose was quiet for a long time.",
+      "start_ms": 36615,
+      "end_ms": 40438
+    },
+    {
+      "index": 16,
+      "text": "\"Come with me,\" she said.",
+      "start_ms": 40438,
+      "end_ms": 41878
+    },
+    {
+      "index": 17,
+      "text": "\"There's something in the study I need to show you.\"",
+      "start_ms": 41878,
+      "end_ms": 44869
+    },
+    {
+      "index": 18,
+      "text": "The study was small and dark and full of old books and old papers and jars of dried leaves.",
+      "start_ms": 44869,
+      "end_ms": 49965
+    },
+    {
+      "index": 19,
+      "text": "Grandmother Rose opened the bottom drawer of a wooden desk and pulled out a large leather-bound notebook.",
+      "start_ms": 49965,
+      "end_ms": 55893
+    },
+    {
+      "index": 20,
+      "text": "The notebook was old.",
+      "start_ms": 55893,
+      "end_ms": 57111
+    },
+    {
+      "index": 21,
+      "text": "The pages were yellow.",
+      "start_ms": 57111,
+      "end_ms": 58385
+    },
+    {
+      "index": 22,
+      "text": "On the first page, in careful, spidery handwriting, was a name: ELEANOR HARWOOD, 1912.",
+      "start_ms": 58385,
+      "end_ms": 63260
+    },
+    {
+      "index": 23,
+      "text": "\"My grandmother,\" said Grandmother Rose.",
+      "start_ms": 63260,
+      "end_ms": 65531
+    },
+    {
+      "index": 24,
+      "text": "\"Your great-great-grandmother.",
+      "start_ms": 65531,
+      "end_ms": 67248
+    },
+    {
+      "index": 25,
+      "text": "She kept butterflies too.",
+      "start_ms": 67248,
+      "end_ms": 68689
+    },
+    {
+      "index": 26,
+      "text": "She kept them in a greenhouse in this same garden, and she noticed things nobody else noticed.\"",
+      "start_ms": 68689,
+      "end_ms": 74062
+    },
+    {
+      "index": 27,
+      "text": "She turned the pages.",
+      "start_ms": 74062,
+      "end_ms": 75280
+    },
+    {
+      "index": 28,
+      "text": "Sketches of butterflies.",
+      "start_ms": 75280,
+      "end_ms": 76665
+    },
+    {
+      "index": 29,
+      "text": "Notes about wing patterns.",
+      "start_ms": 76665,
+      "end_ms": 78161
+    },
+    {
+      "index": 30,
+      "text": "And, in the middle of the notebook, a drawing of a compass that looked exactly like the one on the kitchen table.",
+      "start_ms": 78161,
+      "end_ms": 84531
+    },
+    {
+      "index": 31,
+      "text": "Iris read the note under the compass drawing.",
+      "start_ms": 84531,
+      "end_ms": 87024
+    },
+    {
+      "index": 32,
+      "text": "It said: The butterflies do not fly to the North Star.",
+      "start_ms": 87024,
+      "end_ms": 90334
+    },
+    {
+      "index": 33,
+      "text": "They fly to a red star, low in the east.",
+      "start_ms": 90334,
+      "end_ms": 92802
+    },
+    {
+      "index": 34,
+      "text": "I have written to Professor Grant in London.",
+      "start_ms": 92802,
+      "end_ms": 95510
+    },
+    {
+      "index": 35,
+      "text": "He does not believe me.",
+      "start_ms": 95510,
+      "end_ms": 96954
+    },
+    {
+      "index": 36,
+      "text": "He says butterflies cannot navigate by any single star, and certainly not by a star as faint as that.",
+      "start_ms": 96954,
+      "end_ms": 103093
+    },
+    {
+      "index": 37,
+      "text": "But I have watched them for four seasons and I am sure.",
+      "start_ms": 103093,
+      "end_ms": 106463
+    },
+    {
+      "index": 38,
+      "text": "The star has no name that I know.",
+      "start_ms": 106463,
+      "end_ms": 108509
+    },
+    {
+      "index": 39,
+      "text": "I will keep watching, and I will keep this compass safe for whoever comes after me.",
+      "start_ms": 108509,
+      "end_ms": 113625
+    },
+    {
+      "index": 40,
+      "text": "The signature was ELEANOR HARWOOD, and the date was July, 1919.",
+      "start_ms": 113625,
+      "end_ms": 117537
+    },
+    {
+      "index": 41,
+      "text": "\"The star,\" said Grandmother Rose slowly, \"is called Aldebaran.",
+      "start_ms": 117537,
+      "end_ms": 121388
+    },
+    {
+      "index": 42,
+      "text": "It has a name now.",
+      "start_ms": 121388,
+      "end_ms": 122532
+    },
+    {
+      "index": 43,
+      "text": "Scientists have known about it for a long time.",
+      "start_ms": 122532,
+      "end_ms": 125420
+    },
+    {
+      "index": 44,
+      "text": "But last year — just last year, Iris — a research team in Norway announced that they had discovered something odd.",
+      "start_ms": 125420,
+      "end_ms": 132341
+    },
+    {
+      "index": 45,
+      "text": "Aldebaran has a very unusual magnetic field.",
+      "start_ms": 132341,
+      "end_ms": 135050
+    },
+    {
+      "index": 46,
+      "text": "They think some migratory insects might use it to navigate.",
+      "start_ms": 135050,
+      "end_ms": 138661
+    },
+    {
+      "index": 47,
+      "text": "There was a paper about it in a journal I read.\"",
+      "start_ms": 138661,
+      "end_ms": 141670
+    },
+    {
+      "index": 48,
+      "text": "She looked up at Iris.",
+      "start_ms": 141670,
+      "end_ms": 143114
+    },
+    {
+      "index": 49,
+      "text": "\"They are going to publish more research next year.",
+      "start_ms": 143114,
+      "end_ms": 146244
+    },
+    {
+      "index": 50,
+      "text": "It will be a big discovery.",
+      "start_ms": 146244,
+      "end_ms": 147929
+    },
+    {
+      "index": 51,
+      "text": "Nobody has ever proved it before.\"",
+      "start_ms": 147929,
+      "end_ms": 150095
+    },
+    {
+      "index": 52,
+      "text": "She looked down at the notebook.",
+      "start_ms": 150095,
+      "end_ms": 152141
+    },
+    {
+      "index": 53,
+      "text": "\"My grandmother knew this,\" she said quietly.",
+      "start_ms": 152141,
+      "end_ms": 154910
+    },
+    {
+      "index": 54,
+      "text": "\"A hundred and six years before the scientists.\"",
+      "start_ms": 154910,
+      "end_ms": 157919
+    },
+    {
+      "index": 55,
+      "text": "\"And nobody believed her.\"",
+      "start_ms": 157919,
+      "end_ms": 159604
+    },
+    {
+      "index": 56,
+      "text": "\"Nobody believed her.\"",
+      "start_ms": 159604,
+      "end_ms": 161048
+    },
+    {
+      "index": 57,
+      "text": "Iris looked at the compass.",
+      "start_ms": 161048,
+      "end_ms": 162734
+    },
+    {
+      "index": 58,
+      "text": "She looked at the notebook.",
+      "start_ms": 162734,
+      "end_ms": 164419
+    },
+    {
+      "index": 59,
+      "text": "She looked at her grandmother, who was smiling in a way that was mostly happy but a little bit sad.",
+      "start_ms": 164419,
+      "end_ms": 170497
+    },
+    {
+      "index": 60,
+      "text": "\"What do we do?\" she asked.",
+      "start_ms": 170497,
+      "end_ms": 172242
+    },
+    {
+      "index": 61,
+      "text": "Grandmother Rose thought for a moment.",
+      "start_ms": 172242,
+      "end_ms": 174650
+    },
+    {
+      "index": 62,
+      "text": "\"We write a letter,\" she said.",
+      "start_ms": 174650,
+      "end_ms": 176515
+    },
+    {
+      "index": 63,
+      "text": "\"To the research team in Norway.",
+      "start_ms": 176515,
+      "end_ms": 178501
+    },
+    {
+      "index": 64,
+      "text": "We tell them what my grandmother wrote.",
+      "start_ms": 178501,
+      "end_ms": 180909
+    },
+    {
+      "index": 65,
+      "text": "We send them a copy of the notebook.",
+      "start_ms": 180909,
+      "end_ms": 183135
+    },
+    {
+      "index": 66,
+      "text": "Her name goes into the paper next to theirs.",
+      "start_ms": 183135,
+      "end_ms": 185844
+    },
+    {
+      "index": 67,
+      "text": "A hundred years late, but it goes in.\"",
+      "start_ms": 185844,
+      "end_ms": 188251
+    },
+    {
+      "index": 68,
+      "text": "Iris nodded.",
+      "start_ms": 188251,
+      "end_ms": 189093
+    },
+    {
+      "index": 69,
+      "text": "\"And Iris,\" said Grandmother Rose.",
+      "start_ms": 189093,
+      "end_ms": 191200
+    },
+    {
+      "index": 70,
+      "text": "\"Your name goes in too.",
+      "start_ms": 191200,
+      "end_ms": 192644
+    },
+    {
+      "index": 71,
+      "text": "Because you're the one who found her.\"",
+      "start_ms": 192644,
+      "end_ms": 195052
+    },
+    {
+      "index": 72,
+      "text": "That summer, Iris helped her grandmother write the letter.",
+      "start_ms": 195052,
+      "end_ms": 198602
+    },
+    {
+      "index": 73,
+      "text": "It took them three weeks to get every sentence right.",
+      "start_ms": 198602,
+      "end_ms": 201792
+    },
+    {
+      "index": 74,
+      "text": "The response came in the autumn.",
+      "start_ms": 201792,
+      "end_ms": 203631
+    },
+    {
+      "index": 75,
+      "text": "It was signed by a Norwegian professor whose name Iris could not pronounce, and it said, in careful English:",
+      "start_ms": 203631,
+      "end_ms": 209762
+    },
+    {
+      "index": 76,
+      "text": "Thank you.",
+      "start_ms": 209762,
+      "end_ms": 210375
+    },
+    {
+      "index": 77,
+      "text": "We will publish.",
+      "start_ms": 210375,
+      "end_ms": 211323
+    },
+    {
+      "index": 78,
+      "text": "Your great-great-grandmother was right, and we should have listened sooner.",
+      "start_ms": 211323,
+      "end_ms": 215559
+    },
+    {
+      "index": 79,
+      "text": "Some knowledge waits a very long time for the right ears.",
+      "start_ms": 215559,
+      "end_ms": 218736
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "story_id": "map-of-frida",
+  "chapter": 2,
+  "total_duration_ms": 369168,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "They started with Casa de las bugambilias.",
+      "start_ms": 1824,
+      "end_ms": 5093
+    },
+    {
+      "index": 1,
+      "text": "It was three streets from Abuelo's house — a small stucco place that Abuelo said had belonged to a family called Osorio when Frida's mother was young.",
+      "start_ms": 5093,
+      "end_ms": 16571
+    },
+    {
+      "index": 2,
+      "text": "The bougainvillea was still there, spilling over the front wall, though it was not blooming much in December.",
+      "start_ms": 16571,
+      "end_ms": 24932
+    },
+    {
+      "index": 3,
+      "text": "But the tree — a big old jacaranda — was there too, and Abuelo pointed at a specific low branch.",
+      "start_ms": 24932,
+      "end_ms": 32305
+    },
+    {
+      "index": 4,
+      "text": "\"That,\" he said.",
+      "start_ms": 32305,
+      "end_ms": 33597
+    },
+    {
+      "index": 5,
+      "text": "\"That was the one.",
+      "start_ms": 33597,
+      "end_ms": 35042
+    },
+    {
+      "index": 6,
+      "text": "She was five years old.",
+      "start_ms": 35042,
+      "end_ms": 36866
+    },
+    {
+      "index": 7,
+      "text": "She was determined to climb it.",
+      "start_ms": 36866,
+      "end_ms": 39298
+    },
+    {
+      "index": 8,
+      "text": "Her mother said no.",
+      "start_ms": 39298,
+      "end_ms": 40819
+    },
+    {
+      "index": 9,
+      "text": "I said no.",
+      "start_ms": 40819,
+      "end_ms": 41655
+    },
+    {
+      "index": 10,
+      "text": "She waited until we were both busy in the kitchen, and she climbed it, and she got up onto that branch, and she could not get down.\"",
+      "start_ms": 41655,
+      "end_ms": 51840
+    },
+    {
+      "index": 11,
+      "text": "\"What did you do,\" Frida asked.",
+      "start_ms": 51840,
+      "end_ms": 54273
+    },
+    {
+      "index": 12,
+      "text": "\"I stood underneath and I told her to jump into my arms,\" Abuelo said.",
+      "start_ms": 54273,
+      "end_ms": 59670
+    },
+    {
+      "index": 13,
+      "text": "\"She did not want to.",
+      "start_ms": 59670,
+      "end_ms": 61342
+    },
+    {
+      "index": 14,
+      "text": "She was afraid.",
+      "start_ms": 61342,
+      "end_ms": 62558
+    },
+    {
+      "index": 15,
+      "text": "I stood there for maybe twenty minutes.",
+      "start_ms": 62558,
+      "end_ms": 65599
+    },
+    {
+      "index": 16,
+      "text": "She kept crying.",
+      "start_ms": 65599,
+      "end_ms": 66891
+    },
+    {
+      "index": 17,
+      "text": "Finally she jumped, and I caught her.",
+      "start_ms": 66891,
+      "end_ms": 69779
+    },
+    {
+      "index": 18,
+      "text": "And I said, we are not going to tell your mother about this.",
+      "start_ms": 69779,
+      "end_ms": 74416
+    },
+    {
+      "index": 19,
+      "text": "She was very good at keeping a secret.",
+      "start_ms": 74416,
+      "end_ms": 77380
+    },
+    {
+      "index": 20,
+      "text": "Even when she was five.",
+      "start_ms": 77380,
+      "end_ms": 79205
+    },
+    {
+      "index": 21,
+      "text": "She never told her mother.\" He looked at Frida.",
+      "start_ms": 79205,
+      "end_ms": 82853
+    },
+    {
+      "index": 22,
+      "text": "\"That was your Mamá.",
+      "start_ms": 82853,
+      "end_ms": 84450
+    },
+    {
+      "index": 23,
+      "text": "She was — very determined.",
+      "start_ms": 84450,
+      "end_ms": 86502
+    },
+    {
+      "index": 24,
+      "text": "About small things.",
+      "start_ms": 86502,
+      "end_ms": 88022
+    },
+    {
+      "index": 25,
+      "text": "About big things too.\"",
+      "start_ms": 88022,
+      "end_ms": 89846
+    },
+    {
+      "index": 26,
+      "text": "Café Tacuba was in the historic center, and they took a metro to get there.",
+      "start_ms": 89846,
+      "end_ms": 95623
+    },
+    {
+      "index": 27,
+      "text": "It had been open, Abuelo said, for over a hundred years — the same wooden panels, the same brass details, the same tiled floors.",
+      "start_ms": 95623,
+      "end_ms": 105429
+    },
+    {
+      "index": 28,
+      "text": "They sat at a small table and Abuelo ordered them two hot chocolates.",
+      "start_ms": 105429,
+      "end_ms": 110750
+    },
+    {
+      "index": 29,
+      "text": "When the cups arrived, thick and dark and smelling of cinnamon, Abuelo lifted his and clinked it gently against Frida's.",
+      "start_ms": 110750,
+      "end_ms": 119947
+    },
+    {
+      "index": 30,
+      "text": "\"To your Mamá,\" he said.",
+      "start_ms": 119947,
+      "end_ms": 121848
+    },
+    {
+      "index": 31,
+      "text": "Frida clinked back.",
+      "start_ms": 121848,
+      "end_ms": 123368
+    },
+    {
+      "index": 32,
+      "text": "\"To Mamá.\"",
+      "start_ms": 123368,
+      "end_ms": 124128
+    },
+    {
+      "index": 33,
+      "text": "\"When she was a girl,\" Abuelo said, \"once a month, on a Saturday, we came here.",
+      "start_ms": 124128,
+      "end_ms": 129209
+    },
+    {
+      "index": 34,
+      "text": "Just her and me.",
+      "start_ms": 129209,
+      "end_ms": 130289
+    },
+    {
+      "index": 35,
+      "text": "Not her mother.",
+      "start_ms": 130289,
+      "end_ms": 131306
+    },
+    {
+      "index": 36,
+      "text": "It was our thing.",
+      "start_ms": 131306,
+      "end_ms": 132449
+    },
+    {
+      "index": 37,
+      "text": "She always got hot chocolate.",
+      "start_ms": 132449,
+      "end_ms": 134354
+    },
+    {
+      "index": 38,
+      "text": "I always got coffee.",
+      "start_ms": 134354,
+      "end_ms": 135688
+    },
+    {
+      "index": 39,
+      "text": "She would tell me everything that had happened at school.",
+      "start_ms": 135688,
+      "end_ms": 139372
+    },
+    {
+      "index": 40,
+      "text": "Everything.",
+      "start_ms": 139372,
+      "end_ms": 140135
+    },
+    {
+      "index": 41,
+      "text": "It was one of the times I knew what was happening in her life.",
+      "start_ms": 140135,
+      "end_ms": 144136
+    },
+    {
+      "index": 42,
+      "text": "When we walked home from here she always held my hand.\" He drank.",
+      "start_ms": 144136,
+      "end_ms": 148328
+    },
+    {
+      "index": 43,
+      "text": "\"You do not have to hold my hand,\" he added, without looking at her.",
+      "start_ms": 148328,
+      "end_ms": 152711
+    },
+    {
+      "index": 44,
+      "text": "\"But if you wanted to.",
+      "start_ms": 152711,
+      "end_ms": 154172
+    },
+    {
+      "index": 45,
+      "text": "I would not mind.\" So Frida did.",
+      "start_ms": 154172,
+      "end_ms": 156268
+    },
+    {
+      "index": 46,
+      "text": "She reached across the table and she held his old hand for a little while.",
+      "start_ms": 156268,
+      "end_ms": 161032
+    },
+    {
+      "index": 47,
+      "text": "His hand was very warm.",
+      "start_ms": 161032,
+      "end_ms": 162620
+    },
+    {
+      "index": 48,
+      "text": "The pastry lady with the red shawl was still there.",
+      "start_ms": 162620,
+      "end_ms": 165923
+    },
+    {
+      "index": 49,
+      "text": "That was what Frida had not expected.",
+      "start_ms": 165923,
+      "end_ms": 168336
+    },
+    {
+      "index": 50,
+      "text": "In La Merced market, at the same stall her mother had drawn on the map, there was a woman in a bright red rebozo who had to be at least seventy years old, selling small cookies and rolls of sweet bread.",
+      "start_ms": 168336,
+      "end_ms": 181231
+    },
+    {
+      "index": 51,
+      "text": "Abuelo walked up to her and spoke to her in fast Spanish.",
+      "start_ms": 181231,
+      "end_ms": 184915
+    },
+    {
+      "index": 52,
+      "text": "The woman's eyes widened.",
+      "start_ms": 184915,
+      "end_ms": 186566
+    },
+    {
+      "index": 53,
+      "text": "She stared at Frida for a long moment.",
+      "start_ms": 186566,
+      "end_ms": 189043
+    },
+    {
+      "index": 54,
+      "text": "She said something in Spanish.",
+      "start_ms": 189043,
+      "end_ms": 191012
+    },
+    {
+      "index": 55,
+      "text": "Abuelo turned to Frida and translated: \"She says you have your mother's mouth.",
+      "start_ms": 191012,
+      "end_ms": 196030
+    },
+    {
+      "index": 56,
+      "text": "She says she remembers your mother very well.",
+      "start_ms": 196030,
+      "end_ms": 198952
+    },
+    {
+      "index": 57,
+      "text": "She says your mother always bought the sugar cookies, the pink ones with the seeds on top.\"",
+      "start_ms": 198952,
+      "end_ms": 204859
+    },
+    {
+      "index": 58,
+      "text": "The woman handed Frida a small cookie.",
+      "start_ms": 204859,
+      "end_ms": 207336
+    },
+    {
+      "index": 59,
+      "text": "It was warm and pink and sprinkled with anise seeds.",
+      "start_ms": 207336,
+      "end_ms": 210703
+    },
+    {
+      "index": 60,
+      "text": "Frida bit into it.",
+      "start_ms": 210703,
+      "end_ms": 211910
+    },
+    {
+      "index": 61,
+      "text": "It was good.",
+      "start_ms": 211910,
+      "end_ms": 212735
+    },
+    {
+      "index": 62,
+      "text": "Simple.",
+      "start_ms": 212735,
+      "end_ms": 213244
+    },
+    {
+      "index": 63,
+      "text": "Sweet.",
+      "start_ms": 213244,
+      "end_ms": 213688
+    },
+    {
+      "index": 64,
+      "text": "The woman was watching her face.",
+      "start_ms": 213688,
+      "end_ms": 215784
+    },
+    {
+      "index": 65,
+      "text": "\"She says,\" Abuelo went on, \"that your mother used to eat one whole cookie standing right here, and then buy two more to take home.",
+      "start_ms": 215784,
+      "end_ms": 224169
+    },
+    {
+      "index": 66,
+      "text": "And that her mother — my wife — used to be angry with her for eating a whole cookie before dinner.",
+      "start_ms": 224169,
+      "end_ms": 230457
+    },
+    {
+      "index": 67,
+      "text": "And your Mamá never stopped doing it.",
+      "start_ms": 230457,
+      "end_ms": 232871
+    },
+    {
+      "index": 68,
+      "text": "Never.",
+      "start_ms": 232871,
+      "end_ms": 233315
+    },
+    {
+      "index": 69,
+      "text": "She would come here, when she visited from Los Angeles, right up until — until three years ago.",
+      "start_ms": 233315,
+      "end_ms": 239413
+    },
+    {
+      "index": 70,
+      "text": "Always bought three cookies.",
+      "start_ms": 239413,
+      "end_ms": 241255
+    },
+    {
+      "index": 71,
+      "text": "Always ate one standing right here.\"",
+      "start_ms": 241255,
+      "end_ms": 243669
+    },
+    {
+      "index": 72,
+      "text": "Frida ate her cookie standing right there.",
+      "start_ms": 243669,
+      "end_ms": 246400
+    },
+    {
+      "index": 73,
+      "text": "She bought two more to take home.",
+      "start_ms": 246400,
+      "end_ms": 248496
+    },
+    {
+      "index": 74,
+      "text": "The Blue House was Frida Kahlo's old house.",
+      "start_ms": 248496,
+      "end_ms": 251012
+    },
+    {
+      "index": 75,
+      "text": "Frida's mother had named her daughter after Frida Kahlo, and had loved her paintings, and had told Frida many times about the day she had stood outside the museum for two hours in the rain, when she was fourteen, because she had not been able to afford the entrance fee.",
+      "start_ms": 251012,
+      "end_ms": 266505
+    },
+    {
+      "index": 76,
+      "text": "She had refused to leave.",
+      "start_ms": 266505,
+      "end_ms": 267991
+    },
+    {
+      "index": 77,
+      "text": "She had wanted to see it.",
+      "start_ms": 267991,
+      "end_ms": 269535
+    },
+    {
+      "index": 78,
+      "text": "Abuelo did not take Frida inside.",
+      "start_ms": 269535,
+      "end_ms": 271479
+    },
+    {
+      "index": 79,
+      "text": "He said, \"You can go inside another day.",
+      "start_ms": 271479,
+      "end_ms": 273823
+    },
+    {
+      "index": 80,
+      "text": "Today is not for going inside.",
+      "start_ms": 273823,
+      "end_ms": 275595
+    },
+    {
+      "index": 81,
+      "text": "Today is for standing where she stood.\" So they stood across the street.",
+      "start_ms": 275595,
+      "end_ms": 279769
+    },
+    {
+      "index": 82,
+      "text": "They stood for a long time.",
+      "start_ms": 279769,
+      "end_ms": 281370
+    },
+    {
+      "index": 83,
+      "text": "Abuelo said, \"She was so angry, that day.",
+      "start_ms": 281370,
+      "end_ms": 283771
+    },
+    {
+      "index": 84,
+      "text": "Not at me.",
+      "start_ms": 283771,
+      "end_ms": 284400
+    },
+    {
+      "index": 85,
+      "text": "At the world.",
+      "start_ms": 284400,
+      "end_ms": 285200
+    },
+    {
+      "index": 86,
+      "text": "She said the museum should be free.",
+      "start_ms": 285200,
+      "end_ms": 287258
+    },
+    {
+      "index": 87,
+      "text": "She said Frida Kahlo would have wanted it to be free.",
+      "start_ms": 287258,
+      "end_ms": 290346
+    },
+    {
+      "index": 88,
+      "text": "She was fourteen and she stood in the rain and she made a whole argument about it that I could not answer.",
+      "start_ms": 290346,
+      "end_ms": 296463
+    },
+    {
+      "index": 89,
+      "text": "She was a person who fought for what she thought was right.",
+      "start_ms": 296463,
+      "end_ms": 299893
+    },
+    {
+      "index": 90,
+      "text": "That is how I remember her most.\" Frida said, quietly, \"I am going to be like that too.\" Abuelo said, \"I know you are.\"",
+      "start_ms": 299893,
+      "end_ms": 306811
+    },
+    {
+      "index": 91,
+      "text": "That evening they went to the Zócalo — the huge central plaza of the city, with the great cathedral and the palace and the old buildings.",
+      "start_ms": 306811,
+      "end_ms": 314701
+    },
+    {
+      "index": 92,
+      "text": "They stood in the middle of it as the sun set.",
+      "start_ms": 314701,
+      "end_ms": 317388
+    },
+    {
+      "index": 93,
+      "text": "Abuelo pointed at the cathedral bell tower.",
+      "start_ms": 317388,
+      "end_ms": 319903
+    },
+    {
+      "index": 94,
+      "text": "\"There.",
+      "start_ms": 319903,
+      "end_ms": 320361
+    },
+    {
+      "index": 95,
+      "text": "That is the bell she wrote about.",
+      "start_ms": 320361,
+      "end_ms": 322304
+    },
+    {
+      "index": 96,
+      "text": "On summer nights she could hear it from her bedroom.",
+      "start_ms": 322304,
+      "end_ms": 325334
+    },
+    {
+      "index": 97,
+      "text": "Not always.",
+      "start_ms": 325334,
+      "end_ms": 326021
+    },
+    {
+      "index": 98,
+      "text": "Only when the wind was right.",
+      "start_ms": 326021,
+      "end_ms": 327736
+    },
+    {
+      "index": 99,
+      "text": "She used to lie in bed with the window open and count the tolls.",
+      "start_ms": 327736,
+      "end_ms": 331452
+    },
+    {
+      "index": 100,
+      "text": "She said it made her feel like she lived in a very old place, and that made her feel small in a good way.\"",
+      "start_ms": 331452,
+      "end_ms": 337512
+    },
+    {
+      "index": 101,
+      "text": "Frida stood and listened.",
+      "start_ms": 337512,
+      "end_ms": 339175
+    },
+    {
+      "index": 102,
+      "text": "After a few minutes, the bell rang.",
+      "start_ms": 339175,
+      "end_ms": 341477
+    },
+    {
+      "index": 103,
+      "text": "Six clear tolls, deep and long, across the plaza.",
+      "start_ms": 341477,
+      "end_ms": 344675
+    },
+    {
+      "index": 104,
+      "text": "She counted them.",
+      "start_ms": 344675,
+      "end_ms": 345826
+    },
+    {
+      "index": 105,
+      "text": "She thought about her mother, at ten, at eleven, at fifteen, lying in bed at night and hearing this exact sound.",
+      "start_ms": 345826,
+      "end_ms": 353052
+    },
+    {
+      "index": 106,
+      "text": "The bell had been ringing for hundreds of years already, then.",
+      "start_ms": 353052,
+      "end_ms": 357081
+    },
+    {
+      "index": 107,
+      "text": "Now it was ringing for Frida too.",
+      "start_ms": 357081,
+      "end_ms": 359256
+    },
+    {
+      "index": 108,
+      "text": "\"Abuelo,\" she said.",
+      "start_ms": 359256,
+      "end_ms": 360535
+    },
+    {
+      "index": 109,
+      "text": "\"I want to remember this.\" Abuelo said, \"Then remember it.",
+      "start_ms": 360535,
+      "end_ms": 364308
+    },
+    {
+      "index": 110,
+      "text": "I will remember it with you.",
+      "start_ms": 364308,
+      "end_ms": 366162
+    },
+    {
+      "index": 111,
+      "text": "That way there will be two of us who remember.\"",
+      "start_ms": 366162,
+      "end_ms": 369168
+    }
+  ]
+}

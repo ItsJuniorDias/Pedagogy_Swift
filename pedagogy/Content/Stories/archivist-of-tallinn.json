@@ -1,0 +1,169 @@
+{
+  "id": "archivist-of-tallinn",
+  "title": "The Archivist of Tallinn",
+  "subtitle": "A Small Collection in a Locked Room",
+  "author": null,
+  "summary": "Kristjan is ten and lives in Tartu, in southern Estonia. In July he goes to stay with his great-aunt Silvia in Tallinn — a retired archivist who worked forty years at the National Library and still has a key to a particular locked room in the basement. In that room is a small collection Silvia has been quietly keeping since the nineteen seventies: hundreds of letters that were written more than a century ago but never delivered. She thinks some of them could still find the people they were meant for. She has never actually tried. Kristjan, this July, is going to change that.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-archivist-of-tallinn-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old Estonian boy (Kristjan) with light brown hair and a serious careful face, wearing a dark navy hooded sweatshirt and jeans, seated at a low table in a warmly-lit basement archive room. In front of him lies an open shallow wooden box of very old envelopes, brown with age. He holds one envelope carefully in both hands. Beside him stands his great-aunt (Silvia, seventy-six, silver hair in a neat bun, glasses on a chain, a soft grey cardigan over a plain dress), leaning slightly forward with her hands folded, watching him with quiet attention. Behind them, shelves of leather-bound archive folders and old library boxes recede into dim warm library light. Character positioned center-left, filling roughly 45% of frame height. Palette: warm cream (#FFF9F0), brown leather and old paper, deep ink outlines, small dusty rose (#FF5B8D) accent on Kristjan's cheeks and Silvia's cardigan. Small margin at top and bottom for card padding.",
+  "category": "mystery",
+  "isPremium": true,
+  "publishedAt": "2027-06-24",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Locked Room",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "at-ch1-p1-oldtown",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a quiet cobblestone street in Tallinn Old Town (Vanalinn). Medieval limestone buildings with steep red tile roofs, painted signs above small shop doors, the spire of St Nicholas Church (Niguliste) visible in the background. Kristjan (10, brown hair, navy hooded sweatshirt, small backpack) walks up the street beside his great-aunt Silvia (seventy-six, silver bun, glasses, grey cardigan, small wheeled shopping bag). Summer morning light on the pale limestone walls. Heavy black ink outlines, flat shadows, warm cream and grey palette.",
+          "paragraphs": [
+            "Kristjan was ten and lived in Tartu, which was the second city of Estonia — a small university town on the Emajõgi river in the south of the country. His mother was a mathematician at the university. His father worked at a hospital. Every July, for two weeks, Kristjan took the bus north to Tallinn, the capital, to stay with his great-aunt Silvia. Silvia was his mother's aunt — the elder sister of his mother's mother, who had died when Kristjan's mother was small. Silvia was seventy-six and lived alone in a small apartment on the third floor of an old building on a cobblestoned street in the Vanalinn — the medieval Old Town of Tallinn, near the ruined church of Niguliste.",
+            "Silvia had been an archivist. She had worked for forty years at the Estonian National Library, which sat on a hill just outside the Old Town. She had retired eight years ago. She was, most days now, a small careful old woman who took slow walks in the Old Town, drank strong black coffee, read three newspapers, and spent her afternoons at a large window with a view of the sea. But two mornings a week she still walked up the hill to the library, unlocked a small back door with a key she had never given back, and spent three or four hours in the basement archive on projects nobody had asked her to do. This was known to the current head of the archive, who liked Silvia, and who let her be."
+          ]
+        },
+        {
+          "image": "at-ch1-p2-apartment",
+          "imagePrompt": "Mike Mignola style for children: interior view of Silvia's small living room. Tall ceilings, a large window with view of a slice of the sea between two roofs. A bookshelf wall to floor. A small wooden table with two chairs. Silvia (seventy-six) pours strong black coffee into two small cups. Kristjan (10) sits at the table with a slice of black bread and butter. Warm morning light through lace curtains. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "On the first morning of his visit, Silvia gave Kristjan a small cup of strong coffee with hot milk — he was allowed only very weak coffee at home, so this was a treat — and a thick slice of dark rye bread with butter and honey. She sat across from him and drank her own coffee black. She said, \"Kristjan. This week I am going to take you into the library. You are old enough now.\" Kristjan sat up straighter. He had heard about Silvia's library work his whole life and had never been allowed to see it. \"I will show you the reading rooms,\" she said, \"and then I will show you a small room in the basement that almost nobody sees. And I will show you a project I have been keeping to myself for almost fifty years. I have not talked about it to anyone in the family. Now — well. It is a good time.\" She drank her coffee. She did not explain further."
+          ]
+        },
+        {
+          "image": "at-ch1-p3-library",
+          "imagePrompt": "Mike Mignola style for children: exterior view of the Estonian National Library — a large modern building of pale stone rising from a small hill. Silvia and Kristjan approach along a paved path. Behind them, the red roofs and medieval walls of the Old Town are visible below. Bright summer light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They walked up the hill after breakfast. The library was much bigger than Kristjan had imagined — a large pale stone building with many floors and many long windows. Silvia took him in through a small side door, using a key from a ring she kept in her handbag. She waved to a security guard, who nodded at her by name. She led Kristjan through empty back corridors that smelled of paper and floor wax, past reading rooms where a few adults sat reading at long tables, and to a lift that opened only when Silvia used her key. They rode it down.",
+            "In the basement, the corridor was warm and dim and quiet. Silvia said, \"The main archive is that way\" — she pointed left — \"and it is very big and very organized and cataloged by many people over many years. Where we are going is a small room off to the side. It is not cataloged. It is what people used to call, before I was born, the 'strays cabinet.' Come.\" And she took him to a low green door at the end of the corridor and unlocked it with a small brass key from her ring."
+          ]
+        },
+        {
+          "image": "at-ch1-p4-locked-room",
+          "imagePrompt": "Mike Mignola style for children: interior view of a small dim archive room. Wooden shelves floor to ceiling on three walls, holding shallow wooden boxes and leather-bound folders. A single low table with two chairs in the middle. A small brass reading lamp on the table. Silvia (seventy-six) has just switched the lamp on and is closing the door behind them. Kristjan (10) looks around. Warm gold lamp light against the dim room. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "The room was small and quiet. Three walls of wooden shelves held perhaps fifty shallow wooden boxes and many leather-bound folders. A single table with two chairs sat in the middle. Silvia turned on the small brass reading lamp on the table. She closed the door behind them.",
+            "\"For a hundred and fifty years,\" she said, \"the post office of Tallinn — and then the post offices across Estonia, when Tallinn was central — sent us here, to the library, the letters that could not be delivered. Letters with unreadable addresses. Letters with names of people who could not be found. Letters posted after the person who wrote them had died. Letters returned so many times the postmarks were unreadable. The post office threw most such letters away. But some — the older ones especially, the ones from before the wars, the ones that seemed to have some historical value — some, they sent to the library. Because sometimes, a hundred years later, a letter about a bakery in 1885 becomes useful to a historian. So we kept them. In this room. Nobody catalogs them. There are perhaps eight thousand.\""
+          ]
+        },
+        {
+          "image": "at-ch1-p5-box",
+          "imagePrompt": "Mike Mignola style for children: interior close view. Silvia (seventy-six) has taken down a shallow wooden box from a shelf and set it on the table. She is opening the lid. Inside, a stack of old brown envelopes, edges soft with age. Kristjan (10) leans over the table with his chin on his hands to see. Warm gold lamp light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Silvia went to a shelf and took down one of the shallow wooden boxes. She set it on the table between them. She lifted the lid. Inside, in a soft-edged neat stack, were perhaps a hundred and fifty envelopes. They were pale brown with age. The ink on them was faded to soft grey and rusty red. She said, \"This is one of the older boxes. Everything in here is from before nineteen hundred. Some from the eighteen-seventies. Some later. But nothing after eighteen ninety-nine. I chose this box for you because it is old enough to be safely from a peaceful time.\" She said this last part with a small sideways look at Kristjan, and he understood that she meant, before the wars — before the terrible things happened in this country in the twentieth century. He understood that Silvia was being kind by choosing this box.",
+            "\"For fifty years,\" Silvia said, \"since I was your mother's age and I first came to work at this library as a young woman, I have believed that some of these letters could still find their people. That the descendants of the people they were meant for are still here, in Estonia, or elsewhere in the world. That if you took the time to trace, you could find them. I have believed this. I have never actually tried. Fifty years and I have never delivered a single letter. Not one.\" She looked at him. \"I don't quite know why. But I think we might try one this week. If you are willing.\" And Kristjan, who was ten and slightly afraid of what he had just been handed, nodded, because he could not think of any reason to say no."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Aleksander to Marie",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "at-ch2-p1-choosing",
+          "imagePrompt": "Mike Mignola style for children: interior close view of the table in the small archive room. Silvia (seventy-six) and Kristjan (10) have laid out perhaps a dozen brown envelopes on the table in front of them. Silvia holds one specific envelope up carefully, showing it to Kristjan. The envelope has faded brown handwriting in old-fashioned script. Warm lamp light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They went through the box slowly, together, over the whole first morning. Silvia let Kristjan open each envelope carefully. Most of the letters inside were dull — bills, receipts, formal business correspondence from long-dead merchants. Some were sad — messages of condolence that had never reached the family. A few were sweet. Silvia would read the old handwriting for Kristjan, translating the old formal Estonian into modern speech, sometimes laughing softly at a phrase.",
+            "About an hour in, she found one that made her stop. It was a small folded letter in a thin brown envelope. On the outside, in careful young handwriting: To Miss Marie Kask, of Räpina village, near Tartu. Estonia. The postmark was Tartu, December nineteenth, eighteen ninety-eight. The letter had been returned twice — Silvia showed Kristjan the small stamps on the back. Return, no such address. Return, unknown recipient. And then a small pencil note in some old postmaster's hand: Address vague. Hold. Silvia looked at it for a long moment. She said, \"Let us open this one.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Inside was a single sheet of thin brown paper. The handwriting was young and neat and slightly leaning. Silvia read it in Estonian first, softly, to herself, and then translated for Kristjan.",
+            "\"My dearest Marie,\" she read. \"I have this morning finished the purchase of the little house in Räpina — the one behind the mill, with the two windows facing the river. I will come for you at Christmas as we agreed. Please do not worry about the roof. It is a good roof and I have inspected it myself. I am, in the meantime, thinking of three things I love about you and I will tell you which they are when I see you. Yours, always, Aleksander Rebane.\" Silvia lowered the letter slowly. \"December nineteenth,\" she said. \"He never came for her at Christmas.\"",
+            "Kristjan asked, \"Why not?\" Silvia said, \"I do not know. But I can guess. The winter of eighteen ninety-eight to ninety-nine was the worst influenza winter Estonia had seen in fifty years. There is a note in one of the library annals that Tartu lost several hundred people between December and February. He was very young. Twenty-five, twenty-six, at most, from the handwriting. If he died in that flu, this letter — sent just a few days before — would have arrived at the Räpina post office and found nobody with clear enough address, and been returned. And her family may have known him only as 'Marie's young man from Tartu' — no fixed street, nothing formal. That is why the address was vague. It was written to a girl in a small village where everyone knew each other. They did not need a street. But once he was gone, and the letter came back to Tartu, nobody there knew what to do with it either. So it came here. And it has been here ever since.\""
+          ]
+        },
+        {
+          "image": "at-ch2-p3-idea",
+          "imagePrompt": "Mike Mignola style for children: interior view of the archive room. Silvia (seventy-six) sits at the table, one hand still on the letter, staring into the middle distance thoughtfully. Kristjan (10) leans forward, elbows on the table, looking directly at her with an eager focused expression. Warm gold lamp light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Kristjan sat looking at the letter. Then he said, \"Aunt Silvia. Kask is a very common Estonian name. Marie Kask must have married someone else after Aleksander died. She might have had children. Those children might have had children. Those grandchildren might be alive right now. Some of them might live in Tartu. We could find them.\"",
+            "Silvia looked at him. She said, \"That is exactly what I have been thinking for fifty years.\" She smiled a small sad smile. \"But I never did it, Kristjan. I never once opened the genealogy books and tried. I was always going to do it next month. It is one of those things.\" She was quiet. Then she said, \"But you are here. You have a bus back to Tartu in eleven days. And Kask is, as you say, a common name in the Tartu region. Perhaps we look. If we find nothing, we put the letter back. If we find someone — we shall see.\""
+          ]
+        },
+        {
+          "image": "at-ch2-p4-genealogy",
+          "imagePrompt": "Mike Mignola style for children: interior view of a different, larger genealogy reading room in the same library. Long tables, tall reference shelves. Silvia (seventy-six) and Kristjan (10) sit side by side at one long table, with several open leather-bound books and a small laptop between them. Silvia points to something in a book with a small triumphant expression. Kristjan leans in. Warm library light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "They went upstairs to the genealogy reading room. Silvia knew it well. She showed Kristjan how to use the parish record books — the old ones from Räpina were on microfiche, the newer ones digitized. They looked for a Marie Kask, born around eighteen seventy-five to seventy-seven, who might have married someone in Räpina or nearby after eighteen ninety-eight.",
+            "It took them three afternoons, spread over four days. They found her. Marie Kask, born eighteen seventy-six in Räpina, married Jaan Tamm of Räpina in nineteen hundred and two — four years after Aleksander's letter. They had five children. The children had grown up, moved away, had their own children. Silvia traced the youngest daughter's line — Anna Tamm, born nineteen fifteen — through a marriage to a Kask cousin (which was common in small villages), through two more generations, to a woman still alive in Tartu today, aged sixty-two, whose name was Piret Kask, and who taught music at a small school. Silvia sat back in her chair when they had confirmed it. She said, \"She is the great-granddaughter of Marie Kask. Marie was her great-grandmother, on her mother's side. She almost certainly still lives at the address in the phone book. And she is your neighbor, more or less. Tartu is not big.\""
+          ]
+        },
+        {
+          "image": "at-ch2-p5-decision",
+          "imagePrompt": "Mike Mignola style for children: interior of Silvia's apartment. Evening. Silvia (seventy-six) and Kristjan (10) sit at the small table by the window. The letter from Aleksander lies on the table between them, along with a small notebook on which Silvia has written Piret Kask's phone number and address. Silvia is looking at the letter, hands folded. Kristjan is looking at Silvia, waiting. Warm evening lamp light, the sea beyond the window. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "That evening in the apartment, they sat at the small table by the window. The letter from Aleksander lay in the middle. Silvia had written Piret Kask's address in her small notebook. She was quiet for a long time. She said, \"I do not know how to do this, Kristjan. It has been fifty years. I have never delivered one. I do not know what one is supposed to say.\"",
+            "Kristjan thought. He said, \"You just — go. And you say, we found this. We think it was meant for your great-grandmother. And you give it to her. And whatever she does, she does.\" Silvia smiled at him — a real full smile this time. \"That is very good advice from a ten-year-old,\" she said. \"That is exactly how we shall do it. Tomorrow I telephone her. If she agrees, on Friday, we take the bus to Tartu together. You are on your way home anyway. We deliver it, and then you go on to your mother.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "A Small House in Tartu",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "at-ch3-p1-tartu",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small pastel-colored apartment building in a residential street of Tartu. Silvia (seventy-six) and Kristjan (10, backpack) stand at the front door. Silvia has just pressed the doorbell button. Summer afternoon light, a chestnut tree overhanging the street. Heavy ink outlines, flat shadows, warm cream and pale blue palette.",
+          "paragraphs": [
+            "Silvia telephoned on the Tuesday. Kristjan listened as she explained the situation carefully to Piret Kask on the other end. Silvia said the word letter, and the word great-grandmother, and the word Aleksander. There was a long silence on the phone. Then Silvia said, \"Yes. Yes, of course. Friday afternoon, then. About three. Yes. Thank you.\" She hung up. She said to Kristjan, \"She wants to see it. She has never heard the name Aleksander from her family. She is curious.\"",
+            "On Friday they took the morning bus to Tartu. Kristjan had his small suitcase — he would be going on to his parents' apartment afterward. Silvia had the letter, in a soft envelope in her handbag. At three o'clock they walked up to a small pale yellow apartment building on a quiet street a few blocks from the river. Piret Kask lived on the first floor. Silvia pressed the doorbell."
+          ]
+        },
+        {
+          "image": "at-ch3-p2-piret",
+          "imagePrompt": "Mike Mignola style for children: interior of a small warm cluttered living room full of books and one upright piano. Piret Kask (sixty-two, silver-brown hair, kind lively face, a long knit cardigan) opens the door for Silvia (seventy-six) and Kristjan (10). Piret smiles warmly. Late afternoon light through gauzy curtains. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Piret Kask was sixty-two and had silver-brown hair and a warm quick face and a small warm apartment full of books and one upright piano against the far wall. She let them in and made them tea and put out biscuits. She looked at Kristjan and said, \"You are the young man who did this?\" Kristjan said, \"My aunt did it, mostly.\" Silvia shook her head. \"Kristjan pushed me. I have had this letter for fifty years and would have had it for another fifty. He is the one.\"",
+            "They sat down at Piret's small table. Silvia took out the letter. She said, \"Piret. This was written by a young man named Aleksander Rebane, in Tartu, on December nineteenth, eighteen ninety-eight, to a young woman named Marie Kask, of Räpina village. From what we can tell, your great-grandmother. It never reached her. He most likely died a few weeks later in the influenza. The letter went back to Tartu, then to the library archive. It has been in a box in the basement for a hundred and twenty-eight years.\" She handed Piret the small brown envelope."
+          ]
+        },
+        {
+          "image": "at-ch3-p3-reading",
+          "imagePrompt": "Mike Mignola style for children: interior close view. Piret (sixty-two) sits at the small table with the unfolded letter in her hands. She has been reading. She is crying quietly, one hand at her mouth. Silvia (seventy-six) sits across from her, hands folded, respectful. Kristjan (10) sits between them, quiet. Warm afternoon light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Piret opened the envelope slowly. She unfolded the thin brown paper. She began to read. She was a music teacher and her voice was very good — clear and quiet. She read the letter aloud, in the old Estonian, and Kristjan understood most of it now, having heard Silvia read it three times over the week. When she reached the line about the three things Aleksander loved about Marie, Piret's voice broke, and she stopped, and she was crying. She did not try to hide it. Silvia sat still. Kristjan sat still. It was very quiet in the little apartment except for a bird outside the window.",
+            "After a moment Piret wiped her eyes. She said, \"Excuse me. I was not prepared. I knew that my great-grandmother had almost married someone before my great-grandfather. My grandmother told me once when I was small — that her mother had cried, sometimes on winter evenings, for a boy who had died before her wedding. My grandmother thought her mother had never entirely stopped grieving. But we did not know his name. We did not know he had bought them a house behind the mill in Räpina. We did not know he had loved three things about her.\" She looked at the letter. \"We did not know he had written to her the week he died.\""
+          ]
+        },
+        {
+          "image": "at-ch3-p4-keeping",
+          "imagePrompt": "Mike Mignola style for children: interior close view. Piret (sixty-two) is carefully folding the letter and putting it back in its brown envelope, holding it against her chest for a moment. Silvia (seventy-six) is watching, nodding. Kristjan (10) sits beside them. Warm afternoon light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Piret held the letter for a while. Then she looked at Silvia and asked, \"May I keep it?\" Silvia said, \"Piret. It is yours. It was always yours. It has just taken a while to arrive. It belongs to your family now. The library will not want it back.\" Piret held it against her chest for a moment. Then she folded it very carefully and put it back into the brown envelope, and she set the envelope down on the table between them and rested her hand on top of it.",
+            "\"I will read this at the family Christmas next year,\" she said. \"To my daughters, and their children. It is a good story to have. My great-grandmother married a good man in nineteen-oh-two. She had five children. My grandmother was one of them. My mother came from her. I come from her. If Aleksander had come for her at Christmas of ninety-eight, none of us would exist. That is a strange thought to have and it does not stop me from being sad for them. They can both be true.\" She smiled at Kristjan. \"You are a kind boy. Come back and see me sometime. I will play you something on the piano.\""
+          ]
+        },
+        {
+          "image": "at-ch3-p5-walking-home",
+          "imagePrompt": "Mike Mignola style for children: exterior view. Silvia (seventy-six) and Kristjan (10, backpack) walking slowly together along a wide tree-lined street in Tartu. The Emajõgi river visible in the distance ahead. Late golden hour light. Heavy ink outlines, flat shadows, warm cream and pale green palette.",
+          "paragraphs": [
+            "They walked back toward the river. Silvia said, \"That was harder than I thought. And better than I thought. I do not think I have ever done anything with my life quite as satisfying as that.\" Kristjan said, \"You did forty years of archive work.\" Silvia laughed. \"Yes. And most of it was necessary and dull. This — this was different.\" She walked slowly, using her small folding cane. \"Forty years I was in that library and did not deliver one. You are here for two weeks and we delivered one. There is a lesson in there for me, Kristjan, and I am too old to be quite comfortable learning it. But I think I am learning it anyway.\"",
+            "They stopped at the bridge over the Emajõgi. It was warm and golden and there were people on the water in small boats. Kristjan said, \"Will you deliver another one next year?\" Silvia thought. She said, \"Perhaps. One per summer. That would be about right. That would still leave — oh, seven thousand or so. I will not finish them. Nobody will. But one per summer, for as long as I have summers left, is not nothing. And when I stop coming to the library, perhaps you take the key.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Kristjan thought about that. He looked at the river. He said, \"I would want to keep doing it. When I am older.\" Silvia said, \"Then that is decided. In fifty years, some young person from our family will be delivering a letter written before anyone alive can remember, and they will not know that it started with a ten-year-old on a Friday afternoon in Tartu. That is a good thing to start. Come. I will walk you as far as the corner. Your mother is expecting you at five.\"",
+            "She walked him to his corner. She gave him a small quick kiss on the top of his head — Silvia was not a person who did this often — and she turned and walked back toward the bus station. Kristjan watched her go until she was small. Then he walked the last three blocks to his parents' apartment building, his small suitcase in his hand, thinking about a young man in Tartu in the winter of eighteen ninety-eight who had bought a small house behind the mill and had loved three things about a girl he never got to name aloud. He thought maybe, someday, when he was older, he would find out what the three things were. Or maybe he wouldn't. Maybe some things a letter did not need to say for the letter to still be worth delivering."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": ["family", "great-aunt", "estonia", "letters", "archive", "history"]
+}

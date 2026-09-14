@@ -1,0 +1,167 @@
+{
+  "id": "river-that-remembers-names",
+  "title": "The River That Remembers Names",
+  "subtitle": "A Week on the Rio Negro",
+  "author": null,
+  "summary": "Iracema is ten and spends the school holidays with her grandmother in a small ribeirinho community on the Rio Negro, deep in the Brazilian Amazon. Her grandmother is one of the last people in the village who knows the old ceremony — a very small, very private ritual, done once a year on a specific night in July, in which you speak the names of your dead to the river. This year, her grandmother has decided Iracema is old enough to come.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-river-that-remembers-names-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old girl (Iracema) with straight black hair to her waist, wearing a simple light cotton dress, standing beside her grandmother (Vovó Marisel, mid-seventies, small, weathered, in a dark faded floral dress) on the wooden porch of a small stilt house at the edge of the Rio Negro, at dusk. Both are looking out at the dark black water of the river, which reflects the pink and orange sunset sky. A small dugout canoe is tied to a wooden post at the water's edge. Behind the house: the dense wall of the Amazon rainforest, dark and enormous. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), deep sepia dark water, deep ink outlines, warm pink and orange sunset, small dusty rose (#FF5B8D) accent on their cheeks. Small margin at top and bottom for card padding.",
+  "category": "legend",
+  "isPremium": true,
+  "publishedAt": "2027-05-13",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Ribeirinho House",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rr-ch1-p1-village",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small ribeirinho community on the Rio Negro — a dozen simple wooden stilt houses built along the black-water riverbank, all raised on tall wooden posts because of the seasonal floods. Small dugout canoes tied to posts. The huge dark green wall of the Amazon rainforest behind. Warm afternoon light. A girl (Iracema, 10, in a simple cotton dress, small backpack) has just stepped off a small boat onto a wooden landing. Heavy black ink outlines, flat shadows, cream palette with deep greens and sepia.",
+          "paragraphs": [
+            "Iracema lived in Manaus, the big city in the middle of the Amazon. She was ten. But every year in July, for four weeks, she took the small passenger boat two days up the Rio Negro to a very small village called São João da Mata, where her grandmother lived. São João da Mata was a ribeirinho community — one of the small settlements of river-people scattered along the banks of the great rivers of the Amazon. There were maybe eighty people in it. It had one small school, one small church, one small general store, and about twenty houses, all built up on tall wooden stilts because the river rose and fell many meters between the wet and dry seasons.",
+            "Iracema's grandmother, Vovó Marisel, was seventy-six. She was small and thin and had straight white hair that she wore in a single long braid down her back. She had lived in São João da Mata her whole life. Her mother had lived there before her. And her mother's mother, and so on, back many generations. The family was mixed — mostly of caboclo people, which meant a mix of indigenous and Portuguese ancestry, going back centuries. Vovó Marisel spoke Portuguese but also spoke Nheengatu, an old lingua franca that had been used in the Amazon for hundreds of years and that almost nobody spoke anymore. She was one of maybe six people in the village who still knew it well."
+          ]
+        },
+        {
+          "image": "rr-ch1-p2-inside",
+          "imagePrompt": "Mike Mignola style for children: interior view of a simple wooden stilt house. One main room. Small kitchen area with a wood stove. A hammock strung up on one side. Wooden shutters open to the river view. Warm afternoon light. Vovó Marisel (seventies, small, white braid, simple faded dress) is at the wood stove stirring a pot. Iracema (10) sits at a small wooden table watching. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Vovó's house was small — one main room with a wood stove at one end, a small back room with a proper bed for guests, and a wide wooden porch at the front that looked out over the river. Vovó slept in a hammock in the main room. Iracema slept in the bed. There was no electricity in the house. There was a small solar panel that ran a single light bulb and could charge a phone. There was no running water — you carried water up from the river in a bucket, and boiled it before you drank it.",
+            "Iracema loved being at Vovó's. She loved the sounds — the river lapping under the house at high water, the frogs at night, the parrots at dawn, the wet howl of the howler monkeys deep in the forest sometimes. She loved the food — river fish, cassava flour, small papayas from the tree behind the house. She loved being with Vovó, who talked slowly and never seemed to be in a hurry. Manaus, which was where Iracema lived the rest of the year with her mother and stepfather, was fast and loud. São João da Mata was slow and quiet. Both were true. Iracema needed both."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "On the third evening of Iracema's visit, Vovó Marisel called her out onto the porch. It was about seven o'clock. The sun had set. The sky over the river was purple and gold. Vovó sat down on the wooden bench that ran along the porch railing. She patted the bench beside her. Iracema sat down. Vovó was quiet for a long moment. Then she said, \"Iracema. This year I want to take you to a small ceremony. It happens once a year, in July. Very few people go. Just — three or four of us. This year I want you to come. If you want.\" Iracema said, \"What kind of ceremony.\"",
+            "\"It is very small,\" said Vovó. \"It is not a religious ceremony — not exactly. It is an old thing. From before the church. It has been in our family — the women in our family — for maybe two hundred years. Maybe more. My mother taught me. Her mother taught her. It is called a nomeação de rio — a river-naming. On a specific night in July, when the moon is a specific shape, three women go out in a canoe onto the river, at a specific bend. And we — we speak the names of our dead into the river. That is all. We say the names out loud. The river hears them. Then we go home.\""
+          ]
+        },
+        {
+          "image": "rr-ch1-p4-question",
+          "imagePrompt": "Mike Mignola style for children: exterior porch scene at dusk. Iracema (10) turns to face her grandmother Vovó Marisel (seventies). Iracema's face has a serious question. Vovó Marisel waits patiently, her hands folded in her lap. Warm gold-purple evening light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Iracema said, \"What does that do. What is it for.\" Vovó Marisel thought for a while. She said, \"That is the question I asked my mother when she first told me about it. She said — it is for the dead. And it is for us. She said that when a person dies, their name is one of the things that survives them longest. If nobody says their name, eventually the name is gone. And when the name is gone, the person is really gone. So we — the women in our family — we go to the river once a year and we say the names. All the names. Our dead. Our mothers' dead. Their mothers' dead. Going back many generations. We say them out loud so the river hears. And the river carries them. That is what she told me.\"",
+            "\"Does the river really — hear,\" Iracema said. Vovó Marisel smiled a small smile. She said, \"I do not know if the river hears the way you and I hear. I am not sure. But I know that when we say the names, the names — feel spoken. That is a real thing. Whether the river is doing anything or not, we are doing something. We are keeping the names alive. That is what my mother said. That is what her mother said. Do you want to come this year.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Iracema said, \"Yes. I want to come.\" Vovó said, \"Good. It is on Saturday night. Four days from now. Between now and then I want you to help me remember the names. I do it every year — it is a long list, going back hundreds of years, and it is easy to forget one. My mother made me memorize them. I will teach you the ones from our family. You do not have to memorize them all this year. You just have to know them well enough to help me say them. Yes?\" Iracema nodded.",
+            "\"There is one more thing,\" said Vovó. \"Every woman who goes on the canoe adds — at the end — the names of her own most recent dead. Not the ones from the long list. The recent ones. The ones we knew ourselves. I add the names of my mother and my father, and my sister who died in the flu three years ago, and my husband. This year — if you come — you should think about what names you want to add. From your own life. You must have some.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The List",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rr-ch2-p1-teaching",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the small kitchen table. Vovó Marisel (seventies) sits across from Iracema (10) with an old worn notebook open between them. Vovó is reading names from the notebook, one hand on the page. Iracema listens carefully. Warm afternoon light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "The next three days, Vovó Marisel taught Iracema the names. She had a very old handwritten notebook that she had kept for maybe fifty years. In it were the names — many names. Written in careful old handwriting. Iracema read them one by one with her grandmother. Vovó would read a name aloud in Nheengatu, or in old Portuguese, or in a mixed way. Then she would read another. Then another. Iracema listened. Sometimes she asked who a person had been. Sometimes Vovó knew. Sometimes she said, \"Nobody knows anymore. But she was one of us. That is enough.\"",
+            "The list was about — Vovó counted — eighty names. Going back to a woman named Bartolomea, who had died in 1802. Vovó said, \"My mother said we do not know if there were names before Bartolomea. Maybe there were. Someone forgot. But from Bartolomea onward, the names have been kept. That is a long time.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Vovó,\" said Iracema, on the second afternoon. \"Who taught this to Bartolomea. Where did the ceremony come from.\" Vovó thought. She said, \"My mother said the ceremony came from the caboclo people of this region. It is a mix — some of it is from the indigenous people whose river this always was, before the Portuguese came, and some of it is from what the Portuguese brought. It is a mix. But — the going out on the river, and saying the names, and letting the water carry them — that part is very old. That part is from the people who were here first. That is what my mother told me. The Portuguese part is only the way we say them. Some of the names on the list are Portuguese names. Some of the names are indigenous names. Some of them are mixed. Like us.\"",
+            "Iracema thought about this. She thought about the fact that her name — Iracema — was an old indigenous name that a nineteenth-century Portuguese poet had used in a novel. She thought about how many people were going to say her name one day in a river, if she was lucky."
+          ]
+        },
+        {
+          "image": "rr-ch2-p3-own-names",
+          "imagePrompt": "Mike Mignola style for children: interior evening scene. Iracema (10) sits at the kitchen table with a small piece of paper and a pencil. She is writing very carefully. Warm evening lamp light. Vovó Marisel is not in the frame. Heavy ink outlines, flat shadows, cream palette with warm gold.",
+          "paragraphs": [
+            "On the third evening, Vovó told Iracema it was time for her to write down her own names. Not for memorization. Just — for herself. For Iracema to think about who she wanted to add to the ceremony on Saturday night. Iracema sat at the small kitchen table with a piece of paper and a pencil. She thought for a long time. She thought about her father — her biological father — who had died in a motorcycle accident when she was four. She barely remembered him. Her name was on the list because of him — she had been named after his mother. She would say his name. She wrote: Vitor Damasceno da Silva.",
+            "She thought about her mother's cousin, a woman named Tia Rosa, who had been like an aunt to Iracema when she was small, and who had died two years ago of cancer. She would say her name. She wrote: Rosa Aparecida Ferreira. She thought for a long time. She thought about a small friend from her school in Manaus — a boy named Guilherme who had been in her class in the first grade, and who had drowned in a swimming accident that same year. Iracema had not been close to him, but she had been in the classroom with him for six months, and she had been present in the school that day when the news had come, and she had never really forgotten. She wrote his name too: Guilherme Ferreira dos Santos."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "She looked at the three names for a long time. She thought — is that too many. She showed the list to Vovó. She said, \"Vovó. Is three too many. For a first time.\" Vovó looked at the list. She said, \"No. Three is a good number. You knew them all. They deserve to be spoken.\" She was quiet for a moment. Then she said, \"Iracema. I want to tell you something. Some of the women in our family have added one name a year. Some have added no names in some years and many in others. There is no rule. It is not about numbers. It is about — the people you knew who are gone. Whoever you want to name, you name. Whoever you do not want to name, you do not. It is completely your decision.\"",
+            "\"But,\" said Vovó, \"once you have said a name, that name is on the family list from then on. Do you understand? If you say Vitor Damasceno tomorrow night, next year — and every year — you or someone else has to say Vitor Damasceno. He is now on our list. Forever. That is how the list grows. So — think carefully. Not because you should not say him. But because — you are committing your family to remember him. Do you understand?\" Iracema said, \"Yes. I understand. I still want to say all three.\""
+          ]
+        },
+        {
+          "image": "rr-ch2-p5-saturday",
+          "imagePrompt": "Mike Mignola style for children: exterior scene at Vovó's porch on Saturday evening. Three women stand together preparing for the ceremony — Vovó Marisel (seventies), another older woman (Vovó Nazaré, also seventies), and a middle-aged woman (Tia Gilda, forties). Iracema (10) stands with them. All wear simple dark clothes. The setting sun casts warm gold light. Heavy ink outlines, flat shadows, cream palette.",
+          "paragraphs": [
+            "Saturday came. Two other women arrived at Vovó's house in the afternoon. Both were women from the village. Vovó Nazaré, who was seventy-two and lived at the far end of the village, and Tia Gilda, who was forty-two and was actually Vovó's godchild — a woman Vovó had helped raise after Tia Gilda's mother had died. All three of them were part of the small ceremony. Iracema knew them both. She had seen them all her life. They greeted her warmly. Tia Gilda said, \"Marisel told me you were coming this year. I am glad. I was ten when I first came too. Do not worry. It is not scary. It is beautiful.\"",
+            "They dressed simply — dark clothes, nothing bright. They ate a small supper together. They talked quietly, mostly about small things — the state of the river this year, some village news, the price of cassava flour. Iracema listened. She was calm. She did not feel nervous. She felt — she thought — she felt like she was becoming part of something. She had never really felt that before."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Canoe",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "rr-ch3-p1-launch",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene at the river's edge. A small wooden dugout canoe rests at the water. The three women (Vovó Marisel, Vovó Nazaré, Tia Gilda) and Iracema (10) are getting into it. Only starlight and a bright half moon. The black water reflects the moon. Heavy ink outlines, flat shadows, cool cream and deep dark palette with silver moonlight.",
+          "paragraphs": [
+            "They went to the river at about eight in the evening. It was fully dark. The moon was a specific shape — a bright half moon, sitting low in the eastern sky. Vovó Nazaré had brought her small dugout canoe, which was bigger than Vovó's own. It could hold four people comfortably. They pushed off from the wooden landing. Vovó Nazaré was at the front with a paddle. Vovó Marisel was at the back with another paddle. Tia Gilda and Iracema sat in the middle. The river was very calm. The water — because it was the Rio Negro — was so black in the dark that you could not see the surface at all. Only the moon reflected on it, in a long silver path.",
+            "They paddled slowly. Vovó Marisel and Vovó Nazaré knew where they were going. It was maybe fifteen minutes downstream to a specific bend where the river widened and where an ancient sandbar came almost to the surface in the middle. That was the place. Every year, the same place. They pulled the canoe up close to the sandbar and stopped there. They let the canoe drift slowly with the current. It moved almost imperceptibly. The night was very quiet. Even the frogs seemed quieter here. There were more stars than Iracema had ever seen."
+          ]
+        },
+        {
+          "image": "rr-ch3-p2-names",
+          "imagePrompt": "Mike Mignola style for children: exterior close view of the canoe on the water at night. The four women sit in a small circle. Vovó Marisel, in the moonlight, is speaking. Her mouth is open. Her face is turned slightly toward the water. Vovó Nazaré and Tia Gilda listen. Iracema (10) watches, wide eyes. Heavy ink outlines, flat shadows, cream palette with cool silver moonlight.",
+          "paragraphs": [
+            "Vovó Marisel began. She spoke slowly and clearly. She did not raise her voice — the ceremony was small, and quiet. She said, \"Bartolomea Ferreira, 1802.\" She paused. Then, \"Maria Ferreira, her daughter, 1834.\" She paused. Then, \"Ana Damasceno, 1861.\" Between each name she left a small silence, as if letting the name settle onto the water. She went through the whole long list, name by name. Some of the names Iracema had helped her practice. Some she had not. Vovó did not stumble. She said each one clearly. Iracema counted, without meaning to. Eighty-three names. The list took about fifteen minutes.",
+            "When she was done she paused for a long moment. Then she turned to Vovó Nazaré. Vovó Nazaré said, in her own voice, softer, \"Now the recent ones. From me. Adelaide, my mother, 2011. Osvaldo, my husband, 2020. Camila, my sister, 2023.\" Silence. Then she nodded to Tia Gilda. Tia Gilda said, \"Miguel, my brother, 2018. Silvia, my mother's cousin, 2022.\" Silence. Then all three women turned to Iracema."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Iracema was — she found — not nervous. She had practiced the three names. She had practiced saying them in a normal voice. She said, in her own voice, slowly and clearly, \"Vitor Damasceno da Silva. My father. 2018.\" She paused. She was surprised that she did not cry. She said, \"Rosa Aparecida Ferreira. My aunt. 2025.\" She paused. Then, in the smallest voice, \"Guilherme Ferreira dos Santos. My classmate. 2024.\" And then she was silent.",
+            "The four of them sat there for a long time. Maybe five minutes. Maybe ten. Nobody spoke. The canoe drifted very slowly with the current. The moon moved slightly across the sky. The stars did what stars do. Iracema thought about the three people whose names she had just said. She thought about the eighty-three people from the older list. She thought about how a river might hold names, if a river could hold anything. She thought — I do not know if the river heard. But I feel — I feel — different. As if something is set down that I did not know I had been carrying. That is not nothing. That is something."
+          ]
+        },
+        {
+          "image": "rr-ch3-p4-going-back",
+          "imagePrompt": "Mike Mignola style for children: exterior scene. The canoe with the four women slowly paddles back upstream toward the small village lights. The moon reflects on the black water. Heavy ink outlines, flat shadows, cream palette with cool silver moonlight and small warm gold village lights.",
+          "paragraphs": [
+            "When Vovó Marisel felt it was time — Iracema could not tell how she knew — Vovó began to paddle. They paddled slowly back upstream to the village. They did not talk on the way back. When they got to the wooden landing they helped each other out of the canoe. They walked back up to Vovó's house. Vovó had bread and tea ready. They sat at the table and ate a small quiet meal. Only then did anyone speak.",
+            "Vovó Nazaré said, quietly, \"Iracema. You did well. Your voice was very steady. You said the names as if you meant them. That is not always easy the first time.\" Iracema said, \"Thank you.\" Tia Gilda said, \"I remember my first time. I cried the whole way home. You did better than I did.\" Iracema said, \"I was not sad. Just — I was thinking a lot.\" Tia Gilda said, \"Yes. That is exactly right. Sometimes when we say the names, we are not sad. We are — moved. That is a good thing to feel.\""
+          ]
+        },
+        {
+          "image": "rr-ch3-p5-morning",
+          "imagePrompt": "Mike Mignola style for children: exterior morning scene at Vovó's porch. Iracema (10) sits alone on the porch bench looking out at the calm morning river. Warm morning light. Sky pale pink. Heavy ink outlines, flat shadows, cream palette with warm morning tones.",
+          "paragraphs": [
+            "The two other women slept at Vovó's house that night — Vovó Marisel in her hammock, Iracema in the small back bed, and Vovó Nazaré and Tia Gilda on two mattresses on the floor of the main room. Iracema slept deeply. She had strange calm dreams. She woke up early. She went out to the porch to watch the sun come up over the river. Vovó Marisel was already out there, drinking her morning coffee.",
+            "\"Vovó,\" Iracema said, sitting down beside her. \"Am I going to do it again next year?\" Vovó Marisel looked at her. She said, \"That is up to you, sweetheart. Some women in our family have done it every year of their lives after their first time. Some have done it only sometimes. There is no rule.\" \"I want to do it every year,\" said Iracema. \"For the rest of my life. If you will teach me all eighty-three names. So that when you are gone I can carry them. And then when I am old I can teach them to someone in our family.\" Vovó Marisel was quiet. She reached over. She took Iracema's small hand in her weathered one. She said, \"Then I will teach you. Every summer. For as long as I have. It will take five or six summers to teach you them all. That is fine. We have time. Come. Let us go make breakfast. And then this afternoon I will start with the earliest ones. Bartolomea. Maria. Ana. Come.\" And they went inside together, and the river went on doing what a river does, which is to hold whatever is put into it, and to keep going."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "family",
+    "grandmother",
+    "amazon",
+    "brazil",
+    "tradition"
+  ]
+}

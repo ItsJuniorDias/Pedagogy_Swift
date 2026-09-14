@@ -1,0 +1,679 @@
+{
+  "story_id": "cartographers-boy",
+  "chapter": 1,
+  "total_duration_ms": 380376,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Ben got off the small passenger ferry at the far northwest tip of Scotland at three in the afternoon on a Sunday in late June.",
+      "start_ms": 2351,
+      "end_ms": 11131
+    },
+    {
+      "index": 1,
+      "text": "The ferry was really just an open motorboat — it had crossed a sea loch called the Kyle of Durness, from one small pier on one side to an even smaller stone slipway on the other.",
+      "start_ms": 11131,
+      "end_ms": 23507
+    },
+    {
+      "index": 2,
+      "text": "There was no village at the slipway.",
+      "start_ms": 23507,
+      "end_ms": 26065
+    },
+    {
+      "index": 3,
+      "text": "There was one small stone building that used to be a post office and was now closed.",
+      "start_ms": 26065,
+      "end_ms": 31942
+    },
+    {
+      "index": 4,
+      "text": "There was a track leading off into the moor.",
+      "start_ms": 31942,
+      "end_ms": 35053
+    },
+    {
+      "index": 5,
+      "text": "That was all.",
+      "start_ms": 35053,
+      "end_ms": 36090
+    },
+    {
+      "index": 6,
+      "text": "There was one person waiting for him.",
+      "start_ms": 36090,
+      "end_ms": 38717
+    },
+    {
+      "index": 7,
+      "text": "A tall thin man in his mid-thirties, in a waxed-canvas coat and heavy hiking boots, with a dark beard, standing very still with a small backpack at his feet and a black-and-white border collie sitting beside him.",
+      "start_ms": 38717,
+      "end_ms": 53443
+    },
+    {
+      "index": 8,
+      "text": "When Ben stepped off the ferry, the man raised a hand.",
+      "start_ms": 53443,
+      "end_ms": 57246
+    },
+    {
+      "index": 9,
+      "text": "He did not smile.",
+      "start_ms": 57246,
+      "end_ms": 58491
+    },
+    {
+      "index": 10,
+      "text": "He said, \"Ben.\" Ben said, \"Fraser.\" The man nodded.",
+      "start_ms": 58491,
+      "end_ms": 62086
+    },
+    {
+      "index": 11,
+      "text": "He said, \"This is Cass.\" He put his hand on the dog's head.",
+      "start_ms": 62086,
+      "end_ms": 66234
+    },
+    {
+      "index": 12,
+      "text": "The dog wagged her tail once.",
+      "start_ms": 66234,
+      "end_ms": 68308
+    },
+    {
+      "index": 13,
+      "text": "\"Come on,\" said Fraser.",
+      "start_ms": 68308,
+      "end_ms": 69967
+    },
+    {
+      "index": 14,
+      "text": "\"We have about eleven kilometers to Kearvaig bothy.",
+      "start_ms": 69967,
+      "end_ms": 73563
+    },
+    {
+      "index": 15,
+      "text": "We should start.\" And he turned and started walking.",
+      "start_ms": 73563,
+      "end_ms": 77227
+    },
+    {
+      "index": 16,
+      "text": "Ben, after standing there for a second, hurried after him.",
+      "start_ms": 77227,
+      "end_ms": 81375
+    },
+    {
+      "index": 17,
+      "text": "Ben was twelve, and he lived in Edinburgh with his mother, and this was probably the strangest thing he had ever done.",
+      "start_ms": 81375,
+      "end_ms": 89602
+    },
+    {
+      "index": 18,
+      "text": "His mother had come up with the idea three months ago.",
+      "start_ms": 89602,
+      "end_ms": 93405
+    },
+    {
+      "index": 19,
+      "text": "She had said, \"I have a friend from university who I have not seen in twenty years.",
+      "start_ms": 93405,
+      "end_ms": 99213
+    },
+    {
+      "index": 20,
+      "text": "He is a cartographer.",
+      "start_ms": 99213,
+      "end_ms": 100734
+    },
+    {
+      "index": 21,
+      "text": "He works alone.",
+      "start_ms": 100734,
+      "end_ms": 101840
+    },
+    {
+      "index": 22,
+      "text": "He does not have any children.",
+      "start_ms": 101840,
+      "end_ms": 103983
+    },
+    {
+      "index": 23,
+      "text": "He wrote to me a few months ago and mentioned that if I knew any older children who wanted a genuine outdoor experience — not a summer camp — he would take one with him for a week's mapping trip in the far north.\" She had looked at Ben carefully.",
+      "start_ms": 103983,
+      "end_ms": 121060
+    },
+    {
+      "index": 24,
+      "text": "\"I thought of you.",
+      "start_ms": 121060,
+      "end_ms": 122374
+    },
+    {
+      "index": 25,
+      "text": "But it would be a hard trip.",
+      "start_ms": 122374,
+      "end_ms": 124379
+    },
+    {
+      "index": 26,
+      "text": "Long days walking.",
+      "start_ms": 124379,
+      "end_ms": 125692
+    },
+    {
+      "index": 27,
+      "text": "Camping in bothies.",
+      "start_ms": 125692,
+      "end_ms": 127075
+    },
+    {
+      "index": 28,
+      "text": "Not much company.",
+      "start_ms": 127075,
+      "end_ms": 128320
+    },
+    {
+      "index": 29,
+      "text": "Just him and a dog.",
+      "start_ms": 128320,
+      "end_ms": 129702
+    },
+    {
+      "index": 30,
+      "text": "What do you think?\"",
+      "start_ms": 129702,
+      "end_ms": 131016
+    },
+    {
+      "index": 31,
+      "text": "Ben had said yes.",
+      "start_ms": 131016,
+      "end_ms": 132146
+    },
+    {
+      "index": 32,
+      "text": "He was not exactly sure why.",
+      "start_ms": 132146,
+      "end_ms": 133965
+    },
+    {
+      "index": 33,
+      "text": "Something about the idea had grabbed him.",
+      "start_ms": 133965,
+      "end_ms": 136601
+    },
+    {
+      "index": 34,
+      "text": "He liked walking.",
+      "start_ms": 136601,
+      "end_ms": 137730
+    },
+    {
+      "index": 35,
+      "text": "He liked maps — he had a small collection of Ordnance Survey maps of the Highlands that he had saved his pocket money for.",
+      "start_ms": 137730,
+      "end_ms": 145449
+    },
+    {
+      "index": 36,
+      "text": "And the idea of going somewhere very remote with a stranger who was going to just work — not entertain him — had appealed to him in a way he could not really explain.",
+      "start_ms": 145449,
+      "end_ms": 155928
+    },
+    {
+      "index": 37,
+      "text": "His mother had said, \"He does not talk much, Ben.",
+      "start_ms": 155928,
+      "end_ms": 159066
+    },
+    {
+      "index": 38,
+      "text": "Just so you know.",
+      "start_ms": 159066,
+      "end_ms": 160195
+    },
+    {
+      "index": 39,
+      "text": "He is a lovely man but he is very quiet.",
+      "start_ms": 160195,
+      "end_ms": 162768
+    },
+    {
+      "index": 40,
+      "text": "Do not be offended.\" Ben had said, \"That is fine.\" Now, three months later, walking behind Fraser Gunn along a rough track across the moor, he was starting to understand what his mother had meant.",
+      "start_ms": 162768,
+      "end_ms": 175193
+    },
+    {
+      "index": 41,
+      "text": "Fraser walked fast.",
+      "start_ms": 175193,
+      "end_ms": 176448
+    },
+    {
+      "index": 42,
+      "text": "He did not talk.",
+      "start_ms": 176448,
+      "end_ms": 177515
+    },
+    {
+      "index": 43,
+      "text": "He did not look back.",
+      "start_ms": 177515,
+      "end_ms": 178895
+    },
+    {
+      "index": 44,
+      "text": "He walked with his eyes on the ground in front of him, or sometimes ahead at the horizon, or sometimes at Cass, who kept running out ahead of them and coming back.",
+      "start_ms": 178895,
+      "end_ms": 189187
+    },
+    {
+      "index": 45,
+      "text": "Ben walked behind.",
+      "start_ms": 189187,
+      "end_ms": 190379
+    },
+    {
+      "index": 46,
+      "text": "He was not offended.",
+      "start_ms": 190379,
+      "end_ms": 191697
+    },
+    {
+      "index": 47,
+      "text": "He had been warned.",
+      "start_ms": 191697,
+      "end_ms": 192952
+    },
+    {
+      "index": 48,
+      "text": "But he was surprised at how completely Fraser walked in his own head.",
+      "start_ms": 192952,
+      "end_ms": 197344
+    },
+    {
+      "index": 49,
+      "text": "It was as if Ben was almost not there.",
+      "start_ms": 197344,
+      "end_ms": 199791
+    },
+    {
+      "index": 50,
+      "text": "Fraser did not check to see if he was keeping up.",
+      "start_ms": 199791,
+      "end_ms": 202929
+    },
+    {
+      "index": 51,
+      "text": "Ben was keeping up, but only just — Fraser's legs were much longer than his.",
+      "start_ms": 202929,
+      "end_ms": 207824
+    },
+    {
+      "index": 52,
+      "text": "They walked for maybe two hours.",
+      "start_ms": 207824,
+      "end_ms": 209894
+    },
+    {
+      "index": 53,
+      "text": "They passed a small freshwater loch.",
+      "start_ms": 209894,
+      "end_ms": 212216
+    },
+    {
+      "index": 54,
+      "text": "They passed a group of five red deer that watched them from a hilltop, then bounded away.",
+      "start_ms": 212216,
+      "end_ms": 217864
+    },
+    {
+      "index": 55,
+      "text": "Fraser did not stop.",
+      "start_ms": 217864,
+      "end_ms": 219182
+    },
+    {
+      "index": 56,
+      "text": "Ben wanted to look at the deer for longer but he did not want to fall behind.",
+      "start_ms": 219182,
+      "end_ms": 224076
+    },
+    {
+      "index": 57,
+      "text": "Once Fraser stopped for a moment — he pulled a small notebook out of his jacket pocket, wrote something in it, and put it away again.",
+      "start_ms": 224076,
+      "end_ms": 232485
+    },
+    {
+      "index": 58,
+      "text": "He did not explain.",
+      "start_ms": 232485,
+      "end_ms": 233740
+    },
+    {
+      "index": 59,
+      "text": "He kept walking.",
+      "start_ms": 233740,
+      "end_ms": 234744
+    },
+    {
+      "index": 60,
+      "text": "They arrived at Kearvaig bothy just before six in the evening.",
+      "start_ms": 234744,
+      "end_ms": 238628
+    },
+    {
+      "index": 61,
+      "text": "It was a small whitewashed stone building — one room, no electricity, no running water — standing alone on a wide beach at the mouth of a small stream, with the open sea beyond and green hills coming down to it on the other three sides.",
+      "start_ms": 238628,
+      "end_ms": 253240
+    },
+    {
+      "index": 62,
+      "text": "Ben had never seen a more beautiful place.",
+      "start_ms": 253240,
+      "end_ms": 255891
+    },
+    {
+      "index": 63,
+      "text": "He stopped for a moment, just to look.",
+      "start_ms": 255891,
+      "end_ms": 258295
+    },
+    {
+      "index": 64,
+      "text": "Fraser had gone ahead to the door.",
+      "start_ms": 258295,
+      "end_ms": 260453
+    },
+    {
+      "index": 65,
+      "text": "He turned around.",
+      "start_ms": 260453,
+      "end_ms": 261563
+    },
+    {
+      "index": 66,
+      "text": "He noticed Ben looking.",
+      "start_ms": 261563,
+      "end_ms": 263042
+    },
+    {
+      "index": 67,
+      "text": "For the first time, he seemed to actually see Ben, actually notice him.",
+      "start_ms": 263042,
+      "end_ms": 267481
+    },
+    {
+      "index": 68,
+      "text": "He said, \"Yes.",
+      "start_ms": 267481,
+      "end_ms": 268406
+    },
+    {
+      "index": 69,
+      "text": "It is a good spot.",
+      "start_ms": 268406,
+      "end_ms": 269577
+    },
+    {
+      "index": 70,
+      "text": "Come on.",
+      "start_ms": 269577,
+      "end_ms": 270132
+    },
+    {
+      "index": 71,
+      "text": "Let's get the fire on before it gets cold.\"",
+      "start_ms": 270132,
+      "end_ms": 272907
+    },
+    {
+      "index": 72,
+      "text": "Inside the bothy there was a stone fireplace, a couple of wooden sleeping platforms, a small table, and a candle stub.",
+      "start_ms": 272907,
+      "end_ms": 280243
+    },
+    {
+      "index": 73,
+      "text": "Fraser built a fire.",
+      "start_ms": 280243,
+      "end_ms": 281538
+    },
+    {
+      "index": 74,
+      "text": "He was quick and efficient.",
+      "start_ms": 281538,
+      "end_ms": 283264
+    },
+    {
+      "index": 75,
+      "text": "He boiled water on a small camping stove.",
+      "start_ms": 283264,
+      "end_ms": 285853
+    },
+    {
+      "index": 76,
+      "text": "He made them each a mug of tea and handed one to Ben without speaking.",
+      "start_ms": 285853,
+      "end_ms": 290231
+    },
+    {
+      "index": 77,
+      "text": "He set out a small meal — dried food, bread, cheese, chocolate.",
+      "start_ms": 290231,
+      "end_ms": 294176
+    },
+    {
+      "index": 78,
+      "text": "They ate together at the small table.",
+      "start_ms": 294176,
+      "end_ms": 296519
+    },
+    {
+      "index": 79,
+      "text": "Fraser did not talk during dinner.",
+      "start_ms": 296519,
+      "end_ms": 298677
+    },
+    {
+      "index": 80,
+      "text": "Ben was starting to feel weird about the silence but he decided to just be quiet too.",
+      "start_ms": 298677,
+      "end_ms": 303979
+    },
+    {
+      "index": 81,
+      "text": "He was not going to fill the silence out of nervousness.",
+      "start_ms": 303979,
+      "end_ms": 307493
+    },
+    {
+      "index": 82,
+      "text": "He was going to try to be like Fraser.",
+      "start_ms": 307493,
+      "end_ms": 309959
+    },
+    {
+      "index": 83,
+      "text": "After supper Fraser did the dishes with water from the stream.",
+      "start_ms": 309959,
+      "end_ms": 313843
+    },
+    {
+      "index": 84,
+      "text": "He came back inside.",
+      "start_ms": 313843,
+      "end_ms": 315138
+    },
+    {
+      "index": 85,
+      "text": "He got out his notebook.",
+      "start_ms": 315138,
+      "end_ms": 316679
+    },
+    {
+      "index": 86,
+      "text": "He sat by the fire with it open on his knee.",
+      "start_ms": 316679,
+      "end_ms": 319454
+    },
+    {
+      "index": 87,
+      "text": "He wrote for maybe twenty minutes, making small careful marks.",
+      "start_ms": 319454,
+      "end_ms": 323338
+    },
+    {
+      "index": 88,
+      "text": "Ben watched him.",
+      "start_ms": 323338,
+      "end_ms": 324386
+    },
+    {
+      "index": 89,
+      "text": "Eventually Fraser noticed Ben watching.",
+      "start_ms": 324386,
+      "end_ms": 326852
+    },
+    {
+      "index": 90,
+      "text": "He looked up.",
+      "start_ms": 326852,
+      "end_ms": 327715
+    },
+    {
+      "index": 91,
+      "text": "He seemed slightly surprised, as if he had forgotten Ben was there.",
+      "start_ms": 327715,
+      "end_ms": 331907
+    },
+    {
+      "index": 92,
+      "text": "He said, \"Sorry.",
+      "start_ms": 331907,
+      "end_ms": 332955
+    },
+    {
+      "index": 93,
+      "text": "I get lost.",
+      "start_ms": 332955,
+      "end_ms": 333695
+    },
+    {
+      "index": 94,
+      "text": "When I am mapping.\" He paused.",
+      "start_ms": 333695,
+      "end_ms": 335606
+    },
+    {
+      "index": 95,
+      "text": "Then he said, in a voice that was still quiet but a little warmer, \"Do you want to know what I am doing.\" Ben said, \"Yes.\"",
+      "start_ms": 335606,
+      "end_ms": 343128
+    },
+    {
+      "index": 96,
+      "text": "\"I am mapping a trail,\" said Fraser.",
+      "start_ms": 343128,
+      "end_ms": 345164
+    },
+    {
+      "index": 97,
+      "text": "He turned the notebook so Ben could see.",
+      "start_ms": 345164,
+      "end_ms": 347419
+    },
+    {
+      "index": 98,
+      "text": "It had a rough drawing of a coastline, and a dotted line running along it, with small careful notes at various points along the dotted line.",
+      "start_ms": 347419,
+      "end_ms": 355177
+    },
+    {
+      "index": 99,
+      "text": "\"This trail.",
+      "start_ms": 355177,
+      "end_ms": 355892
+    },
+    {
+      "index": 100,
+      "text": "From the ferry to here.",
+      "start_ms": 355892,
+      "end_ms": 357213
+    },
+    {
+      "index": 101,
+      "text": "And onward.",
+      "start_ms": 357213,
+      "end_ms": 357873
+    },
+    {
+      "index": 102,
+      "text": "Nobody has ever properly mapped it.",
+      "start_ms": 357873,
+      "end_ms": 359854
+    },
+    {
+      "index": 103,
+      "text": "There are Ordnance Survey maps of this area, of course, but they show the coastline and the main tracks.",
+      "start_ms": 359854,
+      "end_ms": 365631
+    },
+    {
+      "index": 104,
+      "text": "They do not show the exact route of the walker's path — where you actually step.",
+      "start_ms": 365631,
+      "end_ms": 370087
+    },
+    {
+      "index": 105,
+      "text": "That is a slightly different thing.",
+      "start_ms": 370087,
+      "end_ms": 372068
+    },
+    {
+      "index": 106,
+      "text": "I am mapping the walker's path.",
+      "start_ms": 372068,
+      "end_ms": 373829
+    },
+    {
+      "index": 107,
+      "text": "Every rock.",
+      "start_ms": 373829,
+      "end_ms": 374489
+    },
+    {
+      "index": 108,
+      "text": "Every stream.",
+      "start_ms": 374489,
+      "end_ms": 375259
+    },
+    {
+      "index": 109,
+      "text": "Where the path narrows.",
+      "start_ms": 375259,
+      "end_ms": 376580
+    },
+    {
+      "index": 110,
+      "text": "Where it goes underwater at high tide.",
+      "start_ms": 376580,
+      "end_ms": 378725
+    },
+    {
+      "index": 111,
+      "text": "That is my job for this week.\"",
+      "start_ms": 378725,
+      "end_ms": 380376
+    }
+  ]
+}

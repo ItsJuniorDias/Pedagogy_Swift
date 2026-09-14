@@ -1,0 +1,721 @@
+{
+  "story_id": "clockmaker-of-praha",
+  "chapter": 3,
+  "total_duration_ms": 297936,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "When the door closed, Klara said, \"Uncle Tomáš.",
+      "start_ms": 1632,
+      "end_ms": 4646
+    },
+    {
+      "index": 1,
+      "text": "What did you mean, she can have both.\" Uncle Tomáš had opened the watch and was looking at its insides.",
+      "start_ms": 4646,
+      "end_ms": 11176
+    },
+    {
+      "index": 2,
+      "text": "He did not answer right away.",
+      "start_ms": 11176,
+      "end_ms": 13059
+    },
+    {
+      "index": 3,
+      "text": "He was working carefully with a small brass tool, cleaning old oil from the mechanism.",
+      "start_ms": 13059,
+      "end_ms": 18522
+    },
+    {
+      "index": 4,
+      "text": "\"Come here,\" he said.",
+      "start_ms": 18522,
+      "end_ms": 19903
+    },
+    {
+      "index": 5,
+      "text": "\"Watch me.\" Klara moved closer.",
+      "start_ms": 19903,
+      "end_ms": 21912
+    },
+    {
+      "index": 6,
+      "text": "She leaned against the bench beside him.",
+      "start_ms": 21912,
+      "end_ms": 24549
+    },
+    {
+      "index": 7,
+      "text": "\"I am going to fix this watch,\" he said.",
+      "start_ms": 24549,
+      "end_ms": 27123
+    },
+    {
+      "index": 8,
+      "text": "\"That is easy.",
+      "start_ms": 27123,
+      "end_ms": 28065
+    },
+    {
+      "index": 9,
+      "text": "The mechanism is fine.",
+      "start_ms": 28065,
+      "end_ms": 29509
+    },
+    {
+      "index": 10,
+      "text": "It only needs cleaning.",
+      "start_ms": 29509,
+      "end_ms": 31016
+    },
+    {
+      "index": 11,
+      "text": "But before I start it running, I am going to do something else.\" He set down the tool and reached into a drawer.",
+      "start_ms": 31016,
+      "end_ms": 38110
+    },
+    {
+      "index": 12,
+      "text": "He took out a very small brass ring — smaller than her fingernail — and a very small pin.",
+      "start_ms": 38110,
+      "end_ms": 43761
+    },
+    {
+      "index": 13,
+      "text": "\"I am going to open the front of the watch.",
+      "start_ms": 43761,
+      "end_ms": 46524
+    },
+    {
+      "index": 14,
+      "text": "And I am going to fix a tiny thing to the back of the face.",
+      "start_ms": 46524,
+      "end_ms": 50291
+    },
+    {
+      "index": 15,
+      "text": "Where the second hand goes.",
+      "start_ms": 50291,
+      "end_ms": 52049
+    },
+    {
+      "index": 16,
+      "text": "Right at the 4:47 position.",
+      "start_ms": 52049,
+      "end_ms": 53807
+    },
+    {
+      "index": 17,
+      "text": "A small pin.",
+      "start_ms": 53807,
+      "end_ms": 54623
+    },
+    {
+      "index": 18,
+      "text": "Almost invisible.\"",
+      "start_ms": 54623,
+      "end_ms": 55879
+    },
+    {
+      "index": 19,
+      "text": "\"Why,\" said Klara.",
+      "start_ms": 55879,
+      "end_ms": 57071
+    },
+    {
+      "index": 20,
+      "text": "Uncle Tomáš said, \"Because the watch will run again.",
+      "start_ms": 57071,
+      "end_ms": 60399
+    },
+    {
+      "index": 21,
+      "text": "But every time the second hand passes over that spot, it will make a very small clicking sound.",
+      "start_ms": 60399,
+      "end_ms": 66426
+    },
+    {
+      "index": 22,
+      "text": "Very small.",
+      "start_ms": 66426,
+      "end_ms": 67180
+    },
+    {
+      "index": 23,
+      "text": "You have to know to listen for it.",
+      "start_ms": 67180,
+      "end_ms": 69377
+    },
+    {
+      "index": 24,
+      "text": "Nobody else will hear it.",
+      "start_ms": 69377,
+      "end_ms": 71010
+    },
+    {
+      "index": 25,
+      "text": "But she will.",
+      "start_ms": 71010,
+      "end_ms": 71889
+    },
+    {
+      "index": 26,
+      "text": "Every time the second hand goes past 4:47, the watch will click, once.",
+      "start_ms": 71889,
+      "end_ms": 76346
+    },
+    {
+      "index": 27,
+      "text": "And she will hear it.",
+      "start_ms": 76346,
+      "end_ms": 77728
+    },
+    {
+      "index": 28,
+      "text": "And she will remember.\"",
+      "start_ms": 77728,
+      "end_ms": 79297
+    },
+    {
+      "index": 29,
+      "text": "\"So the watch runs but it also does not forget,\" Klara said slowly.",
+      "start_ms": 79297,
+      "end_ms": 83567
+    },
+    {
+      "index": 30,
+      "text": "\"Yes,\" said Uncle Tomáš.",
+      "start_ms": 83567,
+      "end_ms": 85136
+    },
+    {
+      "index": 31,
+      "text": "\"That is what I meant.",
+      "start_ms": 85136,
+      "end_ms": 86580
+    },
+    {
+      "index": 32,
+      "text": "That is what she wanted.",
+      "start_ms": 86580,
+      "end_ms": 88150
+    },
+    {
+      "index": 33,
+      "text": "The watch that runs for her daughter.",
+      "start_ms": 88150,
+      "end_ms": 90536
+    },
+    {
+      "index": 34,
+      "text": "And, inside that watch, still there, still real, the moment that mattered.",
+      "start_ms": 90536,
+      "end_ms": 95245
+    },
+    {
+      "index": 35,
+      "text": "Not gone.",
+      "start_ms": 95245,
+      "end_ms": 95873
+    },
+    {
+      "index": 36,
+      "text": "Just — quiet.",
+      "start_ms": 95873,
+      "end_ms": 96752
+    },
+    {
+      "index": 37,
+      "text": "Present.\" Klara stood there for a while, watching him work.",
+      "start_ms": 96752,
+      "end_ms": 100519
+    },
+    {
+      "index": 38,
+      "text": "He set the small pin in with tweezers so tiny she could not see them properly.",
+      "start_ms": 100519,
+      "end_ms": 105479
+    },
+    {
+      "index": 39,
+      "text": "He closed the back of the watch.",
+      "start_ms": 105479,
+      "end_ms": 107551
+    },
+    {
+      "index": 40,
+      "text": "He turned it right side up.",
+      "start_ms": 107551,
+      "end_ms": 109309
+    },
+    {
+      "index": 41,
+      "text": "He wound it.",
+      "start_ms": 109309,
+      "end_ms": 110125
+    },
+    {
+      "index": 42,
+      "text": "He listened to it.",
+      "start_ms": 110125,
+      "end_ms": 111318
+    },
+    {
+      "index": 43,
+      "text": "It ticked, smoothly, evenly.",
+      "start_ms": 111318,
+      "end_ms": 113138
+    },
+    {
+      "index": 44,
+      "text": "And every so often, if you listened carefully, you could hear a very small click.",
+      "start_ms": 113138,
+      "end_ms": 118224
+    },
+    {
+      "index": 45,
+      "text": "The woman came back on Saturday morning.",
+      "start_ms": 118224,
+      "end_ms": 120466
+    },
+    {
+      "index": 46,
+      "text": "Uncle Tomáš put the watch on the counter for her.",
+      "start_ms": 120466,
+      "end_ms": 123200
+    },
+    {
+      "index": 47,
+      "text": "She picked it up.",
+      "start_ms": 123200,
+      "end_ms": 124184
+    },
+    {
+      "index": 48,
+      "text": "She held it in her palm.",
+      "start_ms": 124184,
+      "end_ms": 125551
+    },
+    {
+      "index": 49,
+      "text": "She looked at him.",
+      "start_ms": 125551,
+      "end_ms": 126590
+    },
+    {
+      "index": 50,
+      "text": "She waited.",
+      "start_ms": 126590,
+      "end_ms": 127246
+    },
+    {
+      "index": 51,
+      "text": "He said, \"Listen.\" She held it up close to her ear.",
+      "start_ms": 127246,
+      "end_ms": 130089
+    },
+    {
+      "index": 52,
+      "text": "She listened.",
+      "start_ms": 130089,
+      "end_ms": 130855
+    },
+    {
+      "index": 53,
+      "text": "For a moment she did not hear anything.",
+      "start_ms": 130855,
+      "end_ms": 133042
+    },
+    {
+      "index": 54,
+      "text": "Then, at exactly 4:47 seconds, there was a small click.",
+      "start_ms": 133042,
+      "end_ms": 136104
+    },
+    {
+      "index": 55,
+      "text": "Just one.",
+      "start_ms": 136104,
+      "end_ms": 136651
+    },
+    {
+      "index": 56,
+      "text": "Very small.",
+      "start_ms": 136651,
+      "end_ms": 137362
+    },
+    {
+      "index": 57,
+      "text": "Her breath caught.",
+      "start_ms": 137362,
+      "end_ms": 138401
+    },
+    {
+      "index": 58,
+      "text": "She looked at Uncle Tomáš.",
+      "start_ms": 138401,
+      "end_ms": 139877
+    },
+    {
+      "index": 59,
+      "text": "He nodded, once.",
+      "start_ms": 139877,
+      "end_ms": 140807
+    },
+    {
+      "index": 60,
+      "text": "She listened again.",
+      "start_ms": 140807,
+      "end_ms": 141900
+    },
+    {
+      "index": 61,
+      "text": "Sixty seconds later — click.",
+      "start_ms": 141900,
+      "end_ms": 143486
+    },
+    {
+      "index": 62,
+      "text": "Again.",
+      "start_ms": 143486,
+      "end_ms": 143869
+    },
+    {
+      "index": 63,
+      "text": "Every minute.",
+      "start_ms": 143869,
+      "end_ms": 144634
+    },
+    {
+      "index": 64,
+      "text": "Every time the second hand crossed the same spot on the face.",
+      "start_ms": 144634,
+      "end_ms": 148024
+    },
+    {
+      "index": 65,
+      "text": "She started to cry, but not sad crying.",
+      "start_ms": 148024,
+      "end_ms": 150212
+    },
+    {
+      "index": 66,
+      "text": "She was smiling.",
+      "start_ms": 150212,
+      "end_ms": 151141
+    },
+    {
+      "index": 67,
+      "text": "She wiped her eyes.",
+      "start_ms": 151141,
+      "end_ms": 152235
+    },
+    {
+      "index": 68,
+      "text": "She said, quietly, \"He is still in it.\" Uncle Tomáš said, \"He is still in it.",
+      "start_ms": 152235,
+      "end_ms": 156500
+    },
+    {
+      "index": 69,
+      "text": "But you can give it to your daughter now.",
+      "start_ms": 156500,
+      "end_ms": 158796
+    },
+    {
+      "index": 70,
+      "text": "You have both.\"",
+      "start_ms": 158796,
+      "end_ms": 159726
+    },
+    {
+      "index": 71,
+      "text": "The woman paid him very carefully.",
+      "start_ms": 159726,
+      "end_ms": 161640
+    },
+    {
+      "index": 72,
+      "text": "She did not ask the price.",
+      "start_ms": 161640,
+      "end_ms": 163116
+    },
+    {
+      "index": 73,
+      "text": "She just handed him a folded set of bills, which Klara later saw was more than Uncle Tomáš would ever have asked for, and he did not refuse it.",
+      "start_ms": 163116,
+      "end_ms": 170990
+    },
+    {
+      "index": 74,
+      "text": "He only nodded, and folded it into his apron pocket.",
+      "start_ms": 170990,
+      "end_ms": 173888
+    },
+    {
+      "index": 75,
+      "text": "The woman thanked him again.",
+      "start_ms": 173888,
+      "end_ms": 175473
+    },
+    {
+      "index": 76,
+      "text": "She hugged him — awkwardly, at the counter, with the watch in her hand.",
+      "start_ms": 175473,
+      "end_ms": 179410
+    },
+    {
+      "index": 77,
+      "text": "He hugged her back briefly.",
+      "start_ms": 179410,
+      "end_ms": 180941
+    },
+    {
+      "index": 78,
+      "text": "And then she was gone.",
+      "start_ms": 180941,
+      "end_ms": 182254
+    },
+    {
+      "index": 79,
+      "text": "Klara sat quietly on her stool for a long time after that.",
+      "start_ms": 182254,
+      "end_ms": 185480
+    },
+    {
+      "index": 80,
+      "text": "Uncle Tomáš went back to his bench.",
+      "start_ms": 185480,
+      "end_ms": 187448
+    },
+    {
+      "index": 81,
+      "text": "He did not talk right away.",
+      "start_ms": 187448,
+      "end_ms": 188979
+    },
+    {
+      "index": 82,
+      "text": "He was doing something with the small pin drawer.",
+      "start_ms": 188979,
+      "end_ms": 191713
+    },
+    {
+      "index": 83,
+      "text": "After a while he said, without looking up, \"Klárka.\" \"Yes.\" \"That is what I do.",
+      "start_ms": 191713,
+      "end_ms": 196088
+    },
+    {
+      "index": 84,
+      "text": "Not the fixing part.",
+      "start_ms": 196088,
+      "end_ms": 197236
+    },
+    {
+      "index": 85,
+      "text": "Any clockmaker can do the fixing part.",
+      "start_ms": 197236,
+      "end_ms": 199368
+    },
+    {
+      "index": 86,
+      "text": "That other part.",
+      "start_ms": 199368,
+      "end_ms": 200298
+    },
+    {
+      "index": 87,
+      "text": "That is why my shop is small and quiet and hard to find.",
+      "start_ms": 200298,
+      "end_ms": 203415
+    },
+    {
+      "index": 88,
+      "text": "Because you do not want too many customers of that kind.",
+      "start_ms": 203415,
+      "end_ms": 206531
+    },
+    {
+      "index": 89,
+      "text": "You want the ones who need you.",
+      "start_ms": 206531,
+      "end_ms": 208281
+    },
+    {
+      "index": 90,
+      "text": "Nobody else.\"",
+      "start_ms": 208281,
+      "end_ms": 208992
+    },
+    {
+      "index": 91,
+      "text": "Klara spent the rest of the week with Uncle Tomáš.",
+      "start_ms": 208992,
+      "end_ms": 212320
+    },
+    {
+      "index": 92,
+      "text": "He showed her more things.",
+      "start_ms": 212320,
+      "end_ms": 214082
+    },
+    {
+      "index": 93,
+      "text": "How to hear if a clock had a bent tooth just by listening.",
+      "start_ms": 214082,
+      "end_ms": 217932
+    },
+    {
+      "index": 94,
+      "text": "How to tell if a watch had been dropped by looking at the crystal.",
+      "start_ms": 217932,
+      "end_ms": 222304
+    },
+    {
+      "index": 95,
+      "text": "How to talk to a customer whose eyes were doing something specific.",
+      "start_ms": 222304,
+      "end_ms": 226742
+    },
+    {
+      "index": 96,
+      "text": "Klara was not going to become a clockmaker — she knew that, and Uncle Tomáš knew it too — but he was still teaching her.",
+      "start_ms": 226742,
+      "end_ms": 234638
+    },
+    {
+      "index": 97,
+      "text": "She thought about that a lot.",
+      "start_ms": 234638,
+      "end_ms": 236595
+    },
+    {
+      "index": 98,
+      "text": "She thought maybe some things you should learn even if you were not going to use them, because someone should know them, and they should not disappear when the person who knows them stops.",
+      "start_ms": 236595,
+      "end_ms": 248994
+    },
+    {
+      "index": 99,
+      "text": "On her last morning, Uncle Tomáš gave her something.",
+      "start_ms": 248994,
+      "end_ms": 252453
+    },
+    {
+      "index": 100,
+      "text": "It was a very small watch on a chain.",
+      "start_ms": 252453,
+      "end_ms": 254932
+    },
+    {
+      "index": 101,
+      "text": "Silver, plain, ordinary.",
+      "start_ms": 254932,
+      "end_ms": 256564
+    },
+    {
+      "index": 102,
+      "text": "Old.",
+      "start_ms": 256564,
+      "end_ms": 256890
+    },
+    {
+      "index": 103,
+      "text": "\"This was your great-grandmother's,\" he said.",
+      "start_ms": 256890,
+      "end_ms": 259892
+    },
+    {
+      "index": 104,
+      "text": "\"My mother's.",
+      "start_ms": 259892,
+      "end_ms": 260805
+    },
+    {
+      "index": 105,
+      "text": "It runs.",
+      "start_ms": 260805,
+      "end_ms": 261393
+    },
+    {
+      "index": 106,
+      "text": "It has always run.",
+      "start_ms": 261393,
+      "end_ms": 262632
+    },
+    {
+      "index": 107,
+      "text": "But it needs winding once a week.",
+      "start_ms": 262632,
+      "end_ms": 264851
+    },
+    {
+      "index": 108,
+      "text": "Every Sunday.",
+      "start_ms": 264851,
+      "end_ms": 265765
+    },
+    {
+      "index": 109,
+      "text": "Do not forget.",
+      "start_ms": 265765,
+      "end_ms": 266744
+    },
+    {
+      "index": 110,
+      "text": "If it stops — bring it to me.",
+      "start_ms": 266744,
+      "end_ms": 268701
+    },
+    {
+      "index": 111,
+      "text": "Do not fix it yourself.",
+      "start_ms": 268701,
+      "end_ms": 270267
+    },
+    {
+      "index": 112,
+      "text": "Bring it to me.",
+      "start_ms": 270267,
+      "end_ms": 271312
+    },
+    {
+      "index": 113,
+      "text": "Or, someday, if I am not here anymore — bring it to a clockmaker who has a very small shop that is hard to find.",
+      "start_ms": 271312,
+      "end_ms": 278685
+    },
+    {
+      "index": 114,
+      "text": "Do you understand.\" Klara said yes.",
+      "start_ms": 278685,
+      "end_ms": 281035
+    },
+    {
+      "index": 115,
+      "text": "She took the watch.",
+      "start_ms": 281035,
+      "end_ms": 282340
+    },
+    {
+      "index": 116,
+      "text": "She put it in her pocket.",
+      "start_ms": 282340,
+      "end_ms": 284036
+    },
+    {
+      "index": 117,
+      "text": "She hugged him hard.",
+      "start_ms": 284036,
+      "end_ms": 285407
+    },
+    {
+      "index": 118,
+      "text": "And she went home to her new apartment, and she wound the watch every Sunday for many years, and it did not stop, though sometimes she wished it would, just so she would have to bring it back.",
+      "start_ms": 285407,
+      "end_ms": 297936
+    }
+  ]
+}

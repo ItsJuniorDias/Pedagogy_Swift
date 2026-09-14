@@ -1,0 +1,565 @@
+{
+  "story_id": "thousand-steps",
+  "chapter": 1,
+  "total_duration_ms": 370800,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Diego was eleven and lived in Lima, in a small apartment near the sea, in a neighborhood where the air was thick and grey most of the year.",
+      "start_ms": 2092,
+      "end_ms": 10459
+    },
+    {
+      "index": 1,
+      "text": "His mother was a lawyer.",
+      "start_ms": 10459,
+      "end_ms": 11953
+    },
+    {
+      "index": 2,
+      "text": "His father was a journalist.",
+      "start_ms": 11953,
+      "end_ms": 13686
+    },
+    {
+      "index": 3,
+      "text": "And every July, in the middle of the school holidays, Diego flew from Lima to Cusco — a one-hour flight up over the Andes — to spend three weeks with his father's father.",
+      "start_ms": 13686,
+      "end_ms": 23906
+    },
+    {
+      "index": 4,
+      "text": "His grandfather, whom Diego called Abuelo Manuel, lived in a small stone-and-adobe house on the steep edge of the old city, with a view down over the terracotta rooftops and the surrounding hills.",
+      "start_ms": 23906,
+      "end_ms": 35679
+    },
+    {
+      "index": 5,
+      "text": "Manuel was seventy-two.",
+      "start_ms": 35679,
+      "end_ms": 37113
+    },
+    {
+      "index": 6,
+      "text": "He had been a working architect for fifty years — he had designed schools and clinics and libraries in small towns all across the Peruvian sierra — and had retired six years ago.",
+      "start_ms": 37113,
+      "end_ms": 47811
+    },
+    {
+      "index": 7,
+      "text": "He now spent his days reading, walking, and, most consistently, sitting at a small table by the window with a leather-bound sketchbook open in front of him.",
+      "start_ms": 47811,
+      "end_ms": 57254
+    },
+    {
+      "index": 8,
+      "text": "The sketchbook was the first thing Diego noticed on arriving each July.",
+      "start_ms": 57254,
+      "end_ms": 61557
+    },
+    {
+      "index": 9,
+      "text": "It was always on the table.",
+      "start_ms": 61557,
+      "end_ms": 63230
+    },
+    {
+      "index": 10,
+      "text": "It was small and dark and softened with age.",
+      "start_ms": 63230,
+      "end_ms": 65920
+    },
+    {
+      "index": 11,
+      "text": "It had a plain cover with no writing on it.",
+      "start_ms": 65920,
+      "end_ms": 68549
+    },
+    {
+      "index": 12,
+      "text": "Diego had asked once, when he was eight, if he could look at it.",
+      "start_ms": 68549,
+      "end_ms": 72434
+    },
+    {
+      "index": 13,
+      "text": "Manuel had said, in his very quiet way, \"When you are older, Diego.",
+      "start_ms": 72434,
+      "end_ms": 76498
+    },
+    {
+      "index": 14,
+      "text": "That book is my whole thinking life.",
+      "start_ms": 76498,
+      "end_ms": 78709
+    },
+    {
+      "index": 15,
+      "text": "It is not for children.",
+      "start_ms": 78709,
+      "end_ms": 80143
+    },
+    {
+      "index": 16,
+      "text": "Come.",
+      "start_ms": 80143,
+      "end_ms": 80502
+    },
+    {
+      "index": 17,
+      "text": "Let us eat.\" Diego had never asked again.",
+      "start_ms": 80502,
+      "end_ms": 83012
+    },
+    {
+      "index": 18,
+      "text": "But he had watched Manuel work in it many times — the way Manuel would sit still for a long moment, look at something, close his eyes, then open them and begin to draw with a fine pencil, in silence, for perhaps ten minutes.",
+      "start_ms": 83012,
+      "end_ms": 96459
+    },
+    {
+      "index": 19,
+      "text": "Then he would close the book.",
+      "start_ms": 96459,
+      "end_ms": 98252
+    },
+    {
+      "index": 20,
+      "text": "He never showed anyone the pages.",
+      "start_ms": 98252,
+      "end_ms": 100224
+    },
+    {
+      "index": 21,
+      "text": "On the first evening of his visit this year, over coca tea in the small warm kitchen, Manuel unfolded a paper map on the table.",
+      "start_ms": 100224,
+      "end_ms": 108746
+    },
+    {
+      "index": 22,
+      "text": "It showed the Sacred Valley of the Incas — the wide green river valley that ran northwest from Cusco toward Machu Picchu.",
+      "start_ms": 108746,
+      "end_ms": 116869
+    },
+    {
+      "index": 23,
+      "text": "Manuel had drawn small circles on it.",
+      "start_ms": 116869,
+      "end_ms": 119399
+    },
+    {
+      "index": 24,
+      "text": "Diego leaned over to see.",
+      "start_ms": 119399,
+      "end_ms": 121130
+    },
+    {
+      "index": 25,
+      "text": "There were maybe six circles, in different parts of the valley.",
+      "start_ms": 121130,
+      "end_ms": 125391
+    },
+    {
+      "index": 26,
+      "text": "Manuel tapped two of them.",
+      "start_ms": 125391,
+      "end_ms": 127188
+    },
+    {
+      "index": 27,
+      "text": "He said, \"This year, mi hijo, we are going on a small journey.",
+      "start_ms": 127188,
+      "end_ms": 131383
+    },
+    {
+      "index": 28,
+      "text": "Five days.",
+      "start_ms": 131383,
+      "end_ms": 132115
+    },
+    {
+      "index": 29,
+      "text": "Just us.",
+      "start_ms": 132115,
+      "end_ms": 132714
+    },
+    {
+      "index": 30,
+      "text": "We are not going to Machu Picchu — everyone goes to Machu Picchu, and it is a very beautiful thing, but this year I want to show you two other places.",
+      "start_ms": 132714,
+      "end_ms": 142768
+    },
+    {
+      "index": 31,
+      "text": "Places most people never see.",
+      "start_ms": 142768,
+      "end_ms": 144765
+    },
+    {
+      "index": 32,
+      "text": "Places that, in some ways, mean more.\" He tapped one circle.",
+      "start_ms": 144765,
+      "end_ms": 148826
+    },
+    {
+      "index": 33,
+      "text": "\"Moray.",
+      "start_ms": 148826,
+      "end_ms": 149359
+    },
+    {
+      "index": 34,
+      "text": "Circular agricultural terraces cut into the earth.",
+      "start_ms": 149359,
+      "end_ms": 152754
+    },
+    {
+      "index": 35,
+      "text": "About an hour from here.\" He tapped the other.",
+      "start_ms": 152754,
+      "end_ms": 155884
+    },
+    {
+      "index": 36,
+      "text": "\"Salineras de Maras.",
+      "start_ms": 155884,
+      "end_ms": 157282
+    },
+    {
+      "index": 37,
+      "text": "Salt pans on a hillside, three thousand of them, still worked by the local families the way they were worked five hundred years ago.\" He sat back.",
+      "start_ms": 157282,
+      "end_ms": 167069
+    },
+    {
+      "index": 38,
+      "text": "\"We take our time.",
+      "start_ms": 167069,
+      "end_ms": 168334
+    },
+    {
+      "index": 39,
+      "text": "Two days at Moray.",
+      "start_ms": 168334,
+      "end_ms": 169599
+    },
+    {
+      "index": 40,
+      "text": "Two days at Maras.",
+      "start_ms": 169599,
+      "end_ms": 170864
+    },
+    {
+      "index": 41,
+      "text": "One day walking home.\"",
+      "start_ms": 170864,
+      "end_ms": 172462
+    },
+    {
+      "index": 42,
+      "text": "Diego asked, \"Why not Machu Picchu, Abuelo?\" Manuel thought for a moment.",
+      "start_ms": 172462,
+      "end_ms": 177388
+    },
+    {
+      "index": 43,
+      "text": "He said, \"Because Machu Picchu is an answer.",
+      "start_ms": 177388,
+      "end_ms": 180384
+    },
+    {
+      "index": 44,
+      "text": "It is beautiful and finished and full of tourists and it looks the way a postcard looks.",
+      "start_ms": 180384,
+      "end_ms": 186310
+    },
+    {
+      "index": 45,
+      "text": "The places I want to show you are questions.",
+      "start_ms": 186310,
+      "end_ms": 189306
+    },
+    {
+      "index": 46,
+      "text": "They do not look like postcards.",
+      "start_ms": 189306,
+      "end_ms": 191503
+    },
+    {
+      "index": 47,
+      "text": "They do not look, at first, like anything special.",
+      "start_ms": 191503,
+      "end_ms": 194899
+    },
+    {
+      "index": 48,
+      "text": "You have to sit with them.",
+      "start_ms": 194899,
+      "end_ms": 196696
+    },
+    {
+      "index": 49,
+      "text": "If you sit with them, they teach you how the Incas thought about the world.",
+      "start_ms": 196696,
+      "end_ms": 201756
+    },
+    {
+      "index": 50,
+      "text": "Which is more important than what they built.",
+      "start_ms": 201756,
+      "end_ms": 204819
+    },
+    {
+      "index": 51,
+      "text": "Anyone can build.",
+      "start_ms": 204819,
+      "end_ms": 206017
+    },
+    {
+      "index": 52,
+      "text": "Very few civilizations knew how to think through a landscape.",
+      "start_ms": 206017,
+      "end_ms": 210145
+    },
+    {
+      "index": 53,
+      "text": "The Incas did.",
+      "start_ms": 210145,
+      "end_ms": 211144
+    },
+    {
+      "index": 54,
+      "text": "Machu Picchu, in some ways, was the easy part.",
+      "start_ms": 211144,
+      "end_ms": 214273
+    },
+    {
+      "index": 55,
+      "text": "Moray and Maras — those show the work of a thousand years of watching.\"",
+      "start_ms": 214273,
+      "end_ms": 219000
+    },
+    {
+      "index": 56,
+      "text": "Diego did not entirely understand this.",
+      "start_ms": 219000,
+      "end_ms": 221740
+    },
+    {
+      "index": 57,
+      "text": "But he understood that his grandfather meant it seriously.",
+      "start_ms": 221740,
+      "end_ms": 225781
+    },
+    {
+      "index": 58,
+      "text": "He also noticed that Manuel had packed his sketchbook into the small canvas bag by the door for the trip.",
+      "start_ms": 225781,
+      "end_ms": 233041
+    },
+    {
+      "index": 59,
+      "text": "Diego had never known the sketchbook to leave the house before.",
+      "start_ms": 233041,
+      "end_ms": 237425
+    },
+    {
+      "index": 60,
+      "text": "Diego did not comment on this.",
+      "start_ms": 237425,
+      "end_ms": 239548
+    },
+    {
+      "index": 61,
+      "text": "But he saw it.",
+      "start_ms": 239548,
+      "end_ms": 240576
+    },
+    {
+      "index": 62,
+      "text": "And he wondered, a little, what it meant.",
+      "start_ms": 240576,
+      "end_ms": 243521
+    },
+    {
+      "index": 63,
+      "text": "They drove out the next morning.",
+      "start_ms": 243521,
+      "end_ms": 245781
+    },
+    {
+      "index": 64,
+      "text": "Manuel had an old dark blue car that he treated carefully — he had had it seventeen years.",
+      "start_ms": 245781,
+      "end_ms": 252015
+    },
+    {
+      "index": 65,
+      "text": "He drove them down the winding road from Cusco to the Sacred Valley, through small villages of stone houses and terraced fields, past women in bright pink and red pollera skirts walking with sheep and small children, past fields of purple potato flowers and green quinoa.",
+      "start_ms": 252015,
+      "end_ms": 270645
+    },
+    {
+      "index": 66,
+      "text": "Diego pressed his face to the window.",
+      "start_ms": 270645,
+      "end_ms": 273248
+    },
+    {
+      "index": 67,
+      "text": "He had made this drive many times, but never quite paying attention.",
+      "start_ms": 273248,
+      "end_ms": 277974
+    },
+    {
+      "index": 68,
+      "text": "This year, he was paying attention.",
+      "start_ms": 277974,
+      "end_ms": 280440
+    },
+    {
+      "index": 69,
+      "text": "Manuel had asked him to.",
+      "start_ms": 280440,
+      "end_ms": 282221
+    },
+    {
+      "index": 70,
+      "text": "About an hour out of Cusco, Manuel turned off the main road and began climbing a smaller dirt road up onto the wide flat altiplano above the river valley.",
+      "start_ms": 282221,
+      "end_ms": 292837
+    },
+    {
+      "index": 71,
+      "text": "The land here was different — high, wide, wind-swept, pale gold.",
+      "start_ms": 292837,
+      "end_ms": 297290
+    },
+    {
+      "index": 72,
+      "text": "Occasional adobe farmhouses.",
+      "start_ms": 297290,
+      "end_ms": 299276
+    },
+    {
+      "index": 73,
+      "text": "Occasional standing stones.",
+      "start_ms": 299276,
+      "end_ms": 301194
+    },
+    {
+      "index": 74,
+      "text": "The road wound between them.",
+      "start_ms": 301194,
+      "end_ms": 303180
+    },
+    {
+      "index": 75,
+      "text": "Diego did not know where they were going.",
+      "start_ms": 303180,
+      "end_ms": 306057
+    },
+    {
+      "index": 76,
+      "text": "There were no signs.",
+      "start_ms": 306057,
+      "end_ms": 307495
+    },
+    {
+      "index": 77,
+      "text": "Manuel drove without speaking.",
+      "start_ms": 307495,
+      "end_ms": 309619
+    },
+    {
+      "index": 78,
+      "text": "Then, at a certain point, he stopped the car at the edge of the road, turned off the engine, and said, \"Come.",
+      "start_ms": 309619,
+      "end_ms": 317153
+    },
+    {
+      "index": 79,
+      "text": "From here we walk.\"",
+      "start_ms": 317153,
+      "end_ms": 318592
+    },
+    {
+      "index": 80,
+      "text": "They walked perhaps two hundred meters across the flat altiplano.",
+      "start_ms": 318592,
+      "end_ms": 323112
+    },
+    {
+      "index": 81,
+      "text": "And then, without warning, the ground fell away in front of them.",
+      "start_ms": 323112,
+      "end_ms": 327633
+    },
+    {
+      "index": 82,
+      "text": "Diego stopped.",
+      "start_ms": 327633,
+      "end_ms": 328660
+    },
+    {
+      "index": 83,
+      "text": "He put one hand on his head.",
+      "start_ms": 328660,
+      "end_ms": 330647
+    },
+    {
+      "index": 84,
+      "text": "He said, out loud, \"What —\"",
+      "start_ms": 330647,
+      "end_ms": 332496
+    },
+    {
+      "index": 85,
+      "text": "Below them, cut down into the earth, were three enormous circular bowls — perfect stepped rings descending into the ground like the inside of an amphitheater.",
+      "start_ms": 332496,
+      "end_ms": 343549
+    },
+    {
+      "index": 86,
+      "text": "Each ring was a narrow terrace of dark rich earth.",
+      "start_ms": 343549,
+      "end_ms": 347095
+    },
+    {
+      "index": 87,
+      "text": "The bowls were maybe a hundred meters across and forty meters deep.",
+      "start_ms": 347095,
+      "end_ms": 351822
+    },
+    {
+      "index": 88,
+      "text": "They had been dug and shaped by human hands about six hundred years ago.",
+      "start_ms": 351822,
+      "end_ms": 356897
+    },
+    {
+      "index": 89,
+      "text": "Diego had never seen anything like them.",
+      "start_ms": 356897,
+      "end_ms": 359747
+    },
+    {
+      "index": 90,
+      "text": "From above, they did not look like agriculture.",
+      "start_ms": 359747,
+      "end_ms": 363084
+    },
+    {
+      "index": 91,
+      "text": "They looked like some enormous instrument — a listening device pointed at the earth.",
+      "start_ms": 363084,
+      "end_ms": 368993
+    },
+    {
+      "index": 92,
+      "text": "He could not stop staring.",
+      "start_ms": 368993,
+      "end_ms": 370800
+    }
+  ]
+}

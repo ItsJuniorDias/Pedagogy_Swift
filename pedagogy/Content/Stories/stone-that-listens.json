@@ -1,0 +1,171 @@
+{
+  "id": "stone-that-listens",
+  "title": "The Stone That Listens",
+  "subtitle": "A Summer on Inishmore",
+  "author": null,
+  "summary": "Aisling is ten and is spending two weeks on Inishmore, the largest of the Aran Islands off Ireland's west coast, staying with her great-aunt Bríd. Bríd is seventy-eight and is one of the last islanders who still remembers the old Aran dialect of Irish. On Aisling's third day, walking along a low stone wall, Bríd bends down and shows her a small stone with a mark on it and tells her to put her ear against it. There is an old custom on the island, she says, that Aisling has never heard of. And her own great-grandmother left one of these stones for someone to find.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-stone-that-listens-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old Irish girl (Aisling) with light brown hair in a loose plait, wearing a heavy blue wool jumper and dark trousers, kneeling beside a low grey dry-stone wall on the west coast of Ireland. She has her ear pressed against one specific small grey stone in the wall. Beside her stands her great-aunt (Bríd, seventy-eight, silver hair pulled back, weathered kind face, a long dark cardigan over a plain dress), leaning on a wooden walking stick, looking down at the girl with quiet attention. The Atlantic ocean is visible in the background beyond the endless dry-stone walls of Inishmore. Grey clean western Ireland light. Character positioned center-left, filling roughly 45% of frame height. Palette: warm cream (#FFF9F0), grey-blue stone and sea, deep ink outlines, small dusty rose (#FF5B8D) accent on Aisling's cheeks and Bríd's cardigan. Small margin at top and bottom for card padding.",
+  "category": "mystery",
+  "isPremium": true,
+  "publishedAt": "2027-05-27",
+  "isFeatured": false,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Wall Along the Boreen",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "stl-ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a small white stone cottage on Inishmore, one of the Aran Islands. Low sky, a scatter of grey dry-stone walls dividing tiny green fields around the cottage. In the middle distance, the Atlantic. A small ferry has just pulled in at a low stone pier below. A girl (Aisling, 10, brown plait, blue jumper, small suitcase) walks up the path toward the cottage. Grey soft western Ireland light, heavy black ink outlines, flat shadows, cream and grey-blue palette.",
+          "paragraphs": [
+            "Aisling was ten, and the summer she was ten was the first summer she was allowed to travel by herself. Only by herself for the last leg, really — her mother put her on the train from Dublin to Galway with a paper bag of sandwiches, and her mother's cousin met her at the Galway station and drove her to Rossaveal, and put her on the ferry to Inishmore. There she was met at the pier by her great-aunt Bríd, who was seventy-eight and lived in a small white stone cottage on the island, and who was, though Aisling did not yet quite understand this, the person Aisling's mother had wanted her to know.",
+            "The ferry from Rossaveal took forty minutes. Aisling sat on the top deck and watched the three Aran Islands come into view — Inisheer first, then Inishmaan in the middle, then Inishmore, the largest, where Bríd lived. From the sea, the islands looked like grey stone lifted up out of the Atlantic. As she got closer, Aisling could see the walls — hundreds and hundreds of low grey dry-stone walls dividing every scrap of green land into small careful fields. There were more walls than fields, it looked like."
+          ]
+        },
+        {
+          "image": "stl-ch1-p2-briid",
+          "imagePrompt": "Mike Mignola style for children: exterior of the small pier at Kilronan on Inishmore. An elderly woman (Bríd, seventy-eight, silver hair pulled back, weathered face, long dark cardigan, wooden walking stick) stands waiting. Behind her, a stone quay and one or two colored fishing boats. She raises one hand as she sees Aisling approach. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Bríd was waiting at the pier. Aisling had met her twice before at family gatherings on the mainland, but not since Aisling was very small. Now Aisling saw her properly — a small woman, straight-backed, with white hair pulled back and a face weathered from a lifetime of Atlantic wind. She leaned on a wooden walking stick that she did not really need but liked to carry anyway. When she saw Aisling coming down the ramp, she raised a hand, once, and did not wave, and did not smile very much, and Aisling knew immediately that this was not because Bríd was unfriendly but because Bríd was one of those old people who did not waste warmth on the greeting when the whole afternoon lay ahead.",
+            "\"You're smaller than I remembered,\" Bríd said. \"Your mother said you were tall now.\" Aisling said, \"She always says that.\" Bríd said, \"Yes. She has been saying it since she was eight.\" And that was the beginning."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "The cottage was small — two rooms, thick white walls, a fireplace, a kitchen that opened onto a small back garden of stone-bordered vegetable beds. Bríd had lived there her entire adult life. She had never lived on the mainland. She had gone to school on the island, married a fisherman on the island, buried him twenty years ago, and stayed. She kept chickens. She knew everyone. She spoke English to Aisling because Aisling's Irish was schoolroom Irish and not up to conversation. But Aisling could hear her speak Irish to the neighbors, and it was not the Irish they taught in school. It was faster and softer and had a different shape.",
+            "\"That is the old Aran dialect,\" Bríd told her, that first evening, over the potato soup. \"There are maybe seven of us left on this island who really have it. I mean the version my grandmother spoke. The one that has not been softened by the radio and the school. Six of us are over seventy now. When we are gone, that particular way of speaking will be gone with us.\" She said it plainly, without sadness. It was a fact of the world."
+          ]
+        },
+        {
+          "image": "stl-ch1-p4-boreen",
+          "imagePrompt": "Mike Mignola style for children: exterior view along a boreen — a narrow grass-covered path between two low grey dry-stone walls, winding across the island. Small green fields on either side. In the far distance, the Atlantic. Aisling (10, brown plait, blue jumper) walks along the boreen with Bríd (seventy-eight, cardigan, walking stick). Grey soft light, heavy ink outlines, flat shadows, cream and grey-blue palette.",
+          "paragraphs": [
+            "On the third day, Bríd asked Aisling to come walking with her along the boreen behind the cottage. A boreen was what they called the small grass-covered paths that ran between the stone walls all across the island. This one led out toward the north shore, curving through a dozen small fields. Bríd walked slowly, using her stick, and Aisling walked slowly beside her.",
+            "\"Look at the walls,\" Bríd said. Aisling looked. The walls were maybe waist-high, built of grey stones stacked without mortar. The stones came in every shape — round, flat, wedge, splinter. Some walls were newer and stood straight. Some were old and had begun to bow. Some had gaps where stones had fallen out. \"How many walls do you think are on this island?\" Bríd asked. Aisling thought. \"A thousand?\" Bríd shook her head. \"About fifteen hundred kilometers of them. On an island nine kilometers long. Every one of them built by hand. Every stone lifted by somebody. That is what people did here for two thousand years.\""
+          ]
+        },
+        {
+          "image": "stl-ch1-p5-listen",
+          "imagePrompt": "Mike Mignola style for children: mid-shot along the boreen. Bríd (seventy-eight, cardigan, walking stick) has bent slightly at the waist and is pointing with one finger at a specific small grey stone in the low wall beside her. Aisling (10) crouches to see. The stone Bríd is pointing at has a tiny mark scratched into it — a small three-line hatch, barely visible. Heavy ink outlines, flat shadows, cream and grey palette.",
+          "paragraphs": [
+            "About halfway along the boreen, Bríd stopped. She bent slightly at the waist and pointed with one finger at a specific stone in the wall. It was a small grey stone, about the size of a fist, wedged near the top of the wall. Aisling crouched down to see. There was a tiny mark on the stone — three thin scratches, like a hatch, so small she would never have noticed on her own. \"Put your ear against it,\" Bríd said. Aisling did. She listened. She heard the wind and the sea and, faintly, a single sheep on some other hill. She heard nothing from the stone.",
+            "She sat back on her heels and looked up. \"I don't hear anything.\" Bríd said, \"No. You wouldn't. But it is one of them. That is what I wanted to show you.\" Aisling said, \"One of what?\" And Bríd, straightening up slowly with the help of her stick, looked out over the walls and the fields and said, \"There is a custom on this island. My grandmother taught it to me. It has not been done in fifty years, and almost nobody remembers it now. I have never told anyone under seventy about it. But I want to tell you.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Custom",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "stl-ch2-p1-back-at-cottage",
+          "imagePrompt": "Mike Mignola style for children: interior of the cottage kitchen. Warm firelight from the small hearth. Bríd (seventy-eight) sits at the kitchen table, a mug of tea between her hands. Aisling (10) sits across from her, listening intently, chin propped on her hand. A small oil lamp casts warm gold on the white stone walls. Heavy ink outlines, flat shadows, warm cream and gold palette.",
+          "paragraphs": [
+            "They went back to the cottage. Bríd made tea. It was still early afternoon, but the sky had gone grey the way it does in the west of Ireland, and the little kitchen was dim, and Bríd lit the small oil lamp on the table. She poured two mugs of strong tea and sat down opposite Aisling. She was quiet for a long moment. Then she began.",
+            "\"When a person on the island knew they were going to die,\" she said, \"and this was a hundred years ago, two hundred years ago — they might take a small piece of chalk, or a piece of charred stick from the fire, and they would write something on the underside of a specific stone. Something they wanted to leave. Not for their family, especially. For whoever came after. For anyone who bothered to look. Then they would scratch a small mark on the top of that stone, so someone could find it. Sometimes three little lines. Sometimes a dot. Sometimes a spiral. Every family had their own mark.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Aisling said, \"But you said it hadn't been done in fifty years.\" Bríd said, \"No. It stopped about the time of the war. People stopped believing in it, or stopped thinking there would be anyone in the future who would care to find one. The world got smaller. People started writing letters instead, and putting them in envelopes, and posting them. It is not the same. A letter is written to someone. A stone is left for whoever.\"",
+            "Aisling asked, \"What did people write?\" Bríd said, \"Anything. My grandmother said it was often not important things. It was often a piece of advice, or a joke, or a memory, or a name of someone they had loved that nobody else remembered. Sometimes it was a warning. My grandmother told me she once found one that said, in the old Irish, do not trust the man with the yellow boat. She was thirteen when she found it. The man with the yellow boat had been dead for eighty years by then. But she never forgot the message. She told me she always thought of it as advice from a friend.\"",
+            "Aisling laughed. Bríd smiled, which was rare, and drank her tea."
+          ]
+        },
+        {
+          "image": "stl-ch2-p3-mother",
+          "imagePrompt": "Mike Mignola style for children: interior of the kitchen, close view of Bríd. She has stopped drinking her tea. Her hands are folded around the mug. She is looking at the small oil lamp with a distant expression, remembering something. Warm firelight. Heavy ink outlines, flat shadows, warm cream and gold palette.",
+          "paragraphs": [
+            "Bríd was quiet for a moment. Then she said, \"My mother left one.\" Aisling sat still. Bríd went on. \"Her name was Peig. She died in nineteen sixty-six. I was eighteen. Before she died, she told me she had done it. She said, if you ever want to find it, it is on the island. Somewhere. She did not tell me where. She said, you will know when you want to look.\" Bríd smiled without any lightness in it. \"I did not want to look. Not for a long time. I do not really know why. Maybe because as long as I did not look, it was still waiting for me. If I found it, then whatever she had said would be a real thing, and I could not un-know it. Sixty years I have not looked.\"",
+            "Aisling did not know what to say. She sat and waited. Bríd said, \"But your mother told me you were coming. And I thought, this girl has never been to Inishmore. And I thought — maybe now. Maybe with the child here, it will be time.\""
+          ]
+        },
+        {
+          "image": "stl-ch2-p4-out-searching",
+          "imagePrompt": "Mike Mignola style for children: exterior wide shot of the west of Inishmore. Late afternoon light. Bríd (seventy-eight, cardigan, walking stick) and Aisling (10, blue jumper) walk slowly along the edge of a stone wall that runs toward the sea in the distance. Both are looking closely at the stones as they pass. The sky is enormous and pale. Heavy ink outlines, flat shadows, cream and grey palette.",
+          "paragraphs": [
+            "They went out that afternoon. Bríd walked ahead and Aisling followed. They walked to the west side of the island, toward a spot where three fields Bríd's family had once owned came down to meet the sea. \"My mother built two walls in her life,\" Bríd said. \"Most people didn't build walls — you inherited them and mended them. But there was a bad storm when she was young that knocked down two long stretches near her father's fields, and she and her brother rebuilt them. That was in nineteen twenty-eight. She would have put her stone in one of those two walls.\"",
+            "Bríd showed her the two walls. One ran along the top of a low headland, high above the sea. The other cut down a slope toward a small stony beach. Both were long — longer than Aisling had thought when Bríd had said \"a stretch of wall.\" Together they held maybe six hundred stones each. Somewhere in one of them, if it was still there, was Peig's stone."
+          ]
+        },
+        {
+          "image": "stl-ch2-p5-not-this-one",
+          "imagePrompt": "Mike Mignola style for children: close view of a section of dry-stone wall. Aisling (10) is crouched, pointing excitedly at a specific stone that has a clear mark on it — a small carved circle with the initials P.M. Bríd (seventy-eight) leans on her walking stick, looking at the stone, but she is shaking her head slightly. Heavy ink outlines, flat shadows, cream and grey palette.",
+          "paragraphs": [
+            "They walked slowly along the top wall. Aisling had never looked at stones so closely in her life. Most of them were plain. But every now and then she found one that had something — a natural line, a scratch, a spot of lichen that looked like a mark. She kept calling Bríd over. Bríd kept looking and shaking her head. \"Natural. That's just the stone breaking. That's just weather.\"",
+            "Then Aisling found one that made her heart jump. Halfway along the wall, at just about the height of her shoulder, was a stone with a small deliberate circle carved on it, and inside the circle, two letters — P.M. She called Bríd. Bríd came. Bríd looked. She was quiet for a moment. Then she smiled a small smile that had a lot in it, and shook her head. \"No, love. That is not hers. That is Peig Mullen — an old woman who lived on this end of the island a hundred and twenty years ago, no relation. Different Peig. My mother would never have put her own initials. That was not the way. You did it in secret. If your name was on it, it was to be found because you wanted it found. That was different. My mother wanted her stone found only by someone who was really looking.\"",
+            "Aisling was disappointed. Bríd saw. Bríd said, \"But that was good work. You are learning to see.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Wall by the Sea",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "stl-ch3-p1-second-wall",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a low dry-stone wall running down a grassy slope toward a small stony beach and the Atlantic beyond. Late golden hour light. Aisling (10) and Bríd (seventy-eight) walk together toward the wall. The sky is warmer now, pale gold, the sea very still. Heavy ink outlines, flat shadows, warm cream and grey-blue palette.",
+          "paragraphs": [
+            "They came back the next afternoon and did the second wall — the one that ran down the slope toward the small stony beach. It was, Bríd said, the wall her mother had loved more. \"She always liked to walk down to the sea. She said, if I am buried inland, my ghost will come here anyway. So they buried her inland, in the churchyard, but I have always thought she comes here.\" Bríd said this as they walked, and Aisling could not tell if she was joking. Bríd's face did not always tell.",
+            "The wall was six hundred stones long. Aisling started at the top, near the crest of the slope. Bríd walked more slowly, starting at the bottom, near the beach. They worked toward each other. Aisling looked at every stone."
+          ]
+        },
+        {
+          "image": "stl-ch3-p2-mark",
+          "imagePrompt": "Mike Mignola style for children: close view of Aisling (10) crouched very low beside the dry-stone wall — the stone she is looking at is near the bottom of the wall, at knee height, small, unremarkable. But on top of it is a tiny spiral scratched into the surface, hardly visible. Aisling's finger hovers over the spiral. Golden late afternoon light. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Aisling found it about a third of the way down. It was small, and it was low — at her knee, not her shoulder, so she almost missed it. She was crouched to look at another stone when her eye caught it just below. A small stone about the size of her two fists, plain, grey. But scratched on the top of it, so faint that she had to tilt her head, was a small spiral — a coil turning inward, done with the point of a knife, a long time ago.",
+            "She called Bríd. Bríd came slowly down the wall. When she saw the stone, and the spiral, she stopped walking. She did not say anything for a long time. Then she said, very quietly, \"Yes. That's hers.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"How do you know?\" Aisling asked. Bríd said, \"Because of the height. My mother said, once, when I was small — if I ever leave a stone, it will be low. So a child can read it. She said that as a joke, one day, when we were sorting laundry, and I never forgot. I thought she was joking. But she wasn't.\" Bríd bent down slowly. She put her hand flat against the stone. \"Sixty years,\" she said, more to the stone than to Aisling. Then she said, \"Help me lift it.\"",
+            "The stone came out of the wall with a soft grinding sound. Behind it, in the dark hollow between it and the next layer of stones, was a small piece of folded paper. It was old — very old — brown at the edges and dry as a wasp's nest. Bríd took it out carefully. She held it in her open palm. It was smaller than Aisling's hand."
+          ]
+        },
+        {
+          "image": "stl-ch3-p4-reading",
+          "imagePrompt": "Mike Mignola style for children: close intimate view of Bríd (seventy-eight) and Aisling (10) crouched beside the wall. Bríd holds the small folded piece of very old brown paper in one open palm. She has just unfolded it and is reading. Aisling watches her face. Golden afternoon light. Behind them the sea is bright. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "Bríd unfolded it slowly. The paper cracked at the corners but held. Inside, in careful old-fashioned pencil, in the old Aran Irish, were four lines. Bríd read them silently. Then she read them again. Then she translated for Aisling, softly, because Aisling did not have that Irish. She said: Bríd, daughter of mine, who will stay. May the sea sing to you. May the stone keep you. May you have lived well by the time you read this. Peig. June, nineteen sixty-six.",
+            "Bríd was crying, quietly, without any sound. Aisling had never seen her aunt cry. She did not know what to do. She sat very still beside her, on the grass by the wall, and after a moment she reached out and put her small hand on Bríd's arm."
+          ]
+        },
+        {
+          "image": "stl-ch3-p5-replacing",
+          "imagePrompt": "Mike Mignola style for children: mid-shot. Bríd (seventy-eight) is carefully replacing the stone into its place in the wall. The small paper has been folded again and placed back into the hollow behind it. Aisling (10) stands beside her, hands folded. Late golden light, the sea in the background. Heavy ink outlines, flat shadows.",
+          "paragraphs": [
+            "After a while Bríd folded the paper again, carefully, and put it back into the hollow. She lifted the stone and set it back in place. It fitted exactly. When it was in, you could not tell it had ever been moved. The spiral was on top, small, hardly visible unless you knew.",
+            "\"Why did you put it back?\" Aisling asked. Bríd said, \"Because that is where she put it. It is not for me to take home. I have read it now. That was what she wanted. She wanted me to have read it, one day, in my own time, when I was ready. Now I have. It can go back to the wall. Maybe someone else will find it a hundred years from now. Maybe not. That is not up to me.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "They walked slowly back up to the cottage. Bríd was quiet most of the way. Just before they got to the door, she stopped, and she said to Aisling, \"Thank you for coming this summer. I would never have gone to look on my own. I told myself, sixty years, that I would go one day. I would never have gone. I needed a child here with me. That is what she knew. That is what she meant by, you will know when you want to look.\"",
+            "Aisling said, \"Will you leave one? A stone, someday?\" Bríd thought about it. She said, \"I don't know. Maybe. Maybe I will. If I do, it will be for you. If you come back to look for it, one day, when you are older, you will find it in that same wall. Near the sea. Low. Where a child could read it.\" And she opened the cottage door, and they went in, and she put the kettle on for tea, and outside the small window the sea kept doing what it had always done."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": ["family", "great-aunt", "ireland", "aran", "tradition", "memory"]
+}

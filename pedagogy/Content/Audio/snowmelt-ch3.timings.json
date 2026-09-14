@@ -1,0 +1,535 @@
+{
+  "story_id": "snowmelt",
+  "chapter": 3,
+  "total_duration_ms": 276480,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "It was Jonas's last day.",
+      "start_ms": 1933,
+      "end_ms": 3355
+    },
+    {
+      "index": 1,
+      "text": "His mother was flying in that evening, and they were going to spend a few days together at Aunt Sigrún's, and then all three of them were going to fly back to Copenhagen together.",
+      "start_ms": 3355,
+      "end_ms": 13590
+    },
+    {
+      "index": 2,
+      "text": "Jonas had been in Iceland for six weeks.",
+      "start_ms": 13590,
+      "end_ms": 15922
+    },
+    {
+      "index": 3,
+      "text": "It felt like both a very long time and no time at all.",
+      "start_ms": 15922,
+      "end_ms": 19049
+    },
+    {
+      "index": 4,
+      "text": "He had learned the names of eleven kinds of birds and how to bake dark rye bread in the oven of the peat stove and how to say good morning and thank you and I don't know in Icelandic.",
+      "start_ms": 19049,
+      "end_ms": 29569
+    },
+    {
+      "index": 5,
+      "text": "He woke up early on his last morning.",
+      "start_ms": 29569,
+      "end_ms": 31730
+    },
+    {
+      "index": 6,
+      "text": "The house was still.",
+      "start_ms": 31730,
+      "end_ms": 32924
+    },
+    {
+      "index": 7,
+      "text": "He got dressed and went outside and walked down toward the fjord, because he wanted to see the water one more time before he left.",
+      "start_ms": 32924,
+      "end_ms": 40373
+    },
+    {
+      "index": 8,
+      "text": "He walked along the shore, past the boat that Aunt Sigrún did not use anymore, past the small stone bench her grandfather had built.",
+      "start_ms": 40373,
+      "end_ms": 47936
+    },
+    {
+      "index": 9,
+      "text": "And that was where he saw it.",
+      "start_ms": 47936,
+      "end_ms": 49699
+    },
+    {
+      "index": 10,
+      "text": "It was half-buried in the wet ground where a small stream met the fjord.",
+      "start_ms": 49699,
+      "end_ms": 53850
+    },
+    {
+      "index": 11,
+      "text": "It was dark, and rectangular, and Jonas thought at first that it was a stone.",
+      "start_ms": 53850,
+      "end_ms": 58285
+    },
+    {
+      "index": 12,
+      "text": "When he crouched down and looked more carefully, he saw that it was leather, water-stained and warped, and that it was a book.",
+      "start_ms": 58285,
+      "end_ms": 65507
+    },
+    {
+      "index": 13,
+      "text": "A small notebook.",
+      "start_ms": 65507,
+      "end_ms": 66531
+    },
+    {
+      "index": 14,
+      "text": "The kind you could put in your pocket.",
+      "start_ms": 66531,
+      "end_ms": 68805
+    },
+    {
+      "index": 15,
+      "text": "He pulled it out very slowly.",
+      "start_ms": 68805,
+      "end_ms": 70511
+    },
+    {
+      "index": 16,
+      "text": "It came free of the mud with a soft wet sound.",
+      "start_ms": 70511,
+      "end_ms": 73184
+    },
+    {
+      "index": 17,
+      "text": "He wiped the front of it against his sweater.",
+      "start_ms": 73184,
+      "end_ms": 75800
+    },
+    {
+      "index": 18,
+      "text": "There was writing on the cover, faded and hard to see.",
+      "start_ms": 75800,
+      "end_ms": 78927
+    },
+    {
+      "index": 19,
+      "text": "He held it up close to his face.",
+      "start_ms": 78927,
+      "end_ms": 80804
+    },
+    {
+      "index": 20,
+      "text": "He read it.",
+      "start_ms": 80804,
+      "end_ms": 81486
+    },
+    {
+      "index": 21,
+      "text": "And then he sat down on the ground with the notebook in his lap and he did not move for a long time.",
+      "start_ms": 81486,
+      "end_ms": 87229
+    },
+    {
+      "index": 22,
+      "text": "The writing on the cover said: Karl Nilsen.",
+      "start_ms": 87229,
+      "end_ms": 89731
+    },
+    {
+      "index": 23,
+      "text": "Field notes.",
+      "start_ms": 89731,
+      "end_ms": 90470
+    },
+    {
+      "index": 24,
+      "text": "Summer 2023.",
+      "start_ms": 90470,
+      "end_ms": 91266
+    },
+    {
+      "index": 25,
+      "text": "He brought the notebook to Aunt Sigrún without saying anything.",
+      "start_ms": 91266,
+      "end_ms": 94906
+    },
+    {
+      "index": 26,
+      "text": "She was in the kitchen, cutting bread.",
+      "start_ms": 94906,
+      "end_ms": 97123
+    },
+    {
+      "index": 27,
+      "text": "She looked at his face first, and then she looked at the notebook, and she put down her knife.",
+      "start_ms": 97123,
+      "end_ms": 102526
+    },
+    {
+      "index": 28,
+      "text": "She sat down at the table.",
+      "start_ms": 102526,
+      "end_ms": 104061
+    },
+    {
+      "index": 29,
+      "text": "She did not say anything for a moment.",
+      "start_ms": 104061,
+      "end_ms": 106279
+    },
+    {
+      "index": 30,
+      "text": "Then she said, \"Sit down, Jonas.\" And so he sat.",
+      "start_ms": 106279,
+      "end_ms": 109008
+    },
+    {
+      "index": 31,
+      "text": "\"Your father,\" she said, \"came here.",
+      "start_ms": 109008,
+      "end_ms": 111206
+    },
+    {
+      "index": 32,
+      "text": "In the summer of 2023.",
+      "start_ms": 111206,
+      "end_ms": 112572
+    },
+    {
+      "index": 33,
+      "text": "Before the expedition.",
+      "start_ms": 112572,
+      "end_ms": 113939
+    },
+    {
+      "index": 34,
+      "text": "He stayed for three nights.",
+      "start_ms": 113939,
+      "end_ms": 115602
+    },
+    {
+      "index": 35,
+      "text": "I did not tell you this.",
+      "start_ms": 115602,
+      "end_ms": 117087
+    },
+    {
+      "index": 36,
+      "text": "I did not tell anyone this, except your mother, and she asked me not to talk about it because she thought it would upset you.",
+      "start_ms": 117087,
+      "end_ms": 124573
+    },
+    {
+      "index": 37,
+      "text": "He came here to think.",
+      "start_ms": 124573,
+      "end_ms": 125939
+    },
+    {
+      "index": 38,
+      "text": "About whether to go on the climb.",
+      "start_ms": 125939,
+      "end_ms": 127959
+    },
+    {
+      "index": 39,
+      "text": "He was afraid.",
+      "start_ms": 127959,
+      "end_ms": 128850
+    },
+    {
+      "index": 40,
+      "text": "He knew it was dangerous.\" She stopped, and then she went on.",
+      "start_ms": 128850,
+      "end_ms": 132534
+    },
+    {
+      "index": 41,
+      "text": "\"He wrote in this notebook every night, sitting by the fjord.",
+      "start_ms": 132534,
+      "end_ms": 136217
+    },
+    {
+      "index": 42,
+      "text": "And then on the fourth morning he took his bag and he went.",
+      "start_ms": 136217,
+      "end_ms": 139781
+    },
+    {
+      "index": 43,
+      "text": "And I asked him if he was sure.",
+      "start_ms": 139781,
+      "end_ms": 141682
+    },
+    {
+      "index": 44,
+      "text": "And he said no.",
+      "start_ms": 141682,
+      "end_ms": 142633
+    },
+    {
+      "index": 45,
+      "text": "But he said he was going anyway.\"",
+      "start_ms": 142633,
+      "end_ms": 144712
+    },
+    {
+      "index": 46,
+      "text": "Jonas opened the notebook.",
+      "start_ms": 144712,
+      "end_ms": 146316
+    },
+    {
+      "index": 47,
+      "text": "The paper was fragile and the ink had run in places, but he could read most of it.",
+      "start_ms": 146316,
+      "end_ms": 151247
+    },
+    {
+      "index": 48,
+      "text": "His father's handwriting was small and careful.",
+      "start_ms": 151247,
+      "end_ms": 154099
+    },
+    {
+      "index": 49,
+      "text": "There were sketches of birds.",
+      "start_ms": 154099,
+      "end_ms": 155881
+    },
+    {
+      "index": 50,
+      "text": "There were lists of things he had eaten.",
+      "start_ms": 155881,
+      "end_ms": 158317
+    },
+    {
+      "index": 51,
+      "text": "There was a page that just said, in the middle: I keep thinking about Jonas.",
+      "start_ms": 158317,
+      "end_ms": 162950
+    },
+    {
+      "index": 52,
+      "text": "There was another page, near the end, that said: If I do this and it goes well, I will bring him here next summer.",
+      "start_ms": 162950,
+      "end_ms": 169782
+    },
+    {
+      "index": 53,
+      "text": "He would like the fjord.",
+      "start_ms": 169782,
+      "end_ms": 171268
+    },
+    {
+      "index": 54,
+      "text": "He is like me.",
+      "start_ms": 171268,
+      "end_ms": 172159
+    },
+    {
+      "index": 55,
+      "text": "He notices small things.",
+      "start_ms": 172159,
+      "end_ms": 173703
+    },
+    {
+      "index": 56,
+      "text": "And the last page said: Sigrún is right that I am afraid.",
+      "start_ms": 173703,
+      "end_ms": 177149
+    },
+    {
+      "index": 57,
+      "text": "But some of what I am afraid of is coming home the same person I was when I left.",
+      "start_ms": 177149,
+      "end_ms": 182020
+    },
+    {
+      "index": 58,
+      "text": "That would be a waste.",
+      "start_ms": 182020,
+      "end_ms": 183446
+    },
+    {
+      "index": 59,
+      "text": "Jonas read these pages three times each.",
+      "start_ms": 183446,
+      "end_ms": 185882
+    },
+    {
+      "index": 60,
+      "text": "Then he closed the notebook and he put his hands flat on the table and he cried, quietly, for a long time.",
+      "start_ms": 185882,
+      "end_ms": 192239
+    },
+    {
+      "index": 61,
+      "text": "Aunt Sigrún sat with him.",
+      "start_ms": 192239,
+      "end_ms": 193783
+    },
+    {
+      "index": 62,
+      "text": "She did not say anything.",
+      "start_ms": 193783,
+      "end_ms": 195328
+    },
+    {
+      "index": 63,
+      "text": "She did not touch him.",
+      "start_ms": 195328,
+      "end_ms": 196694
+    },
+    {
+      "index": 64,
+      "text": "She only stayed.",
+      "start_ms": 196694,
+      "end_ms": 197763
+    },
+    {
+      "index": 65,
+      "text": "In the afternoon, when he could speak again, Jonas told Aunt Sigrún he wanted to put the notebook on the shelf.",
+      "start_ms": 197763,
+      "end_ms": 204417
+    },
+    {
+      "index": 66,
+      "text": "She looked at him carefully.",
+      "start_ms": 204417,
+      "end_ms": 206140
+    },
+    {
+      "index": 67,
+      "text": "\"Are you sure?\" she said.",
+      "start_ms": 206140,
+      "end_ms": 207685
+    },
+    {
+      "index": 68,
+      "text": "\"You could take it home.",
+      "start_ms": 207685,
+      "end_ms": 209170
+    },
+    {
+      "index": 69,
+      "text": "It is yours to take.",
+      "start_ms": 209170,
+      "end_ms": 210417
+    },
+    {
+      "index": 70,
+      "text": "He was your father.\" Jonas thought about it for a long time.",
+      "start_ms": 210417,
+      "end_ms": 214041
+    },
+    {
+      "index": 71,
+      "text": "Then he said, \"I want it to stay here.",
+      "start_ms": 214041,
+      "end_ms": 216358
+    },
+    {
+      "index": 72,
+      "text": "So I can come back and see it.",
+      "start_ms": 216358,
+      "end_ms": 218200
+    },
+    {
+      "index": 73,
+      "text": "I don't want to keep it.",
+      "start_ms": 218200,
+      "end_ms": 219685
+    },
+    {
+      "index": 74,
+      "text": "I want it to be safe.\"",
+      "start_ms": 219685,
+      "end_ms": 220992
+    },
+    {
+      "index": 75,
+      "text": "Aunt Sigrún nodded.",
+      "start_ms": 220992,
+      "end_ms": 222340
+    },
+    {
+      "index": 76,
+      "text": "She gave him a paper tag and a pencil.",
+      "start_ms": 222340,
+      "end_ms": 224970
+    },
+    {
+      "index": 77,
+      "text": "Jonas wrote on it very slowly, sounding out the words in his best handwriting.",
+      "start_ms": 224970,
+      "end_ms": 230296
+    },
+    {
+      "index": 78,
+      "text": "Summer 2026.",
+      "start_ms": 230296,
+      "end_ms": 231173
+    },
+    {
+      "index": 79,
+      "text": "From the shore of the fjord.",
+      "start_ms": 231173,
+      "end_ms": 233128
+    },
+    {
+      "index": 80,
+      "text": "Karl Nilsen, father of Jonas, was here for three nights in July 2023 before the mountain.",
+      "start_ms": 233128,
+      "end_ms": 239196
+    },
+    {
+      "index": 81,
+      "text": "He wrote in this book.",
+      "start_ms": 239196,
+      "end_ms": 240747
+    },
+    {
+      "index": 82,
+      "text": "He tied the tag on with string.",
+      "start_ms": 240747,
+      "end_ms": 242904
+    },
+    {
+      "index": 83,
+      "text": "He put the notebook on the shelf, in the empty space next to his grandmother's fountain pen.",
+      "start_ms": 242904,
+      "end_ms": 249174
+    },
+    {
+      "index": 84,
+      "text": "He stood there for a while, looking at it.",
+      "start_ms": 249174,
+      "end_ms": 252141
+    },
+    {
+      "index": 85,
+      "text": "That evening his mother came, and she cried when Jonas showed her the notebook, and then she held it and read some of the pages and cried again, and then she smiled, and she said thank you to Aunt Sigrún, and Jonas understood, then, why his mother had sent him here for the summer.",
+      "start_ms": 252141,
+      "end_ms": 271154
+    },
+    {
+      "index": 86,
+      "text": "He understood that everything comes back around eventually.",
+      "start_ms": 271154,
+      "end_ms": 275199
+    },
+    {
+      "index": 87,
+      "text": "If you are patient.",
+      "start_ms": 275199,
+      "end_ms": 276480
+    }
+  ]
+}

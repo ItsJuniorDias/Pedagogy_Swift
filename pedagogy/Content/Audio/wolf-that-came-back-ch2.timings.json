@@ -1,0 +1,613 @@
+{
+  "story_id": "wolf-that-came-back",
+  "chapter": 2,
+  "total_duration_ms": 273672,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "It was the second week of January.",
+      "start_ms": 1227,
+      "end_ms": 3095
+    },
+    {
+      "index": 1,
+      "text": "The road had been closed for six weeks.",
+      "start_ms": 3095,
+      "end_ms": 5229
+    },
+    {
+      "index": 2,
+      "text": "There was a storm coming in — a big one, the radio said, thirty below with high winds — and Kaya and her grandfather had been preparing all day.",
+      "start_ms": 5229,
+      "end_ms": 12966
+    },
+    {
+      "index": 3,
+      "text": "They had brought extra hay to the wolves' shelters.",
+      "start_ms": 12966,
+      "end_ms": 15741
+    },
+    {
+      "index": 4,
+      "text": "They had checked all the fences.",
+      "start_ms": 15741,
+      "end_ms": 17502
+    },
+    {
+      "index": 5,
+      "text": "They had chopped enough firewood to last three days without going outside.",
+      "start_ms": 17502,
+      "end_ms": 21504
+    },
+    {
+      "index": 6,
+      "text": "In the evening they had a quick supper of soup and dark bread, and then they listened to the radio for storm updates while the wind began to rise outside.",
+      "start_ms": 21504,
+      "end_ms": 29828
+    },
+    {
+      "index": 7,
+      "text": "The storm hit around ten p.m.",
+      "start_ms": 29828,
+      "end_ms": 31429
+    },
+    {
+      "index": 8,
+      "text": "It hit hard.",
+      "start_ms": 31429,
+      "end_ms": 32122
+    },
+    {
+      "index": 9,
+      "text": "The cabin creaked and shook.",
+      "start_ms": 32122,
+      "end_ms": 33670
+    },
+    {
+      "index": 10,
+      "text": "Snow blew sideways past the windows.",
+      "start_ms": 33670,
+      "end_ms": 35644
+    },
+    {
+      "index": 11,
+      "text": "Kaya went to bed at eleven, but she could not sleep.",
+      "start_ms": 35644,
+      "end_ms": 38472
+    },
+    {
+      "index": 12,
+      "text": "She could hear the wolves howling out in the enclosures, over the wind — a low chorus of them, calling to each other and to nothing.",
+      "start_ms": 38472,
+      "end_ms": 45569
+    },
+    {
+      "index": 13,
+      "text": "She lay in the dark and listened.",
+      "start_ms": 45569,
+      "end_ms": 47383
+    },
+    {
+      "index": 14,
+      "text": "She had been at the sanctuary long enough to know their voices apart.",
+      "start_ms": 47383,
+      "end_ms": 51118
+    },
+    {
+      "index": 15,
+      "text": "She could pick out old Silver, and Rue, and the younger male they called Beckett.",
+      "start_ms": 51118,
+      "end_ms": 55547
+    },
+    {
+      "index": 16,
+      "text": "And then, sometime around one in the morning, she heard a howl that was not one of theirs.",
+      "start_ms": 55547,
+      "end_ms": 60402
+    },
+    {
+      "index": 17,
+      "text": "It was from outside the fences.",
+      "start_ms": 60402,
+      "end_ms": 62110
+    },
+    {
+      "index": 18,
+      "text": "From beyond the property.",
+      "start_ms": 62110,
+      "end_ms": 63497
+    },
+    {
+      "index": 19,
+      "text": "It was a single voice.",
+      "start_ms": 63497,
+      "end_ms": 64725
+    },
+    {
+      "index": 20,
+      "text": "It was thin.",
+      "start_ms": 64725,
+      "end_ms": 65418
+    },
+    {
+      "index": 21,
+      "text": "It sounded — she was not sure how she knew — hurt.",
+      "start_ms": 65418,
+      "end_ms": 68193
+    },
+    {
+      "index": 22,
+      "text": "Kaya sat up.",
+      "start_ms": 68193,
+      "end_ms": 68887
+    },
+    {
+      "index": 23,
+      "text": "She listened.",
+      "start_ms": 68887,
+      "end_ms": 69634
+    },
+    {
+      "index": 24,
+      "text": "It came again.",
+      "start_ms": 69634,
+      "end_ms": 70434
+    },
+    {
+      "index": 25,
+      "text": "A single wolf, calling.",
+      "start_ms": 70434,
+      "end_ms": 71715
+    },
+    {
+      "index": 26,
+      "text": "The wolves in the enclosures went quiet, all at once, to listen.",
+      "start_ms": 71715,
+      "end_ms": 75183
+    },
+    {
+      "index": 27,
+      "text": "Then Silver answered — a low careful call.",
+      "start_ms": 75183,
+      "end_ms": 77477
+    },
+    {
+      "index": 28,
+      "text": "The outside wolf called back.",
+      "start_ms": 77477,
+      "end_ms": 79078
+    },
+    {
+      "index": 29,
+      "text": "Kaya was out of bed and pulling on her clothes before she had fully thought about it.",
+      "start_ms": 79078,
+      "end_ms": 83667
+    },
+    {
+      "index": 30,
+      "text": "Her grandfather was still asleep.",
+      "start_ms": 83667,
+      "end_ms": 85481
+    },
+    {
+      "index": 31,
+      "text": "She wrote a note on the kitchen counter and left it under a mug: There is a wolf outside the fence.",
+      "start_ms": 85481,
+      "end_ms": 90817
+    },
+    {
+      "index": 32,
+      "text": "I am going to look.",
+      "start_ms": 90817,
+      "end_ms": 91884
+    },
+    {
+      "index": 33,
+      "text": "K.",
+      "start_ms": 91884,
+      "end_ms": 92044
+    },
+    {
+      "index": 34,
+      "text": "She put on her heavy shearling coat and her red wool hat and her boots and her gloves.",
+      "start_ms": 92044,
+      "end_ms": 96687
+    },
+    {
+      "index": 35,
+      "text": "She took a flashlight.",
+      "start_ms": 96687,
+      "end_ms": 97914
+    },
+    {
+      "index": 36,
+      "text": "She went out into the storm.",
+      "start_ms": 97914,
+      "end_ms": 99408
+    },
+    {
+      "index": 37,
+      "text": "The wind was very cold and the snow was almost horizontal.",
+      "start_ms": 99408,
+      "end_ms": 102997
+    },
+    {
+      "index": 38,
+      "text": "Kaya kept her head down and walked along the outside of the fence line, following the calling.",
+      "start_ms": 102997,
+      "end_ms": 108776
+    },
+    {
+      "index": 39,
+      "text": "It was hard to tell where it was coming from — the wind moved sound around.",
+      "start_ms": 108776,
+      "end_ms": 113399
+    },
+    {
+      "index": 40,
+      "text": "She walked past the enclosures for the old females, and past Silver's pen, and Silver was standing at his fence watching her go by, calm, his eyes yellow in her flashlight beam.",
+      "start_ms": 113399,
+      "end_ms": 124227
+    },
+    {
+      "index": 41,
+      "text": "He knew where she was going.",
+      "start_ms": 124227,
+      "end_ms": 125991
+    },
+    {
+      "index": 42,
+      "text": "He was helping her, in his way.",
+      "start_ms": 125991,
+      "end_ms": 127998
+    },
+    {
+      "index": 43,
+      "text": "At the far end of the property, at the north corner of the outermost fence, she found it.",
+      "start_ms": 127998,
+      "end_ms": 133473
+    },
+    {
+      "index": 44,
+      "text": "A small grey shape, crouched in the snow just outside the wire.",
+      "start_ms": 133473,
+      "end_ms": 137366
+    },
+    {
+      "index": 45,
+      "text": "It was breathing hard.",
+      "start_ms": 137366,
+      "end_ms": 138765
+    },
+    {
+      "index": 46,
+      "text": "There was a dark stain on the snow around one of its back legs.",
+      "start_ms": 138765,
+      "end_ms": 142658
+    },
+    {
+      "index": 47,
+      "text": "Kaya knelt down slowly, three meters away, keeping the flashlight low.",
+      "start_ms": 142658,
+      "end_ms": 146977
+    },
+    {
+      "index": 48,
+      "text": "She said, quietly, \"Hey.",
+      "start_ms": 146977,
+      "end_ms": 148498
+    },
+    {
+      "index": 49,
+      "text": "Hey.",
+      "start_ms": 148498,
+      "end_ms": 148802
+    },
+    {
+      "index": 50,
+      "text": "It's okay.\" The wolf lifted its head.",
+      "start_ms": 148802,
+      "end_ms": 151113
+    },
+    {
+      "index": 51,
+      "text": "It looked at her.",
+      "start_ms": 151113,
+      "end_ms": 152208
+    },
+    {
+      "index": 52,
+      "text": "Its eyes were pale yellow.",
+      "start_ms": 152208,
+      "end_ms": 153851
+    },
+    {
+      "index": 53,
+      "text": "Kaya knew those eyes.",
+      "start_ms": 153851,
+      "end_ms": 155250
+    },
+    {
+      "index": 54,
+      "text": "\"Ash,\" she said.",
+      "start_ms": 155250,
+      "end_ms": 156284
+    },
+    {
+      "index": 55,
+      "text": "The wolf did not react to the name — wolves did not remember names — but she reacted to Kaya's voice.",
+      "start_ms": 156284,
+      "end_ms": 162488
+    },
+    {
+      "index": 56,
+      "text": "Her ears moved.",
+      "start_ms": 162488,
+      "end_ms": 163462
+    },
+    {
+      "index": 57,
+      "text": "Her tail, which was tucked, moved just slightly.",
+      "start_ms": 163462,
+      "end_ms": 166442
+    },
+    {
+      "index": 58,
+      "text": "Kaya took off one glove.",
+      "start_ms": 166442,
+      "end_ms": 167963
+    },
+    {
+      "index": 59,
+      "text": "She held out her bare hand.",
+      "start_ms": 167963,
+      "end_ms": 169666
+    },
+    {
+      "index": 60,
+      "text": "She did not move any closer.",
+      "start_ms": 169666,
+      "end_ms": 171430
+    },
+    {
+      "index": 61,
+      "text": "She let the wolf come to her, if she wanted, or not, if she did not.",
+      "start_ms": 171430,
+      "end_ms": 175628
+    },
+    {
+      "index": 62,
+      "text": "The wolf looked at her for a very long moment.",
+      "start_ms": 175628,
+      "end_ms": 178487
+    },
+    {
+      "index": 63,
+      "text": "She was thinner than Kaya remembered.",
+      "start_ms": 178487,
+      "end_ms": 180798
+    },
+    {
+      "index": 64,
+      "text": "There was grey on her face now, around her mouth, that had not been there before.",
+      "start_ms": 180798,
+      "end_ms": 185786
+    },
+    {
+      "index": 65,
+      "text": "She had scars on her shoulder.",
+      "start_ms": 185786,
+      "end_ms": 187733
+    },
+    {
+      "index": 66,
+      "text": "Kaya said, \"You came back.",
+      "start_ms": 187733,
+      "end_ms": 189375
+    },
+    {
+      "index": 67,
+      "text": "I don't understand.",
+      "start_ms": 189375,
+      "end_ms": 190592
+    },
+    {
+      "index": 68,
+      "text": "But you came back.\" The wolf slowly, painfully, stood up on three legs.",
+      "start_ms": 190592,
+      "end_ms": 194971
+    },
+    {
+      "index": 69,
+      "text": "She limped, one step and then another, toward Kaya's hand.",
+      "start_ms": 194971,
+      "end_ms": 198560
+    },
+    {
+      "index": 70,
+      "text": "She stopped just before her fingers.",
+      "start_ms": 198560,
+      "end_ms": 200811
+    },
+    {
+      "index": 71,
+      "text": "She put her nose against Kaya's palm.",
+      "start_ms": 200811,
+      "end_ms": 203123
+    },
+    {
+      "index": 72,
+      "text": "She held it there for maybe five seconds.",
+      "start_ms": 203123,
+      "end_ms": 205678
+    },
+    {
+      "index": 73,
+      "text": "Then she stepped back.",
+      "start_ms": 205678,
+      "end_ms": 207077
+    },
+    {
+      "index": 74,
+      "text": "She looked at her injured leg.",
+      "start_ms": 207077,
+      "end_ms": 208962
+    },
+    {
+      "index": 75,
+      "text": "She looked at Kaya.",
+      "start_ms": 208962,
+      "end_ms": 210179
+    },
+    {
+      "index": 76,
+      "text": "Kaya understood, then, why she had come.",
+      "start_ms": 210179,
+      "end_ms": 212673
+    },
+    {
+      "index": 77,
+      "text": "She had come because she needed help.",
+      "start_ms": 212673,
+      "end_ms": 214984
+    },
+    {
+      "index": 78,
+      "text": "She had remembered where the help was.",
+      "start_ms": 214984,
+      "end_ms": 217296
+    },
+    {
+      "index": 79,
+      "text": "Kaya thought.",
+      "start_ms": 217296,
+      "end_ms": 218151
+    },
+    {
+      "index": 80,
+      "text": "Her grandfather had a small isolation pen at the back of the property, meant for injured animals that needed to be quiet.",
+      "start_ms": 218151,
+      "end_ms": 225603
+    },
+    {
+      "index": 81,
+      "text": "It was two hundred meters away.",
+      "start_ms": 225603,
+      "end_ms": 227557
+    },
+    {
+      "index": 82,
+      "text": "If she could get Ash to follow her that far, they could put her in it and treat the leg.",
+      "start_ms": 227557,
+      "end_ms": 232993
+    },
+    {
+      "index": 83,
+      "text": "But she was hurt.",
+      "start_ms": 232993,
+      "end_ms": 234093
+    },
+    {
+      "index": 84,
+      "text": "She was slow.",
+      "start_ms": 234093,
+      "end_ms": 234948
+    },
+    {
+      "index": 85,
+      "text": "And it was thirty below and the storm was still going.",
+      "start_ms": 234948,
+      "end_ms": 238307
+    },
+    {
+      "index": 86,
+      "text": "If she stayed out here another few hours, she could freeze.",
+      "start_ms": 238307,
+      "end_ms": 241972
+    },
+    {
+      "index": 87,
+      "text": "Kaya could not carry her.",
+      "start_ms": 241972,
+      "end_ms": 243560
+    },
+    {
+      "index": 88,
+      "text": "Ash was too heavy — sixty pounds, maybe seventy.",
+      "start_ms": 243560,
+      "end_ms": 246553
+    },
+    {
+      "index": 89,
+      "text": "Kaya was not strong enough.",
+      "start_ms": 246553,
+      "end_ms": 248324
+    },
+    {
+      "index": 90,
+      "text": "She had to bring her grandfather.",
+      "start_ms": 248324,
+      "end_ms": 250401
+    },
+    {
+      "index": 91,
+      "text": "But she did not want to leave Ash alone.",
+      "start_ms": 250401,
+      "end_ms": 252905
+    },
+    {
+      "index": 92,
+      "text": "She was afraid Ash would go back into the trees.",
+      "start_ms": 252905,
+      "end_ms": 255898
+    },
+    {
+      "index": 93,
+      "text": "She sat still for a moment, thinking.",
+      "start_ms": 255898,
+      "end_ms": 258219
+    },
+    {
+      "index": 94,
+      "text": "Then she stood up slowly.",
+      "start_ms": 258219,
+      "end_ms": 259807
+    },
+    {
+      "index": 95,
+      "text": "\"Ash,\" she said.",
+      "start_ms": 259807,
+      "end_ms": 260845
+    },
+    {
+      "index": 96,
+      "text": "\"I have to go get help.",
+      "start_ms": 260845,
+      "end_ms": 262311
+    },
+    {
+      "index": 97,
+      "text": "Please stay.",
+      "start_ms": 262311,
+      "end_ms": 263105
+    },
+    {
+      "index": 98,
+      "text": "Please.",
+      "start_ms": 263105,
+      "end_ms": 263594
+    },
+    {
+      "index": 99,
+      "text": "I am coming back.\" She kept her eyes on the wolf for as long as she could.",
+      "start_ms": 263594,
+      "end_ms": 268175
+    },
+    {
+      "index": 100,
+      "text": "Then she turned and she ran back through the snow, as fast as she could, toward the cabin.",
+      "start_ms": 268175,
+      "end_ms": 273672
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "story_id": "archivist-of-tallinn",
+  "chapter": 2,
+  "total_duration_ms": 341496,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "They went through the box slowly, together, over the whole first morning.",
+      "start_ms": 2111,
+      "end_ms": 6845
+    },
+    {
+      "index": 1,
+      "text": "Silvia let Kristjan open each envelope carefully.",
+      "start_ms": 6845,
+      "end_ms": 10043
+    },
+    {
+      "index": 2,
+      "text": "Most of the letters inside were dull — bills, receipts, formal business correspondence from long-dead merchants.",
+      "start_ms": 10043,
+      "end_ms": 17272
+    },
+    {
+      "index": 3,
+      "text": "Some were sad — messages of condolence that had never reached the family.",
+      "start_ms": 17272,
+      "end_ms": 22006
+    },
+    {
+      "index": 4,
+      "text": "A few were sweet.",
+      "start_ms": 22006,
+      "end_ms": 23157
+    },
+    {
+      "index": 5,
+      "text": "Silvia would read the old handwriting for Kristjan, translating the old formal Estonian into modern speech, sometimes laughing softly at a phrase.",
+      "start_ms": 23157,
+      "end_ms": 32624
+    },
+    {
+      "index": 6,
+      "text": "About an hour in, she found one that made her stop.",
+      "start_ms": 32624,
+      "end_ms": 35951
+    },
+    {
+      "index": 7,
+      "text": "It was a small folded letter in a thin brown envelope.",
+      "start_ms": 35951,
+      "end_ms": 39469
+    },
+    {
+      "index": 8,
+      "text": "On the outside, in careful young handwriting: To Miss Marie Kask, of Räpina village, near Tartu.",
+      "start_ms": 39469,
+      "end_ms": 45674
+    },
+    {
+      "index": 9,
+      "text": "Estonia.",
+      "start_ms": 45674,
+      "end_ms": 46250
+    },
+    {
+      "index": 10,
+      "text": "The postmark was Tartu, December nineteenth, eighteen ninety-eight.",
+      "start_ms": 46250,
+      "end_ms": 50600
+    },
+    {
+      "index": 11,
+      "text": "The letter had been returned twice — Silvia showed Kristjan the small stamps on the back.",
+      "start_ms": 50600,
+      "end_ms": 56357
+    },
+    {
+      "index": 12,
+      "text": "Return, no such address.",
+      "start_ms": 56357,
+      "end_ms": 57956
+    },
+    {
+      "index": 13,
+      "text": "Return, unknown recipient.",
+      "start_ms": 57956,
+      "end_ms": 59684
+    },
+    {
+      "index": 14,
+      "text": "And then a small pencil note in some old postmaster's hand: Address vague.",
+      "start_ms": 59684,
+      "end_ms": 64481
+    },
+    {
+      "index": 15,
+      "text": "Hold.",
+      "start_ms": 64481,
+      "end_ms": 64865
+    },
+    {
+      "index": 16,
+      "text": "Silvia looked at it for a long moment.",
+      "start_ms": 64865,
+      "end_ms": 67360
+    },
+    {
+      "index": 17,
+      "text": "She said, \"Let us open this one.\"",
+      "start_ms": 67360,
+      "end_ms": 69599
+    },
+    {
+      "index": 18,
+      "text": "Inside was a single sheet of thin brown paper.",
+      "start_ms": 69599,
+      "end_ms": 72605
+    },
+    {
+      "index": 19,
+      "text": "The handwriting was young and neat and slightly leaning.",
+      "start_ms": 72605,
+      "end_ms": 76252
+    },
+    {
+      "index": 20,
+      "text": "Silvia read it in Estonian first, softly, to herself, and then translated for Kristjan.",
+      "start_ms": 76252,
+      "end_ms": 81945
+    },
+    {
+      "index": 21,
+      "text": "\"My dearest Marie,\" she read.",
+      "start_ms": 81945,
+      "end_ms": 83864
+    },
+    {
+      "index": 22,
+      "text": "\"I have this morning finished the purchase of the little house in Räpina — the one behind the mill, with the two windows facing the river.",
+      "start_ms": 83864,
+      "end_ms": 92756
+    },
+    {
+      "index": 23,
+      "text": "I will come for you at Christmas as we agreed.",
+      "start_ms": 92756,
+      "end_ms": 95762
+    },
+    {
+      "index": 24,
+      "text": "Please do not worry about the roof.",
+      "start_ms": 95762,
+      "end_ms": 98065
+    },
+    {
+      "index": 25,
+      "text": "It is a good roof and I have inspected it myself.",
+      "start_ms": 98065,
+      "end_ms": 101264
+    },
+    {
+      "index": 26,
+      "text": "I am, in the meantime, thinking of three things I love about you and I will tell you which they are when I see you.",
+      "start_ms": 101264,
+      "end_ms": 108684
+    },
+    {
+      "index": 27,
+      "text": "Yours, always, Aleksander Rebane.\" Silvia lowered the letter slowly.",
+      "start_ms": 108684,
+      "end_ms": 113098
+    },
+    {
+      "index": 28,
+      "text": "\"December nineteenth,\" she said.",
+      "start_ms": 113098,
+      "end_ms": 115209
+    },
+    {
+      "index": 29,
+      "text": "\"He never came for her at Christmas.\"",
+      "start_ms": 115209,
+      "end_ms": 117576
+    },
+    {
+      "index": 30,
+      "text": "Kristjan asked, \"Why not?\" Silvia said, \"I do not know.",
+      "start_ms": 117576,
+      "end_ms": 120700
+    },
+    {
+      "index": 31,
+      "text": "But I can guess.",
+      "start_ms": 120700,
+      "end_ms": 121649
+    },
+    {
+      "index": 32,
+      "text": "The winter of eighteen ninety-eight to ninety-nine was the worst influenza winter Estonia had seen in fifty years.",
+      "start_ms": 121649,
+      "end_ms": 128064
+    },
+    {
+      "index": 33,
+      "text": "There is a note in one of the library annals that Tartu lost several hundred people between December and February.",
+      "start_ms": 128064,
+      "end_ms": 134480
+    },
+    {
+      "index": 34,
+      "text": "He was very young.",
+      "start_ms": 134480,
+      "end_ms": 135540
+    },
+    {
+      "index": 35,
+      "text": "Twenty-five, twenty-six, at most, from the handwriting.",
+      "start_ms": 135540,
+      "end_ms": 138664
+    },
+    {
+      "index": 36,
+      "text": "If he died in that flu, this letter — sent just a few days before — would have arrived at the Räpina post office and found nobody with clear enough address, and been returned.",
+      "start_ms": 138664,
+      "end_ms": 148483
+    },
+    {
+      "index": 37,
+      "text": "And her family may have known him only as 'Marie's young man from Tartu' — no fixed street, nothing formal.",
+      "start_ms": 148483,
+      "end_ms": 154508
+    },
+    {
+      "index": 38,
+      "text": "That is why the address was vague.",
+      "start_ms": 154508,
+      "end_ms": 156461
+    },
+    {
+      "index": 39,
+      "text": "It was written to a girl in a small village where everyone knew each other.",
+      "start_ms": 156461,
+      "end_ms": 160700
+    },
+    {
+      "index": 40,
+      "text": "They did not need a street.",
+      "start_ms": 160700,
+      "end_ms": 162263
+    },
+    {
+      "index": 41,
+      "text": "But once he was gone, and the letter came back to Tartu, nobody there knew what to do with it either.",
+      "start_ms": 162263,
+      "end_ms": 167953
+    },
+    {
+      "index": 42,
+      "text": "So it came here.",
+      "start_ms": 167953,
+      "end_ms": 168901
+    },
+    {
+      "index": 43,
+      "text": "And it has been here ever since.\"",
+      "start_ms": 168901,
+      "end_ms": 170854
+    },
+    {
+      "index": 44,
+      "text": "Kristjan sat looking at the letter.",
+      "start_ms": 170854,
+      "end_ms": 172862
+    },
+    {
+      "index": 45,
+      "text": "Then he said, \"Aunt Silvia.",
+      "start_ms": 172862,
+      "end_ms": 174424
+    },
+    {
+      "index": 46,
+      "text": "Kask is a very common Estonian name.",
+      "start_ms": 174424,
+      "end_ms": 176489
+    },
+    {
+      "index": 47,
+      "text": "Marie Kask must have married someone else after Aleksander died.",
+      "start_ms": 176489,
+      "end_ms": 180115
+    },
+    {
+      "index": 48,
+      "text": "She might have had children.",
+      "start_ms": 180115,
+      "end_ms": 181733
+    },
+    {
+      "index": 49,
+      "text": "Those children might have had children.",
+      "start_ms": 181733,
+      "end_ms": 183964
+    },
+    {
+      "index": 50,
+      "text": "Those grandchildren might be alive right now.",
+      "start_ms": 183964,
+      "end_ms": 186530
+    },
+    {
+      "index": 51,
+      "text": "Some of them might live in Tartu.",
+      "start_ms": 186530,
+      "end_ms": 188427
+    },
+    {
+      "index": 52,
+      "text": "We could find them.\"",
+      "start_ms": 188427,
+      "end_ms": 189655
+    },
+    {
+      "index": 53,
+      "text": "Silvia looked at him.",
+      "start_ms": 189655,
+      "end_ms": 190882
+    },
+    {
+      "index": 54,
+      "text": "She said, \"That is exactly what I have been thinking for fifty years.\" She smiled a small sad smile.",
+      "start_ms": 190882,
+      "end_ms": 196517
+    },
+    {
+      "index": 55,
+      "text": "\"But I never did it, Kristjan.",
+      "start_ms": 196517,
+      "end_ms": 198246
+    },
+    {
+      "index": 56,
+      "text": "I never once opened the genealogy books and tried.",
+      "start_ms": 198246,
+      "end_ms": 201091
+    },
+    {
+      "index": 57,
+      "text": "I was always going to do it next month.",
+      "start_ms": 201091,
+      "end_ms": 203323
+    },
+    {
+      "index": 58,
+      "text": "It is one of those things.\" She was quiet.",
+      "start_ms": 203323,
+      "end_ms": 205722
+    },
+    {
+      "index": 59,
+      "text": "Then she said, \"But you are here.",
+      "start_ms": 205722,
+      "end_ms": 207619
+    },
+    {
+      "index": 60,
+      "text": "You have a bus back to Tartu in eleven days.",
+      "start_ms": 207619,
+      "end_ms": 210129
+    },
+    {
+      "index": 61,
+      "text": "And Kask is, as you say, a common name in the Tartu region.",
+      "start_ms": 210129,
+      "end_ms": 213476
+    },
+    {
+      "index": 62,
+      "text": "Perhaps we look.",
+      "start_ms": 213476,
+      "end_ms": 214425
+    },
+    {
+      "index": 63,
+      "text": "If we find nothing, we put the letter back.",
+      "start_ms": 214425,
+      "end_ms": 216879
+    },
+    {
+      "index": 64,
+      "text": "If we find someone — we shall see.\"",
+      "start_ms": 216879,
+      "end_ms": 218832
+    },
+    {
+      "index": 65,
+      "text": "They went upstairs to the genealogy reading room.",
+      "start_ms": 218832,
+      "end_ms": 221791
+    },
+    {
+      "index": 66,
+      "text": "Silvia knew it well.",
+      "start_ms": 221791,
+      "end_ms": 223034
+    },
+    {
+      "index": 67,
+      "text": "She showed Kristjan how to use the parish record books — the old ones from Räpina were on microfiche, the newer ones digitized.",
+      "start_ms": 223034,
+      "end_ms": 230609
+    },
+    {
+      "index": 68,
+      "text": "They looked for a Marie Kask, born around eighteen seventy-five to seventy-seven, who might have married someone in Räpina or nearby after eighteen ninety-eight.",
+      "start_ms": 230609,
+      "end_ms": 240256
+    },
+    {
+      "index": 69,
+      "text": "It took them three afternoons, spread over four days.",
+      "start_ms": 240256,
+      "end_ms": 243451
+    },
+    {
+      "index": 70,
+      "text": "They found her.",
+      "start_ms": 243451,
+      "end_ms": 244398
+    },
+    {
+      "index": 71,
+      "text": "Marie Kask, born eighteen seventy-six in Räpina, married Jaan Tamm of Räpina in nineteen hundred and two — four years after Aleksander's letter.",
+      "start_ms": 244398,
+      "end_ms": 252980
+    },
+    {
+      "index": 72,
+      "text": "They had five children.",
+      "start_ms": 252980,
+      "end_ms": 254400
+    },
+    {
+      "index": 73,
+      "text": "The children had grown up, moved away, had their own children.",
+      "start_ms": 254400,
+      "end_ms": 258128
+    },
+    {
+      "index": 74,
+      "text": "Silvia traced the youngest daughter's line — Anna Tamm, born nineteen fifteen — through a marriage to a Kask cousin (which was common in small villages), through two more generations, to a woman still alive in Tartu today, aged sixty-two, whose name was Piret Kask, and who taught music at a small school.",
+      "start_ms": 258128,
+      "end_ms": 276238
+    },
+    {
+      "index": 75,
+      "text": "Silvia sat back in her chair when they had confirmed it.",
+      "start_ms": 276238,
+      "end_ms": 279611
+    },
+    {
+      "index": 76,
+      "text": "She said, \"She is the great-granddaughter of Marie Kask.",
+      "start_ms": 279611,
+      "end_ms": 282985
+    },
+    {
+      "index": 77,
+      "text": "Marie was her great-grandmother, on her mother's side.",
+      "start_ms": 282985,
+      "end_ms": 286240
+    },
+    {
+      "index": 78,
+      "text": "She almost certainly still lives at the address in the phone book.",
+      "start_ms": 286240,
+      "end_ms": 290205
+    },
+    {
+      "index": 79,
+      "text": "And she is your neighbor, more or less.",
+      "start_ms": 290205,
+      "end_ms": 292572
+    },
+    {
+      "index": 80,
+      "text": "Tartu is not big.\"",
+      "start_ms": 292572,
+      "end_ms": 293756
+    },
+    {
+      "index": 81,
+      "text": "That evening in the apartment, they sat at the small table by the window.",
+      "start_ms": 293756,
+      "end_ms": 298135
+    },
+    {
+      "index": 82,
+      "text": "The letter from Aleksander lay in the middle.",
+      "start_ms": 298135,
+      "end_ms": 300857
+    },
+    {
+      "index": 83,
+      "text": "Silvia had written Piret Kask's address in her small notebook.",
+      "start_ms": 300857,
+      "end_ms": 304586
+    },
+    {
+      "index": 84,
+      "text": "She was quiet for a long time.",
+      "start_ms": 304586,
+      "end_ms": 306420
+    },
+    {
+      "index": 85,
+      "text": "She said, \"I do not know how to do this, Kristjan.",
+      "start_ms": 306420,
+      "end_ms": 309439
+    },
+    {
+      "index": 86,
+      "text": "It has been fifty years.",
+      "start_ms": 309439,
+      "end_ms": 310918
+    },
+    {
+      "index": 87,
+      "text": "I have never delivered one.",
+      "start_ms": 310918,
+      "end_ms": 312575
+    },
+    {
+      "index": 88,
+      "text": "I do not know what one is supposed to say.\"",
+      "start_ms": 312575,
+      "end_ms": 315120
+    },
+    {
+      "index": 89,
+      "text": "Kristjan thought.",
+      "start_ms": 315120,
+      "end_ms": 316077
+    },
+    {
+      "index": 90,
+      "text": "He said, \"You just — go.",
+      "start_ms": 316077,
+      "end_ms": 317407
+    },
+    {
+      "index": 91,
+      "text": "And you say, we found this.",
+      "start_ms": 317407,
+      "end_ms": 318896
+    },
+    {
+      "index": 92,
+      "text": "We think it was meant for your great-grandmother.",
+      "start_ms": 318896,
+      "end_ms": 321554
+    },
+    {
+      "index": 93,
+      "text": "And you give it to her.",
+      "start_ms": 321554,
+      "end_ms": 322831
+    },
+    {
+      "index": 94,
+      "text": "And whatever she does, she does.\" Silvia smiled at him — a real full smile this time.",
+      "start_ms": 322831,
+      "end_ms": 327404
+    },
+    {
+      "index": 95,
+      "text": "\"That is very good advice from a ten-year-old,\" she said.",
+      "start_ms": 327404,
+      "end_ms": 330488
+    },
+    {
+      "index": 96,
+      "text": "\"That is exactly how we shall do it.",
+      "start_ms": 330488,
+      "end_ms": 332456
+    },
+    {
+      "index": 97,
+      "text": "Tomorrow I telephone her.",
+      "start_ms": 332456,
+      "end_ms": 333838
+    },
+    {
+      "index": 98,
+      "text": "If she agrees, on Friday, we take the bus to Tartu together.",
+      "start_ms": 333838,
+      "end_ms": 337082
+    },
+    {
+      "index": 99,
+      "text": "You are on your way home anyway.",
+      "start_ms": 337082,
+      "end_ms": 338837
+    },
+    {
+      "index": 100,
+      "text": "We deliver it, and then you go on to your mother.\"",
+      "start_ms": 338837,
+      "end_ms": 341496
+    }
+  ]
+}

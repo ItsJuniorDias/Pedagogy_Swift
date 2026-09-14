@@ -1,0 +1,481 @@
+{
+  "story_id": "dust-of-yaks",
+  "chapter": 1,
+  "total_duration_ms": 307032,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Bata was eleven, and he lived, for most of the year, in a ger on the summer pastures of Övörkhangai, in the middle of Mongolia.",
+      "start_ms": 2057,
+      "end_ms": 10832
+    },
+    {
+      "index": 1,
+      "text": "Ger meant the round white felt tent his family lived in — a single warm room with a stove in the center and beds along the walls.",
+      "start_ms": 10832,
+      "end_ms": 19745
+    },
+    {
+      "index": 2,
+      "text": "His father, Batbayar, herded horses and yaks.",
+      "start_ms": 19745,
+      "end_ms": 22899
+    },
+    {
+      "index": 3,
+      "text": "His mother taught at the small school in the sum center, a two-hour drive away.",
+      "start_ms": 22899,
+      "end_ms": 28383
+    },
+    {
+      "index": 4,
+      "text": "His grandmother, Odval, lived with them.",
+      "start_ms": 28383,
+      "end_ms": 31194
+    },
+    {
+      "index": 5,
+      "text": "She was in her mid-sixties, and she was, everyone said, the person in the family who really knew the land.",
+      "start_ms": 31194,
+      "end_ms": 38599
+    },
+    {
+      "index": 6,
+      "text": "It was late June.",
+      "start_ms": 38599,
+      "end_ms": 39833
+    },
+    {
+      "index": 7,
+      "text": "In three weeks, the whole country would be watching Naadam — the summer festival of the three manly games, which were wrestling, archery, and horse racing.",
+      "start_ms": 39833,
+      "end_ms": 50528
+    },
+    {
+      "index": 8,
+      "text": "Bata's family raised racing horses.",
+      "start_ms": 50528,
+      "end_ms": 52996
+    },
+    {
+      "index": 9,
+      "text": "Every summer they took three or four of the fastest yearlings and two-year-olds to the smaller regional races that led up to Naadam.",
+      "start_ms": 52996,
+      "end_ms": 62114
+    },
+    {
+      "index": 10,
+      "text": "This year, for the first time, Bata was allowed to help.",
+      "start_ms": 62114,
+      "end_ms": 66091
+    },
+    {
+      "index": 11,
+      "text": "On the second Monday of the month, in the early morning, Odval called Bata over to the north side of the ger.",
+      "start_ms": 66091,
+      "end_ms": 73632
+    },
+    {
+      "index": 12,
+      "text": "She reached up to a wooden peg by the frame and lifted down something that had been hanging there, wrapped in a soft old cloth, for as long as Bata could remember.",
+      "start_ms": 73632,
+      "end_ms": 84876
+    },
+    {
+      "index": 13,
+      "text": "He had known it was a saddle.",
+      "start_ms": 84876,
+      "end_ms": 86932
+    },
+    {
+      "index": 14,
+      "text": "He had not known it was for him.",
+      "start_ms": 86932,
+      "end_ms": 89263
+    },
+    {
+      "index": 15,
+      "text": "She unwrapped it and set it on the low table.",
+      "start_ms": 89263,
+      "end_ms": 92417
+    },
+    {
+      "index": 16,
+      "text": "It was very small — child-sized — and made of dark leather that had been used and oiled and used and oiled for a very long time.",
+      "start_ms": 92417,
+      "end_ms": 101261
+    },
+    {
+      "index": 17,
+      "text": "The silver ornaments on the pommel were dulled.",
+      "start_ms": 101261,
+      "end_ms": 104552
+    },
+    {
+      "index": 18,
+      "text": "There were places where the leather had been mended, carefully, with darker thread.",
+      "start_ms": 104552,
+      "end_ms": 110311
+    },
+    {
+      "index": 19,
+      "text": "Odval said, \"This was your great-great-grandfather's first saddle.",
+      "start_ms": 110311,
+      "end_ms": 114904
+    },
+    {
+      "index": 20,
+      "text": "He rode it when he was your age.",
+      "start_ms": 114904,
+      "end_ms": 117167
+    },
+    {
+      "index": 21,
+      "text": "Then his son used it.",
+      "start_ms": 117167,
+      "end_ms": 118675
+    },
+    {
+      "index": 22,
+      "text": "Then his son.",
+      "start_ms": 118675,
+      "end_ms": 119635
+    },
+    {
+      "index": 23,
+      "text": "Then your father.",
+      "start_ms": 119635,
+      "end_ms": 120869
+    },
+    {
+      "index": 24,
+      "text": "Now you.\" She looked at Bata.",
+      "start_ms": 120869,
+      "end_ms": 122926
+    },
+    {
+      "index": 25,
+      "text": "\"You are old enough now.",
+      "start_ms": 122926,
+      "end_ms": 124640
+    },
+    {
+      "index": 26,
+      "text": "This week we ride out to bring the horses in.",
+      "start_ms": 124640,
+      "end_ms": 127793
+    },
+    {
+      "index": 27,
+      "text": "You will use this.\"",
+      "start_ms": 127793,
+      "end_ms": 129096
+    },
+    {
+      "index": 28,
+      "text": "Bata picked up the saddle.",
+      "start_ms": 129096,
+      "end_ms": 130708
+    },
+    {
+      "index": 29,
+      "text": "It was heavier than he expected.",
+      "start_ms": 130708,
+      "end_ms": 132679
+    },
+    {
+      "index": 30,
+      "text": "The leather smelled of woodsmoke and old sweat and something else, faint and sweet, like dry hay that had been kept somewhere warm.",
+      "start_ms": 132679,
+      "end_ms": 140561
+    },
+    {
+      "index": 31,
+      "text": "He turned it over.",
+      "start_ms": 140561,
+      "end_ms": 141695
+    },
+    {
+      "index": 32,
+      "text": "On the underside, near where the stirrup leather attached, he could see a small mark — a rough triangle with a dot in the middle — burned into the leather with a hot iron a very long time ago.",
+      "start_ms": 141695,
+      "end_ms": 153219
+    },
+    {
+      "index": 33,
+      "text": "He asked what it was.",
+      "start_ms": 153219,
+      "end_ms": 154533
+    },
+    {
+      "index": 34,
+      "text": "Odval said, \"That is your great-great-grandfather's mark.",
+      "start_ms": 154533,
+      "end_ms": 157996
+    },
+    {
+      "index": 35,
+      "text": "He put it on everything he made himself.",
+      "start_ms": 157996,
+      "end_ms": 160444
+    },
+    {
+      "index": 36,
+      "text": "He was a saddler as well as a herder.",
+      "start_ms": 160444,
+      "end_ms": 162713
+    },
+    {
+      "index": 37,
+      "text": "Some things he made for the family.",
+      "start_ms": 162713,
+      "end_ms": 164863
+    },
+    {
+      "index": 38,
+      "text": "Some things he made to trade.",
+      "start_ms": 164863,
+      "end_ms": 166654
+    },
+    {
+      "index": 39,
+      "text": "This one he made for himself, when he was ten.",
+      "start_ms": 166654,
+      "end_ms": 169461
+    },
+    {
+      "index": 40,
+      "text": "He rode it for six years.",
+      "start_ms": 169461,
+      "end_ms": 171013
+    },
+    {
+      "index": 41,
+      "text": "He made bigger ones after that.\"",
+      "start_ms": 171013,
+      "end_ms": 173043
+    },
+    {
+      "index": 42,
+      "text": "\"I never met him,\" Bata said.",
+      "start_ms": 173043,
+      "end_ms": 174835
+    },
+    {
+      "index": 43,
+      "text": "Odval said, \"No.",
+      "start_ms": 174835,
+      "end_ms": 175850
+    },
+    {
+      "index": 44,
+      "text": "He died before I was born.",
+      "start_ms": 175850,
+      "end_ms": 177462
+    },
+    {
+      "index": 45,
+      "text": "My grandmother told me about him.",
+      "start_ms": 177462,
+      "end_ms": 179492
+    },
+    {
+      "index": 46,
+      "text": "She said he was a quiet man, and a good horseman, and he made things that lasted.\" She tapped the saddle.",
+      "start_ms": 179492,
+      "end_ms": 185821
+    },
+    {
+      "index": 47,
+      "text": "\"This is a hundred and twenty years old.",
+      "start_ms": 185821,
+      "end_ms": 188270
+    },
+    {
+      "index": 48,
+      "text": "It has taken five boys through their first gathering.",
+      "start_ms": 188270,
+      "end_ms": 191494
+    },
+    {
+      "index": 49,
+      "text": "You will be the sixth.\"",
+      "start_ms": 191494,
+      "end_ms": 192987
+    },
+    {
+      "index": 50,
+      "text": "They rode out at midmorning.",
+      "start_ms": 192987,
+      "end_ms": 194718
+    },
+    {
+      "index": 51,
+      "text": "Odval on her old dun mare, Bata on a small brown gelding called Chuluun, which meant Stone.",
+      "start_ms": 194718,
+      "end_ms": 200212
+    },
+    {
+      "index": 52,
+      "text": "Chuluun was patient and knew the way.",
+      "start_ms": 200212,
+      "end_ms": 202481
+    },
+    {
+      "index": 53,
+      "text": "The saddle fit Bata almost exactly — his great-great-grandfather must have been about his size at eleven.",
+      "start_ms": 202481,
+      "end_ms": 208810
+    },
+    {
+      "index": 54,
+      "text": "The stirrups needed only one hole of adjustment.",
+      "start_ms": 208810,
+      "end_ms": 211796
+    },
+    {
+      "index": 55,
+      "text": "They rode east, into the long green rolling country.",
+      "start_ms": 211796,
+      "end_ms": 214960
+    },
+    {
+      "index": 56,
+      "text": "The horses they were going to gather were about three hours out, at a place called the White Spring, where Batbayar had left them a week ago to graze.",
+      "start_ms": 214960,
+      "end_ms": 223977
+    },
+    {
+      "index": 57,
+      "text": "Odval rode ahead and Bata followed, the way he had ridden his whole life following adults through this land.",
+      "start_ms": 223977,
+      "end_ms": 230485
+    },
+    {
+      "index": 58,
+      "text": "But today felt different.",
+      "start_ms": 230485,
+      "end_ms": 232038
+    },
+    {
+      "index": 59,
+      "text": "The small saddle under him made a sound he had never heard before — a soft creak of old leather, slightly different from the newer saddle he usually used.",
+      "start_ms": 232038,
+      "end_ms": 241293
+    },
+    {
+      "index": 60,
+      "text": "He listened to it as they rode.",
+      "start_ms": 241293,
+      "end_ms": 243144
+    },
+    {
+      "index": 61,
+      "text": "They found the horses at the White Spring a little past midday.",
+      "start_ms": 243144,
+      "end_ms": 247299
+    },
+    {
+      "index": 62,
+      "text": "There were nine — three racing yearlings, two two-year-olds, and four broodmares — and they were all together, calm, drinking.",
+      "start_ms": 247299,
+      "end_ms": 255545
+    },
+    {
+      "index": 63,
+      "text": "Bata and Odval let them finish and then began the slow turning-work of steering the whole small herd back to the west.",
+      "start_ms": 255545,
+      "end_ms": 263271
+    },
+    {
+      "index": 64,
+      "text": "Bata rode at the rear, whistling and clicking the way his father had taught him.",
+      "start_ms": 263271,
+      "end_ms": 268530
+    },
+    {
+      "index": 65,
+      "text": "The horses moved willingly.",
+      "start_ms": 268530,
+      "end_ms": 270348
+    },
+    {
+      "index": 66,
+      "text": "The sun was warm on his back.",
+      "start_ms": 270348,
+      "end_ms": 272296
+    },
+    {
+      "index": 67,
+      "text": "He was, for a whole hour, happier than he had ever been.",
+      "start_ms": 272296,
+      "end_ms": 276062
+    },
+    {
+      "index": 68,
+      "text": "It was Odval who noticed first.",
+      "start_ms": 276062,
+      "end_ms": 278140
+    },
+    {
+      "index": 69,
+      "text": "She reined in her mare and turned in the saddle and looked behind them, back to the west, back toward home.",
+      "start_ms": 278140,
+      "end_ms": 285152
+    },
+    {
+      "index": 70,
+      "text": "Bata turned too.",
+      "start_ms": 285152,
+      "end_ms": 286255
+    },
+    {
+      "index": 71,
+      "text": "The sky where they were going had changed.",
+      "start_ms": 286255,
+      "end_ms": 289047
+    },
+    {
+      "index": 72,
+      "text": "A wall of dark grey-purple cloud, low and heavy, was building on the horizon.",
+      "start_ms": 289047,
+      "end_ms": 294112
+    },
+    {
+      "index": 73,
+      "text": "It had not been there half an hour ago.",
+      "start_ms": 294112,
+      "end_ms": 296709
+    },
+    {
+      "index": 74,
+      "text": "It was already big.",
+      "start_ms": 296709,
+      "end_ms": 298007
+    },
+    {
+      "index": 75,
+      "text": "Odval watched it for maybe ten seconds.",
+      "start_ms": 298007,
+      "end_ms": 300604
+    },
+    {
+      "index": 76,
+      "text": "Then she said, very calmly, \"Bata.",
+      "start_ms": 300604,
+      "end_ms": 302877
+    },
+    {
+      "index": 77,
+      "text": "We will not make it home before that hits us.",
+      "start_ms": 302877,
+      "end_ms": 305863
+    },
+    {
+      "index": 78,
+      "text": "We need to think.\"",
+      "start_ms": 305863,
+      "end_ms": 307032
+    }
+  ]
+}

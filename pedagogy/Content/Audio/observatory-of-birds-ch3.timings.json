@@ -1,0 +1,661 @@
+{
+  "story_id": "observatory-of-birds",
+  "chapter": 3,
+  "total_duration_ms": 342744,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The next year, Tamar was twelve.",
+      "start_ms": 1823,
+      "end_ms": 4137
+    },
+    {
+      "index": 1,
+      "text": "She came back to the ringing station in October.",
+      "start_ms": 4137,
+      "end_ms": 7572
+    },
+    {
+      "index": 2,
+      "text": "She had thought about the reed warbler all year, off and on.",
+      "start_ms": 7572,
+      "end_ms": 11849
+    },
+    {
+      "index": 3,
+      "text": "Sometimes at school she would suddenly think of her — probably eating an insect in a tree in central Africa right now — and she would smile a little, and her teacher would ask what she was thinking about, and she would say, nothing.",
+      "start_ms": 11849,
+      "end_ms": 28185
+    },
+    {
+      "index": 4,
+      "text": "But she was thinking about a small bird whose ring number she had memorized.",
+      "start_ms": 28185,
+      "end_ms": 33584
+    },
+    {
+      "index": 5,
+      "text": "A-471-338.",
+      "start_ms": 33584,
+      "end_ms": 34425
+    },
+    {
+      "index": 6,
+      "text": "She spent the first two weeks of that autumn helping her father, and every net check she made, she looked at each bird's legs before she looked at anything else.",
+      "start_ms": 34425,
+      "end_ms": 45783
+    },
+    {
+      "index": 7,
+      "text": "Every day she hoped.",
+      "start_ms": 45783,
+      "end_ms": 47256
+    },
+    {
+      "index": 8,
+      "text": "On the seventeenth day, she caught her.",
+      "start_ms": 47256,
+      "end_ms": 50130
+    },
+    {
+      "index": 9,
+      "text": "She recognized the ring number before she even fully read it.",
+      "start_ms": 50130,
+      "end_ms": 54477
+    },
+    {
+      "index": 10,
+      "text": "She knew the shape of the numbers.",
+      "start_ms": 54477,
+      "end_ms": 56931
+    },
+    {
+      "index": 11,
+      "text": "She had drawn them in the margins of her school notebooks a hundred times.",
+      "start_ms": 56931,
+      "end_ms": 62190
+    },
+    {
+      "index": 12,
+      "text": "It was the same bird.",
+      "start_ms": 62190,
+      "end_ms": 63732
+    },
+    {
+      "index": 13,
+      "text": "She said, \"Aba.",
+      "start_ms": 63732,
+      "end_ms": 64854
+    },
+    {
+      "index": 14,
+      "text": "Aba.",
+      "start_ms": 64854,
+      "end_ms": 65205
+    },
+    {
+      "index": 15,
+      "text": "She came back.\" Her father came over.",
+      "start_ms": 65205,
+      "end_ms": 67869
+    },
+    {
+      "index": 16,
+      "text": "He looked.",
+      "start_ms": 67869,
+      "end_ms": 68640
+    },
+    {
+      "index": 17,
+      "text": "He put his hand on Tamar's shoulder.",
+      "start_ms": 68640,
+      "end_ms": 71234
+    },
+    {
+      "index": 18,
+      "text": "He said, softly, \"So she did.",
+      "start_ms": 71234,
+      "end_ms": 73338
+    },
+    {
+      "index": 19,
+      "text": "Fifth autumn.",
+      "start_ms": 73338,
+      "end_ms": 74319
+    },
+    {
+      "index": 20,
+      "text": "That is very old for a reed warbler now.",
+      "start_ms": 74319,
+      "end_ms": 77194
+    },
+    {
+      "index": 21,
+      "text": "She has beaten the odds.\"",
+      "start_ms": 77194,
+      "end_ms": 79087
+    },
+    {
+      "index": 22,
+      "text": "In the lab that morning, they measured her again.",
+      "start_ms": 79087,
+      "end_ms": 82593
+    },
+    {
+      "index": 23,
+      "text": "She was thinner than last year.",
+      "start_ms": 82593,
+      "end_ms": 84836
+    },
+    {
+      "index": 24,
+      "text": "She had lost a little weight.",
+      "start_ms": 84836,
+      "end_ms": 86940
+    },
+    {
+      "index": 25,
+      "text": "Her feathers were more worn.",
+      "start_ms": 86940,
+      "end_ms": 88973
+    },
+    {
+      "index": 26,
+      "text": "She was starting to be an old bird.",
+      "start_ms": 88973,
+      "end_ms": 91497
+    },
+    {
+      "index": 27,
+      "text": "Her father was quiet as he weighed her.",
+      "start_ms": 91497,
+      "end_ms": 94301
+    },
+    {
+      "index": 28,
+      "text": "Then he said, \"This might be her last one, Tamar.",
+      "start_ms": 94301,
+      "end_ms": 97807
+    },
+    {
+      "index": 29,
+      "text": "I don't want to make you sad.",
+      "start_ms": 97807,
+      "end_ms": 99910
+    },
+    {
+      "index": 30,
+      "text": "But you should know.",
+      "start_ms": 99910,
+      "end_ms": 101383
+    },
+    {
+      "index": 31,
+      "text": "If we don't catch her again next year, it does not necessarily mean she died.",
+      "start_ms": 101383,
+      "end_ms": 106851
+    },
+    {
+      "index": 32,
+      "text": "But it probably does.\" Tamar nodded.",
+      "start_ms": 106851,
+      "end_ms": 109446
+    },
+    {
+      "index": 33,
+      "text": "She had thought about this.",
+      "start_ms": 109446,
+      "end_ms": 111409
+    },
+    {
+      "index": 34,
+      "text": "She was ready to hear it, though hearing it still hurt a little.",
+      "start_ms": 111409,
+      "end_ms": 115896
+    },
+    {
+      "index": 35,
+      "text": "When she released the reed warbler that day, she held her for a moment longer than she had needed to.",
+      "start_ms": 115896,
+      "end_ms": 123520
+    },
+    {
+      "index": 36,
+      "text": "She looked at her.",
+      "start_ms": 123520,
+      "end_ms": 124941
+    },
+    {
+      "index": 37,
+      "text": "She said, in a whisper only the bird could hear, \"I don't know if I will see you next autumn.",
+      "start_ms": 124941,
+      "end_ms": 131967
+    },
+    {
+      "index": 38,
+      "text": "But I hope so.",
+      "start_ms": 131967,
+      "end_ms": 133088
+    },
+    {
+      "index": 39,
+      "text": "And if not, I hope you had a good year.",
+      "start_ms": 133088,
+      "end_ms": 136078
+    },
+    {
+      "index": 40,
+      "text": "I hope you built a good nest.",
+      "start_ms": 136078,
+      "end_ms": 138321
+    },
+    {
+      "index": 41,
+      "text": "I hope you had chicks.",
+      "start_ms": 138321,
+      "end_ms": 140040
+    },
+    {
+      "index": 42,
+      "text": "I hope you got warm sometimes.",
+      "start_ms": 140040,
+      "end_ms": 142357
+    },
+    {
+      "index": 43,
+      "text": "Have a safe flight south.\" And she opened her hand, and the bird flew, and Tamar watched her go, small and brown and heading south, and she waved.",
+      "start_ms": 142357,
+      "end_ms": 153345
+    },
+    {
+      "index": 44,
+      "text": "She waved.",
+      "start_ms": 153345,
+      "end_ms": 154167
+    },
+    {
+      "index": 45,
+      "text": "She could not help it.",
+      "start_ms": 154167,
+      "end_ms": 155961
+    },
+    {
+      "index": 46,
+      "text": "Her father was watching.",
+      "start_ms": 155961,
+      "end_ms": 157830
+    },
+    {
+      "index": 47,
+      "text": "He did not say anything about the waving.",
+      "start_ms": 157830,
+      "end_ms": 160969
+    },
+    {
+      "index": 48,
+      "text": "But that evening, when they were making supper together, he said, \"Tamar.",
+      "start_ms": 160969,
+      "end_ms": 166501
+    },
+    {
+      "index": 49,
+      "text": "I want to tell you something.",
+      "start_ms": 166501,
+      "end_ms": 168743
+    },
+    {
+      "index": 50,
+      "text": "What you did today — waving at her, saying goodbye — that is not scientific.",
+      "start_ms": 168743,
+      "end_ms": 174499
+    },
+    {
+      "index": 51,
+      "text": "That is not what we are supposed to do.",
+      "start_ms": 174499,
+      "end_ms": 177489
+    },
+    {
+      "index": 52,
+      "text": "But I did it too, in my head.",
+      "start_ms": 177489,
+      "end_ms": 179731
+    },
+    {
+      "index": 53,
+      "text": "I said goodbye to her too.",
+      "start_ms": 179731,
+      "end_ms": 181749
+    },
+    {
+      "index": 54,
+      "text": "Sometimes we do that.",
+      "start_ms": 181749,
+      "end_ms": 183394
+    },
+    {
+      "index": 55,
+      "text": "The birds do not know.",
+      "start_ms": 183394,
+      "end_ms": 185113
+    },
+    {
+      "index": 56,
+      "text": "But we know.",
+      "start_ms": 185113,
+      "end_ms": 186085
+    },
+    {
+      "index": 57,
+      "text": "I want you to keep doing it.",
+      "start_ms": 186085,
+      "end_ms": 188253
+    },
+    {
+      "index": 58,
+      "text": "Even when you are grown up and you are a scientist yourself.",
+      "start_ms": 188253,
+      "end_ms": 192812
+    },
+    {
+      "index": 59,
+      "text": "Do not stop doing it.",
+      "start_ms": 192812,
+      "end_ms": 194457
+    },
+    {
+      "index": 60,
+      "text": "It is important.\" Tamar nodded.",
+      "start_ms": 194457,
+      "end_ms": 196849
+    },
+    {
+      "index": 61,
+      "text": "She said, quietly, \"I won't stop.\"",
+      "start_ms": 196849,
+      "end_ms": 199540
+    },
+    {
+      "index": 62,
+      "text": "The autumn Tamar was thirteen, the reed warbler did not come.",
+      "start_ms": 199540,
+      "end_ms": 204174
+    },
+    {
+      "index": 63,
+      "text": "Tamar checked every net every day for three weeks.",
+      "start_ms": 204174,
+      "end_ms": 207986
+    },
+    {
+      "index": 64,
+      "text": "She caught other birds.",
+      "start_ms": 207986,
+      "end_ms": 209780
+    },
+    {
+      "index": 65,
+      "text": "She caught two reed warblers from other nesting populations, both freshly ringed by her.",
+      "start_ms": 209780,
+      "end_ms": 216433
+    },
+    {
+      "index": 66,
+      "text": "But A-471-338 did not come.",
+      "start_ms": 216433,
+      "end_ms": 218526
+    },
+    {
+      "index": 67,
+      "text": "Her father was gentle about it.",
+      "start_ms": 218526,
+      "end_ms": 220918
+    },
+    {
+      "index": 68,
+      "text": "He did not press.",
+      "start_ms": 220918,
+      "end_ms": 222263
+    },
+    {
+      "index": 69,
+      "text": "Tamar was quiet on the last day, when they packed up.",
+      "start_ms": 222263,
+      "end_ms": 226300
+    },
+    {
+      "index": 70,
+      "text": "In the jeep going home she looked out the window at the desert and she thought about her bird.",
+      "start_ms": 226300,
+      "end_ms": 233401
+    },
+    {
+      "index": 71,
+      "text": "Six autumns of life.",
+      "start_ms": 233401,
+      "end_ms": 234970
+    },
+    {
+      "index": 72,
+      "text": "Six migrations.",
+      "start_ms": 234970,
+      "end_ms": 236166
+    },
+    {
+      "index": 73,
+      "text": "Fifty thousand kilometers of flying.",
+      "start_ms": 236166,
+      "end_ms": 238932
+    },
+    {
+      "index": 74,
+      "text": "And then, somewhere, this year, she had stopped.",
+      "start_ms": 238932,
+      "end_ms": 242520
+    },
+    {
+      "index": 75,
+      "text": "Tamar said, \"Aba.",
+      "start_ms": 242520,
+      "end_ms": 243815
+    },
+    {
+      "index": 76,
+      "text": "Do you think she made it.",
+      "start_ms": 243815,
+      "end_ms": 245686
+    },
+    {
+      "index": 77,
+      "text": "Or do you think she died on the way.\" Her father thought carefully.",
+      "start_ms": 245686,
+      "end_ms": 250578
+    },
+    {
+      "index": 78,
+      "text": "He said, \"I do not know.",
+      "start_ms": 250578,
+      "end_ms": 252377
+    },
+    {
+      "index": 79,
+      "text": "Nobody knows.",
+      "start_ms": 252377,
+      "end_ms": 253384
+    },
+    {
+      "index": 80,
+      "text": "That is the honest answer.",
+      "start_ms": 253384,
+      "end_ms": 255327
+    },
+    {
+      "index": 81,
+      "text": "She had a good long life for her kind.",
+      "start_ms": 255327,
+      "end_ms": 258133
+    },
+    {
+      "index": 82,
+      "text": "She probably raised many chicks.",
+      "start_ms": 258133,
+      "end_ms": 260507
+    },
+    {
+      "index": 83,
+      "text": "She flew here and back many times.",
+      "start_ms": 260507,
+      "end_ms": 263025
+    },
+    {
+      "index": 84,
+      "text": "She saw things we cannot even imagine.",
+      "start_ms": 263025,
+      "end_ms": 265831
+    },
+    {
+      "index": 85,
+      "text": "What happened to her at the end — I don't know.",
+      "start_ms": 265831,
+      "end_ms": 269285
+    },
+    {
+      "index": 86,
+      "text": "But she had a real life.\" Tamar nodded.",
+      "start_ms": 269285,
+      "end_ms": 272163
+    },
+    {
+      "index": 87,
+      "text": "She kept looking out the window.",
+      "start_ms": 272163,
+      "end_ms": 274609
+    },
+    {
+      "index": 88,
+      "text": "When she got home that autumn, Tamar started a small notebook.",
+      "start_ms": 274609,
+      "end_ms": 279142
+    },
+    {
+      "index": 89,
+      "text": "On the first page she taped a tiny brown feather — one her father had let her keep, years before, from a bird that had died naturally in the mist net one hot afternoon.",
+      "start_ms": 279142,
+      "end_ms": 291301
+    },
+    {
+      "index": 90,
+      "text": "Beside the feather, she wrote in her most careful handwriting: A-471-338.",
+      "start_ms": 291301,
+      "end_ms": 296625
+    },
+    {
+      "index": 91,
+      "text": "European reed warbler.",
+      "start_ms": 296625,
+      "end_ms": 298280
+    },
+    {
+      "index": 92,
+      "text": "Female.",
+      "start_ms": 298280,
+      "end_ms": 298856
+    },
+    {
+      "index": 93,
+      "text": "Ringed 2023 in the Negev.",
+      "start_ms": 298856,
+      "end_ms": 300726
+    },
+    {
+      "index": 94,
+      "text": "Recaptured 2024, 2025, 2026, 2027.",
+      "start_ms": 300726,
+      "end_ms": 303244
+    },
+    {
+      "index": 95,
+      "text": "Not seen 2028.",
+      "start_ms": 303244,
+      "end_ms": 304324
+    },
+    {
+      "index": 96,
+      "text": "Approximate distance flown in life: 50,000 kilometers.",
+      "start_ms": 304324,
+      "end_ms": 308281
+    },
+    {
+      "index": 97,
+      "text": "Approximate weight: 11 grams.",
+      "start_ms": 308281,
+      "end_ms": 310511
+    },
+    {
+      "index": 98,
+      "text": "Underneath, she wrote: I noticed her.",
+      "start_ms": 310511,
+      "end_ms": 313245
+    },
+    {
+      "index": 99,
+      "text": "She was here.",
+      "start_ms": 313245,
+      "end_ms": 314252
+    },
+    {
+      "index": 100,
+      "text": "I want to be someone who keeps noticing.",
+      "start_ms": 314252,
+      "end_ms": 317202
+    },
+    {
+      "index": 101,
+      "text": "She looked at the page for a long moment.",
+      "start_ms": 317202,
+      "end_ms": 320224
+    },
+    {
+      "index": 102,
+      "text": "She closed the notebook.",
+      "start_ms": 320224,
+      "end_ms": 322023
+    },
+    {
+      "index": 103,
+      "text": "She would open it many times over the years.",
+      "start_ms": 322023,
+      "end_ms": 325261
+    },
+    {
+      "index": 104,
+      "text": "She would fill it with other birds.",
+      "start_ms": 325261,
+      "end_ms": 327851
+    },
+    {
+      "index": 105,
+      "text": "She would keep the record.",
+      "start_ms": 327851,
+      "end_ms": 329793
+    },
+    {
+      "index": 106,
+      "text": "That was what she had learned in the Negev.",
+      "start_ms": 329793,
+      "end_ms": 332959
+    },
+    {
+      "index": 107,
+      "text": "That the world was full of small persistent things that would go by unnoticed unless someone chose to notice them.",
+      "start_ms": 332959,
+      "end_ms": 341233
+    },
+    {
+      "index": 108,
+      "text": "And she was choosing.",
+      "start_ms": 341233,
+      "end_ms": 342744
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "story_id": "nightingale-terminal",
+  "chapter": 2,
+  "total_duration_ms": 384144,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "At about midnight Nazan went to buy them both more tea.",
+      "start_ms": 1632,
+      "end_ms": 5605
+    },
+    {
+      "index": 1,
+      "text": "She came back.",
+      "start_ms": 5605,
+      "end_ms": 6670
+    },
+    {
+      "index": 2,
+      "text": "She said, \"Sena.",
+      "start_ms": 6670,
+      "end_ms": 7876
+    },
+    {
+      "index": 3,
+      "text": "I want to tell you a small story.",
+      "start_ms": 7876,
+      "end_ms": 10288
+    },
+    {
+      "index": 4,
+      "text": "It is not a big story.",
+      "start_ms": 10288,
+      "end_ms": 11920
+    },
+    {
+      "index": 5,
+      "text": "It is my own story.",
+      "start_ms": 11920,
+      "end_ms": 13339
+    },
+    {
+      "index": 6,
+      "text": "But I want to tell you because I think it might be useful.",
+      "start_ms": 13339,
+      "end_ms": 17525
+    },
+    {
+      "index": 7,
+      "text": "Would you like to hear it?\" Sena said, \"Yes.\" Nazan settled herself.",
+      "start_ms": 17525,
+      "end_ms": 22421
+    },
+    {
+      "index": 8,
+      "text": "She held her tea in both hands.",
+      "start_ms": 22421,
+      "end_ms": 24762
+    },
+    {
+      "index": 9,
+      "text": "\"When I was your age,\" she said, \"I lived with my mother in a small village in central Turkey.",
+      "start_ms": 24762,
+      "end_ms": 31503
+    },
+    {
+      "index": 10,
+      "text": "My father worked in Istanbul.",
+      "start_ms": 31503,
+      "end_ms": 33631
+    },
+    {
+      "index": 11,
+      "text": "He was — he was a very poor man who had come to the city to look for work when he was young, and he had found work in Istanbul as a — a cook.",
+      "start_ms": 33631,
+      "end_ms": 43707
+    },
+    {
+      "index": 12,
+      "text": "In a restaurant.",
+      "start_ms": 43707,
+      "end_ms": 44913
+    },
+    {
+      "index": 13,
+      "text": "He sent money home to my mother.",
+      "start_ms": 44913,
+      "end_ms": 47254
+    },
+    {
+      "index": 14,
+      "text": "But he was not able to come home often.",
+      "start_ms": 47254,
+      "end_ms": 50092
+    },
+    {
+      "index": 15,
+      "text": "When he did come, it was for one week a year, at Ramadan.",
+      "start_ms": 50092,
+      "end_ms": 54208
+    },
+    {
+      "index": 16,
+      "text": "That was all we saw of him.",
+      "start_ms": 54208,
+      "end_ms": 56194
+    },
+    {
+      "index": 17,
+      "text": "I loved him very much.",
+      "start_ms": 56194,
+      "end_ms": 57826
+    },
+    {
+      "index": 18,
+      "text": "He loved me very much.",
+      "start_ms": 57826,
+      "end_ms": 59458
+    },
+    {
+      "index": 19,
+      "text": "But he was gone.",
+      "start_ms": 59458,
+      "end_ms": 60664
+    },
+    {
+      "index": 20,
+      "text": "That was the shape of my childhood.\"",
+      "start_ms": 60664,
+      "end_ms": 63361
+    },
+    {
+      "index": 21,
+      "text": "\"When I was eleven — the same age as you — my father asked me to come to Istanbul for a week to visit him, during the school holiday.",
+      "start_ms": 63361,
+      "end_ms": 72868
+    },
+    {
+      "index": 22,
+      "text": "Not with my mother.",
+      "start_ms": 72868,
+      "end_ms": 74287
+    },
+    {
+      "index": 23,
+      "text": "Just me.",
+      "start_ms": 74287,
+      "end_ms": 74926
+    },
+    {
+      "index": 24,
+      "text": "It was the first time I had been to Istanbul.",
+      "start_ms": 74926,
+      "end_ms": 78190
+    },
+    {
+      "index": 25,
+      "text": "I took a train — a bus, actually — for two whole days, alone, at eleven years old.",
+      "start_ms": 78190,
+      "end_ms": 84079
+    },
+    {
+      "index": 26,
+      "text": "That was different from now.",
+      "start_ms": 84079,
+      "end_ms": 86136
+    },
+    {
+      "index": 27,
+      "text": "At that time it was normal for children to travel alone if they had to.",
+      "start_ms": 86136,
+      "end_ms": 91245
+    },
+    {
+      "index": 28,
+      "text": "Nobody thought it was strange.",
+      "start_ms": 91245,
+      "end_ms": 93444
+    },
+    {
+      "index": 29,
+      "text": "I got to Istanbul.",
+      "start_ms": 93444,
+      "end_ms": 94793
+    },
+    {
+      "index": 30,
+      "text": "My father met me at the bus station.",
+      "start_ms": 94793,
+      "end_ms": 97418
+    },
+    {
+      "index": 31,
+      "text": "He took me to the small room he lived in.",
+      "start_ms": 97418,
+      "end_ms": 100398
+    },
+    {
+      "index": 32,
+      "text": "He worked in the evenings, at the restaurant, so I helped him.",
+      "start_ms": 100398,
+      "end_ms": 104868
+    },
+    {
+      "index": 33,
+      "text": "I brought him tea.",
+      "start_ms": 104868,
+      "end_ms": 106216
+    },
+    {
+      "index": 34,
+      "text": "I sat in a corner of the kitchen while he cooked.",
+      "start_ms": 106216,
+      "end_ms": 109764
+    },
+    {
+      "index": 35,
+      "text": "I watched.\"",
+      "start_ms": 109764,
+      "end_ms": 110544
+    },
+    {
+      "index": 36,
+      "text": "\"After that first visit, my mother let me go to see him for a week every summer.",
+      "start_ms": 110544,
+      "end_ms": 115732
+    },
+    {
+      "index": 37,
+      "text": "From when I was eleven until when I was seventeen.",
+      "start_ms": 115732,
+      "end_ms": 118999
+    },
+    {
+      "index": 38,
+      "text": "Seven summers.",
+      "start_ms": 118999,
+      "end_ms": 119960
+    },
+    {
+      "index": 39,
+      "text": "Every summer I took the bus.",
+      "start_ms": 119960,
+      "end_ms": 121817
+    },
+    {
+      "index": 40,
+      "text": "Every summer I helped him at the restaurant.",
+      "start_ms": 121817,
+      "end_ms": 124700
+    },
+    {
+      "index": 41,
+      "text": "Every summer I watched him cook.",
+      "start_ms": 124700,
+      "end_ms": 126814
+    },
+    {
+      "index": 42,
+      "text": "He taught me.",
+      "start_ms": 126814,
+      "end_ms": 127710
+    },
+    {
+      "index": 43,
+      "text": "He taught me a lot.",
+      "start_ms": 127710,
+      "end_ms": 128991
+    },
+    {
+      "index": 44,
+      "text": "When I was fifteen he had saved enough that he could come home for two months in the summer instead of one week at Ramadan.",
+      "start_ms": 128991,
+      "end_ms": 136934
+    },
+    {
+      "index": 45,
+      "text": "Then when I was seventeen — the last summer I went to see him in Istanbul — he told me he had saved enough to come home for good.",
+      "start_ms": 136934,
+      "end_ms": 145261
+    },
+    {
+      "index": 46,
+      "text": "He was going to close his part of the business in Istanbul and come and live with us again.",
+      "start_ms": 145261,
+      "end_ms": 151154
+    },
+    {
+      "index": 47,
+      "text": "And he did.",
+      "start_ms": 151154,
+      "end_ms": 151923
+    },
+    {
+      "index": 48,
+      "text": "He came home.",
+      "start_ms": 151923,
+      "end_ms": 152819
+    },
+    {
+      "index": 49,
+      "text": "He lived with my mother and me for another twenty-two years.",
+      "start_ms": 152819,
+      "end_ms": 156727
+    },
+    {
+      "index": 50,
+      "text": "Until he died.",
+      "start_ms": 156727,
+      "end_ms": 157687
+    },
+    {
+      "index": 51,
+      "text": "He died an old man in a small village in central Turkey with his family around him.\"",
+      "start_ms": 157687,
+      "end_ms": 163196
+    },
+    {
+      "index": 52,
+      "text": "\"Sena,\" said Nazan.",
+      "start_ms": 163196,
+      "end_ms": 164477
+    },
+    {
+      "index": 53,
+      "text": "\"I want you to hear the important part.",
+      "start_ms": 164477,
+      "end_ms": 167039
+    },
+    {
+      "index": 54,
+      "text": "Those seven summers I was going to Istanbul to see my father.",
+      "start_ms": 167039,
+      "end_ms": 171011
+    },
+    {
+      "index": 55,
+      "text": "That was — very hard.",
+      "start_ms": 171011,
+      "end_ms": 172420
+    },
+    {
+      "index": 56,
+      "text": "I missed my mother the whole week.",
+      "start_ms": 172420,
+      "end_ms": 174662
+    },
+    {
+      "index": 57,
+      "text": "When I came back, I missed my father.",
+      "start_ms": 174662,
+      "end_ms": 177096
+    },
+    {
+      "index": 58,
+      "text": "That was the whole shape of my life.",
+      "start_ms": 177096,
+      "end_ms": 179466
+    },
+    {
+      "index": 59,
+      "text": "When I was your age I thought — I will never really be happy.",
+      "start_ms": 179466,
+      "end_ms": 183437
+    },
+    {
+      "index": 60,
+      "text": "I will always be missing someone.",
+      "start_ms": 183437,
+      "end_ms": 185615
+    },
+    {
+      "index": 61,
+      "text": "That is what I thought.\"",
+      "start_ms": 185615,
+      "end_ms": 187152
+    },
+    {
+      "index": 62,
+      "text": "\"But — and here is what I want you to know — I was wrong.",
+      "start_ms": 187152,
+      "end_ms": 191530
+    },
+    {
+      "index": 63,
+      "text": "I was not unhappy.",
+      "start_ms": 191530,
+      "end_ms": 192964
+    },
+    {
+      "index": 64,
+      "text": "I was learning something that most children do not learn.",
+      "start_ms": 192964,
+      "end_ms": 197342
+    },
+    {
+      "index": 65,
+      "text": "I was learning how to be with people, and how to remember people.",
+      "start_ms": 197342,
+      "end_ms": 202323
+    },
+    {
+      "index": 66,
+      "text": "I was learning that you can love someone deeply and not see them for months, and it does not damage the love.",
+      "start_ms": 202323,
+      "end_ms": 210626
+    },
+    {
+      "index": 67,
+      "text": "In fact it makes the love — different.",
+      "start_ms": 210626,
+      "end_ms": 213570
+    },
+    {
+      "index": 68,
+      "text": "Bigger.",
+      "start_ms": 213570,
+      "end_ms": 214173
+    },
+    {
+      "index": 69,
+      "text": "More stubborn.",
+      "start_ms": 214173,
+      "end_ms": 215306
+    },
+    {
+      "index": 70,
+      "text": "Because it has to be big enough to survive the not-seeing.",
+      "start_ms": 215306,
+      "end_ms": 219759
+    },
+    {
+      "index": 71,
+      "text": "When I finally lived with both my parents, when I was seventeen, I already knew how to love people through absence.",
+      "start_ms": 219759,
+      "end_ms": 228514
+    },
+    {
+      "index": 72,
+      "text": "That has served me my whole life.",
+      "start_ms": 228514,
+      "end_ms": 231081
+    },
+    {
+      "index": 73,
+      "text": "I have lived in Istanbul for fifty-six years.",
+      "start_ms": 231081,
+      "end_ms": 234553
+    },
+    {
+      "index": 74,
+      "text": "My mother, my father — they died in the village.",
+      "start_ms": 234553,
+      "end_ms": 238251
+    },
+    {
+      "index": 75,
+      "text": "My son now lives in Frankfurt.",
+      "start_ms": 238251,
+      "end_ms": 240591
+    },
+    {
+      "index": 76,
+      "text": "My friends are scattered.",
+      "start_ms": 240591,
+      "end_ms": 242553
+    },
+    {
+      "index": 77,
+      "text": "I do not have anyone close to me.",
+      "start_ms": 242553,
+      "end_ms": 245120
+    },
+    {
+      "index": 78,
+      "text": "But I am not lonely.",
+      "start_ms": 245120,
+      "end_ms": 246705
+    },
+    {
+      "index": 79,
+      "text": "I know how to be with people who are not there.",
+      "start_ms": 246705,
+      "end_ms": 250328
+    },
+    {
+      "index": 80,
+      "text": "You are learning this too, Sena.",
+      "start_ms": 250328,
+      "end_ms": 252819
+    },
+    {
+      "index": 81,
+      "text": "Right now.",
+      "start_ms": 252819,
+      "end_ms": 253649
+    },
+    {
+      "index": 82,
+      "text": "That is what these flights are teaching you.\"",
+      "start_ms": 253649,
+      "end_ms": 257196
+    },
+    {
+      "index": 83,
+      "text": "Sena sat with this for a while.",
+      "start_ms": 257196,
+      "end_ms": 259612
+    },
+    {
+      "index": 84,
+      "text": "She said, \"How do you — how do you do it.",
+      "start_ms": 259612,
+      "end_ms": 262782
+    },
+    {
+      "index": 85,
+      "text": "How do you love someone who is not there.\" Nazan thought.",
+      "start_ms": 262782,
+      "end_ms": 267160
+    },
+    {
+      "index": 86,
+      "text": "She said, \"You think of them at specific times.",
+      "start_ms": 267160,
+      "end_ms": 270783
+    },
+    {
+      "index": 87,
+      "text": "You do not try to hold on to them all the time — that will exhaust you.",
+      "start_ms": 270783,
+      "end_ms": 276217
+    },
+    {
+      "index": 88,
+      "text": "You choose a time.",
+      "start_ms": 276217,
+      "end_ms": 277651
+    },
+    {
+      "index": 89,
+      "text": "For me, when I was your age, I always thought of my father at sunset, wherever I was, and I always thought of my mother in the very early morning.",
+      "start_ms": 277651,
+      "end_ms": 288747
+    },
+    {
+      "index": 90,
+      "text": "Sunset was his time.",
+      "start_ms": 288747,
+      "end_ms": 290332
+    },
+    {
+      "index": 91,
+      "text": "Morning was hers.",
+      "start_ms": 290332,
+      "end_ms": 291690
+    },
+    {
+      "index": 92,
+      "text": "That way I could go on with my day.",
+      "start_ms": 291690,
+      "end_ms": 294407
+    },
+    {
+      "index": 93,
+      "text": "But those two moments were theirs.\"",
+      "start_ms": 294407,
+      "end_ms": 297200
+    },
+    {
+      "index": 94,
+      "text": "\"Also — you write to them.",
+      "start_ms": 297200,
+      "end_ms": 299238
+    },
+    {
+      "index": 95,
+      "text": "Real letters, if you can.",
+      "start_ms": 299238,
+      "end_ms": 301201
+    },
+    {
+      "index": 96,
+      "text": "Not the fast little messages.",
+      "start_ms": 301201,
+      "end_ms": 303465
+    },
+    {
+      "index": 97,
+      "text": "Real letters.",
+      "start_ms": 303465,
+      "end_ms": 304522
+    },
+    {
+      "index": 98,
+      "text": "My father and I wrote letters for those seven years.",
+      "start_ms": 304522,
+      "end_ms": 308522
+    },
+    {
+      "index": 99,
+      "text": "He kept mine.",
+      "start_ms": 308522,
+      "end_ms": 309579
+    },
+    {
+      "index": 100,
+      "text": "When he died, my mother found them all in a box.",
+      "start_ms": 309579,
+      "end_ms": 313277
+    },
+    {
+      "index": 101,
+      "text": "I still have them.",
+      "start_ms": 313277,
+      "end_ms": 314711
+    },
+    {
+      "index": 102,
+      "text": "They are proof that we loved each other across a distance.",
+      "start_ms": 314711,
+      "end_ms": 319165
+    },
+    {
+      "index": 103,
+      "text": "Something you can hold.\"",
+      "start_ms": 319165,
+      "end_ms": 320976
+    },
+    {
+      "index": 104,
+      "text": "By about two in the morning, Sena was sleepy.",
+      "start_ms": 320976,
+      "end_ms": 323770
+    },
+    {
+      "index": 105,
+      "text": "Nazan noticed.",
+      "start_ms": 323770,
+      "end_ms": 324681
+    },
+    {
+      "index": 106,
+      "text": "She said, \"Sena.",
+      "start_ms": 324681,
+      "end_ms": 325714
+    },
+    {
+      "index": 107,
+      "text": "Sleep for a while.",
+      "start_ms": 325714,
+      "end_ms": 326868
+    },
+    {
+      "index": 108,
+      "text": "I will stay here.",
+      "start_ms": 326868,
+      "end_ms": 327961
+    },
+    {
+      "index": 109,
+      "text": "I will not leave.",
+      "start_ms": 327961,
+      "end_ms": 329054
+    },
+    {
+      "index": 110,
+      "text": "When it is time for your flight I will wake you.",
+      "start_ms": 329054,
+      "end_ms": 332030
+    },
+    {
+      "index": 111,
+      "text": "You are safe.",
+      "start_ms": 332030,
+      "end_ms": 332881
+    },
+    {
+      "index": 112,
+      "text": "Sleep.\" Sena said, \"Are you sure.\" Nazan said, \"Yes.",
+      "start_ms": 332881,
+      "end_ms": 336100
+    },
+    {
+      "index": 113,
+      "text": "I have slept many times in airports.",
+      "start_ms": 336100,
+      "end_ms": 338347
+    },
+    {
+      "index": 114,
+      "text": "It will be better for you if you sleep for a few hours.",
+      "start_ms": 338347,
+      "end_ms": 341749
+    },
+    {
+      "index": 115,
+      "text": "Come.",
+      "start_ms": 341749,
+      "end_ms": 342113
+    },
+    {
+      "index": 116,
+      "text": "Put your bag under your head.",
+      "start_ms": 342113,
+      "end_ms": 343935
+    },
+    {
+      "index": 117,
+      "text": "Curl up.",
+      "start_ms": 343935,
+      "end_ms": 344482
+    },
+    {
+      "index": 118,
+      "text": "I will read my book.\"",
+      "start_ms": 344482,
+      "end_ms": 345879
+    },
+    {
+      "index": 119,
+      "text": "Sena did not think she would fall asleep.",
+      "start_ms": 345879,
+      "end_ms": 348430
+    },
+    {
+      "index": 120,
+      "text": "But she did.",
+      "start_ms": 348430,
+      "end_ms": 349219
+    },
+    {
+      "index": 121,
+      "text": "She fell asleep almost immediately.",
+      "start_ms": 349219,
+      "end_ms": 351406
+    },
+    {
+      "index": 122,
+      "text": "She slept for four hours.",
+      "start_ms": 351406,
+      "end_ms": 352985
+    },
+    {
+      "index": 123,
+      "text": "She had strange dreams.",
+      "start_ms": 352985,
+      "end_ms": 354443
+    },
+    {
+      "index": 124,
+      "text": "She dreamed about her mother's kitchen in Frankfurt.",
+      "start_ms": 354443,
+      "end_ms": 357662
+    },
+    {
+      "index": 125,
+      "text": "She dreamed about her father's small apartment in Singapore.",
+      "start_ms": 357662,
+      "end_ms": 361367
+    },
+    {
+      "index": 126,
+      "text": "She dreamed she was in a village in central Turkey with a very old man who was cooking.",
+      "start_ms": 361367,
+      "end_ms": 366712
+    },
+    {
+      "index": 127,
+      "text": "When she woke up, at six in the morning, Nazan was still there.",
+      "start_ms": 366712,
+      "end_ms": 370599
+    },
+    {
+      "index": 128,
+      "text": "Her hand was on Sena's shoulder.",
+      "start_ms": 370599,
+      "end_ms": 372604
+    },
+    {
+      "index": 129,
+      "text": "She was reading a small book.",
+      "start_ms": 372604,
+      "end_ms": 374426
+    },
+    {
+      "index": 130,
+      "text": "She looked down.",
+      "start_ms": 374426,
+      "end_ms": 375458
+    },
+    {
+      "index": 131,
+      "text": "She smiled.",
+      "start_ms": 375458,
+      "end_ms": 376187
+    },
+    {
+      "index": 132,
+      "text": "She said, \"You slept well.",
+      "start_ms": 376187,
+      "end_ms": 377827
+    },
+    {
+      "index": 133,
+      "text": "That is good.",
+      "start_ms": 377827,
+      "end_ms": 378678
+    },
+    {
+      "index": 134,
+      "text": "Now we should eat something and freshen up.",
+      "start_ms": 378678,
+      "end_ms": 381350
+    },
+    {
+      "index": 135,
+      "text": "My flight is in two hours.",
+      "start_ms": 381350,
+      "end_ms": 382990
+    },
+    {
+      "index": 136,
+      "text": "Yours is in three.\"",
+      "start_ms": 382990,
+      "end_ms": 384144
+    }
+  ]
+}

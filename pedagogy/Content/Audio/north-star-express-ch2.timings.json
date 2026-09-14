@@ -1,0 +1,517 @@
+{
+  "story_id": "north-star-express",
+  "chapter": 2,
+  "total_duration_ms": 342816,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Elena slept badly the first night.",
+      "start_ms": 1966,
+      "end_ms": 4338
+    },
+    {
+      "index": 1,
+      "text": "She was on the upper bunk again, because Anna Petrovna had gone back to her own bunk after supper.",
+      "start_ms": 4338,
+      "end_ms": 11049
+    },
+    {
+      "index": 2,
+      "text": "The train shook.",
+      "start_ms": 11049,
+      "end_ms": 12201
+    },
+    {
+      "index": 3,
+      "text": "The wheels made a rhythmic sound that she could not stop hearing.",
+      "start_ms": 12201,
+      "end_ms": 16675
+    },
+    {
+      "index": 4,
+      "text": "She heard doors opening and closing far away in the corridor at all hours.",
+      "start_ms": 16675,
+      "end_ms": 21759
+    },
+    {
+      "index": 5,
+      "text": "She missed her own bed.",
+      "start_ms": 21759,
+      "end_ms": 23386
+    },
+    {
+      "index": 6,
+      "text": "She missed her mother.",
+      "start_ms": 23386,
+      "end_ms": 24945
+    },
+    {
+      "index": 7,
+      "text": "She got up at 5 in the morning when the sky started to go grey, and sat with her forehead against the cold window and watched the country roll by.",
+      "start_ms": 24945,
+      "end_ms": 34909
+    },
+    {
+      "index": 8,
+      "text": "Everything looked the same.",
+      "start_ms": 34909,
+      "end_ms": 36807
+    },
+    {
+      "index": 9,
+      "text": "Forest, then grass, then a small village, then forest again.",
+      "start_ms": 36807,
+      "end_ms": 40942
+    },
+    {
+      "index": 10,
+      "text": "She did not know exactly where they were.",
+      "start_ms": 40942,
+      "end_ms": 43857
+    },
+    {
+      "index": 11,
+      "text": "Anna Petrovna got off the train at Perm in the middle of the second morning.",
+      "start_ms": 43857,
+      "end_ms": 49076
+    },
+    {
+      "index": 12,
+      "text": "Before she left, she pressed something small into Elena's hand — a piece of hard candy in a paper twist.",
+      "start_ms": 49076,
+      "end_ms": 56194
+    },
+    {
+      "index": 13,
+      "text": "\"You are a serious girl,\" she said.",
+      "start_ms": 56194,
+      "end_ms": 58634
+    },
+    {
+      "index": 14,
+      "text": "\"That is a good thing to be.",
+      "start_ms": 58634,
+      "end_ms": 60600
+    },
+    {
+      "index": 15,
+      "text": "But make sure you look out the window even when you do not feel like looking.",
+      "start_ms": 60600,
+      "end_ms": 65887
+    },
+    {
+      "index": 16,
+      "text": "There is a lot of country going by that you will only see once.",
+      "start_ms": 65887,
+      "end_ms": 70225
+    },
+    {
+      "index": 17,
+      "text": "Do not miss it.\" Then she was gone.",
+      "start_ms": 70225,
+      "end_ms": 72666
+    },
+    {
+      "index": 18,
+      "text": "Elena watched her walk down the platform.",
+      "start_ms": 72666,
+      "end_ms": 75512
+    },
+    {
+      "index": 19,
+      "text": "She was surprised by how much she missed her, and she had only known her for eighteen hours.",
+      "start_ms": 75512,
+      "end_ms": 81884
+    },
+    {
+      "index": 20,
+      "text": "The person who got on at Perm was completely different.",
+      "start_ms": 81884,
+      "end_ms": 85680
+    },
+    {
+      "index": 21,
+      "text": "She was maybe seventy years old, and she was very small, and she wore a long dark coat with a fur collar and pearl earrings, and she carried a small brown dachshund in her arm.",
+      "start_ms": 85680,
+      "end_ms": 97678
+    },
+    {
+      "index": 22,
+      "text": "She looked around the compartment as if she had been shown to somewhere very unsuitable and was making the best of it.",
+      "start_ms": 97678,
+      "end_ms": 105745
+    },
+    {
+      "index": 23,
+      "text": "Then she saw Elena and her face changed.",
+      "start_ms": 105745,
+      "end_ms": 108456
+    },
+    {
+      "index": 24,
+      "text": "\"Hello,\" she said, in Russian.",
+      "start_ms": 108456,
+      "end_ms": 110337
+    },
+    {
+      "index": 25,
+      "text": "Then, when Elena's expression made it clear she did not speak Russian well, she switched to French.",
+      "start_ms": 110337,
+      "end_ms": 116404
+    },
+    {
+      "index": 26,
+      "text": "Elena did not speak French either.",
+      "start_ms": 116404,
+      "end_ms": 118528
+    },
+    {
+      "index": 27,
+      "text": "Then she switched to English.",
+      "start_ms": 118528,
+      "end_ms": 120348
+    },
+    {
+      "index": 28,
+      "text": "\"Hello, dear.",
+      "start_ms": 120348,
+      "end_ms": 121197
+    },
+    {
+      "index": 29,
+      "text": "What is your name?\" \"Elena.\" \"How lovely.",
+      "start_ms": 121197,
+      "end_ms": 123745
+    },
+    {
+      "index": 30,
+      "text": "I am Vera Ilinichna.",
+      "start_ms": 123745,
+      "end_ms": 125019
+    },
+    {
+      "index": 31,
+      "text": "This is Boris.\" She lifted the dachshund slightly.",
+      "start_ms": 125019,
+      "end_ms": 128114
+    },
+    {
+      "index": 32,
+      "text": "Boris looked at Elena with a very dignified expression and then looked away.",
+      "start_ms": 128114,
+      "end_ms": 132785
+    },
+    {
+      "index": 33,
+      "text": "\"We are traveling to Novosibirsk.",
+      "start_ms": 132785,
+      "end_ms": 134848
+    },
+    {
+      "index": 34,
+      "text": "I am going to sing at a concert.\" \"Sing,\" said Elena.",
+      "start_ms": 134848,
+      "end_ms": 138125
+    },
+    {
+      "index": 35,
+      "text": "\"Yes, dear.",
+      "start_ms": 138125,
+      "end_ms": 138853
+    },
+    {
+      "index": 36,
+      "text": "I was an opera singer for forty years.",
+      "start_ms": 138853,
+      "end_ms": 141219
+    },
+    {
+      "index": 37,
+      "text": "I still sing sometimes.",
+      "start_ms": 141219,
+      "end_ms": 142675
+    },
+    {
+      "index": 38,
+      "text": "Old friends invite me.",
+      "start_ms": 142675,
+      "end_ms": 144070
+    },
+    {
+      "index": 39,
+      "text": "I bring Boris everywhere.\"",
+      "start_ms": 144070,
+      "end_ms": 145769
+    },
+    {
+      "index": 40,
+      "text": "Vera Ilinichna was completely unlike Anna Petrovna.",
+      "start_ms": 145769,
+      "end_ms": 148924
+    },
+    {
+      "index": 41,
+      "text": "She talked constantly.",
+      "start_ms": 148924,
+      "end_ms": 150320
+    },
+    {
+      "index": 42,
+      "text": "She told Elena about the operas she had sung in, and the cities she had been to, and the men she had loved, and a dinner she had once had with a Japanese diplomat.",
+      "start_ms": 150320,
+      "end_ms": 160270
+    },
+    {
+      "index": 43,
+      "text": "She fed Boris small pieces of cheese from a wax paper.",
+      "start_ms": 160270,
+      "end_ms": 163607
+    },
+    {
+      "index": 44,
+      "text": "She rearranged all of Elena's things without asking and put them in what she said was a better order.",
+      "start_ms": 163607,
+      "end_ms": 169795
+    },
+    {
+      "index": 45,
+      "text": "Elena was, at first, a little overwhelmed by her, and then, slowly, she started to enjoy her.",
+      "start_ms": 169795,
+      "end_ms": 175559
+    },
+    {
+      "index": 46,
+      "text": "That night, Vera Ilinichna sang a very quiet song, just for Elena, sitting on the lower bunk.",
+      "start_ms": 175559,
+      "end_ms": 181262
+    },
+    {
+      "index": 47,
+      "text": "It was in Italian and Elena did not know the words but the tune was soft and slow and old, and Boris fell asleep on Vera's lap while she sang it, and Elena, who had thought she was not going to sleep at all, fell asleep during the second verse.",
+      "start_ms": 181262,
+      "end_ms": 196127
+    },
+    {
+      "index": 48,
+      "text": "It was the best night of the trip so far.",
+      "start_ms": 196127,
+      "end_ms": 198736
+    },
+    {
+      "index": 49,
+      "text": "On the third day Elena was standing at the samovar filling her cup for tea when another boy came up beside her with two cups.",
+      "start_ms": 198736,
+      "end_ms": 206381
+    },
+    {
+      "index": 50,
+      "text": "He was thin and had dark hair, and he was maybe a year older than her.",
+      "start_ms": 206381,
+      "end_ms": 210688
+    },
+    {
+      "index": 51,
+      "text": "He waited for her to finish, and while she was screwing the lid back on her tea, he held something out to her without speaking.",
+      "start_ms": 210688,
+      "end_ms": 218454
+    },
+    {
+      "index": 52,
+      "text": "It was a piece of dried apricot in a small square of wax paper.",
+      "start_ms": 218454,
+      "end_ms": 222337
+    },
+    {
+      "index": 53,
+      "text": "She looked at it.",
+      "start_ms": 222337,
+      "end_ms": 223429
+    },
+    {
+      "index": 54,
+      "text": "He shrugged.",
+      "start_ms": 223429,
+      "end_ms": 224218
+    },
+    {
+      "index": 55,
+      "text": "\"You look sad,\" he said, in careful English.",
+      "start_ms": 224218,
+      "end_ms": 226948
+    },
+    {
+      "index": 56,
+      "text": "\"Apricot helps.",
+      "start_ms": 226948,
+      "end_ms": 227919
+    },
+    {
+      "index": 57,
+      "text": "My grandmother taught me this.\"",
+      "start_ms": 227919,
+      "end_ms": 229800
+    },
+    {
+      "index": 58,
+      "text": "She took the apricot.",
+      "start_ms": 229800,
+      "end_ms": 231243
+    },
+    {
+      "index": 59,
+      "text": "He filled his cups and went back to his compartment.",
+      "start_ms": 231243,
+      "end_ms": 234719
+    },
+    {
+      "index": 60,
+      "text": "She did not know his name.",
+      "start_ms": 234719,
+      "end_ms": 236490
+    },
+    {
+      "index": 61,
+      "text": "She did not see him again for the rest of the trip.",
+      "start_ms": 236490,
+      "end_ms": 239901
+    },
+    {
+      "index": 62,
+      "text": "But she ate the apricot slowly, back in her bunk, and it was sweet and chewy and tasted like sun, and she thought about what Anna Petrovna had said — that on this train, all the people would be kind to her.",
+      "start_ms": 239901,
+      "end_ms": 253479
+    },
+    {
+      "index": 63,
+      "text": "Even a boy who did not know her.",
+      "start_ms": 253479,
+      "end_ms": 255643
+    },
+    {
+      "index": 64,
+      "text": "Even a boy she would never see again.",
+      "start_ms": 255643,
+      "end_ms": 258136
+    },
+    {
+      "index": 65,
+      "text": "And she felt, for the first time on the trip, that she was going to be all right.",
+      "start_ms": 258136,
+      "end_ms": 263515
+    },
+    {
+      "index": 66,
+      "text": "She was not sure why.",
+      "start_ms": 263515,
+      "end_ms": 264958
+    },
+    {
+      "index": 67,
+      "text": "It was such a small thing.",
+      "start_ms": 264958,
+      "end_ms": 266729
+    },
+    {
+      "index": 68,
+      "text": "But she felt it.",
+      "start_ms": 266729,
+      "end_ms": 267909
+    },
+    {
+      "index": 69,
+      "text": "Vera Ilinichna and Boris got off at Novosibirsk in the middle of the third night, and the compartment was quiet after that.",
+      "start_ms": 267909,
+      "end_ms": 276043
+    },
+    {
+      "index": 70,
+      "text": "A quiet man got on and slept on the opposite bunk without saying anything.",
+      "start_ms": 276043,
+      "end_ms": 280962
+    },
+    {
+      "index": 71,
+      "text": "Elena spent most of the fourth day alone at the small table under the window, writing in a notebook.",
+      "start_ms": 280962,
+      "end_ms": 287587
+    },
+    {
+      "index": 72,
+      "text": "She had not written in it since she had left Moscow — she had thought she would write every day and she had not — but on the fourth day she started writing about the people she had met so far.",
+      "start_ms": 287587,
+      "end_ms": 300246
+    },
+    {
+      "index": 73,
+      "text": "Anna Petrovna.",
+      "start_ms": 300246,
+      "end_ms": 301230
+    },
+    {
+      "index": 74,
+      "text": "Vera Ilinichna.",
+      "start_ms": 301230,
+      "end_ms": 302280
+    },
+    {
+      "index": 75,
+      "text": "The boy with the apricot.",
+      "start_ms": 302280,
+      "end_ms": 303985
+    },
+    {
+      "index": 76,
+      "text": "She wrote small descriptions of each of them, so she would not forget them.",
+      "start_ms": 303985,
+      "end_ms": 309036
+    },
+    {
+      "index": 77,
+      "text": "She looked up sometimes and watched the country.",
+      "start_ms": 309036,
+      "end_ms": 312250
+    },
+    {
+      "index": 78,
+      "text": "It had changed a lot since Moscow.",
+      "start_ms": 312250,
+      "end_ms": 314546
+    },
+    {
+      "index": 79,
+      "text": "The forests were darker now — more pine, less birch.",
+      "start_ms": 314546,
+      "end_ms": 318022
+    },
+    {
+      "index": 80,
+      "text": "The villages were farther between.",
+      "start_ms": 318022,
+      "end_ms": 320318
+    },
+    {
+      "index": 81,
+      "text": "The sky felt bigger.",
+      "start_ms": 320318,
+      "end_ms": 321695
+    },
+    {
+      "index": 82,
+      "text": "She thought about how the same train that had left the Yaroslavsky Station was still moving her forward, hour after hour, through a country she had never seen.",
+      "start_ms": 321695,
+      "end_ms": 332190
+    },
+    {
+      "index": 83,
+      "text": "She thought that when she was old, she would remember this trip.",
+      "start_ms": 332190,
+      "end_ms": 336454
+    },
+    {
+      "index": 84,
+      "text": "She thought that a person's life had, in it, a few train journeys, and that this was one of hers.",
+      "start_ms": 336454,
+      "end_ms": 342816
+    }
+  ]
+}

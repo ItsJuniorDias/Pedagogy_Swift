@@ -1,0 +1,613 @@
+{
+  "story_id": "flower-clock",
+  "chapter": 2,
+  "total_duration_ms": 268032,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "For the first trial, Fern picked evening primrose — the real kind, not Grandpa's little pink one.",
+      "start_ms": 1740,
+      "end_ms": 7828
+    },
+    {
+      "index": 1,
+      "text": "She and Grandpa planted three of them in the small experimental bed near the greenhouse.",
+      "start_ms": 7828,
+      "end_ms": 13358
+    },
+    {
+      "index": 2,
+      "text": "Grandpa had a whole small bed for testing flowers, so you did not have to commit to putting something in the clock until you knew it worked.",
+      "start_ms": 13358,
+      "end_ms": 22118
+    },
+    {
+      "index": 3,
+      "text": "The evening primroses grew fast.",
+      "start_ms": 22118,
+      "end_ms": 24169
+    },
+    {
+      "index": 4,
+      "text": "By the end of the second week they had buds.",
+      "start_ms": 24169,
+      "end_ms": 27026
+    },
+    {
+      "index": 5,
+      "text": "The first flower opened at 7:32 in the evening.",
+      "start_ms": 27026,
+      "end_ms": 30009
+    },
+    {
+      "index": 6,
+      "text": "Fern was there with her watch.",
+      "start_ms": 30009,
+      "end_ms": 31935
+    },
+    {
+      "index": 7,
+      "text": "She wrote it down.",
+      "start_ms": 31935,
+      "end_ms": 33115
+    },
+    {
+      "index": 8,
+      "text": "The second flower opened at 7:40.",
+      "start_ms": 33115,
+      "end_ms": 35228
+    },
+    {
+      "index": 9,
+      "text": "The third opened at 7:15.",
+      "start_ms": 35228,
+      "end_ms": 36843
+    },
+    {
+      "index": 10,
+      "text": "She showed Grandpa.",
+      "start_ms": 36843,
+      "end_ms": 38086
+    },
+    {
+      "index": 11,
+      "text": "\"They are all in that range,\" she said.",
+      "start_ms": 38086,
+      "end_ms": 40571
+    },
+    {
+      "index": 12,
+      "text": "\"Not five.",
+      "start_ms": 40571,
+      "end_ms": 41254
+    },
+    {
+      "index": 13,
+      "text": "More like seven-thirty.\" Grandpa nodded.",
+      "start_ms": 41254,
+      "end_ms": 43802
+    },
+    {
+      "index": 14,
+      "text": "\"Beautiful flowers,\" he said.",
+      "start_ms": 43802,
+      "end_ms": 45665
+    },
+    {
+      "index": 15,
+      "text": "\"But not for our clock.",
+      "start_ms": 45665,
+      "end_ms": 47157
+    },
+    {
+      "index": 16,
+      "text": "Some flowers are stubborn about their hour, and some are flexible, and the ones we want are stubborn.",
+      "start_ms": 47157,
+      "end_ms": 53494
+    },
+    {
+      "index": 17,
+      "text": "Try again.\"",
+      "start_ms": 53494,
+      "end_ms": 54302
+    },
+    {
+      "index": 18,
+      "text": "For the second trial, she chose night phlox.",
+      "start_ms": 54302,
+      "end_ms": 57097
+    },
+    {
+      "index": 19,
+      "text": "It had white flowers with a strong sweet smell, and the book had said it opened in the late afternoon.",
+      "start_ms": 57097,
+      "end_ms": 63497
+    },
+    {
+      "index": 20,
+      "text": "Grandpa was doubtful — he thought it opened too late.",
+      "start_ms": 63497,
+      "end_ms": 66852
+    },
+    {
+      "index": 21,
+      "text": "But he agreed to try.",
+      "start_ms": 66852,
+      "end_ms": 68219
+    },
+    {
+      "index": 22,
+      "text": "They planted five of them.",
+      "start_ms": 68219,
+      "end_ms": 69896
+    },
+    {
+      "index": 23,
+      "text": "They grew.",
+      "start_ms": 69896,
+      "end_ms": 70580
+    },
+    {
+      "index": 24,
+      "text": "They bloomed.",
+      "start_ms": 70580,
+      "end_ms": 71449
+    },
+    {
+      "index": 25,
+      "text": "They opened at six-thirty in the evening.",
+      "start_ms": 71449,
+      "end_ms": 74059
+    },
+    {
+      "index": 26,
+      "text": "Not five.",
+      "start_ms": 74059,
+      "end_ms": 74742
+    },
+    {
+      "index": 27,
+      "text": "\"Two down,\" Grandpa said cheerfully.",
+      "start_ms": 74742,
+      "end_ms": 77041
+    },
+    {
+      "index": 28,
+      "text": "He did not seem discouraged.",
+      "start_ms": 77041,
+      "end_ms": 78843
+    },
+    {
+      "index": 29,
+      "text": "He had done this many times before.",
+      "start_ms": 78843,
+      "end_ms": 81079
+    },
+    {
+      "index": 30,
+      "text": "\"Third time may or may not be the charm.",
+      "start_ms": 81079,
+      "end_ms": 83627
+    },
+    {
+      "index": 31,
+      "text": "Do not worry about it.\" Fern was worried about it, though.",
+      "start_ms": 83627,
+      "end_ms": 87292
+    },
+    {
+      "index": 32,
+      "text": "She was worried the summer was going to end and she was not going to find a good flower and Grandpa would have to wait another whole year.",
+      "start_ms": 87292,
+      "end_ms": 95929
+    },
+    {
+      "index": 33,
+      "text": "She started reading more carefully.",
+      "start_ms": 95929,
+      "end_ms": 98165
+    },
+    {
+      "index": 34,
+      "text": "She started asking Grandpa questions.",
+      "start_ms": 98165,
+      "end_ms": 100464
+    },
+    {
+      "index": 35,
+      "text": "\"Grandpa,\" she said one evening.",
+      "start_ms": 100464,
+      "end_ms": 102306
+    },
+    {
+      "index": 36,
+      "text": "\"When you chose the flowers for the other hours — did you always know what you wanted.",
+      "start_ms": 102306,
+      "end_ms": 107161
+    },
+    {
+      "index": 37,
+      "text": "Or did you have to try lots of things.\" Grandpa smiled.",
+      "start_ms": 107161,
+      "end_ms": 110286
+    },
+    {
+      "index": 38,
+      "text": "\"I tried lots of things,\" he said.",
+      "start_ms": 110286,
+      "end_ms": 112239
+    },
+    {
+      "index": 39,
+      "text": "\"For nine o'clock in the morning, I tried four different flowers before I found the field marigold.",
+      "start_ms": 112239,
+      "end_ms": 117820
+    },
+    {
+      "index": 40,
+      "text": "For noon, I tried maybe six.",
+      "start_ms": 117820,
+      "end_ms": 119438
+    },
+    {
+      "index": 41,
+      "text": "Some of the flowers I planted here failed for reasons that had nothing to do with the time.",
+      "start_ms": 119438,
+      "end_ms": 124572
+    },
+    {
+      "index": 42,
+      "text": "Some of them just did not like our soil.",
+      "start_ms": 124572,
+      "end_ms": 126860
+    },
+    {
+      "index": 43,
+      "text": "Or the deer ate them.",
+      "start_ms": 126860,
+      "end_ms": 128088
+    },
+    {
+      "index": 44,
+      "text": "Or a spring frost got them.\"",
+      "start_ms": 128088,
+      "end_ms": 129762
+    },
+    {
+      "index": 45,
+      "text": "\"So you have been failing at this for a long time,\" Fern said.",
+      "start_ms": 129762,
+      "end_ms": 133278
+    },
+    {
+      "index": 46,
+      "text": "Grandpa laughed.",
+      "start_ms": 133278,
+      "end_ms": 134226
+    },
+    {
+      "index": 47,
+      "text": "\"Yes,\" he said.",
+      "start_ms": 134226,
+      "end_ms": 135119
+    },
+    {
+      "index": 48,
+      "text": "\"I have been failing at this for a long time.",
+      "start_ms": 135119,
+      "end_ms": 137686
+    },
+    {
+      "index": 49,
+      "text": "But every failure — I learn something.",
+      "start_ms": 137686,
+      "end_ms": 139863
+    },
+    {
+      "index": 50,
+      "text": "Every time a flower does not open at the right hour, I know a new thing about that flower.",
+      "start_ms": 139863,
+      "end_ms": 144941
+    },
+    {
+      "index": 51,
+      "text": "That is not really failing.",
+      "start_ms": 144941,
+      "end_ms": 146504
+    },
+    {
+      "index": 52,
+      "text": "It is a way of learning that is slow and honest.\" He looked at her.",
+      "start_ms": 146504,
+      "end_ms": 150298
+    },
+    {
+      "index": 53,
+      "text": "\"You are eleven flowers ahead already, Fern.",
+      "start_ms": 150298,
+      "end_ms": 152810
+    },
+    {
+      "index": 54,
+      "text": "You do not have to find the twelfth this summer.",
+      "start_ms": 152810,
+      "end_ms": 155544
+    },
+    {
+      "index": 55,
+      "text": "You can find it next summer.",
+      "start_ms": 155544,
+      "end_ms": 157163
+    },
+    {
+      "index": 56,
+      "text": "Or the summer after.",
+      "start_ms": 157163,
+      "end_ms": 158334
+    },
+    {
+      "index": 57,
+      "text": "It does not have to happen fast.\"",
+      "start_ms": 158334,
+      "end_ms": 160288
+    },
+    {
+      "index": 58,
+      "text": "But Fern still wanted to try.",
+      "start_ms": 160288,
+      "end_ms": 161962
+    },
+    {
+      "index": 59,
+      "text": "In the fifth week she was walking along the old stone wall at the very back of the garden, where things grew wild that Grandpa had never planted.",
+      "start_ms": 161962,
+      "end_ms": 170109
+    },
+    {
+      "index": 60,
+      "text": "And she noticed a small ordinary-looking plant growing in a crack between two stones.",
+      "start_ms": 170109,
+      "end_ms": 174909
+    },
+    {
+      "index": 61,
+      "text": "It had thin dark stems and small round green leaves and a few pale buds.",
+      "start_ms": 174909,
+      "end_ms": 178983
+    },
+    {
+      "index": 62,
+      "text": "She had never noticed it before.",
+      "start_ms": 178983,
+      "end_ms": 180824
+    },
+    {
+      "index": 63,
+      "text": "She sat down and looked at it for a while.",
+      "start_ms": 180824,
+      "end_ms": 183168
+    },
+    {
+      "index": 64,
+      "text": "That afternoon she asked Grandpa about it.",
+      "start_ms": 183168,
+      "end_ms": 185662
+    },
+    {
+      "index": 65,
+      "text": "She described it.",
+      "start_ms": 185662,
+      "end_ms": 186706
+    },
+    {
+      "index": 66,
+      "text": "He said, \"Oh, that is just — I think that is a small Scottish thing that grows wild here.",
+      "start_ms": 186706,
+      "end_ms": 191927
+    },
+    {
+      "index": 67,
+      "text": "Nothing special.",
+      "start_ms": 191927,
+      "end_ms": 192913
+    },
+    {
+      "index": 68,
+      "text": "My mother used to know its name.",
+      "start_ms": 192913,
+      "end_ms": 194827
+    },
+    {
+      "index": 69,
+      "text": "I don't remember it.",
+      "start_ms": 194827,
+      "end_ms": 196046
+    },
+    {
+      "index": 70,
+      "text": "It has been growing there since before I bought the garden.\" \"Does it flower?\" said Fern.",
+      "start_ms": 196046,
+      "end_ms": 201266
+    },
+    {
+      "index": 71,
+      "text": "\"I think so.",
+      "start_ms": 201266,
+      "end_ms": 202020
+    },
+    {
+      "index": 72,
+      "text": "Small flowers.",
+      "start_ms": 202020,
+      "end_ms": 202890
+    },
+    {
+      "index": 73,
+      "text": "Nothing showy.",
+      "start_ms": 202890,
+      "end_ms": 203760
+    },
+    {
+      "index": 74,
+      "text": "Why?\" Fern shrugged.",
+      "start_ms": 203760,
+      "end_ms": 204979
+    },
+    {
+      "index": 75,
+      "text": "She said, \"I don't know.",
+      "start_ms": 204979,
+      "end_ms": 206429
+    },
+    {
+      "index": 76,
+      "text": "It just — feels different.\" Grandpa raised an eyebrow but he did not tell her to stop paying attention to it.",
+      "start_ms": 206429,
+      "end_ms": 212809
+    },
+    {
+      "index": 77,
+      "text": "He said, \"Go and watch it.",
+      "start_ms": 212809,
+      "end_ms": 214376
+    },
+    {
+      "index": 78,
+      "text": "See what it does.",
+      "start_ms": 214376,
+      "end_ms": 215420
+    },
+    {
+      "index": 79,
+      "text": "Never a bad thing to notice a plant.\"",
+      "start_ms": 215420,
+      "end_ms": 217682
+    },
+    {
+      "index": 80,
+      "text": "So Fern went and sat by the wall the next afternoon at four o'clock, with a small alarm clock and a notebook.",
+      "start_ms": 217682,
+      "end_ms": 224063
+    },
+    {
+      "index": 81,
+      "text": "She watched.",
+      "start_ms": 224063,
+      "end_ms": 224817
+    },
+    {
+      "index": 82,
+      "text": "The flowers were closed.",
+      "start_ms": 224817,
+      "end_ms": 226267
+    },
+    {
+      "index": 83,
+      "text": "She read her book.",
+      "start_ms": 226267,
+      "end_ms": 227369
+    },
+    {
+      "index": 84,
+      "text": "She looked up sometimes.",
+      "start_ms": 227369,
+      "end_ms": 228819
+    },
+    {
+      "index": 85,
+      "text": "At exactly five minutes past five, she noticed something.",
+      "start_ms": 228819,
+      "end_ms": 232184
+    },
+    {
+      "index": 86,
+      "text": "One of the small pale buds was starting to open.",
+      "start_ms": 232184,
+      "end_ms": 235026
+    },
+    {
+      "index": 87,
+      "text": "It moved slowly — over the next fifteen minutes it opened into a small five-petaled flower, pale lilac in color, with a small yellow center.",
+      "start_ms": 235026,
+      "end_ms": 243205
+    },
+    {
+      "index": 88,
+      "text": "By five-thirty it was fully open.",
+      "start_ms": 243205,
+      "end_ms": 245235
+    },
+    {
+      "index": 89,
+      "text": "She waited longer.",
+      "start_ms": 245235,
+      "end_ms": 246337
+    },
+    {
+      "index": 90,
+      "text": "It stayed open for maybe two hours.",
+      "start_ms": 246337,
+      "end_ms": 248426
+    },
+    {
+      "index": 91,
+      "text": "Then, as the light went, it slowly closed again.",
+      "start_ms": 248426,
+      "end_ms": 251268
+    },
+    {
+      "index": 92,
+      "text": "She wrote it all down.",
+      "start_ms": 251268,
+      "end_ms": 252602
+    },
+    {
+      "index": 93,
+      "text": "She went back the next day.",
+      "start_ms": 252602,
+      "end_ms": 254226
+    },
+    {
+      "index": 94,
+      "text": "Same thing.",
+      "start_ms": 254226,
+      "end_ms": 254922
+    },
+    {
+      "index": 95,
+      "text": "Opened at five past five.",
+      "start_ms": 254922,
+      "end_ms": 256431
+    },
+    {
+      "index": 96,
+      "text": "Closed by seven-thirty.",
+      "start_ms": 256431,
+      "end_ms": 257823
+    },
+    {
+      "index": 97,
+      "text": "Same the day after.",
+      "start_ms": 257823,
+      "end_ms": 258983
+    },
+    {
+      "index": 98,
+      "text": "She counted for a whole week.",
+      "start_ms": 258983,
+      "end_ms": 260723
+    },
+    {
+      "index": 99,
+      "text": "The plant opened at five o'clock every single day, plus or minus five minutes.",
+      "start_ms": 260723,
+      "end_ms": 265306
+    },
+    {
+      "index": 100,
+      "text": "She showed Grandpa her notes on Sunday morning.",
+      "start_ms": 265306,
+      "end_ms": 268032
+    }
+  ]
+}

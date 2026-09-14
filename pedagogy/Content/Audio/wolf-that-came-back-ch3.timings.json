@@ -1,0 +1,625 @@
+{
+  "story_id": "wolf-that-came-back",
+  "chapter": 3,
+  "total_duration_ms": 279288,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "She woke her grandfather in maybe forty seconds.",
+      "start_ms": 1916,
+      "end_ms": 5528
+    },
+    {
+      "index": 1,
+      "text": "She said, \"Grandpa.",
+      "start_ms": 5528,
+      "end_ms": 7002
+    },
+    {
+      "index": 2,
+      "text": "There is a wolf at the north fence and it is hurt and I think it is Ash.\" Her grandfather did not ask any questions.",
+      "start_ms": 7002,
+      "end_ms": 15627
+    },
+    {
+      "index": 3,
+      "text": "He put on his boots and his coat and his heavy snow trousers, and he took the emergency kit from the pantry, and he took a rifle, though he said quietly that it was just in case.",
+      "start_ms": 15627,
+      "end_ms": 28821
+    },
+    {
+      "index": 4,
+      "text": "And they went back out into the storm together.",
+      "start_ms": 28821,
+      "end_ms": 32432
+    },
+    {
+      "index": 5,
+      "text": "Ash was still there.",
+      "start_ms": 32432,
+      "end_ms": 33980
+    },
+    {
+      "index": 6,
+      "text": "She had lain down again in the snow.",
+      "start_ms": 33980,
+      "end_ms": 36708
+    },
+    {
+      "index": 7,
+      "text": "She looked up when they came.",
+      "start_ms": 36708,
+      "end_ms": 38919
+    },
+    {
+      "index": 8,
+      "text": "She growled, softly, at Kaya's grandfather, but she did not move away.",
+      "start_ms": 38919,
+      "end_ms": 44152
+    },
+    {
+      "index": 9,
+      "text": "Kaya's grandfather knelt down slowly, ten meters away.",
+      "start_ms": 44152,
+      "end_ms": 48206
+    },
+    {
+      "index": 10,
+      "text": "He said, \"Yeah.",
+      "start_ms": 48206,
+      "end_ms": 49386
+    },
+    {
+      "index": 11,
+      "text": "Yeah, that is her.",
+      "start_ms": 49386,
+      "end_ms": 50786
+    },
+    {
+      "index": 12,
+      "text": "That is her, Kaya.",
+      "start_ms": 50786,
+      "end_ms": 52187
+    },
+    {
+      "index": 13,
+      "text": "Look at the mark on her back.\" He looked at Kaya.",
+      "start_ms": 52187,
+      "end_ms": 55872
+    },
+    {
+      "index": 14,
+      "text": "\"Good work.",
+      "start_ms": 55872,
+      "end_ms": 56757
+    },
+    {
+      "index": 15,
+      "text": "Good work.",
+      "start_ms": 56757,
+      "end_ms": 57568
+    },
+    {
+      "index": 16,
+      "text": "Now listen to me.",
+      "start_ms": 57568,
+      "end_ms": 58894
+    },
+    {
+      "index": 17,
+      "text": "We need to move very slowly.",
+      "start_ms": 58894,
+      "end_ms": 61032
+    },
+    {
+      "index": 18,
+      "text": "If she is scared, this all falls apart.\"",
+      "start_ms": 61032,
+      "end_ms": 64128
+    },
+    {
+      "index": 19,
+      "text": "It took them almost an hour.",
+      "start_ms": 64128,
+      "end_ms": 66265
+    },
+    {
+      "index": 20,
+      "text": "Kaya walked in front, holding out her hand, talking softly.",
+      "start_ms": 66265,
+      "end_ms": 70688
+    },
+    {
+      "index": 21,
+      "text": "Her grandfather walked behind with a rope and a jacket to throw over Ash's head if they had to.",
+      "start_ms": 70688,
+      "end_ms": 77764
+    },
+    {
+      "index": 22,
+      "text": "But Ash followed.",
+      "start_ms": 77764,
+      "end_ms": 79091
+    },
+    {
+      "index": 23,
+      "text": "She limped along on three legs, twenty steps and then a rest, twenty steps and then a rest.",
+      "start_ms": 79091,
+      "end_ms": 85872
+    },
+    {
+      "index": 24,
+      "text": "Kaya kept talking to her the whole way.",
+      "start_ms": 85872,
+      "end_ms": 88821
+    },
+    {
+      "index": 25,
+      "text": "She talked about small things — the storm, the shape of the trees, what she had eaten for supper.",
+      "start_ms": 88821,
+      "end_ms": 96044
+    },
+    {
+      "index": 26,
+      "text": "It did not matter what she said.",
+      "start_ms": 96044,
+      "end_ms": 98477
+    },
+    {
+      "index": 27,
+      "text": "The tone mattered.",
+      "start_ms": 98477,
+      "end_ms": 99877
+    },
+    {
+      "index": 28,
+      "text": "The being with her mattered.",
+      "start_ms": 99877,
+      "end_ms": 102089
+    },
+    {
+      "index": 29,
+      "text": "They got Ash into the isolation pen just before three in the morning.",
+      "start_ms": 102089,
+      "end_ms": 107248
+    },
+    {
+      "index": 30,
+      "text": "Kaya's grandfather closed the gate.",
+      "start_ms": 107248,
+      "end_ms": 109902
+    },
+    {
+      "index": 31,
+      "text": "Ash lay down on the straw.",
+      "start_ms": 109902,
+      "end_ms": 111892
+    },
+    {
+      "index": 32,
+      "text": "She did not try to get up.",
+      "start_ms": 111892,
+      "end_ms": 113882
+    },
+    {
+      "index": 33,
+      "text": "Her breathing was shallow.",
+      "start_ms": 113882,
+      "end_ms": 115872
+    },
+    {
+      "index": 34,
+      "text": "Her grandfather said, \"Kaya.",
+      "start_ms": 115872,
+      "end_ms": 118010
+    },
+    {
+      "index": 35,
+      "text": "Get me the vet kit.",
+      "start_ms": 118010,
+      "end_ms": 119484
+    },
+    {
+      "index": 36,
+      "text": "Get me the light.",
+      "start_ms": 119484,
+      "end_ms": 120811
+    },
+    {
+      "index": 37,
+      "text": "Get me the heat lamp.",
+      "start_ms": 120811,
+      "end_ms": 122433
+    },
+    {
+      "index": 38,
+      "text": "Move.\" And they worked.",
+      "start_ms": 122433,
+      "end_ms": 124128
+    },
+    {
+      "index": 39,
+      "text": "Her grandfather worked on the leg for two hours.",
+      "start_ms": 124128,
+      "end_ms": 126717
+    },
+    {
+      "index": 40,
+      "text": "The injury was not new — maybe two weeks old — and it had gone very bad.",
+      "start_ms": 126717,
+      "end_ms": 130574
+    },
+    {
+      "index": 41,
+      "text": "It looked like a snare wound, or a bad break that had not set right.",
+      "start_ms": 130574,
+      "end_ms": 134220
+    },
+    {
+      "index": 42,
+      "text": "He cleaned it out.",
+      "start_ms": 134220,
+      "end_ms": 135224
+    },
+    {
+      "index": 43,
+      "text": "He gave her something to make her not fight him.",
+      "start_ms": 135224,
+      "end_ms": 137813
+    },
+    {
+      "index": 44,
+      "text": "He set the bone.",
+      "start_ms": 137813,
+      "end_ms": 138712
+    },
+    {
+      "index": 45,
+      "text": "He wrapped it.",
+      "start_ms": 138712,
+      "end_ms": 139504
+    },
+    {
+      "index": 46,
+      "text": "Kaya held Ash's head the whole time, and Ash let her.",
+      "start_ms": 139504,
+      "end_ms": 142358
+    },
+    {
+      "index": 47,
+      "text": "She let a stranger touch her injured leg because Kaya was there.",
+      "start_ms": 142358,
+      "end_ms": 145792
+    },
+    {
+      "index": 48,
+      "text": "Kaya understood that.",
+      "start_ms": 145792,
+      "end_ms": 146955
+    },
+    {
+      "index": 49,
+      "text": "She understood how much trust that was.",
+      "start_ms": 146955,
+      "end_ms": 149121
+    },
+    {
+      "index": 50,
+      "text": "When it was done, her grandfather stepped back.",
+      "start_ms": 149121,
+      "end_ms": 151657
+    },
+    {
+      "index": 51,
+      "text": "He was very tired.",
+      "start_ms": 151657,
+      "end_ms": 152661
+    },
+    {
+      "index": 52,
+      "text": "He said, \"She might not make it, Kaya.",
+      "start_ms": 152661,
+      "end_ms": 154722
+    },
+    {
+      "index": 53,
+      "text": "I'll be honest with you.",
+      "start_ms": 154722,
+      "end_ms": 156043
+    },
+    {
+      "index": 54,
+      "text": "That leg is bad.",
+      "start_ms": 156043,
+      "end_ms": 156941
+    },
+    {
+      "index": 55,
+      "text": "She has been out here a long time.",
+      "start_ms": 156941,
+      "end_ms": 158791
+    },
+    {
+      "index": 56,
+      "text": "She's underweight.",
+      "start_ms": 158791,
+      "end_ms": 159795
+    },
+    {
+      "index": 57,
+      "text": "There is a real chance she does not survive the next few days.",
+      "start_ms": 159795,
+      "end_ms": 163124
+    },
+    {
+      "index": 58,
+      "text": "I want you to be ready for that.\" Kaya said, \"I am ready for that.\" Her grandfather looked at her for a moment.",
+      "start_ms": 163124,
+      "end_ms": 169042
+    },
+    {
+      "index": 59,
+      "text": "\"You know what,\" he said.",
+      "start_ms": 169042,
+      "end_ms": 170416
+    },
+    {
+      "index": 60,
+      "text": "\"You are.\"",
+      "start_ms": 170416,
+      "end_ms": 171050
+    },
+    {
+      "index": 61,
+      "text": "Ash did survive.",
+      "start_ms": 171050,
+      "end_ms": 171948
+    },
+    {
+      "index": 62,
+      "text": "It took a long time.",
+      "start_ms": 171948,
+      "end_ms": 173058
+    },
+    {
+      "index": 63,
+      "text": "She was in the isolation pen for eight weeks.",
+      "start_ms": 173058,
+      "end_ms": 175488
+    },
+    {
+      "index": 64,
+      "text": "Kaya spent almost every day with her — reading books beside her, feeding her, changing her water.",
+      "start_ms": 175488,
+      "end_ms": 180666
+    },
+    {
+      "index": 65,
+      "text": "Slowly the leg got better.",
+      "start_ms": 180666,
+      "end_ms": 182093
+    },
+    {
+      "index": 66,
+      "text": "It would not be a perfect leg again — she would limp for the rest of her life — but it would work.",
+      "start_ms": 182093,
+      "end_ms": 187324
+    },
+    {
+      "index": 67,
+      "text": "She could walk.",
+      "start_ms": 187324,
+      "end_ms": 188170
+    },
+    {
+      "index": 68,
+      "text": "She could probably hunt small things, though hunting big things might be hard.",
+      "start_ms": 188170,
+      "end_ms": 192344
+    },
+    {
+      "index": 69,
+      "text": "When the road opened in April, they had to decide what to do with her.",
+      "start_ms": 192344,
+      "end_ms": 196148
+    },
+    {
+      "index": 70,
+      "text": "Kaya's grandfather sat with her at the kitchen table.",
+      "start_ms": 196148,
+      "end_ms": 199002
+    },
+    {
+      "index": 71,
+      "text": "He said, \"There are two choices.",
+      "start_ms": 199002,
+      "end_ms": 200746
+    },
+    {
+      "index": 72,
+      "text": "We can keep her here.",
+      "start_ms": 200746,
+      "end_ms": 201908
+    },
+    {
+      "index": 73,
+      "text": "She could live here safely for the rest of her life.",
+      "start_ms": 201908,
+      "end_ms": 204708
+    },
+    {
+      "index": 74,
+      "text": "We would take good care of her.",
+      "start_ms": 204708,
+      "end_ms": 206399
+    },
+    {
+      "index": 75,
+      "text": "Or we can release her again, in a place we choose, where she has a chance.",
+      "start_ms": 206399,
+      "end_ms": 210362
+    },
+    {
+      "index": 76,
+      "text": "She will not hunt as well as she used to.",
+      "start_ms": 210362,
+      "end_ms": 212582
+    },
+    {
+      "index": 77,
+      "text": "But she has proved she is a survivor.",
+      "start_ms": 212582,
+      "end_ms": 214590
+    },
+    {
+      "index": 78,
+      "text": "She made it two whole winters.",
+      "start_ms": 214590,
+      "end_ms": 216228
+    },
+    {
+      "index": 79,
+      "text": "She might make it many more.",
+      "start_ms": 216228,
+      "end_ms": 217760
+    },
+    {
+      "index": 80,
+      "text": "It is your choice, Kaya.",
+      "start_ms": 217760,
+      "end_ms": 219081
+    },
+    {
+      "index": 81,
+      "text": "She is your wolf.\"",
+      "start_ms": 219081,
+      "end_ms": 220032
+    },
+    {
+      "index": 82,
+      "text": "Kaya thought about it for three days.",
+      "start_ms": 220032,
+      "end_ms": 222197
+    },
+    {
+      "index": 83,
+      "text": "She talked to Ash.",
+      "start_ms": 222197,
+      "end_ms": 223280
+    },
+    {
+      "index": 84,
+      "text": "She sat in the pen with her.",
+      "start_ms": 223280,
+      "end_ms": 224932
+    },
+    {
+      "index": 85,
+      "text": "She watched her walk.",
+      "start_ms": 224932,
+      "end_ms": 226186
+    },
+    {
+      "index": 86,
+      "text": "Then she went to her grandfather and she said, \"Release her.",
+      "start_ms": 226186,
+      "end_ms": 229661
+    },
+    {
+      "index": 87,
+      "text": "She is a wolf.",
+      "start_ms": 229661,
+      "end_ms": 230516
+    },
+    {
+      "index": 88,
+      "text": "She came back because she needed help, and we helped her.",
+      "start_ms": 230516,
+      "end_ms": 233820
+    },
+    {
+      "index": 89,
+      "text": "Now she can go again.\" Her grandfather nodded.",
+      "start_ms": 233820,
+      "end_ms": 236498
+    },
+    {
+      "index": 90,
+      "text": "He did not smile, but she could tell he was proud.",
+      "start_ms": 236498,
+      "end_ms": 239461
+    },
+    {
+      "index": 91,
+      "text": "So on a morning in late April they drove Ash back up into the mountains, though not as far this time — closer, so she was in country that Kaya knew Ash could get back to the sanctuary from if she ever needed to again.",
+      "start_ms": 239461,
+      "end_ms": 251882
+    },
+    {
+      "index": 92,
+      "text": "They opened the crate at the edge of a wide alpine meadow.",
+      "start_ms": 251882,
+      "end_ms": 255244
+    },
+    {
+      "index": 93,
+      "text": "Ash stepped out slowly.",
+      "start_ms": 255244,
+      "end_ms": 256611
+    },
+    {
+      "index": 94,
+      "text": "She looked back at Kaya.",
+      "start_ms": 256611,
+      "end_ms": 258036
+    },
+    {
+      "index": 95,
+      "text": "She held Kaya's eyes for a moment.",
+      "start_ms": 258036,
+      "end_ms": 260030
+    },
+    {
+      "index": 96,
+      "text": "Then she turned and she went, limping but real, into the trees.",
+      "start_ms": 260030,
+      "end_ms": 263676
+    },
+    {
+      "index": 97,
+      "text": "Kaya watched her go.",
+      "start_ms": 263676,
+      "end_ms": 264873
+    },
+    {
+      "index": 98,
+      "text": "She did not cry this time.",
+      "start_ms": 264873,
+      "end_ms": 266411
+    },
+    {
+      "index": 99,
+      "text": "She had cried the first time.",
+      "start_ms": 266411,
+      "end_ms": 268121
+    },
+    {
+      "index": 100,
+      "text": "This time she just watched, and she smiled a little, and she waved.",
+      "start_ms": 268121,
+      "end_ms": 271995
+    },
+    {
+      "index": 101,
+      "text": "Her grandfather said, from behind her, \"You did good, kid.",
+      "start_ms": 271995,
+      "end_ms": 275357
+    },
+    {
+      "index": 102,
+      "text": "You did really good.\" And they got in the truck, and they drove home.",
+      "start_ms": 275357,
+      "end_ms": 279288
+    }
+  ]
+}

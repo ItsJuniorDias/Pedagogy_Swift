@@ -1,0 +1,631 @@
+{
+  "story_id": "honey-map",
+  "chapter": 1,
+  "total_duration_ms": 346080,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Uncle Béla's village was so small that it did not really have a name that anyone outside of Hungary would know.",
+      "start_ms": 1692,
+      "end_ms": 9271
+    },
+    {
+      "index": 1,
+      "text": "It was in the low green hills north of Eger, on a road that ended at his door.",
+      "start_ms": 9271,
+      "end_ms": 14618
+    },
+    {
+      "index": 2,
+      "text": "Twenty-four houses.",
+      "start_ms": 14618,
+      "end_ms": 15971
+    },
+    {
+      "index": 3,
+      "text": "A church.",
+      "start_ms": 15971,
+      "end_ms": 16648
+    },
+    {
+      "index": 4,
+      "text": "A grocery that was open three days a week.",
+      "start_ms": 16648,
+      "end_ms": 19558
+    },
+    {
+      "index": 5,
+      "text": "The bus came once a day, in the late afternoon, and Ilona took it up from Eger the last week of July, with a canvas bag over her shoulder and a paper with Uncle Béla's number in her pocket in case she got confused.",
+      "start_ms": 19558,
+      "end_ms": 34176
+    },
+    {
+      "index": 6,
+      "text": "She did not get confused.",
+      "start_ms": 34176,
+      "end_ms": 35935
+    },
+    {
+      "index": 7,
+      "text": "The bus driver knew where she was going.",
+      "start_ms": 35935,
+      "end_ms": 38710
+    },
+    {
+      "index": 8,
+      "text": "He dropped her at the top of the road and pointed down at a white house at the end.",
+      "start_ms": 38710,
+      "end_ms": 44395
+    },
+    {
+      "index": 9,
+      "text": "\"That one,\" he said.",
+      "start_ms": 44395,
+      "end_ms": 45816
+    },
+    {
+      "index": 10,
+      "text": "\"He is expecting you.",
+      "start_ms": 45816,
+      "end_ms": 47305
+    },
+    {
+      "index": 11,
+      "text": "Go, go.\" So Ilona walked down the road with her bag.",
+      "start_ms": 47305,
+      "end_ms": 50891
+    },
+    {
+      "index": 12,
+      "text": "She was eleven.",
+      "start_ms": 50891,
+      "end_ms": 51974
+    },
+    {
+      "index": 13,
+      "text": "She had not been to Uncle Béla's alone before.",
+      "start_ms": 51974,
+      "end_ms": 55155
+    },
+    {
+      "index": 14,
+      "text": "But she had wanted to come.",
+      "start_ms": 55155,
+      "end_ms": 57050
+    },
+    {
+      "index": 15,
+      "text": "Her mother had said she did not have to.",
+      "start_ms": 57050,
+      "end_ms": 59824
+    },
+    {
+      "index": 16,
+      "text": "Her mother had said Ilona could come home whenever she wanted.",
+      "start_ms": 59824,
+      "end_ms": 64088
+    },
+    {
+      "index": 17,
+      "text": "Ilona had said she wanted to try to stay the whole month.",
+      "start_ms": 64088,
+      "end_ms": 68081
+    },
+    {
+      "index": 18,
+      "text": "Uncle Béla was waiting on the front porch.",
+      "start_ms": 68081,
+      "end_ms": 70991
+    },
+    {
+      "index": 19,
+      "text": "He was thin and sunburned and had a face like an old piece of leather, and he wore a linen shirt and a straw hat that had been the same hat forever.",
+      "start_ms": 70991,
+      "end_ms": 81074
+    },
+    {
+      "index": 20,
+      "text": "When Ilona came up the path he did not stand up right away — his knees were bad, he had told her mother — but he raised his hand at her and smiled, and when she was closer he handed her a small clay cup of cold water.",
+      "start_ms": 81074,
+      "end_ms": 95827
+    },
+    {
+      "index": 21,
+      "text": "\"Drink,\" he said.",
+      "start_ms": 95827,
+      "end_ms": 97045
+    },
+    {
+      "index": 22,
+      "text": "\"You walked in the sun.",
+      "start_ms": 97045,
+      "end_ms": 98670
+    },
+    {
+      "index": 23,
+      "text": "First things first.\" So she drank.",
+      "start_ms": 98670,
+      "end_ms": 101106
+    },
+    {
+      "index": 24,
+      "text": "Uncle Béla was her mother's uncle, so her great-uncle.",
+      "start_ms": 101106,
+      "end_ms": 104828
+    },
+    {
+      "index": 25,
+      "text": "He was seventy-four.",
+      "start_ms": 104828,
+      "end_ms": 106249
+    },
+    {
+      "index": 26,
+      "text": "He had been a beekeeper since he was fourteen, which meant sixty years, and everyone in the family said he was one of the last people in Hungary who did it the old way — no chemicals, no plastic hives, no shortcut anything.",
+      "start_ms": 106249,
+      "end_ms": 121408
+    },
+    {
+      "index": 27,
+      "text": "His honey was famous in Eger.",
+      "start_ms": 121408,
+      "end_ms": 123438
+    },
+    {
+      "index": 28,
+      "text": "People came from far away to buy it.",
+      "start_ms": 123438,
+      "end_ms": 125942
+    },
+    {
+      "index": 29,
+      "text": "Ilona had grown up eating it.",
+      "start_ms": 125942,
+      "end_ms": 127973
+    },
+    {
+      "index": 30,
+      "text": "She had never really thought about how it was made.",
+      "start_ms": 127973,
+      "end_ms": 131424
+    },
+    {
+      "index": 31,
+      "text": "The bees lived in the back garden.",
+      "start_ms": 131424,
+      "end_ms": 133660
+    },
+    {
+      "index": 32,
+      "text": "There were seven hives, painted in old faded colors — pale blue, pale green, yellow that had gone almost cream.",
+      "start_ms": 133660,
+      "end_ms": 140815
+    },
+    {
+      "index": 33,
+      "text": "Uncle Béla did not wear a suit or a veil when he went near them.",
+      "start_ms": 140815,
+      "end_ms": 144968
+    },
+    {
+      "index": 34,
+      "text": "He was very slow and very calm around them, and he sang in a low voice as he worked.",
+      "start_ms": 144968,
+      "end_ms": 150398
+    },
+    {
+      "index": 35,
+      "text": "\"They know me,\" he said, when Ilona asked.",
+      "start_ms": 150398,
+      "end_ms": 153145
+    },
+    {
+      "index": 36,
+      "text": "\"I have been here as long as they have.",
+      "start_ms": 153145,
+      "end_ms": 155701
+    },
+    {
+      "index": 37,
+      "text": "Longer.",
+      "start_ms": 155701,
+      "end_ms": 156212
+    },
+    {
+      "index": 38,
+      "text": "My father put these hives in this garden.",
+      "start_ms": 156212,
+      "end_ms": 158895
+    },
+    {
+      "index": 39,
+      "text": "My grandfather made three of the boxes with his own hands.",
+      "start_ms": 158895,
+      "end_ms": 162665
+    },
+    {
+      "index": 40,
+      "text": "The bees now are not the same bees.",
+      "start_ms": 162665,
+      "end_ms": 164965
+    },
+    {
+      "index": 41,
+      "text": "But it is the same colony.",
+      "start_ms": 164965,
+      "end_ms": 166689
+    },
+    {
+      "index": 42,
+      "text": "They know.\"",
+      "start_ms": 166689,
+      "end_ms": 167520
+    },
+    {
+      "index": 43,
+      "text": "He looked at Ilona.",
+      "start_ms": 167520,
+      "end_ms": 168798
+    },
+    {
+      "index": 44,
+      "text": "\"You do not have to come close.",
+      "start_ms": 168798,
+      "end_ms": 170842
+    },
+    {
+      "index": 45,
+      "text": "That is your choice.",
+      "start_ms": 170842,
+      "end_ms": 172184
+    },
+    {
+      "index": 46,
+      "text": "I will tell you when it is safe.",
+      "start_ms": 172184,
+      "end_ms": 174292
+    },
+    {
+      "index": 47,
+      "text": "But you will not learn what I want to teach you by staying at the back gate.",
+      "start_ms": 174292,
+      "end_ms": 179211
+    },
+    {
+      "index": 48,
+      "text": "So think about it.\" Ilona thought about it.",
+      "start_ms": 179211,
+      "end_ms": 182022
+    },
+    {
+      "index": 49,
+      "text": "She stayed at the back gate for the first two days.",
+      "start_ms": 182022,
+      "end_ms": 185344
+    },
+    {
+      "index": 50,
+      "text": "On the third day she came up to the hives with him, slowly, and stood beside him while he opened one, and he showed her the comb, and the bees walked around on his hands and did not sting him, and she did not scream.",
+      "start_ms": 185344,
+      "end_ms": 199208
+    },
+    {
+      "index": 51,
+      "text": "She was proud of this.",
+      "start_ms": 199208,
+      "end_ms": 200741
+    },
+    {
+      "index": 52,
+      "text": "It was in the kitchen, that first week, that he explained the map.",
+      "start_ms": 200741,
+      "end_ms": 205022
+    },
+    {
+      "index": 53,
+      "text": "He had six small glass jars on the table, each with a small handwritten paper label.",
+      "start_ms": 205022,
+      "end_ms": 210452
+    },
+    {
+      "index": 54,
+      "text": "He gave her a small wooden spoon.",
+      "start_ms": 210452,
+      "end_ms": 212624
+    },
+    {
+      "index": 55,
+      "text": "\"Try this one first,\" he said, opening the palest jar.",
+      "start_ms": 212624,
+      "end_ms": 216138
+    },
+    {
+      "index": 56,
+      "text": "She dipped the spoon and tasted.",
+      "start_ms": 216138,
+      "end_ms": 218246
+    },
+    {
+      "index": 57,
+      "text": "It was honey.",
+      "start_ms": 218246,
+      "end_ms": 219140
+    },
+    {
+      "index": 58,
+      "text": "It tasted like honey.",
+      "start_ms": 219140,
+      "end_ms": 220546
+    },
+    {
+      "index": 59,
+      "text": "It was very good honey.",
+      "start_ms": 220546,
+      "end_ms": 222079
+    },
+    {
+      "index": 60,
+      "text": "She said so.",
+      "start_ms": 222079,
+      "end_ms": 222910
+    },
+    {
+      "index": 61,
+      "text": "Uncle Béla nodded, patient.",
+      "start_ms": 222910,
+      "end_ms": 224699
+    },
+    {
+      "index": 62,
+      "text": "\"Yes.",
+      "start_ms": 224699,
+      "end_ms": 225082
+    },
+    {
+      "index": 63,
+      "text": "But listen.",
+      "start_ms": 225082,
+      "end_ms": 225849
+    },
+    {
+      "index": 64,
+      "text": "Now this one.\" He opened the next jar, which was slightly darker.",
+      "start_ms": 225849,
+      "end_ms": 230065
+    },
+    {
+      "index": 65,
+      "text": "She tasted.",
+      "start_ms": 230065,
+      "end_ms": 230832
+    },
+    {
+      "index": 66,
+      "text": "This one was different.",
+      "start_ms": 230832,
+      "end_ms": 232365
+    },
+    {
+      "index": 67,
+      "text": "It was still honey, but it had a — she did not have the word — a bit of a bite to it.",
+      "start_ms": 232365,
+      "end_ms": 237859
+    },
+    {
+      "index": 68,
+      "text": "Something almost like pepper.",
+      "start_ms": 237859,
+      "end_ms": 239712
+    },
+    {
+      "index": 69,
+      "text": "\"Now this one.\" A darker one.",
+      "start_ms": 239712,
+      "end_ms": 241816
+    },
+    {
+      "index": 70,
+      "text": "This one tasted like flowers.",
+      "start_ms": 241816,
+      "end_ms": 243919
+    },
+    {
+      "index": 71,
+      "text": "Really tasted like flowers, so much that she could almost see them.",
+      "start_ms": 243919,
+      "end_ms": 248687
+    },
+    {
+      "index": 72,
+      "text": "\"And this one.\" The darkest.",
+      "start_ms": 248687,
+      "end_ms": 250720
+    },
+    {
+      "index": 73,
+      "text": "This one was almost bitter, almost like tea, almost like something burned.",
+      "start_ms": 250720,
+      "end_ms": 255979
+    },
+    {
+      "index": 74,
+      "text": "She was surprised.",
+      "start_ms": 255979,
+      "end_ms": 257311
+    },
+    {
+      "index": 75,
+      "text": "She had thought all honey was more or less the same.",
+      "start_ms": 257311,
+      "end_ms": 261028
+    },
+    {
+      "index": 76,
+      "text": "\"They are all mine,\" said Uncle Béla.",
+      "start_ms": 261028,
+      "end_ms": 263692
+    },
+    {
+      "index": 77,
+      "text": "\"All from those seven hives out there.",
+      "start_ms": 263692,
+      "end_ms": 266427
+    },
+    {
+      "index": 78,
+      "text": "All from this summer.",
+      "start_ms": 266427,
+      "end_ms": 267969
+    },
+    {
+      "index": 79,
+      "text": "All different because the bees went different places for the nectar.",
+      "start_ms": 267969,
+      "end_ms": 272807
+    },
+    {
+      "index": 80,
+      "text": "That is what makes them different.",
+      "start_ms": 272807,
+      "end_ms": 275261
+    },
+    {
+      "index": 81,
+      "text": "That is what a beekeeper who knows how to taste can read.\"",
+      "start_ms": 275261,
+      "end_ms": 279469
+    },
+    {
+      "index": 82,
+      "text": "He took out a large sheet of paper.",
+      "start_ms": 279469,
+      "end_ms": 281993
+    },
+    {
+      "index": 83,
+      "text": "On it, drawn in fine ink, was a hand-drawn map.",
+      "start_ms": 281993,
+      "end_ms": 285358
+    },
+    {
+      "index": 84,
+      "text": "It showed the village at the bottom, and the hills around it, and small circles for the places bees had gone during different weeks of the summer.",
+      "start_ms": 285358,
+      "end_ms": 295666
+    },
+    {
+      "index": 85,
+      "text": "Each circle had a symbol beside it — a flower, a tree, a small pot.",
+      "start_ms": 295666,
+      "end_ms": 300434
+    },
+    {
+      "index": 86,
+      "text": "\"This one is where they went at the beginning of June,\" he said, pointing.",
+      "start_ms": 300434,
+      "end_ms": 305692
+    },
+    {
+      "index": 87,
+      "text": "\"The acacia trees on that hill.",
+      "start_ms": 305692,
+      "end_ms": 307936
+    },
+    {
+      "index": 88,
+      "text": "This one, mid-June — buckwheat, in the field of Farkas Antal.",
+      "start_ms": 307936,
+      "end_ms": 312283
+    },
+    {
+      "index": 89,
+      "text": "This one — end of June — the wild thyme up the pass.",
+      "start_ms": 312283,
+      "end_ms": 316000
+    },
+    {
+      "index": 90,
+      "text": "I know because I taste it.",
+      "start_ms": 316000,
+      "end_ms": 317893
+    },
+    {
+      "index": 91,
+      "text": "That is how I make the map.\"",
+      "start_ms": 317893,
+      "end_ms": 319996
+    },
+    {
+      "index": 92,
+      "text": "Ilona looked at the map for a long time.",
+      "start_ms": 319996,
+      "end_ms": 322871
+    },
+    {
+      "index": 93,
+      "text": "She thought it was very beautiful.",
+      "start_ms": 322871,
+      "end_ms": 325325
+    },
+    {
+      "index": 94,
+      "text": "She thought Uncle Béla was probably a little crazy.",
+      "start_ms": 325325,
+      "end_ms": 328971
+    },
+    {
+      "index": 95,
+      "text": "\"Uncle Béla,\" she said.",
+      "start_ms": 328971,
+      "end_ms": 330654
+    },
+    {
+      "index": 96,
+      "text": "\"Nobody would know if you drew the map wrong.",
+      "start_ms": 330654,
+      "end_ms": 333880
+    },
+    {
+      "index": 97,
+      "text": "You could just guess.\" Uncle Béla laughed.",
+      "start_ms": 333880,
+      "end_ms": 336895
+    },
+    {
+      "index": 98,
+      "text": "He did not laugh often.",
+      "start_ms": 336895,
+      "end_ms": 338577
+    },
+    {
+      "index": 99,
+      "text": "\"You are right,\" he said.",
+      "start_ms": 338577,
+      "end_ms": 340400
+    },
+    {
+      "index": 100,
+      "text": "\"Nobody would know.",
+      "start_ms": 340400,
+      "end_ms": 341803
+    },
+    {
+      "index": 101,
+      "text": "Nobody but the bees.",
+      "start_ms": 341803,
+      "end_ms": 343275
+    },
+    {
+      "index": 102,
+      "text": "And me.",
+      "start_ms": 343275,
+      "end_ms": 343836
+    },
+    {
+      "index": 103,
+      "text": "And now, if you learn it — you.\"",
+      "start_ms": 343836,
+      "end_ms": 346080
+    }
+  ]
+}

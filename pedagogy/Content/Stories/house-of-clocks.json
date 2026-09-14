@@ -1,0 +1,250 @@
+{
+  "id": "house-of-clocks",
+  "title": "The House of Clocks",
+  "subtitle": "A Fellwick Mystery",
+  "author": null,
+  "summary": "Wren is spending the summer with her great-aunt in a village she has never heard of, in a house where every clock has a story — and one of them runs backwards.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-house-of-clocks-cover",
+  "coverImagePrompt": "Story card cover illustration. Aspect ratio 5:4 (wider than tall), render at 1432×1146px minimum. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows, warm cream and sepia palette. Composition: a 10-year-old English girl named Wren with short dark hair and a serious curious expression, standing in a dim Victorian hallway lined with clocks of every size and shape — grandfather clocks in corners, cuckoo clocks on walls, small brass clocks on shelves. One clock in the background glows faintly warm. Character positioned center-left, filling roughly 45% of frame height. Keep 100px safety padding on all sides — no crucial details near the borders (the card has rounded corners that will crop the edges, and future overlays may darken the bottom). Warm inviting atmosphere despite the mystery — cozy, not scary. DO NOT include text, title, or any typography — text will be added by the app in a separate area below the image.",
+  "category": "mystery",
+  "isPremium": false,
+  "publishedAt": "2026-08-06",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Backwards Clock",
+      "openerImage": null,
+      "openerPrompt": "Chapter opener illustration, Mike Mignola style adapted for children: chapter number '1' in heavy slab type, ornamental clock face motif behind it, cream and black palette.",
+      "pages": [
+        {
+          "paragraphs": [
+            "The train pulled away from the tiny station, and Wren was alone on the platform.",
+            "Fellwick was smaller than she had expected. Two streets, a bakery, a post office that had a cat sleeping in the window, and a hill. At the top of the hill was the house she had come to stay in for the summer.",
+            "She had never met her Great-Aunt Marlow. Her mother had said only that Aunt Marlow was 'a bit unusual, but perfectly kind,' which Wren had noticed was the sort of thing grown-ups said when they meant something else entirely."
+          ],
+          "image": "ch1-p1-arrival",
+          "imagePrompt": "Mike Mignola style for children ages 9-11: a 10-year-old girl with a small wheeled suitcase standing on an empty cobblestone train platform at golden hour. Behind her, a crooked house sits at the top of a green hill. Warm sepia tones, thick black inks, flat shadows. The girl looks curious, not frightened. Portrait orientation."
+        },
+        {
+          "paragraphs": [
+            "The door opened before Wren could knock.",
+            "Great-Aunt Marlow was tall and thin, with white hair pinned up in a knot and glasses on a chain around her neck. She smelled of lavender and old paper.",
+            "\"You must be Wren,\" she said, looking down at her. \"You look exactly like your mother did at your age. Come in, come in. Mind the umbrella stand.\"",
+            "Wren stepped inside, and stopped."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "Every wall was covered in clocks.",
+            "Grandfather clocks stood in the corners. Cuckoo clocks hung by the windows. Small brass clocks sat on the mantel, next to porcelain clocks shaped like cats. There were clocks with painted faces, clocks with glass fronts, clocks with no numbers at all — only tiny stars where the numbers should have been.",
+            "And every single one of them was ticking."
+          ],
+          "image": "ch1-p3-hall-of-clocks",
+          "imagePrompt": "Mike Mignola style for children: interior view of a Victorian hallway completely filled with clocks of every shape and size — grandfather clocks in corners, cuckoo clocks on walls, small brass clocks on shelves, a porcelain cat clock. Wren stands in the foreground with her back to the viewer, taking it all in. Warm lantern light, heavy black inks, flat shadows, cream palette. Cozy overwhelming, not scary."
+        },
+        {
+          "paragraphs": [
+            "\"They were my father's,\" said Great-Aunt Marlow, hanging Wren's coat on a hook shaped like a hand. \"And his father's before him. Every clock in this house has a story. Some of the stories are quite good.\"",
+            "She turned and looked at Wren over the top of her glasses.",
+            "\"You can wander wherever you like, my dear. Open any door. Read any book. There is only one rule.\"",
+            "Wren waited.",
+            "\"If any of the clocks strikes thirteen,\" said Great-Aunt Marlow, \"do not look behind you.\""
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "It was the sort of rule you smile at politely and then forget.",
+            "Wren smiled politely. Great-Aunt Marlow went off to the kitchen to put the kettle on, and Wren wandered down the hall by herself, counting clocks.",
+            "She was up to twenty-eight when she stopped.",
+            "There was one clock she had missed. It was small and made of dark wood, hanging just above a doorway at the end of the hall. It looked ordinary in every way except one.",
+            "Its hands were moving backwards."
+          ],
+          "image": "ch1-p5-backwards-clock",
+          "imagePrompt": "Mike Mignola style for children: close-up of a small dark wooden clock hanging above a doorway. The hands are pointing to unusual positions and clearly moving counter-clockwise. Faint motion lines show the backwards direction. A girl's hand reaches up toward it from the bottom of the frame. Heavy black inks, warm sepia background, flat shadows."
+        },
+        {
+          "paragraphs": [
+            "Wren watched it for a long minute. The second hand crawled from the seven to the six, from the six to the five, from the five to the four. Not fast. Not slow. Just backwards, as if it had somewhere to be in yesterday.",
+            "\"That one belonged to my great-grandfather,\" said Great-Aunt Marlow, appearing suddenly at Wren's elbow with a cup of tea. \"He was a clockmaker, and a fool. Come along. Your room is up the stairs, first on the left. There is a book about beetles on the pillow if you would like something to read.\"",
+            "That night, Wren lay in bed and listened.",
+            "The clocks did not tick in unison. They ticked in a kind of soft rain — some fast, some slow, some deep and heavy like footsteps, some light as fingertips on a table. Wren found it strangely restful, and she was almost asleep when the first clock began to strike midnight.",
+            "She counted along in her head. One. Two. Three. Four. Five. Six. Seven. Eight. Nine. Ten. Eleven. Twelve.",
+            "There was a pause.",
+            "Then, from somewhere down the hall, one more clock struck. Just once. Softly.",
+            "Thirteen."
+          ],
+          "image": null,
+          "imagePrompt": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Don't Look Behind You",
+      "openerImage": null,
+      "openerPrompt": "Chapter opener, Mignola style for children: chapter number '2' in heavy slab type, silhouette of an open door behind it, cream and black palette.",
+      "pages": [
+        {
+          "paragraphs": [
+            "Wren did not move.",
+            "She was standing in the hallway. She did not remember getting out of bed. She did not remember walking down the stairs. But she was there now, in the dark, in her nightgown, facing the wall at the end of the corridor.",
+            "The backwards clock was just above her head.",
+            "Behind her, she could feel something. Not a hand. Not a breath. Just the sense that the hallway, which should have been empty, was not."
+          ],
+          "image": "ch2-p1-hallway-frozen",
+          "imagePrompt": "Mike Mignola style for children: a young girl in a white nightgown standing perfectly still in a dark hallway, seen from behind. Moonlight spills through a window. Clocks line the walls. The hallway behind her is empty but the shadows are deep. Heavy black inks, sepia and cool blue accents, flat shadows. Tense but not frightening."
+        },
+        {
+          "paragraphs": [
+            "\"Please.\"",
+            "The voice was so soft that Wren was not sure she had heard it. It was a child's voice. A boy, she thought. Younger than her, maybe eight or nine.",
+            "\"Please. I need help.\"",
+            "Wren swallowed. Every part of her wanted to turn around. Every part of her remembered what Great-Aunt Marlow had said. She kept her eyes on the backwards clock and did not move."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "\"Who are you?\" she whispered.",
+            "\"I don't know,\" said the boy. \"I don't remember. I've been in the clock so long that I forgot.\"",
+            "\"The clock?\"",
+            "\"The backwards one. My great-grandfather made it, and then something went wrong, and I got — stuck. I only come out when it strikes thirteen. I only have a minute. Please.\"",
+            "Wren realized she was holding her breath. She let it out, very slowly."
+          ],
+          "image": "ch2-p3-listening",
+          "imagePrompt": "Mike Mignola style for children: close-up profile of Wren's face in the dark hallway, listening intently. Her eyes are wide but calm. The space behind her is left in deep shadow — we do not see the boy, only hint that something is there. Heavy black inks, warm firelight from an unseen source on her cheek."
+        },
+        {
+          "paragraphs": [
+            "\"How do I help you?\" she asked.",
+            "\"There is a key,\" the boy said, and his voice was getting quieter. \"The key that winds the backwards clock. If you can find it, and turn it the right way, the clock will run forward again. And I will be free.\"",
+            "\"Where is the key?\"",
+            "There was a long silence. Wren thought he might have gone. Then, right at her ear, so quiet it was almost a thought:",
+            "\"It's in Great-Aunt Marlow's bedroom. In the music box on her dresser.\"",
+            "Wren's heart sank."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "\"But she can never know,\" the boy whispered. \"She would stop you. Please. Promise me.\"",
+            "\"Why would she stop me?\"",
+            "But the boy did not answer. The pressure behind her — the not-quite-breath, the not-quite-hand — was gone.",
+            "Slowly, slowly, Wren turned around.",
+            "The hallway was empty. The clocks ticked their soft rain. The moonlight lay quietly on the floor.",
+            "She was alone."
+          ],
+          "image": "ch2-p5-empty-hallway",
+          "imagePrompt": "Mike Mignola style for children: a long hallway lined with clocks, seen from Wren's point of view as she has just turned around. Moonlight from a window at the far end. Completely empty. The floorboards, the wallpaper, the row of ticking clocks. A sense of quiet, not fear. Heavy black inks, sepia and moon-blue palette."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Key",
+      "openerImage": null,
+      "openerPrompt": "Chapter opener, Mignola style for children: chapter number '3' in heavy slab type, a large ornate key motif behind it, cream and black palette.",
+      "pages": [
+        {
+          "paragraphs": [
+            "Wren waited for morning, and then all through breakfast, and then all through the long strange day that followed. Great-Aunt Marlow showed her the garden, and taught her the names of six kinds of bees, and made a lunch of buttered toast with jam and honey on the same slice, which turned out to be much better than it sounded.",
+            "But Wren was only half listening. She was thinking about the music box.",
+            "That night, when the house was quiet and the clocks had settled into their steady soft rain, Wren crept out of her room and along the hallway to Great-Aunt Marlow's bedroom door."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The door was open a crack.",
+            "Great-Aunt Marlow was asleep in a huge four-poster bed, snoring in a way that was somehow very dignified. Moonlight came in through the tall windows and lay in silver stripes across the floor.",
+            "The music box was on the dresser. It was made of walnut wood, small and neat, with a tiny brass keyhole.",
+            "Wren tiptoed in. She lifted the lid.",
+            "Inside, on a little velvet cushion, was a single small brass key."
+          ],
+          "image": "ch3-p2-music-box",
+          "imagePrompt": "Mike Mignola style for children: a young girl in a nightgown, tiptoeing through a moonlit bedroom, reaching toward an open walnut music box on a dresser. Inside the music box, resting on velvet, is a small ornate brass key. An elderly woman sleeps in a four-poster bed in the background. Silver moonlight through tall windows. Heavy black inks, cool blue and cream palette."
+        },
+        {
+          "paragraphs": [
+            "She took the key. She lowered the lid. She turned to go.",
+            "The floorboard creaked.",
+            "Wren froze. Great-Aunt Marlow shifted in her sleep, murmured something Wren could not catch, and did not wake up.",
+            "Wren slipped out of the room and back down the hall, holding the key so tightly that its little brass teeth pressed into her palm. She stopped in front of the backwards clock, and waited.",
+            "It felt like hours. It was probably only minutes."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "The other clocks began to strike midnight.",
+            "One. Two. Three.",
+            "Wren's hands were shaking.",
+            "Four. Five. Six.",
+            "She fitted the key into the small hole in the front of the backwards clock. It slid in perfectly.",
+            "Seven. Eight. Nine.",
+            "She could feel it now — the presence behind her, arriving. But she did not turn.",
+            "Ten. Eleven. Twelve.",
+            "The pause.",
+            "The backwards clock struck. Once. Softly. Thirteen.",
+            "Wren turned the key."
+          ],
+          "image": "ch3-p4-turning-the-key",
+          "imagePrompt": "Mike Mignola style for children: dramatic close-up of a girl's hand turning a small brass key in the face of an old wooden wall clock. The clock face shows the hands beginning to reverse direction — a faint arc of motion lines. Golden warm glow beginning to emanate from around the clock. Heavy black inks, warm amber palette. Portrait orientation."
+        },
+        {
+          "paragraphs": [
+            "For a moment, nothing happened. Then, very slowly, the second hand of the backwards clock began to move the other way. Forward.",
+            "The air in the hallway went warm.",
+            "Wren turned around.",
+            "There was a boy standing behind her. He was about eight, with untidy hair and a serious face. He was almost solid, but not quite — she could see the wallpaper faintly through his shoulder. He was staring at his hands as if he had never seen them before.",
+            "\"I remember,\" he said. His voice was still quiet, but no longer far away. \"My name is Thomas.\"",
+            "\"Hello, Thomas,\" said Wren. \"I'm Wren.\""
+          ],
+          "image": "ch3-p5-thomas-appears",
+          "imagePrompt": "Mike Mignola style for children: a boy of about 8, translucent but nearly solid, standing in a warmly lit hallway of clocks, looking down at his own hands with wonder. Facing him is Wren, a 10-year-old girl in a nightgown, smiling gently. Warm golden light fills the hall. The backwards clock behind them now runs forward. Heavy black inks, warm amber and cream palette. Not frightening — hopeful."
+        },
+        {
+          "paragraphs": [
+            "Thomas smiled, and then his smile faded a little.",
+            "\"I can't go back to my time,\" he said. \"And I can't go forward, either. I'm free of the clock, but I have nowhere to be.\"",
+            "Wren thought about this.",
+            "\"You could be here,\" she said. \"With us. I mean — with me. When I come back next summer, and the summer after that.\"",
+            "Thomas looked up at her.",
+            "\"Would you really?\"",
+            "\"Every summer,\" said Wren. \"I promise.\"",
+            "Somewhere in the house, a clock struck a small polite chime, as if it had been listening and approved."
+          ],
+          "image": null,
+          "imagePrompt": null
+        },
+        {
+          "paragraphs": [
+            "In the morning, Wren came downstairs to find Great-Aunt Marlow already at the kitchen table, drinking tea and looking at the hallway with a small pleased expression on her face.",
+            "\"The backwards clock isn't backwards anymore,\" said Wren, cautiously.",
+            "\"No,\" said Great-Aunt Marlow. \"It isn't.\"",
+            "There was a long, comfortable silence.",
+            "\"You knew,\" said Wren.",
+            "Great-Aunt Marlow set down her cup.",
+            "\"When I was your age,\" she said, \"I stayed in this house for a summer, too. And a boy who lived in a clock became my very good friend. But then I grew up, and I got busy, and I forgot to come back. And a person who is forgotten goes back into the clock, my dear. That is how it works.\"",
+            "She looked at Wren over the top of her glasses.",
+            "\"Do not forget him.\"",
+            "\"I won't,\" said Wren.",
+            "And somewhere down the hall, a small clock ticked forward, softly, into a future it had waited a very long time to see."
+          ],
+          "image": "ch3-p7-morning",
+          "imagePrompt": "Mike Mignola style for children: warm morning kitchen scene. An elderly woman (Great-Aunt Marlow, tall and thin with white hair pinned up, glasses on a chain) sits at a wooden table with a cup of tea, looking toward a hallway lined with clocks with a gentle knowing smile. A 10-year-old girl (Wren) sits across from her, listening. Golden morning light through a window. Heavy black inks softened by warm palette, cream and honey tones. Peaceful, ending mood."
+        }
+      ]
+    }
+  ]
+}

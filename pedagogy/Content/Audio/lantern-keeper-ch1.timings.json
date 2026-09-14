@@ -1,0 +1,265 @@
+{
+  "story_id": "lantern-keeper",
+  "chapter": 1,
+  "total_duration_ms": 144672,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "The wind came in from the west, the way it always did, but this time it did not stop.",
+      "start_ms": 1356,
+      "end_ms": 6487
+    },
+    {
+      "index": 1,
+      "text": "Milo had lived on Craighold Point his whole life, and he knew the difference between a bad wind and a bad storm.",
+      "start_ms": 6487,
+      "end_ms": 13151
+    },
+    {
+      "index": 2,
+      "text": "A bad wind rattled the shutters.",
+      "start_ms": 13151,
+      "end_ms": 15098
+    },
+    {
+      "index": 3,
+      "text": "A bad storm made the whole lighthouse hum, low and deep, like a bell that would not stop ringing.",
+      "start_ms": 15098,
+      "end_ms": 20936
+    },
+    {
+      "index": 4,
+      "text": "This one had been humming for an hour.",
+      "start_ms": 20936,
+      "end_ms": 23295
+    },
+    {
+      "index": 5,
+      "text": "His father was up in the lamp room, checking the mechanism for the tenth time that day.",
+      "start_ms": 23295,
+      "end_ms": 28485
+    },
+    {
+      "index": 6,
+      "text": "His mother sat by the radio, one hand on the dial, listening.",
+      "start_ms": 28485,
+      "end_ms": 32200
+    },
+    {
+      "index": 7,
+      "text": "\"Ferry from Oban is running late,\" she said quietly, when Milo came in from the yard.",
+      "start_ms": 32200,
+      "end_ms": 37272
+    },
+    {
+      "index": 8,
+      "text": "\"Should be passing us in about three hours.",
+      "start_ms": 37272,
+      "end_ms": 39867
+    },
+    {
+      "index": 9,
+      "text": "Twelve people aboard.\"",
+      "start_ms": 39867,
+      "end_ms": 41283
+    },
+    {
+      "index": 10,
+      "text": "Milo nodded.",
+      "start_ms": 41283,
+      "end_ms": 42049
+    },
+    {
+      "index": 11,
+      "text": "He knew the ferry.",
+      "start_ms": 42049,
+      "end_ms": 43170
+    },
+    {
+      "index": 12,
+      "text": "It came past Craighold Point twice a week, and in weather like this, the lighthouse was the only thing that told the captain where the rocks began and the safe water ended.",
+      "start_ms": 43170,
+      "end_ms": 53431
+    },
+    {
+      "index": 13,
+      "text": "There was a shout from above, and then a heavier sound — a thump, followed by a slower, sliding noise, like someone easing themselves down a set of stairs while trying not to fall.",
+      "start_ms": 53431,
+      "end_ms": 64165
+    },
+    {
+      "index": 14,
+      "text": "Milo's mother was on her feet before Milo understood what he was hearing.",
+      "start_ms": 64165,
+      "end_ms": 68588
+    },
+    {
+      "index": 15,
+      "text": "His father came down slowly.",
+      "start_ms": 68588,
+      "end_ms": 70298
+    },
+    {
+      "index": 16,
+      "text": "His left arm was held very close to his chest, at a wrong angle.",
+      "start_ms": 70298,
+      "end_ms": 74132
+    },
+    {
+      "index": 17,
+      "text": "His face was the color of old paper.",
+      "start_ms": 74132,
+      "end_ms": 76373
+    },
+    {
+      "index": 18,
+      "text": "\"The lamp,\" he said.",
+      "start_ms": 76373,
+      "end_ms": 77611
+    },
+    {
+      "index": 19,
+      "text": "\"The bulb has gone.",
+      "start_ms": 77611,
+      "end_ms": 78791
+    },
+    {
+      "index": 20,
+      "text": "And when I tried to reach the spare — I slipped.\"",
+      "start_ms": 78791,
+      "end_ms": 81798
+    },
+    {
+      "index": 21,
+      "text": "Milo's mother helped his father to a chair.",
+      "start_ms": 81798,
+      "end_ms": 84393
+    },
+    {
+      "index": 22,
+      "text": "She examined the arm.",
+      "start_ms": 84393,
+      "end_ms": 85691
+    },
+    {
+      "index": 23,
+      "text": "Not broken, she thought.",
+      "start_ms": 85691,
+      "end_ms": 87165
+    },
+    {
+      "index": 24,
+      "text": "But he could not lift it, and he certainly could not climb the tower.",
+      "start_ms": 87165,
+      "end_ms": 91352
+    },
+    {
+      "index": 25,
+      "text": "\"I can go up,\" said Milo.",
+      "start_ms": 91352,
+      "end_ms": 92945
+    },
+    {
+      "index": 26,
+      "text": "His parents looked at him.",
+      "start_ms": 92945,
+      "end_ms": 94537
+    },
+    {
+      "index": 27,
+      "text": "His father opened his mouth to say no, then closed it again.",
+      "start_ms": 94537,
+      "end_ms": 98135
+    },
+    {
+      "index": 28,
+      "text": "Outside, the wind pushed against the walls of the cottage as if it wanted to come in.",
+      "start_ms": 98135,
+      "end_ms": 103265
+    },
+    {
+      "index": 29,
+      "text": "\"There should be a spare bulb in the box on the top landing,\" his father said.",
+      "start_ms": 103265,
+      "end_ms": 107924
+    },
+    {
+      "index": 30,
+      "text": "\"If there isn't — if the spares are gone —\" He stopped.",
+      "start_ms": 107924,
+      "end_ms": 111168
+    },
+    {
+      "index": 31,
+      "text": "Milo already knew.",
+      "start_ms": 111168,
+      "end_ms": 112299
+    },
+    {
+      "index": 32,
+      "text": "If the spares were gone, the ferry would come around the point in the dark, and the captain would not know where the rocks were, and there were twelve people on that ferry.",
+      "start_ms": 112299,
+      "end_ms": 122653
+    },
+    {
+      "index": 33,
+      "text": "The radio crackled softly.",
+      "start_ms": 122653,
+      "end_ms": 124260
+    },
+    {
+      "index": 34,
+      "text": "His mother tried the dial.",
+      "start_ms": 124260,
+      "end_ms": 125867
+    },
+    {
+      "index": 35,
+      "text": "It hissed and went dead.",
+      "start_ms": 125867,
+      "end_ms": 127414
+    },
+    {
+      "index": 36,
+      "text": "\"The antenna is down,\" she said.",
+      "start_ms": 127414,
+      "end_ms": 129378
+    },
+    {
+      "index": 37,
+      "text": "\"We can't warn them either way.\"",
+      "start_ms": 129378,
+      "end_ms": 131401
+    },
+    {
+      "index": 38,
+      "text": "Milo put on his father's yellow oilskin coat.",
+      "start_ms": 131401,
+      "end_ms": 134139
+    },
+    {
+      "index": 39,
+      "text": "It was too big.",
+      "start_ms": 134139,
+      "end_ms": 135091
+    },
+    {
+      "index": 40,
+      "text": "It came down almost to his ankles.",
+      "start_ms": 135091,
+      "end_ms": 137174
+    },
+    {
+      "index": 41,
+      "text": "He took the storm lantern from the hook by the door.",
+      "start_ms": 137174,
+      "end_ms": 140387
+    },
+    {
+      "index": 42,
+      "text": "The staircase went up and up and up, and the wind was already inside it.",
+      "start_ms": 140387,
+      "end_ms": 144672
+    }
+  ]
+}

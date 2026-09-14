@@ -1,0 +1,463 @@
+{
+  "story_id": "red-earth-weaver",
+  "chapter": 1,
+  "total_duration_ms": 299232,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Vola was eleven and lived, most of the year, in a small apartment in Antananarivo — the capital of Madagascar, which everyone she knew called Tana.",
+      "start_ms": 2184,
+      "end_ms": 11690
+    },
+    {
+      "index": 1,
+      "text": "Her mother worked in a bank.",
+      "start_ms": 11690,
+      "end_ms": 13553
+    },
+    {
+      "index": 2,
+      "text": "Her father was a schoolteacher.",
+      "start_ms": 13553,
+      "end_ms": 15608
+    },
+    {
+      "index": 3,
+      "text": "Vola went to a good school and spoke French and Malagasy and was learning English.",
+      "start_ms": 15608,
+      "end_ms": 20940
+    },
+    {
+      "index": 4,
+      "text": "She had lived her whole life in the city.",
+      "start_ms": 20940,
+      "end_ms": 23702
+    },
+    {
+      "index": 5,
+      "text": "Every year in July, when it was winter in the highlands — dry and cool and quiet — Vola took the long bus ride south to her grandmother's village.",
+      "start_ms": 23702,
+      "end_ms": 33144
+    },
+    {
+      "index": 6,
+      "text": "The village was called Ambohimena, and it sat in a small green valley about six hours from Tana by taxi-brousse.",
+      "start_ms": 33144,
+      "end_ms": 40402
+    },
+    {
+      "index": 7,
+      "text": "Her grandmother, whom Vola called Bebe, lived there alone in a small red-earth house with a thatched roof.",
+      "start_ms": 40402,
+      "end_ms": 47275
+    },
+    {
+      "index": 8,
+      "text": "Bebe was sixty-eight.",
+      "start_ms": 47275,
+      "end_ms": 48688
+    },
+    {
+      "index": 9,
+      "text": "She had lived in the same house her entire adult life.",
+      "start_ms": 48688,
+      "end_ms": 52221
+    },
+    {
+      "index": 10,
+      "text": "And she was, though Vola had not really understood this before, one of the last people in her region who really knew how to weave the old lamba.",
+      "start_ms": 52221,
+      "end_ms": 61599
+    },
+    {
+      "index": 11,
+      "text": "Vola arrived at the house on the first afternoon of July.",
+      "start_ms": 61599,
+      "end_ms": 65324
+    },
+    {
+      "index": 12,
+      "text": "Bebe was standing in the doorway, one hand up to shade her eyes.",
+      "start_ms": 65324,
+      "end_ms": 69499
+    },
+    {
+      "index": 13,
+      "text": "She had known which taxi Vola would come on because she knew the schedule the way she knew the tides.",
+      "start_ms": 69499,
+      "end_ms": 76051
+    },
+    {
+      "index": 14,
+      "text": "When Vola climbed the last of the path with her small backpack, Bebe smiled a wide slow smile and said, \"You are taller.",
+      "start_ms": 76051,
+      "end_ms": 83823
+    },
+    {
+      "index": 15,
+      "text": "Come.",
+      "start_ms": 83823,
+      "end_ms": 84208
+    },
+    {
+      "index": 16,
+      "text": "There is soup.\"",
+      "start_ms": 84208,
+      "end_ms": 85300
+    },
+    {
+      "index": 17,
+      "text": "Inside, the house was one large room and a small side room with a bed.",
+      "start_ms": 85300,
+      "end_ms": 89861
+    },
+    {
+      "index": 18,
+      "text": "The main room had a small stove, a table, two chairs, a low shelf of cooking pots, and, along the whole of one wall, a stack of woven lamba — the long rectangular cloths that Malagasy people wore wrapped around their bodies, or draped over their shoulders, or given as gifts, or, when someone died, wrapped around them for burial.",
+      "start_ms": 89861,
+      "end_ms": 111122
+    },
+    {
+      "index": 19,
+      "text": "The stack was neat and tall.",
+      "start_ms": 111122,
+      "end_ms": 112984
+    },
+    {
+      "index": 20,
+      "text": "Bebe had woven every one of them.",
+      "start_ms": 112984,
+      "end_ms": 115104
+    },
+    {
+      "index": 21,
+      "text": "In the yard outside, under a shelter of woven raffia mats stretched over four wooden posts, was Bebe's loom.",
+      "start_ms": 115104,
+      "end_ms": 122540
+    },
+    {
+      "index": 22,
+      "text": "It was very big — as wide as Vola was tall, and about half as long again — and made of dark wood polished by generations of hands.",
+      "start_ms": 122540,
+      "end_ms": 131477
+    },
+    {
+      "index": 23,
+      "text": "A partly-finished cloth was stretched across it, held taut by weights of small round stones.",
+      "start_ms": 131477,
+      "end_ms": 137822
+    },
+    {
+      "index": 24,
+      "text": "The colors were red-brown, deep purple, and cream, with a black line every so often.",
+      "start_ms": 137822,
+      "end_ms": 143620
+    },
+    {
+      "index": 25,
+      "text": "Vola had seen Bebe at the loom before, but she had never been old enough to sit at it and try.",
+      "start_ms": 143620,
+      "end_ms": 150170
+    },
+    {
+      "index": 26,
+      "text": "\"This year,\" Bebe said, over the soup, \"we will make you a lamba.",
+      "start_ms": 150170,
+      "end_ms": 154672
+    },
+    {
+      "index": 27,
+      "text": "Your first.",
+      "start_ms": 154672,
+      "end_ms": 155491
+    },
+    {
+      "index": 28,
+      "text": "You will start it, you will finish it, and you will take it home to your mother.",
+      "start_ms": 155491,
+      "end_ms": 161017
+    },
+    {
+      "index": 29,
+      "text": "Not fancy.",
+      "start_ms": 161017,
+      "end_ms": 161767
+    },
+    {
+      "index": 30,
+      "text": "A simple one.",
+      "start_ms": 161767,
+      "end_ms": 162722
+    },
+    {
+      "index": 31,
+      "text": "But yours.",
+      "start_ms": 162722,
+      "end_ms": 163473
+    },
+    {
+      "index": 32,
+      "text": "That is what this July is for.\" Vola was very pleased.",
+      "start_ms": 163473,
+      "end_ms": 167225
+    },
+    {
+      "index": 33,
+      "text": "She had wanted this for two years.",
+      "start_ms": 167225,
+      "end_ms": 169681
+    },
+    {
+      "index": 34,
+      "text": "The first week, they only did the simple things.",
+      "start_ms": 169681,
+      "end_ms": 173024
+    },
+    {
+      "index": 35,
+      "text": "Bebe showed Vola how to sit at the loom — legs crossed, back straight but relaxed, weight settled.",
+      "start_ms": 173024,
+      "end_ms": 179778
+    },
+    {
+      "index": 36,
+      "text": "She showed Vola how to hold the shuttle.",
+      "start_ms": 179778,
+      "end_ms": 182575
+    },
+    {
+      "index": 37,
+      "text": "She showed her the motion of passing it through the warp threads, and pressing down the beater to lock each row of weft in place.",
+      "start_ms": 182575,
+      "end_ms": 191444
+    },
+    {
+      "index": 38,
+      "text": "She did not let Vola do very much at first.",
+      "start_ms": 191444,
+      "end_ms": 194445
+    },
+    {
+      "index": 39,
+      "text": "\"Watch,\" she kept saying.",
+      "start_ms": 194445,
+      "end_ms": 196219
+    },
+    {
+      "index": 40,
+      "text": "\"Watch first.",
+      "start_ms": 196219,
+      "end_ms": 197174
+    },
+    {
+      "index": 41,
+      "text": "Weaving is not something the hands learn.",
+      "start_ms": 197174,
+      "end_ms": 200039
+    },
+    {
+      "index": 42,
+      "text": "It is something the eyes learn.",
+      "start_ms": 200039,
+      "end_ms": 202223
+    },
+    {
+      "index": 43,
+      "text": "The hands only follow.\"",
+      "start_ms": 202223,
+      "end_ms": 203928
+    },
+    {
+      "index": 44,
+      "text": "So Vola watched.",
+      "start_ms": 203928,
+      "end_ms": 205088
+    },
+    {
+      "index": 45,
+      "text": "Bebe worked on the piece already in the loom — a red-brown wrap with cream borders — and Vola sat beside her and watched every movement.",
+      "start_ms": 205088,
+      "end_ms": 214434
+    },
+    {
+      "index": 46,
+      "text": "By the end of the week, Vola could see what Bebe was doing even before she did it.",
+      "start_ms": 214434,
+      "end_ms": 220097
+    },
+    {
+      "index": 47,
+      "text": "Her hands began to want to move.",
+      "start_ms": 220097,
+      "end_ms": 222348
+    },
+    {
+      "index": 48,
+      "text": "Bebe smiled and said, \"Now.",
+      "start_ms": 222348,
+      "end_ms": 224258
+    },
+    {
+      "index": 49,
+      "text": "Now the hands know.",
+      "start_ms": 224258,
+      "end_ms": 225622
+    },
+    {
+      "index": 50,
+      "text": "This is the moment.",
+      "start_ms": 225622,
+      "end_ms": 226987
+    },
+    {
+      "index": 51,
+      "text": "Sit.\"",
+      "start_ms": 226987,
+      "end_ms": 227328
+    },
+    {
+      "index": 52,
+      "text": "That evening, after they had eaten and cleaned the plates, Bebe took Vola over to the wall of stacked lamba.",
+      "start_ms": 227328,
+      "end_ms": 233768
+    },
+    {
+      "index": 53,
+      "text": "From very near the bottom of the stack, she pulled out a very old one, folded small.",
+      "start_ms": 233768,
+      "end_ms": 238790
+    },
+    {
+      "index": 54,
+      "text": "She carried it to the table and laid it out.",
+      "start_ms": 238790,
+      "end_ms": 241449
+    },
+    {
+      "index": 55,
+      "text": "It was long — nearly as long as the table — and pale cream, with a dense pattern of small red-brown geometric shapes running across it.",
+      "start_ms": 241449,
+      "end_ms": 249484
+    },
+    {
+      "index": 56,
+      "text": "The shapes were not repeating in the usual way.",
+      "start_ms": 249484,
+      "end_ms": 252320
+    },
+    {
+      "index": 57,
+      "text": "They were arranged in an order Vola could not quite see.",
+      "start_ms": 252320,
+      "end_ms": 255747
+    },
+    {
+      "index": 58,
+      "text": "\"This one was my grandmother's,\" Bebe said.",
+      "start_ms": 255747,
+      "end_ms": 258347
+    },
+    {
+      "index": 59,
+      "text": "\"Her name was Ravaka.",
+      "start_ms": 258347,
+      "end_ms": 259646
+    },
+    {
+      "index": 60,
+      "text": "She wove it before I was born.",
+      "start_ms": 259646,
+      "end_ms": 261478
+    },
+    {
+      "index": 61,
+      "text": "It came to me when my mother died.",
+      "start_ms": 261478,
+      "end_ms": 263546
+    },
+    {
+      "index": 62,
+      "text": "My mother told me, once, that this lamba was different from the ones Ravaka made for selling.",
+      "start_ms": 263546,
+      "end_ms": 269100
+    },
+    {
+      "index": 63,
+      "text": "She said Ravaka wove it for the family.",
+      "start_ms": 269100,
+      "end_ms": 271463
+    },
+    {
+      "index": 64,
+      "text": "She said, this one carries something.",
+      "start_ms": 271463,
+      "end_ms": 273708
+    },
+    {
+      "index": 65,
+      "text": "And I would tell you what, my mother said, but Ravaka never told me.",
+      "start_ms": 273708,
+      "end_ms": 277785
+    },
+    {
+      "index": 66,
+      "text": "She only told me it was here.\" Bebe touched the pattern lightly with two fingers.",
+      "start_ms": 277785,
+      "end_ms": 282630
+    },
+    {
+      "index": 67,
+      "text": "\"My mother said, if you ever understand it, you understand it.",
+      "start_ms": 282630,
+      "end_ms": 286352
+    },
+    {
+      "index": 68,
+      "text": "But she never did.",
+      "start_ms": 286352,
+      "end_ms": 287474
+    },
+    {
+      "index": 69,
+      "text": "And I never have.",
+      "start_ms": 287474,
+      "end_ms": 288538
+    },
+    {
+      "index": 70,
+      "text": "Sixty years I have looked at this pattern.",
+      "start_ms": 288538,
+      "end_ms": 291079
+    },
+    {
+      "index": 71,
+      "text": "I cannot read it.",
+      "start_ms": 291079,
+      "end_ms": 292142
+    },
+    {
+      "index": 72,
+      "text": "Something is here.",
+      "start_ms": 292142,
+      "end_ms": 293265
+    },
+    {
+      "index": 73,
+      "text": "I don't know what.\" She folded it again and put it away.",
+      "start_ms": 293265,
+      "end_ms": 296632
+    },
+    {
+      "index": 74,
+      "text": "\"Sleep,\" she said.",
+      "start_ms": 296632,
+      "end_ms": 297755
+    },
+    {
+      "index": 75,
+      "text": "\"Tomorrow, more weaving.\"",
+      "start_ms": 297755,
+      "end_ms": 299232
+    }
+  ]
+}

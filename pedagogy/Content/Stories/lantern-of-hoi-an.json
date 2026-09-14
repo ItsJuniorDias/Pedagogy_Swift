@@ -1,0 +1,167 @@
+{
+  "id": "lantern-of-hoi-an",
+  "title": "The Lantern of Hoi An",
+  "subtitle": "A Mid-Autumn Festival",
+  "author": null,
+  "summary": "Mai is ten and lives in Hoi An, the old town of yellow-painted houses and paper lanterns in central Vietnam. Every year at the Mid-Autumn Festival, an old lantern maker named Ông Lâm builds a giant fish-shaped lantern to release onto the river. This year he asks Mai to hold the string. Nobody else has been asked in twenty years. She does not know why he has chosen her. She does not know if she is ready.",
+  "readingTimeMinutes": 15,
+  "coverImage": "story-lantern-of-hoi-an-cover",
+  "coverImagePrompt": "Story card cover, 5:4 aspect ratio, render at 1432×1146px. Mike Mignola style adapted for children ages 9-11: heavy black inks, thick brushstrokes, flat shadows. Composition: a 10-year-old girl (Mai) with straight black hair, wearing a light-colored áo dài, standing on a small wooden dock along the Thu Bồn river in Hoi An at night. She holds a long thin bamboo string that rises upward from her hands to a large glowing paper fish-shaped lantern floating in the air above her, maybe two meters long, orange and gold. Around her, the river is full of dozens of smaller glowing candle-lanterns floating on the water. Behind her: warm yellow-painted old town buildings hung with hundreds of small colored silk lanterns. Character positioned center-left, filling roughly 40% of frame height. Palette: warm cream (#FFF9F0), sepia old wood, deep ink outlines, warm orange and gold on the lanterns, small dusty rose (#FF5B8D) accent on her áo dài. Small margin at top and bottom for card padding.",
+  "category": "legend",
+  "isPremium": true,
+  "publishedAt": "2027-02-25",
+  "isFeatured": true,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Old Man's Workshop",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "lh-ch1-p1-street",
+          "imagePrompt": "Mike Mignola style for children: exterior view of a narrow street in the old town of Hoi An, Vietnam. Yellow-painted French colonial buildings on both sides. Small silk lanterns hang from every eave. A small canal at one side. Warm late-afternoon light. A girl (Mai, 10, in a light áo dài) walks down the street. Heavy black ink outlines, flat shadows, cream palette with muted yellow buildings and warm colored lanterns.",
+          "paragraphs": [
+            "Mai had lived in Hoi An her whole life. She was ten. Her family had a small silk shop on Nguyen Thai Hoc street, in the old town, where the buildings were painted the color of egg yolks and where every eave was hung with paper lanterns. Tourists came from all over the world to see the old town, especially at night, when the lanterns were lit and the river was full of small floating candles. Mai walked through the tourists every day on her way home from school. She did not really notice them anymore. This was just her town.",
+            "The lantern makers were the important people in Hoi An. The town was famous for its lanterns — silk lanterns of every color, some as small as an apple, some as big as a person. Mai's father bought lanterns from the makers to sell in the shop alongside the silk. There were maybe twenty proper lantern makers left in the old town. The oldest of them, and the one everyone considered the best, was a very small very old man called Ông Lâm — Grandfather Lâm — who worked out of a tiny shop on a side street near the Japanese covered bridge. He had been making lanterns for over sixty years."
+          ]
+        },
+        {
+          "image": "lh-ch1-p2-workshop",
+          "imagePrompt": "Mike Mignola style for children: interior view of a small crowded lantern maker's workshop. Thin bamboo strips laid out on a low wooden work table. Half-finished lantern frames hanging from the ceiling. Silk fabric in many colors folded on shelves. An old man (Ông Lâm, eighties, thin, silver-white hair, thin white beard, in a dark linen shirt) sits cross-legged on a floor cushion working on a delicate bamboo frame. Warm afternoon light through a small window. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Mai went to Ông Lâm's shop on a Tuesday afternoon. Her father had sent her — he needed to order thirty small red silk lanterns for the shop for the upcoming Mid-Autumn Festival, which was in three weeks. Mai had been sent on errands like this before. She was not nervous. She knew Ông Lâm slightly. He always smiled at her when she came in. He never said much, but he always smiled.",
+            "The shop was very small. Ông Lâm sat on a cushion on the floor working on a lantern frame. He looked up when Mai came in. She bowed politely. She said her father wanted to order thirty small red silk lanterns for the festival. Ông Lâm nodded. He wrote it down in a small book. He said, in his soft voice, \"Tell your father, ready in two weeks. Same price as last year.\" Mai bowed again. She was going to leave. But Ông Lâm said, \"Wait. Sit. I want to talk to you.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Mai was surprised. She sat down on a small stool near the door. Ông Lâm set down his work. He looked at her for a long moment. Then he said, \"Mai. You know the fish lantern.\" She nodded. Of course she knew the fish lantern. Every year on the night of the Mid-Autumn Festival, Ông Lâm made one enormous lantern in the shape of a carp — two meters long, three meters if you counted the tail — and at the ceremony in the town square, he released it into the air over the river, holding it on a long string. It was the highlight of the festival. Everyone in the town knew about it. Everyone came to see.",
+            "\"For twenty years,\" said Ông Lâm, \"I have held the string myself. Before that, my teacher held it. Before that, his teacher. The fish lantern has been released this way every Mid-Autumn Festival for — I do not know exactly. More than one hundred years. Maybe two hundred. In the old times a different lantern maker did it. Now it has been me, since my teacher died in 2005.\" He paused. \"But this year, I am not going to hold the string. I want you to hold it.\""
+          ]
+        },
+        {
+          "image": "lh-ch1-p3-question",
+          "imagePrompt": "Mike Mignola style for children: interior scene. Mai (10) sits on the small stool with a very surprised, uncertain expression. Ông Lâm (eighties) sits opposite on his cushion, looking at her calmly and steadily. Warm workshop light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Mai stared at him. She could not speak for a moment. She said, finally, \"Ông Lâm. I do not — I am ten. I am not — a lantern maker. I am not anybody special. Why me?\" Ông Lâm smiled his small quiet smile. He said, \"Why not you.\" Mai said, \"There are so many other people. Older people. People from the lantern-making families. My cousin Duc, he is seventeen and he is good at things. Why not him.\" \"Because I chose you,\" said Ông Lâm. \"That is how the choice is made. The person who holds the string this year chooses who holds the string next year. My teacher chose me when I was twenty-one. His teacher chose him when he was fifteen. There is no rule about who or how. There is only — the person who holds the string decides. And I have decided you.\"",
+            "\"But why,\" said Mai. Ông Lâm was quiet for a long moment. Then he said, \"I have watched you walk past my shop for many years. You always look at the lanterns. You always slow down. Some children run past. Some children only look at the ones their parents point at. You look at the small ones I hang in the back. The ones nobody notices. Once, three years ago, you stopped and you pointed at one — a small blue one, shaped like a moon — and you told your mother it was the most beautiful one on the whole street. It was one of the first lanterns my teacher ever made. It had been hanging in my shop for forty years and nobody had ever noticed it. But you did. That is when I decided.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "Mai did not remember the moment. She did not remember pointing at a blue moon lantern when she was seven. But she believed Ông Lâm. She believed him because he said it so calmly. He had been waiting three years to tell her.",
+            "\"Will you do it,\" he said. Mai thought. She was terrified. She had never been asked to do something so important. She said, \"Can I think about it.\" Ông Lâm nodded. \"Yes,\" he said. \"Come back on Friday. Tell me then. If you say yes, we start practicing that afternoon. There is a lot to learn. Three weeks is not much time.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The String",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "lh-ch2-p1-parents",
+          "imagePrompt": "Mike Mignola style for children: interior scene at Mai's family silk shop after closing. Mai (10) stands facing her father and mother, who are behind the counter. Her father looks surprised and very serious. Her mother has both hands to her cheeks. Warm evening lamp light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "Mai told her parents that night. Her father was silent for a long moment. Then he said, \"Ông Lâm is the most respected lantern maker in Hoi An. If he has chosen you, this is — this is a very serious honor, Mai. Very serious. I do not know if I would be brave enough to do it if he had chosen me. It is a lot to ask of a ten-year-old.\" Her mother said, \"You can say no if you are not ready. It is not — you do not have to say yes just because he asked. That is what being brave means. Being brave enough to say no.\" Her father added, \"But also being brave enough to say yes.\"",
+            "Mai lay in bed for hours that night. She thought about what would happen if she dropped the string. If the wind took the lantern before she was ready. If the lantern caught fire. If she cried in front of everyone. She thought about all the ways it could go wrong. Then she thought about the small blue moon lantern she did not even remember pointing at. She thought about how Ông Lâm had waited three years. She thought about how he had decided that a small girl who noticed things was the right one. If she said no, that would mean he was wrong. But he did not seem wrong. He had seemed very sure."
+          ]
+        },
+        {
+          "image": "lh-ch2-p2-yes",
+          "imagePrompt": "Mike Mignola style for children: interior scene at the small lantern workshop. Mai (10) has just walked in and Ông Lâm (eighties) is looking up from his work. Mai stands straight, one hand at her chest. Her face is determined. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "On Friday she walked to Ông Lâm's shop. She walked slowly. She was still afraid. When she got to the door, she stopped for a moment. Then she went in. Ông Lâm was there. He looked up. He waited. Mai said, \"I will do it, Ông Lâm.\" Ông Lâm nodded once. He said, \"Good. Come. We start now.\"",
+            "He took out a long thin bamboo string, three meters long, with a small wooden handle on one end. He said, \"This is the practice string. It is the same length as the string on the fish lantern. Every day for three weeks, we will practice with it. First we practice holding. Then we practice standing. Then we practice with wind. Then we practice with everything. If in the last week you decide you cannot do it, that is fine. You can still say no. But we will practice as if you are going to say yes.\""
+          ]
+        },
+        {
+          "image": "lh-ch2-p3-practicing",
+          "imagePrompt": "Mike Mignola style for children: exterior scene in a small courtyard behind the workshop. Mai (10) stands very still in the middle of the courtyard, holding the long bamboo string upright above her head, one hand on the wooden handle at the bottom, arms extended. Ông Lâm (eighties) stands off to one side, watching, arms folded. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "The first thing he taught her was how to stand. This was harder than she had expected. She had to hold the string straight up above her head, one hand on the handle at the bottom, the other hand about a meter up the string for control. She had to stand with her feet apart and her back straight. She had to breathe slowly. She had to not lock her knees. She had to feel the string as if it was — Ông Lâm said this many times — as if it was a small living thing.",
+            "\"Do not fight it,\" he said. \"The string is not against you. The lantern is not against you. The wind is not against you. All of it is together. You are part of it. If you fight, you tense up, and you drop the string. If you relax, and you stay with it, you will hold it as long as it needs to be held.\""
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "For the first week Mai practiced only standing. Every afternoon she went to Ông Lâm's small courtyard. She stood with the empty practice string. Ông Lâm watched her. He corrected small things — her elbows, her breathing, the way her feet were set. He was patient. He never seemed disappointed. On the fourth day she was so tired her arms shook and she had to lower the string. She thought Ông Lâm would be upset. He was not. He said, \"Yes. That is what tired feels like. Now you know. Rest. In a minute, we do it again.\"",
+            "In the second week they added the wind. Ông Lâm had a small paper kite the size of her hand, which he tied to the top of the practice string. It caught the wind and pulled the string sideways. Mai had to hold on. She had to lean into the pull. She had to not fight it — she had to move with it. This was much harder. The kite pulled her off balance. Twice she fell over. Ông Lâm helped her up. He did not laugh. He said, \"Good. Now you have fallen. Everyone falls the first time. Now you know what falling feels like.\""
+          ]
+        },
+        {
+          "image": "lh-ch2-p5-lantern",
+          "imagePrompt": "Mike Mignola style for children: interior of the workshop. Ông Lâm (eighties) and Mai (10) stand looking at a large half-finished bamboo frame of a fish-shaped lantern lying on the workshop floor. It is maybe two meters long. Ông Lâm gestures at the frame. Warm afternoon light. Heavy ink outlines, flat shadows, cream and sepia palette.",
+          "paragraphs": [
+            "In the third week Ông Lâm brought her into the workshop. The fish lantern was almost finished. The bamboo frame was already built — it took up the whole floor. He was covering it now with layers of thin painted silk. Mai watched him work. She was allowed to help with small things — holding one edge of the silk while he glued, passing him tools when he asked. She was not allowed to touch the frame with unclean hands. She was not allowed to lean over it.",
+            "\"This lantern,\" Ông Lâm said, gluing a fin, \"took me two months to make. The bamboo was cut in July. The silk was dyed in August. Now, in September, we finish it. On the night of the festival, we light it. It will fly for maybe twenty minutes. Then the paper will burn away and the lantern will fall gently into the river and float downstream and eventually sink. That is the whole life of this lantern. Two months to make. Twenty minutes to fly. Then gone.\" He looked up at Mai. \"That is why the person who holds the string has to be a person who understands that this is not — this is not about keeping. It is about letting go. The whole point is the letting go.\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Night of the Festival",
+      "openerImage": null,
+      "openerPrompt": null,
+      "pages": [
+        {
+          "image": "lh-ch3-p1-crowd",
+          "imagePrompt": "Mike Mignola style for children: exterior night view of the town square in Hoi An during the Mid-Autumn Festival. Hundreds of glowing paper lanterns hanging from every building. Crowds of people — families, children, tourists — filling the square. In the center of the square, on a small raised wooden platform, the huge unlit fish-shaped lantern rests on a stand. Warm ambient light from all the lanterns. Heavy ink outlines, flat shadows, cream palette with orange and gold lanterns everywhere.",
+          "paragraphs": [
+            "The night of the Mid-Autumn Festival, the town was almost impossibly beautiful. Every building was hung with lanterns. Every window was hung with lanterns. The trees in the square were hung with lanterns. The river was full of small candle-lanterns that people were setting afloat. There must have been ten thousand people in the old town. Mai stood in the middle of the town square, in her best áo dài, holding the practice string in her hands to stop them from shaking. Her parents were at the front of the crowd. Her father waved at her. She waved back. She was terrified.",
+            "The fish lantern was on a small wooden platform in the center of the square. It was even bigger than Mai had realized. Ông Lâm was checking every fin, every string, every candle inside. He worked slowly and calmly. When he was ready, he came over to Mai. He was small. Mai had realized, in the last three weeks, that she was almost as tall as he was."
+          ]
+        },
+        {
+          "image": null,
+          "imagePrompt": null,
+          "paragraphs": [
+            "\"Mai,\" he said. He held out the string — the real string, the one attached to the finished fish lantern. \"Take it. Feel it in your hands. Breathe. Do you remember what I told you.\" She said, \"Yes.\" \"What did I tell you.\" \"Do not fight it. Move with it. Relax my shoulders. Breathe from my belly, not my chest. Do not lock my knees. Watch the tail of the lantern, not the string.\" Ông Lâm smiled. \"Yes. Very good. Come. It is time.\"",
+            "He led her onto the wooden platform. He lit the small candles inside the fish, one by one. The lantern began to glow — a warm orange from the inside, so beautiful Mai wanted to cry. He checked the string. He nodded to her. He stepped back. The whole square went quiet. Ten thousand people stopped talking. Mai stood on the platform, alone, holding the string that held the fish lantern. The mayor of Hoi An made a small speech that Mai did not really hear. Then he said her name. Then he said, in a loud voice, \"Release the lantern!\""
+          ]
+        },
+        {
+          "image": "lh-ch3-p3-release",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene. The huge glowing fish lantern lifts into the air above Mai's head. She stands on the platform in her light áo dài, holding the string with both hands, arms extended straight up, face lit warmly from the lantern above her. Below, the crowd watches, mouths open. Warm orange and gold light. Heavy ink outlines, flat shadows, cream palette with strong warm lantern glow.",
+          "paragraphs": [
+            "The lantern rose. Mai had known it would rise — that was the point of it, the heat of the candles made it fly — but she had not fully believed it until it did. It lifted off its stand slowly, and then more quickly, and then it was floating above her head. She adjusted her grip. She let out the string, hand over hand, the way Ông Lâm had shown her. She let it rise. She did not fight it. She breathed. She watched the tail.",
+            "The lantern floated up above the crowd. It went up maybe fifteen meters. Then it stopped rising and it started to drift — the wind was pulling it toward the river. Mai turned as it drifted. She kept the string tight but not too tight. She could feel the lantern moving — as if she was holding a small living thing on a leash, exactly as Ông Lâm had said. It was heavy and light at the same time. It wanted to go. She let it go, but she also held it. Both were true."
+          ]
+        },
+        {
+          "image": "lh-ch3-p4-drifting",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene above the Thu Bồn river. The glowing fish lantern drifts high above the river now. Mai (10) walks slowly along the riverbank following it, still holding the long string. Ông Lâm walks behind her, watching, not touching. The river is full of small floating candle-lanterns. The crowd follows at a respectful distance. Heavy ink outlines, flat shadows, cream palette with warm orange lantern glow, cool dark night.",
+          "paragraphs": [
+            "The wind pulled the lantern out over the river. Mai walked with it. Ông Lâm was behind her, watching. He did not touch her. He let her do it. The crowd followed her — a long line of people walking with her along the bank of the river. The lantern floated above the water. She could see, from below, its silhouette against the huge round moon that had risen over the town. It was the most beautiful thing she had ever seen in her life. And she was holding the string that held it. And it was not fighting her. She was not fighting it. They were moving together.",
+            "It flew for maybe eighteen minutes. Then it began to descend — the candles were burning low. Mai could feel the string get slack, then tight, then slack. She let it drift down. The lantern began to lose its shape as the silk started to burn. Small flames appeared on its sides. Mai kept walking. The fish lantern floated down over the river. It touched the water. It sat on the surface, still glowing. Then, slowly, the paper burned away, and the bamboo frame — freed of its silk — began to sink. The last candles guttered. The fish lantern went dark. It floated on the water for another minute, half-submerged. Then it slipped under."
+          ]
+        },
+        {
+          "image": "lh-ch3-p5-after",
+          "imagePrompt": "Mike Mignola style for children: exterior night scene at the riverbank. Mai (10) stands at the water's edge, string now empty in her hands, watching the last dark shape sink into the river. Ông Lâm stands beside her, one hand on her shoulder. The crowd still watches, quiet. The river is full of small floating candle-lanterns. Warm ambient light from all the small lanterns. Heavy ink outlines, flat shadows, cream palette with warm accents.",
+          "paragraphs": [
+            "Mai stood at the water's edge with the empty string in her hands. She did not move. Ông Lâm came up beside her. He put his hand on her shoulder. He said, in his soft voice, \"You did it. You did it perfectly. The whole town will remember. My teacher would have been proud. I am proud.\" Mai said, quietly, \"It is gone.\" \"Yes,\" said Ông Lâm. \"It is gone. That is the whole point. You know that. You knew that when you agreed. You did it anyway. That is what a person like you does.\"",
+            "Mai stood at the river for a while longer. The crowd began to disperse. Her parents came up to her and hugged her. Her mother was crying. Her father was smiling in a way she had not seen before. She hugged them back. She was very tired. She was also — she realized — very happy. Ông Lâm was standing a little way off, letting her family have her. When she looked over at him, he was watching her. He smiled. She smiled back. She understood that in twenty years, or forty years, or whenever it was, it would be her turn to choose the next person. She understood that she would have to look, for a long time, before she found them. She understood that this was the whole tradition — one person, choosing another person, in the crowd, over years. She thought — I can do that. I can watch, when the time comes. I will know who they are, the way he knew who I was."
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "vietnam",
+    "tradition",
+    "festival",
+    "craft",
+    "trust"
+  ]
+}

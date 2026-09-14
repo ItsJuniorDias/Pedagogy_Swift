@@ -1,0 +1,535 @@
+{
+  "story_id": "sky-mirror",
+  "chapter": 1,
+  "total_duration_ms": 366312,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Elena was ten and lived in La Paz, in a small apartment on the seventh floor of a red-brick building that looked out across the whole city, and beyond it to the great snow-covered peak of Illimani.",
+      "start_ms": 2138,
+      "end_ms": 14233
+    },
+    {
+      "index": 1,
+      "text": "She had lived at almost four thousand meters above sea level her whole life, and her lungs were used to the thin cold air in a way that mystified visitors.",
+      "start_ms": 14233,
+      "end_ms": 23762
+    },
+    {
+      "index": 2,
+      "text": "Her mother was a doctor at a clinic in El Alto.",
+      "start_ms": 23762,
+      "end_ms": 26694
+    },
+    {
+      "index": 3,
+      "text": "Her father, Ernesto, was a naturalist who worked for the Bolivian environment ministry.",
+      "start_ms": 26694,
+      "end_ms": 32069
+    },
+    {
+      "index": 4,
+      "text": "He spent most of the year traveling to different parts of the country — the Amazonian lowlands to the north, the Chaco to the east, the altiplano to the south — writing careful reports about small things almost nobody else noticed.",
+      "start_ms": 32069,
+      "end_ms": 46302
+    },
+    {
+      "index": 5,
+      "text": "Every February, in the middle of the summer rains, when Elena had school holidays and the altiplano was at its strangest, Ernesto took her on one long field trip.",
+      "start_ms": 46302,
+      "end_ms": 56259
+    },
+    {
+      "index": 6,
+      "text": "He had taken her to the highland wetlands when she was eight.",
+      "start_ms": 56259,
+      "end_ms": 60046
+    },
+    {
+      "index": 7,
+      "text": "He had taken her to a Chilean-border flamingo lake when she was nine.",
+      "start_ms": 60046,
+      "end_ms": 64322
+    },
+    {
+      "index": 8,
+      "text": "This year — her tenth year — he had said, quietly, over supper in early January, \"This year, mi hija, we go to the Salar.\"",
+      "start_ms": 64322,
+      "end_ms": 71896
+    },
+    {
+      "index": 9,
+      "text": "They drove south for two days.",
+      "start_ms": 71896,
+      "end_ms": 73790
+    },
+    {
+      "index": 10,
+      "text": "The road from La Paz to Uyuni ran across the altiplano — a huge high flat table of grassland between the two ranges of the Andes, at three and a half thousand meters.",
+      "start_ms": 73790,
+      "end_ms": 83991
+    },
+    {
+      "index": 11,
+      "text": "There were long stretches with nothing on either side but grass, and one or two vicuñas grazing in the distance, and the occasional adobe farmhouse with a tin roof.",
+      "start_ms": 83991,
+      "end_ms": 94070
+    },
+    {
+      "index": 12,
+      "text": "Ernesto drove the ministry's old dark green jeep.",
+      "start_ms": 94070,
+      "end_ms": 97124
+    },
+    {
+      "index": 13,
+      "text": "Elena sat in the passenger seat with a book she was not really reading and watched the country go past.",
+      "start_ms": 97124,
+      "end_ms": 103416
+    },
+    {
+      "index": 14,
+      "text": "In the back of the jeep, wedged carefully between the tent and Ernesto's field bag, was a small hard camera case that Elena had not seen before.",
+      "start_ms": 103416,
+      "end_ms": 113303
+    },
+    {
+      "index": 15,
+      "text": "On the second afternoon, she asked what it was.",
+      "start_ms": 113303,
+      "end_ms": 116576
+    },
+    {
+      "index": 16,
+      "text": "Ernesto glanced at the mirror.",
+      "start_ms": 116576,
+      "end_ms": 118689
+    },
+    {
+      "index": 17,
+      "text": "\"My camera,\" he said.",
+      "start_ms": 118689,
+      "end_ms": 120189
+    },
+    {
+      "index": 18,
+      "text": "\"An old one.",
+      "start_ms": 120189,
+      "end_ms": 121076
+    },
+    {
+      "index": 19,
+      "text": "My father gave it to me when I was twelve.",
+      "start_ms": 121076,
+      "end_ms": 124008
+    },
+    {
+      "index": 20,
+      "text": "I have carried it with me on every trip since.",
+      "start_ms": 124008,
+      "end_ms": 127212
+    },
+    {
+      "index": 21,
+      "text": "I do not know why exactly.",
+      "start_ms": 127212,
+      "end_ms": 129053
+    },
+    {
+      "index": 22,
+      "text": "I never take pictures with it.\" Elena thought that was very strange.",
+      "start_ms": 129053,
+      "end_ms": 133758
+    },
+    {
+      "index": 23,
+      "text": "She did not press.",
+      "start_ms": 133758,
+      "end_ms": 135053
+    },
+    {
+      "index": 24,
+      "text": "She had learned that things her father said in that quiet way often came back later, when he was ready.",
+      "start_ms": 135053,
+      "end_ms": 142213
+    },
+    {
+      "index": 25,
+      "text": "They stayed the first night in a small hostel in Oruro.",
+      "start_ms": 142213,
+      "end_ms": 146031
+    },
+    {
+      "index": 26,
+      "text": "They stayed the second night in a smaller village called Salinas de Garci Mendoza, which sat at the northern edge of the Salar.",
+      "start_ms": 146031,
+      "end_ms": 154759
+    },
+    {
+      "index": 27,
+      "text": "Ernesto knew the family who ran the small guesthouse there — he had stayed with them on many trips.",
+      "start_ms": 154759,
+      "end_ms": 161577
+    },
+    {
+      "index": 28,
+      "text": "That evening, over a supper of quinoa soup and roasted potatoes, he told Elena about the Salar.",
+      "start_ms": 161577,
+      "end_ms": 168123
+    },
+    {
+      "index": 29,
+      "text": "\"It is the largest salt flat in the world,\" he said.",
+      "start_ms": 168123,
+      "end_ms": 171736
+    },
+    {
+      "index": 30,
+      "text": "\"Ten thousand square kilometers of dry white salt, three meters thick in most places.",
+      "start_ms": 171736,
+      "end_ms": 177600
+    },
+    {
+      "index": 31,
+      "text": "It was once, a very long time ago, an enormous salt lake, and it dried up, and the salt stayed.",
+      "start_ms": 177600,
+      "end_ms": 184146
+    },
+    {
+      "index": 32,
+      "text": "For most of the year, it is white and dry and cracked into large hexagons.",
+      "start_ms": 184146,
+      "end_ms": 189260
+    },
+    {
+      "index": 33,
+      "text": "You could drive across it in any direction.\"",
+      "start_ms": 189260,
+      "end_ms": 192396
+    },
+    {
+      "index": 34,
+      "text": "He drank some coca tea.",
+      "start_ms": 192396,
+      "end_ms": 194033
+    },
+    {
+      "index": 35,
+      "text": "\"But in the wet season — now, in February — a shallow layer of rain water sits on top of the salt.",
+      "start_ms": 194033,
+      "end_ms": 200783
+    },
+    {
+      "index": 36,
+      "text": "Not deep.",
+      "start_ms": 200783,
+      "end_ms": 201465
+    },
+    {
+      "index": 37,
+      "text": "Ankle deep.",
+      "start_ms": 201465,
+      "end_ms": 202283
+    },
+    {
+      "index": 38,
+      "text": "It cannot drain because the ground under is impermeable.",
+      "start_ms": 202283,
+      "end_ms": 206169
+    },
+    {
+      "index": 39,
+      "text": "So the water just sits.",
+      "start_ms": 206169,
+      "end_ms": 207806
+    },
+    {
+      "index": 40,
+      "text": "And because it sits perfectly still on a perfectly flat surface, and because the surface is white and reflective, the whole Salar becomes a mirror.",
+      "start_ms": 207806,
+      "end_ms": 217897
+    },
+    {
+      "index": 41,
+      "text": "A ten-thousand-square-kilometer mirror.",
+      "start_ms": 217897,
+      "end_ms": 220624
+    },
+    {
+      "index": 42,
+      "text": "When you stand on it, the sky is above you and the sky is below you and there is nothing to tell them apart.",
+      "start_ms": 220624,
+      "end_ms": 228057
+    },
+    {
+      "index": 43,
+      "text": "That is why we come in February and not in June.",
+      "start_ms": 228057,
+      "end_ms": 231398
+    },
+    {
+      "index": 44,
+      "text": "That is what I brought you to see.\"",
+      "start_ms": 231398,
+      "end_ms": 233784
+    },
+    {
+      "index": 45,
+      "text": "They drove out onto the Salar the next morning.",
+      "start_ms": 233784,
+      "end_ms": 236768
+    },
+    {
+      "index": 46,
+      "text": "The road ended at the edge of the salt, and then there was no road — just the flat white surface, and the thin water.",
+      "start_ms": 236768,
+      "end_ms": 244103
+    },
+    {
+      "index": 47,
+      "text": "Ernesto stopped the jeep just where the water began.",
+      "start_ms": 244103,
+      "end_ms": 247397
+    },
+    {
+      "index": 48,
+      "text": "He and Elena climbed out.",
+      "start_ms": 247397,
+      "end_ms": 249076
+    },
+    {
+      "index": 49,
+      "text": "Elena did not say anything for a long time.",
+      "start_ms": 249076,
+      "end_ms": 251811
+    },
+    {
+      "index": 50,
+      "text": "She had seen pictures.",
+      "start_ms": 251811,
+      "end_ms": 253241
+    },
+    {
+      "index": 51,
+      "text": "Everyone had seen pictures.",
+      "start_ms": 253241,
+      "end_ms": 254981
+    },
+    {
+      "index": 52,
+      "text": "But she had not understood, from pictures, what it would be.",
+      "start_ms": 254981,
+      "end_ms": 258773
+    },
+    {
+      "index": 53,
+      "text": "It was not a lake.",
+      "start_ms": 258773,
+      "end_ms": 259954
+    },
+    {
+      "index": 54,
+      "text": "It was not a plain.",
+      "start_ms": 259954,
+      "end_ms": 261197
+    },
+    {
+      "index": 55,
+      "text": "It was something else.",
+      "start_ms": 261197,
+      "end_ms": 262627
+    },
+    {
+      "index": 56,
+      "text": "The water was perfectly still, only ankle-deep — she could see the salt surface under it, cracked in wide hexagons — and it reflected the enormous pale sky above so exactly that when she looked out, she could not tell where the ground ended and the sky began.",
+      "start_ms": 262627,
+      "end_ms": 278789
+    },
+    {
+      "index": 57,
+      "text": "Distant mountains at the edge of the Salar seemed to be floating, doubled, one above and one below.",
+      "start_ms": 278789,
+      "end_ms": 285005
+    },
+    {
+      "index": 58,
+      "text": "She took one step onto the water.",
+      "start_ms": 285005,
+      "end_ms": 287119
+    },
+    {
+      "index": 59,
+      "text": "Her boot made a small ring of ripples that spread out in silence and dissolved.",
+      "start_ms": 287119,
+      "end_ms": 292154
+    },
+    {
+      "index": 60,
+      "text": "Ernesto went back to the jeep.",
+      "start_ms": 292154,
+      "end_ms": 294081
+    },
+    {
+      "index": 61,
+      "text": "He opened the small camera case.",
+      "start_ms": 294081,
+      "end_ms": 296132
+    },
+    {
+      "index": 62,
+      "text": "He took out the old dark metal camera.",
+      "start_ms": 296132,
+      "end_ms": 298556
+    },
+    {
+      "index": 63,
+      "text": "He also took out, from a small pouch inside the case, a yellow and black cardboard box, and from the box a single roll of film.",
+      "start_ms": 298556,
+      "end_ms": 306513
+    },
+    {
+      "index": 64,
+      "text": "He walked back to Elena.",
+      "start_ms": 306513,
+      "end_ms": 308067
+    },
+    {
+      "index": 65,
+      "text": "He said, \"I have been carrying this camera for thirty years and I have never once put a film in it.",
+      "start_ms": 308067,
+      "end_ms": 314283
+    },
+    {
+      "index": 66,
+      "text": "My father put a film in it, when he gave it to me, and I finished that film in the first month.",
+      "start_ms": 314283,
+      "end_ms": 320251
+    },
+    {
+      "index": 67,
+      "text": "Then I went to the Amazon for the first time.",
+      "start_ms": 320251,
+      "end_ms": 323110
+    },
+    {
+      "index": 68,
+      "text": "And I did not put another film in.",
+      "start_ms": 323110,
+      "end_ms": 325286
+    },
+    {
+      "index": 69,
+      "text": "And I never have since.",
+      "start_ms": 325286,
+      "end_ms": 326778
+    },
+    {
+      "index": 70,
+      "text": "I have carried it, empty, on every trip.",
+      "start_ms": 326778,
+      "end_ms": 329326
+    },
+    {
+      "index": 71,
+      "text": "I do not really know why.",
+      "start_ms": 329326,
+      "end_ms": 330943
+    },
+    {
+      "index": 72,
+      "text": "Something to do with my father.",
+      "start_ms": 330943,
+      "end_ms": 332932
+    },
+    {
+      "index": 73,
+      "text": "Something to do with wanting to keep it ready but not use it.",
+      "start_ms": 332932,
+      "end_ms": 336786
+    },
+    {
+      "index": 74,
+      "text": "I have thought about this for many years and I do not have a clean answer.\"",
+      "start_ms": 336786,
+      "end_ms": 341448
+    },
+    {
+      "index": 75,
+      "text": "He held the camera out to her.",
+      "start_ms": 341448,
+      "end_ms": 343236
+    },
+    {
+      "index": 76,
+      "text": "\"Today I am putting a film in.",
+      "start_ms": 343236,
+      "end_ms": 345025
+    },
+    {
+      "index": 77,
+      "text": "I have brought three rolls.",
+      "start_ms": 345025,
+      "end_ms": 346640
+    },
+    {
+      "index": 78,
+      "text": "They are for you.",
+      "start_ms": 346640,
+      "end_ms": 347678
+    },
+    {
+      "index": 79,
+      "text": "For this week.",
+      "start_ms": 347678,
+      "end_ms": 348544
+    },
+    {
+      "index": 80,
+      "text": "You take the pictures.",
+      "start_ms": 348544,
+      "end_ms": 349871
+    },
+    {
+      "index": 81,
+      "text": "I will show you how the camera works.",
+      "start_ms": 349871,
+      "end_ms": 352063
+    },
+    {
+      "index": 82,
+      "text": "Then it is yours to hold, for the five days we are here.\" Elena took the camera.",
+      "start_ms": 352063,
+      "end_ms": 356736
+    },
+    {
+      "index": 83,
+      "text": "It was heavier than she had thought.",
+      "start_ms": 356736,
+      "end_ms": 358870
+    },
+    {
+      "index": 84,
+      "text": "The dark metal was cool.",
+      "start_ms": 358870,
+      "end_ms": 360312
+    },
+    {
+      "index": 85,
+      "text": "It smelled faintly of leather and old grease.",
+      "start_ms": 360312,
+      "end_ms": 362966
+    },
+    {
+      "index": 86,
+      "text": "She looked up at her father.",
+      "start_ms": 362966,
+      "end_ms": 364639
+    },
+    {
+      "index": 87,
+      "text": "She did not know what to say.",
+      "start_ms": 364639,
+      "end_ms": 366312
+    }
+  ]
+}
