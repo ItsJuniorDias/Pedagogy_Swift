@@ -190,17 +190,39 @@ tirar o fone (tem que pausar).
 
 ---
 
-## Tamanho do app
+## Tamanho do app — On-Demand Resources
 
-272 MB só de narração, sobre 98 MB de arte. A App Store pede confirmação pra
-baixar acima de 200 MB na rede celular — o usuário pode liberar, e o teste é
-feito sobre o tamanho já afinado pelo app thinning, não sobre o número
-exibido na loja. MP3 a 48 kbps não comprime mais.
+Os 272 MB de narração **não vão mais no download da App Store**. Cada história
+é uma tag de On-Demand Resources (`narration-<slug>`, ~5,5 MB com os três
+capítulos) que o app baixa no primeiro Listen. Detalhes em
+`pedagogy/Content/ContentPacks.swift`.
 
-Não é impeditivo, mas se um dia quiser fugir disso o caminho é On-Demand
-Resources: capítulo 1 no bundle, o resto sob demanda. O `play()` do
-`AudioPlayerManager` é o único lugar que resolve caminho de arquivo, então a
-troca fica contida.
+- **Tag por história, não por capítulo:** o auto-play do capítulo 2 não para
+  pra baixar nada.
+- **Os `.timings.json` ficam no bundle** (2,4 MB): são o índice de "este
+  capítulo tem narração". `hasNarration` olha pra eles, porque o MP3 só
+  aparece no bundle depois de baixado. MP3 com tag e sem timings fica
+  invisível — o install nunca pode pular a etapa dos timings.
+- **Na UI:** o mini-player aparece na hora com spinner e a barra mostrando o
+  download; sem rede, o play vira ↻ pra tentar de novo. O Reader é full
+  screen e cobre o mini-player, então o botão de narração dele mostra o
+  mesmo estado.
+
+**Depois de instalar áudio novo, rode:**
+
+```bash
+python3 scripts/tag_ondemand_resources.py
+```
+
+Ele regrava as tags no `project.pbxproj` a partir de `Content/Audio` e
+`Content/Motion` (com o Xcode fechado). `--check` só confere. Arquivo sem tag
+não quebra nada: vai pro bundle principal e toca normalmente — só volta a
+pesar no download. Vale chamar o script no fim do `install_narration_audio.sh`.
+
+**Testar:** rode pelo Xcode (Cmd+R). É o Xcode que serve os pacotes em
+desenvolvimento; instalar o `.app` na mão com `simctl` faz todo download
+falhar. O Debug Navigator → Disk mostra o estado de cada tag. Em TestFlight e
+na App Store os pacotes vêm da Apple.
 
 ---
 

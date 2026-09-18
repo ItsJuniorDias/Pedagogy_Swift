@@ -12,6 +12,11 @@
 //  Mesmo slug do `Story.id`, mesma cola que a narração usa. Loop de 4s, HEVC,
 //  sem faixa de áudio, gerado pelo optimize_motion.py.
 //
+//  Os clipes são On-Demand Resources (tag `motion-<slug>`, ver
+//  ContentPacks.swift): `url(slug:)` só acha um clipe depois que o pacote
+//  dele foi baixado e está seguro por um `ContentPackAccess`. Quem pede o
+//  pacote é a `MotionCover`.
+//
 //  QUANDO NÃO ANIMAR
 //
 //  As duas checagens abaixo não são zelo excessivo — são as duas situações em
@@ -48,10 +53,6 @@ enum MotionCatalog {
             }
         }
         return nil
-    }
-
-    static func hasMotion(slug: String) -> Bool {
-        url(slug: slug) != nil
     }
 
     /// Lido no momento em que a view aparece, não observado continuamente.

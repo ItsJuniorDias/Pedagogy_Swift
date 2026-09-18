@@ -6,6 +6,11 @@
 //  Bar persistente na parte inferior das tabs quando algo está tocando.
 //  Some quando nowPlaying == nil (idle state).
 //
+//  Também aparece enquanto a narração da história baixa (On-Demand
+//  Resources — ver ContentPacks.swift): a barra de progresso mostra o
+//  download e o play vira spinner. Se o download falhar, o play vira a seta
+//  de tentar de novo.
+//
 //  LAYOUT
 //
 //    ╭─────────────────────────────────────────────────╮
@@ -69,8 +74,8 @@ struct MiniPlayerView: View {
     }
 
     var body: some View {
-        // Só renderiza quando algo tá tocando (playing OR paused mas
-        // carregado). Idle/error = mini-player sumiu.
+        // Só renderiza quando há capítulo carregado ou a caminho (playing,
+        // paused, baixando, ou download que falhou). Idle = sumiu.
         if let np = audio.nowPlaying {
             ZStack {
                 content(np: np)
@@ -142,7 +147,7 @@ struct MiniPlayerView: View {
                             .foregroundStyle(Theme.Colors.ink)
                             .lineLimit(1)
 
-                        Text("Chapter \(np.chapter) · \(np.chapterTitle)")
+                        subtitle(np: np)
                             .font(.ui(11, weight: .regular))
                             .foregroundStyle(Theme.Colors.textMuted)
                             .lineLimit(1)
@@ -173,7 +178,7 @@ struct MiniPlayerView: View {
                 Button {
                     audio.togglePlayback()
                 } label: {
-                    Image(systemName: audio.isPlaying ? "pause.fill" : "play.fill")
+                    playGlyph
                         .font(.system(size: 16, weight: .bold))
                         .foregroundStyle(Theme.Colors.onAccent)
                         .frame(width: 36, height: 36)
@@ -186,7 +191,7 @@ struct MiniPlayerView: View {
                         )
                         .hardShadow(Circle(), offset: CGSize(width: 2, height: 3))
                 }
-                .accessibilityLabel(audio.isPlaying ? "Pause" : "Play")
+                .accessibilityLabel(playLabel)
 
                 // Close
                 Button {
@@ -243,9 +248,48 @@ struct MiniPlayerView: View {
         )
     }
 
+    // MARK: - Download / erro
+
+    /// Segunda linha do card. Baixando ou depois de uma falha, o status toma
+    /// o lugar do capítulo — é a única explicação de por que o play está
+    /// girando ou virou uma seta.
+    @ViewBuilder
+    private func subtitle(np: NowPlaying) -> some View {
+        switch audio.state {
+        case .loading: Text("Downloading narration…")
+        case .error:   Text("Couldn't load narration · Try again")
+        default:       Text("Chapter \(np.chapter) · \(np.chapterTitle)")
+        }
+    }
+
+    /// Miolo do botão principal.
+    @ViewBuilder
+    private var playGlyph: some View {
+        switch audio.state {
+        case .loading:
+            ProgressView()
+                .controlSize(.small)
+                .tint(Theme.Colors.onAccent)
+        case .error:
+            Image(systemName: "arrow.clockwise")
+        default:
+            Image(systemName: audio.isPlaying ? "pause.fill" : "play.fill")
+        }
+    }
+
+    private var playLabel: String {
+        switch audio.state {
+        case .loading: return "Downloading narration"
+        case .error:   return "Try again"
+        default:       return audio.isPlaying ? "Pause" : "Play"
+        }
+    }
+
     // MARK: - Progress fraction
 
+    /// Durante o download a barra mostra o download; depois, o capítulo.
     private var fraction: Double {
+        if audio.state == .loading { return audio.downloadFraction }
         guard audio.durationMs > 0 else { return 0 }
         return Double(audio.currentMs) / Double(audio.durationMs)
     }

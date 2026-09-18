@@ -13,6 +13,608 @@
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
 		FF00000ABCDEF001EEE00001 /* Exceptions for "pedagogy" folder in "pedagogy" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			assetTagsByRelativePath = {
+				"Content/Audio/archivist-of-tallinn-ch1.mp3" = (
+					"narration-archivist-of-tallinn",
+				);
+				"Content/Audio/archivist-of-tallinn-ch2.mp3" = (
+					"narration-archivist-of-tallinn",
+				);
+				"Content/Audio/archivist-of-tallinn-ch3.mp3" = (
+					"narration-archivist-of-tallinn",
+				);
+				"Content/Audio/blueprints-ch1.mp3" = (
+					"narration-blueprints",
+				);
+				"Content/Audio/blueprints-ch2.mp3" = (
+					"narration-blueprints",
+				);
+				"Content/Audio/blueprints-ch3.mp3" = (
+					"narration-blueprints",
+				);
+				"Content/Audio/bookbinders-daughter-ch1.mp3" = (
+					"narration-bookbinders-daughter",
+				);
+				"Content/Audio/bookbinders-daughter-ch2.mp3" = (
+					"narration-bookbinders-daughter",
+				);
+				"Content/Audio/bookbinders-daughter-ch3.mp3" = (
+					"narration-bookbinders-daughter",
+				);
+				"Content/Audio/brother-of-the-storm-ch1.mp3" = (
+					"narration-brother-of-the-storm",
+				);
+				"Content/Audio/brother-of-the-storm-ch2.mp3" = (
+					"narration-brother-of-the-storm",
+				);
+				"Content/Audio/brother-of-the-storm-ch3.mp3" = (
+					"narration-brother-of-the-storm",
+				);
+				"Content/Audio/butterfly-garden-ch1.mp3" = (
+					"narration-butterfly-garden",
+				);
+				"Content/Audio/butterfly-garden-ch2.mp3" = (
+					"narration-butterfly-garden",
+				);
+				"Content/Audio/butterfly-garden-ch3.mp3" = (
+					"narration-butterfly-garden",
+				);
+				"Content/Audio/camel-and-the-well-ch1.mp3" = (
+					"narration-camel-and-the-well",
+				);
+				"Content/Audio/camel-and-the-well-ch2.mp3" = (
+					"narration-camel-and-the-well",
+				);
+				"Content/Audio/camel-and-the-well-ch3.mp3" = (
+					"narration-camel-and-the-well",
+				);
+				"Content/Audio/cartographers-boy-ch1.mp3" = (
+					"narration-cartographers-boy",
+				);
+				"Content/Audio/cartographers-boy-ch2.mp3" = (
+					"narration-cartographers-boy",
+				);
+				"Content/Audio/cartographers-boy-ch3.mp3" = (
+					"narration-cartographers-boy",
+				);
+				"Content/Audio/clockmaker-of-praha-ch1.mp3" = (
+					"narration-clockmaker-of-praha",
+				);
+				"Content/Audio/clockmaker-of-praha-ch2.mp3" = (
+					"narration-clockmaker-of-praha",
+				);
+				"Content/Audio/clockmaker-of-praha-ch3.mp3" = (
+					"narration-clockmaker-of-praha",
+				);
+				"Content/Audio/crossings-ch1.mp3" = (
+					"narration-crossings",
+				);
+				"Content/Audio/crossings-ch2.mp3" = (
+					"narration-crossings",
+				);
+				"Content/Audio/crossings-ch3.mp3" = (
+					"narration-crossings",
+				);
+				"Content/Audio/dust-of-yaks-ch1.mp3" = (
+					"narration-dust-of-yaks",
+				);
+				"Content/Audio/dust-of-yaks-ch2.mp3" = (
+					"narration-dust-of-yaks",
+				);
+				"Content/Audio/dust-of-yaks-ch3.mp3" = (
+					"narration-dust-of-yaks",
+				);
+				"Content/Audio/fifth-violin-ch1.mp3" = (
+					"narration-fifth-violin",
+				);
+				"Content/Audio/fifth-violin-ch2.mp3" = (
+					"narration-fifth-violin",
+				);
+				"Content/Audio/fifth-violin-ch3.mp3" = (
+					"narration-fifth-violin",
+				);
+				"Content/Audio/fjord-shepherd-ch1.mp3" = (
+					"narration-fjord-shepherd",
+				);
+				"Content/Audio/fjord-shepherd-ch2.mp3" = (
+					"narration-fjord-shepherd",
+				);
+				"Content/Audio/fjord-shepherd-ch3.mp3" = (
+					"narration-fjord-shepherd",
+				);
+				"Content/Audio/flower-clock-ch1.mp3" = (
+					"narration-flower-clock",
+				);
+				"Content/Audio/flower-clock-ch2.mp3" = (
+					"narration-flower-clock",
+				);
+				"Content/Audio/flower-clock-ch3.mp3" = (
+					"narration-flower-clock",
+				);
+				"Content/Audio/fox-north-wind-ch1.mp3" = (
+					"narration-fox-north-wind",
+				);
+				"Content/Audio/fox-north-wind-ch2.mp3" = (
+					"narration-fox-north-wind",
+				);
+				"Content/Audio/fox-north-wind-ch3.mp3" = (
+					"narration-fox-north-wind",
+				);
+				"Content/Audio/grey-cat-of-otsu-ch1.mp3" = (
+					"narration-grey-cat-of-otsu",
+				);
+				"Content/Audio/grey-cat-of-otsu-ch2.mp3" = (
+					"narration-grey-cat-of-otsu",
+				);
+				"Content/Audio/grey-cat-of-otsu-ch3.mp3" = (
+					"narration-grey-cat-of-otsu",
+				);
+				"Content/Audio/hand-of-the-potter-ch1.mp3" = (
+					"narration-hand-of-the-potter",
+				);
+				"Content/Audio/hand-of-the-potter-ch2.mp3" = (
+					"narration-hand-of-the-potter",
+				);
+				"Content/Audio/hand-of-the-potter-ch3.mp3" = (
+					"narration-hand-of-the-potter",
+				);
+				"Content/Audio/honey-map-ch1.mp3" = (
+					"narration-honey-map",
+				);
+				"Content/Audio/honey-map-ch2.mp3" = (
+					"narration-honey-map",
+				);
+				"Content/Audio/honey-map-ch3.mp3" = (
+					"narration-honey-map",
+				);
+				"Content/Audio/hour-between-ch1.mp3" = (
+					"narration-hour-between",
+				);
+				"Content/Audio/hour-between-ch2.mp3" = (
+					"narration-hour-between",
+				);
+				"Content/Audio/hour-between-ch3.mp3" = (
+					"narration-hour-between",
+				);
+				"Content/Audio/house-of-clocks-ch1.mp3" = (
+					"narration-house-of-clocks",
+				);
+				"Content/Audio/house-of-clocks-ch2.mp3" = (
+					"narration-house-of-clocks",
+				);
+				"Content/Audio/house-of-clocks-ch3.mp3" = (
+					"narration-house-of-clocks",
+				);
+				"Content/Audio/hut-on-the-strait-ch1.mp3" = (
+					"narration-hut-on-the-strait",
+				);
+				"Content/Audio/hut-on-the-strait-ch2.mp3" = (
+					"narration-hut-on-the-strait",
+				);
+				"Content/Audio/hut-on-the-strait-ch3.mp3" = (
+					"narration-hut-on-the-strait",
+				);
+				"Content/Audio/inn-at-the-crossroads-ch1.mp3" = (
+					"narration-inn-at-the-crossroads",
+				);
+				"Content/Audio/inn-at-the-crossroads-ch2.mp3" = (
+					"narration-inn-at-the-crossroads",
+				);
+				"Content/Audio/inn-at-the-crossroads-ch3.mp3" = (
+					"narration-inn-at-the-crossroads",
+				);
+				"Content/Audio/keeper-of-glass-ch1.mp3" = (
+					"narration-keeper-of-glass",
+				);
+				"Content/Audio/keeper-of-glass-ch2.mp3" = (
+					"narration-keeper-of-glass",
+				);
+				"Content/Audio/keeper-of-glass-ch3.mp3" = (
+					"narration-keeper-of-glass",
+				);
+				"Content/Audio/lantern-keeper-ch1.mp3" = (
+					"narration-lantern-keeper",
+				);
+				"Content/Audio/lantern-keeper-ch2.mp3" = (
+					"narration-lantern-keeper",
+				);
+				"Content/Audio/lantern-keeper-ch3.mp3" = (
+					"narration-lantern-keeper",
+				);
+				"Content/Audio/lantern-of-hoi-an-ch1.mp3" = (
+					"narration-lantern-of-hoi-an",
+				);
+				"Content/Audio/lantern-of-hoi-an-ch2.mp3" = (
+					"narration-lantern-of-hoi-an",
+				);
+				"Content/Audio/lantern-of-hoi-an-ch3.mp3" = (
+					"narration-lantern-of-hoi-an",
+				);
+				"Content/Audio/last-chapter-ch1.mp3" = (
+					"narration-last-chapter",
+				);
+				"Content/Audio/last-chapter-ch2.mp3" = (
+					"narration-last-chapter",
+				);
+				"Content/Audio/last-chapter-ch3.mp3" = (
+					"narration-last-chapter",
+				);
+				"Content/Audio/library-of-lost-endings-ch1.mp3" = (
+					"narration-library-of-lost-endings",
+				);
+				"Content/Audio/library-of-lost-endings-ch2.mp3" = (
+					"narration-library-of-lost-endings",
+				);
+				"Content/Audio/library-of-lost-endings-ch3.mp3" = (
+					"narration-library-of-lost-endings",
+				);
+				"Content/Audio/map-of-frida-ch1.mp3" = (
+					"narration-map-of-frida",
+				);
+				"Content/Audio/map-of-frida-ch2.mp3" = (
+					"narration-map-of-frida",
+				);
+				"Content/Audio/map-of-frida-ch3.mp3" = (
+					"narration-map-of-frida",
+				);
+				"Content/Audio/night-baker-ch1.mp3" = (
+					"narration-night-baker",
+				);
+				"Content/Audio/night-baker-ch2.mp3" = (
+					"narration-night-baker",
+				);
+				"Content/Audio/night-baker-ch3.mp3" = (
+					"narration-night-baker",
+				);
+				"Content/Audio/nightingale-terminal-ch1.mp3" = (
+					"narration-nightingale-terminal",
+				);
+				"Content/Audio/nightingale-terminal-ch2.mp3" = (
+					"narration-nightingale-terminal",
+				);
+				"Content/Audio/nightingale-terminal-ch3.mp3" = (
+					"narration-nightingale-terminal",
+				);
+				"Content/Audio/north-star-express-ch1.mp3" = (
+					"narration-north-star-express",
+				);
+				"Content/Audio/north-star-express-ch2.mp3" = (
+					"narration-north-star-express",
+				);
+				"Content/Audio/north-star-express-ch3.mp3" = (
+					"narration-north-star-express",
+				);
+				"Content/Audio/observatory-of-birds-ch1.mp3" = (
+					"narration-observatory-of-birds",
+				);
+				"Content/Audio/observatory-of-birds-ch2.mp3" = (
+					"narration-observatory-of-birds",
+				);
+				"Content/Audio/observatory-of-birds-ch3.mp3" = (
+					"narration-observatory-of-birds",
+				);
+				"Content/Audio/owl-in-the-oak-ch1.mp3" = (
+					"narration-owl-in-the-oak",
+				);
+				"Content/Audio/owl-in-the-oak-ch2.mp3" = (
+					"narration-owl-in-the-oak",
+				);
+				"Content/Audio/owl-in-the-oak-ch3.mp3" = (
+					"narration-owl-in-the-oak",
+				);
+				"Content/Audio/paper-makers-house-ch1.mp3" = (
+					"narration-paper-makers-house",
+				);
+				"Content/Audio/paper-makers-house-ch2.mp3" = (
+					"narration-paper-makers-house",
+				);
+				"Content/Audio/paper-makers-house-ch3.mp3" = (
+					"narration-paper-makers-house",
+				);
+				"Content/Audio/pilgrim-shell-ch1.mp3" = (
+					"narration-pilgrim-shell",
+				);
+				"Content/Audio/pilgrim-shell-ch2.mp3" = (
+					"narration-pilgrim-shell",
+				);
+				"Content/Audio/pilgrim-shell-ch3.mp3" = (
+					"narration-pilgrim-shell",
+				);
+				"Content/Audio/red-earth-weaver-ch1.mp3" = (
+					"narration-red-earth-weaver",
+				);
+				"Content/Audio/red-earth-weaver-ch2.mp3" = (
+					"narration-red-earth-weaver",
+				);
+				"Content/Audio/red-earth-weaver-ch3.mp3" = (
+					"narration-red-earth-weaver",
+				);
+				"Content/Audio/return-boat-ch1.mp3" = (
+					"narration-return-boat",
+				);
+				"Content/Audio/return-boat-ch2.mp3" = (
+					"narration-return-boat",
+				);
+				"Content/Audio/return-boat-ch3.mp3" = (
+					"narration-return-boat",
+				);
+				"Content/Audio/river-that-remembers-names-ch1.mp3" = (
+					"narration-river-that-remembers-names",
+				);
+				"Content/Audio/river-that-remembers-names-ch2.mp3" = (
+					"narration-river-that-remembers-names",
+				);
+				"Content/Audio/river-that-remembers-names-ch3.mp3" = (
+					"narration-river-that-remembers-names",
+				);
+				"Content/Audio/rock-and-salt-ch1.mp3" = (
+					"narration-rock-and-salt",
+				);
+				"Content/Audio/rock-and-salt-ch2.mp3" = (
+					"narration-rock-and-salt",
+				);
+				"Content/Audio/rock-and-salt-ch3.mp3" = (
+					"narration-rock-and-salt",
+				);
+				"Content/Audio/salt-sisters-ch1.mp3" = (
+					"narration-salt-sisters",
+				);
+				"Content/Audio/salt-sisters-ch2.mp3" = (
+					"narration-salt-sisters",
+				);
+				"Content/Audio/salt-sisters-ch3.mp3" = (
+					"narration-salt-sisters",
+				);
+				"Content/Audio/sky-mirror-ch1.mp3" = (
+					"narration-sky-mirror",
+				);
+				"Content/Audio/sky-mirror-ch2.mp3" = (
+					"narration-sky-mirror",
+				);
+				"Content/Audio/sky-mirror-ch3.mp3" = (
+					"narration-sky-mirror",
+				);
+				"Content/Audio/snow-lion-ch1.mp3" = (
+					"narration-snow-lion",
+				);
+				"Content/Audio/snow-lion-ch2.mp3" = (
+					"narration-snow-lion",
+				);
+				"Content/Audio/snow-lion-ch3.mp3" = (
+					"narration-snow-lion",
+				);
+				"Content/Audio/snowmelt-ch1.mp3" = (
+					"narration-snowmelt",
+				);
+				"Content/Audio/snowmelt-ch2.mp3" = (
+					"narration-snowmelt",
+				);
+				"Content/Audio/snowmelt-ch3.mp3" = (
+					"narration-snowmelt",
+				);
+				"Content/Audio/stone-that-listens-ch1.mp3" = (
+					"narration-stone-that-listens",
+				);
+				"Content/Audio/stone-that-listens-ch2.mp3" = (
+					"narration-stone-that-listens",
+				);
+				"Content/Audio/stone-that-listens-ch3.mp3" = (
+					"narration-stone-that-listens",
+				);
+				"Content/Audio/swan-house-ch1.mp3" = (
+					"narration-swan-house",
+				);
+				"Content/Audio/swan-house-ch2.mp3" = (
+					"narration-swan-house",
+				);
+				"Content/Audio/swan-house-ch3.mp3" = (
+					"narration-swan-house",
+				);
+				"Content/Audio/the-radio-boy-ch1.mp3" = (
+					"narration-the-radio-boy",
+				);
+				"Content/Audio/the-radio-boy-ch2.mp3" = (
+					"narration-the-radio-boy",
+				);
+				"Content/Audio/the-radio-boy-ch3.mp3" = (
+					"narration-the-radio-boy",
+				);
+				"Content/Audio/thousand-steps-ch1.mp3" = (
+					"narration-thousand-steps",
+				);
+				"Content/Audio/thousand-steps-ch2.mp3" = (
+					"narration-thousand-steps",
+				);
+				"Content/Audio/thousand-steps-ch3.mp3" = (
+					"narration-thousand-steps",
+				);
+				"Content/Audio/three-days-on-the-atoll-ch1.mp3" = (
+					"narration-three-days-on-the-atoll",
+				);
+				"Content/Audio/three-days-on-the-atoll-ch2.mp3" = (
+					"narration-three-days-on-the-atoll",
+				);
+				"Content/Audio/three-days-on-the-atoll-ch3.mp3" = (
+					"narration-three-days-on-the-atoll",
+				);
+				"Content/Audio/two-elders-ch1.mp3" = (
+					"narration-two-elders",
+				);
+				"Content/Audio/two-elders-ch2.mp3" = (
+					"narration-two-elders",
+				);
+				"Content/Audio/two-elders-ch3.mp3" = (
+					"narration-two-elders",
+				);
+				"Content/Audio/whale-road-ch1.mp3" = (
+					"narration-whale-road",
+				);
+				"Content/Audio/whale-road-ch2.mp3" = (
+					"narration-whale-road",
+				);
+				"Content/Audio/whale-road-ch3.mp3" = (
+					"narration-whale-road",
+				);
+				"Content/Audio/wolf-that-came-back-ch1.mp3" = (
+					"narration-wolf-that-came-back",
+				);
+				"Content/Audio/wolf-that-came-back-ch2.mp3" = (
+					"narration-wolf-that-came-back",
+				);
+				"Content/Audio/wolf-that-came-back-ch3.mp3" = (
+					"narration-wolf-that-came-back",
+				);
+				"Content/Motion/archivist-of-tallinn.mp4" = (
+					"motion-archivist-of-tallinn",
+				);
+				"Content/Motion/blueprints.mp4" = (
+					"motion-blueprints",
+				);
+				"Content/Motion/bookbinders-daughter.mp4" = (
+					"motion-bookbinders-daughter",
+				);
+				"Content/Motion/brother-of-the-storm.mp4" = (
+					"motion-brother-of-the-storm",
+				);
+				"Content/Motion/butterfly-garden.mp4" = (
+					"motion-butterfly-garden",
+				);
+				"Content/Motion/camel-and-the-well.mp4" = (
+					"motion-camel-and-the-well",
+				);
+				"Content/Motion/cartographers-boy.mp4" = (
+					"motion-cartographers-boy",
+				);
+				"Content/Motion/clockmaker-of-praha.mp4" = (
+					"motion-clockmaker-of-praha",
+				);
+				"Content/Motion/crossings.mp4" = (
+					"motion-crossings",
+				);
+				"Content/Motion/dust-of-yaks.mp4" = (
+					"motion-dust-of-yaks",
+				);
+				"Content/Motion/fifth-violin.mp4" = (
+					"motion-fifth-violin",
+				);
+				"Content/Motion/fjord-shepherd.mp4" = (
+					"motion-fjord-shepherd",
+				);
+				"Content/Motion/flower-clock.mp4" = (
+					"motion-flower-clock",
+				);
+				"Content/Motion/fox-north-wind.mp4" = (
+					"motion-fox-north-wind",
+				);
+				"Content/Motion/grey-cat-of-otsu.mp4" = (
+					"motion-grey-cat-of-otsu",
+				);
+				"Content/Motion/hand-of-the-potter.mp4" = (
+					"motion-hand-of-the-potter",
+				);
+				"Content/Motion/honey-map.mp4" = (
+					"motion-honey-map",
+				);
+				"Content/Motion/hour-between.mp4" = (
+					"motion-hour-between",
+				);
+				"Content/Motion/house-of-clocks.mp4" = (
+					"motion-house-of-clocks",
+				);
+				"Content/Motion/hut-on-the-strait.mp4" = (
+					"motion-hut-on-the-strait",
+				);
+				"Content/Motion/inn-at-the-crossroads.mp4" = (
+					"motion-inn-at-the-crossroads",
+				);
+				"Content/Motion/keeper-of-glass.mp4" = (
+					"motion-keeper-of-glass",
+				);
+				"Content/Motion/lantern-keeper.mp4" = (
+					"motion-lantern-keeper",
+				);
+				"Content/Motion/lantern-of-hoi-an.mp4" = (
+					"motion-lantern-of-hoi-an",
+				);
+				"Content/Motion/last-chapter.mp4" = (
+					"motion-last-chapter",
+				);
+				"Content/Motion/library-of-lost-endings.mp4" = (
+					"motion-library-of-lost-endings",
+				);
+				"Content/Motion/map-of-frida.mp4" = (
+					"motion-map-of-frida",
+				);
+				"Content/Motion/night-baker.mp4" = (
+					"motion-night-baker",
+				);
+				"Content/Motion/nightingale-terminal.mp4" = (
+					"motion-nightingale-terminal",
+				);
+				"Content/Motion/north-star-express.mp4" = (
+					"motion-north-star-express",
+				);
+				"Content/Motion/observatory-of-birds.mp4" = (
+					"motion-observatory-of-birds",
+				);
+				"Content/Motion/owl-in-the-oak.mp4" = (
+					"motion-owl-in-the-oak",
+				);
+				"Content/Motion/paper-makers-house.mp4" = (
+					"motion-paper-makers-house",
+				);
+				"Content/Motion/pilgrim-shell.mp4" = (
+					"motion-pilgrim-shell",
+				);
+				"Content/Motion/red-earth-weaver.mp4" = (
+					"motion-red-earth-weaver",
+				);
+				"Content/Motion/return-boat.mp4" = (
+					"motion-return-boat",
+				);
+				"Content/Motion/river-that-remembers-names.mp4" = (
+					"motion-river-that-remembers-names",
+				);
+				"Content/Motion/rock-and-salt.mp4" = (
+					"motion-rock-and-salt",
+				);
+				"Content/Motion/salt-sisters.mp4" = (
+					"motion-salt-sisters",
+				);
+				"Content/Motion/sky-mirror.mp4" = (
+					"motion-sky-mirror",
+				);
+				"Content/Motion/snow-lion.mp4" = (
+					"motion-snow-lion",
+				);
+				"Content/Motion/snowmelt.mp4" = (
+					"motion-snowmelt",
+				);
+				"Content/Motion/stone-that-listens.mp4" = (
+					"motion-stone-that-listens",
+				);
+				"Content/Motion/swan-house.mp4" = (
+					"motion-swan-house",
+				);
+				"Content/Motion/the-radio-boy.mp4" = (
+					"motion-the-radio-boy",
+				);
+				"Content/Motion/thousand-steps.mp4" = (
+					"motion-thousand-steps",
+				);
+				"Content/Motion/three-days-on-the-atoll.mp4" = (
+					"motion-three-days-on-the-atoll",
+				);
+				"Content/Motion/two-elders.mp4" = (
+					"motion-two-elders",
+				);
+				"Content/Motion/whale-road.mp4" = (
+					"motion-whale-road",
+				);
+				"Content/Motion/wolf-that-came-back.mp4" = (
+					"motion-wolf-that-came-back",
+				);
+			};
 			membershipExceptions = (
 				Info.plist,
 			);
@@ -89,6 +691,108 @@
 		833FAC233048F609006CD006 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					"motion-archivist-of-tallinn",
+					"motion-blueprints",
+					"motion-bookbinders-daughter",
+					"motion-brother-of-the-storm",
+					"motion-butterfly-garden",
+					"motion-camel-and-the-well",
+					"motion-cartographers-boy",
+					"motion-clockmaker-of-praha",
+					"motion-crossings",
+					"motion-dust-of-yaks",
+					"motion-fifth-violin",
+					"motion-fjord-shepherd",
+					"motion-flower-clock",
+					"motion-fox-north-wind",
+					"motion-grey-cat-of-otsu",
+					"motion-hand-of-the-potter",
+					"motion-honey-map",
+					"motion-hour-between",
+					"motion-house-of-clocks",
+					"motion-hut-on-the-strait",
+					"motion-inn-at-the-crossroads",
+					"motion-keeper-of-glass",
+					"motion-lantern-keeper",
+					"motion-lantern-of-hoi-an",
+					"motion-last-chapter",
+					"motion-library-of-lost-endings",
+					"motion-map-of-frida",
+					"motion-night-baker",
+					"motion-nightingale-terminal",
+					"motion-north-star-express",
+					"motion-observatory-of-birds",
+					"motion-owl-in-the-oak",
+					"motion-paper-makers-house",
+					"motion-pilgrim-shell",
+					"motion-red-earth-weaver",
+					"motion-return-boat",
+					"motion-river-that-remembers-names",
+					"motion-rock-and-salt",
+					"motion-salt-sisters",
+					"motion-sky-mirror",
+					"motion-snow-lion",
+					"motion-snowmelt",
+					"motion-stone-that-listens",
+					"motion-swan-house",
+					"motion-the-radio-boy",
+					"motion-thousand-steps",
+					"motion-three-days-on-the-atoll",
+					"motion-two-elders",
+					"motion-whale-road",
+					"motion-wolf-that-came-back",
+					"narration-archivist-of-tallinn",
+					"narration-blueprints",
+					"narration-bookbinders-daughter",
+					"narration-brother-of-the-storm",
+					"narration-butterfly-garden",
+					"narration-camel-and-the-well",
+					"narration-cartographers-boy",
+					"narration-clockmaker-of-praha",
+					"narration-crossings",
+					"narration-dust-of-yaks",
+					"narration-fifth-violin",
+					"narration-fjord-shepherd",
+					"narration-flower-clock",
+					"narration-fox-north-wind",
+					"narration-grey-cat-of-otsu",
+					"narration-hand-of-the-potter",
+					"narration-honey-map",
+					"narration-hour-between",
+					"narration-house-of-clocks",
+					"narration-hut-on-the-strait",
+					"narration-inn-at-the-crossroads",
+					"narration-keeper-of-glass",
+					"narration-lantern-keeper",
+					"narration-lantern-of-hoi-an",
+					"narration-last-chapter",
+					"narration-library-of-lost-endings",
+					"narration-map-of-frida",
+					"narration-night-baker",
+					"narration-nightingale-terminal",
+					"narration-north-star-express",
+					"narration-observatory-of-birds",
+					"narration-owl-in-the-oak",
+					"narration-paper-makers-house",
+					"narration-pilgrim-shell",
+					"narration-red-earth-weaver",
+					"narration-return-boat",
+					"narration-river-that-remembers-names",
+					"narration-rock-and-salt",
+					"narration-salt-sisters",
+					"narration-sky-mirror",
+					"narration-snow-lion",
+					"narration-snowmelt",
+					"narration-stone-that-listens",
+					"narration-swan-house",
+					"narration-the-radio-boy",
+					"narration-thousand-steps",
+					"narration-three-days-on-the-atoll",
+					"narration-two-elders",
+					"narration-whale-road",
+					"narration-wolf-that-came-back",
+				);
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2660;
 				LastUpgradeCheck = 2660;

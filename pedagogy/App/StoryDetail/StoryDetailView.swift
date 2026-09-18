@@ -228,13 +228,14 @@ struct StoryDetailView: View {
         return max(1, progress.chapterIndex + 1)
     }
 
-    /// Existe MP3 no bundle pro chapter que seria tocado? Se não, esconde
+    /// Existe narração pro chapter que seria tocado? Se não, esconde
     /// o botão Listen do CTA bar. Falha silenciosa (não confunde usuário
     /// com "áudio indisponível" durante o processo gradual de gerar todos).
+    ///
+    /// Não procura o MP3 no bundle: ele é On-Demand Resource e só aparece
+    /// depois de baixado. Ver `AudioPlayerManager.hasNarration`.
     private var hasAudioForNextChapter: Bool {
-        let name = "\(story.id)-ch\(chapterToStart)"
-        return Bundle.main.url(forResource: name, withExtension: "mp3", subdirectory: "Content/Audio") != nil
-            || Bundle.main.url(forResource: name, withExtension: "mp3") != nil
+        AudioPlayerManager.hasNarration(storyID: story.id, chapter: chapterToStart)
     }
 
     // MARK: - Helpers

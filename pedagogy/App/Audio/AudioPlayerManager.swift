@@ -26,10 +26,18 @@
 //  no reader é opt-in por sentença — sem timings, ninguém fica destacado
 //  (comportamento idêntico ao reader-only atual).
 //
+//  DE ONDE VEM O MP3
+//
+//  Os MP3 são On-Demand Resources (ver ContentPacks.swift) e não vêm no
+//  download da App Store. O primeiro play de uma história baixa os capítulos
+//  dela de uma vez (~5 MB): o state fica .loading, `downloadFraction` anda e
+//  o mini-player mostra isso. Sem rede, cai em .error com o `nowPlaying`
+//  ainda publicado, e o play do mini-player vira "tentar de novo".
+//
 //  QUANDO NÃO HÁ MP3
 //
-//  play(story:chapter:) retorna sem tocar nada. Estado fica .idle. O UI
-//  precisa checar `isPlaying` e/ou mostrar erro se relevante.
+//  play(story:chapter:) entra em .error sem tocar nada. A UI evita chegar
+//  aqui escondendo o botão quando `hasNarration` é falso.
 //
 //  THREADING
 //
@@ -60,7 +68,7 @@ import SwiftUI
 /// só o que a UI precisa. Codable pra debug/logs.
 enum PlaybackState: Equatable {
     case idle           // nada carregado
-    case loading        // MP3 carregando (rare — AVAudioPlayer é síncrono)
+    case loading        // baixando o pacote de narração (ver ContentPacks.swift)
     case playing
     case paused
     case error(String)
@@ -157,6 +165,9 @@ final class AudioPlayerManager {
     /// no player e no lock screen) e um setter explícito deixa isso à vista.
     private(set) var speed: PlaybackSpeed = .normal
 
+    /// Fração 0…1 do download da narração enquanto `state == .loading`.
+    private(set) var downloadFraction: Double = 0
+
     var isPlaying: Bool {
         if case .playing = state { return true }
         return false
@@ -165,6 +176,20 @@ final class AudioPlayerManager {
     // ─── Private ────────────────────────────────────────────────────
 
     private var player: AVAudioPlayer?
+
+    /// Segura no device o pacote de narração da história carregada. Atravessa
+    /// as trocas de capítulo (mesma história, mesmo pacote) e só é solto no
+    /// `stop()` ou quando outra história começa.
+    private var narrationAccess: ContentPackAccess?
+
+    /// Download em andamento. Cancelado pelo `unload()`: quem troca de
+    /// história no meio do download não quer mais o pacote antigo.
+    private var downloadTask: Task<Void, Never>?
+
+    /// O que o último `play()` pediu. É o que o botão de tentar de novo
+    /// refaz depois de um download falho — o mini-player só conhece o
+    /// `NowPlaying`, não a Story inteira.
+    private var requested: (story: Story, chapter: Int)?
 
     /// A sessão já tomou o foco de áudio do sistema? Ver `activateSession()`.
     private var sessionIsActive = false
@@ -508,44 +533,100 @@ final class AudioPlayerManager {
 
     // ─── Public API ─────────────────────────────────────────────────
 
-    /// Existe narração pra este capítulo no bundle?
+    /// Existe narração pra este capítulo?
     ///
     /// Estático de propósito: a UI precisa decidir se MOSTRA um botão de
     /// áudio antes de qualquer coisa ser carregada, e isso não pode depender
-    /// do estado do player. Mesma busca do `play()` — se um dia o caminho
-    /// mudar, muda nos dois.
+    /// do estado do player.
+    ///
+    /// Olha o .timings.json, não o MP3: o MP3 é On-Demand Resource e só
+    /// aparece no bundle depois de baixado, enquanto os timings vêm sempre no
+    /// bundle e existem exatamente pros capítulos narrados — o
+    /// install_narration_audio.sh gera um por MP3. O segundo teste cobre MP3
+    /// que entrou sem tag e sem timings. (MP3 COM tag e SEM timings fica
+    /// invisível — não deixe o install pular a etapa dos timings.)
     static func hasNarration(storyID: String, chapter: Int) -> Bool {
+        StoryTimingsLoader.exists(storySlug: storyID, chapter: chapter)
+            || narrationURL(storyID: storyID, chapter: chapter) != nil
+    }
+
+    /// Onde está o MP3, se estiver acessível agora: sem tag no bundle, ou
+    /// num pacote baixado e seguro por um `ContentPackAccess`. Naming
+    /// produzido pelo generate_speech.py.
+    private static func narrationURL(storyID: String, chapter: Int) -> URL? {
         let name = "\(storyID)-ch\(chapter)"
-        return Bundle.main.url(forResource: name, withExtension: "mp3", subdirectory: "Content/Audio") != nil
-            || Bundle.main.url(forResource: name, withExtension: "mp3") != nil
+        return Bundle.main.url(forResource: name, withExtension: "mp3", subdirectory: "Content/Audio")
+            ?? Bundle.main.url(forResource: name, withExtension: "mp3")
     }
 
     /// Toca um capítulo de uma story. Se já estiver tocando o MESMO
     /// chapter, resume (não recarrega). Se for outro, para o atual e
-    /// carrega o novo.
-    ///
-    /// Segurança: se o MP3 não existir no bundle, entra em .error e
-    /// nowPlaying fica nil.
+    /// carrega o novo — baixando a narração da história antes, se ela ainda
+    /// não estiver no device.
     func play(story: Story, chapter: Int) {
-        // Já tocando o mesmo chapter? Resume.
         if let np = nowPlaying, np.storyID == story.id, np.chapter == chapter {
-            resume()
-            return
+            switch state {
+            case .loading: return               // já está baixando
+            case .error:   break                // falhou: tenta de novo abaixo
+            default:       resume(); return
+            }
         }
 
         // Trocando de chapter/story: descarrega o atual SEM devolver o foco
         // de áudio. Usar stop() aqui daria um blip audível — o sistema
         // acordaria o app anterior no intervalo entre um capítulo e outro.
         unload()
+        requested = (story, chapter)
 
-        // Localiza MP3 no bundle. Naming produzido pelo generate_speech.py.
-        let mp3Name = "\(story.id)-ch\(chapter)"
-        guard let url = Bundle.main.url(forResource: mp3Name, withExtension: "mp3", subdirectory: "Content/Audio")
-            ?? Bundle.main.url(forResource: mp3Name, withExtension: "mp3") else {
-            state = .error("Audio not found for \(story.id) chapter \(chapter)")
-            return
+        // Outra história: devolve o pacote da anterior ao sistema.
+        if narrationAccess?.pack != .narration(storyID: story.id) {
+            narrationAccess = nil
         }
 
+        if let url = Self.narrationURL(storyID: story.id, chapter: chapter) {
+            startPlayback(url: url, story: story, chapter: chapter)
+        } else {
+            downloadNarration(story: story, chapter: chapter)
+        }
+    }
+
+    /// Baixa o pacote de narração da história e toca quando chegar.
+    ///
+    /// O `nowPlaying` é publicado ANTES do download de propósito: é ele que
+    /// faz o mini-player aparecer na hora, com o progresso. Sem isso a
+    /// criança toca em Listen, nada acontece por alguns segundos, e ela toca
+    /// de novo.
+    private func downloadNarration(story: Story, chapter: Int) {
+        nowPlaying = makeNowPlaying(story: story, chapter: chapter)
+        state = .loading
+        // Tira a história anterior da tela de bloqueio durante o download.
+        updateNowPlayingInfo()
+
+        downloadTask = Task {
+            do {
+                let access = try await ContentPackAccess.fetch(
+                    .narration(storyID: story.id),
+                    urgent: true,
+                    onProgress: { self.downloadFraction = $0 }
+                )
+                // Cancelado = o usuário parou ou trocou de história enquanto
+                // baixava. O pacote baixado fica no disco pra próxima vez.
+                guard !Task.isCancelled else { return }
+                narrationAccess = access
+                guard let url = Self.narrationURL(storyID: story.id, chapter: chapter) else {
+                    state = .error("Audio not found for \(story.id) chapter \(chapter)")
+                    return
+                }
+                startPlayback(url: url, story: story, chapter: chapter)
+            } catch {
+                guard !Task.isCancelled else { return }
+                state = .error("Narration download failed: \(error.localizedDescription)")
+            }
+        }
+    }
+
+    /// Carrega e toca um MP3 já acessível.
+    private func startPlayback(url: URL, story: Story, chapter: Int) {
         // Toma o foco de áudio agora — é o primeiro momento em que de fato
         // vamos fazer barulho.
         guard activateSession() else {
@@ -579,15 +660,7 @@ final class AudioPlayerManager {
         self.currentMs = resumeMs
 
         // Publica nowPlaying
-        let chapterData = safeChapter(story: story, index: chapter - 1)
-        self.nowPlaying = NowPlaying(
-            storyID: story.id,
-            storyTitle: story.title,
-            chapter: chapter,
-            chapterTitle: chapterData?.title ?? "Chapter \(chapter)",
-            coverAssetName: story.coverImage ?? "",
-            totalChapters: story.chapters.count
-        )
+        self.nowPlaying = makeNowPlaying(story: story, chapter: chapter)
 
         // Play
         player?.play()
@@ -631,6 +704,9 @@ final class AudioPlayerManager {
         switch state {
         case .playing: pause()
         case .paused:  resume()
+        case .error:
+            // Quase sempre download sem rede: o botão vira tentar de novo.
+            if let requested { play(story: requested.story, chapter: requested.chapter) }
         default:       break
         }
     }
@@ -638,6 +714,9 @@ final class AudioPlayerManager {
     /// Descarrega o player sem devolver o foco de áudio ao sistema.
     /// Uso interno na troca de capítulo — ver comentário em `play()`.
     private func unload() {
+        downloadTask?.cancel()
+        downloadTask = nil
+        downloadFraction = 0
         savePosition()
         player?.stop()
         player = nil
@@ -656,6 +735,8 @@ final class AudioPlayerManager {
     /// porque o reader fechou.
     func stop() {
         unload()
+        requested = nil
+        narrationAccess = nil
         updateNowPlayingInfo()  // limpa lock screen
         deactivateSession()
     }
@@ -745,6 +826,17 @@ final class AudioPlayerManager {
     private func safeChapter(story: Story, index: Int) -> Chapter? {
         guard index >= 0, index < story.chapters.count else { return nil }
         return story.chapters[index]
+    }
+
+    private func makeNowPlaying(story: Story, chapter: Int) -> NowPlaying {
+        NowPlaying(
+            storyID: story.id,
+            storyTitle: story.title,
+            chapter: chapter,
+            chapterTitle: safeChapter(story: story, index: chapter - 1)?.title ?? "Chapter \(chapter)",
+            coverAssetName: story.coverImage ?? "",
+            totalChapters: story.chapters.count
+        )
     }
     // MARK: - Delegate callbacks (chamados pelo AudioPlayerDelegateHelper)
 
