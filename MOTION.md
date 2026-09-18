@@ -130,20 +130,21 @@ Confira depois: `ls pedagogy/Content/Motion/*.mp4 | wc -l` tem que dar 50.
 
 ## Peso do app
 
-| | |
-|---|---|
-| narração | 275 MB |
-| arte | 98 MB |
-| motion | 84 MB |
-| **total** | **~460 MB** |
+| | no bundle | sob demanda |
+|---|---|---|
+| narração | — | 272 MB |
+| arte | 98 MB | — |
+| motion | — | 81 MB |
+| **`.app` (build Debug)** | **105 MB** | 353 MB em 100 pacotes |
 
-Sem a otimização seriam ~640 MB. A App Store pede confirmação pra baixar
-acima de 200 MB na rede celular de qualquer forma, mas 460 é bem diferente de
-640 na hora de alguém decidir se espera o wi-fi.
+Antes do On-Demand Resources o `.app` tinha 457 MB. Os clipes agora são tags
+`motion-<slug>` (~1,6 MB cada): a `MotionCover` pede o clipe quando a capa
+aparece, a capa estática segura a tela enquanto ele baixa, e o vídeo entra
+pelo mesmo fade de sempre. Sem rede a capa só fica parada. Com Reduce Motion
+ou modo de baixo consumo, o clipe nem é baixado — nunca tocaria.
 
-Se quiser cortar mais, o motion é o candidato óbvio para On-Demand Resources:
-é decorativo, o app funciona inteiro sem ele, e o `MotionCatalog` é o único
-lugar que resolve caminho de arquivo.
+Clipe novo: rode `python3 scripts/tag_ondemand_resources.py` pra ele ganhar a
+tag. Ver AUDIO.md, seção "Tamanho do app", e `Content/ContentPacks.swift`.
 
 ---
 

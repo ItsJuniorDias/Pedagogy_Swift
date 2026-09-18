@@ -15,6 +15,13 @@
 //  (Reduce Motion, bateria fraca, app em background) o que sobra é a
 //  ilustração, não um buraco.
 //
+//  O CLIPE CHEGA DEPOIS
+//
+//  Os clipes são On-Demand Resources (ver ContentPacks.swift). Na primeira
+//  vez que uma capa aparece, o clipe dela (~1,6 MB) baixa enquanto a capa
+//  estática já está na tela, e entra pelo mesmo fade de sempre. Sem rede, a
+//  capa simplesmente fica estática.
+//
 //  POR QUE AVPlayerLooper E NÃO seek(to: .zero)
 //
 //  O truque comum — observar `AVPlayerItemDidPlayToEndTime` e voltar pro
@@ -149,16 +156,25 @@ struct MotionCover: View {
     @State private var onScreen = false
     @State private var videoOpacity: Double = 0
 
-    private var clipURL: URL? {
-        motionEnabled ? MotionCatalog.url(slug: story.id) : nil
-    }
+    /// O clipe, quando já está acessível. Preenchido por `loadClip()`.
+    @State private var clipURL: URL?
 
-    private var shouldPlay: Bool {
-        clipURL != nil
+    /// Segura o pacote do clipe no device enquanto esta capa existir.
+    @State private var clipAccess: ContentPackAccess?
+
+    /// Tudo o que precisa ser verdade pra animar, menos ter o clipe. É também
+    /// a condição pra BAIXAR o clipe: com Reduce Motion ou bateria fraca o
+    /// vídeo nunca tocaria, então nem vale gastar rede com ele.
+    private var wantsMotion: Bool {
+        motionEnabled
             && onScreen
             && scenePhase == .active
             && !reduceMotion
             && !MotionCatalog.isLowPowerMode
+    }
+
+    private var shouldPlay: Bool {
+        clipURL != nil && wantsMotion
     }
 
     var body: some View {
@@ -188,5 +204,20 @@ struct MotionCover: View {
             // pelo fade, e não com o vídeo já aceso sobre a capa.
             if !playing { videoOpacity = 0 }
         }
+        // Sair da tela no meio do download cancela o download — quem
+        // passou rápido pela capa não precisa do clipe.
+        .task(id: wantsMotion) {
+            guard wantsMotion, clipURL == nil else { return }
+            await loadClip()
+        }
+    }
+
+    private func loadClip() async {
+        // Falha (sem rede, sem espaço, clipe sem tag) é silenciosa. Se o
+        // arquivo não aparecer, fica a capa estática — exatamente o que
+        // existia antes do motion.
+        clipAccess = try? await ContentPackAccess.fetch(.motion(storyID: story.id))
+        guard !Task.isCancelled else { return }
+        clipURL = MotionCatalog.url(slug: story.id)
     }
 }

@@ -441,23 +441,57 @@ private struct TopBar: View {
 
     @Environment(AudioPlayerManager.self) private var audio
 
-    /// Tocando ESTE capítulo desta história? Tocar outra coisa não deixa o
-    /// botão daqui em estado de pause.
+    /// O player está com ESTE capítulo desta história — tocando, pausado,
+    /// baixando ou com falha? Tocar outra coisa não mexe no botão daqui.
+    private var playerHasThisChapter: Bool {
+        guard let np = audio.nowPlaying else { return false }
+        return np.storyID == story.id && np.chapter == chapterNumber
+    }
+
     private var isPlayingThisChapter: Bool {
-        guard let np = audio.nowPlaying,
-              np.storyID == story.id,
-              np.chapter == chapterNumber
-        else { return false }
-        return audio.isPlaying
+        playerHasThisChapter && audio.isPlaying
     }
 
     private func toggleNarration() {
         if isPlayingThisChapter {
             audio.pause()
         } else {
-            // play() já resume quando é o mesmo capítulo carregado e troca
-            // quando é outro — não precisa distinguir aqui.
+            // play() já resume quando é o mesmo capítulo carregado, troca
+            // quando é outro e tenta de novo depois de uma falha — não
+            // precisa distinguir aqui.
             audio.play(story: story, chapter: chapterNumber)
+        }
+    }
+
+    /// Miolo do botão de narração. O reader é full screen e cobre o
+    /// mini-player, então o download da narração (On-Demand Resources) e a
+    /// falha dele precisam aparecer aqui mesmo.
+    @ViewBuilder
+    private var narrationGlyph: some View {
+        if playerHasThisChapter, audio.state == .loading {
+            ProgressView()
+                .controlSize(.small)
+                .tint(Theme.Colors.ink)
+        } else if playerHasThisChapter, case .error = audio.state {
+            Image(systemName: "arrow.clockwise")
+                .font(.system(size: 14, weight: .bold))
+                .foregroundStyle(Theme.Colors.ink)
+        } else {
+            Image(systemName: isPlayingThisChapter ? "pause.fill" : "play.fill")
+                .font(.system(size: 14, weight: .bold))
+                .foregroundStyle(isPlayingThisChapter ? Theme.Colors.onAccent : Theme.Colors.ink)
+                // O triângulo do play é opticamente descentrado;
+                // 1pt corrige dentro do círculo.
+                .offset(x: isPlayingThisChapter ? 0 : 1)
+        }
+    }
+
+    private var narrationLabel: String {
+        guard playerHasThisChapter else { return "Play narration" }
+        switch audio.state {
+        case .loading: return "Downloading narration"
+        case .error:   return "Couldn't load narration, try again"
+        default:       return audio.isPlaying ? "Pause narration" : "Play narration"
         }
     }
 
@@ -514,16 +548,11 @@ private struct TopBar: View {
                 // tapa palavra justo quando a criança está acompanhando. Aqui
                 // o controle está sempre à mão e nunca no caminho do olho.
                 //
-                // Some quando o capítulo não tem MP3 no bundle — botão que
+                // Some quando o capítulo não tem narração — botão que
                 // promete áudio e entrega silêncio é pior que botão ausente.
                 if AudioPlayerManager.hasNarration(storyID: story.id, chapter: chapterNumber) {
                     Button(action: toggleNarration) {
-                        Image(systemName: isPlayingThisChapter ? "pause.fill" : "play.fill")
-                            .font(.system(size: 14, weight: .bold))
-                            .foregroundStyle(isPlayingThisChapter ? Theme.Colors.onAccent : Theme.Colors.ink)
-                            // O triângulo do play é opticamente descentrado;
-                            // 1pt corrige dentro do círculo.
-                            .offset(x: isPlayingThisChapter ? 0 : 1)
+                        narrationGlyph
                             .frame(width: 36, height: 36)
                             .background(
                                 Circle()
@@ -534,7 +563,7 @@ private struct TopBar: View {
                                     )
                             )
                     }
-                    .accessibilityLabel(isPlayingThisChapter ? "Pause narration" : "Play narration")
+                    .accessibilityLabel(narrationLabel)
                 }
 
                 // Chapter counter — sempre visível (contexto mínimo)
