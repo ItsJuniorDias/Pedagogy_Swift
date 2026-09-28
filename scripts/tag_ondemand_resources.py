@@ -9,6 +9,7 @@ o Xcode escreve quando se preenche "On Demand Resource Tags" no File Inspector.
 
     Content/Audio/<slug>-ch<N>.mp3  ->  narration-<slug>
     Content/Motion/<slug>.mp4       ->  motion-<slug>
+    Content/Shorts/short-<id>.mp4   ->  short-<id>
 
 Precisa bater com `ContentPack.tag` em pedagogy/Content/ContentPacks.swift.
 
@@ -47,6 +48,10 @@ def collect_tags() -> dict[str, str]:
 
     for mp4 in sorted((SOURCES / "Content" / "Motion").glob("*.mp4")):
         tags[mp4.relative_to(SOURCES).as_posix()] = f"motion-{mp4.stem}"
+
+    # O nome do arquivo já é a tag. O pôster e o shorts.json ficam no bundle.
+    for mp4 in sorted((SOURCES / "Content" / "Shorts").glob("short-*.mp4")):
+        tags[mp4.relative_to(SOURCES).as_posix()] = mp4.stem
 
     return tags
 

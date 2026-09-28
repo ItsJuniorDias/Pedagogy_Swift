@@ -1,0 +1,270 @@
+{
+  "id": "the-paper-whale",
+  "title": "The Paper Whale",
+  "logline": "When fog swallows the harbor and the lighthouse goes dark, a girl who is afraid of almost everything folds her grandfather's sea map into a whale.",
+  "isPremium": false,
+  "publishedAt": "2026-10-05",
+  "posterShot": "s18",
+
+  "style": "Mike Mignola style adapted for children ages 9-11: heavy black inks, thick confident brushstrokes, flat shadows with no gradients or soft shading, warm cream and sepia palette with golden lamplight accents and occasional deep teal for the sea. Cozy but atmospheric, never scary, never gory. Hand-inked animated film look, 2D, painterly flat colour, cinematic 16:9 composition. No text, no letters, no typography, no captions, no watermark.",
+
+  "motionStyle": "Hand-drawn 2D animation, smooth gentle motion, steady camera unless stated, consistent character design, no morphing, no text appearing.",
+
+  "voices": {
+    "narrator": { "voice": "fable", "instructions": "Warm, unhurried storyteller reading a bedtime story to a 10-year-old. Gentle pauses at commas. Never theatrical." },
+    "mira":     { "voice": "coral", "instructions": "A shy 10-year-old girl. Soft, a little breathless, sincere. Small voice." },
+    "mother":   { "voice": "nova",  "instructions": "A fisherwoman in her thirties calling across the water, warm and playful, slightly raised voice." },
+    "keeper":   { "voice": "onyx",  "instructions": "An elderly lighthouse keeper, gravelly and kind, tired, slow." }
+  },
+
+  "characters": {
+    "mira": {
+      "description": "Mira, a 10-year-old girl with warm brown skin, freckles and dark curly hair tied back with a yellow ribbon, wearing an oversized mustard-yellow raincoat and red rubber boots",
+      "refPrompt": "Character model sheet of Mira, a 10-year-old girl with warm brown skin, freckles and dark curly hair tied back with a yellow ribbon, wearing an oversized mustard-yellow raincoat and red rubber boots. Three views side by side: front, three-quarter, side. Full body, neutral standing pose, plain cream paper background."
+    },
+    "whale": {
+      "description": "a whale folded from an old sepia sea map, crisp origami facets, faded ink coastlines and compass roses printed across its paper body, glowing softly from inside like a paper lantern",
+      "refPrompt": "Model sheet of a whale folded from an old sepia sea map: crisp origami facets, faded ink coastlines and small compass roses printed across its paper body, a round kind eye, glowing softly from inside like a paper lantern. Two views: side view and three-quarter view. Plain cream paper background."
+    },
+    "keeper": {
+      "description": "Old Tobias the lighthouse keeper, an elderly man with a bushy white beard, a knitted navy sweater, a wooden cane and a bandaged knee",
+      "refPrompt": "Character model sheet of Old Tobias, an elderly lighthouse keeper with a bushy white beard, kind tired eyes, a knitted navy sweater, a wooden cane and a bandaged knee. Front and three-quarter views, full body, plain cream paper background."
+    },
+    "mother": {
+      "description": "Mira's mother, a fisherwoman in her thirties with warm brown skin and dark curly hair under a knitted grey cap, wearing a green oilskin jacket",
+      "refPrompt": "Character model sheet of a fisherwoman in her thirties with warm brown skin and dark curly hair under a knitted grey cap, wearing a green oilskin jacket and rubber boots. Front and three-quarter views, full body, plain cream paper background."
+    },
+    "town": {
+      "description": "Saltmarsh, a crooked stone harbor town with steep slate roofs, leaning chimneys, cobbled streets and small wooden fishing boats",
+      "refPrompt": "Establishing concept art of Saltmarsh, a small crooked stone harbor town at dusk: steep slate roofs, leaning chimneys, cobbled streets running down to a stone quay, small wooden fishing boats. Wide shot, no people."
+    },
+    "lighthouse": {
+      "description": "a tall white lighthouse with a single red band, standing alone on black rocks at the mouth of the harbor, with a railed gallery and a great glass lamp room at the top",
+      "refPrompt": "Concept art of a tall white lighthouse with a single red band standing alone on black rocks at the mouth of a harbor, a railed gallery and a great glass lamp room at the top, calm sea around it. Wide shot, no people."
+    }
+  },
+
+  "shots": [
+    { "id": "s01", "scene": "harbor", "duration": 8, "transition": "fade", "characters": ["town"],
+      "keyframe": "Wide establishing shot of the harbor town at dusk, golden sky, small fishing boats with lanterns leaving the quay toward open sea.",
+      "motion": "Slow push-in over the harbor. Boats glide out to sea, gulls drift, smoke curls from chimneys.",
+      "sfx": "gentle waves against stone, distant gulls, creaking boats",
+      "lines": [{ "who": "narrator", "text": "In the harbor town of Saltmarsh, everyone knew two things." }] },
+
+    { "id": "s02", "scene": "harbor", "duration": 7, "characters": ["lighthouse"],
+      "keyframe": "The lighthouse on its rocks at dusk, its golden beam sweeping across the calm water.",
+      "motion": "The golden beam sweeps slowly across the frame. Waves roll gently against the rocks.",
+      "sfx": "soft waves on rocks, light wind",
+      "lines": [{ "who": "narrator", "text": "The lighthouse always shone. And Mira was afraid of almost everything." }] },
+
+    { "id": "s03", "scene": "harbor", "duration": 8, "characters": ["mira", "town"],
+      "keyframe": "Medium shot from behind and slightly to the side: Mira stands at the edge of the stone quay at dusk, one arm raised, waving toward a small fishing boat leaving the harbor.",
+      "motion": "Mira waves slowly. Her raincoat moves in the breeze. The boat drifts away toward the horizon.",
+      "sfx": "waves lapping the quay, breeze, distant boat engine",
+      "lines": [{ "who": "narrator", "text": "The dark. High places. Deep water. But every evening, she waved her mother out to sea anyway." }] },
+
+    { "id": "s04", "scene": "harbor", "duration": 6, "characters": ["mother"],
+      "keyframe": "Wide shot of a small wooden fishing boat at dusk. Mira's mother stands at the stern, seen from a distance, waving back with a big smile.",
+      "motion": "The mother waves happily as the boat rocks on gentle waves and moves away.",
+      "sfx": "boat engine puttering, water against the hull",
+      "lines": [{ "who": "mother", "text": "Back before the fog, little moth!", "at": 0.8 }] },
+
+    { "id": "s05", "scene": "fog", "duration": 8, "transition": "fade", "characters": [],
+      "keyframe": "Night. An enormous rolling wall of grey fog advancing over a dark teal sea toward the harbor, moonlight above.",
+      "motion": "The fog bank rolls forward slowly and swallows the water. Very slow camera drift.",
+      "sfx": "low wind, muffled waves",
+      "lines": [{ "who": "narrator", "text": "That night, the fog came early. Thick and grey, like wet wool." }] },
+
+    { "id": "s06", "scene": "fog", "duration": 7, "characters": ["mira"],
+      "keyframe": "Night. A small attic window glowing with candlelight in a slate roof. Mira, in pajamas with her yellow ribbon, presses her hands to the glass, looking out worried.",
+      "motion": "Fog drifts past the window. Mira's breath fogs the glass. The candlelight flickers.",
+      "sfx": "wind against the window, faint creaking house",
+      "lines": [{ "who": "narrator", "text": "From her attic window, Mira watched the sea disappear." }] },
+
+    { "id": "s07", "scene": "fog", "duration": 7, "characters": ["lighthouse"],
+      "keyframe": "Night, fog. The lighthouse in the distance, its lamp glowing faintly through the mist.",
+      "motion": "The lighthouse lamp flickers once, twice, then goes completely dark. Fog keeps drifting.",
+      "sfx": "wind, a distant electrical fizz, silence after",
+      "lines": [{ "who": "narrator", "text": "Then the lighthouse blinked. Once. Twice. And went dark." }] },
+
+    { "id": "s08", "scene": "fog", "duration": 5, "characters": ["mira"],
+      "keyframe": "Close-up of Mira's face at the attic window at night, eyes wide with worry, candlelight on one side of her face.",
+      "motion": "Mira's eyes widen and she presses closer to the glass. Subtle, small movement.",
+      "sfx": "quiet wind",
+      "lines": [{ "who": "mira", "text": "Mama's boat...", "at": 1.2 }] },
+
+    { "id": "s09", "scene": "keeper", "duration": 7, "transition": "fade", "characters": ["mira", "town"],
+      "keyframe": "Night, fog. Mira in her yellow raincoat and red boots runs down a steep cobbled street holding a small lantern, fog glowing around it.",
+      "motion": "Mira runs downhill away from camera, lantern swinging, raincoat flapping. Camera follows.",
+      "sfx": "boots splashing on wet cobblestones, fast breathing, wind",
+      "lines": [{ "who": "narrator", "text": "Mira ran all the way to the keeper's cottage, her boots slapping the wet stones." }] },
+
+    { "id": "s10", "scene": "keeper", "duration": 8, "characters": ["keeper"],
+      "keyframe": "Night. Old Tobias stands in the doorway of a small stone cottage, leaning on his cane, his face half in shadow under a doorway lamp, looking down kindly.",
+      "motion": "Tobias shifts his weight on the cane and shakes his head sadly. Lamp light flickers.",
+      "sfx": "wind, a creaking door",
+      "lines": [{ "who": "keeper", "text": "The wick's blown out, child. And these old knees can't climb two hundred stairs.", "at": 0.5 }] },
+
+    { "id": "s11", "scene": "keeper", "duration": 8, "characters": ["mira", "lighthouse"],
+      "keyframe": "Night, fog. Mira seen from behind on the shore, tiny, looking across dark water at the dark lighthouse on its rock. A stone causeway disappears under the waves.",
+      "motion": "Waves wash over the sunken causeway. Mira's lantern flickers. Fog drifts between her and the lighthouse.",
+      "sfx": "waves rushing over stones, wind",
+      "lines": [{ "who": "narrator", "text": "The lighthouse stood alone on its rock. And the path out to it was under the tide." }] },
+
+    { "id": "s12", "scene": "keeper", "duration": 6, "characters": ["mira", "town"],
+      "keyframe": "Night, fog. Mira walks slowly back up the cobbled street, shoulders slumped, lantern low.",
+      "motion": "Mira walks slowly away from camera into the fog, head down.",
+      "sfx": "slow footsteps on wet stone, wind",
+      "lines": [{ "who": "narrator", "text": "Too far. Too high. Too dark." }] },
+
+    { "id": "s13", "scene": "folding", "duration": 8, "transition": "fade", "characters": ["mira"],
+      "keyframe": "Attic at night, a wooden desk lit by a single candle. Mira unrolls a large old sepia sea map covered in faded coastlines and compass roses, no writing on it.",
+      "motion": "Mira unrolls the map across the desk. The candle flame sways.",
+      "sfx": "paper unrolling, candle crackle, rain on the roof",
+      "lines": [{ "who": "narrator", "text": "At home, she unrolled her grandfather's old sea map. He always said maps remember every way home." }] },
+
+    { "id": "s14", "scene": "folding", "duration": 8, "characters": ["mira"],
+      "keyframe": "Close-up of a child's hands folding an old sepia sea map into origami on a wooden desk by candlelight.",
+      "motion": "The hands fold and crease the paper carefully, step by step. Candle flickers.",
+      "sfx": "crisp paper folding and creasing",
+      "lines": [{ "who": "narrator", "text": "So she did the only brave thing her hands knew how to do. She folded." }] },
+
+    { "id": "s15", "scene": "folding", "duration": 6, "characters": ["mira", "whale"],
+      "keyframe": "A small origami paper whale made of the old sea map sits on the wooden desk by the candle. Mira rests her chin on her arms, looking at it closely.",
+      "motion": "Mira whispers to the little paper whale. Candlelight flickers on the paper.",
+      "sfx": "candle crackle, soft rain",
+      "lines": [{ "who": "mira", "text": "Please. Just this once. Help me be brave.", "at": 0.6 }] },
+
+    { "id": "s16", "scene": "folding", "duration": 6, "characters": ["whale"],
+      "keyframe": "Extreme close-up of the small origami paper whale on the desk, its paper eye closed, candlelight behind.",
+      "motion": "The paper whale's eye slowly opens and a warm golden glow blooms inside its body.",
+      "sfx": "a soft rustle of paper, a faint magical chime",
+      "lines": [] },
+
+    { "id": "s17", "scene": "folding", "duration": 8, "characters": ["whale", "mira"],
+      "keyframe": "The small glowing paper whale lifts off the desk and floats in the air by the candle. Mira leans back in surprise in the background.",
+      "motion": "The paper whale swims through the air in a slow circle around the candle, growing bigger as it moves.",
+      "sfx": "paper rustling like fins, soft whoosh",
+      "lines": [{ "who": "narrator", "text": "The paper whale rustled, stretched, and swam up into the air." }] },
+
+    { "id": "s18", "scene": "folding", "duration": 7, "characters": ["whale", "mira"],
+      "keyframe": "The paper whale, now as big as a rowing boat and glowing warmly, fills the attic under the sloped roof beams. Mira stands below it, laughing in awe.",
+      "motion": "The whale floats gently, its paper fins rippling. Mira laughs and reaches up to touch it.",
+      "sfx": "paper creaking, a child's soft laugh",
+      "lines": [{ "who": "narrator", "text": "It grew and grew, until it was as big as a rowing boat." }] },
+
+    { "id": "s19", "scene": "flight", "duration": 8, "transition": "fade", "characters": ["whale", "mira", "town"],
+      "keyframe": "Night, fog. The attic window is thrown open and the glowing paper whale glides out over the rooftops with Mira sitting on its back, holding on.",
+      "motion": "The whale glides out of the window and rises over the roofs, Mira holding tight.",
+      "sfx": "window banging open, wind rushing, paper fins",
+      "lines": [{ "who": "narrator", "text": "Mira climbed onto its back before she could change her mind." }] },
+
+    { "id": "s20", "scene": "flight", "duration": 9, "characters": ["whale", "mira", "town"],
+      "keyframe": "Wide aerial shot at night: the glowing paper whale with Mira on its back swims above foggy slate rooftops and leaning chimneys, gulls asleep on the ridges.",
+      "motion": "The whale swims slowly across the frame above the rooftops. Fog flows beneath. Gentle camera pan.",
+      "sfx": "soft wind, paper rustling",
+      "lines": [{ "who": "narrator", "text": "They swam over the rooftops of Saltmarsh, over chimneys and sleeping gulls." }] },
+
+    { "id": "s21", "scene": "flight", "duration": 7, "characters": ["mira", "whale"],
+      "keyframe": "Close-up of Mira hugging the paper whale's back, eyes tightly shut, yellow ribbon streaming in the wind, fog behind.",
+      "motion": "Mira keeps her eyes shut, then slowly opens one eye, then both.",
+      "sfx": "wind, paper rustling",
+      "lines": [{ "who": "narrator", "text": "Mira kept her eyes shut. Then, slowly, she opened one." }] },
+
+    { "id": "s22", "scene": "flight", "duration": 8, "characters": ["whale"],
+      "keyframe": "Over-the-shoulder view along the paper whale's back: the inked coastlines on its paper skin glow gold, and a thin golden line stretches ahead through the fog.",
+      "motion": "The glowing ink lines pulse and a golden path unrolls forward through the fog.",
+      "sfx": "a soft rising shimmer, wind",
+      "lines": [{ "who": "narrator", "text": "The inked coastlines on the whale's skin were glowing, drawing a path through the fog." }] },
+
+    { "id": "s23", "scene": "flight", "duration": 8, "characters": ["whale", "mira", "lighthouse"],
+      "keyframe": "Night. The glowing paper whale with Mira on its back swims over the dark sea toward the dark lighthouse on its rock.",
+      "motion": "The whale approaches the lighthouse as the camera slowly follows behind.",
+      "sfx": "waves far below, wind",
+      "lines": [{ "who": "narrator", "text": "Straight to the lighthouse." }] },
+
+    { "id": "s24", "scene": "climb", "duration": 9, "transition": "fade", "characters": ["whale", "mira", "lighthouse"],
+      "keyframe": "Night, high up. The paper whale floats beside the lighthouse's railed gallery. Mira steps carefully from its back onto the iron balcony.",
+      "motion": "Mira steps off the whale onto the balcony, holding the railing. The whale bobs gently.",
+      "sfx": "boots on iron, strong wind",
+      "lines": [{ "who": "narrator", "text": "The whale carried her all the way to the top. Two hundred stairs, skipped in a single breath." }] },
+
+    { "id": "s25", "scene": "climb", "duration": 6, "characters": ["mira"],
+      "keyframe": "High angle looking down past Mira's red boots on the iron balcony to the sea crashing on rocks far below.",
+      "motion": "Slight dizzying camera sway. Waves crash far below. Mira grips the railing.",
+      "sfx": "wind howling, waves far below",
+      "lines": [{ "who": "mira", "text": "It's so high...", "at": 1.0 }] },
+
+    { "id": "s26", "scene": "climb", "duration": 6, "characters": ["whale", "mira"],
+      "keyframe": "Night, on the lighthouse balcony. The paper whale gently touches its nose to Mira's shoulder. She looks up at it.",
+      "motion": "The whale nudges Mira softly. She takes a breath and nods.",
+      "sfx": "soft paper rustle, wind",
+      "lines": [{ "who": "narrator", "text": "The whale nudged her, gently, the way her mother did before school." }] },
+
+    { "id": "s27", "scene": "climb", "duration": 8, "characters": ["mira"],
+      "keyframe": "Inside the lamp room at night: a huge cold glass Fresnel lens, brass fittings, a dead wick. Mira stands small beside it holding her lantern. One pane of glass is broken.",
+      "motion": "Mira steps in slowly. Wind whistles through the broken pane. Her lantern light glints on the lens.",
+      "sfx": "wind whistling through broken glass, footsteps on metal",
+      "lines": [{ "who": "narrator", "text": "Inside, the great glass lens sat cold and dark." }] },
+
+    { "id": "s28", "scene": "climb", "duration": 7, "characters": ["mira"],
+      "keyframe": "Close-up of Mira's hands striking a match beside the lamp's wick, the lens glass behind.",
+      "motion": "The match flares and is immediately blown out by a gust. She strikes another; it blows out too.",
+      "sfx": "match strikes, sudden gusts, flame blowing out",
+      "lines": [{ "who": "narrator", "text": "She struck a match. The wind blew it out. She struck another. Out again." }] },
+
+    { "id": "s29", "scene": "climb", "duration": 8, "characters": ["whale", "lighthouse"],
+      "keyframe": "Outside the lamp room at night: the glowing paper whale presses its broad side against the broken window, covering it completely.",
+      "motion": "The whale settles against the glass. Its glow brightens and the wind-driven fog around it calms.",
+      "sfx": "wind dying down, paper pressing against glass",
+      "lines": [{ "who": "narrator", "text": "Then the whale pressed its paper body against the broken window. And the wind went quiet." }] },
+
+    { "id": "s30", "scene": "climb", "duration": 6, "characters": [],
+      "keyframe": "Extreme close-up of a small match flame touching the lamp's wick inside the lighthouse.",
+      "motion": "The wick catches and a bright flame grows steadily.",
+      "sfx": "a soft whoomp of flame catching",
+      "lines": [{ "who": "mira", "text": "There.", "at": 3.0 }] },
+
+    { "id": "s31", "scene": "climb", "duration": 9, "characters": ["lighthouse", "whale"],
+      "keyframe": "Night, fog. Exterior of the lighthouse top: the great lens blazes and a brilliant golden beam cuts through the fog. The paper whale floats beside it.",
+      "motion": "The beam sweeps slowly across the fog, parting it. The whale circles the lamp room.",
+      "sfx": "a deep hum of the turning lens, wind, rising chime",
+      "lines": [{ "who": "narrator", "text": "The lamp caught. The great lens turned. And a beam of gold cut through the fog." }] },
+
+    { "id": "s32", "scene": "home", "duration": 8, "transition": "fade", "characters": ["mother"],
+      "keyframe": "Night, fog at sea. Mira's mother at the wheel of her small fishing boat, a golden beam of light shining through the fog in the distance ahead.",
+      "motion": "The mother turns the wheel toward the light. Other boat lanterns appear in the fog behind her.",
+      "sfx": "boat engine, waves, the far hum of the lighthouse",
+      "lines": [{ "who": "narrator", "text": "Far out at sea, one by one, the fishing boats turned toward the light." }] },
+
+    { "id": "s33", "scene": "home", "duration": 8, "characters": ["town"],
+      "keyframe": "Night into early dawn. A line of small fishing boats with lanterns enters the harbor; townspeople wait on the quay holding lanterns.",
+      "motion": "The boats glide into the harbor one after another. People on the quay raise their lanterns.",
+      "sfx": "boat engines, soft cheering, waves",
+      "lines": [{ "who": "narrator", "text": "They followed it home." }] },
+
+    { "id": "s34", "scene": "home", "duration": 8, "characters": ["mira", "mother"],
+      "keyframe": "Dawn on the quay. Mira's mother kneels and hugs Mira tightly. Soft pink and gold morning light.",
+      "motion": "They hug and rock gently. The mother kisses the top of Mira's head.",
+      "sfx": "gulls waking, gentle waves",
+      "lines": [{ "who": "mother", "text": "I saw the light. I followed it all the way home.", "at": 1.0 }] },
+
+    { "id": "s35", "scene": "home", "duration": 9, "transition": "fade", "characters": ["whale"],
+      "keyframe": "Morning in the attic. Sunlight on the wooden desk: the small origami paper whale rests on the unfolded old sea map.",
+      "motion": "Dust motes float in the sunlight. The small paper whale sits still. Very slow push-in.",
+      "sfx": "quiet morning birds, distant harbor",
+      "lines": [{ "who": "narrator", "text": "The next morning, the paper whale was small again. But on the old map, there was a new line." }] },
+
+    { "id": "s36", "scene": "home", "duration": 7, "characters": [],
+      "keyframe": "Top-down close-up of the old sepia sea map: a freshly inked dotted golden line runs from a tiny lighthouse drawing to a tiny harbor drawing. No writing, no letters.",
+      "motion": "The golden dotted line glows faintly and shimmers once.",
+      "sfx": "a soft chime, morning quiet",
+      "lines": [{ "who": "narrator", "text": "A path home, drawn by someone who was afraid, and went anyway." }] },
+
+    { "id": "s37", "scene": "home", "duration": 8, "characters": ["lighthouse", "whale"],
+      "keyframe": "Dusk. Wide shot of the lighthouse shining over a calm golden sea. High in the pink clouds, the faint shape of a whale made of cloud.",
+      "motion": "The beam sweeps slowly. The cloud whale drifts gently across the sky.",
+      "sfx": "gentle waves, soft wind",
+      "lines": [] }
+  ]
+}

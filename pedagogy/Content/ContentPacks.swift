@@ -10,6 +10,7 @@
 //
 //      narration-<slug>   os MP3 dos capítulos   ~5,5 MB cada   272 MB no total
 //      motion-<slug>      o loop da capa         ~1,6 MB cada    81 MB no total
+//      short-<id>         um curta-metragem      ~40–80 MB cada
 //
 //  Uma tag por história, não por capítulo: quem ouve o capítulo 1 quase
 //  sempre segue pro 2 pelo auto-play, e com a história inteira já no device
@@ -43,12 +44,14 @@ import Foundation
 enum ContentPack: Hashable {
     case narration(storyID: String)
     case motion(storyID: String)
+    case short(id: String)
 
     /// A tag no project.pbxproj. Precisa bater com o script que as grava.
     var tag: String {
         switch self {
         case .narration(let id): return "narration-\(id)"
         case .motion(let id):    return "motion-\(id)"
+        case .short(let id):     return "short-\(id)"
         }
     }
 }

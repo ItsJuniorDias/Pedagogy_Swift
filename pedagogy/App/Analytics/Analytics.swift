@@ -66,6 +66,8 @@ enum AnalyticsEvent: String {
     case storyOpen = "story_open"
     case storyComplete = "story_complete"
     case narrationPlay = "narration_play"
+    case shortPlay = "short_play"
+    case shortComplete = "short_complete"
 
     /// Alarme de infraestrutura, não métrica de produto: o paywall foi
     /// apresentado sem nenhum plano comprável. Em operação normal isso é

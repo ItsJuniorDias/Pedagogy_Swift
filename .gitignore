@@ -1,0 +1,4 @@
+
+# Curtas: artefatos gerados (refs, keyframes, clipes, vozes) — pesados e regeneráveis
+shorts/*/build/
+.env

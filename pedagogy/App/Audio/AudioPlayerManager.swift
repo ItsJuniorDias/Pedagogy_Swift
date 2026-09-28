@@ -314,6 +314,33 @@ final class AudioPlayerManager {
         }
     }
 
+    /// Um curta vai tocar em tela cheia. Pausa a narração (o mini-player
+    /// continua lá, pra retomar depois) e troca o modo da sessão pra vídeo.
+    ///
+    /// `.longFormAudio` é política de áudio puro: com ela o AirPlay manda só
+    /// o som pro HomePod, e o filme ficaria mudo na TV. `.moviePlayback`
+    /// devolve o roteamento de vídeo.
+    ///
+    /// Fica aqui, e não no player do curta, porque é este manager que sabe
+    /// se a sessão está ativa — um segundo dono do `setActive` deixaria o
+    /// `sessionIsActive` mentindo.
+    func beginVideoPlayback() {
+        if state == .playing { pause() }
+        do {
+            try AVAudioSession.sharedInstance().setCategory(.playback, mode: .moviePlayback, options: [])
+        } catch {
+            print("[AudioPlayerManager] video session setup failed: \(error)")
+        }
+        activateSession()
+    }
+
+    /// O curta fechou. Volta a categoria de narração; se não há narração
+    /// carregada, devolve o foco pro app que tocava antes (Spotify etc).
+    func endVideoPlayback() {
+        configureAudioSession()
+        if nowPlaying == nil { deactivateSession() }
+    }
+
     /// Interrupções (ligação, Siri, alarme) e mudança de rota (fone saiu).
     ///
     /// Sem estes dois, dois furos reais aparecem em uso normal: uma ligação

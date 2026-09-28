@@ -48,4 +48,14 @@ final class AppDelegate: NSObject, UIApplicationDelegate {
         UNUserNotificationCenter.current().delegate = notificationsDelegate
         return true
     }
+
+    /// Exceção à regra "só notificações" deste arquivo: orientação só se
+    /// decide por janela aqui. O iPhone fica em retrato, menos com um curta
+    /// aberto — ver `OrientationLock` em App/Shorts/ShortPlayer.swift.
+    func application(
+        _ application: UIApplication,
+        supportedInterfaceOrientationsFor window: UIWindow?
+    ) -> UIInterfaceOrientationMask {
+        OrientationLock.mask
+    }
 }

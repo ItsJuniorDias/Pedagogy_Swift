@@ -34,6 +34,9 @@
 //    │  │  [Start reading]      │  │
 //    │  └───────────────────────┘  │
 //    │                             │
+//    │  ─── Watch ─────────────    │  ← curtas (App/Shorts), se houver
+//    │  ▶ pôster 16:9              │
+//    │                             │
 //    │  ─── Browse by mood ────    │
 //    │  [Mystery][Adventure]...    │  ← 5 chips, scroll horizontal
 //    │                             │
@@ -69,6 +72,8 @@ import SwiftUI
 
 struct HomeView: View {
     @Environment(LibraryProgress.self) private var library
+    @Environment(Store.self) private var store
+    @Environment(AudioPlayerManager.self) private var audio
 
     /// Callback pra MainTabView trocar de tab (Read → Library).
     /// - Recebe `StoryCategory?`: se nil, abre Library sem filtro ("See all").
@@ -79,6 +84,10 @@ struct HomeView: View {
 
     @State private var stories: [Story] = []
     @State private var loadError: String?
+
+    @State private var shorts: [Short] = []
+    @State private var shortLauncher = ShortLauncher()
+    @State private var isPaywallPresented = false
 
     // MARK: - Derived sections
 
@@ -151,6 +160,15 @@ struct HomeView: View {
                             )
                         }
 
+                        if !shorts.isEmpty {
+                            WatchSection(
+                                shorts: shorts,
+                                launcher: shortLauncher,
+                                isLocked: isLocked,
+                                onTap: playShort
+                            )
+                        }
+
                         BrowseByMoodSection(onCategoryTap: { category in
                             onNavigateToLibrary(category)
                         })
@@ -181,12 +199,28 @@ struct HomeView: View {
             .navigationDestination(for: Story.self) { story in
                 StoryDetailView(story: story)
             }
+            .sheet(isPresented: $isPaywallPresented) {
+                PaywallView(source: "short")
+            }
+        }
+    }
+
+    private func isLocked(_ short: Short) -> Bool {
+        short.isPremium && !store.isPremium
+    }
+
+    private func playShort(_ short: Short) {
+        if isLocked(short) {
+            isPaywallPresented = true
+        } else {
+            shortLauncher.toggle(short, audio: audio)
         }
     }
 
     private func loadStories() {
         do {
             stories = try StoryLoader.loadAll()
+            shorts = ShortCatalog.loadAll()
         } catch {
             loadError = error.localizedDescription
         }

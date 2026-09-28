@@ -98,10 +98,15 @@
 
 	<!-- ═══════════ ORIENTAÇÕES ═══════════ -->
 
-	<!-- Portrait only em iPhone -->
+	<!--
+		iPhone: paisagem só é PERMITIDA aqui. Quem decide é o AppDelegate
+		(OrientationLock.mask), que trava em retrato fora do player de curtas.
+	-->
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 
 	<!-- iPad permite todas orientações -->
