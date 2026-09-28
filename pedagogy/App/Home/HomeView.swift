@@ -268,6 +268,8 @@ private struct ContinueReadingSection: View {
     let story: Story
     let progress: StoryProgress
 
+    @Environment(TranslationStore.self) private var translation
+
     var body: some View {
         VStack(alignment: .leading, spacing: Theme.Space.md) {
             SectionLabel(text: "Continue reading")
@@ -277,7 +279,7 @@ private struct ContinueReadingSection: View {
                     ThumbnailImage(story: story, size: 72)
 
                     VStack(alignment: .leading, spacing: 2) {
-                        Text(story.title)
+                        Text(translation.text(story.title))
                             .font(.display(15, weight: .semibold))
                             .foregroundStyle(Theme.Colors.ink)
                             .lineLimit(1)
@@ -433,11 +435,13 @@ private struct FeaturedPicksSection: View {
 private struct FeaturedThumb: View {
     let story: Story
 
+    @Environment(TranslationStore.self) private var translation
+
     var body: some View {
         VStack(alignment: .leading, spacing: Theme.Space.sm) {
             ThumbnailImage(story: story, size: 160)
 
-            Text(story.title)
+            Text(translation.text(story.title))
                 .font(.display(13, weight: .semibold))
                 .foregroundStyle(Theme.Colors.ink)
                 .lineLimit(2)

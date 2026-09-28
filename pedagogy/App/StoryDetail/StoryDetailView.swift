@@ -58,6 +58,7 @@ struct StoryDetailView: View {
     @Environment(LibraryProgress.self) private var library
     @Environment(Store.self) private var store
     @Environment(AudioPlayerManager.self) private var audio
+    @Environment(TranslationStore.self) private var translation
     @Environment(\.dismiss) private var dismiss
 
     @State private var isReaderPresented = false
@@ -104,12 +105,12 @@ struct StoryDetailView: View {
 
                 // ─── TITLE BLOCK ───────────────────────────────────────
                 VStack(alignment: .leading, spacing: Theme.Space.sm) {
-                    Text(story.title)
+                    Text(translation.text(story.title))
                         .displayTitle(size: 36)
                         .multilineTextAlignment(.leading)
                         .fixedSize(horizontal: false, vertical: true)
 
-                    if let subtitle = story.subtitle {
+                    if let subtitle = translation.text(story.subtitle) {
                         Text(subtitle)
                             .font(.body(17, weight: .medium))
                             .foregroundStyle(Theme.Colors.textMuted)
@@ -121,7 +122,7 @@ struct StoryDetailView: View {
                 MetaChipRow(story: story, progress: progress)
 
                 // ─── SUMMARY ───────────────────────────────────────────
-                Text(story.summary)
+                Text(translation.text(story.summary))
                     .readingBody(size: 16)
 
                 // ─── CHAPTERS SECTION ──────────────────────────────────
@@ -154,6 +155,11 @@ struct StoryDetailView: View {
         // Esconde a nav bar (title bar) inteira. Back button vira parte
         // do scroll content (no topo), rola junto com a cover.
         .toolbar(.hidden, for: .navigationBar)
+        // O catálogo já foi pedido ao ligar a tradução; isto só fura a fila
+        // pra história aberta, caso ela ainda não tenha chegado.
+        .task(id: translation.isActive) {
+            translation.request(TranslationStore.metadataStrings(of: story), priority: true)
+        }
         .fullScreenCover(isPresented: $isReaderPresented) {
             ReaderView(story: story)
         }
@@ -399,6 +405,8 @@ private struct ChapterRow: View {
     let state: State
     let accent: Color
 
+    @Environment(TranslationStore.self) private var translation
+
     enum State {
         case completed
         case current
@@ -429,7 +437,7 @@ private struct ChapterRow: View {
             }
 
             VStack(alignment: .leading, spacing: 2) {
-                Text(chapter.title)
+                Text(translation.text(chapter.title))
                     .font(.display(16, weight: state == .current ? .bold : .semibold))
                     .foregroundStyle(Theme.Colors.ink)
 

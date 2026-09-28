@@ -43,7 +43,7 @@
 //  Rodar no simulador enquanto se mexe no paywall geraria dezenas de
 //  `paywall_view` falsos, e o funil é uma razão de volume: cinquenta views de
 //  desenvolvimento derrubam a taxa de conversão do mês inteiro. Pra testar a
-//  ligação de ponta a ponta, ligue o override em `isEnabled`.
+//  ligação de ponta a ponta, use o launch argument `-analytics.enabled YES`.
 //  ────────────────────────────────────────────────────────────────────────────
 
 import Foundation
@@ -139,23 +139,26 @@ final class Analytics {
     /// hoje está vazio lá, então o header não é enviado.
     private let ingestToken: String? = nil
 
-    /// Ligado por padrão, inclusive em DEBUG.
+    /// Desligado em DEBUG: nada sai do simulador nem do build rodado pelo
+    /// Xcode, pra não sujar o funil com `paywall_view` de desenvolvimento.
+    /// Nem enfileira — assim nada acumula no disco e vaza quando o mesmo
+    /// aparelho rodar um build de release.
     ///
-    /// A primeira versão desligava em DEBUG pra não sujar o funil, e o efeito
-    /// prático foi pior: como se testa em DEBUG, a integração parecia quebrada
-    /// e não havia nada no Console dizendo por quê.
-    ///
-    /// A troca é outra: manda sempre e limpa os eventos de teste de uma vez
-    /// antes de publicar —
+    /// Pra testar a ligação de ponta a ponta em DEBUG: Product → Scheme → Edit
+    /// → Run → Arguments, e adicione `-analytics.enabled YES`. O UserDefaults
+    /// lê launch arguments nesse formato sozinho. Depois, limpe os eventos de
+    /// teste antes de publicar —
     ///
     ///     curl -X DELETE "https://pedagogy-analytics.onrender.com/admin/clear?confirm=DELETE_ALL" \
     ///       -H "Authorization: Bearer $ADMIN_TOKEN"
     ///
-    /// Pra silenciar durante o desenvolvimento sem mexer em código: Product →
-    /// Scheme → Edit → Run → Arguments, e adicione `-analytics.disabled YES`.
-    /// O UserDefaults lê launch arguments nesse formato sozinho.
+    /// Em release, `-analytics.disabled YES` continua silenciando.
     private var isEnabled: Bool {
+        #if DEBUG
+        UserDefaults.standard.bool(forKey: "analytics.enabled")
+        #else
         !UserDefaults.standard.bool(forKey: "analytics.disabled")
+        #endif
     }
 
     private let log = Logger(subsystem: "pedagogy", category: "analytics")
@@ -212,7 +215,7 @@ final class Analytics {
     /// o resto fica no JSON e continua consultável, só não agregável.
     func track(_ event: AnalyticsEvent, _ params: [String: Any] = [:]) {
         guard isEnabled else {
-            debugLog("ignorado (analytics.disabled ligado): \(event.rawValue)")
+            debugLog("ignorado (analytics desligado): \(event.rawValue)")
             return
         }
 

@@ -85,6 +85,8 @@ struct ProfileView: View {
                     // ─── Header ─────────────────────────────────────
                     Header()
 
+                    TranslationCard()
+
                     // ─── Loading / error / content ─────────────────
                     if let loadError {
                         ErrorPanel(message: loadError)
@@ -187,6 +189,49 @@ private struct Header: View {
     }
 }
 
+// MARK: - Translation Card
+
+/// Idioma de leitura das histórias. Mesmo estado do menu de tradução no
+/// reader. Padrão: inglês original.
+private struct TranslationCard: View {
+    @Environment(TranslationStore.self) private var translation
+
+    private var footnote: String {
+        if let error = translation.lastError { return error }
+        if translation.targetLanguage != nil, translation.availability == .unavailable {
+            return "This language isn't available on this device."
+        }
+        return "Translated on this device. Narration stays in English."
+    }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: Theme.Space.xs) {
+            HStack {
+                Label("Story language", systemImage: "translate")
+                    .font(.ui(15, weight: .semibold))
+                    .foregroundStyle(Theme.Colors.ink)
+
+                Spacer()
+
+                TranslationLanguagePicker()
+                    .pickerStyle(.menu)
+                    .tint(Theme.Colors.primary)
+            }
+
+            Text(footnote)
+                .font(.ui(12, weight: .regular))
+                .foregroundStyle(Theme.Colors.textMuted)
+        }
+        .padding(Theme.Space.lg)
+        .background(Theme.Colors.surface)
+        .clipShape(RoundedRectangle(cornerRadius: Theme.Radius.md))
+        .overlay(
+            RoundedRectangle(cornerRadius: Theme.Radius.md)
+                .stroke(Theme.Colors.border, lineWidth: Theme.Stroke.hair)
+        )
+    }
+}
+
 // MARK: - Section Header
 
 /// Header de seção reutilizando o padrão visual do HomeView (dot pink +
@@ -263,4 +308,5 @@ private struct ErrorPanel: View {
     ProfileView()
         .environment(LibraryProgress())
         .environment(AchievementsStore())
+        .environment(TranslationStore())
 }

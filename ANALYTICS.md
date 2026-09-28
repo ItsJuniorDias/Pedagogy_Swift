@@ -103,15 +103,17 @@ timeout e rede caída mantêm na fila. A fila tem teto de 200 e derruba os mais
 antigos: um app que ficou uma semana offline não deve acumular milhares de
 eventos de funil que já não valem nada.
 
-**Ligado sempre, inclusive em DEBUG.** A primeira versão desligava em DEBUG
-pra não sujar o funil, e o efeito prático foi pior: como se testa em DEBUG, a
-integração parecia quebrada e não havia nada no console dizendo por quê.
+**Desligado em DEBUG.** Build rodado pelo Xcode (simulador ou device) não
+envia nem enfileira nada — assim o funil não se enche de `paywall_view` de
+desenvolvimento, e nada acumula no disco pra vazar num build de release depois.
+Cada evento ignorado aparece no console como `ignorado (analytics desligado)`.
 
-A troca é limpar antes de publicar (o `admin/clear` abaixo). Pra silenciar
-durante o desenvolvimento sem mexer em código: Product → Scheme → Edit → Run →
-Arguments, e adicione `-analytics.disabled YES`.
+Pra testar a ligação de ponta a ponta em DEBUG: Product → Scheme → Edit → Run →
+Arguments, e adicione `-analytics.enabled YES`. Depois, limpe os eventos de
+teste antes de publicar (o `admin/clear` abaixo). Em release,
+`-analytics.disabled YES` continua silenciando.
 
-Em DEBUG cada evento imprime no console do Xcode:
+Com o envio ligado, em DEBUG cada evento imprime no console do Xcode:
 
 ```
 [analytics] na fila: paywall_view ["source": "onboarding"] — fila com 1
@@ -125,7 +127,7 @@ aparecer `REJEITADO`, o servidor recusou o payload e ele foi descartado.
 
 ## Testar a ligação
 
-Com o app rodando (e `isEnabled` liberado em DEBUG):
+Com o app rodando (em DEBUG, com `-analytics.enabled YES`):
 
 ```bash
 curl -s "https://pedagogy-analytics.onrender.com/health"

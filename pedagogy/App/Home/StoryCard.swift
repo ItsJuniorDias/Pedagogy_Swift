@@ -40,6 +40,8 @@ struct StoryHeroCard: View {
     let story: Story
     let progress: StoryProgress
 
+    @Environment(TranslationStore.self) private var translation
+
     private var progressFraction: Double {
         if progress.isFinished { return 1 }
         guard !story.chapters.isEmpty else { return 0 }
@@ -80,7 +82,7 @@ struct StoryHeroCard: View {
                     .foregroundStyle(Theme.Colors.primary)
 
                 // Título — display serif grande
-                Text(story.title)
+                Text(translation.text(story.title))
                     .displayTitle(size: 26)
                     .multilineTextAlignment(.leading)
                     .fixedSize(horizontal: false, vertical: true)
@@ -129,8 +131,8 @@ struct StoryHeroCard: View {
     }
 
     private var accessibilityLabel: String {
-        var parts = ["Featured story", story.title]
-        if let sub = story.subtitle { parts.append(sub) }
+        var parts = ["Featured story", translation.text(story.title)]
+        if let sub = translation.text(story.subtitle) { parts.append(sub) }
         parts.append("\(story.readingTimeMinutes) minutes, \(story.chapters.count) chapters")
         if progress.isFinished { parts.append("finished") }
         else if progress.isInProgress {
@@ -149,6 +151,8 @@ struct StoryHeroCard: View {
 struct StoryCompactCard: View {
     let story: Story
     let progress: StoryProgress
+
+    @Environment(TranslationStore.self) private var translation
 
     private var progressFraction: Double {
         if progress.isFinished { return 1 }
@@ -173,7 +177,7 @@ struct StoryCompactCard: View {
                 CategoryBadge(category: story.category)
 
                 // Título — 2 linhas max
-                Text(story.title)
+                Text(translation.text(story.title))
                     .font(.display(17, weight: .bold))
                     .foregroundStyle(Theme.Colors.ink)
                     .lineLimit(2)
@@ -220,7 +224,7 @@ struct StoryCompactCard: View {
     }
 
     private var accessibilityLabel: String {
-        var parts = [story.category.badgeName.lowercased().capitalized, story.title]
+        var parts = [story.category.badgeName.lowercased().capitalized, translation.text(story.title)]
         parts.append("\(story.readingTimeMinutes) minutes, \(story.chapters.count) chapters")
         if progress.isFinished { parts.append("finished") }
         else if progress.isInProgress {
@@ -254,6 +258,8 @@ struct StoryThumbCard: View {
     let story: Story
     let progress: StoryProgress
 
+    @Environment(TranslationStore.self) private var translation
+
     var body: some View {
         VStack(alignment: .leading, spacing: Theme.Space.sm) {
             // Cover com badge de categoria + indicador de progresso opcional
@@ -274,7 +280,7 @@ struct StoryThumbCard: View {
             )
 
             // Título (max 2 linhas — fixo pra grid alinhar)
-            Text(story.title)
+            Text(translation.text(story.title))
                 .font(.display(15, weight: .semibold))
                 .foregroundStyle(Theme.Colors.ink)
                 .lineLimit(2)
@@ -290,7 +296,7 @@ struct StoryThumbCard: View {
                 .foregroundStyle(Theme.Colors.textMuted)
         }
         .accessibilityElement(children: .combine)
-        .accessibilityLabel("\(story.title). \(story.category.displayName). \(story.readingTimeMinutes) minutes.\(progress.isFinished ? " Completed." : progress.isInProgress ? " In progress." : "")")
+        .accessibilityLabel("\(translation.text(story.title)). \(story.category.displayName). \(story.readingTimeMinutes) minutes.\(progress.isFinished ? " Completed." : progress.isInProgress ? " In progress." : "")")
     }
 }
 

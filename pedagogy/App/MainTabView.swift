@@ -266,6 +266,7 @@ struct MainTabView: View {
     MainTabView()
         .environment(Store())
         .environment(LibraryProgress())
+        .environment(TranslationStore())
         .environment(NotificationManager())
         .environment(AchievementsStore())
         .environment(AudioPlayerManager())

@@ -36,6 +36,8 @@ struct pedagogyApp: App {
     /// Player global — vive no App scope pra manter playback rodando
     /// enquanto o usuário navega entre tabs / abre sheets / etc.
     @State private var audio = AudioPlayerManager()
+    /// Tradução nativa (framework Translation) do conteúdo das histórias.
+    @State private var translation = TranslationStore()
 
     /// Precisamos observar quando o app volta do background pra re-agendar
     /// notifs (podem ter expirado; permissão pode ter mudado nas Settings).
@@ -61,11 +63,20 @@ struct pedagogyApp: App {
     var body: some Scene {
         WindowGroup {
             RootView()
+                // Precisa vir antes do `.environment(translation)` — o host lê
+                // o store do environment.
+                .translationHost()
                 .environment(store)
                 .environment(library)
                 .environment(achievements)
                 .environment(audio)
                 .environment(appDelegate.notificationManager)
+                .environment(translation)
+                .task {
+                    // Não bloqueia nada: até responder, `text(_:)` devolve
+                    // o original.
+                    await translation.refreshAvailability()
+                }
                 .task {
                     // Topo do funil. Roda antes de tudo porque `first_open` é
                     // o denominador de todas as taxas — se ele se perder num

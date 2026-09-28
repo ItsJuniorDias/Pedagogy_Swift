@@ -44,6 +44,7 @@ struct ReaderView: View {
     let story: Story
 
     @Environment(LibraryProgress.self) private var library
+    @Environment(TranslationStore.self) private var translation
     @Environment(\.dismiss) private var dismiss
 
     /// Índice do capítulo atual (0..<story.chapters.count).
@@ -125,6 +126,15 @@ struct ReaderView: View {
                     dismiss()
                 }
             )
+        }
+        // O reader é fullScreenCover: o pedido de download do idioma, se
+        // vier, precisa ser apresentado daqui e não da raiz coberta.
+        .translationHost()
+        // Capítulo em tela na frente da fila; o resto da história atrás, pra
+        // o swipe pro próximo já cair traduzido. Re-roda ao ligar a tradução.
+        .task(id: TranslationRequestKey(isActive: translation.isActive, chapter: currentIndex)) {
+            translation.request(currentChapter.translatableStrings, priority: true)
+            translation.request(story.chapters.flatMap(\.translatableStrings))
         }
         .onAppear {
             restoreProgress()
@@ -212,6 +222,7 @@ private struct ChapterView: View {
 
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Environment(AudioPlayerManager.self) private var audio
+    @Environment(TranslationStore.self) private var translation
 
     // Estados de animação de entrada — cascata sequencial pra criar
     // sensação de "abertura de capítulo" cinematográfica.
@@ -230,6 +241,14 @@ private struct ChapterView: View {
     /// erradas.
     private var sentencesByParagraph: [[String]] {
         allParagraphs.map { SentenceSplitter.split($0) }
+    }
+
+    /// Mesma estrutura de `sentencesByParagraph`, com cada sentença traduzida
+    /// (ou original, se a tradução está desligada ou ainda não chegou).
+    /// Traduzir 1:1 por sentença mantém os índices — o destaque da narração
+    /// em inglês continua apontando a sentença certa.
+    private var displayedSentencesByParagraph: [[String]] {
+        sentencesByParagraph.map { $0.map { translation.text($0) } }
     }
 
     /// Índice global da PRIMEIRA sentença de cada parágrafo. Se paragraph 0
@@ -277,7 +296,7 @@ private struct ChapterView: View {
                             .opacity(chapterNumberAppeared ? 1 : 0)
                             .offset(y: chapterNumberAppeared ? 0 : -6)
 
-                        Text(chapter.title)
+                        Text(translation.text(chapter.title))
                             .displayTitle(size: 32)
                             .multilineTextAlignment(.leading)
                             .fixedSize(horizontal: false, vertical: true)
@@ -314,7 +333,7 @@ private struct ChapterView: View {
                     // sentença ativa visível (sentença cabe no viewport uma
                     // vez o parágrafo dela estiver alinhado).
                     VStack(alignment: .leading, spacing: Theme.Space.lg) {
-                        ForEach(Array(sentencesByParagraph.enumerated()), id: \.offset) { pIndex, sentences in
+                        ForEach(Array(displayedSentencesByParagraph.enumerated()), id: \.offset) { pIndex, sentences in
                             SentenceHighlightingParagraph(
                                 sentences: sentences,
                                 sentenceOffset: paragraphSentenceOffsets[safe: pIndex] ?? 0,
@@ -440,6 +459,7 @@ private struct TopBar: View {
     let onClose: () -> Void
 
     @Environment(AudioPlayerManager.self) private var audio
+    @Environment(TranslationStore.self) private var translation
 
     /// O player está com ESTE capítulo desta história — tocando, pausado,
     /// baixando ou com falha? Tocar outra coisa não mexe no botão daqui.
@@ -486,6 +506,22 @@ private struct TopBar: View {
         }
     }
 
+    /// Há idioma escolhido (o texto está ou vai ficar traduzido).
+    private var isTranslated: Bool { translation.targetLanguage != nil }
+
+    @ViewBuilder
+    private var translationGlyph: some View {
+        if translation.isActive, translation.isTranslating {
+            ProgressView()
+                .controlSize(.small)
+                .tint(Theme.Colors.onAccent)
+        } else {
+            Image(systemName: "translate")
+                .font(.system(size: 14, weight: .bold))
+                .foregroundStyle(isTranslated ? Theme.Colors.onAccent : Theme.Colors.ink)
+        }
+    }
+
     private var narrationLabel: String {
         guard playerHasThisChapter else { return "Play narration" }
         switch audio.state {
@@ -525,7 +561,7 @@ private struct TopBar: View {
                         Text("Chapter \(chapterNumber)")
                             .font(.ui(11, weight: .bold))
                             .foregroundStyle(accent)
-                        Text(chapterTitle)
+                        Text(translation.text(chapterTitle))
                             .font(.ui(13, weight: .semibold))
                             .foregroundStyle(Theme.Colors.textMuted)
                             .lineLimit(1)
@@ -565,6 +601,26 @@ private struct TopBar: View {
                     }
                     .accessibilityLabel(narrationLabel)
                 }
+
+                // ─── TRADUÇÃO ────────────────────────────────────────
+                // Menu com o idioma de leitura. Padrão é o inglês original;
+                // escolher outro idioma traduz na hora. Preenchido (accent)
+                // enquanto há tradução escolhida.
+                Menu {
+                    TranslationLanguagePicker()
+                } label: {
+                    translationGlyph
+                        .frame(width: 36, height: 36)
+                        .background(
+                            Circle()
+                                .fill(isTranslated ? accent : Theme.Colors.surface)
+                                .overlay(
+                                    Circle()
+                                        .stroke(Theme.Colors.border, lineWidth: Theme.Stroke.hair)
+                                )
+                        )
+                }
+                .accessibilityLabel("Story language")
 
                 // Chapter counter — sempre visível (contexto mínimo)
                 Text("\(currentIndex + 1) / \(totalChapters)")
@@ -825,6 +881,23 @@ enum SentenceSplitter {
             if !sentence.isEmpty { result.append(sentence) }
         }
         return result
+    }
+}
+
+// MARK: - Translation
+
+/// `id` do `.task` do reader: re-pede quando a tradução liga ou o capítulo
+/// em tela muda.
+private struct TranslationRequestKey: Hashable {
+    let isActive: Bool
+    let chapter: Int
+}
+
+extension Chapter {
+    /// Tudo que o reader exibe deste capítulo, na mesma granularidade em que
+    /// exibe: título + cada sentença do `SentenceSplitter`.
+    var translatableStrings: [String] {
+        [title] + pages.flatMap(\.paragraphs).flatMap(SentenceSplitter.split)
     }
 }
 

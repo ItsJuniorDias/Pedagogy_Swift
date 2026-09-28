@@ -459,4 +459,5 @@ private struct ErrorPanel: View {
     LibraryView()
         .environment(Store())
         .environment(LibraryProgress())
+        .environment(TranslationStore())
 }
