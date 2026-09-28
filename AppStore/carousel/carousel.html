@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Pedagogy Carousel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;800&family=Roboto:wght@700&display=block" rel="stylesheet">
+<style>
+  :root {
+    --bg: #FFFAF0;
+    --ink: #0A0A0A;
+    --pink: #FE5B8D;
+    --muted: #8C8478;
+    --W: 1242px;
+    --H: 2688px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: var(--W); height: var(--H); overflow: hidden; background: var(--bg); }
+  body.all { width: calc(var(--W) * 6); }
+  body { -webkit-font-smoothing: antialiased; }
+
+  #stage {
+    position: absolute; top: 0; left: 0;
+    width: calc(var(--W) * 6); height: var(--H);
+    background: var(--bg);
+    overflow: hidden;
+  }
+
+  .frame { position: absolute; top: 0; width: var(--W); height: var(--H); }
+
+  h1 {
+    position: absolute; left: 60px; right: 60px; top: 230px;
+    text-align: center; white-space: nowrap;
+    font-family: "Roboto Slab", serif; font-weight: 800;
+    font-size: 150px; line-height: 1; letter-spacing: -2px;
+    color: var(--ink);
+  }
+  .sub {
+    position: absolute; left: 60px; right: 60px; top: 482px;
+    text-align: center;
+    font-family: "Roboto Slab", serif; font-weight: 300;
+    font-size: 54px; line-height: 1.2;
+    color: var(--muted);
+  }
+
+  /* A linha rosa corre por todos os quadros; os pontos ficam em cima das
+     divisas — metade em cada screenshot. */
+  #rule {
+    position: absolute; left: 0; right: 0; top: 660px; height: 7px;
+    background: var(--pink);
+  }
+  .dot {
+    position: absolute; top: 663px; width: 30px; height: 30px;
+    margin: -15px 0 0 -15px; border-radius: 50%;
+    background: var(--pink);
+  }
+
+  .phone {
+    position: absolute; left: 247px; top: 781px;
+    width: 747px; height: 1618px;
+    border-radius: 78px; overflow: hidden;
+    background: var(--bg);
+    box-shadow: 0 40px 90px rgba(60, 40, 20, .16), 0 8px 24px rgba(60, 40, 20, .08);
+    z-index: 2;
+  }
+  .phone img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: top; }
+
+  .count {
+    position: absolute; left: 91px; top: 2510px;
+    font-family: "Roboto", sans-serif; font-weight: 700;
+    font-size: 60px; color: var(--ink); letter-spacing: -1px;
+  }
+  .mark {
+    position: absolute; right: 88px; top: 2528px;
+    font-family: "Roboto Slab", serif; font-weight: 400;
+    font-size: 34px; letter-spacing: 16px; margin-right: -16px;
+    color: var(--muted);
+  }
+
+  /* Capa sobre a divisa — o peek. Mesmo traço do app: borda preta grossa e
+     sombra hard deslocada. */
+  .cover {
+    position: absolute; width: 420px; height: 336px;
+    border: 7px solid var(--ink); border-radius: 26px; overflow: hidden;
+    box-shadow: 12px 14px 0 var(--ink);
+    z-index: 3;
+  }
+  .cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+</style>
+</head>
+<body>
+<div id="stage"><div id="rule"></div></div>
+
+<script>
+const W = 1242, H = 2688;
+
+// Para trocar um screenshot: substitua img/<shot>.png pelo original em
+// resolução cheia (qualquer tamanho com proporção de iPhone).
+const frames = [
+  { shot: 'library',   title: 'Fifty stories.',          sub: 'From every corner of the world.' },
+  { shot: 'home',      title: 'One a week.',             sub: 'Read slowly. On purpose.' },
+  { shot: 'detail',    title: 'Fifteen minutes.',        sub: 'Three chapters, one evening.' },
+  { shot: 'reader',    title: 'Prose that trusts them.', sub: 'Written for readers ten and up.' },
+  { shot: 'languages', title: 'In their language.',      sub: 'Every story, translated on the device.' },
+  { shot: 'paywall',   title: 'The whole shelf.',        sub: 'One membership. Every story.' },
+];
+const N = frames.length;
+
+// Uma capa em cada divisa, no vão entre dois celulares.
+const seams = [
+  { id: 'lantern-of-hoi-an',  y: 1330, r: -6 },
+  { id: 'whale-road',         y: 1930, r:  5 },
+  { id: 'paper-makers-house', y: 1380, r: -5 },
+  { id: 'hut-on-the-strait',  y: 1900, r:  6 },
+  { id: 'sky-mirror',         y: 1350, r: -6 },
+];
+
+const stage = document.getElementById('stage');
+const pad = n => String(n).padStart(2, '0');
+
+frames.forEach((f, i) => {
+  const el = document.createElement('section');
+  el.className = 'frame';
+  el.style.left = (i * W) + 'px';
+  el.innerHTML = `
+    <h1>${f.title}</h1>
+    <p class="sub">${f.sub}</p>
+    <div class="phone"><img src="img/${f.shot}.png" alt=""></div>
+    <div class="count">${pad(i + 1)} / ${pad(N)}</div>
+    <div class="mark">PEDAGOGY</div>`;
+  stage.appendChild(el);
+});
+
+// Pontos: nas bordas externas da panorâmica e em cada divisa.
+for (let i = 0; i <= N; i++) {
+  const d = document.createElement('div');
+  d.className = 'dot';
+  d.style.left = (i === 0 ? 60 : i === N ? N * W - 60 : i * W) + 'px';
+  stage.appendChild(d);
+}
+
+seams.forEach((s, i) => {
+  const c = document.createElement('div');
+  c.className = 'cover';
+  c.style.left = ((i + 1) * W - 210) + 'px';
+  c.style.top = (s.y - 168) + 'px';
+  c.style.transform = `rotate(${s.r}deg)`;
+  c.innerHTML = `<img src="img/cover-${s.id}.png" alt="">`;
+  stage.appendChild(c);
+});
+
+// Títulos longos encolhem até caber — "Prose that trusts them." não cabe
+// no mesmo corpo de "One a week.".
+document.fonts.ready.then(() => {
+  document.querySelectorAll('h1').forEach(h => {
+    let size = 150;
+    while (h.scrollWidth > h.clientWidth && size > 60) h.style.fontSize = (size -= 2) + 'px';
+  });
+});
+
+// ?f=0..5 renderiza um quadro; ?f=all renderiza a panorâmica.
+const f = new URLSearchParams(location.search).get('f') ?? '0';
+if (f === 'all') document.body.classList.add('all');
+else stage.style.transform = `translateX(${-Number(f) * W}px)`;
+</script>
+</body>
+</html>

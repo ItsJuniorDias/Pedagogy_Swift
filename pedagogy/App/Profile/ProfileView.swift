@@ -193,41 +193,92 @@ private struct Header: View {
 
 /// Idioma de leitura das histórias. Mesmo estado do menu de tradução no
 /// reader. Padrão: inglês original.
+///
+/// Mesmo acabamento do `ReadingStatsCard` (borda grossa + sombra hard). O
+/// nome do idioma fica em destaque à esquerda e o seletor é só um botão
+/// "Change" — nomes como "Português (Brasil)" não cabem ao lado de um título
+/// sem quebrar linha.
 private struct TranslationCard: View {
     @Environment(TranslationStore.self) private var translation
 
+    private var languageName: String {
+        translation.targetLanguage.map(TranslationStore.displayName(of:)) ?? "English"
+    }
+
     private var footnote: String {
         if let error = translation.lastError { return error }
-        if translation.targetLanguage != nil, translation.availability == .unavailable {
+        guard translation.targetLanguage != nil else {
+            return "Stories are in their original English. Pick a language to translate them on this device."
+        }
+        if translation.availability == .unavailable {
             return "This language isn't available on this device."
         }
         return "Translated on this device. Narration stays in English."
     }
 
     var body: some View {
-        VStack(alignment: .leading, spacing: Theme.Space.xs) {
-            HStack {
-                Label("Story language", systemImage: "translate")
-                    .font(.ui(15, weight: .semibold))
-                    .foregroundStyle(Theme.Colors.ink)
+        VStack(alignment: .leading, spacing: Theme.Space.md) {
+            HStack(alignment: .center, spacing: Theme.Space.md) {
+                VStack(alignment: .leading, spacing: 2) {
+                    Text("STORY LANGUAGE")
+                        .font(.ui(10, weight: .bold))
+                        .tracking(1.0)
+                        .foregroundStyle(Theme.Colors.textMuted)
 
-                Spacer()
+                    Text(languageName)
+                        .font(.display(22, weight: .bold))
+                        .foregroundStyle(Theme.Colors.ink)
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.7)
+                }
 
-                TranslationLanguagePicker()
-                    .pickerStyle(.menu)
-                    .tint(Theme.Colors.primary)
+                Spacer(minLength: 0)
+
+                Menu {
+                    TranslationLanguagePicker()
+                } label: {
+                    HStack(spacing: 6) {
+                        Image(systemName: "translate")
+                            .font(.system(size: 12, weight: .bold))
+                        Text("Change")
+                            .font(.ui(13, weight: .bold))
+                    }
+                    .foregroundStyle(Theme.Colors.onAccent)
+                    .padding(.horizontal, Theme.Space.md)
+                    .padding(.vertical, Theme.Space.sm)
+                    .background(
+                        Capsule()
+                            .fill(Theme.Colors.primary)
+                            .overlay(
+                                Capsule()
+                                    .stroke(Theme.Colors.stroke, lineWidth: Theme.Stroke.thin)
+                            )
+                    )
+                    .fixedSize()
+                }
+                .accessibilityLabel("Change story language, currently \(languageName)")
             }
+
+            Rectangle()
+                .fill(Theme.Colors.border)
+                .frame(height: Theme.Stroke.hair)
 
             Text(footnote)
                 .font(.ui(12, weight: .regular))
                 .foregroundStyle(Theme.Colors.textMuted)
+                .fixedSize(horizontal: false, vertical: true)
         }
         .padding(Theme.Space.lg)
+        .frame(maxWidth: .infinity, alignment: .leading)
         .background(Theme.Colors.surface)
         .clipShape(RoundedRectangle(cornerRadius: Theme.Radius.md))
         .overlay(
             RoundedRectangle(cornerRadius: Theme.Radius.md)
-                .stroke(Theme.Colors.border, lineWidth: Theme.Stroke.hair)
+                .stroke(Theme.Colors.stroke, lineWidth: Theme.Stroke.thick)
+        )
+        .hardShadow(
+            RoundedRectangle(cornerRadius: Theme.Radius.md),
+            offset: CGSize(width: 4, height: 5)
         )
     }
 }
