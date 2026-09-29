@@ -5,3 +5,7 @@ shorts/*/build/
 
 # Clássicos e filmes abertos: fontes baixadas, metadados e revisão (~2 GB, regeneráveis)
 classics/build/
+
+# macOS e estado pessoal do Xcode — mudam a cada uso, não pertencem ao repo
+.DS_Store
+xcuserdata/
