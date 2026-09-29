@@ -9,3 +9,6 @@ classics/build/
 # macOS e estado pessoal do Xcode — mudam a cada uso, não pertencem ao repo
 .DS_Store
 xcuserdata/
+
+# Backup automático do Blender a cada save
+*.blend1

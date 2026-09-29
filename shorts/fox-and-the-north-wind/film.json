@@ -1,0 +1,871 @@
+{
+ "id": "fox-and-the-north-wind",
+ "title": "The Fox and the North Wind",
+ "logline": "When the north wind blows for three nights, a white fox comes to the door and must be given a gift. This time, Nell has to answer.",
+ "isPremium": false,
+ "publishedAt": null,
+ "posterShot": "s15",
+ "style": "Mike Mignola style adapted for children ages 9-11: heavy black inks, thick confident brushstrokes, flat shadows with no gradients or soft shading, warm cream and sepia palette with deep Arctic blue night, red-painted Swedish wood. Cozy but atmospheric, never scary. Hand-inked animated film look, 2D, painterly flat colour, cinematic 16:9 composition. No text, no letters, no typography, no captions, no watermark. No fire or flames unless the description explicitly asks for them.",
+ "motionStyle": "Cut-paper 2.5D animation: flat illustrated layers moving in depth, gentle parallax, slow camera, no morphing, no text appearing.",
+ "voices": {
+  "narrator": {
+   "voice": "flux-alexis-en",
+   "notes": "Warm, unhurried storyteller reading a bedtime story to a 10-year-old. Gentle pauses at commas. Never theatrical.",
+   "alternatives": [
+    "flux-sean-en (masc., maduro, britânico, calmo)",
+    "flux-elise-en (fem., adulta, calma)",
+    "flux-colin-en (masc., adulto, britânico, caloroso)"
+   ]
+  },
+  "farmor": {
+   "voice": "flux-brittany-en",
+   "notes": "An old Swedish grandmother speaking English carefully, with small pauses, the way people do when translating in their head. Quiet, warm, a little solemn.",
+   "alternatives": [
+    "flux-bree-en (fem., madura, doce)",
+    "flux-maeve-en (fem., adulta, irlandesa, gentil)"
+   ]
+  },
+  "nell": {
+   "voice": "flux-hannah-en",
+   "notes": "A curious, brave 10-year-old girl. Natural and soft, a little breathless when nervous.",
+   "alternatives": [
+    "flux-gemma-en (fem., jovem, britânica, alegre)",
+    "flux-heather-en (fem., jovem, animada)",
+    "flux-brooke-en (fem., jovem, rápida)"
+   ]
+  }
+ },
+ "characters": {
+  "nell": {
+   "description": "Nell, a 10-year-old girl with long straight brown hair, rosy cheeks and brown eyes, wearing a dark grey wool coat, a knitted hat and snow boots",
+   "refPrompt": "Character model sheet of Nell, a 10-year-old girl with long straight brown hair, rosy cheeks and brown eyes, wearing a dark grey wool coat, a knitted hat and snow boots. Three views side by side: front, three-quarter, side. Full body, neutral pose, plain cream paper background."
+  },
+  "farmor": {
+   "description": "Farmor Astrid, a small, quiet elderly Swedish woman with a long white braid down her back, a soft face with deep smile lines, wearing a dark red knitted cardigan over a long grey wool skirt",
+   "refPrompt": "Character model sheet of Farmor Astrid, a small, quiet elderly Swedish woman with a long white braid down her back, a soft face with deep smile lines, wearing a dark red knitted cardigan over a long grey wool skirt. Three views side by side: front, three-quarter, side. Full body, neutral pose, plain cream paper background."
+  },
+  "fox": {
+   "description": "a small pure-white arctic fox with very soft thick fur, a bushy tail and warm dark-gold amber eyes",
+   "refPrompt": "Model sheet of a small pure-white arctic fox with very soft thick fur, a bushy tail and warm dark-gold amber eyes. Four poses side by side: sitting upright, walking, bowing its head, trotting away. Plain cream paper background."
+  },
+  "sailor": {
+   "description": "a thin, tired 19th-century Swedish sailor in a heavy dark-blue pea coat and a knitted cap, short dark beard, shoulders hunched against the cold, frost on his coat",
+   "refPrompt": "Character model sheet of a thin, tired 19th-century Swedish sailor in a heavy dark-blue pea coat and a knitted cap, short dark beard, shoulders hunched against the cold, frost on his coat, hands tucked under his arms. He carries nothing. Front and side views, full body, plain cream paper background. No fire, no flames, no lantern."
+  },
+  "youngfarmor": {
+   "description": "young Astrid at 20, slim, with a long blonde braid, wearing the same dark red knitted cardigan over a long grey wool skirt",
+   "refPrompt": "Character model sheet of young Astrid, a slim Swedish woman of 20 with a long blonde braid, wearing a dark red knitted cardigan over a long grey wool skirt, hands empty and relaxed at her sides. Front and three-quarter views, full body, plain cream paper background. No tools, no weapons, nothing in her hands."
+  },
+  "mans": {
+   "description": "Måns, a fat grey tabby cat",
+   "refPrompt": "Model sheet of Måns, a fat grey tabby cat: sleeping curled in a basket, and sitting. Plain cream paper background."
+  },
+  "house": {
+   "description": "Farmor's small red-painted wooden Swedish house with white window frames, at the edge of a frozen lake near the village of Jokkmokk, snowy pine forest behind",
+   "refPrompt": "Establishing concept art: a small red-painted wooden Swedish house with white window frames at the edge of a frozen lake in Swedish Lapland, snowy pine forest behind, deep blue Arctic winter sky. Wide shot, no characters."
+  },
+  "livingroom": {
+   "description": "the warm inside of Farmor's house: a black wood stove with a glowing fire, a reindeer-hide rug, a shelf of small carved wooden animals, a cat basket, two wooden chairs",
+   "refPrompt": "Interior concept art of a cosy Swedish cottage living room: a black wood stove with a glowing fire, a reindeer-hide rug, a shelf of small carved wooden animals, a cat basket and two wooden chairs pulled up to the stove. No characters."
+  }
+ },
+ "shots": [
+  {
+   "id": "s01",
+   "scene": "house",
+   "duration": 13,
+   "transition": "fade",
+   "characters": [
+    "house"
+   ],
+   "keyframe": "Wide establishing shot of the village of Jokkmokk under a deep blue Arctic sky at midday twilight; Farmor's small red house at the edge of the frozen lake, pine forest layered behind.",
+   "motion": "Very slow push in through the layers of pines.",
+   "sfx": "soft wind over snow",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Above the Arctic Circle, in the north of Sweden, the winter sun rises at ten and sets at one. The rest of the day is deep blue, turning to black.",
+     "at": 0.6,
+     "seconds": 10.94
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "scene": "house",
+   "duration": 10,
+   "transition": "cut",
+   "characters": [
+    "nell",
+    "house"
+   ],
+   "keyframe": "Nell walks through deep snow towards the red house, pulling a small suitcase; one window glows warm yellow.",
+   "motion": "Nell trudges forward, breath clouding.",
+   "sfx": "crunching footsteps in snow",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is where Nell spent Christmas when she was ten, in her grandmother's small red house at the edge of a frozen lake.",
+     "at": 0.6,
+     "seconds": 6.62
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "scene": "living",
+   "duration": 11,
+   "transition": "fade",
+   "characters": [
+    "farmor",
+    "nell",
+    "mans",
+    "livingroom"
+   ],
+   "keyframe": "Inside by the wood stove: Farmor, white braid down her back, pulls two wooden chairs to the fire; Måns sleeps in his basket; Nell wrapped in a blanket.",
+   "motion": "Farmor sets the chairs down and sits; firelight flickers.",
+   "sfx": "crackling wood fire",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Farmor Astrid was small and quiet, with a white braid down her back.",
+     "at": 0.6,
+     "seconds": 5.26
+    },
+    {
+     "who": "farmor",
+     "text": "There is a story I need to tell you.",
+     "at": 6.36,
+     "seconds": 2.3
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "scene": "flashback",
+   "duration": 14,
+   "transition": "fade",
+   "characters": [
+    "sailor",
+    "fox"
+   ],
+   "keyframe": "Flashback in cut-paper silhouettes and blue tones: a sailor lost in a snowy forest follows a small floating light between the trees; at his own door the light becomes a small white fox.",
+   "motion": "The light drifts ahead; the sailor follows; the light settles into the shape of a fox.",
+   "sfx": "howling wind, then silence",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Long ago, a sailor in our family was lost in the winter forest. A light led him home, and at his door, the light became a small white fox with amber eyes.",
+     "at": 0.6,
+     "seconds": 9.41
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "scene": "flashback",
+   "duration": 10,
+   "transition": "cut",
+   "characters": [
+    "fox"
+   ],
+   "keyframe": "Flashback montage on the same doorstep across generations: a coin, a piece of bread, a feather left in the snow; fox tracks leading to each.",
+   "motion": "Each gift appears in turn on the step.",
+   "sfx": "soft wind",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "When the north wind blows for three nights, the fox comes to the door. And a gift must be given. Honestly.",
+     "at": 0.6,
+     "seconds": 8.86
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "scene": "living",
+   "duration": 6,
+   "transition": "fade",
+   "characters": [
+    "nell",
+    "farmor",
+    "livingroom"
+   ],
+   "keyframe": "Close two-shot of Nell and Farmor lit by the fire.",
+   "motion": "Nell leans in; Farmor looks into the flames.",
+   "sfx": "crackling fire",
+   "lines": [
+    {
+     "who": "nell",
+     "text": "And if you don't?",
+     "at": 0.6,
+     "seconds": 1.1
+    },
+    {
+     "who": "farmor",
+     "text": "Then the fox takes something else.",
+     "at": 2.2,
+     "seconds": 2.3
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "scene": "bedroom",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "nell"
+   ],
+   "keyframe": "Night, Nell's small bedroom; snow streams sideways past the window; Nell gets out of bed.",
+   "motion": "The wind shakes the window; Nell crosses to it.",
+   "sfx": "low humming north wind",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That night, the wind came out of the north, humming one long, low note around the corners of the house.",
+     "at": 0.6,
+     "seconds": 5.81
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "scene": "house",
+   "duration": 6,
+   "transition": "cut",
+   "characters": [
+    "house"
+   ],
+   "keyframe": "The moonlit yard seen from the window: small fresh fox tracks lead through bright snow right up to the front door.",
+   "motion": "Slow tilt down along the tracks to the door.",
+   "sfx": "wind",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the snow by the front door, small tracks. Fox tracks. Fresh.",
+     "at": 0.6,
+     "seconds": 5.42
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "scene": "kitchen",
+   "duration": 6,
+   "transition": "fade",
+   "characters": [
+    "farmor"
+   ],
+   "keyframe": "Morning blue light; Farmor at the kitchen window holding a cup of coffee, the wind still bending the pines outside.",
+   "motion": "Farmor sips, watching.",
+   "sfx": "wind, a clock ticking",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "Two nights. One more, and the fox will come.",
+     "at": 0.6,
+     "seconds": 3.26
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "scene": "kitchen",
+   "duration": 6,
+   "transition": "cut",
+   "characters": [
+    "farmor",
+    "nell"
+   ],
+   "keyframe": "Kitchen table: Farmor blows dust off a very small old wooden box with a lid that does not quite fit; she opens it; it is empty.",
+   "motion": "Dust lifts in the light; the lid opens.",
+   "sfx": "a soft breath, a wooden creak",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Farmor brought out the old offering box. It was empty.",
+     "at": 0.6,
+     "seconds": 5.09
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "scene": "flashback",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "youngfarmor",
+    "fox"
+   ],
+   "keyframe": "Flashback in blue tones: young Astrid holds out a gold necklace on the doorstep; the white fox looks at it, then at her, and turns away. Then: an empty ring dish on a dresser.",
+   "motion": "The fox turns and leaves; cut to the empty dish.",
+   "sfx": "wind",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "Once, I gave a gold necklace. The fox looked at it, and left. The next morning, my father's silver ring was gone.",
+     "at": 0.6,
+     "seconds": 8.45
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "scene": "kitchen",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "nell",
+    "farmor"
+   ],
+   "keyframe": "Nell and Farmor baking bread together, flour on the table, the wind rattling the windows.",
+   "motion": "Farmor stops kneading and looks at Nell.",
+   "sfx": "wind at the windows",
+   "lines": [
+    {
+     "who": "nell",
+     "text": "What did the sailor do that worked?",
+     "at": 0.6,
+     "seconds": 1.97
+    },
+    {
+     "who": "farmor",
+     "text": "He was frightened, and alone in the trees. So he sang.",
+     "at": 3.07,
+     "seconds": 4.78
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "scene": "bedroom",
+   "duration": 6,
+   "transition": "fade",
+   "characters": [
+    "nell"
+   ],
+   "keyframe": "Nell lies awake in bed in the dark, eyes open, moonlight across the quilt.",
+   "motion": "Slow push in on Nell's face.",
+   "sfx": "wind",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By morning, Nell knew what she would give.",
+     "at": 0.6,
+     "seconds": 2.69
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "scene": "living",
+   "duration": 6,
+   "transition": "fade",
+   "characters": [
+    "nell",
+    "farmor"
+   ],
+   "keyframe": "The third night by the front door: Nell in boots, coat and knitted hat; Farmor places the small wooden box in her hands.",
+   "motion": "Farmor nods once.",
+   "sfx": "wind outside",
+   "lines": [
+    {
+     "who": "nell",
+     "text": "I need to do this on my own.",
+     "at": 0.6,
+     "seconds": 1.9
+    }
+   ]
+  },
+  {
+   "id": "s15",
+   "scene": "house",
+   "duration": 7,
+   "transition": "cut",
+   "characters": [
+    "nell",
+    "fox",
+    "house"
+   ],
+   "keyframe": "The doorstep in bright moonlight; the small white fox steps out of the pines and sits in the snow a metre from Nell.",
+   "motion": "The fox emerges and sits very still.",
+   "sfx": "wind softening",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The fox was smaller than she had expected. White as the snow. Eyes of amber.",
+     "at": 0.6,
+     "seconds": 5.33
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "scene": "house",
+   "duration": 16,
+   "transition": "cut",
+   "characters": [
+    "nell",
+    "fox",
+    "house"
+   ],
+   "keyframe": "Nell kneels, sets the wooden box on the step and sings; the wind drops, snowflakes slow, the pines stand still.",
+   "motion": "Snow slows almost to a stop around them.",
+   "sfx": "the wind falling silent",
+   "lines": [
+    {
+     "who": "nell",
+     "text": "Vem kan segla förutan vind, vem kan ro utan åror.",
+     "at": 0.6,
+     "seconds": 6.7
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "scene": "house",
+   "duration": 7,
+   "transition": "cut",
+   "characters": [
+    "fox",
+    "nell",
+    "house"
+   ],
+   "keyframe": "The fox walks to the box, looks up at Nell, bows its head once, then turns and disappears into the trees.",
+   "motion": "The bow, slow and deliberate; the fox trots away.",
+   "sfx": "soft paws in snow",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The fox bowed its head, once, like someone accepting a gift, and was gone.",
+     "at": 0.6,
+     "seconds": 4.54
+    }
+   ]
+  },
+  {
+   "id": "s18",
+   "scene": "living",
+   "duration": 6,
+   "transition": "fade",
+   "characters": [
+    "farmor",
+    "nell",
+    "livingroom"
+   ],
+   "keyframe": "By the fire: Farmor sees the empty box in Nell's hands and her eyes fill with tears.",
+   "motion": "Farmor puts a hand over her mouth, then an arm around Nell.",
+   "sfx": "crackling fire",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "You sang.",
+     "at": 0.6,
+     "seconds": 1.34
+    },
+    {
+     "who": "nell",
+     "text": "Mama's lullaby.",
+     "at": 2.44,
+     "seconds": 1.42
+    },
+    {
+     "who": "farmor",
+     "text": "My mother's song.",
+     "at": 4.36,
+     "seconds": 1.73
+    }
+   ]
+  },
+  {
+   "id": "s19",
+   "scene": "kitchen",
+   "duration": 6,
+   "transition": "fade",
+   "characters": [
+    "farmor"
+   ],
+   "keyframe": "Morning: Farmor writes the verses in careful spidery handwriting, folds the paper and places it inside the small box.",
+   "motion": "She closes the lid gently.",
+   "sfx": "pen scratching, calm silence",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "For the next one. In case they don't remember the words.",
+     "at": 0.6,
+     "seconds": 4.13
+    }
+   ]
+  },
+  {
+   "id": "s20",
+   "scene": "forest",
+   "duration": 7,
+   "transition": "fade",
+   "characters": [
+    "fox"
+   ],
+   "keyframe": "The still snowy forest at dawn; far off, the small white fox trots home between the pines.",
+   "motion": "The fox grows smaller in the distance.",
+   "sfx": "silence, a faint music-box melody",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere far off, a small white fox carried something home that only it could hear.",
+     "at": 0.6,
+     "seconds": 6.46
+    }
+   ]
+  }
+ ],
+ "layers": [
+  {
+   "id": "house/sky",
+   "prompt": "ONLY the night sky: deep blue Arctic night with a crescent moon, scattered stars and a faint green aurora ribbon low on the horizon. Absolutely no trees, no ground, no house, no snow. The sky must fill the entire frame edge to edge with no black bars.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": false
+  },
+  {
+   "id": "house/far",
+   "prompt": "ONLY a distant ridge of small snow-covered pine trees, drawn as one long low band across the lower third of the frame, from the left edge to the right edge. No sky, no house, no moon, no foreground.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "house/mid",
+   "prompt": "ONLY a small red-painted wooden Swedish house with white window frames and one warmly lit window, a small front doorstep with two wooden steps, standing on a flat strip of snowy ground with a frozen lake in front. The house sits right of centre. No sky, no trees, no moon.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "house/near",
+   "prompt": "ONLY foreground framing: one tall dark snow-laden pine tree on the far left edge and one on the far right edge, and a soft snowbank along the bottom edge. Everything else is empty.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "living/back",
+   "prompt": "The back wall of a cosy Swedish cottage living room: red wooden plank walls, a black wood stove with a glowing fire in the centre, a shelf of small carved wooden animals above it, a small window with blue night and stars on the right, the front door on the left.",
+   "refs": [
+    "livingroom"
+   ],
+   "aspect": "16:9",
+   "alpha": false
+  },
+  {
+   "id": "living/mid",
+   "prompt": "ONLY furniture, no walls, no stove, no window: a reindeer-hide rug on a strip of wooden floor, two wooden chairs facing away from the viewer, and a woven cat basket with a cushion, arranged across the lower half of the frame.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "living/near",
+   "prompt": "Dark foreground framing: the edge of a wooden ceiling beam along the top and the silhouette of a table corner in the bottom-left corner. The centre is empty.",
+   "refs": [
+    "livingroom"
+   ],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "bedroom/back",
+   "prompt": "A small attic bedroom wall in a Swedish cottage at night: a window in the centre with snow blowing sideways past it and moonlight, sloping wooden ceiling, a small picture on the wall.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": false
+  },
+  {
+   "id": "bedroom/mid",
+   "prompt": "A small wooden bed with a thick patterned quilt and a pillow, seen from the side, across the lower half of the frame.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "bedroom/near",
+   "prompt": "ONLY a small dark wooden bedside table with an unlit candle in a holder, standing against the left edge of the frame. Nothing else, no frame, no border, no outline.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "kitchen/back",
+   "prompt": "A Swedish cottage kitchen wall in cold morning light: a window with snow-bent pines outside, wooden shelves with jars and blue-and-white plates, a wall clock.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": false
+  },
+  {
+   "id": "kitchen/mid",
+   "prompt": "ONLY a worn wooden kitchen table seen from the front, dusted with flour, with a bowl of pale bread dough on it. No fire, no steam, no shadow.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "forest/sky",
+   "prompt": "A pale Arctic dawn sky, soft blue fading to pale peach near the horizon. Sky only.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": false
+  },
+  {
+   "id": "forest/far",
+   "prompt": "Distant rows of snowy pines, pale and misty, in a band across the middle of the frame.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "forest/mid",
+   "prompt": "ONLY a few mid-distance snow-laden pine trees on either side and a gentle snowy path winding towards the centre, drawn directly on the background with no frame, no border and no rectangle around it. No sky.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "forest/near",
+   "prompt": "Foreground framing: dark snow-laden pine branches reaching in from the top corners and left edge. The centre is empty.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "flashback/back",
+   "prompt": "An old wooden front door of a Swedish farmhouse at night, drawn entirely in shades of blue like a memory, with snow on the doorstep.",
+   "refs": [],
+   "aspect": "16:9",
+   "alpha": false
+  },
+  {
+   "id": "nell/walk-suitcase",
+   "prompt": "Nell walking to the right through snow, pulling a small brown suitcase, breath visible. Full body unless stated.",
+   "refs": [
+    "nell"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "nell/sit-blanket",
+   "prompt": "Nell sitting on a wooden chair wrapped in a thick blanket, seen from the side, listening intently. Full body unless stated.",
+   "refs": [
+    "nell"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "nell/nightgown-window",
+   "prompt": "Nell in a long white nightgown and bare feet, standing and looking out, seen from behind at three-quarter. Full body unless stated.",
+   "refs": [
+    "nell"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "nell/in-bed",
+   "prompt": "Nell's head and shoulders on a pillow, eyes open in the dark, the quilt pulled up to her chin. Only Nell, no bed frame. Full body unless stated.",
+   "refs": [
+    "nell"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "nell/hold-box",
+   "prompt": "Nell in coat, knitted hat and boots, holding a small old wooden box in both hands, determined. Full body unless stated.",
+   "refs": [
+    "nell"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "nell/kneel-sing",
+   "prompt": "Nell kneeling in the snow, eyes half closed, singing softly, hands resting on her knees. Full body unless stated.",
+   "refs": [
+    "nell"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "farmor/sit-stove",
+   "prompt": "Farmor sitting on a wooden chair, hands folded, telling a story, seen from the side. Full body unless stated.",
+   "refs": [
+    "farmor"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "farmor/coffee",
+   "prompt": "Farmor standing, holding a cup of coffee in both hands, looking out to the left. Full body unless stated.",
+   "refs": [
+    "farmor"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "farmor/knead",
+   "prompt": "Farmor standing behind a table height, kneading dough, looking up, seen from the front, cropped at the waist. Full body unless stated.",
+   "refs": [
+    "farmor"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "farmor/give-box",
+   "prompt": "Farmor standing and holding out a small old wooden box with both hands. Full body unless stated.",
+   "refs": [
+    "farmor"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "farmor/tears",
+   "prompt": "Farmor sitting, one hand over her mouth, eyes full of tears, moved. Full body unless stated.",
+   "refs": [
+    "farmor"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "farmor/write",
+   "prompt": "Farmor seated at a table height, writing carefully with a pen, cropped at the waist. Full body unless stated.",
+   "refs": [
+    "farmor"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "fox/sit",
+   "prompt": "The white fox sitting upright in profile facing left, tail curled around its paws. Full body unless stated.",
+   "refs": [
+    "fox"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "fox/walk",
+   "prompt": "The white fox walking to the left, in profile, all four paws visible. Only the fox: no shapes, no splashes, no ground under it.",
+   "refs": [
+    "fox"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "fox/bow",
+   "prompt": "The white fox bowing its head slowly, in profile facing left. Full body unless stated.",
+   "refs": [
+    "fox"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "fox/trot",
+   "prompt": "The white fox trotting away to the right, seen from behind at three-quarter. Full body unless stated.",
+   "refs": [
+    "fox"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "sailor/walk",
+   "prompt": "The sailor trudging to the right through deep snow, hunched against the cold. Full body unless stated.",
+   "refs": [
+    "sailor"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "youngfarmor/necklace",
+   "prompt": "Young Astrid standing and holding out a gold necklace towards the left, anxious. Full body unless stated.",
+   "refs": [
+    "youngfarmor"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "mans/sleep",
+   "prompt": "Måns the grey tabby cat curled asleep in a woven basket with a cushion. Full body unless stated.",
+   "refs": [
+    "mans"
+   ],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "props/box-closed",
+   "prompt": "ONLY a tiny plain old wooden trinket box, about the size of a matchbox, dark worn wood, simple lid that does not quite fit, no metal fittings, no carvings. Closed. Nothing else in the image.",
+   "refs": [],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "props/box-open",
+   "prompt": "ONLY the same tiny plain old wooden trinket box, lid open, completely empty inside. No fire, no light, no glow. Nothing else in the image.",
+   "refs": [],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "props/coin",
+   "prompt": "ONLY one old silver coin, seen slightly from above. Nothing else in the image: no snow, no box, no ground.",
+   "refs": [],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "props/bread",
+   "prompt": "ONLY one small round loaf of bread. Nothing else in the image: no snow, no house, no ground.",
+   "refs": [],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "props/feather",
+   "prompt": "A single grey feather lying in snow.",
+   "refs": [],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "props/necklace",
+   "prompt": "A gold necklace with a small pendant.",
+   "refs": [],
+   "aspect": "1:1",
+   "alpha": true
+  },
+  {
+   "id": "props/ring-dish",
+   "prompt": "A small empty porcelain ring dish.",
+   "refs": [],
+   "aspect": "1:1",
+   "alpha": true
+  }
+ ],
+ "models": {
+  "tts": "deepgram/flux-tts:free"
+ }
+}
