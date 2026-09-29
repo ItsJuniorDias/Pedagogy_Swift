@@ -13,6 +13,19 @@
     "license": "CC BY 4.0"
   },
   {
+    "id": "the-gem-of-alukar",
+    "kind": "open",
+    "title": "The Gem of Alukar",
+    "logline": "Talking animals, magic plants and a hidden treasure deep in an enchanted forest.",
+    "durationSeconds": 120,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2024,
+    "credit": "Destrin Productions",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3AGem_of_Alukar%2C_The_%282024%29.ogv",
+    "license": "CC BY 3.0"
+  },
+  {
     "id": "wing-it",
     "kind": "open",
     "title": "Wing It!",
@@ -65,6 +78,32 @@
     "license": "CC BY-SA 4.0"
   },
   {
+    "id": "dream",
+    "kind": "open",
+    "title": "Dream",
+    "logline": "A boy who dreams of the stars finds a way to reach them, at least in his sleep.",
+    "durationSeconds": 289,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2021,
+    "credit": "Hoang Nguyen & Giang Hoang",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3AHoang_Nguyen_and_Giang_Hoang_-_Dream_%282021%29.webm",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "id": "fossils",
+    "kind": "open",
+    "title": "Fossils",
+    "logline": "Two explorers dig for dinosaur bones, to the music of Saint-Saëns' Carnival of the Animals.",
+    "durationSeconds": 140,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2021,
+    "credit": "Piti Yindee",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3APiti_Yindee_-_Fossils_%282021%29.webm",
+    "license": "Public domain"
+  },
+  {
     "id": "coffee-run",
     "kind": "open",
     "title": "Coffee Run",
@@ -76,6 +115,19 @@
     "credit": "Hjalti Hjálmarsson / Blender Foundation",
     "sourceURL": "https://studio.blender.org/projects/coffee-run/",
     "license": "CC BY 4.0"
+  },
+  {
+    "id": "imagine",
+    "kind": "open",
+    "title": "Imagine",
+    "logline": "A peaceful, magical flight through an artist's imagination.",
+    "durationSeconds": 263,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2020,
+    "credit": "Lava Hijzelaar",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3ALava_Hijzelaar_-_Imagine_%282020%29.webm",
+    "license": "CC BY 3.0"
   },
   {
     "id": "spring",
@@ -91,6 +143,19 @@
     "license": "CC BY 4.0"
   },
   {
+    "id": "wormdog",
+    "kind": "open",
+    "title": "Wormdog",
+    "logline": "Meet Wormdog: half worm, half dog, and all best friend.",
+    "durationSeconds": 107,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2019,
+    "credit": "Simone Kousol Graham",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3ASimone_Kousol_Graham_-_Wormdog_%282019%29.webm",
+    "license": "CC BY 3.0"
+  },
+  {
     "id": "hero",
     "kind": "open",
     "title": "Hero",
@@ -102,6 +167,32 @@
     "credit": "Daniel M. Lara / Blender Foundation",
     "sourceURL": "https://studio.blender.org/projects/hero/",
     "license": "CC BY 4.0"
+  },
+  {
+    "id": "poached",
+    "kind": "open",
+    "title": "Poached",
+    "logline": "A cheerful magpie who dreams of being a mom adopts a duckling. Raising it is harder than it looks.",
+    "durationSeconds": 201,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2018,
+    "credit": "Isabel Waller / School of Visual Arts",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3AIsabel_Waller_-_Poached_%282018%29.webm",
+    "license": "CC BY 3.0"
+  },
+  {
+    "id": "butterflies",
+    "kind": "open",
+    "title": "Butterflies",
+    "logline": "Peter gets butterflies in his stomach every time he sees Robin. Real ones.",
+    "durationSeconds": 134,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2018,
+    "credit": "Abby Boyce",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3AAbby_Boyce_-_Butterflies_%282018%29.webm",
+    "license": "CC BY 3.0"
   },
   {
     "id": "the-daily-dweebs",
@@ -143,6 +234,32 @@
     "license": "CC BY-SA 4.0"
   },
   {
+    "id": "bye-bye-birdy",
+    "kind": "open",
+    "title": "Bye Bye Birdy",
+    "logline": "A farmer, one very stubborn bird, and a tractor that should never have left the barn.",
+    "durationSeconds": 84,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2017,
+    "credit": "Clément Masson",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3AClement_Masson_-_Bye_Bye_Birdy_%282017%29.webm",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "id": "oo",
+    "kind": "open",
+    "title": "(OO)",
+    "logline": "A day in the life of one very busy, very sneezy pair of nostrils.",
+    "durationSeconds": 369,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2017,
+    "credit": "Seoro Oh",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3A%28OO%29_-_Animation_Short_Film_%282017%29.webm",
+    "license": "CC BY 3.0"
+  },
+  {
     "id": "caminandes-llamigos",
     "kind": "open",
     "title": "Caminandes: Llamigos",
@@ -153,6 +270,19 @@
     "year": 2016,
     "credit": "Pablo Vazquez / Blender Foundation",
     "sourceURL": "https://studio.blender.org/projects/caminandes-3/",
+    "license": "CC BY 3.0"
+  },
+  {
+    "id": "rupee-run",
+    "kind": "open",
+    "title": "Rupee Run",
+    "logline": "A street monkey and a boy race through the city after the same lucky coin.",
+    "durationSeconds": 137,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2016,
+    "credit": "Tarun Lak",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3ATarun_Lak_-_Rupee_Run_%282016%29.webm",
     "license": "CC BY 3.0"
   },
   {
@@ -167,6 +297,45 @@
     "credit": "Beorn Leonard / Blender Foundation",
     "sourceURL": "https://studio.blender.org/projects/glass-half/",
     "license": "CC BY 4.0"
+  },
+  {
+    "id": "fox-tale",
+    "kind": "open",
+    "title": "Fox Tale",
+    "logline": "A vain fox brags about his gorgeous tail. Then he starts trying on everyone else's.",
+    "durationSeconds": 138,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2015,
+    "credit": "Doosun Shin / Ringling College of Art + Design",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3AFox_Tale_-_Official_%282015%29.webm",
+    "license": "CC BY 3.0"
+  },
+  {
+    "id": "hutong-meow",
+    "kind": "open",
+    "title": "Hutong Meow",
+    "logline": "One ordinary, curious day in the life of a little cat in the old alleys of Beijing.",
+    "durationSeconds": 184,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2015,
+    "credit": "Kaide Wang",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3AHutong_Meow.webm",
+    "license": "CC BY 3.0"
+  },
+  {
+    "id": "afternoon-class",
+    "kind": "open",
+    "title": "Afternoon Class",
+    "logline": "It's the sleepiest class of the day, and staying awake turns into an epic battle.",
+    "durationSeconds": 230,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2014,
+    "credit": "Seoro Oh",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3AAfternoon_Class_-_Animation_Short_Film_%282014%29.webm",
+    "license": "CC BY 3.0"
   },
   {
     "id": "caminandes-llama-drama",
@@ -193,6 +362,19 @@
     "credit": "Pablo Vazquez / Blender Foundation",
     "sourceURL": "https://studio.blender.org/projects/caminandes-3/",
     "license": "CC BY 3.0"
+  },
+  {
+    "id": "seedling",
+    "kind": "open",
+    "title": "Seedling",
+    "logline": "A tiny green sprout sets out on its own through a big, wild forest.",
+    "durationSeconds": 131,
+    "isPremium": false,
+    "publishedAt": null,
+    "year": 2011,
+    "credit": "Lee Tao",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File%3ALee_Tao_-_Seedling_%282011%29.webm",
+    "license": "CC BY-SA 3.0"
   },
   {
     "id": "big-buck-bunny",

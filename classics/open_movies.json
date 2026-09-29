@@ -1,5 +1,5 @@
 {
-  "_comment": "Filmes abertos na estética dos filmes da Blender, selecionados pra 9–11 anos. Licenças conferidas na fonte primária (Blender Studio, Morevna/Film Freedom). Fora por conteúdo: Sintel, Sprite Fright, Charge, Cosmos Laundromat, Elephants Dream, Tears of Steel. Fora por estética: filmes estudantis do Commons (2D de acabamento variado).",
+  "_comment": "Filmes abertos na estética dos filmes da Blender, selecionados pra 9–11 anos. Licenças conferidas na fonte primária (Blender Studio, Morevna/Film Freedom) ou, pros curtas estudantis, no Commons com o próprio autor como quem publicou sob CC BY. Fora por conteúdo: Sintel, Sprite Fright, Charge, Cosmos Laundromat, Elephants Dream, Tears of Steel, Aki, Tracks, The Blue Bird, My Moon, Colourful, Little Hope, Because of Him. Fora por serem comerciais: Joy & Heron, The Skier. Fora por licença duvidosa (conteúdo de grande estúdio marcado CC BY por canal do YouTube): Nickelodeon, Nelvana, DC, Piñata Smashlings. Fora por estética: curtas 2D de acabamento amador.",
   "movies": [
     {
       "slug": "caminandes-llama-drama",
@@ -165,6 +165,150 @@
       "source": "https://tv.filmfreedom.net/download/streaming-playlists/hls/videos/db9aa244-3997-4029-96c9-bbe0470159ac-1080-fragmented.mp4",
       "sourcePage": "https://tv.filmfreedom.net/w/db9aa244-3997-4029-96c9-bbe0470159ac",
       "posterAt": 60
+    },
+    {
+      "slug": "poached",
+      "title": "Poached",
+      "year": 2018,
+      "logline": "A cheerful magpie who dreams of being a mom adopts a duckling. Raising it is harder than it looks.",
+      "credit": "Isabel Waller / School of Visual Arts",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Isabel Waller - Poached (2018).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AIsabel_Waller_-_Poached_%282018%29.webm"
+    },
+    {
+      "slug": "dream",
+      "title": "Dream",
+      "year": 2021,
+      "logline": "A boy who dreams of the stars finds a way to reach them, at least in his sleep.",
+      "credit": "Hoang Nguyen & Giang Hoang",
+      "license": "CC BY-SA 3.0",
+      "commonsFile": "File:Hoang Nguyen and Giang Hoang - Dream (2021).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHoang_Nguyen_and_Giang_Hoang_-_Dream_%282021%29.webm",
+      "posterAt": 200
+    },
+    {
+      "slug": "rupee-run",
+      "title": "Rupee Run",
+      "year": 2016,
+      "logline": "A street monkey and a boy race through the city after the same lucky coin.",
+      "credit": "Tarun Lak",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Tarun Lak - Rupee Run (2016).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATarun_Lak_-_Rupee_Run_%282016%29.webm"
+    },
+    {
+      "slug": "wormdog",
+      "title": "Wormdog",
+      "year": 2019,
+      "logline": "Meet Wormdog: half worm, half dog, and all best friend.",
+      "credit": "Simone Kousol Graham",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Simone Kousol Graham - Wormdog (2019).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASimone_Kousol_Graham_-_Wormdog_%282019%29.webm"
+    },
+    {
+      "slug": "the-gem-of-alukar",
+      "title": "The Gem of Alukar",
+      "year": 2024,
+      "logline": "Talking animals, magic plants and a hidden treasure deep in an enchanted forest.",
+      "credit": "Destrin Productions",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Gem of Alukar, The (2024).ogv",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGem_of_Alukar%2C_The_%282024%29.ogv"
+    },
+    {
+      "slug": "bye-bye-birdy",
+      "title": "Bye Bye Birdy",
+      "year": 2017,
+      "logline": "A farmer, one very stubborn bird, and a tractor that should never have left the barn.",
+      "credit": "Clément Masson",
+      "license": "CC BY-SA 3.0",
+      "commonsFile": "File:Clement Masson - Bye Bye Birdy (2017).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AClement_Masson_-_Bye_Bye_Birdy_%282017%29.webm"
+    },
+    {
+      "slug": "butterflies",
+      "title": "Butterflies",
+      "year": 2018,
+      "logline": "Peter gets butterflies in his stomach every time he sees Robin. Real ones.",
+      "credit": "Abby Boyce",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Abby Boyce - Butterflies (2018).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAbby_Boyce_-_Butterflies_%282018%29.webm"
+    },
+    {
+      "slug": "imagine",
+      "title": "Imagine",
+      "year": 2020,
+      "logline": "A peaceful, magical flight through an artist's imagination.",
+      "credit": "Lava Hijzelaar",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Lava Hijzelaar - Imagine (2020).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALava_Hijzelaar_-_Imagine_%282020%29.webm"
+    },
+    {
+      "slug": "seedling",
+      "title": "Seedling",
+      "year": 2011,
+      "logline": "A tiny green sprout sets out on its own through a big, wild forest.",
+      "credit": "Lee Tao",
+      "license": "CC BY-SA 3.0",
+      "commonsFile": "File:Lee Tao - Seedling (2011).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALee_Tao_-_Seedling_%282011%29.webm"
+    },
+    {
+      "slug": "afternoon-class",
+      "title": "Afternoon Class",
+      "year": 2014,
+      "logline": "It's the sleepiest class of the day, and staying awake turns into an epic battle.",
+      "credit": "Seoro Oh",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Afternoon Class - Animation Short Film (2014).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAfternoon_Class_-_Animation_Short_Film_%282014%29.webm"
+    },
+    {
+      "slug": "oo",
+      "title": "(OO)",
+      "year": 2017,
+      "logline": "A day in the life of one very busy, very sneezy pair of nostrils.",
+      "credit": "Seoro Oh",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:(OO) - Animation Short Film (2017).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28OO%29_-_Animation_Short_Film_%282017%29.webm",
+      "posterAt": 40
+    },
+    {
+      "slug": "fox-tale",
+      "title": "Fox Tale",
+      "year": 2015,
+      "logline": "A vain fox brags about his gorgeous tail. Then he starts trying on everyone else's.",
+      "credit": "Doosun Shin / Ringling College of Art + Design",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Fox Tale - Official (2015).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFox_Tale_-_Official_%282015%29.webm",
+      "posterAt": 60
+    },
+    {
+      "slug": "hutong-meow",
+      "title": "Hutong Meow",
+      "year": 2015,
+      "logline": "One ordinary, curious day in the life of a little cat in the old alleys of Beijing.",
+      "credit": "Kaide Wang",
+      "license": "CC BY 3.0",
+      "commonsFile": "File:Hutong Meow.webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHutong_Meow.webm",
+      "posterAt": 70
+    },
+    {
+      "slug": "fossils",
+      "title": "Fossils",
+      "year": 2021,
+      "logline": "Two explorers dig for dinosaur bones, to the music of Saint-Saëns' Carnival of the Animals.",
+      "credit": "Piti Yindee",
+      "license": "Public domain",
+      "commonsFile": "File:Piti Yindee - Fossils (2021).webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APiti_Yindee_-_Fossils_%282021%29.webm"
     }
   ]
 }
