@@ -3,8 +3,9 @@
 //  pedagogy
 //
 //  ─── SHORT FILM MODEL ───────────────────────────────────────────────────────
-//  Um curta-metragem original do Pedagogy. Não é adaptação de história: tem
-//  roteiro próprio, produzido pelo pipeline em scripts/shorts/.
+//  Um filme da seção Watch. Três origens (ver `Kind`): curtas originais do
+//  Pedagogy (scripts/shorts/), filmes abertos da Blender e clássicos em
+//  domínio público do Internet Archive (scripts/classics/).
 //
 //  DE ONDE VEM
 //
@@ -35,6 +36,33 @@ struct Short: Codable, Identifiable, Hashable {
     /// ROADMAP 2.6), aqui esconder é o comportamento certo: não existe
     /// "grátis esta semana" pra curta, então mostrar antes não teria motivo.
     let publishedAt: Date?
+
+    /// De onde veio. Decide em qual fileira da seção Watch o filme entra.
+    /// Opcional: entradas antigas sem o campo são originais.
+    let kind: Kind?
+
+    /// Ano de lançamento — só pra filmes de terceiros ("Classic · 1941").
+    let year: Int?
+
+    /// Autoria e licença. Obrigatórios na tela pra CC BY: a licença exige
+    /// crédito visível a quem assiste, não só no arquivo.
+    let credit: String?
+    let license: String?
+    let sourceURL: String?
+
+    enum Kind: String, Codable {
+        case original   // Pedagogy Originals, pipeline de scripts/shorts
+        case open       // filmes abertos (Blender), CC BY
+        case classic    // domínio público do Internet Archive
+    }
+
+    var resolvedKind: Kind { kind ?? .original }
+
+    /// Linha de crédito do card: "Blender Foundation · CC BY 4.0".
+    var attribution: String? {
+        let parts = [credit, license].compactMap { $0 }.filter { !$0.isEmpty }
+        return parts.isEmpty ? nil : parts.joined(separator: " · ")
+    }
 
     /// "5 min" — arredondado, nunca "0 min".
     var durationLabel: String {

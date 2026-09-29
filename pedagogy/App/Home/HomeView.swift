@@ -167,6 +167,7 @@ struct HomeView: View {
                                 isLocked: isLocked,
                                 onTap: playShort
                             )
+                            .announcesFailures()
                         }
 
                         BrowseByMoodSection(onCategoryTap: { category in

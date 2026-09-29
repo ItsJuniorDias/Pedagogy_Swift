@@ -1,0 +1,170 @@
+{
+  "_comment": "Filmes abertos na estética dos filmes da Blender, selecionados pra 9–11 anos. Licenças conferidas na fonte primária (Blender Studio, Morevna/Film Freedom). Fora por conteúdo: Sintel, Sprite Fright, Charge, Cosmos Laundromat, Elephants Dream, Tears of Steel. Fora por estética: filmes estudantis do Commons (2D de acabamento variado).",
+  "movies": [
+    {
+      "slug": "caminandes-llama-drama",
+      "title": "Caminandes: Llama Drama",
+      "year": 2013,
+      "logline": "Koro the llama wants to cross a road in Patagonia. The road has other plans.",
+      "credit": "Pablo Vazquez / Blender Foundation",
+      "license": "CC BY 3.0",
+      "source": "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4",
+      "sourcePage": "https://studio.blender.org/projects/caminandes-3/"
+    },
+    {
+      "slug": "caminandes-gran-dillama",
+      "title": "Caminandes: Gran Dillama",
+      "year": 2013,
+      "logline": "The grass is always greener on the other side of the fence. Koro is about to find out why.",
+      "credit": "Pablo Vazquez / Blender Foundation",
+      "license": "CC BY 3.0",
+      "source": "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4",
+      "sourcePage": "https://studio.blender.org/projects/caminandes-3/"
+    },
+    {
+      "slug": "caminandes-llamigos",
+      "title": "Caminandes: Llamigos",
+      "year": 2016,
+      "logline": "Winter in Patagonia, one last berry, and a very stubborn penguin. Koro meets Oti.",
+      "credit": "Pablo Vazquez / Blender Foundation",
+      "license": "CC BY 3.0",
+      "source": "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4",
+      "sourcePage": "https://studio.blender.org/projects/caminandes-3/"
+    },
+    {
+      "slug": "big-buck-bunny",
+      "title": "Big Buck Bunny",
+      "year": 2008,
+      "logline": "A gentle giant rabbit just wants to enjoy a sunny morning, until three bullies pick on the wrong bunny.",
+      "credit": "Blender Foundation",
+      "license": "CC BY 3.0",
+      "source": "https://download.blender.org/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4.zip",
+      "sourcePage": "https://studio.blender.org/projects/big-buck-bunny/"
+    },
+    {
+      "slug": "the-daily-dweebs",
+      "title": "The Daily Dweebs",
+      "year": 2017,
+      "logline": "Dixey the dog has one mission: get outside. His owners have locked every door.",
+      "credit": "Blender Foundation",
+      "license": "CC BY 4.0",
+      "commonsFile": "File:The Daily Dweebs - Blender Open Movie-full movie.webm",
+      "sourcePage": "https://studio.blender.org/projects/the-daily-dweebs/"
+    },
+    {
+      "slug": "glass-half",
+      "title": "Glass Half",
+      "year": 2015,
+      "logline": "Two art lovers in a gallery can't agree on anything. Is the painting a masterpiece, or is it just a mess?",
+      "credit": "Beorn Leonard / Blender Foundation",
+      "license": "CC BY 4.0",
+      "commonsFile": "File:Glass Half - Blender Open Movie-full movie.webm",
+      "sourcePage": "https://studio.blender.org/projects/glass-half/"
+    },
+    {
+      "slug": "coffee-run",
+      "title": "Coffee Run",
+      "year": 2020,
+      "logline": "Fueled by caffeine, a young woman runs through the colorful memories of her life.",
+      "credit": "Hjalti Hjálmarsson / Blender Foundation",
+      "license": "CC BY 4.0",
+      "commonsFile": "File:Coffee Run - Blender Open Movie-full movie.webm",
+      "sourcePage": "https://studio.blender.org/projects/coffee-run/"
+    },
+    {
+      "slug": "spring",
+      "title": "Spring",
+      "year": 2019,
+      "logline": "A shepherd girl and her dog face ancient spirits to bring the cycle of life back to the mountains.",
+      "credit": "Andy Goralczyk / Blender Foundation",
+      "license": "CC BY 4.0",
+      "commonsFile": "File:Spring - Blender Open Movie.webm",
+      "sourcePage": "https://studio.blender.org/projects/spring/",
+      "posterAt": 250
+    },
+    {
+      "slug": "wing-it",
+      "title": "Wing It!",
+      "year": 2023,
+      "logline": "A cat and a dog build a rocket out of junk. What could possibly go wrong?",
+      "credit": "Rik Schutte / Blender Foundation",
+      "license": "CC BY 4.0",
+      "commonsFile": "File:WING IT! - Blender Open Movie-full movie.webm",
+      "sourcePage": "https://studio.blender.org/projects/wing-it/"
+    },
+    {
+      "slug": "agent-327",
+      "title": "Agent 327: Operation Barbershop",
+      "year": 2017,
+      "logline": "Undercover in a quiet barbershop, Agent 327 finds out the barber is not what he seems.",
+      "credit": "Colin Levy, Hjalti Hjálmarsson / Blender Foundation",
+      "license": "CC BY-ND 4.0",
+      "noDerivatives": true,
+      "source": "https://archive.org/download/agent327operationbarbershop/agent327.mkv",
+      "sourcePage": "https://studio.blender.org/projects/agent-327/"
+    },
+    {
+      "slug": "singularity",
+      "title": "Singularity",
+      "year": 2026,
+      "logline": "A cosmic storm wipes out a tiny space creature's home. Now he has to find a new place to belong.",
+      "credit": "Andy Goralczyk / Blender Studio",
+      "license": "CC BY 4.0",
+      "commonsFile": "File:SINGULARITY - Blender Open Movie-full movie.webm",
+      "sourcePage": "https://studio.blender.org/projects/singularity/",
+      "posterAt": 333
+    },
+    {
+      "slug": "hero",
+      "title": "Hero",
+      "year": 2018,
+      "logline": "Two rival heroes battle across a steampunk city for a glowing crystal that powers their homelands.",
+      "credit": "Daniel M. Lara / Blender Foundation",
+      "license": "CC BY 4.0",
+      "commonsFile": "File:HERO - Blender Open Movie-full movie.webm",
+      "sourcePage": "https://studio.blender.org/projects/hero/",
+      "posterAt": 18
+    },
+    {
+      "slug": "pepper-carrot-secret-ingredients",
+      "title": "Pepper & Carrot: The Secret Ingredients",
+      "year": 2022,
+      "logline": "A young witch and her cat search the market for rare ingredients before the big Potion Contest.",
+      "credit": "David Revoy / Morevna Project",
+      "license": "CC BY-SA 4.0",
+      "source": "https://tv.filmfreedom.net/download/streaming-playlists/hls/videos/d6ccca3c-0e39-45e2-be60-4ed88ecaefd7-1080-fragmented.mp4",
+      "sourcePage": "https://tv.filmfreedom.net/w/d6ccca3c-0e39-45e2-be60-4ed88ecaefd7"
+    },
+    {
+      "slug": "pepper-carrot-stroke-of-genius",
+      "title": "Pepper & Carrot: Stroke of Genius",
+      "year": 2022,
+      "logline": "Pepper tests her newest potion on Carrot, and the cat gets a lot more than he bargained for.",
+      "credit": "David Revoy / Morevna Project",
+      "license": "CC BY-SA 4.0",
+      "source": "https://tv.filmfreedom.net/download/streaming-playlists/hls/videos/acb6a5dd-68fe-4d68-9e8c-f89032a5dfbe-1080-fragmented.mp4",
+      "sourcePage": "https://tv.filmfreedom.net/w/acb6a5dd-68fe-4d68-9e8c-f89032a5dfbe"
+    },
+    {
+      "slug": "pepper-carrot-holiday-special",
+      "title": "Pepper & Carrot: Holiday Special",
+      "year": 2022,
+      "logline": "Pepper and Carrot celebrate the holidays the only way a witch knows how: with magic.",
+      "credit": "David Revoy / Morevna Project",
+      "license": "CC BY-SA 4.0",
+      "source": "https://tv.filmfreedom.net/download/streaming-playlists/hls/videos/c3605607-0026-4467-96c5-52863eef7e65-1080-fragmented.mp4",
+      "sourcePage": "https://tv.filmfreedom.net/w/c3605607-0026-4467-96c5-52863eef7e65"
+    },
+    {
+      "slug": "pepper-carrot-potion-contest",
+      "title": "Pepper & Carrot: The Potion Contest",
+      "year": 2017,
+      "logline": "Pepper flies to Komona Island to take on the best young witches in the Potion Contest.",
+      "credit": "David Revoy / Morevna Project",
+      "license": "CC BY-SA 4.0",
+      "source": "https://tv.filmfreedom.net/download/streaming-playlists/hls/videos/db9aa244-3997-4029-96c9-bbe0470159ac-1080-fragmented.mp4",
+      "sourcePage": "https://tv.filmfreedom.net/w/db9aa244-3997-4029-96c9-bbe0470159ac",
+      "posterAt": 60
+    }
+  ]
+}

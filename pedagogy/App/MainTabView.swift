@@ -156,7 +156,11 @@ struct MainTabView: View {
         // re-apresentar em re-renders.
         .onChange(of: notifications.openedStoryID) { _, newID in
             guard let id = newID else { return }
-            deepLinkedStory = loadStory(withID: id)
+            // Um curta em tela cheia (apresentado pelo UIKit) bloquearia a
+            // sheet: fecha o filme primeiro.
+            FilmPlayerController.dismissCurrent {
+                deepLinkedStory = loadStory(withID: id)
+            }
             notifications.consumeOpenedStoryID()
         }
         .sheet(item: $deepLinkedStory) { story in

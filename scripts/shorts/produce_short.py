@@ -672,18 +672,24 @@ def stage_assemble(film: Film, args):
     # mov_text — o AVPlayerViewController mostra no menu de legendas.
     final = film.build / "final.mp4"
     music = film.dir / "music.mp3"
-    inputs = ["-i", str(joined), "-i", str(srt)]
+    # Sem falas (ex.: --allow-missing antes do `voice`) não há legenda: um
+    # .srt vazio como entrada derruba o ffmpeg no último passo.
+    inputs = ["-i", str(joined)]
+    subtitle_args: list[str] = []
+    if subtitles:
+        inputs += ["-i", str(srt)]
+        subtitle_args = ["-map", "1:s", "-c:s", "mov_text", "-metadata:s:s:0", "language=eng"]
     if music.exists():
+        music_index = len(inputs) // 2
         inputs += ["-stream_loop", "-1", "-i", str(music)]
-        audio = (f"[2:a]volume={MUSIC_VOLUME},atrim=duration={clock},"
+        audio = (f"[{music_index}:a]volume={MUSIC_VOLUME},atrim=duration={clock},"
                  f"afade=t=out:st={clock - 3}:d=3[m];[0:a][m]amix=inputs=2:normalize=0:duration=first,"
                  f"loudnorm=I=-16:TP=-1.5:LRA=11[a]")
     else:
         audio = "[0:a]loudnorm=I=-16:TP=-1.5:LRA=11[a]"
-    ffmpeg(*inputs, "-filter_complex", audio, "-map", "0:v", "-map", "[a]", "-map", "1:s",
+    ffmpeg(*inputs, "-filter_complex", audio, "-map", "0:v", "-map", "[a]", *subtitle_args,
            "-c:v", "libx265", "-crf", str(args.crf), "-preset", "medium", "-tag:v", "hvc1",
            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k", "-ar", "48000",
-           "-c:s", "mov_text", "-metadata:s:s:0", "language=eng",
            "-metadata", f"title={film.data['title']}", "-movflags", "+faststart", str(final))
 
     poster = film.build / "poster.jpg"
@@ -703,6 +709,13 @@ def stage_publish(film: Film, args):
     if not final.exists() or not poster.exists():
         sys.exit("rode `assemble` antes")
     APP_SHORTS.mkdir(parents=True, exist_ok=True)
+    catalog_path = APP_SHORTS / "shorts.json"
+    existing = json.loads(catalog_path.read_text()) if catalog_path.exists() else []
+    # Antes de copiar: um id que já é de um filme da Blender ou clássico
+    # teria o vídeo e o pôster dele sobrescritos.
+    clash = next((e for e in existing if e["id"] == film.slug and e.get("kind", "original") != "original"), None)
+    if clash:
+        sys.exit(f"id '{film.slug}' já é de outro filme ({clash.get('sourceURL')}) — renomeie a pasta do filme")
     shutil.copy2(final, APP_SHORTS / f"short-{film.slug}.mp4")
     shutil.copy2(poster, APP_SHORTS / f"short-{film.slug}-poster.jpg")
 
@@ -710,6 +723,7 @@ def stage_publish(film: Film, args):
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else []
     entry = {
         "id": film.slug,
+        "kind": "original",
         "title": film.data["title"],
         "logline": film.data["logline"],
         "durationSeconds": int(round(probe_duration(final))),
@@ -717,7 +731,11 @@ def stage_publish(film: Film, args):
         "publishedAt": film.data.get("publishedAt"),
     }
     catalog = [e for e in catalog if e["id"] != film.slug] + [entry]
-    catalog.sort(key=lambda e: e.get("publishedAt") or "", reverse=True)
+    # Originais primeiro (mais novo antes), depois abertos e clássicos — mesma
+    # ordem do scripts/classics/harvest_classics.py.
+    order = {"original": 0, "open": 1, "classic": 2}
+    catalog.sort(key=lambda e: e.get("publishedAt") or str(e.get("year") or ""), reverse=True)
+    catalog.sort(key=lambda e: order.get(e.get("kind", "original"), 9))
     catalog_path.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n")
 
     print(f"copiado pra {APP_SHORTS.relative_to(ROOT)}")

@@ -2,3 +2,6 @@
 # Curtas: artefatos gerados (refs, keyframes, clipes, vozes) — pesados e regeneráveis
 shorts/*/build/
 .env
+
+# Clássicos e filmes abertos: fontes baixadas, metadados e revisão (~2 GB, regeneráveis)
+classics/build/

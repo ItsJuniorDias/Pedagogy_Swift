@@ -194,6 +194,18 @@ final class AudioPlayerManager {
     /// A sessão já tomou o foco de áudio do sistema? Ver `activateSession()`.
     private var sessionIsActive = false
 
+    /// Um curta está em tela cheia. Enquanto estiver, a narração pode
+    /// carregar mas não toca — ver `beginVideoPlayback`.
+    private var isVideoPlaying = false
+
+    /// A narração estava tocando quando o filme abriu? Decide se o foco de
+    /// áudio volta pro app de antes (Spotify) quando o filme fechar.
+    private var narrationWasPlayingBeforeVideo = false
+
+    /// Capítulo carregado durante um filme: o `narrationPlay` fica pro
+    /// primeiro play de verdade (o `resume` normalmente não conta).
+    private var pendingPlayEvent: (storyID: String, chapter: Int)?
+
     /// Estava tocando quando a interrupção começou? Decide se retoma quando
     /// ela acaba. Sem isso, uma ligação recebida com o áudio JÁ pausado
     /// faria a narração começar sozinha ao desligar.
@@ -324,7 +336,16 @@ final class AudioPlayerManager {
     /// Fica aqui, e não no player do curta, porque é este manager que sabe
     /// se a sessão está ativa — um segundo dono do `setActive` deixaria o
     /// `sessionIsActive` mentindo.
+    ///
+    /// Pausar só o que está `.playing` não basta: uma narração em `.loading`
+    /// (pacote ainda baixando) chegaria no meio do filme e tocaria por cima,
+    /// com o mini-player inalcançável atrás da tela cheia. Por isso a flag:
+    /// `startPlayback` carrega mas não toca, e `resume` recusa — o que cobre
+    /// download terminando, auto-avanço de capítulo, controle remoto e volta
+    /// de interrupção de uma vez só.
     func beginVideoPlayback() {
+        isVideoPlaying = true
+        narrationWasPlayingBeforeVideo = state == .playing
         if state == .playing { pause() }
         do {
             try AVAudioSession.sharedInstance().setCategory(.playback, mode: .moviePlayback, options: [])
@@ -334,11 +355,20 @@ final class AudioPlayerManager {
         activateSession()
     }
 
-    /// O curta fechou. Volta a categoria de narração; se não há narração
-    /// carregada, devolve o foco pro app que tocava antes (Spotify etc).
+    /// O curta fechou. Volta a categoria de narração.
+    ///
+    /// O foco de áudio só é devolvido se a narração NÃO estava tocando antes
+    /// do filme. Se estava, ela é quem tinha interrompido o Spotify; soltar a
+    /// sessão agora faria a música voltar sozinha, com a história parada no
+    /// mini-player e os fones mandando play pro app errado. Narração pausada
+    /// não perde nada no outro caso: `resume` reativa a sessão.
     func endVideoPlayback() {
+        isVideoPlaying = false
         configureAudioSession()
-        if nowPlaying == nil { deactivateSession() }
+        if !narrationWasPlayingBeforeVideo { deactivateSession() }
+        narrationWasPlayingBeforeVideo = false
+        // O AVKit publicou o filme na tela de bloqueio; volta a história.
+        if nowPlaying != nil { updateNowPlayingInfo() }
     }
 
     /// Interrupções (ligação, Siri, alarme) e mudança de rota (fone saiu).
@@ -689,6 +719,16 @@ final class AudioPlayerManager {
         // Publica nowPlaying
         self.nowPlaying = makeNowPlaying(story: story, chapter: chapter)
 
+        // Chegou durante um curta: fica pronta e pausada no mini-player. Sem
+        // mexer na tela de bloqueio, que agora mostra o filme (o AVKit publica
+        // o dele); `endVideoPlayback` devolve a história lá.
+        if isVideoPlaying {
+            state = .paused
+            pendingPlayEvent = (story.id, chapter)
+            updateCurrentSentence()
+            return
+        }
+
         // Play
         player?.play()
         // O rate só "pega" com o player rodando — por isso vem depois do play.
@@ -717,7 +757,14 @@ final class AudioPlayerManager {
 
     /// Retoma playback pausado. No-op se não houver player carregado.
     func resume() {
-        guard player != nil else { return }
+        guard player != nil, !isVideoPlaying else { return }
+        if let pending = pendingPlayEvent {
+            pendingPlayEvent = nil
+            Analytics.shared.track(.narrationPlay, [
+                "content_id": pending.storyID,
+                "chapter": pending.chapter,
+            ])
+        }
         guard activateSession() else { return }
         player?.play()
         player?.rate = Float(speed.rawValue)
@@ -741,6 +788,7 @@ final class AudioPlayerManager {
     /// Descarrega o player sem devolver o foco de áudio ao sistema.
     /// Uso interno na troca de capítulo — ver comentário em `play()`.
     private func unload() {
+        pendingPlayEvent = nil
         downloadTask?.cancel()
         downloadTask = nil
         downloadFraction = 0

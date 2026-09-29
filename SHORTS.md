@@ -1,7 +1,53 @@
 # Curtas-metragens
 
-Filmes originais de 3 a 8 minutos, com roteiro próprio, na aba Read da Home
-(seção **Watch**). O piloto é **The Paper Whale** (~4min50s, 37 planos).
+A seção **Watch** da aba Read tem três origens, uma fileira cada:
+
+| fileira | origem | como entra |
+|---|---|---|
+| Pedagogy Originals | roteiro próprio, gerado por IA | `scripts/shorts/produce_short.py` (este documento) |
+| Animated shorts | filmes abertos da Blender e Pepper&Carrot | `harvest_classics.py open` + `classics/open_movies.json` |
+| Classic cartoons | domínio público do Internet Archive | `harvest_classics.py search/fetch/publish` (pausado) |
+
+O piloto dos originais é **The Paper Whale** (~4min50s, 37 planos).
+
+---
+
+## Filmes abertos (Animated shorts)
+
+16 filmes na estética dos curtas da Blender, todos com licença que permite
+uso comercial: CC BY, CC BY-SA ou CC BY-ND. A lista, com licença, crédito,
+fonte e quadro do pôster, fica em `classics/open_movies.json`.
+
+```bash
+python3 scripts/classics/harvest_classics.py open                  # todos
+python3 scripts/classics/harvest_classics.py open --only singularity
+```
+
+- **Conversão:** o encoder de hardware do Mac gera HEVC 1080p a ~1,5 Mbps,
+  com teto de 95 MB por arquivo (limite de 100 MB do GitHub). Medido: SSIM
+  0,985 contra o original.
+- **Só formato:** nada de cartela ou corte, por causa do Agent 327 (CC BY-ND).
+- **Crédito:** CC BY exige atribuição visível, então o card mostra crédito e
+  licença.
+- **Pôster:** `posterAt` escolhe o quadro à mão quando o automático (20% do
+  filme) cai numa cena ruim.
+
+Ficaram de fora por conteúdo (9–11 anos): Sintel, Sprite Fright, Charge,
+Cosmos Laundromat, Elephants Dream. Por estética: os curtas estudantis 2D
+do Wikimedia Commons. Por licença: a série Paxi da ESA (licença própria da
+ESA, sem uso comercial livre).
+
+## Clássicos (pausado)
+
+`harvest_classics.py search` varre o Internet Archive e decide a base legal
+pelo ano, não pelo selo de quem subiu. Até 1930 é domínio público nos EUA e
+no Brasil. De 1931 a 1955 só vale no Brasil; nos EUA depende de o copyright
+não ter sido renovado. O filtro derruba Disney, caricatura racista,
+propaganda de guerra, conteúdo adulto, remix e gravação de TV. O que passa
+vai para `classics/build/review.html`, onde a curadoria é humana.
+
+A curadoria dos 210 candidatos está pausada, com o cache guardado. O foco
+passou para os filmes abertos, que batem com a estética da Blender.
 
 ---
 

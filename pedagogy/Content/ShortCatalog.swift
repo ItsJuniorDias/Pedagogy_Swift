@@ -28,14 +28,14 @@ enum ShortCatalog {
     /// reference preserva. Testar as duas evita o bug que só aparece no device.
     private static let searchPaths: [String?] = ["Content/Shorts", "Shorts", nil]
 
-    /// Curtas já lançados, do mais novo pro mais antigo.
+    /// Filmes já lançados, na ordem do catálogo — o script que o escreve já
+    /// ordena (originais primeiro, depois por ano).
     static func loadAll(now: Date = .now) -> [Short] {
         guard let url = find("shorts", ext: "json") else { return [] }
         do {
             let data = try Data(contentsOf: url)
             return try makeDecoder().decode([Short].self, from: data)
                 .filter { $0.isReleased(now: now) }
-                .sorted { ($0.publishedAt ?? .distantPast) > ($1.publishedAt ?? .distantPast) }
         } catch {
             print("[ShortCatalog] Failed to decode shorts.json:", error)
             return []

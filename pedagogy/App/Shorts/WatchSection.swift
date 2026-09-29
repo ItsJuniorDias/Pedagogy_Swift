@@ -3,7 +3,8 @@
 //  pedagogy
 //
 //  ─── WATCH (Home) ───────────────────────────────────────────────────────────
-//  Seção dos curtas-metragens na Home. Some quando não há nenhum lançado.
+//  Seção de filmes na Home, uma fileira por origem (originais, abertos da
+//  Blender, clássicos). Some quando não há nenhum lançado.
 //
 //    ─── ● Watch ─────────────────
 //    ┌─────────────────────────┐
@@ -26,8 +27,23 @@ struct WatchSection: View {
     let isLocked: (Short) -> Bool
     let onTap: (Short) -> Void
 
+    /// Uma fileira por origem, na ordem: originais, abertos, clássicos.
+    /// Fileira vazia não aparece.
+    private var rows: [Row] {
+        [Short.Kind.original, .open, .classic].compactMap { kind in
+            let items = shorts.filter { $0.resolvedKind == kind }
+            return items.isEmpty ? nil : Row(kind: kind, shorts: items)
+        }
+    }
+
+    private struct Row: Identifiable {
+        let kind: Short.Kind
+        let shorts: [Short]
+        var id: Short.Kind { kind }
+    }
+
     var body: some View {
-        VStack(alignment: .leading, spacing: Theme.Space.md) {
+        VStack(alignment: .leading, spacing: Theme.Space.xl) {
             HStack(spacing: Theme.Space.sm) {
                 Circle()
                     .fill(Theme.Colors.primary)
@@ -39,18 +55,34 @@ struct WatchSection: View {
                     .textCase(.uppercase)
             }
 
-            if shorts.count == 1, let short = shorts.first {
-                card(short)
-            } else {
-                ScrollView(.horizontal, showsIndicators: false) {
-                    HStack(alignment: .top, spacing: Theme.Space.lg) {
-                        ForEach(shorts) { short in
-                            card(short).frame(width: 280)
-                        }
+            ForEach(rows) { row in
+                VStack(alignment: .leading, spacing: Theme.Space.md) {
+                    // Com uma fileira só, o "Watch" já diz tudo.
+                    if rows.count > 1 {
+                        Text(row.kind.rowTitle)
+                            .font(.display(17, weight: .bold))
+                            .foregroundStyle(Theme.Colors.ink)
                     }
-                    // Espaço pra sombra hard não ser cortada pelo ScrollView.
-                    .padding(.bottom, Theme.Space.xs)
-                    .padding(.trailing, Theme.Space.xs)
+                    if row.shorts.count == 1, let short = row.shorts.first {
+                        card(short)
+                    } else {
+                        // Mesmo padrão do FeaturedPicks: o carrossel vaza até a
+                        // borda da tela (padding negativo) e devolve a margem
+                        // por dentro, senão os cards cortam no meio da margem.
+                        // O respiro em cima e embaixo é pra borda de 2pt e a
+                        // sombra hard não serem cortadas pelo ScrollView.
+                        ScrollView(.horizontal, showsIndicators: false) {
+                            HStack(alignment: .top, spacing: Theme.Space.lg) {
+                                ForEach(row.shorts) { short in
+                                    card(short).frame(width: 280)
+                                }
+                            }
+                            .padding(.horizontal, Theme.Space.lg)
+                            .padding(.top, Theme.Stroke.normal)
+                            .padding(.bottom, Theme.Space.xs)
+                        }
+                        .padding(.horizontal, -Theme.Space.lg)
+                    }
                 }
             }
         }
@@ -64,6 +96,41 @@ struct WatchSection: View {
             failed: launcher.failedID == short.id,
             action: { onTap(short) }
         )
+    }
+}
+
+extension WatchSection {
+    /// Falha de download acontece sem toque nenhum (o download roda sozinho),
+    /// então quem usa VoiceOver precisa ouvir — só mudar o texto do card não
+    /// chega até ele.
+    func announcesFailures() -> some View {
+        onChange(of: launcher.failedID) { _, id in
+            guard let id, let short = shorts.first(where: { $0.id == id }) else { return }
+            AccessibilityNotification.Announcement("Couldn't open \(short.title). Tap the card to try again.").post()
+        }
+    }
+}
+
+private extension Short.Kind {
+    var rowTitle: String {
+        switch self {
+        case .original: return "Pedagogy Originals"
+        case .open:     return "Animated shorts"
+        case .classic:  return "Classic cartoons"
+        }
+    }
+}
+
+extension Short {
+    /// "Short film · 5 min", "Animated short · 2019 · 8 min", "Classic · 1941 · 9 min"
+    var kindLabel: String {
+        let prefix: String
+        switch resolvedKind {
+        case .original: prefix = "Short film"
+        case .open:     prefix = "Animated short"
+        case .classic:  prefix = "Classic"
+        }
+        return ([prefix] + (year.map { ["\($0)"] } ?? []) + [durationLabel]).joined(separator: " · ")
     }
 }
 
@@ -96,7 +163,7 @@ struct ShortCard: View {
                         Image(systemName: "lock.fill")
                             .font(.system(size: 10, weight: .bold))
                     }
-                    Text("Short film · \(short.durationLabel)")
+                    Text(short.kindLabel)
                         .kerning(0.8)
                         .textCase(.uppercase)
                 }
@@ -107,21 +174,51 @@ struct ShortCard: View {
                     .font(.display(20, weight: .bold))
                     .foregroundStyle(Theme.Colors.ink)
 
-                Text(failed ? "Couldn't download the film. Tap to try again." : short.logline)
+                Text(failed ? "Couldn't open the film. Tap to try again." : short.logline)
                     .font(.body(14, weight: .regular))
                     .foregroundStyle(failed ? Theme.Colors.danger : Theme.Colors.textMuted)
                     .lineLimit(3)
                     .lineSpacing(2)
                     .fixedSize(horizontal: false, vertical: true)
+
+                // Crédito visível: exigência da CC BY, e justo com o
+                // domínio público também.
+                if let attribution = short.attribution {
+                    Text(attribution)
+                        .font(.ui(11, weight: .medium))
+                        .foregroundStyle(Theme.Colors.textFaint)
+                        .lineLimit(2)
+                }
             }
             .frame(maxWidth: .infinity, alignment: .leading)
         }
         .buttonStyle(.plain)
         .accessibilityElement(children: .ignore)
-        .accessibilityLabel("Short film: \(short.title), \(short.durationLabel)")
-        .accessibilityValue(downloadFraction.map { "Downloading, \(Int($0 * 100)) percent" } ?? "")
-        .accessibilityHint(downloadFraction != nil ? "Double tap to cancel" : isLocked ? "Requires a subscription" : "Plays the film")
+        .accessibilityLabel(accessibilityLabel)
+        .accessibilityValue(accessibilityValue)
+        .accessibilityHint(accessibilityHint)
         .accessibilityAddTraits(.isButton)
+    }
+
+    // O card ignora os filhos (é um botão só), então tudo que está escrito
+    // nele precisa estar aqui: cadeado, sinopse e o crédito da licença.
+    private var accessibilityLabel: String {
+        var parts = ["\(short.kindLabel): \(short.title)"]
+        if isLocked { parts.append("Locked") }
+        parts.append(short.logline)
+        if let attribution = short.attribution { parts.append(attribution) }
+        return parts.joined(separator: ". ")
+    }
+
+    private var accessibilityValue: String {
+        if let fraction = downloadFraction { return "Downloading, \(Int(fraction * 100)) percent" }
+        return failed ? "Couldn't open the film" : ""
+    }
+
+    private var accessibilityHint: String {
+        if downloadFraction != nil { return "Double tap to cancel" }
+        if failed { return "Double tap to try again" }
+        return isLocked ? "Requires a subscription" : "Plays the film"
     }
 
     private var poster: some View {
