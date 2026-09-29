@@ -62,8 +62,13 @@ def render_tags_by_path(tags: dict[str, str]) -> str:
     # Formato de uma linha, igual ao que o Xcode grava ao salvar o projeto.
     # No formato de várias linhas, cada save do Xcode reescrevia o bloco
     # inteiro e o --check acusava "desatualizado" com as tags todas certas.
+    # Aspas só quando precisa, como o Xcode: "Content/Motion/crossings.mp4"
+    # sai sem aspas, "Content/Audio/a-b.mp3" (com hífen) sai com.
+    def quote(value: str) -> str:
+        return value if re.fullmatch(r"[A-Za-z0-9_./]+", value) else f'"{value}"'
+
     lines = ["\t\t\tassetTagsByRelativePath = {"]
-    lines += [f'\t\t\t\t"{path}" = ("{tag}", );' for path, tag in tags.items()]
+    lines += [f'\t\t\t\t{quote(path)} = ({quote(tag)}, );' for path, tag in tags.items()]
     lines.append("\t\t\t};")
     return "\n".join(lines) + "\n"
 
