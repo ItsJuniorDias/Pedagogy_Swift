@@ -2,55 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<!--
-		Info.plist explícito do Pedagogy.
-
-		Por que existe (em vez de INFOPLIST_KEY_UIAppFonts):
-		O `INFOPLIST_KEY_UIAppFonts` como string separada por espaços não
-		estava gerando a chave `UIAppFonts` no plist final (o Xcode ignorava
-		silenciosamente). Info.plist explícito com <array> resolve.
-
-		Chaves usam $(VAR) — o Xcode expande no build a partir das
-		Build Settings (PRODUCT_BUNDLE_IDENTIFIER, MARKETING_VERSION, etc).
-		Vantagem: se você mudar o bundle ID ou versão nas Build Settings,
-		propaga aqui automaticamente sem editar o plist.
-
-		Se precisar de uma chave nova, adicione aqui — não use
-		INFOPLIST_KEY_* (é o que quebrou antes).
-	-->
-
-	<!-- ═══════════ IDENTIDADE DO BUNDLE (obrigatórias) ═══════════ -->
-
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
-
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
-
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
-
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
-
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
-
 	<key>CFBundlePackageType</key>
 	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
-
 	<key>CFBundleShortVersionString</key>
 	<string>$(MARKETING_VERSION)</string>
-
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
-
-	<!-- App iOS-only (não Mac Catalyst nem tvOS) -->
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-
-	<!-- ═══════════ FONTES CUSTOM (o motivo desse arquivo existir) ═══════════ -->
-
 	<key>UIAppFonts</key>
 	<array>
 		<string>AlfaSlabOne-Regular.ttf</string>
@@ -59,57 +28,25 @@
 		<string>Lora-SemiBold.ttf</string>
 		<string>Lora-Bold.ttf</string>
 	</array>
-
-	<!-- ═══════════ SCENE / LAUNCH ═══════════ -->
-
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 	</dict>
-
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
-
-	<!-- ═══════════ BACKGROUND AUDIO ═══════════ -->
-
-	<!--
-		Sem esta chave o iOS SUSPENDE o áudio assim que a tela trava ou o app
-		vai pro background — e todo o resto da narração vira enfeite: o
-		AVAudioSession(.playback), o MPRemoteCommandCenter (play/pause no lock
-		screen) e o MPNowPlayingInfoCenter (capa + título) já estão
-		implementados no AudioPlayerManager e dependem dela.
-
-		Caso de uso real: criança ouve a história de olhos fechados, o iPhone
-		trava sozinho, o áudio morre no meio do capítulo.
-
-		A chave só declara a intenção; quem de fato mantém o áudio vivo é a
-		sessão .playback ativada em AudioPlayerManager.configureAudioSession().
-		Se um dia a categoria da sessão mudar pra .ambient ou .soloAmbient,
-		esta chave para de ter efeito.
-	-->
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>audio</string>
 	</array>
-
 	<key>UILaunchScreen</key>
 	<dict/>
-
-	<!-- ═══════════ ORIENTAÇÕES ═══════════ -->
-
-	<!--
-		iPhone: paisagem só é PERMITIDA aqui. Quem decide é o AppDelegate
-		(OrientationLock.mask), que trava em retrato fora do player de curtas.
-	-->
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-
-	<!-- iPad permite todas orientações -->
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
