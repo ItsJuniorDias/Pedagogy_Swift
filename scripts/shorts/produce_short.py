@@ -69,6 +69,11 @@ FALLBACK_VIDEO_USD_PER_SECOND = 0.10
 IMAGE_USD_EACH = 0.04
 TTS_USD_PER_LINE = 0.002
 
+# O gemini-2.5-flash-image recusa o pedido inteiro (HTTP 400) com mais de 3
+# imagens de referência. Vão as 3 primeiras de `characters` — ponha pessoas e
+# bichos antes de cenários; o que sobra continua descrito no texto do prompt.
+MAX_IMAGE_REFS = 3
+
 AMBIENT_VOLUME = 0.30   # som gerado pelo modelo de vídeo, por baixo das vozes
 MUSIC_VOLUME = 0.16     # music.mp3 opcional na pasta do filme
 FADE = 0.6              # segundos de fade nas transições de cena
@@ -136,6 +141,10 @@ class Film:
             for key in shot.get("characters", []):
                 if key not in self.characters:
                     problems.append(f"{sid}: personagem desconhecido '{key}'")
+            extra = shot.get("characters", [])[MAX_IMAGE_REFS:]
+            if extra:
+                problems.append(f"{sid}: {len(shot['characters'])} refs, o modelo aceita {MAX_IMAGE_REFS} — "
+                                f"{', '.join(extra)} vai só como texto")
             for line in shot.get("lines", []):
                 if line["who"] not in self.data["voices"]:
                     problems.append(f"{sid}: voz desconhecida '{line['who']}'")
@@ -343,7 +352,7 @@ def stage_keyframes(film: Film, args):
     ledger = Ledger(film)
 
     def one(shot):
-        refs = [film.ref_path(k) for k in shot.get("characters", [])]
+        refs = [film.ref_path(k) for k in shot.get("characters", [])][:MAX_IMAGE_REFS]
         generate_image(film, keyframe_prompt(film, shot), refs, film.keyframe_path(shot["id"]),
                        f"keyframe:{shot['id']}", ledger, "16:9")
         return shot["id"]

@@ -1,0 +1,476 @@
+{
+ "id": "the-sky-mirror",
+ "title": "The Sky Mirror",
+ "logline": "On a salt flat so still it mirrors the sky, ten-year-old Elena is given the old camera her father has carried empty for thirty years. Why has he never taken a picture?",
+ "isPremium": true,
+ "publishedAt": null,
+ "posterShot": "s16",
+ "style": "Painterly stylized 3D animated film, like a modern open-movie animated short in the spirit of Blender Studio's Spring: every surface looks hand-painted with visible soft brush strokes and textured color, not smooth plastic. Luminous, airy color: soft pastel sky blues, creamy whites, warm golds and gentle rose, deepening to indigo at night. Cinematic lighting with clear warm-versus-cool contrast, soft rim light, gentle atmospheric haze and depth. Any people are stylized with soft rounded forms and large, expressive, glossy eyes. Quiet, tender, wondrous mood, never scary. Full-bleed 16:9 frame filled edge to edge, no black bars, no letterbox, no border; cinematic composition. No text, no letters, no captions, no watermark.",
+ "motionStyle": "Painterly stylized 3D animation with gentle, weighty, natural character acting (subtle breathing, blinking, hair and wool clothing stirring softly in the breeze outdoors), consistent character designs, calm unhurried pacing, slow cinematic camera moves with parallax and depth, no morphing, no text appearing.",
+ "voices": {
+  "narrator": {
+   "voice": "flux-alexis-en",
+   "notes": "Warm, unhurried storyteller reading a bedtime story to a 10-year-old. Gentle pauses at commas. Never theatrical.",
+   "alternatives": [
+    "flux-sean-en (masc., maduro, britânico, calmo)",
+    "flux-elise-en (fem., adulta, calma)"
+   ]
+  },
+  "elena": {
+   "voice": "flux-heather-en",
+   "notes": "A thoughtful, quiet 10-year-old girl. Soft and direct, a little shy when she asks for something that matters to her, sure of herself at the end.",
+   "alternatives": [
+    "flux-gemma-en (fem., jovem, britânica, alegre)",
+    "flux-brooke-en (fem., jovem, rápida)"
+   ]
+  },
+  "ernesto": {
+   "voice": "flux-marcus-en",
+   "notes": "A gentle father in his early forties, a naturalist who chooses his words carefully. Low, warm and unhurried, a little moved.",
+   "alternatives": [
+    "flux-cliff-en (masc., maduro, americano, grave)",
+    "flux-miles-en (masc., adulto, americano, sereno)"
+   ]
+  }
+ },
+ "models": {
+  "tts": "deepgram/flux-tts:free"
+ },
+ "characters": {
+  "elena": {
+   "description": "Elena, a 10-year-old Bolivian girl with warm light-brown skin, round rosy cheeks, large dark expressive eyes and glossy black hair in two long braids, wearing a bright red woven wool poncho with a thin cream zigzag band along its hem over a plain white long-sleeved shirt, blue jeans and dark navy rubber boots",
+   "refPrompt": "Character model sheet of Elena, a 10-year-old Bolivian girl with warm light-brown skin, round rosy cheeks, large dark expressive eyes and glossy black hair in two long braids, wearing a bright red woven wool poncho with a thin cream zigzag band along its hem over a plain white long-sleeved shirt, blue jeans and dark navy rubber boots. Three views side by side: front, three-quarter, side. Full body, neutral relaxed pose, arms at her sides, empty hands. Plain light background, evenly lit. Only this one character."
+  },
+  "ernesto": {
+   "description": "Ernesto, her father, a Bolivian man in his early forties with warm brown skin, short dark hair, a neat short dark beard and a weathered, kind face with smile lines, wearing a heavy plain charcoal-grey wool poncho over an olive-green field shirt, khaki trousers and tall black rubber boots",
+   "refPrompt": "Character model sheet of Ernesto, a Bolivian man in his early forties with warm brown skin, short dark hair, a neat short dark beard and a weathered, kind face with smile lines, wearing a heavy plain charcoal-grey wool poncho over an olive-green field shirt, khaki trousers and tall black rubber boots. Three views side by side: front, three-quarter, side. Full body, neutral relaxed pose, arms at his sides, empty hands. Plain light background, evenly lit. Only this one character."
+  },
+  "camera": {
+   "description": "the old film camera: a small vintage 35mm camera with a black leather-covered body, a silver metal top plate and lens ring, one round lens and a worn brown leather neck strap, with no logos or lettering",
+   "refPrompt": "Prop model sheet of a small vintage 35mm film camera with a black leather-covered body, a silver metal top plate and lens ring, one round lens and a worn brown leather neck strap. Three views side by side: front, three-quarter from above, back. Plain light background, evenly lit. No people, no hands, no logos, no lettering."
+  },
+  "jeep": {
+   "description": "Ernesto's old boxy dark-green four-wheel-drive jeep with round headlights, a black roof rack, a spare tyre on the rear door and dusty, mud-splashed wheels, with no logos, lettering or number plates",
+   "refPrompt": "Vehicle concept art model sheet of an old boxy dark-green four-wheel-drive jeep with round headlights, a black roof rack, a spare tyre mounted on the rear door and dusty, mud-splashed wheels. Three views side by side: front three-quarter, side, rear. Plain light background, evenly lit. No people, no logos, no lettering, no number plates."
+  },
+  "salar": {
+   "description": "the flooded Salar de Uyuni: an endless, perfectly flat white salt plain under a thin sheet of ankle-deep, glass-still water with faint hexagon patterns in the salt beneath, reflecting the sky so exactly that the horizon disappears; a thin line of low distant mountains floats, doubled, at the horizon",
+   "refPrompt": "Establishing concept art of the flooded Salar de Uyuni in Bolivia in the wet season, mid-morning: an endless, perfectly flat white salt plain under a thin sheet of ankle-deep, glass-still water with faint hexagon patterns in the salt beneath; the enormous pale-blue sky with a few soft white clouds is reflected so exactly below that the horizon disappears; a thin line of low distant mountains floats, doubled, at the horizon. Wide shot. No characters, no people, no animals, no vehicles."
+  },
+  "salardawn": {
+   "description": "the flooded Salar de Uyuni at sunrise: an endless, perfectly flat white salt plain under a thin sheet of ankle-deep, glass-still water with faint hexagon patterns in the salt beneath, mirroring a soft pink-and-gold sky so exactly that the horizon is only a thin bright line; low distant mountains float, doubled, at the horizon",
+   "refPrompt": "Establishing concept art of the flooded Salar de Uyuni in Bolivia at sunrise: an endless, perfectly flat white salt plain under a thin sheet of ankle-deep, glass-still water with faint hexagon patterns in the salt beneath; the soft pink-and-gold dawn sky with a few small rose clouds is reflected so exactly below that the horizon is only a thin bright line; low distant mountains float, doubled, at the horizon. Wide shot. No characters, no people, no animals, no vehicles."
+  },
+  "altiplano": {
+   "description": "the high Andean altiplano: a long straight red-earth dirt road across endless pale-golden bunchgrass plains, low blue mountains on the horizon and an enormous sky with tall white clouds",
+   "refPrompt": "Establishing concept art of the high Andean altiplano in Bolivia: a long straight red-earth dirt road running across endless pale-golden bunchgrass plains toward low blue mountains, under an enormous sky with tall white clouds, bright morning light. Wide shot. No characters, no people, no animals, no vehicles."
+  },
+  "lapaz": {
+   "description": "a child's small bedroom in La Paz: whitewashed walls, a small wooden desk and chair against a bare whitewashed wall beside a window, a woven red-and-cream blanket on a narrow bed, and through the window red-brick houses climbing steep hills toward a great snow-capped mountain peak",
+   "refPrompt": "Interior concept art of a small, tidy child's bedroom in La Paz, Bolivia, in the afternoon: whitewashed walls, a small wooden desk and chair against a bare whitewashed wall beside a window, a woven red-and-cream blanket on a narrow bed, and through the window red-brick houses climbing steep hills toward a great snow-capped mountain peak. Warm sunlight through the window with faint dust motes in the still indoor air. The wall above the desk is bare. No characters, no people."
+  }
+ },
+ "shots": [
+  {
+   "id": "s01",
+   "scene": "altiplano",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "jeep",
+    "altiplano"
+   ],
+   "keyframe": "Extreme wide shot from high above the Andean altiplano on a bright morning: a long straight red-earth dirt road crosses endless pale-golden grass toward low blue mountains under an enormous sky with tall white clouds. The small dark-green jeep drives along the road away from the viewer, trailing a thin plume of dust, tiny in the vast landscape. The people inside the jeep are not visible. No people outside, no animals, no other vehicles.",
+   "motion": "The jeep drives slowly away along the straight road, trailing soft dust; cloud shadows glide across the golden grass; the view glides slowly forward and down.",
+   "sfx": "the low rumble of a distant engine, wind over dry grass",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every February, Ernesto took his daughter Elena on one long field trip. The year she was ten, they drove south, to the Salar.",
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "scene": "salar-edge",
+   "duration": 11,
+   "transition": "fade",
+   "characters": [
+    "elena",
+    "ernesto",
+    "jeep",
+    "salar"
+   ],
+   "keyframe": "Wide shot from behind at the edge of the flooded salt flat in bright morning light: on the left the dark-green jeep is parked where the dry white salt ends and the thin water begins; Elena and Ernesto stand side by side at the water's edge, seen from behind, small against an endless mirror that reflects the pale-blue sky and soft white clouds so exactly that the horizon disappears; distant mountains float, doubled, at the horizon. Only Elena and Ernesto are in frame; no other people, no animals, no other vehicles.",
+   "motion": "They stand still, gazing out at the endless mirror; a light breeze barely stirs the edges of their ponchos; the water surface stays mirror-smooth, no waves; clouds drift slowly above and in the reflection below; the view slowly rises and pushes forward over their shoulders.",
+   "sfx": "a very faint breeze across open flat land, the soft hush of wide open space",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Salar de Uyuni is the largest salt flat on Earth. In February, rain lies on it, ankle-deep and still as glass.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "scene": "salar-day",
+   "duration": 8,
+   "transition": "cut",
+   "characters": [
+    "elena",
+    "salar"
+   ],
+   "keyframe": "Low-angle medium-wide shot from just above the water surface, facing Elena: she stands alone at the very start of the glass-still water, her whole figure in frame with her upside-down reflection beneath her, about to take her first step, looking around in wonder with a small, amazed smile, lips closed; the pale-blue sky with white clouds above and the same sky reflected below; faint hexagon patterns in the white salt under the water. Only Elena is in frame; Ernesto and the jeep are out of frame, no other people.",
+   "motion": "Elena takes one slow, careful step forward onto the water; a single ring of ripples spreads out from her boot across the reflected clouds and fades; then the water stills again and she looks around in wonder; the view stays low and drifts gently. Her lips stay closed.",
+   "sfx": "one soft splash of a boot in shallow water, a very faint breeze",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sky above her, sky below. She could not tell them apart.",
+     "at": 2.6
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "scene": "salar-edge",
+   "duration": 10,
+   "transition": "cut",
+   "characters": [
+    "ernesto",
+    "camera",
+    "jeep",
+    "salar"
+   ],
+   "keyframe": "Medium shot, waist up, beside the jeep: Ernesto stands alone at the open rear door of the dark-green jeep, holding the old film camera in both hands at chest height and looking down at it thoughtfully; behind him the bright mirror of the salt flat stretches to the horizon, softly out of focus. Only Ernesto is in frame; Elena is out of frame, no other people.",
+   "motion": "Ernesto holds the old film camera still and looks down at it for a long, quiet moment, then slowly lifts his eyes toward the water; a light breeze barely stirs the edge of his poncho; the view pushes in slowly. His lips stay closed.",
+   "sfx": "a very faint breeze, the soft hush of wide open space",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ernesto's father gave him that camera when he was twelve. He had carried it thirty years, and never once put film in it.",
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "scene": "salar-day",
+   "duration": 9,
+   "transition": "cut",
+   "characters": [
+    "elena",
+    "ernesto",
+    "camera",
+    "salar"
+   ],
+   "keyframe": "Wide full-body two-shot in profile, both standing in the ankle-deep water with their reflections beneath them: Ernesto on the left, his hands now empty, smiles down at Elena; Elena on the right has just been given the old film camera and holds it in both hands in front of her, looking up at him in surprise; the mirror of pale-blue sky all around them. Only Elena and Ernesto are in frame; the jeep is out of frame, no other people.",
+   "motion": "Ernesto gives a small nod and smiles with closed lips; Elena slowly lowers her gaze to the old film camera in her hands; the water stays still around their boots; the view drifts slowly sideways. No one talks.",
+   "sfx": "a very faint breeze, the soft hush of wide open space",
+   "lines": [
+    {
+     "who": "ernesto",
+     "text": "This morning, I put film in it. Three rolls, all for you. You take the pictures.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "scene": "salar-day",
+   "duration": 7,
+   "transition": "cut",
+   "characters": [
+    "elena",
+    "camera"
+   ],
+   "keyframe": "Medium close-up of Elena, framed from the waist up: she holds the old film camera in both hands in front of her chest and looks down at it with wide, amazed eyes; the bright sky and its reflection glow softly out of focus behind her. Only Elena is in frame.",
+   "motion": "Elena looks down at the heavy old film camera, then slowly lifts her eyes toward her father off-screen with a small, amazed smile; her braids stir in the breeze; very slow push-in. Her lips stay closed.",
+   "sfx": "a very faint breeze",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It was heavier than she had thought, and it smelled of leather and old grease.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "scene": "salar-night",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "elena",
+    "ernesto",
+    "jeep"
+   ],
+   "keyframe": "Wide shot at deep night on the flooded salt flat, no daylight anywhere: a sky full of stars and the Milky Way is reflected perfectly in the still water below, so there are stars above and stars below. The dark-green jeep is parked on the right with its rear door open; a small camping lantern on the rear step glows warm gold and its reflection shines in the water. Elena and Ernesto sit side by side on the jeep's rear step, small in the frame, lit warmly by the lantern. Only Elena and Ernesto; no other people, no animals, no other vehicles.",
+   "motion": "Stars glitter above and in the reflection below; the lantern flame flickers gently; Elena turns her head toward her father; the view drifts very slowly sideways. No one talks.",
+   "sfx": "quiet night stillness, a very soft breeze, the faint hiss of the lantern",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That night, there were stars above them and stars below.",
+     "at": 0.6
+    },
+    {
+     "who": "elena",
+     "text": "Papi? Why did you never take pictures?",
+     "at": 5.0
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "scene": "salar-night",
+   "duration": 11,
+   "transition": "cut",
+   "characters": [
+    "ernesto"
+   ],
+   "keyframe": "Close-up of Ernesto at night, framed from the shoulders up: his face is lit warm gold from one side by a camping lantern below the frame and cool blue starlight on the other; he gazes out toward the dark water, thoughtful, remembering; behind him soft out-of-focus stars in a deep indigo sky. Only Ernesto is in frame.",
+   "motion": "Ernesto keeps looking out into the night, thinking; he blinks slowly and breathes; the lantern light flickers softly on his face; very slow push-in. His lips stay closed.",
+   "sfx": "quiet night, the faint hiss of the lantern, a very soft breeze",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "When he was young, he said, the camera made him stop seeing. He was making a picture, not being there. So he chose to see.",
+     "at": 0.4
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "scene": "salar-night",
+   "duration": 9,
+   "transition": "cut",
+   "characters": [
+    "elena",
+    "ernesto",
+    "jeep"
+   ],
+   "keyframe": "Medium two-shot at night, seen from the front: Elena and Ernesto sit side by side on the open rear step of the dark-green jeep, the small camping lantern glowing warm gold between them, stars in the deep indigo sky behind. Ernesto turns toward Elena with a gentle smile; Elena looks up at him, listening. Only these two; no other people.",
+   "motion": "Ernesto looks down at Elena with a warm, gentle smile; Elena looks up at him, then slowly smiles back; the lantern flickers; slow push-in. Both keep their lips closed; no one talks.",
+   "sfx": "quiet night, the faint hiss of the lantern",
+   "lines": [
+    {
+     "who": "ernesto",
+     "text": "When you look at something, I see it new. So you take the pictures. I'll watch you.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "scene": "salar-day",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "elena",
+    "ernesto",
+    "salar"
+   ],
+   "keyframe": "Extreme wide shot in bright late-morning light: in the near foreground at the right, Ernesto stands seen from behind, watching; far out in the middle of the endless mirror, Elena is a small figure in a red poncho holding the old film camera up to her eye, doubled by her reflection beneath her; the huge blue sky with white clouds above and the same sky below. Deep focus: everything sharp from foreground to horizon. Only Elena and Ernesto are in frame; no other people, no jeep.",
+   "motion": "Far away, Elena holds the old film camera to her eye, very still; Ernesto stands watching with his hands tucked under his poncho; the clouds drift slowly above and below; the water stays mirror-smooth; the view slowly cranes upward.",
+   "sfx": "a very faint breeze, the soft hush of wide open space",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For four days, Elena took pictures. Ernesto took none. He carried the water, made her rest in the shade, and watched.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "scene": "salar-sunset",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "elena",
+    "ernesto"
+   ],
+   "keyframe": "Wide side view at sunset on the flooded salt flat: Elena and Ernesto, dark silhouettes with warm rim light, walk side by side from right to left across the shallow, glowing orange-and-rose mirror of still water, their upside-down reflections walking beneath them; the low sun sits on the horizon, doubled by the water. Only these two figures; no other people, no animals, no jeep.",
+   "motion": "They walk slowly and steadily from right to left; small ripples trail behind their boots; the sun glows low; the view tracks gently alongside them.",
+   "sfx": "soft footsteps splashing in shallow water, a faint evening breeze",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He was happier than he had been in years. Watching someone see, he found, is a way of loving them.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "scene": "salar-dawn",
+   "duration": 8,
+   "transition": "fade",
+   "characters": [
+    "elena",
+    "ernesto",
+    "camera",
+    "salardawn"
+   ],
+   "keyframe": "Wide low front view at the first light of dawn: Elena walks toward the viewer across the still mirror, holding the old film camera against her chest, and Ernesto walks about ten paces behind her; behind them the horizon glows soft pink and gold, the whole sky and its reflection blushing rose, a few last stars fading. Both have their reflections beneath them. Only Elena and Ernesto; no other people, no jeep.",
+   "motion": "Elena and Ernesto walk slowly toward the viewer through the shallow water; the pink light slowly warms to gold along the horizon; the view slowly backs away in front of them.",
+   "sfx": "soft splashing footsteps in shallow water, a faint dawn breeze",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the last morning, they went out before dawn, and the mirror filled with pink, then gold.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "scene": "salar-dawn",
+   "duration": 9,
+   "transition": "cut",
+   "characters": [
+    "elena",
+    "ernesto",
+    "camera",
+    "salardawn"
+   ],
+   "keyframe": "Medium two-shot in profile in golden dawn light, both standing in the ankle-deep water: Elena on the right has turned back toward her father and holds the old film camera out to him with both hands, looking up at him hopefully; Ernesto on the left looks down at it, surprised. Their reflections are beneath them; the sky glows pink and gold. Only these two; no other people.",
+   "motion": "Elena holds the old film camera out toward her father, looking up at him hopefully; Ernesto hesitates, then slowly reaches out and takes it in both hands; the golden light brightens; slow push-in. Both keep their lips closed; no one talks.",
+   "sfx": "a faint dawn breeze, the soft hush of wide open space",
+   "lines": [
+    {
+     "who": "elena",
+     "text": "Papi. One picture. Of me.",
+     "at": 0.4
+    },
+    {
+     "who": "ernesto",
+     "text": "One?",
+     "at": 3.0
+    },
+    {
+     "who": "elena",
+     "text": "Just one. Out in the mirror. You take it.",
+     "at": 3.9
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "scene": "salar-dawn",
+   "duration": 6,
+   "transition": "cut",
+   "characters": [
+    "ernesto",
+    "camera"
+   ],
+   "keyframe": "Medium close-up of Ernesto in warm golden dawn light, framed from the waist up: he holds the old film camera in both hands just below his chin and looks down at it, his face still and moved; the glowing pink-and-gold mirror is soft and out of focus behind him. Only Ernesto is in frame.",
+   "motion": "He looks at the old film camera for a long moment, then slowly lifts his eyes toward his daughter off-screen and gives one small nod; a light breeze stirs his hair; very slow push-in. His lips stay closed.",
+   "sfx": "a faint dawn breeze"
+  },
+  {
+   "id": "s15",
+   "scene": "salar-dawn",
+   "duration": 10,
+   "transition": "cut",
+   "characters": [
+    "ernesto",
+    "elena",
+    "camera",
+    "salardawn"
+   ],
+   "keyframe": "Over-the-shoulder shot from just behind Ernesto: in the left foreground his head, shoulder and grey poncho, the old film camera already raised to his eye in both hands; far out on the mirror, centred and small, Elena stands in her red poncho facing him, her reflection beneath her, the golden sunrise sky above and the same sky below. Deep focus: everything sharp from foreground to horizon. Only Ernesto and Elena; no other people.",
+   "motion": "Ernesto holds the old film camera perfectly still at his eye for a long, slow moment; far away Elena stands still; the golden light grows; the view pushes in very slowly past his shoulder toward her.",
+   "sfx": "a very faint breeze over still water, then near the end one small clean mechanical click of a camera shutter",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For the first time in his life, he looked at his daughter through the camera. He was there. He made the picture.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "scene": "salar-dawn",
+   "duration": 8,
+   "transition": "cut",
+   "characters": [
+    "elena",
+    "salardawn"
+   ],
+   "keyframe": "Wide, perfectly symmetrical frontal shot: Elena stands alone in the middle of the glass-still mirror, facing the viewer, arms raised slightly from her sides, with a calm small smile, her red poncho glowing in the golden sunrise; her reflection hangs upside-down beneath her, perfectly mirrored; above her the soft pink-and-gold dawn sky with a few small clouds, and the same sky below, the horizon a thin bright line across the middle of the frame. She fills about a third of the frame height. Deep focus: everything sharp from foreground to horizon. Only Elena is in frame; no other people, no jeep.",
+   "motion": "Almost perfectly still, like a photograph: Elena breathes softly and smiles with closed lips; the hem of her poncho stirs; the water stays glass-still so her reflection stays perfect; very slow push-in.",
+   "sfx": "a very faint breeze, the soft hush of still water"
+  },
+  {
+   "id": "s17",
+   "scene": "salar-dawn",
+   "duration": 11,
+   "transition": "cut",
+   "characters": [
+    "elena",
+    "ernesto",
+    "camera"
+   ],
+   "keyframe": "Medium-close two-shot, waist up, at a three-quarter angle in bright golden morning light: Elena, on the right, hugs the old film camera against her red poncho with both hands and looks up at her father's face; Ernesto, on the left, stands close in front of her with empty hands at his sides, looking down at her with a small, moved smile. The glowing mirror behind them is soft and out of focus. Only these two; no other people.",
+   "motion": "Father and daughter look at each other and slowly smile; Elena keeps the old film camera held close to her chest; the breeze stirs her braids; the view arcs gently around them. Both keep their lips closed; no one talks.",
+   "sfx": "a gentle morning breeze",
+   "lines": [
+    {
+     "who": "ernesto",
+     "text": "I don't know how it will turn out. But I did it.",
+     "at": 0.6
+    },
+    {
+     "who": "elena",
+     "text": "It will turn out. I know it will.",
+     "at": 5.6
+    }
+   ]
+  },
+  {
+   "id": "s18",
+   "scene": "altiplano-home",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "jeep",
+    "altiplano"
+   ],
+   "keyframe": "Low wide side view of the altiplano in warm late-afternoon light: the dark-green jeep drives from right to left along the red-earth road, trailing golden dust, long shadows across the pale-golden grass; in the foreground grass two vicuñas (slender, long-necked, pale-cinnamon wild relatives of the llama with white bellies) graze calmly; low blue mountains beyond. The people inside the jeep are not visible through the dusty windows. No people outside, no other vehicles, no other animals.",
+   "motion": "The jeep drives slowly from right to left along the road, trailing dust; the two vicuñas lift their heads calmly and watch it pass; the view pans gently to follow.",
+   "sfx": "the low rumble of a passing engine, wind over dry grass",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They drove home, and waited a month for the film to be printed. When the pictures came, one of them was not Elena's.",
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "s19",
+   "scene": "la-paz",
+   "duration": 11,
+   "transition": "fade",
+   "characters": [
+    "elena",
+    "lapaz"
+   ],
+   "keyframe": "Medium shot of a child's small bedroom in La Paz in warm afternoon light, seen from behind Elena and slightly to one side: Elena sits on the chair at the small wooden desk, her two long black braids down her back, looking up at a single printed photograph with a thin white border pinned to the bare whitewashed wall above the desk. The photograph shows a tiny girl in a red poncho standing far away in the middle of a vast mirror of water, her upside-down reflection beneath her, with a pink-and-gold dawn sky above and the same sky reflected below. Through the window beside the desk, red-brick houses climb steep hills toward a snow-capped mountain peak. Warm dust motes float in the still indoor air. Only Elena is in the room; the only other figure is the tiny girl inside the photograph. No other people, no animals.",
+   "motion": "Elena gazes up at the photograph and a small, quiet smile spreads across her face; she breathes softly; warm dust motes drift in the window light; very slow push-in over her shoulder toward the photograph. Her lips stay closed.",
+   "sfx": "quiet room tone, a very faint distant rumble of traffic through the closed window",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "She kept it above her desk for the rest of her life. And every February, her father took one more picture of her. Just one.",
+     "at": 0.6
+    }
+   ]
+  }
+ ]
+}

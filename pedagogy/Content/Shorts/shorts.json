@@ -9,6 +9,24 @@
     "publishedAt": null
   },
   {
+    "id": "the-sky-mirror",
+    "kind": "original",
+    "title": "The Sky Mirror",
+    "logline": "On a salt flat so still it mirrors the sky, ten-year-old Elena is given the old camera her father has carried empty for thirty years. Why has he never taken a picture?",
+    "durationSeconds": 187,
+    "isPremium": true,
+    "publishedAt": null
+  },
+  {
+    "id": "the-camel-and-the-well",
+    "kind": "original",
+    "title": "The Camel and the Well",
+    "logline": "Twelve-year-old Nadia rides out with her grandfather to a secret well hidden in Morocco's great dunes. When a sandstorm wipes away every path home, she must remember his one rule: trust the camel.",
+    "durationSeconds": 191,
+    "isPremium": true,
+    "publishedAt": null
+  },
+  {
     "id": "singularity",
     "kind": "open",
     "title": "Singularity",

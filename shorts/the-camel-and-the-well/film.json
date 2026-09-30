@@ -1,0 +1,531 @@
+{
+ "id": "the-camel-and-the-well",
+ "title": "The Camel and the Well",
+ "logline": "Twelve-year-old Nadia rides out with her grandfather to a secret well hidden in Morocco's great dunes. When a sandstorm wipes away every path home, she must remember his one rule: trust the camel.",
+ "isPremium": true,
+ "publishedAt": null,
+ "posterShot": "s09",
+ "style": "Painterly stylized 3D animated film, like a modern open-movie animated short: every surface looks hand-painted with visible soft brush strokes and textured colour, never smooth plastic. Rich, warm, saturated colour: ochre, apricot, terracotta and burnt-orange earth tones set against deep cobalt, indigo and soft turquoise blues. Dramatic cinematic lighting with strong warm-versus-cool contrast, soft rim light and gentle atmospheric depth. Stylized characters with soft rounded forms and large, expressive, glossy eyes. Heartfelt, adventurous and wondrous mood, gentle and never scary. Full-bleed 16:9 cinematic frame that fills the whole image edge to edge: no black bars, no letterbox, no borders. Soft cinematic depth of field. No text, no letters, no writing, no symbols, no captions, no watermark.",
+ "motionStyle": "Painterly stylized 3D animation with expressive, weighty, natural character acting (subtle breathing and blinking; outdoors, scarves and robes stir in the wind; indoors the air is still and clothes hang still), character designs and costume colours that stay exactly the same from the first frame to the last, calm faces with closed or still mouths (nobody talks on screen), slow cinematic camera moves with parallax and depth, no morphing, no sudden changes of light or colour, no text appearing.",
+ "voices": {
+  "narrator": {
+   "voice": "flux-alexis-en",
+   "notes": "Warm, unhurried storyteller reading a bedtime story to a 10-year-old. Gentle pauses at commas. Never theatrical.",
+   "alternatives": [
+    "flux-elise-en (fem., adulta, calma)",
+    "flux-colin-en (masc., adulto, britânico, caloroso)"
+   ]
+  },
+  "sidi": {
+   "voice": "flux-sean-en",
+   "notes": "Sidi, a 71-year-old Moroccan grandfather speaking English slowly and carefully, a man of few words. Low, calm, serious and very kind; never alarmed, even in the storm. Small pauses between sentences.",
+   "alternatives": [
+    "flux-conor-en (masc., maduro, britânico, grave)",
+    "flux-cliff-en (masc., maduro, americano, sereno)"
+   ]
+  },
+  "nadia": {
+   "voice": "flux-gemma-en",
+   "notes": "Nadia, a thoughtful, brave 12-year-old girl. Soft and natural, a little breathless when scared; small and hopeful when she asks the camel to take them home.",
+   "alternatives": [
+    "flux-heather-en (fem., jovem, animada)",
+    "flux-sharon-en (fem., jovem, australiana, suave)"
+   ]
+  }
+ },
+ "models": {
+  "tts": "deepgram/flux-tts:free"
+ },
+ "characters": {
+  "nadia": {
+   "description": "Nadia, a 12-year-old Moroccan girl with warm light-brown skin, big dark-brown eyes, rosy cheeks and a thick dark-brown braid falling from under her scarf over one shoulder, wearing a long, loose, ankle-length cotton robe with bold vertical blue-and-white stripes, a light indigo-blue scarf wrapped over her hair and loosely around her neck (her face always uncovered) and brown leather ankle boots",
+   "refPrompt": "Character model sheet of Nadia, a 12-year-old Moroccan girl with warm light-brown skin, big dark-brown eyes, rosy cheeks and a thick dark-brown braid falling from under her scarf over one shoulder, wearing a long, loose, ankle-length cotton robe with bold vertical blue-and-white stripes, a light indigo-blue scarf wrapped over her hair and loosely around her neck with her face uncovered, and brown leather ankle boots. Three views side by side: front, three-quarter, side. Full body, neutral relaxed pose, plain light warm-grey background, evenly lit, everything in sharp focus. Only Nadia: no other people, no animals."
+  },
+  "sidi": {
+   "description": "Sidi Hassan, Nadia's grandfather, a thin, tall 71-year-old Moroccan man with deep-brown weathered skin, a deeply lined kind face, a short neat white beard, bushy white eyebrows and deep-set gentle eyes, wearing a long dark navy-blue hooded robe with the hood down over loose white trousers, a dark indigo turban wrapped around his head (his face always uncovered) and brown leather sandals",
+   "refPrompt": "Character model sheet of Sidi Hassan, a thin, tall 71-year-old Moroccan grandfather with deep-brown weathered skin, a deeply lined kind face, a short neat white beard, bushy white eyebrows and deep-set gentle eyes, wearing a long dark navy-blue hooded robe with the hood down over loose white trousers, a dark indigo turban wrapped around his head with his face uncovered, and brown leather sandals. Three views side by side: front, three-quarter, side. Full body, neutral relaxed pose, plain light warm-grey background, evenly lit, everything in sharp focus. Only Sidi: no other people, no animals."
+  },
+  "farouk": {
+   "description": "Farouk, a big, old one-humped camel with shaggy sandy-tan fur, a pale fluffy tuft of hair on top of his head, grey-white hairs around his soft drooping muzzle, big gentle dark-brown eyes with long eyelashes and a warm, gentle face, wearing a simple rope halter with a long braided lead rope and a wooden saddle on his hump covered by a woven blanket with deep red and saffron-yellow stripes, two round brown leather water skins hanging from it",
+   "refPrompt": "Character model sheet of Farouk, a big, old one-humped camel (dromedary) with shaggy sandy-tan fur, a pale fluffy tuft of hair on top of his head, grey-white hairs around his soft drooping muzzle, big gentle dark-brown eyes with long eyelashes and a warm, gentle face, wearing a simple rope halter with a long braided lead rope and a wooden saddle on his hump covered by a woven blanket with deep red and saffron-yellow stripes, two round brown leather water skins hanging from it. Three views side by side: front, three-quarter, side. Whole body standing calmly on four legs, correct camel anatomy with a single hump and long slender legs, plain light warm-grey background, evenly lit, everything in sharp focus. Only the camel: no people, no other animals."
+  },
+  "village": {
+   "description": "Merzouga, a small Moroccan village of low flat-roofed mud-brick houses in warm ochre and rose-clay colours with small windows and carved wooden shutters, a few tall date palms, dirt paths and a small dry-stone camel corral beside the last house, at the very edge of huge sculpted orange sand dunes that rise behind it",
+   "refPrompt": "Establishing concept art of a small Moroccan village at the edge of a sea of dunes in warm afternoon light: low flat-roofed mud-brick houses in warm ochre and rose-clay colours, small windows with carved wooden shutters, a few tall date palms, dirt paths, a small dry-stone camel corral beside the last house, and behind the village huge sculpted orange sand dunes rising under a clear deep-blue sky. Wide shot, no characters, no people, no animals."
+  },
+  "house": {
+   "description": "the main room of Sidi's house: smooth rounded ochre mud-plaster walls, a ceiling of dark palm-wood beams, a small window with closed carved wooden shutters, a low round wooden table with a brass teapot and small tea glasses, a woven red-and-indigo rug, floor cushions, a small oil lamp in a wall niche and a low cushioned bed along one wall with a striped wool blanket",
+   "refPrompt": "Interior concept art of the main room of an old mud-brick house in a Moroccan village, softly and evenly lit by warm light: smooth rounded ochre mud-plaster walls, a ceiling of dark palm-wood beams, a small window with closed carved wooden shutters, a low round wooden table with a brass teapot and small tea glasses on a woven red-and-indigo rug, floor cushions, a small oil lamp in a wall niche, and a low cushioned bed along one wall with a striped wool blanket. Still indoor air; no sand and no wind indoors. No characters, no people, no animals."
+  },
+  "dunes": {
+   "description": "the Erg Chebbi, an endless sea of tall sculpted orange sand dunes with sharp curving wind-carved crests, fine ripples on their slopes and cool blue-violet shadows",
+   "refPrompt": "Establishing concept art of an endless sea of tall sculpted orange sand dunes in the Sahara in bright mid-morning light: sharp curving wind-carved crests, fine wind ripples on the slopes, cool blue-violet shadows and a clear deep-blue sky without clouds. Wide shot, no characters, no people, no animals, no footprints."
+  },
+  "well": {
+   "description": "Bir Amina, an ancient round well about two metres wide in a small sandy hollow between two big orange dunes, with a low rim of old weathered stones and a flat grey weathered wooden lid",
+   "refPrompt": "Establishing concept art of an ancient hidden well in a small sandy hollow between two big orange dunes in bright mid-morning light: a round well about two metres wide with a low rim of old weathered stones, partly covered by a flat grey weathered wooden lid weighted with a few stones. Wide shot, no characters, no people, no animals."
+  },
+  "storm": {
+   "description": "the sandstorm: a colossal rolling wall of warm orange-brown dust stretching across the whole horizon, taller than the highest dunes, with huge slow billowing folds lit by the sun, while the sky in front of it is still clear blue",
+   "refPrompt": "Establishing concept art of a colossal sandstorm approaching across a sea of orange dunes at midday: a rolling wall of warm orange-brown dust stretching across the whole horizon, taller than the highest dunes, with huge slow billowing folds lit by the high sun, while the sky in front of it is still clear blue and the dunes in the foreground are still sunlit. Wide shot, majestic and awe-inspiring, not frightening. No characters, no people, no animals."
+  }
+ },
+ "shots": [
+  {
+   "id": "s01",
+   "scene": "village-afternoon",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "nadia",
+    "sidi",
+    "village"
+   ],
+   "keyframe": "Wide establishing shot in warm late-afternoon light: the small mud-brick village with its date palms and carved wooden shutters sits at the very edge of huge sculpted orange dunes, under a clear deep-blue sky. In the lower foreground, small in the frame and seen from behind at a three-quarter angle, Nadia and her grandfather Sidi walk side by side up the dirt path toward the houses. Exactly two people in frame, Nadia and Sidi: no camel, no other people, no animals.",
+   "motion": "Nadia and Sidi walk slowly up the dirt path toward the houses; palm fronds sway gently in the breeze; the camera cranes slowly down and forward, with soft parallax between the palms and the houses.",
+   "sfx": "soft warm breeze, footsteps on dry earth, rustling palm fronds",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nadia was twelve the winter she stayed with her grandfather, Sidi, in Morocco, where the road ended and the great dunes began.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "scene": "corral-morning",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "sidi",
+    "farouk",
+    "nadia",
+    "village"
+   ],
+   "keyframe": "Medium shot in soft golden morning light inside the small dry-stone corral behind the last house of the village: on the left, Sidi stands beside Farouk the camel, one hand resting on the camel's long neck; on the right, Nadia stands a few steps away, looking up at the huge camel with wide, curious, slightly shy eyes. Low mud-brick walls and a date palm behind them. Exactly two people and one camel, Sidi, Nadia and Farouk: no other people, no other animals.",
+   "motion": "Farouk slowly lowers his big head toward Sidi, who gently scratches him between the ears; Nadia watches and smiles; the camera pushes in slowly.",
+   "sfx": "soft morning breeze, soft padded camel footsteps shifting on dry earth",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sidi's camel, Farouk, was very old, and very wise.",
+     "at": 0.5
+    },
+    {
+     "who": "sidi",
+     "text": "If we get lost, we trust the camel. That is the rule.",
+     "at": 3.9
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "scene": "house-afternoon",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "sidi",
+    "nadia",
+    "house"
+   ],
+   "keyframe": "Inside Sidi's house in the warm afternoon, a medium two-shot: Sidi and Nadia sit on floor cushions facing each other across the low round wooden table with the brass teapot and two small tea glasses; thin golden shafts of light fall through the slats of the closed wooden shutters. Sidi, in three-quarter view, holds a small piece of old paper folded shut in his hand, nothing on it visible; Nadia leans in, listening closely. Exactly two people, Sidi and Nadia: no camel, no animals, no other people. Still, warm indoor air with faint glowing dust motes; no sand and no wind indoors.",
+   "motion": "Nadia leans in slowly, listening; dust motes drift through the shafts of light; the camera dollies slowly sideways with gentle parallax.",
+   "sfx": "quiet warm room tone, faint rustle of cloth",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sidi kept a little map of the secret wells hidden in the dunes. Only four people knew where they were.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "scene": "village-dawn",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "farouk",
+    "nadia",
+    "sidi",
+    "village"
+   ],
+   "keyframe": "Wide shot at dawn from the edge of the village, looking out over the dunes: a cool blue and rose-pink sky, the first golden rays catching the crests of the orange dunes. Seen from behind and small in the frame, Sidi walks ahead on foot leading Farouk by the rope, and Nadia rides on Farouk's saddle; they are leaving the village onto the sand. The last mud-brick house and a date palm frame the left edge in cool shadow. Exactly two people and one camel, Sidi, Nadia and Farouk: no other people, no other animals.",
+   "motion": "Farouk walks slowly and steadily away toward the dunes behind Sidi, with a calm, heavy, natural camel gait; the sky warms from pink to gold; the camera holds still, then tilts gently up toward the glowing dune crests.",
+   "sfx": "cold soft dawn breeze, slow camel footsteps on sand",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They left before dawn, in the cold, for one of the wells. Farouk carried the water, the food, and Nadia.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "scene": "dunes-morning",
+   "duration": 6,
+   "transition": "fade",
+   "characters": [
+    "farouk",
+    "nadia",
+    "sidi",
+    "dunes"
+   ],
+   "keyframe": "Extreme wide aerial view in bright morning light over an endless sea of sculpted orange dunes with sharp curving crests and cool blue shadows. Far below, tiny in the frame, the three travellers walk in a line along a long curving dune crest: Sidi on foot in front, then Farouk the camel with Nadia riding on the saddle, their long thin shadows stretching across the sand. Exactly two tiny people and one tiny camel: no other camels, no other people, no other animals, no buildings.",
+   "motion": "The three tiny travellers move slowly along the crest; the camera glides slowly forward high above the dunes with gentle parallax between the crests.",
+   "sfx": "soft steady wind over the dunes, faint hiss of drifting sand",
+   "lines": []
+  },
+  {
+   "id": "s06",
+   "scene": "well",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "sidi",
+    "nadia",
+    "farouk",
+    "well"
+   ],
+   "keyframe": "Medium-wide shot in bright mid-morning light in the small sandy hollow between two big orange dunes: the ancient round stone well sits in the centre with its flat wooden lid slid half aside; Sidi kneels at the rim holding the rope of a small wooden bucket that hangs down into the dark shaft; Nadia kneels beside him; Farouk rests on the right, lying on the sand with his legs folded under him. Exactly two people and one camel, Sidi, Nadia and Farouk: no other people, no other animals.",
+   "motion": "Nadia leans slowly over the stone rim, peering down into the deep dark well, while Sidi holds the rope still; Farouk blinks slowly; the camera cranes gently down toward the well.",
+   "sfx": "soft breeze, a faint splash of water far down a deep well",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three hours later, Sidi walked straight to a spot that looked like nowhere. Under a wooden lid was a well.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "scene": "well",
+   "duration": 8,
+   "transition": "cut",
+   "characters": [
+    "nadia",
+    "sidi",
+    "well"
+   ],
+   "keyframe": "Close two-shot from a low angle, from the far side of the well across its stone rim: Nadia and Sidi kneel side by side at the rim; Nadia holds the only bucket in the scene, the small wooden bucket of clear water, in both hands and drinks from its edge, eyes closed with delight; beside her, Sidi watches her with a small proud smile; the bright sky and a dune slope are softly out of focus behind them. Exactly two people, Nadia and Sidi: no camel, no other people, no animals.",
+   "motion": "Nadia lowers the bucket and smiles at Sidi, drops of water sparkling in the sunlight; Sidi nods gently; slow push-in.",
+   "sfx": "water dripping from a wooden bucket onto stone, soft breeze",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It was the best water she had ever tasted.",
+     "at": 0.5
+    },
+    {
+     "who": "sidi",
+     "text": "Two hundred years old, this well.",
+     "at": 4.35
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "scene": "dune-crest-noon",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "sidi",
+    "nadia",
+    "dunes"
+   ],
+   "keyframe": "Medium shot in side profile at noon on the crest of a small dune: Sidi stands shading his eyes with one hand, gazing toward the left, at something far away off-frame, his face focused and serious but not afraid; Nadia stands close beside him, a head shorter, looking the same way with wide, worried eyes. Behind them only bright clear blue sky and sunlit dune crests; no dust wall is visible in this shot. Exactly two people, Sidi and Nadia: no camel in this shot, no other people, no animals.",
+   "motion": "Sidi and Nadia stand still, gazing toward the left horizon, their robes and scarves stirring in a light breeze; the camera pushes in slowly on their faces in profile.",
+   "sfx": "light breeze, faint hiss of sand",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the way home, Sidi stopped. Far away, a low brown wall stretched across the sky. And it was moving.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "scene": "storm-approach",
+   "duration": 7,
+   "transition": "cut",
+   "characters": [
+    "sidi",
+    "nadia",
+    "storm"
+   ],
+   "keyframe": "Extreme wide shot with a long lens, from behind the two small figures of Sidi and Nadia standing on the dune crest in the lower foreground: across the whole horizon ahead of them rises a colossal rolling wall of warm orange-brown dust, taller than the highest dunes, with huge slow billowing folds glowing in the sun; the sky above and in front of it is still clear blue and the dunes in between are still sunlit. Exactly two small people seen from behind, Sidi and Nadia: no camel, no other people, no animals. Majestic and awe-inspiring, not frightening.",
+   "motion": "The wall of dust rolls slowly forward, its billowing folds tumbling like a slow-motion wave; Nadia's scarf flutters; the camera pushes in slowly over their shoulders.",
+   "sfx": "a deep, distant rushing wind growing slowly louder, faint hiss of sand",
+   "lines": []
+  },
+  {
+   "id": "s10",
+   "scene": "storm-approach",
+   "duration": 8,
+   "transition": "cut",
+   "characters": [
+    "sidi",
+    "nadia",
+    "storm"
+   ],
+   "keyframe": "Medium close-up over Sidi's shoulder on the dune crest: in the soft-focus foreground, the back of Sidi's head and his dark indigo turban, its loose end fluttering in the rising wind; facing the camera, Nadia looks up at him, wide-eyed but steady, her indigo scarf stirring; on the left of the background, softly out of focus, the orange-brown wall of dust fills the horizon. Exactly two people, Sidi and Nadia: no camel, no other people, no animals.",
+   "motion": "Sidi rests one hand on Nadia's shoulder; Nadia takes a breath and gives one small, brave nod; the wind tugs at their clothes; slow push-in.",
+   "sfx": "rising gusty wind, hiss of blowing sand",
+   "lines": [
+    {
+     "who": "sidi",
+     "text": "Sandstorm. We cannot outrun it. If it catches us, we trust Farouk.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "scene": "storm-approach",
+   "duration": 8,
+   "transition": "cut",
+   "characters": [
+    "sidi",
+    "nadia",
+    "farouk",
+    "storm"
+   ],
+   "keyframe": "Wide side-on tracking shot across the dunes: Sidi walks fast in front, leading Farouk by the rope, and Nadia rides on Farouk's saddle, looking back over her shoulder; behind them, filling the left half of the sky, the huge orange-brown wall of dust is much closer now, towering high above the dunes; the sky over their heads is still blue; thin streams of sand blow low across the ground. Exactly two people and one camel, Sidi, Nadia and Farouk: no other people, no other animals.",
+   "motion": "Farouk walks briskly from left to right behind Sidi with a steady, natural camel gait; Nadia's scarf and robe flap in the wind; the camera tracks sideways alongside them while the dust wall behind billows slowly forward.",
+   "sfx": "strong gusting wind, hissing sand, heavy camel footsteps on sand",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nadia kept looking back. The wall was coming faster.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "scene": "storm-approach",
+   "duration": 8,
+   "transition": "cut",
+   "characters": [
+    "nadia",
+    "sidi",
+    "farouk"
+   ],
+   "keyframe": "Medium shot in the rising wind under a hazy amber sky: Nadia stands on the sand beside Farouk, her eyes closed; the big camel's head is lowered and his soft muzzle rests gently against her forehead; Sidi stands just behind her with one hand on her shoulder. Fine sand streams sideways through the warm air. Exactly two people and one camel, Nadia, Sidi and Farouk: no other people, no other animals.",
+   "motion": "Farouk slowly lifts his head away from Nadia's forehead; Nadia opens her eyes, calmer; scarves and robes whip in the wind; very slow push-in.",
+   "sfx": "strong gusting wind, hissing sand",
+   "lines": [
+    {
+     "who": "sidi",
+     "text": "Wherever he goes, we follow him. Trust the camel. Yes?",
+     "at": 0.6
+    },
+    {
+     "who": "nadia",
+     "text": "Yes.",
+     "at": 5.4
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "scene": "sandstorm",
+   "duration": 11,
+   "transition": "cut",
+   "characters": [
+    "farouk",
+    "nadia",
+    "sidi"
+   ],
+   "keyframe": "Medium shot inside the sandstorm: the whole world is a glowing warm orange-brown haze and fine sand streams sideways through the air; Farouk lies on the sand with his legs folded under him, his big body side-on to the wind like a wall; Nadia and Sidi sit huddled close together against his warm side, heads bowed, holding hands, sheltered. The three are clearly visible close to camera, their costume colours still clear. Exactly two people and one camel, Nadia, Sidi and Farouk: no other people, no other animals. Cosy and protective, not frightening.",
+   "motion": "Sand streams sideways past them in soft gusts; Farouk closes his eyes and stays calm and still; Nadia presses closer to his side; slow, gentle push-in.",
+   "sfx": "loud rushing wind, hissing sand",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the storm hit. The world turned orange, and the wind roared. But Farouk's warm body kept the worst away.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "scene": "after-storm",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "farouk",
+    "nadia",
+    "sidi",
+    "dunes"
+   ],
+   "keyframe": "Wide high-angle shot as the storm clears: warm golden afternoon sunlight breaks through a thinning haze; the dunes all around are smooth and reshaped, without a single footprint. In the centre stands Farouk; beside him Sidi sits on the sand, resting, and Nadia stands next to them, a light dusting of sand on their shoulders, the blue-and-white stripes of Nadia's robe and Sidi's navy robe still clearly visible. Exactly two people and one camel, Nadia, Sidi and Farouk: no other people, no other animals.",
+   "motion": "Nadia turns slowly around, looking at the empty reshaped dunes; Sidi stays seated; the haze thins and the light turns warmer; the camera pulls slowly back and up.",
+   "sfx": "wind dying down to a soft breeze, sand pattering softly onto sand",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Slowly, the wind dropped. Every dune had a new shape, and Nadia had no idea which way home was.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s15",
+   "scene": "after-storm",
+   "duration": 9,
+   "transition": "cut",
+   "characters": [
+    "sidi",
+    "nadia",
+    "farouk",
+    "dunes"
+   ],
+   "keyframe": "Medium shot from a low angle on the sheltered side of a dune in hazy golden light: on the left, Sidi sits on the sand, seen in side profile, tired, one hand resting on his chest, turned toward Nadia with a small brave smile, his face calm and warm-coloured; on the right, Nadia kneels close beside him, facing the camera, holding his other hand and looking at him with worry; behind them, Farouk stands quietly, his striped saddle blanket and water skins visible. Exactly two people and one camel, Sidi, Nadia and Farouk: no other people, no other animals.",
+   "motion": "Sidi takes one slow, calm breath and gives Nadia a small reassuring smile; Nadia squeezes his hand; very slow push-in.",
+   "sfx": "soft breeze, faint hiss of sand",
+   "lines": [
+    {
+     "who": "sidi",
+     "text": "My heart needs rest, and I cannot find the way. Remember the rule?",
+     "at": 0.6
+    },
+    {
+     "who": "nadia",
+     "text": "Trust the camel.",
+     "at": 6.4
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "scene": "after-storm",
+   "duration": 7,
+   "transition": "cut",
+   "characters": [
+    "nadia",
+    "farouk"
+   ],
+   "keyframe": "Close two-shot in side profile from a slightly low angle: on the left, Nadia stands holding Farouk's braided lead rope loosely in one hand and looks up at him, brave and hopeful; on the right, Farouk's big gentle head is bent down toward her, his eyes looking into hers; the clearing sky behind them glows warm gold. Only Nadia and Farouk are in frame: Sidi is out of shot; no other people, no other animals.",
+   "motion": "After a still moment, Farouk slowly turns his big head to one side, toward the far dunes, as if choosing the way; Nadia follows his gaze; slow push-in.",
+   "sfx": "soft breeze, faint hiss of drifting sand",
+   "lines": [
+    {
+     "who": "nadia",
+     "text": "All right, Farouk. Take us home. Please.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "scene": "dunes-evening",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "farouk",
+    "nadia",
+    "sidi",
+    "dunes"
+   ],
+   "keyframe": "Wide side-on shot in warm late-afternoon golden light with long blue shadows: Farouk walks in profile along a gentle dune slope, leading the way; Nadia walks beside his head holding the lead rope loosely; Sidi walks slowly just behind her at the camel's side, one hand resting on the striped saddle blanket. Small in the frame against the vast glowing dunes. Exactly two people and one camel, Nadia, Sidi and Farouk: no other people, no other animals.",
+   "motion": "The three walk slowly and steadily from left to right, Farouk setting a gentle pace with a calm, natural camel gait; long shadows stretch across the sand; the camera tracks slowly alongside with parallax of the dune crests.",
+   "sfx": "soft breeze, slow footsteps and camel steps on sand",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Farouk walked slowly, sometimes choosing a way Nadia never would have. She did not pull the rope. She trusted him.",
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "s18",
+   "scene": "village-sunset",
+   "duration": 10,
+   "transition": "fade",
+   "characters": [
+    "farouk",
+    "nadia",
+    "sidi",
+    "village"
+   ],
+   "keyframe": "Medium-wide shot at sunset from low behind the three on the crest of a big dune, seen in three-quarter view from behind: on the right, Farouk has lowered his head and long neck toward Nadia, and she hugs his neck with both arms, her cheek against his shaggy fur; Sidi stands beside them with one hand on the saddle; below them, at the foot of the long slope, the mud-brick village glows with warm lit windows among the date palms; the sky is gold and rose. Exactly two people and one camel, Nadia, Sidi and Farouk: no other people, no other animals.",
+   "motion": "Nadia holds the hug, still and grateful; Farouk stays calm and still; the windows of the village glow warmer as the sun sinks; the camera cranes slowly up and forward over their shoulders toward the village below.",
+   "sfx": "soft evening breeze, faint hiss of sand",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Just before sunset, they came over the last dune. Below them, the village glowed.",
+     "at": 0.6
+    },
+    {
+     "who": "nadia",
+     "text": "Thank you, Farouk.",
+     "at": 6.4
+    }
+   ]
+  },
+  {
+   "id": "s19",
+   "scene": "house-night",
+   "duration": 11,
+   "transition": "fade",
+   "characters": [
+    "sidi",
+    "nadia",
+    "house"
+   ],
+   "keyframe": "Inside Sidi's house at night, a medium shot lit by the warm glow of the small oil lamp in the wall niche: Sidi rests on the low cushioned bed, propped up on cushions under the striped wool blanket, still in his navy-blue robe and indigo turban, tired but awake, with a kind smile and healthy warm colour in his face; Nadia sits on a low wooden stool beside the bed, holding a small glass of mint tea in both hands. It is night: the closed wooden shutters are dark, with no daylight and no light shafts coming through them; the only light is the warm glow of the small oil lamp. Exactly two people, Sidi and Nadia: no camel, no animals, no other people. Still, warm indoor air with faint glowing dust motes in the lamplight; no sand and no wind indoors.",
+   "motion": "Nadia lowers her tea glass and looks at Sidi; Sidi gives a slow, warm nod; the lamp flame flickers softly; slow push-in.",
+   "sfx": "faint crackle of a small oil lamp flame, quiet room tone",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sidi needed rest. He would be fine.",
+     "at": 0.5
+    },
+    {
+     "who": "nadia",
+     "text": "I was so afraid.",
+     "at": 3.3
+    },
+    {
+     "who": "sidi",
+     "text": "So was I. Brave is being afraid, and doing it anyway.",
+     "at": 5.1
+    }
+   ]
+  },
+  {
+   "id": "s20",
+   "scene": "house-night",
+   "duration": 11,
+   "transition": "cut",
+   "characters": [
+    "sidi",
+    "nadia",
+    "house"
+   ],
+   "keyframe": "Close shot from a new, lower angle beside the bed, in warm lamplight: Nadia sits holding a small piece of old paper, folded shut so nothing on it is visible, pressed flat against her chest with both hands; her face with shining eyes, moved and proud, looks toward Sidi, whose kind face is softly out of focus on the right. Her small tea glass stands on the low table behind her. It is night: the closed wooden shutters are dark, with no daylight and no light shafts coming through them; the only light is the warm glow of the small oil lamp. Exactly two people, Sidi and Nadia: no camel, no animals, no other people. Still, warm indoor air with faint dust motes; no sand and no wind indoors.",
+   "motion": "Nadia holds the folded paper still against her chest and gives one small, proud nod; the lamp flame flickers; very slow push-in.",
+   "sfx": "faint crackle of a small oil lamp flame, quiet room tone",
+   "lines": [
+    {
+     "who": "sidi",
+     "text": "You trusted the camel. Now I trust you. You are the fifth.",
+     "at": 0.6
+    },
+    {
+     "who": "narrator",
+     "text": "And she kept it safe, for the rest of her life.",
+     "at": 5.8
+    }
+   ]
+  }
+ ]
+}
