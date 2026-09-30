@@ -128,9 +128,17 @@ struct HomeView: View {
         shorts.filter { $0.resolvedKind == .original }
     }
 
-    /// Filmes abertos e clássicos: a seção "Watch", mais abaixo.
+    /// Filmes abertos e clássicos: a seção "Watch", mais abaixo. O trio
+    /// grátis da semana vem na frente do carrossel.
     private var otherShorts: [Short] {
-        shorts.filter { $0.resolvedKind != .original }
+        let free = freeThisWeek
+        let others = shorts.filter { $0.resolvedKind != .original }
+        return others.filter { free.contains($0.id) } + others.filter { !free.contains($0.id) }
+    }
+
+    /// Ids do trio grátis desta semana no Watch (ver `Short.freeThisWeek`).
+    private var freeThisWeek: Set<String> {
+        Short.freeThisWeek(in: shorts)
     }
 
     /// Até 3 stories marcadas isFeatured==true, excluindo a de "This week"
@@ -191,7 +199,11 @@ struct HomeView: View {
                                 shorts: otherShorts,
                                 launcher: shortLauncher,
                                 isLocked: isLocked,
-                                onTap: playShort
+                                onTap: playShort,
+                                // Pra quem assina o selo é ruído: tudo já é liberado.
+                                isFreeThisWeek: { short in
+                                    !store.isPremium && short.isPremium && freeThisWeek.contains(short.id)
+                                }
                             )
                             .announcesFailures()
                         }
@@ -233,7 +245,7 @@ struct HomeView: View {
     }
 
     private func isLocked(_ short: Short) -> Bool {
-        short.isPremium && !store.isPremium
+        !short.isFreeToWatch(in: shorts) && !store.isPremium
     }
 
     private func playShort(_ short: Short) {

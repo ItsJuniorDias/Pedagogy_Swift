@@ -29,7 +29,9 @@ struct Short: Codable, Identifiable, Hashable {
     let durationSeconds: Int
 
     /// Mesma regra das histórias: premium exige assinatura. O piloto é free
-    /// de propósito — é amostra do formato.
+    /// de propósito — é amostra do formato. Os filmes do Watch são premium
+    /// com 3 grátis por semana em rodízio: pra decidir acesso use
+    /// `isFreeToWatch(in:)`, nunca este campo direto.
     let isPremium: Bool
 
     /// Curta com data no futuro não aparece. Diferente das histórias (ver
@@ -72,5 +74,68 @@ struct Short: Codable, Identifiable, Hashable {
     func isReleased(now: Date = .now) -> Bool {
         guard let publishedAt else { return true }
         return publishedAt <= now
+    }
+}
+
+// MARK: - Grátis da semana
+
+extension Short {
+    /// Quantos filmes do Watch ficam grátis por semana.
+    static let freePerWeek = 3
+
+    /// Se o filme pode ser assistido SEM assinatura. Mesmo papel do
+    /// `Story.isFreeToRead()`: a regra de acesso fica num lugar só.
+    ///
+    ///   • Não-premium → sempre grátis
+    ///   • Premium do Watch (aberto ou clássico) no trio grátis da semana → grátis
+    ///   • O resto → exige assinatura
+    ///
+    /// Precisa do catálogo porque o trio depende de quais filmes existem.
+    func isFreeToWatch(in catalog: [Short], now: Date = .now) -> Bool {
+        !isPremium || Short.freeThisWeek(in: catalog, now: now).contains(id)
+    }
+
+    /// Ids do trio grátis desta semana: rodízio pelos filmes premium do
+    /// Watch, 3 por semana — com 36 filmes, cada um volta a ficar grátis a
+    /// cada 12 semanas. Os originais ficam fora: o acesso deles é só o
+    /// `isPremium`.
+    ///
+    /// A fila é embaralhada, mas fixa (hash do id): em ordem alfabética os
+    /// filmes de uma série cairiam juntos (os três Caminandes na mesma semana).
+    ///
+    /// Calculado no aparelho, sem servidor e sem editar o JSON toda semana.
+    /// Filme novo no catálogo reordena o rodízio na versão seguinte do app;
+    /// nunca deixa uma semana sem grátis.
+    static func freeThisWeek(in catalog: [Short], now: Date = .now) -> Set<String> {
+        let pool = catalog
+            .filter { $0.isPremium && $0.resolvedKind != .original }
+            .map(\.id)
+            .sorted { (fnv1a($0), $0) < (fnv1a($1), $1) }
+        guard !pool.isEmpty else { return [] }
+        let count = min(freePerWeek, pool.count)
+        let start = ((weekIndex(now) * freePerWeek) % pool.count + pool.count) % pool.count
+        return Set((0..<count).map { pool[(start + $0) % pool.count] })
+    }
+
+    /// FNV-1a 64 bits: igual em todo aparelho e toda execução (o `hashValue`
+    /// do Swift muda a cada lançamento do app).
+    private static func fnv1a(_ text: String) -> UInt64 {
+        var hash: UInt64 = 0xcbf2_9ce4_8422_2325
+        for byte in text.utf8 {
+            hash = (hash ^ UInt64(byte)) &* 0x0000_0100_0000_01b3
+        }
+        return hash
+    }
+
+    /// Semanas desde a segunda-feira 5 jan 2026, no fuso do aparelho: o trio
+    /// vira na segunda à meia-noite local, como a semana de quem assiste.
+    private static func weekIndex(_ now: Date) -> Int {
+        var calendar = Calendar(identifier: .iso8601)
+        calendar.timeZone = .current
+        guard let epoch = calendar.date(from: DateComponents(year: 2026, month: 1, day: 5)),
+              let monday = calendar.dateInterval(of: .weekOfYear, for: now)?.start,
+              let days = calendar.dateComponents([.day], from: epoch, to: monday).day
+        else { return 0 }
+        return days >= 0 ? days / 7 : (days - 6) / 7
     }
 }

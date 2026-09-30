@@ -760,7 +760,9 @@ def stage_publish(args):
             "title": decision.get("title") or c["title"],
             "logline": decision.get("logline") or c["description"],
             "durationSeconds": int(round(probe_duration(video))),
-            "isPremium": False,
+            # Watch é premium com 3 grátis por semana em rodízio (Short.freeThisWeek
+            # no app); "isPremium": false na curadoria deixa um filme sempre aberto.
+            "isPremium": decision.get("isPremium", True),
             "publishedAt": None,
             "year": decision.get("year") or c["year"],
             "credit": credit,
@@ -835,7 +837,8 @@ def stage_open(args):
             "title": m["title"],
             "logline": m["logline"],
             "durationSeconds": int(round(probe_duration(video))),
-            "isPremium": False,
+            # Mesma regra dos clássicos: premium, com o rodízio semanal no app.
+            "isPremium": m.get("isPremium", True),
             "publishedAt": None,
             "year": m["year"],
             "credit": m["credit"],

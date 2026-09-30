@@ -183,6 +183,15 @@ fica no `AudioPlayerManager`, que é quem sabe se a sessão está ativa.
 Curta com `isPremium: true` abre o paywall (`source: "short"`). O piloto é
 free, de propósito: é a amostra do formato.
 
+Os filmes do Watch (abertos e clássicos) são premium, com **3 grátis por
+semana** em rodízio: `Short.freeThisWeek` embaralha a fila de forma fixa
+(hash do id) e anda 3 por semana, virando na segunda à meia-noite local.
+Os do trio vêm na frente do carrossel com o selo "Free this week". A regra
+de acesso é `Short.isFreeToWatch(in:)` — não olhe `isPremium` direto. O
+`harvest_classics.py` grava premium por padrão; `"isPremium": false` na
+curadoria (`classics/open_movies.json` ou a decisão do clássico) deixa um
+filme sempre aberto. Os originais ficam fora do rodízio.
+
 Analytics: `short_play` e `short_complete`.
 
 ---

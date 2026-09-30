@@ -20,6 +20,9 @@
 //
 //  Um curta: card na largura toda. Dois ou mais: carrossel horizontal com
 //  o próximo card aparecendo na borda, pra ficar óbvio que rola.
+//
+//  Filme premium no trio grátis da semana (`Short.freeThisWeek`) ganha o
+//  selo "Free this week" no pôster; os outros premium mostram o cadeado.
 //  ────────────────────────────────────────────────────────────────────────────
 
 import SwiftUI
@@ -31,6 +34,8 @@ struct WatchSection: View {
     let launcher: ShortLauncher
     let isLocked: (Short) -> Bool
     let onTap: (Short) -> Void
+    /// Premium liberado pelo rodízio da semana (selo "Free this week").
+    var isFreeThisWeek: (Short) -> Bool = { _ in false }
 
     /// Uma fileira por origem, na ordem: originais, abertos, clássicos.
     /// Fileira vazia não aparece.
@@ -99,7 +104,8 @@ struct WatchSection: View {
             isLocked: isLocked(short),
             downloadFraction: launcher.downloading[short.id],
             failed: launcher.failedID == short.id,
-            action: { onTap(short) }
+            action: { onTap(short) },
+            isFreeThisWeek: isFreeThisWeek(short)
         )
     }
 }
@@ -148,6 +154,8 @@ struct ShortCard: View {
     let downloadFraction: Double?
     let failed: Bool
     let action: () -> Void
+    /// Premium que está no trio grátis da semana: selo no pôster.
+    var isFreeThisWeek = false
 
     private var shape: RoundedRectangle {
         RoundedRectangle(cornerRadius: Theme.Radius.lg)
@@ -210,6 +218,7 @@ struct ShortCard: View {
     private var accessibilityLabel: String {
         var parts = ["\(short.kindLabel): \(short.title)"]
         if isLocked { parts.append("Locked") }
+        if isFreeThisWeek { parts.append("Free this week") }
         parts.append(short.logline)
         if let attribution = short.attribution { parts.append(attribution) }
         return parts.joined(separator: ". ")
@@ -243,6 +252,29 @@ struct ShortCard: View {
                 PlayBadge()
             }
         }
+        .overlay(alignment: .topLeading) {
+            if isFreeThisWeek {
+                FreeThisWeekBadge()
+                    .padding(Theme.Space.md)
+            }
+        }
+    }
+}
+
+/// Selo do trio grátis da semana: pílula rosa com borda de tinta, no estilo
+/// dos botões do app. Já é anunciado no label do card.
+private struct FreeThisWeekBadge: View {
+    var body: some View {
+        Text("Free this week")
+            .font(.ui(10, weight: .bold))
+            .tracking(0.8)
+            .textCase(.uppercase)
+            .foregroundStyle(Theme.Colors.onAccent)
+            .padding(.horizontal, Theme.Space.sm)
+            .padding(.vertical, 4)
+            .background(Capsule().fill(Theme.Colors.primary))
+            .overlay(Capsule().stroke(Theme.Colors.stroke, lineWidth: Theme.Stroke.normal))
+            .accessibilityHidden(true)
     }
 }
 
