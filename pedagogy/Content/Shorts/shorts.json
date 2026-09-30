@@ -1,5 +1,14 @@
 [
   {
+    "id": "fox-ai",
+    "kind": "original",
+    "title": "The Fox and the North Wind",
+    "logline": "When the north wind blows for three nights, a white fox comes to the door and must be given a gift. This time, Nell has to answer.",
+    "durationSeconds": 104,
+    "isPremium": false,
+    "publishedAt": null
+  },
+  {
     "id": "singularity",
     "kind": "open",
     "title": "Singularity",

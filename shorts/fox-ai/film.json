@@ -1,0 +1,364 @@
+{
+ "id": "fox-ai",
+ "title": "The Fox and the North Wind",
+ "logline": "When the north wind blows for three nights, a white fox comes to the door and must be given a gift. This time, Nell has to answer.",
+ "isPremium": false,
+ "publishedAt": null,
+ "posterShot": "k08",
+ "style": "Painterly stylized 3D animated film, like a modern open-movie animated short: every surface looks hand-painted with visible soft brush strokes and textured color, not smooth plastic. Rich, saturated, atmospheric color: deep sapphire and teal night blues, warm amber and gold firelight, glowing green aurora. Dramatic cinematic lighting with strong warm-versus-cool contrast, soft rim light around the characters, volumetric light shafts, layered mist and atmospheric depth; outdoors, drifting snow (never snow inside the house: indoors only warm firelight and faint dust motes). Stylized characters with soft rounded forms and large, expressive, glossy eyes. Magical, living nature. Swedish Lapland: red-painted wooden house, snow-laden pine forest, frozen lake. Epic yet intimate, cozy and wondrous, never scary. Cinematic 16:9 composition, shallow depth of field. No text, no letters, no captions, no watermark.",
+ "motionStyle": "Painterly stylized 3D animation with expressive, weighty, natural character acting (subtle breathing, blinking, hair and cloth moving in the wind), consistent character designs, drifting snow and mist outdoors only (never snow falling inside the house), glowing particles, slow cinematic camera moves with parallax and depth, no morphing, no text appearing.",
+ "voices": {
+  "narrator": {
+   "voice": "flux-alexis-en",
+   "notes": "Warm, unhurried storyteller reading a bedtime story to a 10-year-old. Gentle pauses at commas. Never theatrical.",
+   "alternatives": [
+    "flux-sean-en (masc., maduro, britânico, calmo)",
+    "flux-elise-en (fem., adulta, calma)",
+    "flux-colin-en (masc., adulto, britânico, caloroso)"
+   ]
+  },
+  "farmor": {
+   "voice": "flux-brittany-en",
+   "notes": "An old Swedish grandmother speaking English carefully, with small pauses, the way people do when translating in their head. Quiet, warm, a little solemn.",
+   "alternatives": [
+    "flux-bree-en (fem., madura, doce)",
+    "flux-maeve-en (fem., adulta, irlandesa, gentil)"
+   ]
+  },
+  "nell": {
+   "voice": "flux-hannah-en",
+   "notes": "A curious, brave 10-year-old girl. Natural and soft, a little breathless when nervous.",
+   "alternatives": [
+    "flux-gemma-en (fem., jovem, britânica, alegre)",
+    "flux-heather-en (fem., jovem, animada)",
+    "flux-brooke-en (fem., jovem, rápida)"
+   ]
+  }
+ },
+ "characters": {
+  "nell": {
+   "description": "Nell, a 10-year-old girl with long straight dark-brown hair and rosy cheeks, wearing a knitted beanie with red, white and navy stripes and a pompom, a long charcoal-grey wool coat with big buttons, dark grey leggings and red lace-up snow boots"
+  },
+  "farmor": {
+   "description": "Farmor Astrid, a small, gentle elderly Swedish woman with a long white braid over one shoulder, a soft wrinkled smiling face, a dark red knitted cardigan with wooden buttons, a long blue-grey wool skirt and brown shoes"
+  },
+  "fox": {
+   "description": "a small pure-white arctic fox with very soft thick fur, a big bushy tail, black-tipped whiskers and warm glowing amber eyes; a faint silvery glow at the edges of its fur, like a gentle winter spirit"
+  },
+  "house": {
+   "description": "Farmor's small red-painted wooden Swedish house with white window frames, a steep snowy roof, a chimney and two wooden front steps, at the edge of a frozen lake with snowy pine forest behind",
+   "refPrompt": "Establishing concept art of a small red-painted wooden Swedish house with white window frames, a steep snow-covered roof, a chimney with a thin curl of smoke and two wooden front steps, standing at the edge of a frozen lake with a snowy pine forest behind, at night under a deep blue sky with a green aurora and a crescent moon, one window glowing warm yellow. Wide shot, no characters."
+  },
+  "livingroom": {
+   "description": "the cosy living room inside the red house: red-painted plank walls, a black cast-iron wood stove with a glowing fire and a pipe to the ceiling, a shelf of small carved wooden animals, a window showing the blue night, a reindeer-hide rug and two wooden chairs",
+   "refPrompt": "Interior concept art of a cosy Swedish cottage living room at night: red-painted vertical plank walls, a black cast-iron wood stove with a glowing fire and a stove pipe to the ceiling, a shelf of small carved wooden animals above it, a window showing the deep blue snowy night, a reindeer-hide rug and two wooden chairs facing each other by the stove, warm golden firelight. No characters."
+  }
+ },
+ "shots": [
+  {
+   "id": "k01",
+   "scene": "exterior-night",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "nell",
+    "house"
+   ],
+   "keyframe": "Wide cinematic shot at night: the small red wooden house with one warmly glowing window stands at the edge of the frozen lake under a deep blue sky with a green aurora and a crescent moon, snowy pine forest behind, soft snow falling. In the lower left foreground Nell walks alone through deep snow toward the house, pulling a small brown leather suitcase. Nell is the only character in this shot: no fox, no animals.",
+   "motion": "Nell trudges toward the house pulling the suitcase, leaving footprints; the camera glides slowly forward over the frozen lake; the aurora ripples gently; snowflakes drift.",
+   "sfx": "crunching footsteps in snow, soft wind",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is where Nell spent Christmas when she was ten, in her grandmother's small red house at the edge of a frozen lake.",
+     "at": 0.6,
+     "seconds": 6.62,
+     "from": "s02-0"
+    }
+   ]
+  },
+  {
+   "id": "k02",
+   "scene": "interior",
+   "duration": 11,
+   "transition": "fade",
+   "characters": [
+    "farmor",
+    "nell",
+    "livingroom"
+   ],
+   "keyframe": "Inside the cosy living room at night, TWO characters both clearly visible: on the right, Farmor sits on a wooden chair telling a story with a gentle raised hand; on the left, Nell (the girl in the striped knitted hat) sits on a wooden chair wrapped in a thick plaid blanket, looking at Farmor and listening intently. The black wood stove with its glowing fire is between them; warm firelight on both faces. No fox, no animals.",
+   "motion": "Farmor speaks slowly with small hand gestures; the fire flickers; Nell listens and pulls the blanket closer; very slow push-in. No snow inside the house.",
+   "sfx": "crackling wood fire",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "When the north wind blows for three nights, the fox comes to the door. And a gift must be given. Honestly.",
+     "at": 0.8,
+     "seconds": 8.86,
+     "from": "s05-0"
+    }
+   ]
+  },
+  {
+   "id": "k03",
+   "scene": "interior",
+   "duration": 6,
+   "transition": "cut",
+   "characters": [
+    "nell",
+    "farmor",
+    "livingroom"
+   ],
+   "keyframe": "Closer two-shot by the fire: Nell on the left, wrapped in a red plaid blanket, sits on a wooden chair; Farmor sits on the right beside her, gesturing gently with one hand, her face lit warmly by the open stove. Only these two characters: no fox, no animals.",
+   "motion": "Nell turns to Farmor and asks a worried question; Farmor's smile fades, she lowers her hand and answers gravely, looking into the fire; the firelight flickers on their faces. No snow inside the house.",
+   "sfx": "crackling wood fire",
+   "lines": [
+    {
+     "who": "nell",
+     "text": "And if you don't?",
+     "at": 0.5,
+     "seconds": 1.1,
+     "from": "s06-0"
+    },
+    {
+     "who": "farmor",
+     "text": "Then the fox takes something else.",
+     "at": 2.0,
+     "seconds": 2.3,
+     "from": "s06-1"
+    }
+   ]
+  },
+  {
+   "id": "k04",
+   "scene": "exterior-night",
+   "duration": 8,
+   "transition": "fade",
+   "characters": [
+    "house"
+   ],
+   "keyframe": "Close, low view of the snow in front of the red house's two wooden front steps at night: a clear line of small fresh fox paw prints, deep and shadowed, crosses the snow in the foreground and leads straight to the steps; the north wind blows swirls of snow; blue moonlight and the warm glow of the window on the snow. No animals visible: only the tracks.",
+   "motion": "Snow swirls in the wind; the camera slowly glides low along the fox tracks toward the front steps.",
+   "sfx": "howling north wind",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That night, the wind came out of the north, humming one long, low note around the corners of the house.",
+     "at": 0.6,
+     "seconds": 5.81,
+     "from": "s07-0"
+    }
+   ]
+  },
+  {
+   "id": "k05",
+   "scene": "memory",
+   "duration": 11,
+   "transition": "fade",
+   "characters": [
+    "fox",
+    "house"
+   ],
+   "keyframe": "A memory, painted in soft desaturated blue and silver tones like an old dream, with mist: a gold necklace with a small round pendant lies glinting on the snowy wooden doorstep of the house; a small white arctic fox with a faint glow approaches from the left.",
+   "motion": "The white fox walks up to the necklace, sniffs it, pauses, looks up, then turns away and walks off into the snow without taking it.",
+   "sfx": "soft wind",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "Once, I gave a gold necklace. The fox looked at it, and left. The next morning, my father's silver ring was gone.",
+     "at": 0.6,
+     "seconds": 8.45,
+     "from": "s11-0"
+    }
+   ]
+  },
+  {
+   "id": "k06",
+   "scene": "interior",
+   "duration": 7,
+   "transition": "fade",
+   "characters": [
+    "nell",
+    "farmor",
+    "livingroom"
+   ],
+   "keyframe": "By the front door inside the house on the third night: Nell in her grey coat, striped knitted hat and red boots stands holding a small red wooden box with a brass latch in both hands; Farmor stands beside her; warm firelight from the side.",
+   "motion": "Nell looks down at the box, then up with quiet determination; Farmor gives a small approving nod and touches her shoulder. No snow inside the house.",
+   "sfx": "crackling fire, a clock ticking",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By morning, Nell knew what she would give.",
+     "at": 0.4,
+     "seconds": 2.69,
+     "from": "s13-0"
+    },
+    {
+     "who": "nell",
+     "text": "I need to do this on my own.",
+     "at": 3.5,
+     "seconds": 1.9,
+     "from": "s14-0"
+    }
+   ]
+  },
+  {
+   "id": "k07",
+   "scene": "exterior-night",
+   "duration": 8,
+   "transition": "fade",
+   "characters": [
+    "nell",
+    "fox",
+    "house"
+   ],
+   "keyframe": "Outside at night in bright moonlight: Nell stands on the snowy doorstep of the red house holding the small red wooden box; at the edge of the pine forest a small white arctic fox with amber eyes steps out of the trees.",
+   "motion": "The fox walks out of the trees toward Nell and sits down in the snow in front of her, looking up at her.",
+   "sfx": "soft wind, paws in snow",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The fox was smaller than she had expected. White as the snow. Eyes of amber.",
+     "at": 1.0,
+     "seconds": 5.33,
+     "from": "s15-0"
+    }
+   ]
+  },
+  {
+   "id": "k08",
+   "scene": "exterior-night",
+   "duration": 9,
+   "transition": "cut",
+   "characters": [
+    "nell",
+    "fox",
+    "house"
+   ],
+   "keyframe": "Close shot at the doorstep in moonlight: Nell stands singing softly with her eyes half closed; the small red wooden box sits open on the snow at her feet; the white fox sits listening in front of her; snowflakes hang in the air.",
+   "motion": "Nell sings a quiet lullaby; the wind drops; the falling snow slows almost to a stop; the fox listens with its ears forward.",
+   "sfx": "the wind falling silent",
+   "lines": [
+    {
+     "who": "nell",
+     "text": "Vem kan segla förutan vind, vem kan ro utan åror.",
+     "at": 1.0,
+     "seconds": 6.7,
+     "subtitle": "♪ Vem kan segla förutan vind? Vem kan ro utan åror? ♪\n(Who can sail without wind? Who can row without oars?)",
+     "from": "s16-0"
+    }
+   ]
+  },
+  {
+   "id": "k09",
+   "scene": "exterior-night",
+   "duration": 7,
+   "transition": "cut",
+   "characters": [
+    "fox",
+    "nell",
+    "house"
+   ],
+   "keyframe": "Moonlit snow in front of the red house: the white fox stands before the small open red box on the snow; Nell stands beside it, watching.",
+   "motion": "The fox steps to the box, looks up at Nell, bows its head once slowly like accepting a gift, then turns and trots back into the dark pine trees.",
+   "sfx": "soft paws in snow",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The fox bowed its head, once, like someone accepting a gift, and was gone.",
+     "at": 0.8,
+     "seconds": 4.54,
+     "from": "s17-0"
+    }
+   ]
+  },
+  {
+   "id": "k10",
+   "scene": "interior",
+   "duration": 8,
+   "transition": "fade",
+   "characters": [
+    "farmor",
+    "nell",
+    "livingroom"
+   ],
+   "keyframe": "By the fire inside: Farmor sits with one hand over her mouth, her eyes filled with tears; Nell stands close beside her holding the empty red wooden box.",
+   "motion": "Farmor is moved to tears and puts her arm around Nell; Nell leans into her; the fire flickers warmly. No snow inside the house.",
+   "sfx": "crackling fire",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "You sang.",
+     "at": 0.6,
+     "seconds": 1.34,
+     "from": "s18-0"
+    },
+    {
+     "who": "nell",
+     "text": "Mama's lullaby.",
+     "at": 2.4,
+     "seconds": 1.42,
+     "from": "s18-1"
+    },
+    {
+     "who": "farmor",
+     "text": "My mother's song.",
+     "at": 4.3,
+     "seconds": 1.73,
+     "from": "s18-2"
+    }
+   ]
+  },
+  {
+   "id": "k11",
+   "scene": "dawn",
+   "duration": 9,
+   "transition": "fade",
+   "characters": [
+    "fox"
+   ],
+   "keyframe": "Dawn in a still, snowy pine forest under a pale blue and peach sky; far away a small white arctic fox trots home along a snowy path between the trees.",
+   "motion": "The fox trots away and grows smaller in the distance; the camera drifts gently; the first morning light touches the treetops.",
+   "sfx": "silence, a faint breeze",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere far off, a small white fox carried something home that only it could hear.",
+     "at": 1.0,
+     "seconds": 6.46,
+     "from": "s20-0"
+    }
+   ]
+  }
+ ],
+ "layers": [
+  {
+   "id": "refs-painterly/nell",
+   "prompt": "Nell. Character model sheet in a painterly stylized 3D animated-film style: hand-painted textures with visible soft brush strokes, soft rounded forms, large expressive glossy eyes, soft rim light. Keep the exact design, colours, clothing and proportions of the reference image. Three views side by side: front, three-quarter, side. Full body, neutral relaxed pose, evenly lit.",
+   "refs": [
+    "nell"
+   ],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "refs-painterly/farmor",
+   "prompt": "Farmor Astrid, with her long white braid visible. Character model sheet in a painterly stylized 3D animated-film style: hand-painted textures with visible soft brush strokes, soft rounded forms, large expressive glossy eyes, soft rim light. Keep the exact design, colours, clothing and proportions of the reference image. Three views side by side: front, three-quarter, side. Full body, neutral relaxed pose, evenly lit.",
+   "refs": [
+    "farmor"
+   ],
+   "aspect": "16:9",
+   "alpha": true
+  },
+  {
+   "id": "refs-painterly/fox",
+   "prompt": "The small white arctic fox. Character model sheet in a painterly stylized 3D animated-film style: hand-painted textures with visible soft brush strokes, soft rounded forms, large expressive glossy eyes, soft rim light. Keep the exact design, colours, clothing and proportions of the reference image. Three views side by side: front, three-quarter, side. Whole body, sitting, walking and standing poses, evenly lit.",
+   "refs": [
+    "fox"
+   ],
+   "aspect": "16:9",
+   "alpha": true
+  }
+ ]
+}
