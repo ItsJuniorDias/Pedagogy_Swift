@@ -12,3 +12,4 @@ xcuserdata/
 
 # Backup automático do Blender a cada save
 *.blend1
+__pycache__/

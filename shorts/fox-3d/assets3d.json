@@ -1,0 +1,50 @@
+[
+ {
+  "id": "nell",
+  "image": "build/layers/pose/nell-apose.alpha.png",
+  "rig": "biped",
+  "animations": [
+   "preset:biped:walk",
+   "preset:biped:sit",
+   "preset:biped:sing_01",
+   "preset:biped:standing_relax"
+  ],
+  "use": "k01 anda com a mala; k02/k03/k10 sentada; k06 em pé com a caixa; k08 canta"
+ },
+ {
+  "id": "farmor",
+  "image": "build/layers/pose/farmor-apose.alpha.png",
+  "rig": "biped",
+  "animations": [
+   "preset:biped:sit",
+   "preset:biped:standing_relax",
+   "preset:biped:agree",
+   "preset:biped:cry"
+  ],
+  "use": "k02/k03 sentada contando; k06 em pé, concorda; k10 chora"
+ },
+ {
+  "id": "fox",
+  "image": "../fox-and-the-north-wind/build/layers/fox/walk.alpha.png",
+  "rig": "quadruped",
+  "animations": [
+   "preset:quadruped:walk"
+  ],
+  "use": "k05/k07/k09/k11 andando"
+ },
+ {
+  "id": "fox-sit",
+  "image": "../fox-and-the-north-wind/build/layers/fox/sit.alpha.png",
+  "use": "k07/k08 sentada diante de Nell"
+ },
+ {
+  "id": "fox-bow",
+  "image": "../fox-and-the-north-wind/build/layers/fox/bow.alpha.png",
+  "use": "k09 a reverência sobre a caixa"
+ },
+ {
+  "id": "box",
+  "image": "../fox-and-the-north-wind/build/layers/props/box-open.alpha.png",
+  "use": "k06/k08/k09 a caixinha de oferenda"
+ }
+]

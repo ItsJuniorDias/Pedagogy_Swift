@@ -1,0 +1,263 @@
+{
+ "id": "fox-3d",
+ "title": "The Fox and the North Wind",
+ "logline": "When the north wind blows for three nights, a white fox comes to the door and must be given a gift. This time, Nell has to answer.",
+ "isPremium": false,
+ "publishedAt": null,
+ "posterShot": "k08",
+ "style": "3D diorama toon: chunky stylized 3D models with flat cel shading (2-3 tone bands) and black ink outlines, warm cream/sepia palette, red-painted Swedish wood, deep Arctic-blue night.",
+ "voices": {
+  "narrator": {
+   "voice": "flux-alexis-en",
+   "notes": "Warm, unhurried storyteller reading a bedtime story to a 10-year-old. Gentle pauses at commas. Never theatrical.",
+   "alternatives": [
+    "flux-sean-en (masc., maduro, britânico, calmo)",
+    "flux-elise-en (fem., adulta, calma)",
+    "flux-colin-en (masc., adulto, britânico, caloroso)"
+   ]
+  },
+  "farmor": {
+   "voice": "flux-brittany-en",
+   "notes": "An old Swedish grandmother speaking English carefully, with small pauses, the way people do when translating in their head. Quiet, warm, a little solemn.",
+   "alternatives": [
+    "flux-bree-en (fem., madura, doce)",
+    "flux-maeve-en (fem., adulta, irlandesa, gentil)"
+   ]
+  },
+  "nell": {
+   "voice": "flux-hannah-en",
+   "notes": "A curious, brave 10-year-old girl. Natural and soft, a little breathless when nervous.",
+   "alternatives": [
+    "flux-gemma-en (fem., jovem, britânica, alegre)",
+    "flux-heather-en (fem., jovem, animada)",
+    "flux-brooke-en (fem., jovem, rápida)"
+   ]
+  }
+ },
+ "characters": {
+  "nell": {
+   "description": "Nell, a 10-year-old girl with long straight brown hair, rosy cheeks and brown eyes, wearing a dark grey wool coat, a knitted hat and snow boots",
+   "refPrompt": "Character model sheet of Nell, a 10-year-old girl with long straight brown hair, rosy cheeks and brown eyes, wearing a dark grey wool coat, a knitted hat and snow boots. Three views side by side: front, three-quarter, side. Full body, neutral pose, plain cream paper background."
+  },
+  "farmor": {
+   "description": "Farmor Astrid, a small, quiet elderly Swedish woman with a long white braid down her back, a soft face with deep smile lines, wearing a dark red knitted cardigan over a long grey wool skirt",
+   "refPrompt": "Character model sheet of Farmor Astrid, a small, quiet elderly Swedish woman with a long white braid down her back, a soft face with deep smile lines, wearing a dark red knitted cardigan over a long grey wool skirt. Three views side by side: front, three-quarter, side. Full body, neutral pose, plain cream paper background."
+  }
+ },
+ "shots": [
+  {
+   "id": "k01",
+   "duration": 8.5,
+   "transition": "fade",
+   "description": "Exterior, night: the camera glides low over the frozen lake toward the small red house; aurora, falling snow. Nell walks through the snow pulling a suitcase to the lit door.",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is where Nell spent Christmas when she was ten, in her grandmother's small red house at the edge of a frozen lake.",
+     "at": 0.6,
+     "seconds": 6.62,
+     "from": "s02-0"
+    }
+   ]
+  },
+  {
+   "id": "k02",
+   "duration": 11.0,
+   "transition": "fade",
+   "description": "Inside by the wood stove: Farmor sits and tells the family story; Nell sits wrapped in a blanket, listening. Firelight.",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "When the north wind blows for three nights, the fox comes to the door. And a gift must be given. Honestly.",
+     "at": 0.8,
+     "seconds": 8.86,
+     "from": "s05-0"
+    }
+   ]
+  },
+  {
+   "id": "k03",
+   "duration": 5.5,
+   "transition": "cut",
+   "description": "Closer two-shot of Nell and Farmor by the fire.",
+   "lines": [
+    {
+     "who": "nell",
+     "text": "And if you don't?",
+     "at": 0.5,
+     "seconds": 1.1,
+     "from": "s06-0"
+    },
+    {
+     "who": "farmor",
+     "text": "Then the fox takes something else.",
+     "at": 2.0,
+     "seconds": 2.3,
+     "from": "s06-1"
+    }
+   ]
+  },
+  {
+   "id": "k04",
+   "duration": 7.5,
+   "transition": "fade",
+   "description": "Night: the north wind drives snow around the corners of the house; the camera drifts down to small fresh fox tracks leading to the front door.",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That night, the wind came out of the north, humming one long, low note around the corners of the house.",
+     "at": 0.6,
+     "seconds": 5.81,
+     "from": "s07-0"
+    }
+   ]
+  },
+  {
+   "id": "k05",
+   "duration": 10.5,
+   "transition": "fade",
+   "description": "Flashback in blue: a gold necklace lies on the doorstep. The white fox walks up, looks at it, turns and walks away.",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "Once, I gave a gold necklace. The fox looked at it, and left. The next morning, my father's silver ring was gone.",
+     "at": 0.6,
+     "seconds": 8.45,
+     "from": "s11-0"
+    }
+   ]
+  },
+  {
+   "id": "k06",
+   "duration": 6.5,
+   "transition": "fade",
+   "description": "The third night, by the front door inside: Nell in coat and hat holds the small wooden box; Farmor nods.",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By morning, Nell knew what she would give.",
+     "at": 0.4,
+     "seconds": 2.69,
+     "from": "s13-0"
+    },
+    {
+     "who": "nell",
+     "text": "I need to do this on my own.",
+     "at": 3.5,
+     "seconds": 1.9,
+     "from": "s14-0"
+    }
+   ]
+  },
+  {
+   "id": "k07",
+   "duration": 7.5,
+   "transition": "fade",
+   "description": "The doorstep in bright moonlight: the fox walks out of the pines and sits in the snow facing Nell.",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The fox was smaller than she had expected. White as the snow. Eyes of amber.",
+     "at": 1.0,
+     "seconds": 5.33,
+     "from": "s15-0"
+    }
+   ]
+  },
+  {
+   "id": "k08",
+   "duration": 9,
+   "transition": "cut",
+   "description": "Nell sings, the box at her feet; the wind drops and the snow slows almost to a stop.",
+   "lines": [
+    {
+     "who": "nell",
+     "text": "Vem kan segla förutan vind, vem kan ro utan åror.",
+     "at": 1.0,
+     "seconds": 6.7,
+     "subtitle": "♪ Vem kan segla förutan vind? Vem kan ro utan åror? ♪\n(Who can sail without wind? Who can row without oars?)",
+     "from": "s16-0"
+    }
+   ]
+  },
+  {
+   "id": "k09",
+   "duration": 7,
+   "transition": "cut",
+   "description": "The fox bows its head over the box, turns and walks back into the trees.",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The fox bowed its head, once, like someone accepting a gift, and was gone.",
+     "at": 0.8,
+     "seconds": 4.54,
+     "from": "s17-0"
+    }
+   ]
+  },
+  {
+   "id": "k10",
+   "duration": 7.5,
+   "transition": "fade",
+   "description": "Inside by the fire: Farmor, moved to tears; Nell beside her.",
+   "lines": [
+    {
+     "who": "farmor",
+     "text": "You sang.",
+     "at": 0.6,
+     "seconds": 1.34,
+     "from": "s18-0"
+    },
+    {
+     "who": "nell",
+     "text": "Mama's lullaby.",
+     "at": 2.4,
+     "seconds": 1.42,
+     "from": "s18-1"
+    },
+    {
+     "who": "farmor",
+     "text": "My mother's song.",
+     "at": 4.3,
+     "seconds": 1.73,
+     "from": "s18-2"
+    }
+   ]
+  },
+  {
+   "id": "k11",
+   "duration": 8.5,
+   "transition": "fade",
+   "description": "Dawn in the still forest: the small white fox walks home between the pines, growing smaller.",
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere far off, a small white fox carried something home that only it could hear.",
+     "at": 1.0,
+     "seconds": 6.46,
+     "from": "s20-0"
+    }
+   ]
+  }
+ ],
+ "layers": [
+  {
+   "id": "pose/nell-apose",
+   "prompt": "Nell. Single character, FULL BODY, seen exactly from the FRONT, standing straight in a relaxed A-pose: arms held slightly away from the body at about 30 degrees, hands open and EMPTY, fingers visible, legs slightly apart, looking straight at the viewer. Whole figure centered and fully visible from the top of the head to the soles of the shoes, nothing cut off. This image will be turned into a 3D model, so keep the clothing shapes simple and readable.",
+   "refs": [
+    "nell"
+   ],
+   "aspect": "3:4",
+   "alpha": true
+  },
+  {
+   "id": "pose/farmor-apose",
+   "prompt": "Farmor Astrid, with her long white braid falling over one shoulder so it stays visible from the front. Single character, FULL BODY, seen exactly from the FRONT, standing straight in a relaxed A-pose: arms held slightly away from the body at about 30 degrees, hands open and EMPTY, fingers visible, legs slightly apart, looking straight at the viewer. Whole figure centered and fully visible from the top of the head to the soles of the shoes, nothing cut off. This image will be turned into a 3D model, so keep the clothing shapes simple and readable.",
+   "refs": [
+    "farmor"
+   ],
+   "aspect": "3:4",
+   "alpha": true
+  }
+ ]
+}
