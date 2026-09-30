@@ -6,6 +6,10 @@
 //  Seção de filmes na Home, uma fileira por origem (originais, abertos da
 //  Blender, clássicos). Some quando não há nenhum lançado.
 //
+//  A Home usa duas: "Pedagogy Originals" (só os originais, a primeira seção
+//  da tela) e "Watch" (abertos e clássicos, mais abaixo). O título vem de
+//  quem chama; as fileiras saem dos filmes que cada uma recebe.
+//
 //    ─── ● Watch ─────────────────
 //    ┌─────────────────────────┐
 //    │  pôster 16:9        ▶   │   ← anel de progresso aqui durante o download
@@ -22,6 +26,7 @@ import SwiftUI
 import UIKit
 
 struct WatchSection: View {
+    let title: LocalizedStringKey
     let shorts: [Short]
     let launcher: ShortLauncher
     let isLocked: (Short) -> Bool
@@ -48,7 +53,7 @@ struct WatchSection: View {
                 Circle()
                     .fill(Theme.Colors.primary)
                     .frame(width: 6, height: 6)
-                Text("Watch")
+                Text(title)
                     .font(.ui(11, weight: .bold))
                     .kerning(1.2)
                     .foregroundStyle(Theme.Colors.textStrong)
@@ -57,7 +62,7 @@ struct WatchSection: View {
 
             ForEach(rows) { row in
                 VStack(alignment: .leading, spacing: Theme.Space.md) {
-                    // Com uma fileira só, o "Watch" já diz tudo.
+                    // Com uma fileira só, o título da seção já diz tudo.
                     if rows.count > 1 {
                         Text(row.kind.rowTitle)
                             .font(.display(17, weight: .bold))

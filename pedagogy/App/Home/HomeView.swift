@@ -11,7 +11,7 @@
 //  Antes: Featured hero + Library grid empilhado tudo na Home. Não escalava
 //  além de ~5 histórias. Se você tinha 20, a Home virava scroll infinito.
 //
-//  Agora: 6 sections curadas + link pra Library. O tamanho da Home é
+//  Agora: 7 sections curadas + link pra Library. O tamanho da Home é
 //  constante independente do catálogo total. 5 histórias ou 50, a Home
 //  parece a mesma.
 //
@@ -21,6 +21,9 @@
 //    │  Pedagogy         🔥 3      │  ← header compacto
 //    │                             │
 //    │  Welcome back.              │  ← greeting
+//    │                             │
+//    │  ─── Pedagogy Originals ─   │  ← curtas próprios, se houver
+//    │  ▶ pôster 16:9  ▶ pôst…     │
 //    │                             │
 //    │  ┌─── Continue reading ──┐  │  ← só se in-progress
 //    │  │ ▢ The Butterfly Garden│  │
@@ -34,7 +37,7 @@
 //    │  │  [Start reading]      │  │
 //    │  └───────────────────────┘  │
 //    │                             │
-//    │  ─── Watch ─────────────    │  ← curtas (App/Shorts), se houver
+//    │  ─── Watch ─────────────    │  ← filmes abertos e clássicos, se houver
 //    │  ▶ pôster 16:9              │
 //    │                             │
 //    │  ─── Browse by mood ────    │
@@ -120,6 +123,16 @@ struct HomeView: View {
             .0
     }
 
+    /// Curtas próprios (scripts/shorts): a primeira seção da Home.
+    private var originals: [Short] {
+        shorts.filter { $0.resolvedKind == .original }
+    }
+
+    /// Filmes abertos e clássicos: a seção "Watch", mais abaixo.
+    private var otherShorts: [Short] {
+        shorts.filter { $0.resolvedKind != .original }
+    }
+
     /// Até 3 stories marcadas isFeatured==true, excluindo a de "This week"
     /// pra não duplicar destaque.
     private var featuredPicks: [Story] {
@@ -145,7 +158,19 @@ struct HomeView: View {
                     } else if stories.isEmpty {
                         LoadingPanel()
                     } else {
-                        // Seções em ordem editorial
+                        // Seções em ordem editorial. Os curtas próprios abrem
+                        // a Home: são a vitrine do que só o Pedagogy tem.
+                        if !originals.isEmpty {
+                            WatchSection(
+                                title: "Pedagogy Originals",
+                                shorts: originals,
+                                launcher: shortLauncher,
+                                isLocked: isLocked,
+                                onTap: playShort
+                            )
+                            .announcesFailures()
+                        }
+
                         if let cont = continueReading {
                             ContinueReadingSection(
                                 story: cont,
@@ -160,9 +185,10 @@ struct HomeView: View {
                             )
                         }
 
-                        if !shorts.isEmpty {
+                        if !otherShorts.isEmpty {
                             WatchSection(
-                                shorts: shorts,
+                                title: "Watch",
+                                shorts: otherShorts,
                                 launcher: shortLauncher,
                                 isLocked: isLocked,
                                 onTap: playShort
