@@ -94,7 +94,7 @@
    "id": "s02",
    "scene": "house",
    "duration": 10,
-   "transition": "cut",
+   "transition": "fade",
    "characters": [
     "nell",
     "house"
@@ -164,7 +164,7 @@
   {
    "id": "s05",
    "scene": "flashback",
-   "duration": 10,
+   "duration": 11,
    "transition": "cut",
    "characters": [
     "fox"
@@ -232,7 +232,7 @@
   {
    "id": "s08",
    "scene": "house",
-   "duration": 6,
+   "duration": 8,
    "transition": "cut",
    "characters": [
     "house"
@@ -272,8 +272,8 @@
   {
    "id": "s10",
    "scene": "kitchen",
-   "duration": 6,
-   "transition": "cut",
+   "duration": 7,
+   "transition": "fade",
    "characters": [
     "farmor",
     "nell"
@@ -361,7 +361,7 @@
   {
    "id": "s14",
    "scene": "living",
-   "duration": 6,
+   "duration": 4.5,
    "transition": "fade",
    "characters": [
     "nell",
@@ -404,7 +404,7 @@
   {
    "id": "s16",
    "scene": "house",
-   "duration": 16,
+   "duration": 13,
    "transition": "cut",
    "characters": [
     "nell",
@@ -418,8 +418,9 @@
     {
      "who": "nell",
      "text": "Vem kan segla förutan vind, vem kan ro utan åror.",
-     "at": 0.6,
-     "seconds": 6.7
+     "at": 1.8,
+     "seconds": 6.7,
+     "subtitle": "♪ Vem kan segla förutan vind? Vem kan ro utan åror? ♪\n(Who can sail without wind? Who can row without oars?)"
     }
    ]
   },
@@ -448,7 +449,7 @@
   {
    "id": "s18",
    "scene": "living",
-   "duration": 6,
+   "duration": 9,
    "transition": "fade",
    "characters": [
     "farmor",
@@ -468,13 +469,13 @@
     {
      "who": "nell",
      "text": "Mama's lullaby.",
-     "at": 2.44,
+     "at": 2.6,
      "seconds": 1.42
     },
     {
      "who": "farmor",
      "text": "My mother's song.",
-     "at": 4.36,
+     "at": 5.2,
      "seconds": 1.73
     }
    ]
@@ -502,7 +503,7 @@
   {
    "id": "s20",
    "scene": "forest",
-   "duration": 7,
+   "duration": 10,
    "transition": "fade",
    "characters": [
     "fox"

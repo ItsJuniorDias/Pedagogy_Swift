@@ -560,7 +560,8 @@ def shot_segment(film: Film, shot: dict, fade_in: bool, fade_out: bool, allow_mi
             continue
         start = line.get("at", 0.5) if cursor is None else max(line.get("at", 0), cursor + 0.35)
         dur = probe_duration(path)
-        cues.append((start, dur, path, line["text"]))
+        # `subtitle` opcional: legenda diferente do que a voz fala (ex.: canção + tradução)
+        cues.append((start, dur, path, line.get("subtitle", line["text"])))
         cursor = start + dur
 
     length = float(shot["duration"])
@@ -667,6 +668,10 @@ def stage_assemble(film: Film, args):
     srt.write_text("".join(f"{n}\n{srt_time(a)} --> {srt_time(b)}\n{text}\n\n"
                            for n, (a, b, text) in enumerate(subtitles, start=1)))
 
+    # O concat por cópia de segmentos AAC deixa pacotes sobrepostos nas emendas:
+    # um decodificador sequencial vai atrasando a voz (~0,65 s no fim de 3 min).
+    # aresample=async realinha o áudio pelos timestamps antes da mixagem.
+    #
     # Final: HEVC com tag hvc1 (sem ela o AVPlayer não toca HEVC em .mp4),
     # loudnorm em -16 LUFS (alvo de conteúdo pra celular) e legenda como faixa
     # mov_text — o AVPlayerViewController mostra no menu de legendas.
@@ -682,11 +687,12 @@ def stage_assemble(film: Film, args):
     if music.exists():
         music_index = len(inputs) // 2
         inputs += ["-stream_loop", "-1", "-i", str(music)]
-        audio = (f"[{music_index}:a]volume={MUSIC_VOLUME},atrim=duration={clock},"
-                 f"afade=t=out:st={clock - 3}:d=3[m];[0:a][m]amix=inputs=2:normalize=0:duration=first,"
+        audio = (f"[0:a]aresample=async=1:min_hard_comp=0.01:first_pts=0[j];"
+                 f"[{music_index}:a]volume={MUSIC_VOLUME},atrim=duration={clock},"
+                 f"afade=t=out:st={clock - 3}:d=3[m];[j][m]amix=inputs=2:normalize=0:duration=first,"
                  f"loudnorm=I=-16:TP=-1.5:LRA=11[a]")
     else:
-        audio = "[0:a]loudnorm=I=-16:TP=-1.5:LRA=11[a]"
+        audio = "[0:a]aresample=async=1:min_hard_comp=0.01:first_pts=0,loudnorm=I=-16:TP=-1.5:LRA=11[a]"
     ffmpeg(*inputs, "-filter_complex", audio, "-map", "0:v", "-map", "[a]", *subtitle_args,
            "-c:v", "libx265", "-crf", str(args.crf), "-preset", "medium", "-tag:v", "hvc1",
            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k", "-ar", "48000",
@@ -698,7 +704,7 @@ def stage_assemble(film: Film, args):
                f"crop={WIDTH}:{HEIGHT}", "-q:v", "3", str(poster))
 
     size = final.stat().st_size / 1e6
-    print(f"\n{final.relative_to(ROOT)}  {clock / 60:.0f}min{clock % 60:02.0f}s  {size:.1f} MB")
+    print(f"\n{final.relative_to(ROOT)}  {int(clock // 60)}min{int(clock % 60):02}s  {size:.1f} MB")
     print(f"legendas: {len(subtitles)} falas")
 
 

@@ -195,7 +195,8 @@ def puppet(sc, layer_id, depth, height, x=0.0, floor=0.0, name=None, tint=None,
         v.co.z += height / 2
     ob.location.z = floor
     if breathe:
-        sway(ob, "scale", 2, 0.008, 3.5, phase=(sum(map(ord, ob.name)) % 628) / 100)
+        # delta_scale: a escala fica livre pra ser animada (pop_in) sem briga com o driver
+        sway(ob, "delta_scale", 2, 0.008, 3.5, phase=(sum(map(ord, ob.name)) % 628) / 100)
     return ob
 
 
@@ -223,9 +224,13 @@ def pop_in(ob, frame, dur=8):
     visible(ob, [(1, False), (frame, True)])
 
 
-def tracks(sc, start, end, n=8, size=0.18, name="Tracks", tint=None):
-    """Pegadas: pares de elipses escuras deitadas no chão, de `start` a `end` (x, y, z)."""
-    color = (0.12, 0.16, 0.28)
+def tracks(sc, start, end, n=8, size=0.18, name="Tracks", tint=None, tilt=0):
+    """Pegadas: ovais escuras no chão, de `start` a `end` (x, y, z).
+
+    `tilt` (graus) levanta um pouco cada pegada em direção à câmera. Poucos
+    graus bastam: deitadas viravam tracinhos; a 70° viravam ovos em pé.
+    """
+    color = (0.06, 0.08, 0.16)
     if tint:
         color = tuple(c * t for c, t in zip(color, tint))
     mat = bpy.data.materials.get("M_" + name) or bpy.data.materials.new("M_" + name)
@@ -249,13 +254,14 @@ def tracks(sc, start, end, n=8, size=0.18, name="Tracks", tint=None):
         sc.collection.objects.link(ob)
         ob.name = f"{name}_{i}"
         ob.location = (x, CAM_Y + y, z)
-        ob.scale = (0.6, 1.8, 1.0)          # elipse deitada no chão; alongada em Y porque a câmera a vê quase de lado
+        ob.scale = (0.6, 1.0, 1.0)
+        ob.rotation_euler = (math.radians(tilt), 0, 0)
         ob.data.materials.append(mat)
         obs.append(ob)
     return obs
 
 
-def glow_orb(sc, loc, radius=0.25, color=(1.0, 0.85, 0.45), name="Orb"):
+def glow_orb(sc, loc, radius=0.25, color=(1.0, 0.55, 0.15), name="Orb"):
     """Luz flutuante: esfera de emissão forte + halo (bloom do EEVEE)."""
     bpy.ops.mesh.primitive_uv_sphere_add(radius=radius, segments=24, ring_count=12)
     ob = bpy.context.active_object
@@ -270,10 +276,53 @@ def glow_orb(sc, loc, radius=0.25, color=(1.0, 0.85, 0.45), name="Orb"):
     nt.nodes.clear()
     em = nt.nodes.new("ShaderNodeEmission")
     em.inputs["Color"].default_value = (*color, 1)
-    em.inputs["Strength"].default_value = 6.0
+    # Força baixa: com 6 o dourado estourava pra branco e parecia um floco de neve.
+    em.inputs["Strength"].default_value = 1.0
     out = nt.nodes.new("ShaderNodeOutputMaterial")
     nt.links.new(em.outputs[0], out.inputs["Surface"])
     ob.data.materials.append(mat)
+
+    # Halo: esfera 3× maior, emissão fraca e 75% transparente, presa à luz.
+    bpy.ops.mesh.primitive_uv_sphere_add(radius=radius * 3, segments=24, ring_count=12)
+    halo = bpy.context.active_object
+    for c in halo.users_collection:
+        c.objects.unlink(halo)
+    sc.collection.objects.link(halo)
+    halo.name = ob.name + "_halo"
+    hm = bpy.data.materials.new("M_" + halo.name)
+    hm.use_nodes = True
+    hn = hm.node_tree
+    hn.nodes.clear()
+    hem = hn.nodes.new("ShaderNodeEmission")
+    hem.inputs["Color"].default_value = (*color, 1)
+    hem.inputs["Strength"].default_value = 0.6
+    htr = hn.nodes.new("ShaderNodeBsdfTransparent")
+    hmix = hn.nodes.new("ShaderNodeMixShader")
+    # borda suave: 50% no centro, some na borda (com opacidade fixa virava um disco chapado)
+    lw = hn.nodes.new("ShaderNodeLayerWeight")
+    lw.inputs["Blend"].default_value = 0.5
+    inv = hn.nodes.new("ShaderNodeMath")
+    inv.operation = "SUBTRACT"
+    inv.inputs[0].default_value = 1.0
+    hn.links.new(lw.outputs["Facing"], inv.inputs[1])
+    half = hn.nodes.new("ShaderNodeMath")
+    half.operation = "MULTIPLY"
+    half.inputs[1].default_value = 0.5
+    hn.links.new(inv.outputs[0], half.inputs[0])
+    hn.links.new(half.outputs[0], hmix.inputs[0])
+    hout = hn.nodes.new("ShaderNodeOutputMaterial")
+    hn.links.new(htr.outputs[0], hmix.inputs[1])
+    hn.links.new(hem.outputs[0], hmix.inputs[2])
+    hn.links.new(hmix.outputs[0], hout.inputs["Surface"])
+    for attr, val in (("surface_render_method", "BLENDED"), ("blend_method", "BLEND")):
+        try:
+            setattr(hm, attr, val)
+            break
+        except (AttributeError, TypeError):
+            continue
+    halo.data.materials.append(hm)
+    halo.parent = ob
+    halo.location = (0, 0, 0)
     return ob
 
 
@@ -320,11 +369,15 @@ def sway(ob, path, index, amp, period_s, phase=0.0):
 
 # ─── Neve ───────────────────────────────────────────────────────────────────
 
-def snow(sc, depth, count=400, drift=1.0, size=0.06, name="Snow"):
-    """Flocos caindo numa faixa de profundidade: partículas de uma esfera branca sem luz."""
+def snow(sc, depth, count=400, drift=1.0, size=0.06, name="Snow", thickness=None):
+    """Flocos caindo numa faixa de profundidade: partículas de uma esfera branca sem luz.
+
+    `thickness` = espessura (m) da faixa em profundidade, centrada em `depth`.
+    Padrão: metade da largura do emissor (faixa larga, bom com câmera parada).
+    """
     w = frame_width_at(depth) * 1.6
     h = w * 0.7
-    emitter_me = _plane(name + "_emitter", w, w * 0.5)
+    emitter_me = _plane(name + "_emitter", w, thickness if thickness else w * 0.5)
     emitter = bpy.data.objects.new(name + "_emitter", emitter_me)
     sc.collection.objects.link(emitter)
     emitter.location = (0, CAM_Y + depth, h / 2 + 1)
@@ -352,10 +405,10 @@ def snow(sc, depth, count=400, drift=1.0, size=0.06, name="Snow"):
 
     mod = emitter.modifiers.new(name, "PARTICLE_SYSTEM")
     ps = mod.particle_system.settings
-    ps.count = count
-    ps.frame_start = -200                     # já está nevando no quadro 1
+    ps.count = int(count * 1.6)               # mesma densidade com a pré-rolagem mais longa
+    ps.frame_start = -480                     # já está nevando (e cheio) no quadro 1
     ps.frame_end = sc.frame_end
-    ps.lifetime = 400
+    ps.lifetime = 800
     ps.emit_from = "FACE"
     ps.normal_factor = 0
     ps.factor_random = 0.2

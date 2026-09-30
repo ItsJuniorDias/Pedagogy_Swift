@@ -130,7 +130,14 @@ def key_magenta(src: Path, dst: Path):
     # Distância à cor do fundo, com peso maior no desvio de matiz: sombra e
     # luz no próprio fundo mudam o brilho, não a cor.
     dist = np.sqrt(((rgb - bg) ** 2).sum(axis=-1))
-    alpha = np.clip((dist - 45) / (110 - 45), 0, 1)
+    alpha_dist = np.clip((dist - 45) / (110 - 45), 0, 1)
+    # Só a distância não basta: um cinza médio (a saia de Farmor) fica a ~105
+    # do magenta e virava semitransparente. Pixel sem cara de magenta — R e B
+    # pouco acima de G — é desenho, opaco, por mais perto que esteja em RGB.
+    m_all = np.minimum(r, b) - g
+    bg_m = max(float(min(bg[0], bg[2]) - bg[1]), 40.0)
+    alpha_hue = np.clip((0.75 * bg_m - m_all) / (0.45 * bg_m), 0, 1)
+    alpha = np.maximum(alpha_dist, alpha_hue)
     # Letterbox: linhas inteiras quase pretas coladas no topo ou na base somem.
     dark_row = rgb.max(axis=-1).mean(axis=1) < 25
     # +3 linhas de margem: a transição preto→magenta deixa um fio que o limiar
